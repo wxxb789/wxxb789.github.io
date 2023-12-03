@@ -1,0 +1,23 @@
+#+title: pl/csharp/Concurrency/ThreadStatic
+
+* Compare =ThreadStatic= with =ThreadLocal<T>=
+** =ThreadStatic=
+*** non generic, =static= is required
+*** dose not initialize all things for every thread
+(btw, it will be initialized if in first thread, but subsequent not)
+*** works with ~.net 3.5~ and below
+*** [[https://docs.microsoft.com/en-us/dotnet/api/system.threadstaticattribute][ThreadStaticAttribute Class]]
+
+#+BEGIN_QUOTE
+^^Remarks^^:
+Do not specify initial values for fields marked with ThreadStaticAttribute
+#+END_QUOTE
+*** don't have to change existing references you already have
+** =ThreadLocal<T>=
+*** generic
+*** support =Func= for initialization
+*** works for ~.net 4~ and above
+*** support =IDisposable= and force you to implement it
+*** =ThreadLocal<T>= is based on =ThreadStatic=
+[[https://source.dot.net/#System.Private.CoreLib/ThreadLocal.cs][ThreadLocal<T> source]]
+* Both works well with threads pool pattern.

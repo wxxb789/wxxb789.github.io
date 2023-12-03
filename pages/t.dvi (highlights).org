@@ -1,0 +1,11 @@
+:PROPERTIES:
+:title: t.dvi (highlights)
+:author: [[readwise.io]]
+:full-title: "t.dvi"
+:category: #articles
+:url: https://readwise.io/reader/document_raw_content/17342867
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-04]]
+** Purely Functional Data Structures ([View Highlight](https://read.readwise.io/read/01gnq9pt10qsr0jk0sy41cvht1))
+** Purely Functional Data Structures ([View Highlight](https://read.readwise.io/read/01gnq9q1ymc11vz666ze18p8cc))

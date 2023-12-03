@@ -1,0 +1,275 @@
+#+title: pl/fsharp/Fsharp in One File
+#+tags: fsharp
+
+* Pattern match
+
+#+BEGIN_SRC fsharp
+
+let analyzeString txt =                     // works for many types
+    match txt with
+    | "one" | "two" | "three" -> 1
+    | "a" | "b" | "c" | "d" -> 2
+    | "" -> 3
+    | _ -> 0
+
+let shortenVersion =                        // shorten version - valid only for one parameter function
+
+    function
+
+    | "one" | "two" | "three" -> 1
+    | "a" | "b" | "c" | "d" -> 2
+    | "" -> 3
+    | _ -> 0 
+#+END_SRC
+* Error Handling
+
+#+BEGIN_SRC fsharp
+
+let divide x y =
+
+    try
+
+        // exception with custom msg
+        if x < 0 then failwith "we don't accept negative values" 
+        
+        let result = x / y
+        result
+    with
+        | :? DivideByZeroException as ex -> // ':?' match subtype operator
+            printfn $"Catch of {ex.Message}"
+            0
+        | ex when ex.Message = "we don't accept negative values" -> // catch base exception with condition
+            raise (InvalidOperationException(ex.Message))           // raise throws any exception
+            0
+#+END_SRC
+* Define operator
+
+#+BEGIN_SRC fsharp
+
+let (<=>) a (min, max) =                    // we can define own operator!
+
+    a >= min && a <= max
+
+let isInRange = 2 <=> (1, 5)
+#+END_SRC
+* Pipeline and Composition
+pipeline: =|>=
+reverse pipeline: =<|=
+composition: =>>=
+* Partial Application
+
+#+BEGIN_SRC fsharp
+
+// Applying only some of arguments it's called Partial Application
+
+let take3args x y z =
+
+    x + y + z
+    
+let takenX = take3args 5
+let takenXAndY = takenX 4
+let takenAll = takenXAndY 6
+
+// it's often used for "functional dependency injection"
+
+type GenerateCode = string -> string        // this is a type alias. helps make function definitions more readable
+
+let createReservation                       // ORDER MATTERS - final input must be last
+    (codeGen: GenerateCode)                 // [dependency] this is code generation function
+    resExists                               // [dependency] check in db if reservation with same id exists
+    id                                      // [input]      final id parameter taken from an user
+    =
+    if resExists(id) then "not created"
+    else codeGen(id)
+    
+// ------------- during startup resolve dependencies -----------------------
+let codeGen (id: string) =
+    $"SPECIAL_CODE:{id.Length}"             // this is string interpolation
+    
+let reservationExists (id: string) =
+    id.Length > 10
+    
+let createReservationFinal =                // we bake-in dependencies
+    createReservation codeGen reservationExists
+// -------------------------------------------------------------------------
+
+// ------------- during handling user request ------------------------------
+let idFromApi = "my-id"
+let response = createReservationFinal idFromApi
+// -------------------------------------------------------------------------
+
+let multiply x y = x * y
+
+let subtract1AndMultiply5 =                 // we can easily prepare chain of operations 
+    subtract 1 >> multiply 2
+
+let subtractXAndMultiplyY x y =             // it's better to keep it parametrized
+    subtract x >> multiply y
+    
+let fancyVersion x y = (-) x >> (*) y
+
+let subtract2AndMultiply3 =
+    subtractXAndMultiplyY 2 3
+let shouldBeSix =
+    subtract2AndMultiply3 4
+#+END_SRC
+* Recursion
+
+#+BEGIN_SRC fsharp
+
+let rec functionalIter list =
+
+    match list with
+
+    | [] -> ()
+    | head::rest ->
+        printfn $"current head: {head}"
+        functionalIter rest                 // tail-recursion - it's safe, no stack overflow exception
+        //()                                // this would cause stack overflow cause there is extra work after
+                                            // execution of next iteration
+#+END_SRC
+* Sequence
+
+#+BEGIN_SRC fsharp
+
+let squaresAndCubes =                       // yield! returns a list instead of a single item
+
+    seq {                                   // it's like selectMany
+
+        yield! squares
+        yield! cubes
+    }
+#+END_SRC
+* Msp
+Immutable
+
+#+BEGIN_SRC fsharp
+
+let myMap =
+
+    Map.empty
+
+    |> Map.add "Bartosz" 5
+
+//myMap["Bartosz"] <- 3                     // but immutable
+
+let removed = Map.remove "Bartosz" myMap    // add|remove creates a new map with updated set
+#+END_SRC
+* Option
+
+#+BEGIN_SRC fsharp
+//type Option<'a> =                         // most used union - Option
+
+//    | Some of 'a
+
+//    | None
+
+let tryDivide x y =                         // much more safe + gives documentation for free
+    match y with
+    | 0 -> None
+    | _ -> Some (x / y)
+
+let multiplyIfEven x y =
+    match y % 2 with
+    | 0 -> Some <| x * y
+    | _ -> None
+
+tryDivide 5 3                               // we can easily build flow of optional calculations
+|> Option.map (fun result -> result * 5)
+|> Option.bind (fun result -> result |> multiplyIfEven 5)
+|> Option.filter (fun x -> x > 30)
+|> ignore
+
+option {                                    // (OUT OF SCOPE) more sexy version - read about computation expressions
+    let! result = tryDivide 5 3
+    let mapped = result * 5
+    return! multiplyIfEven 5 mapped
+} |> ignore
+#+END_SRC
+* Result
+
+#+BEGIN_SRC fsharp
+
+//type Result<'success, 'error> =           // another common union type. gives more info than option
+
+//    | Ok of 'success
+
+//    | Error of 'error
+    
+let tryDivideResult x y =                   // we can get some extra exception msg
+    match y with
+    | 0 -> Error "divided by zero"
+    | _ -> Ok (x / y)
+
+type TryDivideError =                       // but we can be more explicit and define potential errors with another union!
+    | DivideByZero
+
+let evenBetterTryDivide x y =
+    match y with
+    | 0 -> Error DivideByZero
+    | _ -> Ok <| x / y
+#+END_SRC
+* class
+
+
+#+BEGIN_SRC fsharp
+// CLASS
+
+type MyComplexClass(x: int) =               // class with primary constructor
+    member this.X = x                       // property
+    member val Y = "" with get, set         // property with get and set
+    member this.MyMth() =                   // method
+        this.Y <- "executed"
+    new () = new MyComplexClass(0)          // secondary constructor
+    interface IDisposable with              // implemented interface
+        member this.Dispose() = printfn "disposing"
+    
+let notEqual =                              // it DOES NOT support equality comparing
+    new MyComplexClass(5) = new MyComplexClass(5)
+let classObj = new MyComplexClass()
+(classObj :> IDisposable).Dispose()         // to call interface mth, we need use upcast operator
+#+END_SRC
+* Active Pattern
+
+#+BEGIN_SRC fsharp
+(* ACTIVE PATTERNS *)
+
+let (|Free|Cheap|Expensive|) input =        // we can create custom pattern matching rules
+    match input with                        // it makes code more clear
+    | x when x <= 0 -> Free
+    | x when x <= 10 -> Cheap
+    | _ -> Expensive
+    
+let isExpensiveThing thing =
+    match thing with
+    | Free -> "no"
+    | Cheap -> "no"
+    | Expensive -> "yes"
+
+let (|FLOOR|) (col : double) =              // single case
+     floor col |> int
+   
+let printFloored number =
+   match number with
+   | FLOOR f -> printfn $"Floored %i{f}"
+       
+let (|FIRST10CHARS|_|) (str: string) =      // partial active pattern
+    if str.Length >= 10
+    then Some <| str.Substring(0, 10)
+    else None
+    
+let (|NUMBER|_|) (str: string) =           
+    match Int32.TryParse str with
+    | true, i -> Some i
+    | _ -> None
+    
+let printChars txt =
+    match txt with
+    | FIRST10CHARS ch ->
+        match ch with
+        | NUMBER n -> printfn $"i am at least 10 chars number!: {n}"
+        | _ -> printfn $"i'm just a string!"
+    | _ -> printfn "no 10 chars"
+#+END_SRC
+*
+*

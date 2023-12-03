@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: Tweets From Harrison Chase (highlights)
+:END:
+:PROPERTIES:
+:author: [[hwchase17 on Twitter]]
+:full-title: "Tweets From Harrison Chase"
+:category: [[tweets]]
+:url: https://twitter.com/hwchase17
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023\-06\-23]]
+** 📃Document Comparison📃
+
+There are lots of ways to ask questions about a single document, but what about when you want to compare multiple?
+
+@pelaseyed added a great cookbook showing how to do that. Uses an agent and multiple retrieval qa chains!
+
+Docs: https://t.co/elvTfWO99r 
+
+![](https://pbs.twimg.com/media/FzFEcIKaQAIhHfB.jpg) ([View Tweet](https://twitter.com/hwchase17/status/1671192434381033472))

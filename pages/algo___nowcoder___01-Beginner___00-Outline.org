@@ -1,0 +1,53 @@
+* [00]Outline
+** 1. Chapter01
+
+
+1. 哈希函数与哈希表
+2. =RandomPool=
+3. 布隆过滤器
+4. 一致性哈希
+5. 岛问题
+6. 并查集
+** 2. Chapter02
+
+
+1. 平衡树
+2. AVL树
+3. SB树
+4. Skip List
+5. 红黑树
+** 3. Chapter03
+
+
+1. KMP
+2. Manacher
+** 4. Chapter04
+
+
+1. 滑动窗口
+2. 单调栈
+** 5. Chapter05
+
+
+1. Morris 遍历
+2. 树形 DP
+** 6. Chapter06
+
+
+1. 大数据题目
+** 7. Chapter07
+
+
+1. 暴力递归到动态规划
+** 8. Chapter08
+
+
+#+begin_quote
+  动态规划的技巧
+#+end_quote
+
+1. 空间压缩
+2. 四边形不等式
+3. 枚举过程的状态化简
+4. 复杂状态用位信息代替
+5. 用业务反推动态规划表的初始状态

@@ -1,0 +1,3 @@
+#+tags: papers,
+
+* [[../assets/Persistence_for_the_Masses_RRB-Vectors_in_a_Systems_Language_1652176710119_0.pdf][Persistence for the Masses RRB-Vectors in a Systems Language.pdf]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:title: How to Convert CSV File to TSV File in Linux (highlights)
+:END:
+:PROPERTIES:
+:author: [[Ravi Saive]]
+:full-title: "How to Convert CSV File to TSV File in Linux"
+:category: [[articles]]
+:url: https://www.tecmint.com/convert-csv-to-tsv/
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023\-06\-15]]
+** 3. Using csvkit Library
+
+The **csvkit** library provides a convenient and powerful [set of command\-line tools](https://www.tecmint.com/command\-line\-tools/) for working with CSV files in Linux. It offers an easy way to convert CSV files to TSV format. ([View Highlight](https://read.readwise.io/read/01h2z7j38dppqxn67m150mwzxk))
+** import csv csv_file = '**tecmint.csv**' tsv_file = '**tecmint.tsv**' with open(csv_file, 'r') as input_file, open(tsv_file, 'w') as output_file: csv_reader = csv.reader(input_file) tsv_writer = csv.writer(output_file, delimiter='\t') for row in csv_reader: tsv_writer.writerow(row) ([View Highlight](https://read.readwise.io/read/01h2z7kh6d8f0k1xfqtxmed2a9))

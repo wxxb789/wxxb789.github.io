@@ -1,0 +1,5 @@
+#+alias: sample code,
+
+* sample code
+* jupyter
+* kinda code snippet

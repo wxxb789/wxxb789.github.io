@@ -1,0 +1,164 @@
+#+title: pl/Rust/Concepts/Collections
+
+* 字符串
+Rust 核心只有一种字符串类型 =str= ，并且通常以借用的形式出现 =&str= 。
+从 Rust 的角度来讲，事实上有三种相关方式可以理解字符串：字节、标量值和字形簇。
+** =str=
+** =String= 由标准库提供
+=String= 是一个 =Vec<u8>= 的封装
+#+begin_src rust
+let mut s = String::new();
+
+let data = "initial contents";
+let s = data.to_string();
+// 该方法也可直接用于字符串字面量
+let s = "initial contents".to_string();
+
+let s = String::from("initial contents");
+
+// 可以方便的使用 + 运算符或 format! 宏来拼接 String 值。
+
+let s1 = String::from("Hello, ");
+let s2 = String::from("world!");
+
+// &String 可以被 =强转=（coerced）成 &str
+// =解引用强制转换= （deref coercion）的技术, 相当于 &s2[..]
+// 注意 s1 被移动了，不能继续使用, 因为 =+= 使用了 add 方法，获取了所有权
+// 实际上这个语句会获取 s1 的所有权，附加上从 s2 中拷贝的内容，并返回结果的所有权。
+// 换句话说，它看起来好像生成了很多拷贝，不过实际上并没有：这个实现比拷贝要更高效。
+let s3 = s1 + &s2;
+
+// format! 宏来处理字符串
+
+let s1 = String::from("tic");
+let s2 = String::from("tac");
+let s3 = String::from("toe");
+
+// format! 不会获取任何所有权
+let s = format!("{}-{}-{}", s1, s2, s3);
+
+let mut s = String::from("foo");
+s.push_str("bar");
+
+let mut s1 = String::from("foo");
+let s2 = "bar";
+s1.push_str(s2);
+println!("s2 is {}", s2);
+
+// index or iterate
+for c in "abcde".chars() {
+    println!("{}", c);
+}
+#+end_src
+
+#+RESULTS:
+: s2 is bar
+: a
+: b
+: c
+: d
+: e
+
+*** 可增长
+*** 可变
+*** 有所有权
+*** UTF-8 编码
+** =OsString=
+** =OsStr=
+** =CString=
+** =CStr=
+* vector
+=Vec<T>=
+
+#+begin_src rust
+// create
+let v: Vec<i32> = Vec::new();
+let v = vec![1, 2, 3];
+
+// add
+let mut v: Vec<i32> = Vec::new();
+// push method will borrow v as mutable
+v.push(4);
+
+// delete
+// 当 vector 被丢弃时，所有其内容也会被丢弃，这意味着这里它包含的整数将被清理。
+
+// read: get or index
+#![allow(unused)]
+fn main() {
+    let v = vec![1, 2, 3, 4, 5];
+
+    // 直接返回一个引用
+    // panic 如果未找到
+    let third: &i32 = &v[2];
+    println!("The third element is {}", third);
+
+    // get 方法返回一个 Option<&T>
+    match v.get(2) {
+        Some(third) => println!("The third element is {}", third),
+        None => println!("There is no third element."),
+    }
+}
+
+// pop 可以移除 v 的最后一个元素
+v.pop();
+#+end_src
+
+一旦程序获取了一个有效的引用，借用检查器将会执行所有权和借用规则（第 4 章讲到）来确保 vector 内容的这个引用和任何其他引用保持有效。
+
+为什么第一个元素的引用会关心 vector 结尾的变化？不能这么做的原因是由于 vector 的工作方式：在 vector 的结尾增加新元素时，在没有足够空间将所有所有元素依次相邻存放的情况下，可能会要求分配新内存并将老的元素拷贝到新的空间中。这时，第一个元素的引用就指向了被释放的内存。借用规则阻止程序陷入这种状况。
+* 使用枚举可以绕过 Vec 只可以存储相同类型的限制
+Rust 在编译时就必须准确的知道 vector 中类型的原因在于它需要知道储存每个元素到底需要多少内存。第二个好处是可以准确的知道这个 vector 中允许什么类型。
+
+如果在编写程序时不能确切无遗地知道运行时会储存进 vector 的所有类型，枚举技术就行不通了。相反，你可以使用 trait 对象
+* map
+type: =HashMap<K, V>=
+
+#+begin_src rust
+use std::collections::HashMap;
+
+// 1
+let mut scores = HashMap::new();
+scores.insert(String::from("Blue"), 10);
+scores.insert(String::from("Yellow"), 50);
+
+// 2
+let teams  = vec![String::from("Blue"), String::from("Yellow")];
+let initial_scores = vec![10, 50];
+let scores: HashMap<_, _> = teams.iter()
+                                 .zip(initial_scores.iter())
+                                 .collect();
+// 3
+let mut scores = HashMap::new();
+scores.insert(String::from("Blue"), 10);
+// overwrite
+scores.insert(String::from("Blue"), 25);
+scores.insert(String::from("Yellow"), 50);
+
+let team_name = String::from("Blue");
+let score = scores.get(&team_name);
+
+// 4
+for (key, value) in &scores {
+    println!("{}: {}", key, value);
+}
+
+// 5
+// insert if not exist
+scores.entry(String::from("Blue")).or_insert(50);
+
+// 6
+
+let text = "hello world wonderful world";
+let mut map = HashMap::new();
+for word in text.split_whitespace() {
+    // entry 方法返回可变引用，在 key 存在的时候
+    let count = map.entry(word).or_insert(0);
+    *count += 1;
+}
+
+println!("{:?}", map);
+
+#+end_src
+** 对于像 =i32= 这样的实现了 =Copy= trait 的类型，其值可以拷贝进哈希 map。对于像 String 这样拥有所有权的值，其值将被移动而哈希 map 会成为这些值的所有者
+** 你可以指定一个不同的 hasher 来切换为其它函数。hasher 是一个实现了 BuildHasher trait 的类型。

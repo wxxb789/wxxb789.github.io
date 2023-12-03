@@ -1,0 +1,15 @@
+#+title: Kubernetes/Api Server
+
+* TODO Kubernetes Api Server 概念
+Api Server 是Kubernetes 集群中唯一和 etcd 通信的组件。
+Api Server 本身是一个 Rest Api Server, 自身没有业务逻辑。
+* Api Server 主要功能
+** 认证
+** 鉴权
+** 准入
+*** Mutating
+*** Validating
+*** Admission
+
+** 限流
+* Api Server 对象的实现

@@ -1,0 +1,4 @@
+#+title: book/Entity Framework Core in Action
+
+* [[../assets/Entity_Framework_Core_in_Action_2nd_1652958993187_0.pdf][Entity Framework Core in Action 2nd.pdf]]
+*

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: 小Lin说，分享的快速学习一个领域还蛮有参考价值... (highlights)
+:author: [[balconychy on Twitter]]
+:full-title: "小Lin说，分享的快速学习一个领域还蛮有参考价值..."
+:category: #tweets
+:url: https://twitter.com/balconychy/status/1649019527257260032
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-21]]
+** 小Lin说，分享的快速学习一个领域还蛮有参考价值的，看了两遍之后总结一下，提醒自己。要点：
+--框架和结构优先
+--使用Why,问最直觉的问题
+--找第一手信息
+--不要深陷细节，框架第一
+--不要把自己当爱因斯坦，啥都自己造
+具体解释如下：https://t.co/wkXHl37RWP ([View Tweet](https://twitter.com/balconychy/status/1649019527257260032))
+** 要做的
+--框架和结构优先
+细节都是支线，关键是别人思考背后的框架，细节都可以在之后补充。框架真是一个非常好的东西，他能让你在没有思路时有思路，可谓思考界的脚手架。 ([View Tweet](https://twitter.com/balconychy/status/1649019530059091969))
+** --使用Why,问最直觉的问题
+越接近自己直觉的问题越容易理解，不要被文章或书的框架牵着走。在ChatGPT的时代，有概念问题可以直接问ChatGPT。 ([View Tweet](https://twitter.com/balconychy/status/1649019535029313536))
+** --找第一手信息
+越靠近第一手信息越牢靠，并且要按照自己的框架去批判性吸收。
+找结果性的信息（主播举例：股票，GDP），情绪性事件多如流毛。这个用在观察新技术挺好，等他一个月如果大家还在讨论，那这个技术就比较靠谱。 ([View Tweet](https://twitter.com/balconychy/status/1649019537411698688))
+** 不要做的
+--不要把自己当爱因斯坦，啥都自己造。很多都已经有了。
+这似乎与保持创造相矛盾，答案是：不要重复造轮子（学习和练习除外），站在巨人的肩膀上。人的精力有限，把你的精力放在有价值的有创造的薄薄的一层就好了。 ([View Tweet](https://twitter.com/balconychy/status/1649019539877945345))
+** --不要深陷细节，框架第一
+这个是我的毛病，太过关注细节而浪费不少时间，再次提醒自己，框架优先分层思考。 ([View Tweet](https://twitter.com/balconychy/status/1649019542881058818))

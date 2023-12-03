@@ -1,0 +1,12 @@
+:PROPERTIES:
+:title: 开源！从第一天起我们就志在要代表中国团队做一个像... (highlights)
+:author: [[goocarlos on Twitter]]
+:full-title: "开源！从第一天起我们就志在要代表中国团队做一个像..."
+:category: [[tweets]]
+:url: https://twitter.com/goocarlos/status/1657913779898978304
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-15]]
+** 开源！从第一天起我们就志在要代表中国团队做一个像 Docker、Stripe 那样的世界级产品，一个大模型能力上的 OS。虽然过去八周我们没日没夜才做出产品现在的样子，但即使要推倒重来我们也做好了准备，所以开源我们毫不犹豫。Dify 要在开源中学习、成长。
+
+开源只是 Dify 的一小步，但这是全球开发者解锁… ([View Tweet](https://twitter.com/goocarlos/status/1657913779898978304))

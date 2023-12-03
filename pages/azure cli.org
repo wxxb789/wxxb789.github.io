@@ -1,0 +1,8 @@
+#+tags: azure, cli
+
+* china azure cloud
+#+BEGIN_SRC ps1
+az cloud set -n AzureChinaCloud
+#+END_SRC
+[[https://docs.azure.cn/zh-cn/articles/guidance/developerdifferences][中国区 Azure 开发人员指南 | Azure Docs]]
+*

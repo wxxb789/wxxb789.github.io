@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: Do You Ever Need to Redi... (highlights)
+:author: [[@driscollis on Twitter]]
+:full-title: "Do You Ever Need to Redi..."
+:category: #tweets
+:url: https://twitter.com/driscollis/status/1605369198590443521
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-21]]
+** Do you ever need to redirect stdout with #Python?
+
+In this mini-thread, I will show you 3️⃣ different methods to redirect stdout!
+
+🧵🐍👇 ([View Tweet](https://twitter.com/driscollis/status/1605369198590443521))
+** 1️⃣ Re-assign `sys.stdout` to a file handle
+
+In this example, you open a file and reassign `sys.stdout` to that file handle. 
+
+Now when you call the `print()` function, it writes to a file instead of stdout!
+
+Don't forget to revert your changes at the end! 
+
+![](https://pbs.twimg.com/media/FkdqxBdXoAIymJc.jpg) ([View Tweet](https://twitter.com/driscollis/status/1605369203166482435))
+** 2️⃣ Use a context manager!
+
+Here you use `contextlib.contextmanager` to automatically redirect stdout and then revert the redirection.
+
+This is a nice way to decorate functions that you want to write to a file without modifying all of them. 
+
+![](https://pbs.twimg.com/media/FkdqxY3X0AA3VaQ.jpg) ([View Tweet](https://twitter.com/driscollis/status/1605369207813808128))
+** 3️⃣ #Python's `contextlib` module comes with a `redirect_stdout` function context manager built-in 🐍🔥
+
+Here's how you can use it to simplify your code even further! 
+
+![](https://pbs.twimg.com/media/FkdqxuxWIAc8fPM.jpg) ([View Tweet](https://twitter.com/driscollis/status/1605369212775665664))
+** Thanks for checking out my mini-thread on redirecting stdout with #Python.
+
+Follow me for more great tips on tutorials on Python! ([View Tweet](https://twitter.com/driscollis/status/1605369218639314946))

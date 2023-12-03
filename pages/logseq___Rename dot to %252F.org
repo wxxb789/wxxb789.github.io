@@ -1,0 +1,8 @@
+#+title: logseq/Rename dot to %2F
+
+* #+BEGIN_QUOTE
+find the dot in file name which does not have %2F
+~(.*)(?<!%2F)\.(.*)~
+replace dot with %2F and keep left and right part contents
+~$1%2F$2~
+#+END_QUOTE

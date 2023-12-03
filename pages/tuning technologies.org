@@ -1,0 +1,14 @@
+* [[../assets/image_1679760167519_0.png]]
+* [[../assets/image_1679760209230_0.png]]
+* tuning 是为了让模型更好的处理下游任务
+** 需要更新基础的预训练模型参数
+** 不需要参数更新
+* in-context learning
+** zero-shot learning
+给相关信息，但是没有样例
+** few-shot learning
+给少量样例到模型
+* [[../assets/image_1679761218830_0.png]]
+* [[../assets/image_1679761237973_0.png]]
+*
+*

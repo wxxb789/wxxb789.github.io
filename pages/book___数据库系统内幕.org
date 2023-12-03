@@ -1,0 +1,5 @@
+#+tags: db,
+
+* [[https://book.douban.com/subject/35078474/][数据库系统内幕 (豆瓣) (douban.com)]]
+* [[https://book.douban.com/subject/33387077/][Database Internals (豆瓣) (douban.com)]]
+*

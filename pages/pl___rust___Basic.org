@@ -1,0 +1,275 @@
+* Basic
+
+#+begin_example
+  fn main() {
+      println!("你好，🦀");
+  }
+#+end_example
+* Variable
+:PROPERTIES:
+:id: variable
+  
+:END:
+变量命名遵循 =snake_case=
+
+使用=let=生命变量，在大部分情况可以自动推断变量类型。
+
+=let=: immutable =let mut=: mutable
+
+#+begin_example
+  fn main() {
+      // rust 推断出x的类型
+      let x = 13;
+      println!("{}", x);
+
+      // rust也可以显式声明类型
+      let x: f64 = 3.14159;
+      println!("{}", x);
+
+      // rust 也支持先声明后初始化，但很少这样做
+      let x;
+      x = 0;
+      println!("{}", x);
+
+      let mut x = 42;
+      println!("{}", x);
+      x = 13;
+      println!("{}", x);
+  }
+#+end_example
+** Basic Data Type
+
+
+1. =bool=
+2. =u8=, =u32=, =u64=, =u128=
+3. =i8=, =i32=, =i64=, =i128=
+4. =usize=, =isize=
+5. =f32=, =f64=
+6. =tuple=: =(value, value,...)=
+7. =array=
+8. =slice=
+9. =str=: string slice
+** type cast
+
+=as=
+
+#+begin_example
+  fn main() {
+      let a = 13u8;
+      let b = 7u32;
+      let c = a as u32 + b;
+      println!("{}", c);
+
+      let t = true;
+      println!("{}", t as u8);
+  }
+#+end_example
+** constant
+
+naming: screaming_snake_case
+
+#+begin_example
+  const pi: f32 = 3.14159;
+
+  fn main() {
+      println!(
+          "to make an apple {} from scratch, you must first create a universe.",
+          pi
+      );
+  }
+#+end_example
+** array
+
+type of array: [t;n]
+
+使用=[x]=检索单个元素，其中=x=是元素的=usize=索引。
+
+#+begin_example
+  fn main() {
+      let nums: [i32; 3] = [1, 2, 3];
+      println!("{:?}", nums);
+      println!("{}", nums[1]);
+  }
+#+end_example
+* Data Type
+
+** =struct=
+
+#+begin_example
+  // 决定了内存布局
+  struct SeaCreature {
+      // String 是个结构体
+      animal_type: String,
+      name: String,
+      arms: i32,
+      legs: i32,
+      weapon: String,
+  }
+#+end_example
+** Tuplue-like Structs
+
+** Unit-like Stucts
+
+** Enumerations
+
+*** Enumerations With Data
+
+* Method
+
+与函数（function）不同，方法（method）是与特定数据类型关联的函数。
+
+=静态方法= --- 属于某个类型，调用时使用 :: 运算符。
+
+=实例方法= --- 属于某个类型的实例，调用时使用 . 运算符。
+
+#+begin_example
+  fn main() {
+      // 使用静态方法来创建一个String实例
+      let s = String::from("Hello world!");
+      // 使用实例来调用方法
+      println!("{} is {} characters long.", s, s.len());
+  }
+#+end_example
+* Function
+:PROPERTIES:
+:id: function
+  
+:END:
+naming: =snake_case=
+
+#+begin_example
+  fn add(x: i32, y: i32) -> i32 {
+      return x + y;
+  }
+
+  // return multiple value
+  fn swap(x: i32, y: i32) -> (i32, i32) {
+      return (y, x);
+  }
+
+  // no return
+  fn make_nothing() -> () {
+      return ();
+  }
+
+  // 返回类型隐含为 ()
+  fn make_nothing2() {
+      // 如果没有指定返回值，这个函数将会返回 ()
+  }
+#+end_example
+* Control Flow
+
+#+begin_example
+  // if/else
+  if x < 42 {
+      println!("less than 42");
+  } else if x == 42 {
+      println!("is 42");
+  } else {
+      println!("greater than 42");
+  }
+
+  // infinite loop
+  loop {
+      x += 1;
+      if x == 42 {
+          break;
+      }
+  }
+
+  // while loop
+  while x != 42 {
+      x += 1;
+  }
+
+  // for loop
+  // .. left close, right open
+  for x in 0..5 {
+      println!("{}", x);
+  }
+  // ..= left close, right open
+  for x in 0..=5 {
+      println!("{}", x);
+  }
+
+  // loop could return a vlaue while break
+  let mut x = 0;
+  let v = loop {
+      x += 1;
+      if x == 13 {
+          break "found the 13";
+      }
+  };
+
+  // pattern match
+  match x {
+      0 => {
+          println!("found zero");
+      }
+      // 我们可以匹配多个值
+      1 | 2 => {
+          println!("found 1 or 2!");
+      }
+      // 我们可以匹配迭代器
+      3..=9 => {
+          println!("found a number 3 to 9 inclusively");
+      }
+      // 我们可以将匹配数值绑定到变量
+      matched_num @ 10..=100 => {
+          println!("found {} number between 10 to 100!", matched_num);
+      }
+      // 这是默认匹配，如果没有处理所有情况，则必须存在该匹配
+      _ => {
+          println!("found something else!");
+      }
+  }
+
+  // expression is every where
+  // 如果 if、match、函数或作用域块中的最后一条语句是不带 ; 的表达式， Rust 将把它作为一个值从块中返回。这是一种创建简洁逻辑的好方法，它返回一个 可以放入新变量的值。
+
+  // 注意，它还允许 if 语句像简洁的三元表达式一样操作。
+  fn example() -> i32 {
+      let x = 42;
+      // Rust的三元表达式
+      let v = if x < 42 { -1 } else { 1 };
+      println!("from if: {}", v);
+
+      let food = "hamburger";
+      let result = match food {
+          "hotdog" => "is hotdog",
+          // 注意，当它只是一个返回表达式时，大括号是可选的
+          _ => "is not hotdog",
+      };
+      println!("identifying food: {}", result);
+
+      let v = {
+          // 这个作用域块让我们得到一个不影响函数作用域的结果
+          let a = 1;
+          let b = 2;
+          a + b
+      };
+      println!("from block: {}", v);
+
+      // 在最后从函数中返回值的惯用方法
+      v + 4
+  }
+#+end_example
+* Memory
+:PROPERTIES:
+:id: memory
+  
+:END:
+Rust 程序有 3 个存放数据的内存区域：
+
+1. =数据内存= 
+   对于固定大小和静态（即在整个程序声明周期中都存在）的数据。
+   考虑一下程序中的文本（例如 "Hello
+   World"），该文本的字节只能读取，因此它们位于该区域中。
+   编译器对这类数据做了很多优化，由于位置已知且固定，因此通常认为编译器使用起来非常快。
+2. =栈内存= 对于在函数中声明为变量的数据。
+   在函数调用期间，内存的位置不会改变，因为编译器可以优化代码，所以栈数据使用起来非常快。
+3. =堆内存= 对于在程序运行时创建的数据。
+   此区域中的数据可以添加、移动、删除、调整大小等。由于它的动态特性，通常认为它使用起来比较慢，
+   但是它允许更多创造性的内存使用。当数据添加到该区域时，我们称其为分配。
+   从本区域中删除 数据后，我们将其称为释放。
+** Creating Data in Memory

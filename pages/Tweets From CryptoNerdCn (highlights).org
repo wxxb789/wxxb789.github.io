@@ -1,0 +1,13 @@
+:PROPERTIES:
+:title: Tweets From CryptoNerdCn (highlights)
+:author: [[cryptonerdcn on Twitter]]
+:full-title: "Tweets From CryptoNerdCn"
+:category: #tweets
+:url: https://twitter.com/cryptonerdcn
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-02]]
+** 如何免费使用GPT-4？
+很多朋友因为各种限制无法开通#ChatGPT Plus，而申请OpenAI的GPT-4 API也要慢慢排队（我的也还没下来）。于是在这里我搜集了5个可以免费使用的方法。
+注：哪有什么真正免费，只不过有人在替你付钱。因此下述的方法都有限制，也有些可能会很快失效。新方法随时更新。
+#GPT4 ([View Tweet](https://twitter.com/cryptonerdcn/status/1641651625298391041))

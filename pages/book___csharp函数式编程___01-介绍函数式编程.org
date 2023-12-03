@@ -1,0 +1,48 @@
+* 函数作为第一类值
+** =Func<T1, T2, ... ,TResult>=
+** =Aciton<T1, T2, ...>=
+** =delegate=
+** =lambda=
+** =Dictionary= 可以将字典视为函数
+* =LINQ=
+** =IEnumerables=
+** =IQueryables=
+* 高阶函数 Higher-Order Function HOF
+** =Where=
+#+BEGIN_SRC csharp
+public static IEnumerable<T> Where<T>(this IEnumerable<T> ts, Func<T, bool> predicate)
+{
+    foreach (T t in ts)
+    {
+        if (predicate(t)) yield return t;
+    }
+}
+#+END_SRC
+** 适配器函数
+*** 改变参数顺序
+
+#+BEGIN_SRC csharp
+static Func<T2, T1, R> SwapArgs<T1, T2, R>(this Func<T1, T2, R> f)
+    => (t2, t1) => f(t1, t2)
+#+END_SRC
+** 避免重复
+*** Ex1
+#+begin_src csharp
+public static class ConnectionHelper
+{
+    public static R Connect<R>(string connString, Func<IDbConnectiong, R> f)
+    {
+        using var conn = new Sqlconnection(connString);
+        conn.Open();
+        return f(conn);
+    }
+}
+#+end_src
+*** 用来替代 =using= 语句的 =HOF=
+#+begin_src csharp
+public static R Using<TDispose, R>(TDispose disposable, Func<TDispose, R> f)
+    where TDispose : IDisposable
+{
+    using (disposable) return f(disposable);
+}
+#+end_src

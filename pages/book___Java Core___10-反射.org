@@ -1,0 +1,9 @@
+* 10-反射
+* 获取Class的方法
+** 1. 基本类型
+*** =<基本类型>.class= : =int.class=
+*** =<包装器类型>.TYPE= : =Integer.TYPE=
+** 2. 引用类型
+*** =<引用类型>.class= : =String.class=
+*** =obj.getClss();=
+*** =Cass.forName();=

@@ -1,0 +1,96 @@
+* Advanced
+* Search
+* DP
+* Graph
+* Tree
+* Binary Search
+* BST
+* HashTable
+* Greedy
+* Two Pointers
+* List
+* Recursion
+* Divide and Conquer
+* Bitwise
+* Backtracking
+* Math
+* Segment Tree
+* Simulation
+
+* Enumerate
+* Simulate
+* Recursion
+* Greedy
+* Prefix Sum
+* Adjacent Difference
+* Binary
+* Binary Lifting
+* Divide and Conquer
+* Sorting
+* Searching
+* Dynamic Programming
+
+* String
+** Matching
+** Hash
+** Trie
+** KMP
+** Boyer-Moore
+** Z-Function
+** Automaton
+*** AC Automaton
+*** Suffix Array
+*** Suffix Automaton
+*** General SAM
+** Suffix Tree
+** Manacher
+** Palindromic Tree
+** Sequence Automaton
+** Minimal String
+** Lyndon 分解
+*** Duval 算法
+* Data Structure
+** Stack
+** Queue
+** Linked List
+** Hash
+** Disjoint Set Union
+** Heap
+*** Binary Heap
+*** Pairing Heap
+*** Leftist Tree
+** Block
+*** Sqrt Tree
+** Monotonous Stack
+** Monotonous Queue
+** Sparse Table
+** Fenwick
+** Segment Tree
+** Li-Chao-Tree
+** Segment Beats
+** 区间最值操作 and 区间历史最值
+** 划分树
+** Persistent Data Structure
+*** 主席树 (可持久化权值线段树)
+*** 可持久化线段树
+*** 可持久化块状数组
+*** 可持久化平衡树
+*** 可持久化字典树
+*** 可持久化可并堆
+** 搜索树 and 平衡树
+*** Treap
+*** Splay
+*** WBLT (Weight Balanced Leafy Tree)
+*** AVL
+*** 替罪羊树
+*** 笛卡尔树
+*** 左偏红黑树
+** Skip List
+** 树套树
+** K-D Tree
+** 珂朵莉树
+** 动态树
+*** Link Cut Tree
+*** Euler Tour Tree
+*** Top Tree
+** 析合树

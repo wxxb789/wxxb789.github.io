@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: Tweets From Geoffrey De Smet (highlights)
+:author: [[@GeoffreyDeSmet on Twitter]]
+:full-title: "Tweets From Geoffrey De Smet"
+:category: #tweets
+:url: https://twitter.com/GeoffreyDeSmet
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** Most @java programmers only use 10% of their... debugger.
+
+Use the full power of your debugger with advanced breakpoints.
+
+Diagnose complex bugs in minutes, instead of hours.
+
+Test your debugger skills with 4 challenges in this thread. Works with @intellijidea and other IDEs. 🧵 ([View Tweet](https://twitter.com/GeoffreyDeSmet/status/1577262981427392514))

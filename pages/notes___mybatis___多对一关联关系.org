@@ -1,0 +1,50 @@
+#+tags: java, orm,
+
+* 多对一关联关系
+** 获取一方对象策略
+*** 分布式
+**** select
+**** fetchType
+*** join式
+** 关联属性的标签是 =association=
+*** 分布式获取关联对象
+#+begin_example
+<select id="selectAll" resultMap="BookResultMap">
+  select id,title,author,isbn,category_id from book;
+</select>
+<resultMap id="BaseResultMap" type="entity.Book">
+  <id column="id" property="id" jdbcType="INTEGER" />
+  <result column="title" property="title" jdbcType="VARCHAR" />
+  <result column="author" property="author" jdbcType="VARCHAR" />
+  <result column="isbn" property="isbn" jdbcType="VARCHAR" />
+  <result column="category_id" property="categoryId" jdbcType="INTEGER" />
+</resultMap>
+<resultMap type="Book" id="BookResultMap" extends="BaseResultMap">
+  <association property="category"
+  javaType="Category"
+  column="category_id"
+  select="dao.CategoryMapper.selectByPrimaryKey"
+  fetchType="eager">
+  </association>
+</resultMap>
+#+end_example
+* ~select="dao.CategoryMapper.selectByPrimaryKey"~ 调用当前类所关联的类的查询方法，以补全查询信息，做到联查
+** 一次性获取关联对象
+#+begin_example
+<resultMap type="Book" id="BookResultMap2" extends="BaseResultMap">
+  <association property="category" javaType="Category" column="category_id">
+    <id column="catId" property="id"/>
+    <result column="name" property="name"/>
+  </association>
+</resultMap>
+<select id="selectAll2" resultMap="BookResultMap2">
+  select b.id,
+  b.title,
+  b.author,
+  b.isbn,
+  c.id as catId,
+  c.name
+  from book b left join category c
+  on b.category_id = c.id
+</select>
+#+end_example

@@ -1,0 +1,641 @@
+* [06]
+** 1. 图的表示方法
+*** 1.1. 邻接表
+
+
+#+begin_quote
+  类似于单链表（有向图） a->b[17]->c[7]
+
+  b->c[12]->d[6]
+
+  c->d[5]
+
+  d:null
+#+end_quote
+*** 1.2. 邻接矩阵
+
+
+#+begin_quote
+  （有向图）没有直接到达的边用正无穷表示。
+#+end_quote
+
+| 节点\节点 | a        | b        | c        | d        |
+|-----------+----------+----------+----------+----------|
+| a         | 0        | 17       | 7        | $\infty$ |
+| b         | $\infty$ | 0        | 12       | 6        |
+| c         | $\infty$ | $\infty$ | 0        | 5        |
+| d         | $\infty$ | $\infty$ | $\infty$ | 0        |
+*** 数组表示图
+
+
+#+begin_quote
+  （并查集）使用数组下标表示节点，值代表指向的节点。
+#+end_quote
+*** 表示图的结构（例子）
+
+#+begin_src java
+  public class Node {
+    public int value; // 自己的值
+    // 对于无向图而言，节点的入度等于出度
+    public int in; // 有多少个节点指向当前这个节点
+    public int out; // 当前节点向外指向了多少给节点
+    // 邻居节点
+    public ArrayList<Node> nexts;
+    // 邻边
+    public ArrayList<Edge> edges;
+
+    public Node(int value) {
+      this.value = value;
+      in = 0;
+      out = 0;
+      nexts = new ArrayList<>();
+      edges = new ArrayList<>();
+    }
+  }
+
+  public class Edge {
+    public int weight;
+    public Node from;
+    public Node to;
+
+    public Edge(int weight, Node from, Node to) {
+      this.weight = weight;
+      this.from = from;
+      this.to = to;
+    }
+  }
+
+  public class Graph { // 图=点集+边集
+    public HashMap<Integer,Node> nodes;
+    public HashSet<Edge> edges;
+
+    public Graph() {
+      nodes = new HashMap<>();
+      edges = new HashSet<>();
+    }
+  }
+#+end_src
+*** 1.3. 生成图
+
+#+begin_src java
+  // matrix 所有的边
+  // N*3的矩阵
+  // [weight,from节点上面的值，to节点上面的值]
+  public static Graph createGraph(Integer[][] matrix) {
+    Graph graph = new Graph();
+    for (int i = 0; i < matrix.length; i++) {
+      Integer weight = matrix[i][0];
+      Integer from = matrix[i][1];
+      Integer to = matrix[i][2];
+      if (!graph.nodes.containsKey(from)) {
+        graph.nodes.put(from, new Node(from));
+      }
+      if (!graph.nodes.containsKey(to)) {
+        graph.nodes.put(to, new Node(to));
+      }
+      Node fromNode = graph.nodes.get(from);
+      Node toNode = graph.nodes.get(to);
+      Edge newEdge = new Edge(weight, fromNode, toNode);
+      fromNode.nexts.add(toNode);
+      fromNode.out++;
+      toNode.in++;
+      fromNode.edges.add(newEdge);
+      graph.edges.add(newEdge);
+    }
+    return graph;
+  }
+#+end_src
+** 2. 图的遍历
+*** 2.1. 图的宽度优先遍历
+
+
+1. 利用队列实现
+2. 从源节点开始依次按照宽度进队列. 然后弹出
+3. 每弹出一个点. 把该节点所有没有进过队列的邻接点放入队列
+4. 直到队列变空
+
+#+begin_src java
+  // 宽度优先用队列
+  // 从node出发，进行宽度优先遍历
+  public static void bfs(Node node) {
+    if (node == null) {
+      return;
+    }
+    Queue<Node> queue = new LinkedList<>();
+    HashSet<Node> map = new HashSet<>();
+    queue.add(node);
+    map.add(node);
+    while (!queue.isEmpty()) {
+      Node cur = queue.poll();
+      System.out.println(cur.value);
+      for (Node next : cur.nexts) {
+        // 防止重复注册
+        if (!map.contains(next)) {
+          map.add(next);
+          queue.add(next);
+        }
+      }
+    }
+  }
+#+end_src
+*** 2.2. 图的广度优先遍历
+
+
+1. 利用栈实现
+2. 从源节点开始把节点按照深度放入栈. 然后弹出
+3. 每弹出一个点. 把该节点下一个没有进过栈的邻接点放入栈
+4. 直到栈变空
+
+#+begin_src java
+  public static void dfs(Node node) {
+    if (node == null) {
+      return;
+    }
+    Stack<Node> stack = new Stack<>();
+    // 记录一个节点是否进过栈
+    HashSet<Node> set = new HashSet<>();
+    stack.add(node);
+    set.add(node);
+    // 进栈的时候打印（出栈就不打印了）
+    System.out.println(node.value);
+    while (!stack.isEmpty()) {
+      Node cur = stack.pop();
+      for (Node next : cur.nexts) {
+        if (!set.contains(next)) {
+          stack.push(cur);
+          stack.push(next);
+          set.add(next);
+          System.out.println(next.value);
+          break;
+        }
+      }
+    }
+  }
+#+end_src
+** 3. 拓扑排序算法
+
+
+#+begin_quote
+  适用范围：要求有向图. 且有入度为 0 的节点. 且没有环
+
+  拓扑排序不能有环，对于无向图而言，=A--B=，可以看成是=A<-->B=，就等于是有了环。
+
+  流程：入度为零的节点排在最前面，接着把入度为零的节点以及相临的边去除，去除后在剩下的点集中找入度为零的节点，就第二段位置。然后依此类推。
+#+end_quote
+
+#+begin_src java
+  public static List<Node> sortedTopology(Graph graph) {
+    HashMap<Node, Integer> inMap = new HashMap<>(); // 入度表
+    Queue<Node> zeroInQueue = new LinkedList<>(); // 入度为零的点入队列
+    for (Node node : graph.nodes.values()) { // 遍历所有的点
+      inMap.put(node, node.in); // 建立入度表
+      if (node.in == 0) {
+        zeroInQueue.add(node);
+      }
+    }
+    List<Node> result = new ArrayList<>();
+    while (!zeroInQueue.isEmpty()) {
+      Node cur = zeroInQueue.poll();
+      result.add(cur);
+      for (Node next : cur.nexts) {
+        // 去除入度为零的点，于时，配去除的点的邻居点的入度值也要减一
+        inMap.put(next, inMap.get(next) - 1);
+        if (inMap.get(next) == 0) { // 处理后看一下，入度是否为零，为零的话进入队列
+          zeroInQueue.add(next);
+        }
+      }
+    }
+    return result;
+  }
+#+end_src
+** 并查集
+
+
+#+begin_quote
+  解决连通性问题
+#+end_quote
+*** 使用=Set=的直观实现
+
+#+begin_src java
+  public class MySets<V>{
+    public HashMap<V, HashSet<V>> setMap;
+    public MySets(List<V> values){
+      setMap = new HashMap<>();
+      for(V value : values){
+        HashSet<V> set = new HashSet<>();
+        set.add(value);
+        setMap.put(value,set);
+      }
+    }
+    public boolean isSameSet(V a, V b){
+      if(!setMap.containsKey(a) || !setMap.containsKey(b)){
+        return false;
+      }
+      Set<V> aSet = setMap.get(a);
+      Set<V> bSet = setMap.get(b);
+      return aSet == bSet; // 地址比较
+    }
+    public void union(V a, V b){
+      if(!setMap.containsKey(a) || !setMap.containsKey(b)){
+        throw new RuntimeException();
+      }
+      Set<V> aSet = setMap.get(a);
+      Set<V> bSet = setMap.get(b);
+
+      for(V value : bSet){ // 低效的部分
+        aSet.add(value);
+      }
+      for(V value : aSet){ // 低效的部分
+        setMap.put(value, aSet);
+      }
+    }
+  }
+#+end_src
+*** 并查集实现
+
+复杂度：如果有$N$个节点，且=isSameSet=方法和=union=方法加起来逼近$O(N)$规模，那么平均状况下时间复杂度是$O(1)$级别的$O(\alpha(N))$。
+
+#+begin_src java
+  // Union-Find Set,Undirected graph only
+  public static class UnionFind {
+    // key：某个节点，value：key节点往上的节点
+    private HashMap<Node, Node> fatherMap;
+    // key：某个集合的代表节点，value：key所在集合的节点个数
+    private HashMap<Node, Integer> rankMap;
+
+    public UnionFind() {
+      fatherMap = new HashMap<Node, Node>();
+      rankMap = new HashMap<Node, Integer>();
+    }
+    // 返回节点n的代表节点
+    private Node findFather(Node n) {
+      Node father = fatherMap.get(n);
+      if (father != n) {
+        father = findFather(father);
+      }
+      fatherMap.put(n, father);
+      return father;
+    }
+    // 优化：执行查找的时候拍平，
+    private Node findFatherOptimize(Node n) {
+      Stack<Node> path = new Stack<>(); // 记录查找路径上的节点
+      while(n != fatherMap.get(n)){
+        n = fatherMap.get(n);
+        path.add(n)
+      }
+      while(!path.isEmpty()){
+        fatherMap.put(path.pop(),n); // 直接指向代表节点
+      }
+      return n;
+    }
+    // 一开始初始化，处理所有节点，每个节点独立成为一个集合
+    public void makeSets(Collection<Node> nodes) {
+      fatherMap.clear();
+      rankMap.clear();
+      for (Node node : nodes) {
+        fatherMap.put(node, node);
+        rankMap.put(node, 1);
+      }
+    }
+
+    public boolean isSameSet(Node a, Node b) {
+      return findFather(a) == findFather(b);
+    }
+
+    public void union(Node a, Node b) {
+      if (a == null || b == null) {
+        return;
+      }
+      // a的代表节点
+      Node aFather = findFather(a);
+      // b的代表节点
+      Node bFather = findFather(b);
+      if (aFather != bFather) {
+        int aFrank = rankMap.get(aFather);
+        int bFrank = rankMap.get(bFather);
+        if (aFrank <= bFrank) {
+          fatherMap.put(aFather, bFather);
+          rankMap.put(bFather, aFrank + bFrank);
+          rankMap.remove(aFather); // 因为a不再是代表节点，可以不删
+        } else {
+          fatherMap.put(bFather, aFather);
+          rankMap.put(aFather, aFrank + bFrank);
+          rankMap.remove(bFather); // 因为b不再是代表节点，可以不删
+        }
+      }
+    }
+  }
+#+end_src
+** 最小生成树
+
+
+#+begin_quote
+  对于一个图，保证其连通性的前提下的最小边集（边的权值和最小）。
+#+end_quote
+** 4. Kruskal 算法
+
+
+#+begin_quote
+  适用范围：要求无向图
+
+  流程：由最小的边考察到最大的边，一次添加，期间如果新加入的边使得图产生了回路，那么就舍弃这条边。
+
+  关键：添加的过程判断有没有回路（并查集，只需要两个操作=boolean isSameSet(Node n1, Node n2)=以及=void union(Node n1, Node n2)=）
+#+end_quote
+
+#+begin_src java
+
+  public static class EdgeComparator implements Comparator<Edge> {
+    @Override
+    public int compare(Edge o1, Edge o2) {
+      return o1.weight - o2.weight;
+    }
+  }
+  // Time:O(M*log(M))
+  public static Set<Edge> kruskalMST(Graph graph) {
+    UnionFind unionFind = new UnionFind();
+    unionFind.makeSets(graph.nodes.values());
+    PriorityQueue<Edge> priorityQueue = new PriorityQueue<>(new EdgeComparator());
+    for (Edge edge : graph.edges) { // 若共有M条边，O(M*log(M))
+      priorityQueue.add(edge);
+    }
+    Set<Edge> result = new HashSet<>();
+    while (!priorityQueue.isEmpty()) {
+      Edge edge = priorityQueue.poll(); // O(log(M))
+      if (!unionFind.isSameSet(edge.from, edge.to)) {
+        result.add(edge);
+        unionFind.union(edge.from, edge.to);
+      }
+    }
+    return result;
+  }
+#+end_src
+** 5. Prim 算法
+
+
+#+begin_quote
+  适用范围：要求无向图。不需要并查集数据结构。
+
+  流程：可以由任意一个节点开始（把这一节点加入到点集$V$，这一点的临边加入到边集$E$），在边集中找最小的边的到新节点，把新节点以及其临边加入到点集和边集中，依次类推直到把所有节点都加入到点集中。
+#+end_quote
+
+#+begin_src java
+  public static class EdgeComparator implements Comparator<Edge> {
+    @Override
+    public int compare(Edge o1, Edge o2) { return o1.weight - o2.weight; }
+  }
+
+  public static Set<Edge> primMST(Graph graph) {
+    PriorityQueue<Edge> priorityQueue = new PriorityQueue<>(
+        new EdgeComparator());
+    HashSet<Node> set = new HashSet<>();
+    Set<Edge> result = new HashSet<>();
+    // 选中一个点就解锁其所有的边
+    for (Node node : graph.nodes.values()) { // 随便挑了一个点
+      //  node 是开始的点
+      if (!set.contains(node)) {
+        set.add(node);
+        for (Edge edge : node.edges) { // 由一个点，解锁所有相连的边
+          priorityQueue.add(edge);
+        }
+        while (!priorityQueue.isEmpty()) {
+          Edge edge = priorityQueue.poll(); // 弹出解锁的边中，最小的边
+          Node toNode = edge.to; // 可能的一个新的点
+          if (!set.contains(toNode)) { // 检测是否已经添加过，没有就添加进来
+            set.add(toNode);
+            result.add(edge);
+            // 所有边加到小根堆里，会出现重复加入的情况，但是不影响
+            for (Edge nextEdge : toNode.edges) {
+              priorityQueue.add(nextEdge);
+            }
+          }
+        }
+      }
+    }
+    return result;
+  }
+
+  // 邻接矩阵的图的表示方法
+  // 请保证graph是连通图
+  // graph[i][j]表示点i到点j的距离，如果是系统最大值代表无路
+  // 返回值是最小连通图的路径之和
+  public static int prim(int[][] graph) {
+    int size = graph.length;
+    int[] distances = new int[size];
+    boolean[] visit = new boolean[size];
+    visit[0] = true;
+    for (int i = 0; i < size; i++) {
+      distances[i] = graph[0][i];
+    }
+    int sum = 0;
+    for (int i = 1; i < size; i++) {
+      int minPath = Integer.MAX_VALUE;
+      int minIndex = -1;
+      for (int j = 0; j < size; j++) {
+        if (!visit[j] && distances[j] < minPath) {
+          minPath = distances[j];
+          minIndex = j;
+        }
+      }
+      if (minIndex == -1) {
+        return sum;
+      }
+      visit[minIndex] = true;
+      sum += minPath;
+      for (int j = 0; j < size; j++) {
+        if (!visit[j] && distances[j] > graph[minIndex][j]) {
+          distances[j] = graph[minIndex][j];
+        }
+      }
+    }
+    return sum;
+  }
+#+end_src
+** 6. Dijkstra 算法
+
+
+#+begin_quote
+  迪杰斯特拉算法，适用范围：没有权值为负数的边（实质上是不能有负数的环）。（必须规定唯一的出发点）
+
+  单源路径到每一个节点的最小距离都返回。
+
+  流程：一开始有指定点到所有其他点的距离都是正无穷，自己到自己为
+  0，由此得到一张表；在表中取出最小的节点（第一次一定是为 0
+  的目标点），取出后解锁这一点的临边边集，更新表，并删掉这个点；继续在表中取出值最小的点，解锁这一点的临边边集，当前节点的值加上边值是过当前点情况下到达相应目标点的总权值，与目标点值比较更新成较小值。以此类推直到用掉表中所有点。
+#+end_quote
+*** 简单遍历方法
+
+#+begin_src java
+    // 复杂度很高，每次都要遍历
+  public static HashMap<Node, Integer> dijkstra1(Node head) {
+    // 从head出发到所有点的最小距离
+    // key：从head出发到达key
+    // value：从head出发到达key的最小距离
+    // 如果在表中，没有key为T的记录，含义是，从head出发到T这个点的距离为正无穷
+    HashMap<Node, Integer> distanceMap = new HashMap<>();
+    distanceMap.put(head, 0);
+    // 已经求过距离的节点，存在selectedNodes中
+    HashSet<Node> selectedNode new HashSet<>();
+    Node minNode = getMinDistanceAndUnselectedNode(distanceMap, selectedNodes);
+    while (minNode != null) {
+      int distance = distanceMap.get(minNode);
+      for (Edge edge : minNode.edges) {
+        Node toNode = edge.to;
+        if (!distanceMap.containsKey(toNode)) {
+          distanceMap.put(toNode, distance + edge.weight);
+        }
+        // 更新较小的距离
+        distanceMap.put(edge.to, Math.min(distanceMap.get(toNode), distance + edge.weight));
+      }
+      selectedNodes.add(minNode);
+      minNode = getMinDistanceAndUnselectedNode(distanceMap, selectedNodes);
+    }
+    return distanceMap;
+  }
+
+  public static Node getMinDistanceAndUnselectedNode(HashMap<Node, Integer> distanceMap, HashSet<Node> touchedNodes) {
+    Node minNode = null;
+    int minDistance = Integer.MAX_VALUE;
+    for (Entry<Node, Integer> entry : distanceMap.entrySet()) {
+      Node node = entry.getKey();
+      int distance = entry.getValue();
+      // 遍历过程中不考虑已经touch过的
+      if (!touchedNodes.contains(node) && distance < minDistance) {
+        minNode = node;
+        minDistance = distance;
+      }
+    }
+    return minNode;
+  }
+#+end_src
+*** 改进方法
+
+
+#+begin_quote
+  根据距离排序的小根堆。（但是系统内置的堆结构不支持*使用过程中排序字段的修改*）因此需要对堆结构进行修改。
+#+end_quote
+
+#+begin_src java
+  // 结果信息，只保留node和距离原节点的距离
+  public static class NodeRecord {
+    public Node node;
+    public int distance;
+
+    public NodeRecord(Node node, int distance) {
+      this.node = node;
+      this.distance = distance;
+    }
+  }
+
+  public static class NodeHeap {
+    private Node[] nodes; // 实际上的的堆结构
+    // key：某一个node；value：上面数组的位置；（堆只记录了顺序位置，不具有查找功能）
+    // 如果一个node不在堆里，查询结果要么没记录，要么结果为-1
+    // 节点与节点所在数组下标的映射表
+    private HashMap<Node, Integer> heapIndexMap;
+    // key：某一个节点，value：从源节点出发到该节点的目前最小距离
+    private HashMap<Node, Integer> distanceMap;
+    private int size;
+
+    public NodeHeap(int size) {
+      nodes = new Node[size];
+      heapIndexMap = new HashMap<>();
+      distanceMap = new HashMap<>();
+      this.size = 0;
+    }
+
+    public boolean isEmpty() {
+      return size == 0;
+    }
+
+    // 有node节点，发现了一个从原节点出发到node的距离为distance，并判断要不要更新
+    // 1. node从来没有进来过，要添加（add）；
+    // 2. node进来过，且距离比之前的要短，要更新（update）
+    // 3. node进来过，且距离不比之前的短，要忽略（ignore）
+    public void addOrUpdateOrIgnore(Node node, int distance) {
+      if (inHeap(node)) { // 在堆上
+        distanceMap.put(node, Math.min(distanceMap.get(node), distance));
+        // 更改了，会变小，所以要向上insertHeapify
+        insertHeapify(node, heapIndexMap.get(node));
+      }
+      if (!isEntered(node)) { // 如果没有进来过
+        nodes[size] = node; // 把节点加到结尾
+        heapIndexMap.put(node, size); // 在位置表上注册上
+        distanceMap.put(node, distance); // 在距离表上注册上
+        insertHeapify(node, size++); // 处理堆
+      }
+      // 剩下情况什么也不做
+    }
+
+    // pop方法返回结果类NodeRecord，而不是Node
+    public NodeRecord pop() {
+      NodeRecord nodeRecord = new NodeRecord(nodes[0], distanceMap.get(nodes[0]));
+      swap(0, size - 1); // 头尾交换，堆减小的基本操作
+      heapIndexMap.put(nodes[size - 1], -1); // 弹出节点要标记为-1
+      distanceMap.remove(nodes[size - 1]);
+      nodes[size - 1] = null;
+      heapify(0, --size); // 因为头尾交换了，因此需要向下调整堆结构
+      return nodeRecord;
+    }
+
+    private void insertHeapify(Node node, int index) {
+      while (distanceMap.get(nodes[index]) < distanceMap.get(nodes[(index - 1) / 2])) {
+        swap(index, (index - 1) / 2);
+        index = (index - 1) / 2;
+      }
+    }
+
+    private void heapify(int index, int size) {
+      int left = index * 2 + 1;
+      while (left < size) {
+        int smallest = left + 1 < size && distanceMap.get(nodes[left + 1]) < distanceMap.get(nodes[left])
+            ? left + 1 : left;
+        smallest = distanceMap.get(nodes[smallest]) < distanceMap.get(nodes[index]) ? smallest : index;
+        if (smallest == index) {
+          break;
+        }
+        swap(smallest, index);
+        index = smallest;
+        left = index * 2 + 1;
+      }
+    }
+    // heapIndexMap表可以标记的3中状态：
+    // 1. 从来没有进来过，没有这个key；
+    // 2. 进来过又弹出了，有这个key，但value等于-1；
+    // 3. 在堆上，进来了，还没有弹出，有这个key，且value值不等于-1；
+    // 查询某个节点是否进来这个数据结构（进来又弹出也算进来过）
+    private boolean isEntered(Node node) {
+      return heapIndexMap.containsKey(node);
+    }
+    // 返回是否在堆上
+    private boolean inHeap(Node node) {
+      // 等于-1的情况是，进来过又弹出
+      return isEntered(node) && heapIndexMap.get(node) != -1;
+    }
+
+    // 调整堆时需要的swap操作，注意，heapIndexMap表和nodes数组要同步交换
+    private void swap(int index1, int index2) {
+      heapIndexMap.put(nodes[index1], index2);
+      heapIndexMap.put(nodes[index2], index1);
+      Node tmp = nodes[index1];
+      nodes[index1] = nodes[index2];
+      nodes[index2] = tmp;
+    }
+  }
+
+  public static HashMap<Node, Integer> dijkstra2(Node head, int size) {
+    NodeHeap nodeHeap = new NodeHeap(size);
+    nodeHeap.addOrUpdateOrIgnore(head, 0);
+    HashMap<Node, Integer> result = new HashMap<>();
+    while (!nodeHeap.isEmpty()) {
+      NodeRecord record = nodeHeap.pop();
+      Node cur = record.node;
+      int distance = record.distance;
+      for (Edge edge : cur.edges) {
+        nodeHeap.addOrUpdateOrIgnore(edge.to, edge.weight + distance);
+      }
+      result.put(cur, distance);
+    }
+    return result;
+  }
+#+end_src

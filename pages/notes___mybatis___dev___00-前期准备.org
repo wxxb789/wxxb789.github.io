@@ -1,0 +1,28 @@
+
+
+* [00]前期准备
+
+
+1. 导入逆向工程代码，生成bean/dao层：[[file:///G:/JAVA游戏/4.框架/3.MyBatis][MyBatis逆向工程]]
+2. 手动创建Java工程、添加类库，在MyEclipse中设置约束定义(编写配置文件时标签弹出提示)
+
+   1. 类库位置：[[file:///G:/JAVA游戏/4.框架/3.MyBatis/MyBatis3.4-Libraries][MyBatis3.4-Libraries]]
+   2. 约束文件定义
+
+      1. mybatis-config.xml文件的约束定义
+
+         1. 约束文件位置：[[file:///G:/JAVA游戏/4.框架/3.MyBatis/MyBatis3.4-Libraries/mybatis-3.4.2/org/apache/ibatis/builder/xml][mybatis-3-config.dtd]]
+         2. 约束定义声明
+
+         #+begin_example
+           <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN""http://mybatis.org/dtd/mybatis-3-config.dtd">
+         #+end_example
+
+      2. XxxMapper.xml文件的约束定义
+
+         1. 约束文件位置：[[file:///G:/JAVA游戏/4.框架/3.MyBatis/MyBatis3.4-Libraries/mybatis-3.4.2/org/apache/ibatis/builder/xml][mybatis-3-mapper.dtd]]
+         2. 约束定义声明
+
+         #+begin_example
+           <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+         #+end_example

@@ -1,0 +1,4 @@
+#+title: book/Mastering ABP Framework
+
+* [[../assets/Mastering_ABP_Framework_1661495793273_0.pdf][Mastering ABP Framework.pdf]]
+*

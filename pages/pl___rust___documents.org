@@ -1,0 +1,10 @@
+* Books
+** The Rust Programming language
+** Learn Rust With Entirely Too Many Linked Lists
+** Rust By Example
+** Rustlings Course
+** Learn Rust the Dangerous Way
+* Practice
+* Rust on Exercism
+* Web Site
+* microsoft sharepoint | Engineering Academy | Rust

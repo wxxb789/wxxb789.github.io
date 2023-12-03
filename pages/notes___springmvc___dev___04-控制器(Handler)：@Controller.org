@@ -1,0 +1,221 @@
+
+
+* 4.控制器(Handler)：@Controller
+
+** 1. 控制器接收请求数据
+
+
+1. 请求数据单一/少量：变量接收
+
+   1. 在控制器的处理方法中使用@RequestParam("请求参数")注解标注形参String
+      var，注解中的请求参数名与表单name属性值对应
+
+2. 请求数据较多：JavaBean接收
+
+   1. JavaBean封装表单数据，JavaBean属性通过注解校验确保表单提交数据的规范性
+   2. 使用Spring框架提供的表单标签，可以将JavaBean的属性与表单项映射
+   3. 需要控制器的Model对象与之配合.
+
+3. 控制器实施重定向
+
+   1. return "redirct:/xxx/yyy" ## 2. 控制器编写 ### 2.1. 案例1
+
+   #+begin_src java
+     //声明为控制器
+     @Controller
+     //声明该控制器的访问路径
+     @RequestMapping("/question")
+     public class QuestionController {
+      //声明访问该方法的分支路径
+      @RequestMapping("/input-form")
+      public String showForm(){
+          //通过该控制器将请求转发到jsp页面
+          return "QuestionForm";
+      }
+      //接收请求数据的方式为POST
+      @RequestMapping(value="/answer-handler",method=RequestMethod.POST)
+      //使用注解标注变量,从而可以直接接收表单对应的name属性值为city的组件的值
+      public String handleQuestion(@RequestParam("city") String answerCity,Model model){
+          //1.信息处理情况的容器
+          String message="";
+          /*2.对自表单获得的数据进行处理
+              ......
+          */
+          //3.将处理信息存入到Model中，转发到jsp页面
+          model.addAttribute("message", message);
+          return "QuestionResult";
+      }
+     }
+   #+end_src
+
+   *** 2.2. 案例2---增删改查
+
+   #+begin_src java
+     @Controller
+     @RequestMapping("/employee")
+     public class EmployeeController {
+      //1. 日志记录器(采用工厂模式创建日志记录器)
+      private static final Log logger=LogFactory.getLog(EmployeeController.class);
+      //2. 使用线程安全的ConcurrentHashMap
+      private static Map<Integer, Employee> employeeMap=new ConcurrentHashMap<Integer,Employee>();
+
+      //输入表单
+      @RequestMapping(value="/form")
+      public String inputEmployee(Model model){
+          model.addAttribute("employee", new Employee());
+          return "EmployeeForm";
+      }
+
+      //全查
+      @RequestMapping("/list")
+      public String listEmp(Model model){
+          model.addAttribute("employeeMap", employeeMap);
+          return "EmployeeList";
+      }
+
+      //增
+      @RequestMapping(value="/save")
+      //@Valid：对需要持久化的数据进行校验，并将错误信息存储到消息源文件中
+      //@ModelAttribute("名称")：将参数对象存入到Model中、协助Spring_MVC的表单标签(<form:errors>)输出错误信息
+      public String saveEmployee(@Valid @ModelAttribute("employee") Employee emp,BindingResult result){
+          logger.info("emp.getEmpName()="+emp.getEmpName());
+          logger.info("emp.getBirthday()="+emp.getBirthday());
+          logger.info("emp.getSalary()="+emp.getSalary());
+          //BindingResult bindingResult| hasErrors()    boolean
+          if(result.hasErrors()){
+              return "EmployeeForm";
+          }
+          //创建职员编号
+          int empNo=1001+employeeMap.size()+delNum;
+          //设置职员的id属性
+          emp.setId(empNo);
+          //添加到map集合中
+          employeeMap.put(empNo, emp);
+          //注意:重定向时需要添加类的注解请求
+          return "redirect:/employee/list";
+      }
+
+      //删
+      @RequestMapping("/{id}/delete")
+      public String deleteEmployee(@PathVariable("id") int id){
+          employeeMap.remove(id);
+          delNum++;//防止删除后,添加职员出现id号的混乱
+          return "redirect:/employee/list";
+      }
+
+      //编辑职员
+      @RequestMapping("/{id}")
+      public String editEmployee(@PathVariable("id") int id,Model model){
+          Employee employee=employeeMap.get(id);
+          model.addAttribute("employee", employee);
+          return "EmployeeInfo";
+      }
+
+      //修改职员信息
+      @RequestMapping("/update")
+      public String updateEmployee(@Valid @ModelAttribute("employee") Employee emp,BindingResult result){
+          logger.info("emp.getId()="+emp.getId());
+          logger.info("emp.getEmpName()="+emp.getEmpName());
+          logger.info("emp.getBirthday()="+emp.getBirthday());
+          logger.info("emp.getSalary()="+emp.getSalary());
+          if(result.hasErrors()){
+              return "EmployeeInfo";
+          }
+          //添加到map集合中
+          employeeMap.put(emp.getId(), emp);
+          //注意:重定向时需要添加类的注解请求
+          return "redirect:/employee/list";
+      }
+     }
+   #+end_src
+
+   *** 2.3. 案例---下拉框级联显示
+
+   #+begin_src java
+     //1.定义一个持有name和value属性的javabean(Option)
+     //2.编写控制器
+     @Controller
+     @RequestMapping("/province")
+     public class ProvinceController {
+      @RequestMapping(value="/select")
+      public String showSelect(){
+          return "CascadeSelect";
+      }
+   #+end_src
+
+   #+begin_example
+      <!--控制器将请求转发到jsp页面-->
+      <script type="text/javascript">
+          $(function(){
+              $("#s1").change(function(){
+                $.get("province-cities",{provinceValue:$("#s1").val()},
+                      //匿名的回调函数(callback函数)
+                      function(data){
+                          alert("Array?="+(data instanceof Array));//说明是Array数组
+                          $("#s2").empty();
+                          for(var index in data){
+                              var option=new Option(data[index].cityName,
+                                                    data[index].cityValue);
+                              $("#s2").append($(option));
+                          }
+                      },"json");
+              });
+          });
+      </script>
+       </head>
+       <body>
+      <h2>动态生成二级城市列表框</h2>
+      <select id="s1" style="width:100px">
+          <option value="bj">北京</option>
+          <option value="hn">湖南</option>
+      </select>
+      <select id="s2" style="width:100px">
+      </select>
+       </body>
+   #+end_example
+
+   #+begin_src java
+      @RequestMapping(value="/province-cities")
+      @ResponseBody
+      public List<Option> handleProvince(
+              @RequestParam("provinceValue") String province){
+          List<Option> options=new ArrayList<Option>();
+          if(province.equals("bj")){
+              Option op=new Option("海淀","hd");
+              Option op2=new Option("东城","dc");
+              Option op3=new Option("西城","xc");
+              Option op4=new Option("朝阳","cy");
+              options.add(op);
+              options.add(op2);
+              options.add(op3);
+              options.add(op4);
+          }
+          if(province.equals("hn")){
+              Option op=new Option("岳阳","yy");
+              Option op2=new Option("长沙","cs");
+              Option op3=new Option("湘潭","xt");
+              options.add(op);
+              options.add(op2);
+              options.add(op3);
+          }
+          System.out.println(options);
+          return options;
+      }
+     }
+   #+end_src
+** 3. 日志
+
+
+1. Spring_MVC默认使用common-logging类库，其底层使用的是log4J的日志实现技术
+2. 通过日志对方法中的重要执行步骤进行跟踪，其跟踪的粒度要精密于AOP中对目标类的业务方法的跟踪.
+
+   1. AOP主要是针对业务模型运行性能的跟踪统计;而Log是为调试程序,记录程序bug.
+
+3. 采用工厂模式创建日志记录器
+
+   1. Log logger=LogFactory.getLog(EmployeeController.class);
+   2. log.info("需要在控制台显示的属性的信息");
+
+4. 日志记录器的日志级别
+
+   1. trace<debug<info<warn<error<fatal

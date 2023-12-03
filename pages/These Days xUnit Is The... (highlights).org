@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: These Days xUnit Is The... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[gsferreira on Twitter]]
+:full-title: "These Days xUnit Is The..."
+:category: [[tweets]]
+:url: https://twitter.com/gsferreira/status/1684551381795966976
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-28]]
+** 📌
+** #+BEGIN_QUOTE
+** These days xUnit is the most used testing framework for #dotnet developers.
+So, let's talk about 5 advanced features you must know... 
+
+![](https://pbs.twimg.com/media/F2C6L1oXoAEfs6B.jpg)  ([View Tweet](https://twitter.com/gsferreira/status/1684551381795966976))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 5 ADVANCED xUnit Features You Must Know
+https://t.co/Hg6GKPwJdF  ([View Tweet](https://twitter.com/gsferreira/status/1684551384044040194))
+** #+END_QUOTE

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: 推荐陈丹琦主导的科研报告——基于检索的 Lm。... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[cosmtrek on Twitter]]
+:full-title: "推荐陈丹琦主导的科研报告——基于检索的 Lm。..."
+:category: [[tweets]]
+:url: https://twitter.com/cosmtrek/status/1678077835418955781
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-10]]
+** 📌
+** #+BEGIN_QUOTE
+** 推荐陈丹琦主导的科研报告——基于检索的 LM。
+
+我们都知道 LLM 有以下明显的问题：
+1. 模型参数里无法记住所有知识
+2. 模型知识容易过时，并且更新较难（成本高）
+3. 较难解释和验证 LLM 的输出
+
+因此外挂一个数据库用来检索是非常必要的，也是现在很前沿的研究方向之一。… https://t.co/uMgW9dbvFW 
+
+![](https://pbs.twimg.com/media/F0m6baRacAAbPGr.jpg) ([View Tweet](https://twitter.com/cosmtrek/status/1678077835418955781))
+** #+END_QUOTE

@@ -1,0 +1,29 @@
+* HTTP概念list
+
+** 请求头内的常见属性
+
+
+- User-Agent
+- Accept
+- Host
+- Cookie
+- Referer
+- Cache-Control
+
+** 响应行内常见响应码
+
+
+- 200
+- 400
+- 401
+- 403
+- 404
+- 500
+- 503
+
+** 响应头内的常见属性
+
+
+- Cache-Control
+- Location
+- Set-Cookie

@@ -1,0 +1,62 @@
+:PROPERTIES:
+:title: You Should Be Using 𝘀𝘁𝗿𝗼... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[mjovanovictech on Twitter]]
+:full-title: "You Should Be Using 𝘀𝘁𝗿𝗼..."
+:category: [[tweets]]
+:url: https://twitter.com/mjovanovictech/status/1679371173019152384
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-13]]
+** 📌
+** #+BEGIN_QUOTE
+** You should be using 𝘀𝘁𝗿𝗼𝗻𝗴𝗹𝘆-𝘁𝘆𝗽𝗲𝗱 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 with Minimal APIs, here's why 👇
+
+Minimal APIs were added in .NET 6 to simplify building APIs.
+
+And in .NET 7, we got support for strongly-typed results.
+
+How do you use typed results? 
+
+![](https://pbs.twimg.com/media/F05TLjHWAAEK-1T.jpg) ([View Tweet](https://twitter.com/mjovanovictech/status/1679371173019152384))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** The access point is the static `TypedResults` class.
+
+It exposes methods for returning the response types you're probably familiar with, like:
+\- Ok
+- BadRequest
+- NotFound
+
+You can combine multiple result types. ([View Tweet](https://twitter.com/mjovanovictech/status/1679371177121259524))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Here's an example combining Ok and NotFound:
+
+\- Results< Ok < Blog >, NotFound > ([View Tweet](https://twitter.com/mjovanovictech/status/1679371182884237312))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** What's the benefit of using strongly-typed results?
+
+\- TypedResults return strongly typed objects
+- Improved code readability
+- Better unit testing
+- Reduced chance of runtime errors ([View Tweet](https://twitter.com/mjovanovictech/status/1679371184545120256))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** P.S. If you want to learn more about .NET and software architecture, consider subscribing to my newsletter with 24,000+ engineers.
+
+Subscribe here: https://t.co/zcETFCDreZ ([View Tweet](https://twitter.com/mjovanovictech/status/1679371188106059776))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Are you building applications with Minimal APIs?
+
+What do you think about strongly-typed results? ([View Tweet](https://twitter.com/mjovanovictech/status/1679371189876137985))
+** #+END_QUOTE

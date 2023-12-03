@@ -1,0 +1,7 @@
+*
+* links
+** [[https://lizzy-gallagher.github.io/roslyn-refactoring/][Refactor C# code with the Roslyn]]
+* #+BEGIN_NOTE
+Roslyn has two API surfaces for examining and modifying code: the [[https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/work-with-syntax][Syntax API]] and the [[https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/work-with-semantics][Semantic API]].
+#+END_NOTE
+*

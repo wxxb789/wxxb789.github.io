@@ -1,0 +1,261 @@
+#+tags: F,
+
+* TODO
+
+
+1.  Now Coder Review
+
+    1. 基础入门08 两个
+    2. 基础提高 01-08
+
+2.  AlgoCasts 250 题
+3.  Python Java Rust Go Scala Kotlin C++ 刷题
+4.  KaiKeBaJava17
+
+    1. MyBatis
+    2. SpringMVC
+    3. IoC
+    4. AOP
+    5. SpringBoot
+    6. Redis
+    7. MySQL
+
+5.  Big Data 8斗
+6.  分布式系统
+
+    1. Bitcoin
+    2. 共识协议
+    3. 拜占庭将军容错
+
+7.  ElasticSearch
+8.  NLP
+9.  操作系统
+10. 计算机网络
+11. 计算机组成原理
+12. 机器学习
+
+    1. 线性代数
+    2. 统计概率
+    3. 微积分
+
+13. 系统设计
+
+    1. 在线多人协作
+    2. IM 聊天系统
+    3. 消息流，Twitter，朋友圈
+    4. Uber，实时最短路径，实时分配
+    5. 共享单车，平衡数量
+    6. 停车位分配
+    7. 搜索系统
+    8. 鉴权，认证
+    9. 监控，报表
+
+- 假设答案存在， 研究答案存在的性质
+- 矩阵压缩
+** 设计模式
+
+
+- 静态工厂
+
+- 工厂模式
+
+- 抽象工厂
+
+- 单例模式
+
+- 责任链模式
+
+  - 过滤器
+
+- 观察者模式
+
+  - =ServletContextListener=
+  - =HttpSessionListener=
+
+- 装饰模式
+
+  - =BufferedReader=
+
+- 模板方法模式
+** Servlet 9个监听器
+
+
+- =ServletContextListener=
+
+- =HttpSessionListener=
+
+- 预定义类 跟类加载器
+
+- 可扩展API 可扩展类加载器
+
+- 自定类， 系统类加载器
+** 静态代理， 动态代理， 静态绑定， 动态绑定
+
+各种 XML 以及 properties
+
+- jdbc
+- mysql/oracle, connect pool(c3p0 etc.)
+- hibernate
+- spring
+** spring integration 2019/03/10
+** 需要的框架类库
+
+
+- spring
+- hibernate
+- ehcache
+- mysql
+- 连接池 c3p0
+** 熟悉IDE的快速开发功能
+
+
+- hibernate 反向工程： 根据datasource schema生成bean
+
+- spring 的 hibernatedao
+
+- spring
+
+  - aop
+  - core
+  - persistence core
+  - persistence jdbc
+** spring 配置
+
+
+- sessionFactory -- localsessionfactorybean
+
+  - dataSource 依赖于连接池
+  - 连接池替代hibernate.cfg.xml的数据库连接配置， 4大参数
+** spring 事务 2019/03/12
+** 事务
+
+事务离不开连接对象， 事务管理器提供连接对象。 Spring
+使用声明式事务管理。
+** 传播属性
+
+propagation
+*** 传播策略
+** 事务锁模式
+
+
+- 锁模式
+
+  - 乐观锁
+  - 悲观锁
+
+- 4个数据库事务属性 ACID
+** E-R 模型图
+** encoding
+
+URLEncoder.gbk 中文编码 URLDecoder.gbk 中文解码结构
+
+Cookie Session 依赖于 Cookie JSESSIONID->Cookie
+
+=java.util.UUID=
+** session
+
+URL 重写 JSESSIONID
+
+=response.encodeURL()=
+** Java Web 三大组件
+
+
+- Listener
+- Filter
+** Question list
+
+反射机制 & 内省 =isErrorPage=
+** 2019/03/17
+
+
+- 外连接查询
+- 自链接查询
+** hibernate 关联关系
+
+
+- one2one
+- one2many
+- many2one
+- many2many
+** 2019/03/20
+
+
+- =select * from table limit?,?= 下标由0开始
+- =Query query = session.createQuery()=
+- =query.setFirstResult()=
+- =qurey.setMaxResults()=
+- =query.list();=
+** spring
+
+
+- Transaction 传播性，事务管理器
+** 2019/04/11
+
+Spring MVC 拦截器：单例模式
+
+- 责任链模式
+- 权限检查
+- 性能监控
+- =ThreadLocal= 机制
+* How to get app root path in Csharp
+
+Paths:
+
+1. Current Working Directory
+2. AppContext Directory
+3. Current Process File Location
+4. Source Code Directory
+5. Host Directory(Asp.Net)
+
+#+begin_example
+  // Validation program
+  using System;
+  using System.Diagnostics;
+  using System.IO;
+
+  namespace testdir
+  {
+      class Program
+      {
+          static void Main(string[] args)
+          {
+              Console.WriteLine(Directory.GetCurrentDirectory());
+              Console.WriteLine($"Launched from \t{Environment.CurrentDirectory}");
+              Console.WriteLine($"Physical location \t{AppDomain.CurrentDomain.BaseDirectory}");
+              Console.WriteLine($"AppContext.BaseDir \t{AppContext.BaseDirectory}");
+              Console.WriteLine($"Runtime Call \t{Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName)}");
+          }
+      }
+  }
+#+end_example
+** Dotnet Core 3.1
+
+#+begin_example
+  // Runtime Call to Get the App Root Path
+  Console.WriteLine($"Runtime Call \t{Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName)}");
+#+end_example
+* Dotnet 5
+
+#+begin_example
+
+  Console.WriteLine($"AppContext.BaseDir \t{AppContext.BaseDirectory}");
+#+end_example
+* FreeSql checksum example
+:PROPERTIES:
+:id: 292cb6e5-d66d-440f-8ca1-8fb146a43ab3
+:END:
+
+
+#+begin_src csharp
+[ExpressionCall]
+public static class SqlExt
+{
+        internal static ThreadLocal<ExpressionCallContext> expContext = new ThreadLocal<ExpressionCallContext>();
+
+        public static string checksum(string value)
+        {
+            expContext.Value.Result = $"checksum({expContext.Value.ParsedContent["value"]})";
+            return default;
+        }
+}
+#+end_src

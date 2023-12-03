@@ -1,0 +1,439 @@
+* 1. 13-IO流
+
+** 1.1. Summary
+
+分类：\\
+1. 输入/输出 2. 载体：字节/字符 3. 功能：节点流/处理流
+
+** 1.2. File类
+
+构造器：
+
+#+begin_src java
+  /*
+      throws IOExceptino,
+      File file = new File("C:\\...\\...\\something.txt");
+  */
+  File(String pathname);
+  File(String parent, String child);
+  File(File parent, String child);
+#+end_src
+
+方法：
+
+#+begin_src java
+  //返回字符串
+  file.getName()；
+  file.getPath();
+  file.toString();
+  //boolean返回值
+  file.canExecute();
+  file.canRead();
+  file.canWrite();
+  file.isDirectory();
+  file.isFile();
+  file.isHidden();
+  //字符串路径比较，字典排序
+  file.compareTo(otherfile);
+  file.equals(otherfile)
+  //获取绝对路径
+  file.getAbsolutePath(); //->File
+  file.getAbsolutePath(); //->String
+  //获取所在磁盘的剩余/总空间，单位：字节
+  file.getFreeSpace(); //->long
+  file.getTotalSpace(); //->long
+
+  //
+  file.lastModified(); // ->long 毫秒数1970起始计算
+  file.length();
+
+  //file.list() file.listFiles()获取当前目录中所有子文件和子目录
+  String[] filePaths = file.list();
+  for(String path : filePath){
+      System.out.println(path);
+  }
+  String[] files = file.listFiles();
+  for(String file : files){
+      System.out.println(file.getAbsolutePath());
+  }
+
+  //file.createNewFile() file.mkdir()创建文件和目录
+  File myFile = new File("F:\\IO\\b.txt");
+  if(!myFile.exists()){
+      myFile.createNewFile();
+  }
+
+  File myDir = new File("F:\\IO\\yyy");
+  if(!myDir.exists()){
+      myDir.mkdir();
+  }
+
+  //获取父目录路径
+  File myDirs = new File("F:\\hello\\aaa\\h.doc");
+  File parentDir = myDirs.getParentFile();
+  //判断存在否以决定创建否
+  if(!parentDir.exists()){
+      parentDir.mkdirs();
+  }
+  if(!myDirs.exists()){
+      myDirs.createNewFile();
+  }
+#+end_src
+
+安全创建：
+
+#+begin_src java
+  File file = new File("F:\\IO\\z.txt");
+  File parent = file.getParentFile();
+  if (!parent.exists()) {
+      parent.mkdirs();
+  }
+  if(!file.exists()){
+      try {
+          file.createNewFile();
+      } catch (IOException e) {
+          e.printStackTrace();
+      }
+  }
+#+end_src
+
+** 1.3. 字节流
+
+Summary：
+
+字节流能够处理中文字符数据?
+
+1.字节输出流能够写入中文字符,因为在应用程序端使用的是哪个默认的编码格式
+将中文字符转成字节数据写入的,那么系统就会以对应的编码格式再将字节数据
+转回到字符数据,保证不乱码;
+
+2.字节输入流也能读取中文字符数据,但是涉及到编码格式问题,每次临时存储读取
+的字节数据的字节数组的长度问题,都可能造成乱码,所以不建议使用字节输入流
+读取中文字符
+
+#+begin_example
+  总结:
+  不建议使用字节流处理中文字符,处理中文字符就使用字符流。
+#+end_example
+
+Writer: OutputStreamWriter:字符输出转换流
+是字符流通向字节流的桥梁：可使用指定的编码格式将要写入流中的字符编码成字节
+--->
+其本身是哪字符输出流,所以是写字符数据,但是我们可以指定编码格式,来决定字符
+数据底层使用哪个编码格式转换成字节数据;
+
+#+begin_example
+  OutputStreamWriter(OutputStream out, String charsetName)
+  创建字符输出转换流,参数一指定字节输出流写入字节数据,参数二指定编码格式;
+  具体说就是将当前OutputStreamWriter流中的字符数据以参数二编码格式转换成字节
+  数据,再以参数一字节输出流写入;
+#+end_example
+
+Reader: InputStreamReader:字符输入转换流
+是字节流通向字符流的桥梁：它使用指定的编码格式读取字节并将其解码为字符--->
+其本身是个字符输入流,所以读的是字符数据,但是我们可以指定编码格式,来决定读取的
+字节数据底层以哪个编码格式转换成字符数据;
+
+#+begin_example
+  InputStreamReader(InputStream in, String charsetName) 
+          创建字符输入转换流,参数一指定字节输入流读取的字节数据,参数二指定编码格式;
+          具体说就是将参数一字节输入流读取的字节数据以参数二编码格式转成字符数据,再
+          使用InputStreamReader流去读取
+#+end_example
+
+*** 1.3.1. 输入流
+
+InputStream ：单位：字节，节点流
+
+FileInputStream ：文件字节输入流
+
+构造器：
+
+#+begin_src java
+  FileInputStream(String name); //创建字节输入流并指定所要读取的数据源文件的路径(字符串路径)
+  FileInputStream(File file); //创建字节输入流并指定所要读取的数据源文件的路径(File对象)
+#+end_src
+
+常用方法：
+
+#+begin_src java
+  void close():关闭流资源
+  int read(); //->int,一次读取一个字节数据，返回值就是读取的数据每执行一次就读取一个字节数据,返回值就是读取的字节数据;
+  int read(byte[] b); //每执行一次就会读取参数字节数组的长度个字节数据,且将每次读取的字节数据都会临时的存储在参数字节数组中,返回值表示每次读取的字节个数;
+  int read(byte[] b, int off, int len); //每执行一次就读取参数三个字节,然后将每次读取的字节数据临时存储存在参数一字节数组中,从参数一字节数组的参数二的角标开始存存参数三个;返回值也是每次读取的字节个数;
+#+end_src
+
+实践：
+
+#+begin_src java
+  public static void main(String[] args) {
+      //用于接收所读取的数据
+      String mess = "";
+      InputStream in = null;
+      try {
+          //1>创建字节输入流并指定读取的数据源文件
+          in = new FileInputStream("F:\\IO\\x.txt");
+          //2>创建字节数组(临时容器,用于临时存储每次读取的字节数据;数组长度为10,也就表示每次最多读取10个字节)
+          byte[] bts = new byte[10];
+          int len = 0;//记录每次读取的有效的字节个数
+          /*
+           * 3>循环读取
+           * 循环读取将每次循环读取到的字节数据都存储到临时容器参数字节数组bts中并判断,
+           * 如果返回值不为-1接着循环读取,如果返回值为-1则到达文件末尾结束循环;
+           */
+          while((len = in.read(bts))!=-1){
+              //将当前循环读取的有效字节数据从字节数组中拿出来
+              //(将字节数组转成字符串拼接到字符串对象mess中)
+              String s = new String(bts,0,len);
+              mess+=s;
+          }
+          /*
+          while((len = in.read(bts,0,bts.length))!=-1){
+              //将当前循环读取的有效字节数据从字节数组中拿出来
+              //(将字节数组转成字符串拼接到字符串对象mess中)
+              String s = new String(bts,0,len);
+              mess+=s;
+          }
+          */
+          /*
+          int b = 0;//接收每次读取的单个字节值
+          while((b = in.read())!=-1){
+              char c = (char) b;
+              mess+=c;
+          }
+          */
+          
+          System.out.println(mess);
+      } catch (Exception e) {
+          e.printStackTrace();
+      }finally{
+          try {
+              if(in!=null)
+                  in.close();
+          } catch (Exception e2) {
+          }
+      }
+  }
+#+end_src
+
+*** 1.3.2. 输出流
+
+OutputStream ：单位：字节，节点流
+
+FileOutputStream ：文件字节输出流
+
+构造器：
+
+#+begin_src java
+  FileOutputStream(String name); //由字符串路径创建字节输出流
+  FileOutputStream(String name, boolean append); //是否追加，false或没有参数，则为覆盖
+  FileOutputStream(File file);
+  FileOutputStream(Fiel file, boolean append);
+#+end_src
+
+常用方法：
+
+#+begin_src java
+  close(); //关闭流资源
+  write(byte[] b); //一次性将所有字节数组的数据写入到数据文件中去
+  write(byte[] b,int off, int len); //部分字节写入
+#+end_src
+
+数据流动：
+
+#+begin_src dot
+  digraph G {
+      rankdir = LR;
+      字符数据 -> 字节数据 -> 二进制数据 -> 字节数据 -> 字符数据;
+  }
+#+end_src
+
+实践：
+
+#+begin_src java
+  public static void main(String[] args) {
+      //被写入的数据
+      String mess = "today is monday,we study Input and Output";
+
+      //1>创建File对象指定所要写入的数据源文件
+      File file = new File("F:\\IO\\x.txt");
+      //2>代码健壮性判断(如果文件和文件所在目录都不存在,则新建)
+      File parent = file.getParentFile();
+      if(!parent.exists()){
+          parent.mkdirs();
+      }
+      if(!file.exists()){
+          try {
+              file.createNewFile();
+          } catch (IOException e) {
+              e.printStackTrace();
+          }
+      }
+      OutputStream out = null;
+      try {
+          //3>创建字节输出流并指定写入的数据源文件
+          out = new FileOutputStream(file,true);
+          //4>将写入的字符数据转成字节数据(字符串转换成字节数组)
+          byte[] bts = mess.getBytes();
+          //5>将字节数组中的字节数据一次性写入
+          out.write(bts);
+          
+          //out.write(bts, 0, bts.length);
+          /*
+          for (byte b : bts) {
+              out.write(b);
+          }
+          */
+      } catch (Exception e) {
+          e.printStackTrace();
+      }finally{
+          try {
+              if(out!=null)
+                  out.close();
+          } catch (Exception e2) {
+          }
+      }
+  }
+#+end_src
+
+** 1.4. 字符流
+
+字符流能处理中文字符也能处理英文字符:
+
+因为使用字节流处理英文字符时底层是给一个英文字符对应的unicode码值分配的是1个字节空间,
+使用字符流处理中文字符时底层是按照应用程序默认的编码格式给一个中文对应的unicode码值分
+配两个或三个字节空间,那么两个或三个字节空间能够存储中文字符的unicode码值就肯定能够存储
+英文字符的unicode码值;但是一般不会使用字符流去处理英文字符,因为浪费内存空间,处理英文字
+符就使用字节流。
+
+数据流动：
+
+#+begin_src dot
+  digraph G {
+      rankdir = LR;
+      字符数据 -> 字节数据 -> 二进制数据 -> 字节数据 -> 字符数据;
+  }
+#+end_src
+
+*** 1.4.1. 字符输入流
+
+Reader ： 字符输入流，节点流
+
+InputStreamReader ：字符输入转换流，处理流
+
+FileReader ：文件字符输入流
+
+构造器：
+
+#+begin_src java
+  FileReader(String fileName);
+  FileReader(File file);
+#+end_src
+
+常用方法：
+
+#+begin_src java
+  void close(); //关闭资源流
+  int read(); //一次读入单个字符，返回值为读取字符的Unicode值，-1为文件末尾
+  int read(char[] cbuf); // 读入cbuf.length个字符，返回值为读取到的有效字符的个数，-1为文件末尾
+  int read(char[] cbuf, int off, int len); //每次读取len个字符，由off处开始存储，返回值为读取有效字符的个数，-1为文件末尾
+#+end_src
+
+*** 1.4.2. 字符输出流
+
+Writer ：字符输出流，节点流
+
+OutputStreamWriter ：字符输出转换流，处理流
+
+FileWriter ：文件字符输出流
+
+构造器：
+
+#+begin_src java
+  FileWriter(String fileName);
+  FileWriter(String fileName, boolean append);
+  FileWriter(File file);
+  FileWriter(File file, boolean append);
+#+end_src
+
+常用方法：
+
+#+begin_src java
+  void close(); //关闭资源
+  void write(char[] cbuf); //一次写入字符数组中的所有字符
+  void write(int c); //一次写入单个字符
+  void write(String str); //一次性写入字符串中所有字符
+#+end_src
+
+实践：
+
+#+begin_src java
+  public static void main(String[] args) {
+      //将要写入到数据源文件中的内容
+      String mess = "碳酸饮料我们常喝的有可口可乐，雪碧，北冰洋，二锅头等等";
+
+      //1>创建File对象封装写入的数据源文件
+      File file = new File("F:\\IO\\y.txt");
+      //2>代码健壮性
+      File parent = file.getParentFile();
+      if(!parent.exists()){
+          parent.mkdirs();
+      }
+      if(!file.exists()){
+          try {
+              file.createNewFile();
+          } catch (IOException e) {
+              e.printStackTrace();
+          }
+      }
+
+      //3>创建字符输出流并指定写入的数据源文件
+      Writer out = null;
+      try {
+          out = new FileWriter(file,true);
+
+          //4>写入数据
+          //out.write(mess);
+
+          char[] chs = mess.toCharArray();
+          //out.write(chs);
+
+          for (char c : chs) {
+              out.write(c);
+          }
+      } catch (IOException e) {
+          e.printStackTrace();
+      }finally{
+          try {
+              if(out!=null)
+                  out.close();
+          } catch (Exception e2) {
+          }
+      }
+
+  }
+#+end_src
+
+** 1.5. 缓冲流
+
+*** 1.5.1. 输入流
+
+BufferedInputStream ：字节输入缓冲流
+
+BufferedReader ：字符输入缓冲流
+
+构造器：
+
+#+begin_src java
+#+end_src
+
+*** 1.5.2. 输出流
+
+BufferedInputStream ：字节输出缓冲流
+
+BufferedReader ： 字符输出缓冲流
+
+** 1.6. 对象流 （序列化）
+
+** 1.7. Properties
+

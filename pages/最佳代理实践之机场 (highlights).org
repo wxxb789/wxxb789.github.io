@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: 最佳代理实践之机场 (highlights)
+:END:
+:PROPERTIES:
+:author: [[manateelazycat.github.io]]
+:full-title: "最佳代理实践之机场"
+:category: [[articles]]
+:url: https://manateelazycat.github.io/proxy/2023/06/04/best-proxy.html
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023\-06\-21]]
+** 配置 proxy\-ns 命令行代理
+
+proxy\-ns 和其他工具的实现原理不一样的是， 它利用的是 Linux 的 namespace 来实现， 可以很好的支持进程下所有子进程的代理， 即使是那些静态编译的工具。 ([View Highlight](https://read.readwise.io/read/01h3d5f17j3bc6kg8dbfksbf28))
+** 一些网络测试命令
+
+•   命令 `proxy\-ns nc \-znv 9.9.9.9 53` 可以测试机场服务器的 TCP 支持情况
+•   命令 `proxy\-ns nc \-znvu 9.9.9.9 53` 可以测试机场服务器的 UDP 支持情况
+•   命令 `ss \-tlnp` 可以查看本地网络的链接情况 ([View Highlight](https://read.readwise.io/read/01h3d5f9keygcadmpr9mq9696p))
+** Linux 平台主要用 [Clash Verge](https://github.com/zzzgydi/clash\-verge) 这个客户端, ArchLinux 用户很简单: 用`yay \-S clash\-verge\-bin` 命令一键安装。 ([View Highlight](https://read.readwise.io/read/01h3d5dpxv8xfed9nyjw2senc3))

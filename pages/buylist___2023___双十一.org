@@ -1,0 +1,47 @@
+* DONE [[complete?]]
+DEADLINE: <2023-11-09 Thu>
+:LOGBOOK:
+CLOCK: [2023-11-09 Thu 14:41:44]
+CLOCK: [2023-11-09 Thu 14:41:45]
+CLOCK: [2023-11-09 Thu 14:41:52]--[2023-11-23 Thu 21:08:27] =>  342:26:35
+:END:
+* 保价
+:PROPERTIES:
+:collapsed: true
+:END:
+** 音响
+** 相机
+** 镜头
+** 三脚架
+* 双屏系统
+** DONE 显示器 lg 4k / 专业设计
+** DONE 拓展坞，快速切换
+** CANCELLED 笔记本支架， 多个
+* 家
+** 数码
+*** DONE NAS，四盘位，双盘位
+*** DONE 软路由
+*** CANCELLED 备用手机
+*** DONE cfb / sd 读卡器
+*** CANCELLED 录音耳机 科大讯飞
+:LOGBOOK:
+CLOCK: [2023-11-11 Sat 00:14:38]--[2023-11-11 Sat 00:14:39] =>  00:00:01
+:END:
+*** DONE micphone
+***
+** 客厅
+*** DONE 柜子
+*** 客厅窗帘
+*** 玄关小凳子
+** 卧室
+*** DONE 床 1.5 x 2
+*** DONE 柜子，杂物，可组合，客厅，卧室
+*** DONE 卧室桌子
+** 卫生间
+*** DONE 盥洗盆，柜子镜子，预留扫地机器人
+*** DONE 马桶, 350mm 坑距
+*** CANCELLED 花洒
+*** DONE 扫地机器人 p10pro 两个
+** 全屋
+*** DONE 小米智能开关, 网关
+*

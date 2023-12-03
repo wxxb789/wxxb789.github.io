@@ -1,0 +1,14 @@
+:PROPERTIES:
+:title: 新的课程来啦！... (highlights)
+:author: [[dotey on Twitter]]
+:full-title: "新的课程来啦！..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1664029676891766784
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** 新的课程来啦！ ([View Tweet](https://twitter.com/dotey/status/1664029676891766784))
+** 《用ChatGPT API构建系统》课程简介
+https://t.co/lDRGj2RIn1
+
+吴恩达：欢迎参加关于使用ChatGPT API构建系统的课程。 之前，Isa和我介绍了如何提示（Prompt）ChatGPT的课程。 但是一个系统需要的远不止一个提示（Prompt）或一个对LLM（大型语言模型）的调用。… https://t.co/lAK5SizOHa ([View Tweet](https://twitter.com/dotey/status/1664067592821014534))

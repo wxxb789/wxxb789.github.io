@@ -1,0 +1,12 @@
+#+tags: windows, linux
+
+* windows
+** 1. Unique process ID. (PID)
+** 2. Threads (at least one)
+** 3. Private virtual address in which a process is executed and later it will mapped to the physical memory
+** 4.. List of open handles to system resources like files, semaphore and communication ports.
+** 5. Access tokens, which contains information to prevent executing the process from a non privileged user account.
+* windows vs linux
+** 1. In Linux, if the parent process is closed then all the associated child process are forced to exit along with their parent. But still you can make it work like in Windows.
+** 2. In Windows, it is the other way around. Even when you close a parent process the child processes will be continuing with what they were doing.
+** 3. In Windows, the child process will contain only one information ( parent PID ) about their parent. They will not store any information about a process which created their parent process.

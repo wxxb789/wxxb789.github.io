@@ -1,0 +1,74 @@
+:PROPERTIES:
+:title: I Feel Bittersweet Shari... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[dan_abramov on Twitter]]
+:full-title: "I Feel Bittersweet Shari..."
+:category: [[tweets]]
+:url: https://twitter.com/dan_abramov/status/1682029195843739649
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-28]]
+** 📌
+** #+BEGIN_QUOTE
+** i feel bittersweet sharing i’m leaving my job at meta in a few weeks. working in the react org at meta has been an honor. i am thankful to my past and present colleagues for taking me in, letting me make mistakes, helping me see my strengths, being kind, and sharing their time.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029195843739649))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** for the past three years, i kept saying i’d leave “in a year or so” but the moment never felt right. i wanted to (1) finish the new docs and (2) see a broadly usable Suspense data fetching integration shipping. after years of work from the team, both have shipped this spring.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029256401092609))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** i felt hesitant leaving earlier because not too long ago, leaving meta used to mean leaving the react team. that would feel too sad for me. but it is not true anymore. react has become a multi-company project, and there are several independent engineers on the team too.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029464736378880))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** i am staying on the react team as an independent engineer, similar to @sophiebits and @sebsilbermann. this means that i will not be actively sponsored to work full-time on react by any company, but i will stay involved in the team’s work and attend our meetings.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029555740200962))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann the exact nature of my future involvement is not yet clear to me. when i started on the react team seven years ago, i used to mostly write code. however, my teammates often outshine me at that, and i found myself gravitating to doing other things over time.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029622140219393))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann one of the things i naturally gravitated towards was explaining things. i practiced writing on https://t.co/Bc6qHYEu5W, and later @rachelnabors inspired me to write https://t.co/JfirTx36Q8 together. i poured my heart into that project, but i bit off a bit more than i could chew.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029676016062467))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors what happened is that my standard for writing has gone higher but my writing ability did not. i find it difficult to write now because i can’t match the standard in my own head anymore. this will probably go away with time, but i need a little break from writing words.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029743112327168))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors sometimes people think i write a lot of code for react, but i haven’t been doing that for a while. aside from co-writing the new docs, the rest of my contributions in the past few years have mostly been community glue work: being a bridge between the community and the team.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029805485830145))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors although i enjoy this type of work, it is not sustainable to do on my own, and it has taken a toll emotionally. at some point being a single point of failure stops being fun, and i was feeling that i’m failing both the team and the community. we needed to learn to scale it up.  ([View Tweet](https://twitter.com/dan_abramov/status/1682029863371431936))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors over the last year, we’ve been building a new wing of the react team focused on community glue work. i trust @Eli_White @kmiddleton14 @lunaleaps @mattcarrollcode @rickhanlonii to carry this torch in a sustainable way. i will stay very closely involved. https://t.co/brigLdszb6  ([View Tweet](https://twitter.com/dan_abramov/status/1682030005214404611))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors @Eli_White @kmiddleton14 @lunaleaps @mattcarrollcode @rickhanlonii on the engineering side, i fully trust @en_JS technical leadership at Meta and @sebmarkbage technical leadership at Vercel. currently, only two companies are sponsoring employees to work full-time on React, but we’d like to onboard contributors from other companies in the future.  ([View Tweet](https://twitter.com/dan_abramov/status/1682030065281007616))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors @Eli_White @kmiddleton14 @lunaleaps @mattcarrollcode @rickhanlonii @en_JS @sebmarkbage finally, a little personal note. this is not a part of some kind of a grand plan. i don’t do “plans” and “goals”. i just had a hunch that now that the things i care about are not going to fall on the floor, it’s the right moment to try something new and feel like a beginner again  ([View Tweet](https://twitter.com/dan_abramov/status/1682030118469001218))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors @Eli_White @kmiddleton14 @lunaleaps @mattcarrollcode @rickhanlonii @en_JS @sebmarkbage idk what i’ll do next yet. might do some youtube, some consulting. i do feel a bit itchy to write some product code in react with a fast iteration cycle outside of a large company. maybe i’ll do a combination of all of that. i kinda want to just do nothing too. we’ll see :)  ([View Tweet](https://twitter.com/dan_abramov/status/1682030192351649796))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @sophiebits @sebsilbermann @rachelnabors @Eli_White @kmiddleton14 @lunaleaps @mattcarrollcode @rickhanlonii @en_JS @sebmarkbage i feel a little relieved, a little scared, but mostly thankful. i’m grateful to @jingc for noticing me, @tomocchino for believing in me, and @sebmarkbage & @sophiebits for teaching me everything. work is people, and you’re the best i could hope for. see y’all at the weekly syncs!  ([View Tweet](https://twitter.com/dan_abramov/status/1682030417728389122))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** </> 
+
+![](https://pbs.twimg.com/media/F1fGaGwacAAiKfM.jpg)  ([View Tweet](https://twitter.com/dan_abramov/status/1682031148040597508))
+** #+END_QUOTE

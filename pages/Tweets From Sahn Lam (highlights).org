@@ -1,0 +1,14 @@
+:PROPERTIES:
+:title: Tweets From Sahn Lam (highlights)
+:author: [[sahnlam on Twitter]]
+:full-title: "Tweets From Sahn Lam"
+:category: [[tweets]]
+:url: https://twitter.com/sahnlam
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-22]]
+** Dive into the inner workings of SQL queries in our latest video. Explore how query execution plans can improve database performance and learn more about the execution order of SQL operators.
+
+Watch here: https://t.co/psB4AeLEDr 
+
+![](https://pbs.twimg.com/media/FwtRydsaMAAPYe6.jpg) ([View Tweet](https://twitter.com/sahnlam/status/1660510823012503552))

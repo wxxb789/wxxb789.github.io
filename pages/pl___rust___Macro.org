@@ -1,0 +1,8 @@
+* #+title: pl/Rust/Macro
+* =assert!=
+* =cfg!=
+* =env!=
+* =file!=
+* =write!=
+* =panic!=
+*

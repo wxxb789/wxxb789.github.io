@@ -1,0 +1,11 @@
+*
+* editor
+** emacs
+** vim, neovim
+** vscode
+** visual studio
+** jetbrain
+* browser
+** surfingkeys
+** vimium
+** Vimium C

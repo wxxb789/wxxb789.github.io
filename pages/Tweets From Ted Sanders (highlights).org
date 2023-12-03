@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: Tweets From Ted Sanders (highlights)
+:author: [[sandersted on Twitter]]
+:full-title: "Tweets From Ted Sanders"
+:category: #tweets
+:url: https://twitter.com/sandersted
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-16]]
+** Just dropped: updated guide for Q&A with GPT and embeddings-based search.
+
+Discusses:
+- Why search is better than fine-tuning
+- What types of questions this fails on
+- How to troubleshoot & improve your system
+
+If you have ideas to improve, I'll do them.
+
+https://t.co/6XnbzUmHBF ([View Tweet](https://twitter.com/sandersted/status/1646967124932579328))

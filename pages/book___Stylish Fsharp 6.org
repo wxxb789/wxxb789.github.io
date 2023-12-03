@@ -1,0 +1,6 @@
+#+title: book/Stylish Fsharp 6
+#+tags: fsharp, dotnet
+
+* [[../assets/Stylish_Fsharp_6_1650459971729_0.pdf][Stylish Fsharp 6.pdf]]
+*
+*

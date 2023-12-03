@@ -1,0 +1,225 @@
+* 终极一夜狼人杀指南
+* 游戏流程
+#+begin_quote
+- 黄昏 Dusk 执行黄昏动作
+- 黄昏结束，所有人睁眼检查自己的 Mark
+- 夜晚 Night 执行夜晚动作
+- 夜晚结束，所有人睁眼，并开始发言
+- 发言结束开始投票
+#+end_quote
+* 睁眼顺序
+#+begin_example
+- -8 : 模仿者 Copycat
+- -6 : 吸血鬼 Vampire/领主 The Master/伯爵 The Count
+ - -6B : 伯爵 The Count (also wakes up at -6)
+ - -6C : 血奴 Renfield
+- -5: 病毒感染者 Diseased
+- -4 : 丘比特 Cupid
+- -3 : 煽动者 Instigator
+- -2 : 牧师 Priest
+- -1 : 刺客 Assassin
+ - -1B : 见习刺客 Apprentice Assassin
+- 00 : 恋人 Lovers
+- 5D : 神射手 Marksman
+- 6C : 小偷 Pickpocket
+- 7D : 小魔怪 Gremlin
+#+end_example
+* 阵营
+- 吸血鬼阵营
+
+#+begin_quote
+吸血鬼 领主 伯爵 血奴
+
+#+end_quote
+
+- 村民阵营
+
+#+begin_quote
+模仿者 病毒感染者 丘比特 煽动者 牧师 神射手 小偷 小魔怪
+
+#+end_quote
+
+- 刺客阵营
+
+#+begin_quote
+刺客
+
+#+end_quote
+
+- 见习刺客阵营
+
+#+begin_quote
+见习刺客
+
+#+end_quote
+* 角色
+- *模仿者*
+
+#+begin_quote
+从牌仓取一张牌并变成这个角色（包括功能和阵营）。
+
+#+end_quote
+
+- *吸血鬼*
+
+#+begin_quote
+所有吸血鬼睁眼共同决定将一个吸血鬼标记放置于一名非吸血鬼玩家面前。
+
+#+end_quote
+
+- *领主*
+
+#+begin_quote
+如果有另一名吸血鬼玩家投票给领主，那么领主受到保护，不会死。
+
+#+end_quote
+
+- *伯爵*
+
+#+begin_quote
+吸血鬼闭眼后继续执行放置标记动作（Mark of Fear）。
+
+#+end_quote
+
+- *血奴*
+
+#+begin_quote
+类似爪牙，吸血鬼们竖直示意。放置标记给自己（Mark of Bat）。
+
+#+end_quote
+
+- *病毒感染者*
+
+#+begin_quote
+放置标记（Mark of Diease），投票给病毒感染者或有此标记的人不会赢。
+
+#+end_quote
+
+- *丘比特*
+
+#+begin_quote
+放置标记（Mark of Love），不能给自己。
+
+#+end_quote
+
+- *煽动者*
+
+#+begin_quote
+放置标记（Mark of Traitor）。
+
+#+end_quote
+
+- *牧师*
+
+#+begin_quote
+放置干净标记（Mark of Clarity）给自己和另一个玩家。
+
+#+end_quote
+
+- *刺客*
+
+#+begin_quote
+放置标记（Mark of Assasin），可以给自己。胜利条件是有标记的人死亡。
+
+#+end_quote
+
+- *见习刺客*
+
+#+begin_quote
+可以看到谁是刺客，若没有刺客，则见习刺客升级为刺客并放置标记。胜利条件刺客死亡。
+
+#+end_quote
+
+- *神射手*
+
+#+begin_quote
+可以看一个标记和一个卡片，但不能是同一个人。
+
+#+end_quote
+
+- *小偷*
+
+#+begin_quote
+偷标记，可以看。
+
+#+end_quote
+
+- *小魔怪*
+
+#+begin_quote
+可以交换两名玩家的标记或者卡片，不包括自己。
+
+#+end_quote
+* 标记 Marks
+- *Vampire*
+
+#+begin_quote
+变成吸血鬼，但保留能力，由吸血鬼们共同决定放置。
+
+#+end_quote
+
+- *Fear*
+
+#+begin_quote
+给非吸血鬼玩家。使角色夜晚能力失效。
+
+#+end_quote
+
+- *The Bat*
+
+#+begin_quote
+血奴给自己，至于其他玩家面前时没有效果。
+
+#+end_quote
+
+- *Diseased*
+
+#+begin_quote
+病毒感染者放置。投给拥有此标记的人无法赢。
+
+#+end_quote
+
+- *Love*
+
+#+begin_quote
+同死
+
+#+end_quote
+
+- *Traitor*
+
+#+begin_quote
+由煽动者放置，胜利条件变成友方阵营有人死去。在阵营只有一人或者独立阵营的情况下，无效果。（我认为不可以给自己）
+
+#+end_quote
+
+- *Assassin*
+
+#+begin_quote
+由刺客放置。刺客胜利条件是有此标记的人死亡。刺客可以给自己。
+
+#+end_quote
+
+--------------
+
+#+begin_example
+**特别提示**
+标记（Mark）的能力大于角色牌（Card）的能力
+#+end_example
+
+--------------
+* 选角
+| 六人            | 七人                 | 八人                           | 九人          |
+|-----------------+----------------------+--------------------------------+---------------|
+| 1.伯爵 | 领主   |                      |                                | 1.领主        |
+| 2.血奴 | 吸血鬼 |                      |                                | 2.血奴        |
+| 3.模仿者        |                      |                                |               |
+| 4.煽动者        |                      |                                |               |
+| 5.牧师          |                      |                                |               |
+| 6.刺客          |                      |                                |               |
+| 7.神射手        |                      |                                |               |
+| 8.小偷          |                      |                                |               |
+| 9.小魔怪        |                      |                                |               |
+|                 | 10.病毒感染者 | 刺客 | 10.病毒感染者 | 刺客           | 10.病毒感染者 |
+|                 |                      | 11.刺客 | (领主，吸血鬼，公爵) | 11.刺客       |
+|                 |                      |                                | 12.吸血鬼     |

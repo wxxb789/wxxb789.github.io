@@ -1,0 +1,7 @@
+#+tags: se,
+#+alias: se/dp, design pattern,
+
+* TODO [[design pattern/Behavioral Pattern/Visitor]]
+* TODO [[design pattern/Structural Pattern/Facade]]
+*
+*

@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: OpenAgents 是一款开源平台，它集成了三... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "OpenAgents 是一款开源平台，它集成了三..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1714363252467970444
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-18]]
+** 📌
+** #+BEGIN_QUOTE
+** OpenAgents 是一款开源平台，它集成了三个功能强大的代理：DataAgent 专门进行数据分析，PluginsAgent 负责插件的整合，而 WebAgent 则能借助浏览器Sidebar插件，自动操作网页。
+
+整个平台的操作类似于ChatGPT，是基于聊天界面。
+
+DataAgent 可以对数据集进行分析、检索和生成图表。对于复杂的需求，可以类似于OpenAI的高级数据分析工具写代码生成。
+
+PluginsAgent 则是类似于ChatGPT的插件，能借助插件调用外部工具做一些事。
+
+WebAgent 是一个浏览器 Sidebar 插件的形式，在Sidebar中可以基于当前网页聊天，也可以根据聊天中用户的要求对网页进行操作。
+
+具体可以参考其项目首页：
+https://t.co/lhtD0YzAeF
+
+另外似乎浏览器插件部分代码并未开源，只是提供了一个打包后的 zip 文件。  ([View Tweet](https://twitter.com/dotey/status/1714363252467970444))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 另外有一个在线测试的演示网站：https://t.co/oJaX8HaosD  ([View Tweet](https://twitter.com/dotey/status/1714365017141748007))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** WebAgent的实现可以参考这个开源项目：
+
+https://t.co/vXk8G4aVt6  ([View Tweet](https://twitter.com/dotey/status/1714376585162174920))
+** #+END_QUOTE

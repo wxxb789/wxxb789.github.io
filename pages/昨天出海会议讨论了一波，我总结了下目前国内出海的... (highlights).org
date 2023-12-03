@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: 昨天出海会议讨论了一波，我总结了下目前国内出海的... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[henuwangkai on Twitter]]
+:full-title: "昨天出海会议讨论了一波，我总结了下目前国内出海的..."
+:category: [[tweets]]
+:url: https://twitter.com/henuwangkai/status/1684856902079979521
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-29]]
+** 📌
+** #+BEGIN_QUOTE
+** 昨天出海会议讨论了一波，我总结了下目前国内出海的几个流派以及对应的标杆，给大家同步下：
+
+ 1、集团军——Tiktok、拼多多、Shein、YY、滴滴等（小米等偏硬件出海就不说了）； 这个流派很重要的特征是：有庞大资源，并且能深入目标国家搭建完整的本地化团队。  ([View Tweet](https://twitter.com/henuwangkai/status/1684856902079979521))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 对这些集团军而言，做海外倒和国内差不多，就是重复招聘、推广等流程就行，无论是海外招聘还是招募懂海外的国人都简单； 
+
+2、大生意流派——国内直播、社交、工具出海的很多，多数不知名，都属于不对国内PR的企业，比较知名的就是上市的猎豹。  ([View Tweet](https://twitter.com/henuwangkai/status/1684856905963864064))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 这种规模不算太大到不了1～10亿美金市值的，都是做成了一个大生意（冷知识：猎豹现在不足1亿美金市值）  
+
+3、IOS流派（偏产品）——诸如谜底科技（柳毅的团队，谜底时钟等）、滴答清单、潮汐等等。 这类是产品优秀，多数是IOS生态，通过appstore推荐完成出海，多数是工具型产品，只需要进行语言转换即可  ([View Tweet](https://twitter.com/henuwangkai/status/1684856909734559745))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 团队规模都较小，最庞大的是独立开发者群体； 
+
+4、小生意流派（偏投放）——这类就更是国内很少有声音，他们就是做个产品、投放，跑通模型之后赚钱。 能做大就持续运营产品，到顶就再做新品。 和跨境电商差不多，本质上互联网产品只不过是投流的供应链而已；  ([View Tweet](https://twitter.com/henuwangkai/status/1684856913974939648))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 5、全球视野流派——Xmind、monica等等。 随着AI这波兴起，国内多了很多起步就直接出海的团队，当然前几年web3其实也有一波。 
+这个流派中最佩服Xmind，二十多年前就专做海外市场，很多互联网同行都以为他们是海外团队。然后我判断由于国内对AI的限制，我们接下来会出现大批直接出海的AI 创业team；  ([View Tweet](https://twitter.com/henuwangkai/status/1684856919951904768))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 6、沉迷东南亚市场——这个算大流派中的细分。因为从目前国内出海现状来看，多数是选择东南亚市场，很少有直接打欧美市场的；  
+
+7、专做华人市场——lark（飞书海外版本）等等。很多出海team是专门做海外华人市场的，也没想过要做白人生意（当然Lark等大集团还是策略选择问题，华人容易打入一些）。  ([View Tweet](https://twitter.com/henuwangkai/status/1684856923106004992))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 除了以上流派，我还十分推荐大家关注下中国台湾的团队，我咨询过台湾的朋友，对他们而言：做大陆市场，心理门槛其实和做欧美等差不多。  ([View Tweet](https://twitter.com/henuwangkai/status/1684856926482436096))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 因为都用Google、Facebook、ins等等，而且很有全球视野，和大陆团队差别还挺大。 所以如果你问台湾团队瞄准哪个国家，非常可能大陆并不是首选。
+
+ 这里推荐研究下Forest，我查到是台湾团队做的，也是IOS产品流派。  ([View Tweet](https://twitter.com/henuwangkai/status/1684856930307547136))
+** #+END_QUOTE

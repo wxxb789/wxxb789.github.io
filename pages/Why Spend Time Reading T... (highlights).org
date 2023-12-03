@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: Why Spend Time Reading T... (highlights)
+:author: [[@akshatvig on Twitter]]
+:full-title: "Why Spend Time Reading T..."
+:category: #tweets
+:url: https://twitter.com/akshatvig/status/1605688145420361728
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-23]]
+** Why spend time reading technical papers and how to maximize the learnings from reading them?
+ 
+A twitter 🧵on a crucial yet often overlooked skill on reading technical papers efficiently ([View Tweet](https://twitter.com/akshatvig/status/1605688145420361728))
+** Why I read technical papers?
+ 
+I read technical papers to gain insights that can be applied to my work & to deepen my understanding of subject that piques my curiosity. ([View Tweet](https://twitter.com/akshatvig/status/1605688149107253259))
+** How do I pick which paper to read?
+ 
+I seek recommendations from experts or individuals who frequently engage in reading. e.g. When I joined the SimpleDB team in 2011, I asked @somu_peri  for suggestions on which papers to read before starting on the team. ([View Tweet](https://twitter.com/akshatvig/status/1605688152525623296))
+** Other approaches I follow to generate a list of papers to read:
+ 
+1/ Look at citations in papers I am currently reading,
+ 
+2/ Review the list of  accepted papers at conferences (OSDI, NSDI, USENIX ATC, FAST, VLDB), and
+ 
+3/ Keep track of relevant blogs ([View Tweet](https://twitter.com/akshatvig/status/1605688154744246272))
+** How I read a paper?
+ 
+1/ I do a fast initial pass,
+ 
+2/ Search for supplementary materials such as YouTube videos or blog posts,
+ 
+3/ A thorough read-through of the paper to maximize my understanding and retention of the ideas. ([View Tweet](https://twitter.com/akshatvig/status/1605688157994983424))
+** The first pass is a rapid overview of the paper, in which I gain a broad understanding by reading the title, abstract, and introduction, as well as the conclusions.
+ 
+I also scan the section and subsection headings, but not concern myself with the details at this stage. ([View Tweet](https://twitter.com/akshatvig/status/1605688160373313536))
+** Upon completing the initial pass, I have a high level understanding of the paper's type, any similar papers I have read in the past, main contributions of the paper, and overall quality of the work. This also allows me to contextualize the paper & assess its value to my interests ([View Tweet](https://twitter.com/akshatvig/status/1605688163032244225))
+** During the second pass, I begin by searching for the paper online. If the paper was presented at a conference, I may be able to find a video by one of the authors. By watching this video, I gain a better understanding of the key points being emphasized by the presenter. ([View Tweet](https://twitter.com/akshatvig/status/1605688166933045267))
+** After the first or second pass, I often discard most of the papers that I have read. Various reasons for discarding include  insufficient knowledge of the subject matter, unfavorable impression of the paper.
+ 
+Time is currency and it is important to be selective. ([View Tweet](https://twitter.com/akshatvig/status/1605688170225483778))
+** During the third pass, I carefully read the details in the sections after the introduction and make note of key points that stand out to me, whether positively or negatively. After completing this thorough reading, I should be able to summarize the paper. ([View Tweet](https://twitter.com/akshatvig/status/1605688174742642688))
+** The third pass is similar to performing code/design reviews for my peers, where I effectively rewrite the code on a piece of paper to fully comprehend the choices made, alternative options that could have been considered, and potential pitfalls. ([View Tweet](https://twitter.com/akshatvig/status/1605688176407740417))
+** Blogs I follow https://t.co/kvATbk1ki9 https://t.co/Il4HaoLQLY  and similar ideas presented in this paper on how to read a paper https://t.co/QDvhaetGF1 
+
+Please share your thoughts if you follow a different approach, I am interested in learning alternate strategies. ([View Tweet](https://twitter.com/akshatvig/status/1605688178907586560))
+** An example of a paper that I read and found helpful for gaining a deeper understanding of distributed transactions is - Timestamp based ordering for concurrency control where serialization order is selected a priori & without clock synchronization https://t.co/nyj6m78AJU ([View Tweet](https://twitter.com/akshatvig/status/1605688180724076544))

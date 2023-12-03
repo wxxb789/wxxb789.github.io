@@ -1,0 +1,5 @@
+* #+title: pl/csharp/delegate
+* =delegate= is a object in .net.
+*
+* bad side
+**

@@ -1,0 +1,5 @@
+#+tags: database, pl/clojure, pl/clojurescript, in-memory database,
+
+* link
+[[https://github.com/tonsky/datascript][tonsky/datascript: Immutable database and Datalog query engine for Clojure, ClojureScript and JS (github.com)]]
+*

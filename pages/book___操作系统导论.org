@@ -1,0 +1,10 @@
+#+tags: os,
+
+* [[https://book.douban.com/subject/33463930/][操作系统导论 (豆瓣) (douban.com)]]
+* [[https://book.douban.com/subject/19973015/][Operating Systems (豆瓣) (douban.com)]]
+* [[https://weread.qq.com/web/bookDetail/db8329d071cc7f70db8a479][操作系统导论-雷姆兹·H.阿帕希杜塞尔 安德莉亚·C.阿帕希杜塞尔-微信读书 (qq.com)]]
+* 主要讨论三个部分
+** 虚拟化
+** 并发
+** 持久性
+*

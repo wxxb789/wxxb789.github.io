@@ -1,0 +1,53 @@
+:PROPERTIES:
+:title: 𝗛𝗼𝘄 𝗚𝗜𝗧 𝗪𝗼𝗿𝗸𝘀 Git Is A... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[milan_milanovic on Twitter]]
+:full-title: "𝗛𝗼𝘄 𝗚𝗜𝗧 𝗪𝗼𝗿𝗸𝘀 Git Is A..."
+:category: [[tweets]]
+:url: https://twitter.com/milan_milanovic/status/1712102688006050288
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-12]]
+** 📌
+** #+BEGIN_QUOTE
+** 𝗛𝗼𝘄 𝗚𝗜𝗧 𝗪𝗼𝗿𝗸𝘀
+
+Git is a distributed version control tool that facilitates monitoring changes made to your code over time. Git makes it simple to track changes to your codebase and collaborate on projects with others. It was authored by Linus Torvalds in 2005 for developing the 𝗟𝗶𝗻𝘂𝘅 𝗸𝗲𝗿𝗻𝗲𝗹, with other kernel developers contributing to its initial development.
+
+It enables us to 𝘁𝗿𝗮𝗰𝗸 𝗰𝗵𝗮𝗻𝗴𝗲𝘀 𝗶𝗻 𝗼𝘂𝗿 𝗰𝗼𝗱𝗲 𝗮𝗻𝗱 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝘄𝗶𝘁𝗵 𝗼𝘁𝗵𝗲𝗿𝘀, by working on a different part of a codebase. When we say distributed, we may think we have code on two locations, remote server and locally, but the story is a bit more complex.
+
+Git has three storages locally: 
+
+𝟭. 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘆 - This is where you work and your files live (also called "untracked"). All file changes here will be marked; if not saved to GIT, you will lose them. The reason is that GIT is not aware of those files.
+
+𝟮. 𝗦𝘁𝗮𝗴𝗶𝗻𝗴 𝗔𝗿𝗲𝗮 - When you save your changes with git add, GIT will start tracking and saving your changes with files. These changes are stored in the .git directory. Then, files are moved from the Working Directory to the Staging Area. Still, if you change these files, GIT will not know about them; you need to tell GIT to notice those changes.
+
+𝟯. 𝗟𝗼𝗰𝗮𝗹 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 - It is the area where everything is saved (commits) in the .git directory. When you want to move your files from the Staging Area to the Local Repository, you can use the git commit command. After this, your Staging area will be empty. If you want to see what is in the Local repository, try git log.
+
+Some basic 𝗚𝗜𝗧 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 are:
+
+🔹 𝗴𝗶𝘁 𝗶𝗻𝗶𝘁 -> Create a new git repo in the directory
+🔹 𝗴𝗶𝘁 𝗯𝗿𝗮𝗻𝗰𝗵 -> Create a new local branch 
+🔹 𝗴𝗶𝘁 𝗰𝗵𝗲𝗰𝗸𝗼𝘂𝘁 -> Switch branches
+🔹 𝗴𝗶𝘁 𝗮𝗱𝗱 -> Add a new file to your staging area
+🔹 𝗴𝗶𝘁 𝗰𝗼𝗺𝗺𝗶𝘁 -> Adds staged changes to your local repository
+🔹 𝗴𝗶𝘁 𝗽𝘂𝗹𝗹 -> pull code from your remote repo to your local directory
+🔹 𝗴𝗶𝘁 𝗽𝘂𝘀𝗵 -> Push local repository changes to your remote repo
+🔹 𝗴𝗶𝘁 𝘀𝘁𝗮𝘁𝘂𝘀 -> Show which files are being tracked (and untracked)
+🔹 𝗴𝗶𝘁 𝗱𝗶𝗳𝗳 -> See the actual difference in code between your Working Directory and your Staging Area
+
+Along with GIT commands, you can try and use some popular 𝗚𝗜𝗧 𝘁𝗼𝗼𝗹𝘀: GitHub Desktop, SourceTree, TortoiseGit, Git Extensions, GitKraken, SmartGit, Tower, etc.
+
+_______
+If you like my posts, please follow me, @milan_milanovic, and hit the 🔔 on my profile to get a notification for all my new posts.
+
+Grow with me 🚀!
+
+#git #softwareengineering #programming #techworldwithmilan #developers  ([View Tweet](https://twitter.com/milan_milanovic/status/1712102688006050288))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** If you want to learn more about Git, check my free weekly newsletter: https://t.co/RsnZAagwMP  ([View Tweet](https://twitter.com/milan_milanovic/status/1712102822030778569))
+** #+END_QUOTE

@@ -1,0 +1,618 @@
+
+
+* XML
+
+在javaWeb中标记型文档
+
+1. html
+2. XML
+
+=<标签名>内容</标签名>= =<标签名/>=  XML介绍 XML：eXtensible Markup
+Language(可扩展标记型语言)
+1. 标记型语言: html是标记型语言 XML也是使用标签进行操作的。
+2. 可扩展: html的标签都是固定的(w3c万维网联盟组织)
+   ,每个标签都是特定的作用:如=<a></a>=是超链接标签、 换行标签等等。
+   而XML的标签是自定义的,甚至可以使用中文:如=<my></my>=、=<猫></猫>=
+* XML的作用
+
+html的作用是使用标签将数据封装起来,浏览器通过解析标签在页面中显示内容。
+XML也可以用来显示数据,但不是其主要作用。XML的主要作用是用来存储数据:
+标签具有层次关系,在XML中就是利用标签的层次关系,有结构性的存储数据,进而能够
+体现成数据的层次关系。
+* XML的应用
+
+1.不同系统之间传输数据: String message = "AA : BB : 你好 : 2018-12-18";
+从字符串中获取信息时,就需要对字符串进行解析,而解析之前对字符串
+的格式必须先了解;而且一旦格式改变就必须重新了解新格式的意义;
+使用纯字符串保存信息阅读性和扩展性差;
+
+String message = " AA BB 你好 2018-12-18 <?> "; 阅读性和扩展性就加强了;
+
+2.用来表示有层次关系的数据 3.经常用作配置文件(√)
+在javaWeb中常见的配置文件: 1.properties:(键值对,本质是个Map)
+className=com.mysql.jdbc.Driver url=jdbc:mysql://localhost:3306/dbName
+username=root password=111 2.XML:(hibernate mybatis spring...)
+com.mysql.jdbc.Driver jdbc:mysql://localhost:3306/dbName root 111
+* XML的语法(及XML文件的内容组成)
+
+XML文件同样可以使用任何文本进行编辑，最后把扩展名改为.XML即可。
+1.XML的文档声明:
+XML的编辑第一步必须进行文档声明，表示文本内容为XML内容。
+且必须放在XML文件的第一行第一列，否则无法解析(也可用浏览器解析)，
+不识别其是XML文件。 属性: version 版本 1.0 encoding 编码格式 gbk utf-8
+gb2312表示支持中文。 stantalone是否依赖其它文件 yes/no (几乎不常)
+
+2.定义元素(标签) 1>包含内容的标签，有开始标签和结束标签。 如:内容
+2>不包含内容的标签 。如: 注意:
+①标签之间可以进行嵌套,以此来体现数据之间的层次关系,但是必须合理的嵌套:
+(错误,瞎搞)
+②在一个XML文件中,有且只能有一个根标签,其它标签都是根标签的子标签或孙标签。
+③在XML中空格和换行都会被当做XML的内容解析,所以以下两种形式意义是不一样的:
+html:无差 百度 百度
+
+XML:有区别,会对换行和空格做解析 张三
+
+张三
+
+④XML的命名规范:
+XML的命名可以包含字母、数字以及其它一些可见字符,包括中文。
+(1)严格区分大小写: 是两个标签 (2)不能以数字或_开头
+(3)不能以XML或XML或XML等开头(政治因素) (4)不能包含空格和:
+遵从标识符的定义规则
+
+3.定义属性: XML是标记型文档,所以标签也可以定义属性。
+(1)一个标签上可以有多个属性,属性名不能相同
+(2)属性和属性值之间用=连接,属性值用引号标志(单引号或双引号,通常使用
+双引号) (3)属性和属性之间使用空格隔开 (3)
+html的属性目的是给标签设置样式的,所以属性就是属性: 刘傲
+
+在XML中标签
+属性都是存储数据的,所以标签属性所表示的信息还可以使用子标签的形式来展示:
+
+张三
+
+4.注释 XML和html的注释一样: \\
+和html一样注释不能嵌套注释。
+
+5.转译字符 定义一个标签,标签封装的内容是 a<b,即: a<b
+XML解析出来会是其它内容,因为它会把小于号
+看成一组标签,所以和html一样这些特殊符号需要进行转译: & ----->& < -----><
+> ----->> “ ----->" ‘ ----->'
+
+6.CDATA区(了解)
+当标签内容中有多个特殊符号时,都需要进行转译,特别麻烦。那么
+就可以把内容放在CDATA区中,其里面的内容会原样显示,特殊符号
+也就不需要进行转译了。 格式:<[CDATA[内容]]> 如: "a"<"b"&&"d">"c"
+<[CDATA["a"<"b"&&"d">"c"]]>
+会把放入CDATA区的特殊符号当做文本进行解析,所以不需要转译。
+
+7.PI指令 (了解)
+XML的主要作用是用于存储数据,但是也能和html一样用于显示数据。
+而PI指令就是用于指挥解析器(如浏览器)如何解析XML文档的。
+常用命令之一就是XML-stylesheet命令:使用css样式格式化XML： Test.css\\
+name{ background-color:red; } age{ background-color:blue; }
+
+person.XML\\
+张三 20 注意:css样式对中文标签不起作用。
+
+XML中的标签和属性都是自定义的,那么为了防止在开发中的不规范使用,
+往往都会给XML文件引入约束文件,来限定在XML中可以使用的标签和属性,
+换言之就是约束文件定义了XML中的标签和属性;
+* XML的约
+
+为了保证数据符合某种特定的要求或限定,可以使用XML的约束。
+XML的约束有两种: dtd约束 和 schema约束
+
+在实际开发中约束文件很少让我们去写,只要求能够看懂约束文件并通过约束文件
+去创建XML文件就行了;
+** 1. dtd约束
+
+1、操作步骤: 1>创建dtd文件 以.dtd为后缀的文件
+(1)在XML文件中有几个元素,就在dtd文件中写几个<!ELEMENT>
+(2)判断元素是复杂元素还是简单元素 1,复杂元素,有子元素的元素 <!ELEMENT
+父元素名称 (子元素)> 2,简单元素,没有子元素的元素 <!ELEMENT 元素名称
+(PCDATA)> 2>在XML文件中引入dtd文件 <!DOCTYPE 根元素名称 SYSTEM
+"dtd文件路径">
+
+2、dtd约束的3中引入方式: 1,就是上面的,引入外部dtd文件
+2,在XML文件中定义dtd约束 3,使用外部网络dtd文件 <!DOCTYPE 根元素名称
+PUBLIC "dtd文件名称" "dtd文件的URL地址"> <!DOCTYPE html PUBLIC
+"-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+这种方式一般是以XML作为配置文件时使用,且这些dtd文件是已经写好并
+且固定的,所以根元素名称、dtd文件名称、dtd文件URL地址也是固定的。
+如,html的声明。
+
+3、使用dtd定义XML元素: 格式： <!ELEMENT 元素名 约束>
+
+1>XML简单元素的常用约束: <1>(PCDATA)：约束XML元素是字符串类型
+<2>EMPTY：约束XML元素为空,没有内容 <!ELEMENT sex EMPTY>
+<3>ANY：任意，约束XML元素可有内容也可无内容 <!ELEMENT height ANY> 183cm
+
+2>XML复杂元素的常用约束: <!ELEMENT 父元素名称 (子元素)> 如: <!ELEMENT
+person (name,age)>
+这表示父元素person中只能有子元素name和age元素,且name和age元素
+都只能有一个,且name在前age在后。 控制子元素在父元素中出现的次数: +
+：表示至少出现一次 或出现多次 ? ：表示出现0次或出现一次 *
+:表示任意次数,0次 1次 或多次 如: <!ELEMENT person (name+ , age? , sex/)>
+, ：子元素之间使用逗号隔开,其实逗号就表示子元素出现的顺序。 如:
+<!ELEMENT person (name+ , age? , sex/)> 子元素name,age,sex出现的顺序就是
+1name 2age 3sex | ：还可使用 | 将子元素隔开，|
+表示多个子元素在父元素中只能出现任意的一个 如: <!ELEMENT person (name+ |
+age? | sex*)> 子元素name age
+sex在父元素person中只能出现三者中任意一种的一个。
+
+4、使用dtd定义XML元素的属性: 格式: <!ATTLIST 元素名称\\
+元素属性名称 属性值类型 属性约束 元素属性名称 属性值类型 属性约束 ......
+> 属性值类型: CDATA：表示属性的取值为普通的文本字符串
+枚举：只能从枚举列表中任选其一。 如: (鸡肉|牛肉|猪肉|鱼肉)\\
+ID:表示属性的取值不能重复,属性的值只能由字母、下划线开始,
+不能出现空白字符
+
+属性约束:
+REQUIRED:表示该属性必须出现
+IMPLIED:表示该属性可有可无
+FIXED:表示属性的取值为一个固定值
+语法: FIXED "固定值" 直接值: 语法:
+"直接值" 。那么即使XML元素不写此属性,默认具
+有此属性并且属性的取值默认为该直接值；XML元素写了此属性并给
+属性赋了值,那么属性值就为指定的值。 示例: <!DOCTYPEperson [
+<!ELEMENTperson (student*)>//复杂元素
+<!ELEMENTstudent(#PCDATA)>//简单元素 <!ATTLISTstudent name
+CDATA#IMPLIED//name属性值是字符串型,可有可无 age
+(10|20|30)#REQUIRED//age属性值在10 20 30之间,且必须有 birthday
+CDATA#FIXED"2015"//birthday属性值是字符串型,且是固定值2015 sex
+ID#REQUIRED//sex属性必须有,且属性值只能以字母或下划线开始,不能有空格
+school CDATA"清华"//school属性值是字符串型,即使不写也存在,默认值是"清华"
+>]>
+
+<studentname="张三"age="10"birthday="2015"sex="_nan">
+
+4.使用dtd定义引用实体: 定义格式: <!ENTITY 实体名称 "实体内容">
+引用方式(在XML中): &实体名称;
+注意:定义实体需要写在内部dtd中,不能写在外部的dtd文件中,因为
+有的解析器不识别(如版本较高的浏览器)
+** 2. Schema约束
+
+Schema本质也是个XML文件:
+除了文件的扩展名不一样,文件的内部的编写和XML一模一样;
+
+1、dtd约束和schema约束的区别: 1>dtd约束的语法格式是: <!ELEMENT 元素名称
+约束> <!ATTLIST> <!ENTITY>
+schema是一种用作定义和描述XML文档结构与内容的模式语言。
+而schema文件本质就是一个XML文件,其语法结构和XML一模一样。
+
+2>一个XML中只能有一个dtd;
+但一个XML中可以有多个schema，多个schema使用名称空间(别名)进行区分，
+每个名称空间对应一个schema文档。
+
+3>dtd中只有字符串类型的数据；
+schema中支持更多的数据类型，并支持用户自定义的数据类型。
+如:年龄，是整数，在dtd中只能是数值型字符串的形式，而schema中
+可以直接定义成整型。还支持浮点型、布尔型、日期型等。
+
+4>dtd中可以定义实体；schema不能定义实体。
+
+5>schema的约束能力比dtd更强大，更复杂，可以对XML文档做出更细致
+的语义限制，schema的出现就是为了克服dtd的局限性。所以schema现
+在已经是w3c的标准，正逐步取代dtd。
+
+2、schema的开发流程: XML
+Schema其实是使用w3c预定义的元素和属性来创建schema文档，
+schema文档就规定了XML文档的结构和内容模式，被称为约束文档
+或模式文档，然后再使用schema文档来约束XML文档的结构和每个
+元素和属性的数据类型。
+
+3.使用MyEclipse创建schema文档： 1>创建一个schema文件，后缀名为.xsd
+New--->XML Schema
+我们可以看到schema文件的结构和XML文件的结构一样，第一行也是
+XML的文档声明，它的根节点必须是，事实证明 schema文件本质就是XML文件。
+
+根节点的常用属性: a.XMLns属性--->全称是:XML namespace(XML名称空间):
+它的值一般是一个URL地址,表示引入URL地址代表的名称空间所绑定的
+schema约束文档。
+schema文档的根节点的XMLns属性值一般是定值"http://www.w3.org/2001/XMLSchema",表示引入URL地址
+"http://www.w3.org/2001/XMLSchema"代表的名称空间所绑定的
+schema约束文档，及表示我们创建的所有schema文档的结构、标签和
+属性都来自于URL地址
+"http://www.w3.org/2001/XMLSchema"所代表的名称空间所绑定的
+schema约束文档所定义的并受其约束，而URL地址"http://www.w3.org/2001/XMLSchema"
+表示的名称空间所绑定的schema约束文档就是w3c标准，及所有schema
+文档的标签和属性都是w3c预定义的并受其约束。
+
+XMLns属性有两种形式： 1>默认的名称空间: 例 XMLns="名称空间URL"
+2>命名的名称空间: 例 XMLns:haha="名称空间URL" ，及haha就代表名称空间。
+这样就区分了引入的多个不同的名称空间所绑定的多个不同的schema约束文档。
+
+b.targetNamespace属性---->名称空间:
+值一般使用url地址，使用URL地址是为了最大可能的避免名称空间的重复。
+如："http://www.mySchema.com/test1"它的作用是相当于将当前schema
+文档声明的XML文档的内容绑定到了此URL地址上，使用当前schema文档在
+XML文档中只需要通过URL地址引入schema文件。
+
+c.elementFormDefault属性，有两个值:
+1>"qualified"表示将schema文档声明的所有的XML文档的标签和属性都绑定
+到了名称空间URL地址上。
+2>"unqualified"表示将schema文档声明的XML文档的根节点绑定到名称空间
+URL地址上。 一般值是"qualified"。
+
+2>在XML文件中有几个标签，在schema文件中的跟节点
+标签中就写几个标签，标签的name属性值就是XML 文件中的标签名。
+
+3>如果是复杂元素，标签中再嵌入 标签(复杂类型)，标签中再嵌入
+标签(有序的)； 如果是简单元素，在标签中加入type属性通过属性值
+指定简单元素的值的数据类型；
+
+4>最后将简单元素的标签嵌入到复 杂元素的标签的标签中。
+
+示例1:
+
+说明: 根标签的属性 1>XMLns="http://www.w3.org/2001/XMLSchema"
+使用的是默认名称空间的形式，那么这些、、、
+等标签都默认来自于URL地址"http://www.w3.org/2001/XMLSchema"
+代表的名称空间所绑定的schema约束文档所定义的标签和属性内容并受其约束，
+及schema文档使用的是w3c预定义的标签和属性。
+
+2>targetNamespace="http://www.mySchema.com/test1", targetNamespace属性
+的值是http://www.mySchema.com/test1,及将此schema文档中所声明的XML文档
+的所有内容绑定到了URL地址http://www.mySchema.com/test1上。
+
+3>elementFormDefault="qualified", elementFormDefault属性的值是
+qualified,即表示将此schema文档声明的所有的XML文档的标签和属性
+都绑定到URL地址http://www.mySchema.com/test1上。 或 示例2:
+
+\\
+
+说明: 根标签的属性XMLns:xs="http://www.w3.org/2001/XMLSchema"
+使用的是命名名称空间的形式，所以文档的标签和属性都是、 、、、
+type="xs:string" 、type="xs:int"的形式，表示这些标签和属性都来自于xs
+所代表的名称空间http://www.w3.org/2001/XMLSchema所绑定的schema约束
+文档所定义的标签和属性内容并受约束。
+
+5>在XML文件中引入schema文件: 示例1：
+
+张三 30 说明:
+1>首先用XML文档的根标签标签的XMLns属性引入schema文档，值为引入
+的schema文档所绑定的名称空间URL地址:XMLns="http://www.mySchema.com/test1"
+这里使用的是默认名称空间形式，那么XML文档的所有标签和属性()
+都默认来自于URL地址"http://www.mySchema.com/test1"所代表的名称空间所绑定
+的schema文档所定义的标签和属性并受其约束。
+
+2>然而名称空间只是schema文档的代表而已，还必须指定引入的schema文档的
+具体所在位置，使用xsi代表的空间名称所绑定的schema文档的schemaLocation
+属性来指定，schemaLocation属性有两个值，第一个值是名称空间URL地址，
+第二个值是名称空间URL地址所代表的schema文档的文件路径，两个值之间用
+空格分隔： xsi:schemaLocation="http://www.mySchema.com/test1
+../schema/test1.xsd">
+
+3> XMLns:xsi="http://www.w3.org/2001/XMLSchema-instance"使用命名名称
+空间的形式，xsi就代表URL地址"http://www.w3.org/2001/XMLSchema-instance"
+所表示的名称空间所绑定的schema文档。因为不可能存在两个默认的名称空间，
+所以使用命名名称空间的形式。而URL地址"http://www.w3.org/2001/XMLSchema-instance"
+所绑定的schema文档是w3c预定义的schema文档，解析器直接识别，不需要
+指定文件路径。
+
+或 示例2：
+
+张三 30
+
+说明: 1>在XML文档的根标签标签的XMLns属性中使用命名名称空间的形式引入
+schema文档:XMLns:mx="http://www.mySchema.com/test1"及mx就代表URL地址"http://www.mySchema.com/test1"代表的名称空间所绑定的schema文档。
+所以XML文档中的标签都是、、的形式，
+表示这些标签都来自于mx所代表的名称空间所绑定的schema文档定义的标
+签和属性并受其约束。
+
+2>还是使用xsi所代表的名称空间所绑定的schema文档的schemaLocation
+属性指定引入的schema文档的文件路径。
+xsi:schemaLocation="http://www.mySchema.com/test1 ../schema/test1.xsd">
+
+3>还是指定xsi所表示的名称空间的URL地址。
+XMLns:xsi="http://www.w3.org/2001/XMLSchema-instance" 或
+示例3：不使用名称空间直接引入schema文档:
+
+张三 30
+
+说明: 1>在XML文档的根标签中直接使用命名名称空间xsi代表的URL地址，
+所代表的名称空间，所绑定的schema文档的noNamespaceSchemaLocation属性
+(没有名称空间的schema文档路径)，值直接是schema文档的文件路径。
+那么XML文档的标签和属性默认来自于指定的schema文档所定义的属性和
+标签并受其约束。 xsi:noNamespaceSchemaLocation="../schema/test3.xsd">
+
+2>还是指定xsi所表示的名称空间的URL地址。
+XMLns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+注意:这种形式的schema文档的根标签中不能有targetNamespace
+属性,因为已经不需要通过名称空间来引入schema文档了。
+
+复杂元素指示器： 在schema文档中声明XML文档的复杂元素时，在复杂元素的
+标签中添加了< complexType >标签，complexType 的意思就是”复杂类型”,
+再在标签中又嵌套了 标签，最后再将声明的复杂元素所包含的简单元素的
+标签放入标签中，这个< sequence >标签就是复杂元素的指示器。
+
+常见指示器: sequence：XML文档中复杂元素包含的简单元素，按照schema文档
+标签中所有标签声明的简单元素的顺序出现，必须都出现且只能 出现一次。
+
+all：XML文档中复杂元素的简单元素，按照在schema文档标签中所有
+标签声明的简单元素必须都出现且只能出现一次，顺序无关。
+
+choice：XML文档中复杂元素的简单元素，按照在schema文档标签
+中所有标签声明的简单元素只能出现其中一个且只能出现一次。
+
+标签的常见属性： maxOccurs属性：标签的maxOccurs属性可设置当前
+标签声明的元素在父标签中最多出现的次数，如: 表示标签可在
+其父标签中最多出现两次。当maxOccurs="unbounded"表示出现的次数 没有限制。
+
+minOccurs属性：标签的minOccurs属性可设置当前
+标签声明的元素在父标签中至少出现的次数，如: 表示标签在其父标签中至
+少出现3次。
+
+标签： 表示可以添加任意元素
+
+XML标签的属性的声明： XML标签的属性的声明使用标签，如：
+标签的name属性值为声明的属性名；type属性值设置声明的属性值的数据类型；
+use属性设置声明的属性是否必须，值required表示声明的属性必须，不写use
+属性则表示声明的属性可有可无。
+注意：schema规定只有复杂元素能够声明属性。且元素属性的声明必须在
+声明复杂元素的标签的指示器标签之后标签之前。
+* XML的解析 (java技术)
+
+使用java技术实现对XML文档进行增删改查,对标签的增删改查及对属性的增删改查,
+文本等。
+** 1. 回顾
+
+Html的时候说过，对标记型文档的解析有DOM技术和SAX技术两种，
+而XML也是标记型文档，所以它的解析方式也是这两种：
+
+1>DOM技术解析XML同样是先将整个XML文档加载到内存中，再根据
+标签间的层次结构，将XML文档解析成树状结构，并在树状结构中
+把XML文档的每个标签、属性、文本都封装成了节点对象，进而通
+过操作不同的节点对象来操作XML文件。
+
+DOM解析的优点：将XML文档的所有标签、属性、文本都封装成了对象，
+可以很方便的对XML文档进行增、删、改、查操作。
+
+DOM解析的缺点：首先要将整个XML文档完全的加载到内存中，会耗时
+耗内存，如果文件过大时还会造成内存溢出。
+
+2>SAX技术解析XML，采用事件驱动，边读边解析。即从上到下，一行
+一行的解析，解析到某一个对象就把该对象返回。
+
+SAX解析的优点：因为对文档是从上到下一行一行的解析，所以不会造
+成内存溢出。
+
+SAX解析的缺点：也正是因为对文档是从上到下一行一行的解析，解析
+到某一对象就返回该对象，所以SAX技术只能实现查询操作，不能实现
+增、删、改操作，因为无法读取到整体的文档结构。
+** 2. XML解析器(API)
+
+了解了XML的两种解析方式，接下来就是实现对XML文档的解析。那么想
+要解析XML文档，首先就需要解析器。而不同的公司和组织针对DOM和SAX
+方式，提供了不同的解析器。常用的有：
+
+1>sun公司提供的 jaxp解析器 ---
+java自带的东西,就是属于javaSE的一部分,所以不需要引入任何的jar包直接使用;
+
+2>jdom组织提供的 jdom解析器
+
+3>dom4j组织提供的 dom4j解析器
+----第三方API,使用的之前必须导入第三方jar包;
+
+在这三种解析器中我们只学习jaxp和dom4j的使用，首先学习jaxp的原因
+是因为它是由sun公司提供的，java就是由sun公司开发的，而jaxp解析
+器对XML的解析提供了标准。而学习dom4j的原因是dom4j和jdom原来是一
+家公司，dom4j公司是后期从jdom公司中分离出去的，dom4j是在jdom的
+基础上进行了功能扩展，可以说是及jdom的优点于一身，而功能比jdom
+更加强大完善。而在实际开发中解析XML使用的最多的还是dom4j解析器。
+** 3. jaxp解析器
+
+jaxp开发包是由sun公司提供，它其实是JAVASE的一部分，所以可在
+JAVA_JDK_API进行查阅。
+
+首先我们先了解几个常用类，这些类在javax.XML.parsers包中。可以
+通过使用这些类，得到对XML文档进行解析的DOM解析器对象和SAX解析 器对象。
+*** 3.1. 针对dom方式
+
+DocumentBuilder：DOM解析器类(对象)
+DocumentBuilderFactory：DOM解析器工厂类
+
+以后凡是看见XxxFactory就是个工厂类,里面使用的肯定是工厂设计模式,
+用于创建的就是Xxx类的对象;
+
+DocumentBuilder对象的常用方法parse方法： Document | parse(File f)
+将给定文件的内容解析为一个XML文档， 并且返回一个新的 DOM Document 对象。
+Document | parse(InputStream is) 将给定 InputStream 的内容解析 为一个
+XML 文档，并且返回一个新的 DOM Document 对象。 Document | parse(String
+uri) 将给定 URI 的内容解析为一个XML文档， 并且返回一个新的 DOM Document
+对象。
+
+Document接口的常用方法： Element | getElementById(String elementId)
+通过id属性 获取节点对象； NodeList | getElementsByTagName(String
+tagname)通过 标签名获取节点对象。返回的是个集合NodeList。
+
+NodeList同样是个List容器,但不是java.util.List,是一个专门用于存储
+Element对象的List容器: 1)int | getLength():获取List的长度,元素个数
+2)Node | items(int index):获取参数角标对应的节点对象
+
+Element | createElement(String tagName) 创建标签节点 Text |
+createTextNode(String data) 创建文本节点
+
+父接口Node中方法: Node | appendChild(Node newChild)
+将参数节点添加到当前节点的子 节点列表的末尾 Node | removeChild(Node
+oldChild) 将参数子节点删除 Node | getParentNode() 获取当前节点的父节点
+Node | getFirstChild() 获取当前节点的第一个子节点 Node | getLastChild()
+获取当前节点的最后一个子节点 Node | cloneNode(boolean deep) 复制节点
+true深层复制 false浅层复制 String | getTextContent()
+以字符串形式返回标签封装的内容。 void | setTextContent("值")
+修改当前节点的文本内容 注意：
+1.Document接口、Element接口、Text接口都是Node接口的子接口。
+注意各个方法中的多态思想。 2.使用getElementsByTagName(String
+tagname)通过
+
+标签名获取节点对象。返回的是个集合NodeList。遍历NodeList集合：
+在NodeList集合中有: int | getLength() 集合中的节点数 Node | item(int
+index) 返回集合中的第 index 个节点。 如: NodeList nl =
+document.getElementsByTagName("a"); for(int i=0;i<nl.getLength();i++){
+nl.item(i); }
+
+回写XML：
+通过操作document对象和其它节点对象实现更新XML文档时,注意这里所谓
+的更新,实际更新的是加载进内存中的XML文档。而想达到更新实际的XML
+文档还得进行回写操作。
+回写XML文件要使用javax.XML.transform包下的Transformer类的对象(此
+抽象类的实例能够将源树转换为结果树),但是Transformer类是个抽象类不
+能实例化,所以使用TransformerFactory类的对象的newTransformer()方法。
+TransformerFactory类也是个抽象也不能实例化,所以使用其静态方法
+newInstance()方法来创建 TransformerFactory类的对象。
+得到Transformer对象后,使用Transformer对象的transform()方法实现回
+写,而transform()方法有两个参数
+参数1是:Source对象,表示源对象,而Source又是个接口不能实例化,所以
+使用其实现类的对象,而Source的实现类有多个,因为是DOM方式进行解析,
+所以使用DOMSource实现类的对象。
+常用的是参数是Node对象的构造器来创建DOMSource对象,因为Document接
+口是Node接口的子接口,所以构造器直接传document对象为参数即可。
+参数2是:Result对象,表示目标对象,Result也是接口不能实例化,所以使用
+其实现类的对象,而Result的实现类也有多个,因为对文件的操作一般使用
+IO流,所以使用StreamResult实现类的对象。常用的是参数是文件的字符串
+路径的构造器来创建StreamResult对象,所以构造器直接传XML文件的字符 串路径
+创建StreamResult对象即可。 TransformerFactory tff =
+TransformerFactory.newInstance(); Transformer tf = tff.newTransformer();
+tf.transform(newDOMSource(document), new StreamResult("url"));
+*** 3.2. 针对sax方式
+
+SAXParser：SAX解析器类 SAXParserFactory：SAX解析器工厂类
+通过API看到SAXParser类是个抽象类，不能实例化对象，是通过SAXParserFactory
+类的对象的newSAXParser()方法获取SAXParser类的对象的。
+而通过API看到SAXParserFactory类也是个抽象类，也不能实例化，是通过
+调用其静态方法newInstance()获取SAXParserFactory类的对象的。
+再看一下解析器类SAXParser的对象的常用方法： parse(File f, DefaultHandler
+dh) 使用指定的 DefaultHandler 将指定 文件的内容解析为 XML。
+parse(InputStream is, DefaultHandler dh) 使用指定的 DefaultHandler
+将给定的 InputStream 实例的内容解析为 XML。 parse(String uri,
+DefaultHandler dh) 使用指定的 DefaultHandler 将 给定统一资源标识符 (URI)
+描述的内容解析为 XML。 我们看到SAX解析器解析XML文档的parse()方法有两个参
+数。参数一是XML文档；参数二是事件处理器DefaultHandler，因为SAX解析技
+术是基于事件驱动的方式对XML文档进行解析的。
+
+看API在事件处理器DefaultHandler中常用方法就只有3 个：
+startElement(String uri, String localName, String qName, Attributes
+attributes) 接收开始标签。 characters(char[] ch, int start, int length)
+接收标签中封装的字符数据。 endElement(String uri, String localName,
+String qName) 接收结束标签。
+调用parse()方法解析XML文档需要传递两个参数。参数一是XML文档；参数二
+是事件处理器DefaultHandler，当把事件处理器传递进来，就相当于将事件处
+理器绑定在了XML文档上。Parse()方法被调用，事件处理器将自动执行。XML
+文档从上往下一行一行被解析，当解析到开始标签会自动驱动执行事件处理器
+的startElement()方法，startElement()方法的参数qName返回开始标签名称；
+当解析到文本会自动驱动执行事件处理器的characters()方法，characters()
+方法中使用字符串的String(char[] ch,int start,int length)构造器返回文
+本内容；当解析到结束标签会自动驱动执行事件处理器的endElement()方法，
+endElement()方法的参数qName返回结束标签的名称。
+
+使用jaxp的SAX方式解析XML文档，SAX方式只能实现查询操作，不能实现增删改操作
+** 4. dom4j技术介绍
+
+dom4j是一个组织，针对XML的解析它提供了解析器dom4j。dom4j的前身是jdom，
+它在jdom的基础上进行了功能扩展，比jdom功能更加强大，基于jdom的优点于
+一身。所以目前实际开发中解析XML使用最多的还是dom4j。
+但是dom4j它不是JavaSe的一部分，属于第三方开发包，所以想要使用dom4j第
+一步必须导入dom4j的开发jar包。---->dom4j-1.6.1.jar (1.6版本的)
+
+dom4j解析XML
+
+1. SAXReader解析器类: SAXReader creates a DOM4J tree from SAX parsing
+   events, 意思 SAXReader通过SAX解析创建一个dom4j树。
+   dom4j的底层是通过SAX方式解析出整个XML文档，再将整个XML文档生成DOM树，
+   进而可以进行增删改查操作。所以叫SAXReader。这就说明dom4j和jaxp是不一
+   样的，它不分DOM方式和SAX方式，而是与DOM方式和SAX方式为一体的。
+
+2.创建解析器对象，获取Document对象:
+先得使用SAXReader类默认无参的构造器创建解析器，然后再使用解析器的
+read()方法解析XML文档，返回的Document对象就代表XML文档： SAXReader
+reader = new SAXReader(); Document document = reader.read(url);
+
+3. read方法: Document | read(InputStream in) Document | read(File file)
+   Document | read(String url)
+
+4. Document是个接口，父接口是Node
+   再看Node接口，Document、Element、Text都是它的子接口。
+
+5. 常用方法： 1>Document的常用方法： Element | getRootElement()
+   获取根节点，返回值是Element对象，就代表根节点。 2>Element的常用方法：
+   1）Element | element(String name) 获取当前标签下的第一个参数名称子
+   标签(注意是直接子标签)，参数是子标签名，返回值是Element 2）List |
+   elements(String name) 获取当前标签下的所有参数名称子标签
+   (注意是直接子标签)，参数是子标签名，返回值是List。 3）List |
+   elements() 获取当前标签下的所有子标签(注意是直接子标签)，
+   返回值是List集合。 java.util.List
+
+4）Element | addElement(String name) 给当前标签添加参数名称子标签，
+返回值是Element代表添加的子标签。 (这个方法是其父接口Branch的方法)
+5）String | getText() 获取当前标签的文本内容，返回值是String 6）void |
+setText(String content) 给当前标签添加文本或修改当前标签
+的文本内容，参数就是添加的文本内容或修改后的文本内容。
+(这个方法是其父接口Node的方法) 7）Element | getParent()
+获取当前节点的父节点，返回值Element对象就 代表当前节点的父节点。
+(这个方法是其父接口Node的方法) 8）boolean | remove(Element)
+删除当前标签的参数子标签，参数Element 对象就是被删除的子节点对象。
+(这个方法是其父接口Branch的方法) 9）String | attributeValue(String
+name)获取当前标签的参数名称属性值。 10）Element | addAttribute(String
+name,String value)给当前标签添加
+属性或修改当前标签的属性，参数一是属性名称，参数二是属性值，返回值
+是当前标签。 11）Attribute | attribute(String
+name)获取当前标签的参数名称属性并
+将属性封装成Attribute对象。(是Node接口的子接口) 12）boolean |
+remove(Attribute)删除当前标签的参数Attribute对象属性，
+参数就是代表被删除的属性的Attribute对象。
+
+6. XML的回写： 1>XMLWriter XML写入器
+   XMLWriter类的构造器很多,而一般使用的是XMLWriter(OutputStream out,
+   OutputFormat format)
+   构造器来创建XMLWriter对象。此构造器的有两个参数,参数一是OutputStream
+   字节输出流的对象,也就是说XML写入器的底层是通过流去写入的;参数二是
+   OutputFormat对象。
+
+2>OutputFormat---> 输出格式器--->用于指定写入到XML文档的格式。
+OutputFormat也是个一般类,但是不使用其构造器来创建对象,而是使OutputFormat
+类的两个静态方法来创建输出格式器OutputFormat的对象： static OutputFormat
+| createCompactFormat()创建一个带有压实格式的
+输出格式器对象(压实格式指在一行,没有空格,没有换行)。 static OutputFormat
+| createPrettyPrint()创建一个漂亮格式的输出格
+式器对象(漂亮格式就是指XML文档的格式,有缩进层次关系)
+
+3>XMLWriter的常用方法: write(Doument document)
+写入XML文档，参数是Document对象 close() 关闭写入器 setEncoding(String
+encoding)设置写入XML的编码格式，只要保证和XML
+文档的编码格式一致就不会出现乱码问题。
+** 5. XPath技术介绍
+
+使用dom4j操作XML文档，因为dom4j的底层是通过SAX方式对XML文档进行
+解析的，然后再将整个XML文档生成DOM树。所以想要获取到某个标签并对
+其进行操作，必须从上往下依次拿到根节点、下一节点、再下一节点......直
+到拿到我们所需的节点，这样做的话，如果XML文档的层次关系很复杂的
+话是不是很麻烦。所以dom4j又提供了XPath技术，其作用就是可以直接获
+取到指定元素。本质就是通过标签间的层次关系表达式获取想要的指定元 素。
+
+打开XPath的帮助文档XPath Tutorial，选择General_chi/examples.html
+(中文)， XPath的常用的表达式： 实例1---->第一种表达式： /AAA
+表示根元素AAA标签 /AAA/CCC 表示根元素AAA下的所有CCC子标签 /AAA/DDD/BBB
+表示根元素AAA下的所有DDD子标签下的所有BBB子标签 实例2---->第二种表达式：
+//BBB 表示所有BBB标签 //DDD/BBB 表示所有父元素是DDD的所有BBB标签
+实例3---->第三种表达式： /AAA/CCC/DDD/*
+表示根元素AAA下的所有CCC子标签下的所有DDD子标签的 所有标签
+///////BBB表示所有的有3个祖先元素的BBB元素 ///表示所有的标签
+实例4---->第四种表达式： /AAA/BBB[1]表示根标签AAA下的第一个BBB子元素
+/AAA/BBB[last()]表示根标签AAA下的最后一个BBB子元素
+实例5---->第五种表达式： //@id表示所有的id属性
+//BBB[@id]表示所有具有id属性的BBB元素
+//BBB[@name]表示所有具有name属性的BBB元素
+//BBB[@*]表示具有任意属性的BBB元素 //BBB[not(@*)]表示没有属性的BBB元素
+实例6---->第六种表达式： //BBB[@id='b1']表示所有id属性值是b1的BBB元素
+//BBB[@name='bbb']表示所有name属性值是bbb的BBB元素 四、使用XPath技术：
+默认情况下Dom4j不支持XPath技术，如果想要通过dom4j使用XPath技术，
+必须先导入XPath的开发jar包。jaxen-1.1-beta-6.jar。
+
+dom4j提供了Document的两个方法用来支持XPath技术：
+1>selectNodes("XPath表达式") --->获取多个元素，返回值是List集合，
+泛型是Node。
+2>selectSingleNode("XPath表达式")--->获取单个元素，返回值是Node
+对象就代表XPath表达式所表示的标签。

@@ -1,0 +1,3 @@
+#+tags: distributed system,
+
+* [[https://book.douban.com/subject/26979326/][Distributed Systems, 3rd Edition (豆瓣) (douban.com)]]

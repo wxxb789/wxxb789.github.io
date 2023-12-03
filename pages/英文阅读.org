@@ -1,0 +1,43 @@
+*
+* links
+** [[https://emacs-china.org/t/topic/22639][【讨论】一种提升英文阅读体验的可能性 - Emacs-general - Emacs China (emacs-china.org)]]
+* #tools
+** 英语句子语法分析 #tools/online 
+[[http://enpuz.com/][Enpuz - 在线英语句子语法分析]]
+** NLTK (Natural Language Toolkit), 能够进行英文语句的词性划分
+*** 词干提取 stemming
+*** 词形还原 lemmatisation
+** ai tools
+*** chatGPT ask for example sentence
+** TODO emacs
+*** EAF 方案
+*** [[https://qiqijin.com/dictionary-overlay.html][dictionary-overlay (qiqijin.com)]]
+*** [[https://github.com/rayw000/translate-mode][rayw000/translate-mode: Paragraph-oriented Emacs minor mode for doing translation jobs. (github.com)]]
+*** [[https://github.com/manateelazycat/sdcv][manateelazycat/sdcv: Emacs interface for sdcv (Stardict console version) (github.com)]]
+***
+** browser extension
+*** relingo
+*** [[https://www.languagereactor.com/][Language Reactor]] extension for y2b, netflix
+***
+***
+** 词典工具
+*** [[https://github.com/ilius/pyglossary][ilius/pyglossary: A tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any modern operating system / device. (github.com)]]
+***
+**
+* principle
+** 使用变宽字体，较大的行宽（1.6）
+** 完成语法
+*** [[book/英语魔法师之语法俱乐部]]
+** 尝试 Bionic Reading
+** 透析阅读法
+关于“透析法”的书，作者伍君仪和恶魔的奶爸
+** 词典，词库
+*** [[https://github.com/skywind3000/ECDICT][skywind3000/ECDICT: Free English to Chinese Dictionary Database (github.com)]]
+*** [[http://download.huzheng.org/dict.org/][dictd-www.dict.org Dictionaries (huzheng.org)]]
+*** [[https://github.com/redguardtoo/mybigword][redguardtoo/mybigword: Use Zipf frequency of each word to extract English big words (github.com)]]
+*** The Little Dict
+** 翻译
+*** deepl
+* 不同形式的内容
+** web
+** pdf, epub

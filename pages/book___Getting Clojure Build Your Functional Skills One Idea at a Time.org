@@ -1,0 +1,4 @@
+#+title: book/Getting Clojure Build Your Functional Skills One Idea at a Time
+#+tags: clojure, lisp
+
+* [[../assets/Getting_Clojure_Build_Your_Functional_Skills_One_Idea_at_a_Time_1650459110804_0.pdf][Getting Clojure Build Your Functional Skills One Idea at a Time.pdf]]

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: 做数据库 CRUD 好多年，看过几本好书，《in... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "做数据库 CRUD 好多年，看过几本好书，《in..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1685881145890885632
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-31]]
+** 📌
+** #+BEGIN_QUOTE
+** 做数据库 CRUD 好多年，看过几本好书，《inside sql server 》系列，Oracle Concepts, Kimball 维度建模，Martin 《Data Intensive》
+
+我明白，这些都是业务系统的顶尖书籍，所以始终觉得技术未曾登峰，看到这位朋友的总结：
+
+https://t.co/YYrHLrdn4P
+
+才知道，底层实现，才能真正突破瓶颈，比如跳表 https://t.co/ii9SiLNYJu 
+
+![](https://pbs.twimg.com/media/F2VzYgEbwAA-AjT.jpg)  ([View Tweet](https://twitter.com/huangyun_122/status/1685881145890885632))
+** #+END_QUOTE

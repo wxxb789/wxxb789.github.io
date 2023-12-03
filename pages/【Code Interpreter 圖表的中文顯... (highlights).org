@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: 【Code Interpreter 圖表的中文顯... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[circleghost0723 on Twitter]]
+:full-title: "【Code Interpreter 圖表的中文顯..."
+:category: [[tweets]]
+:url: https://twitter.com/circleghost0723/status/1677718958525521920
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-09]]
+** 📌
+** #+BEGIN_QUOTE
+** 【Code Interpreter 圖表的中文顯示失敗怎麼辦？】
+
+感謝 @AxtonLiu Axton 協助解決這個的問題，影片短短的推薦快速看過，之後就比較不會有這個問題了。
+
+順便說一下解決過程中的發現。
+
+1. 發現字體錯誤時，可以主動詢問怎麼協助，ChatGPT 請我們提供字體檔
+
+2. 過程中我還嘗試上傳了一個 45 MB… https://t.co/PCgAeXFJde 
+
+![](https://pbs.twimg.com/media/F0hyeOuaMAAnd-i.jpg) ([View Tweet](https://twitter.com/circleghost0723/status/1677718958525521920))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @AxtonLiu Ethan Mollick 的文章：https://t.co/QL63zT2BGu ([View Tweet](https://twitter.com/circleghost0723/status/1677719323069255682))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @AxtonLiu 
+
+![](https://pbs.twimg.com/media/F0h02uJaYAEe1dl.jpg) ([View Tweet](https://twitter.com/circleghost0723/status/1677719380141146113))
+** #+END_QUOTE

@@ -1,0 +1,2 @@
+#+tags: se,
+#+alias: se/sd,

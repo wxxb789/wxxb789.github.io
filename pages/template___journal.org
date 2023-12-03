@@ -1,0 +1,15 @@
+* journal
+:PROPERTIES:
+:template: journal
+:template-including-parent: false
+:END:
+** My Day
+*** [[routine/morning]] Check List
+**** 睡够 7h 了么
+**** 800ml 喝水
+**** 补充碳水
+**** 维生素鱼油咖啡
+**** 做 TODO list 里面最困难的事情 （记住，这样可以帮助你对抗焦虑）
+*** [[routine/review]] What I Have DONE
+*
+*

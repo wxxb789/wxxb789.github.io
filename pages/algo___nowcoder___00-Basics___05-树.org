@@ -1,0 +1,502 @@
+* [05]
+** 1. 二叉树
+
+#+begin_src java
+  class Node<V>{
+   V value;
+   Node left;
+   Node right;
+  }
+
+  public class Node {
+   public int value;
+   public Node left;
+   public Node right;
+
+   public Node(int data) {
+    this.value = data;
+   }
+  }
+  // 先序遍历：（中左右）
+  public void preOrderRecur(Node head) {
+    if (head == null) {
+      return;
+    }
+    System.out.print(head.value + " ");
+    preOrderRecur(head.left);
+    preOrderRecur(head.right);
+  }
+  // 中序遍历：（左中右）
+  public void inOrderRecur(Node head) {
+    if (head == null) {
+      return;
+    }
+    inOrderRecur(head.left);
+    System.out.print(head.value + " ");
+    inOrderRecur(head.right);
+  }
+  // 后序遍历：（左右中）
+  public void posOrderRecur(Node head) {
+    if (head == null) {
+      return;
+    }
+    posOrderRecur(head.left);
+    posOrderRecur(head.right);
+    System.out.print(head.value + " ");
+  }
+#+end_src
+*** 1.1. 二叉树遍历（非递归）
+
+
+1. 先序遍历（中左右）：（null
+   节点不处理）使用一个辅助栈，压入头节点，然后弹栈打印，先压入弹出节点的右节点，再压入弹出节点的左节点。循环处理直到栈空。（每个节点碰两次）
+2. 后序遍历（左右中）：先实现一个「中右左」顺序，然后压栈弹出。（压栈弹出的过程相当于逆序，因此，由「中右左」得到了「左右中」）
+3. 中序遍历（左中右）：从头节点开始，把左边界压栈直到空，然后弹栈并且指针向右孩子移动，移动后继续压入左边界。（想象：用左边界填满整棵树）
+
+#+begin_src java
+  public void preOrderUnRecur(Node head) {
+    System.out.print("pre-order: ");
+    if (head != null) {
+      Stack<Node> stack = new Stack<Node>();
+      stack.add(head);
+      while (!stack.isEmpty()) {
+        head = stack.pop();
+        System.out.print(head.value + " ");
+        if (head.right != null) {
+          stack.push(head.right);
+        }
+        if (head.left != null) {
+          stack.push(head.left);
+        }
+      }
+    }
+    System.out.println();
+  }
+
+  public void inOrderUnRecur(Node head) {
+    System.out.print("in-order: ");
+    if (head != null) {
+      Stack<Node> stack = new Stack<Node>();
+      while (!stack.isEmpty() || head != null) {
+        if (head != null) {
+          stack.push(head);
+          head = head.left;
+        } else {
+          head = stack.pop();
+          System.out.print(head.value + " ");
+          head = head.right;
+        }
+      }
+    }
+    System.out.println();
+  }
+  // 使用两个栈
+  public void posOrderUnRecur1(Node head) {
+    System.out.print("pos-order: ");
+    if (head != null) {
+      Stack<Node> s1 = new Stack<Node>();
+      Stack<Node> s2 = new Stack<Node>();
+      s1.push(head);
+      while (!s1.isEmpty()) {
+        head = s1.pop();
+        s2.push(head);
+        if (head.left != null) {
+          s1.push(head.left);
+        }
+        if (head.right != null) {
+          s1.push(head.right);
+        }
+      }
+      while (!s2.isEmpty()) {
+        System.out.print(s2.pop().value + " ");
+      }
+    }
+    System.out.println();
+  }
+  // 只用一个栈
+  public static void posOrderUnRecur2(Node h) {
+    System.out.print("pos-order: ");
+    if (h != null) {
+      Stack<Node> stack = new Stack<Node>();
+      stack.push(h);
+      Node c = null;
+      while (!stack.isEmpty()) {
+        c = stack.peek();
+        if (c.left != null && h != c.left && h != c.right) {
+          stack.push(c.left);
+        } else if (c.right != null && h != c.right) {
+          stack.push(c.right);
+        } else {
+          System.out.print(stack.pop().value + " ");
+          h = c;
+        }
+      }
+    }
+    System.out.println();
+  }
+#+end_src
+*** 1.2.
+二叉树节点增加一个指向父节点的指针，实现额外空间$O(1)$的非递归中序遍历
+
+#+begin_src java
+  // todo
+  // 使用两个指针pre，cur按每个子树的左边界移动，直到为空，cur向右移动。
+  // cur从左边回来打印pre，cur从右边回来不打印。
+#+end_src
+*** 1.3. 二叉树宽度优先遍历（使用队列）
+
+#+begin_src java
+  public void breaddthFirstTraversal(Node head){
+    if(head == null){
+      return;
+    }
+    LinkedList<Node> queue = new LinkedList<>();
+    queue.add(head);
+    Node node = null;
+    Node left = null;
+    Node right = null;
+    while(!queue.isEmpty()){
+      node = queue.poll();
+      left = node.left;
+      right = node.right;
+      if (left != null) {
+        queue.add(left);
+      }
+      if (right != null) {
+        queue.add(right);
+      }
+      System.out.println(node);
+    }
+  }
+#+end_src
+*** 1.4. 二叉树最大宽度
+
+#+begin_src java
+  // 额外辅助空间
+  public int getMaxWidth(Node head) {
+    if (head == null) {
+      return 0;
+    }
+    int maxWidth = 0;
+    int curWidth = 0;
+    int curLevel = 0;
+    // 使用map记录节点所在层数
+    HashMap<Node, Integer> levelMap = new HashMap<>();
+    levelMap.put(head, 1);
+    LinkedList<Node> queue = new LinkedList<>();
+    queue.add(head);
+    Node node = null;
+    Node left = null;
+    Node right = null;
+    while (!queue.isEmpty()) {
+      node = queue.poll();
+      left = node.left;
+      right = node.right;
+      if (left != null) {
+        levelMap.put(left, levelMap.get(node) + 1);
+        queue.add(left);
+      }
+      if (right != null) {
+        levelMap.put(right, levelMap.get(node) + 1);
+        queue.add(right);
+      }
+      if (levelMap.get(node) > curLevel) {
+        curWidth = 0;
+        curLevel = levelMap.get(node);
+      } else {
+        curWidth++;
+      }
+      maxWidth = Math.max(maxWidth, curWidth);
+    }
+    return maxWidth;
+  }
+#+end_src
+
+#+begin_src java
+  // 不使用辅助空间
+  // todo
+#+end_src
+** 2. 二叉树相关概念
+*** 2.1. 判断搜索二叉树
+
+如何判断一颗二叉树是否是搜索二叉树
+
+#+begin_quote
+  对于任意一棵子树，左子树上的值都小于根，右子树上的值都大于根。
+
+  因此使用中序遍历「左中右」顺序遍历二叉树，如果是递增的，那么就是一棵搜索二叉树。
+#+end_quote
+
+#+begin_src java
+  // todo
+
+  public boolean isBST(Node head) {
+    if (head == null) {
+      return true;
+    }
+    LinkedList<Node> inOrderList = new LinkedList<>();
+    process(head, inOrderList);
+    int pre = Integer.MIN_VALUE;
+    for (Node cur : inOrderList) {
+      if (pre >= cur.value) {
+        return false;
+      }
+      pre = cur.value;
+    }
+    return true;
+  }
+
+  public void process(Node node, LinkedList<Node> inOrderList) {
+    if (node == null) {
+      return;
+    }
+    process(node.left, inOrderList);
+    inOrderList.add(node);
+    process(node.right, inOrderList);
+  }
+#+end_src
+*** 2.2. 判断完全二叉树
+
+如何判断一颗二叉树是完全二叉树
+
+#+begin_quote
+  若设二叉树的深度为$k$，除第$k$层外，其他各层（$[1,k-1]$层）的节点数都达到最大值，且第$k$层所有的节点都连续集中在最左边，这样的树就是完全二叉树
+#+end_quote
+
+判定方法：（使用宽度优先遍历）
+
+1. 若任意一节点有右孩子但没有左孩子，那么一定不是完全二叉树
+2. 在上一原则的前提下，遇到第一个左右孩子不双全的节点后，剩下的所有节点都必须是叶节点，否则不是完全二叉树
+
+#+begin_src java
+  public static boolean isCBT(Node head) {
+    if (head == null) {
+      return true;
+    }
+    LinkedList<Node> queue = new LinkedList<>();
+    // 是否遇到过左右连个孩子不双全的节点
+    boolean leaf = false;
+    Node l = null;
+    Node r = null;
+    queue.add(head);
+    while (!queue.isEmpty()) {
+      head = queue.poll();
+      l = head.left;
+      r = head.right;
+      if ((leaf && (l != null || r != null)) || // 遇到过左右节点不双全，且接下来不是叶节点
+          (l == null && r != null)) { // 有右无左
+        return false;
+      }
+      if (l != null) {
+        queue.add(l);
+      }
+      if (r != null) {
+        queue.add(r);
+      } else {
+        leaf = true;
+      }
+    }
+    return true;
+  }
+#+end_src
+*** 2.3. 判断满二叉树
+
+判断一颗二叉树是否是满二叉树
+
+#+begin_quote
+  一个层数为$k$的满二叉树总结点数为：$2^{k}-1$。因此满二叉树的结点数一定是奇数个。第$i4
+  层上的结点数为：$2^{i}-1$。一个层数为$k$的满二叉树的叶子结点个数（也就是最后一层）：$2^{k-1}$
+#+end_quote
+
+记录二叉树的高度和节点个数，看是否满足节点总数等于$2^{k}-1$
+
+#+begin_src java
+  public boolean isFull(Node head){
+    Returndata allInfo = process(head,1);
+    return ((1 << allInfo.level) - 1) == allInfo.nums;
+  }
+
+  public class RetrunData{
+    public int levle;
+    public int nums;
+    public ReturnData(int l, int n){
+      level = l;
+      nums = n;
+    }
+  }
+
+  public ReturnData process(Node head, int level){
+    if(head == null){
+      return new ReturnData(level - 1, 0);
+    }
+    ReturnData leftInfo = process(head.left, level + 1);
+    ReturnData rightInfo = process(head.right, level + 1);
+
+    int nums = leftInfo.nums + rightInfo.nums + 1;
+    int deep = Math.max(leftInfo.level, rightInfo.level);
+    return new ReturnData(deep, nums);
+  }
+#+end_src
+*** 2.4. 判断平衡二叉树
+
+如何判断一颗二叉树是否是平衡二叉树（二叉树题目套路）
+
+#+begin_quote
+  对于任意一棵子树，其左左子树与右子树高度之差（绝对值）不超过 1。
+#+end_quote
+
+#+begin_src java
+
+  public static boolean isBalanced(Node head) {
+    return process(head).isBalanced;
+  }
+
+  public static class ReturnType {
+    public boolean isBalanced;
+    public int height;
+
+    public ReturnType(boolean isB, int hei) {
+      isBalanced = isB;
+      height = hei;
+    }
+  }
+
+  public static ReturnType process(Node x) {
+    if (x == null) {
+      return new ReturnType(true, 0); // 空树的返回值
+    }
+    // 分析可能性。先用黑盒，假定它返回需要的信息
+    ReturnType leftData = process(x.left);
+    ReturnType rightData = process(x.right);
+
+    // 拆黑盒，自己组合信息
+    int height = Math.max(leftData.height, rightData.height);
+    boolean isBalanced = leftData.isBalanced && rightData.isBalanced
+        && Math.abs(leftData.height - rightData.height) < 2;
+    return new ReturnType(isBalanced, height);
+  }
+#+end_src
+** 3. 最低公共祖先
+
+给定一棵二叉树上的两个节点，找这两个节点的最低公共祖先。
+
+#+begin_src java
+  // 状况分析：1. n1，n2的公共祖先在n1，n2之中 2. n1，n2的公共祖先不在n1，n2之中
+  public Node lowestAncestor(Node head, Node n1, Node n2){
+    if(head == null || head == n1 || head == n2){
+      return head;
+    }
+    Node left = lowestAncestor(head.left,n1,n2);
+    Node right = lowestAncestor(head.right,n1,n2);
+    if(left != null && right !== null){
+      return head;
+    }
+    return left != null ? left : rigth;
+  }
+#+end_src
+** 4. 后继节点（Successor Node）
+
+二叉树上找一个节点的后继节点
+
+#+begin_quote
+  中序遍历「左中右」的顺序中，一个节点的后一个节点就是这个节点的后继节点
+#+end_quote
+
+对于任一节点$x$而言：
+
+1. 如果$x$有右子树，那么$x$的后继节点就是其右子树上最左的节点
+2. 如果$x$没有右子树，那么$x$的后继节点$y$有性质：*在$y$的左子树中，$x$是最右的节点*
+
+#+begin_src java
+  // 对于带有父节点指针的二叉树节点
+  public static class Node {
+    public int value;
+    public Node left;
+    public Node right;
+    public Node parent;
+
+    public Node(int data) {
+      this.value = data;
+    }
+  }
+
+  public static Node getSuccessorNode(Node node) {
+    if (node == null) {
+      return node;
+    }
+    if (node.right != null) {
+      // 有右子树时，找右子树的最左节点
+      return getLeftMost(node.right);
+    } else {
+      Node parent = node.parent;
+      // 没有右子树时，找祖先节点，且被查询节点是祖先节点的左子树的最左节点
+      while (parent != null && parent.left != node) {
+        node = parent;
+        parent = node.parent;
+      }
+      return parent;
+    }
+  }
+
+  public static Node getLeftMost(Node node) {
+    if (node == null) {
+      return node;
+    }
+    while (node.left != null) {
+      node = node.left;
+    }
+    return node;
+  }
+#+end_src
+** 5. 前驱节点（Predecessor Node）
+
+二叉树上找一个节点的前驱节点
+
+#+begin_quote
+  中序遍历「左中右」的顺序中，一个节点的前一个节点就是这个节点的前驱节点
+#+end_quote
+
+#+begin_src java
+  // todo
+#+end_src
+** 6. 二叉树的序列化和反序列化
+
+
+#+begin_quote
+  把二叉树转换成字符串，把字符串转换成二叉树。要点：既要保留内容信息，也要保留结构信息
+#+end_quote
+
+使用=_=表示一个值的结束，使用=#=表示空节点。
+
+#+begin_src java
+  // todo
+#+end_src
+*** 6.1. 判断一棵二叉树是否为另一棵二叉树的子树
+
+
+#+begin_quote
+  序列化两棵树得到两个字符串，看两个字符串是否一个是另一个的字串。如果是，那么相应的树是另一棵树的子树，否则不是。
+#+end_quote
+** 7. 折纸问题
+
+头节点为「凹」折痕，每一棵子树的左孩子都为「凹」折痕，每一棵子树的右孩子都为「凸」折痕的满二叉树。纸带的由上到下的顺序为这棵二叉树的中序遍历顺序。
+
+// todo
+
+#+begin_src java
+
+  public static void printAllFolds(int N) {
+    printProcess(1, N, true);
+  }
+  // 递归过程，来到了某一个节点
+  // i是节点的层数，一共有N层，down == ture则为凹，down == false则为凸
+  public static void printProcess(int i, int N, boolean down) {
+    if (i > N) {
+      // 层数超过N则结束
+      return;
+    }
+    printProcess(i + 1, N, true);
+    System.out.println(down ? "down " : "up ");
+    printProcess(i + 1, N, false);
+  }
+#+end_src

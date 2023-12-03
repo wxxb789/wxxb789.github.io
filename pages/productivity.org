@@ -1,0 +1,7 @@
+*
+* [[editor/vim]]
+** emacs, evil and avy
+** vim, leap.nvim
+** vscodevim
+** vsvim
+** ideavim

@@ -1,0 +1,13 @@
+*
+* plugins
+** media timestamp
+打时间戳
+** split block
+** helium
+视频嵌入浮动
+* workflow
+** 嵌入 web 视频或下载视频
+** 使用 飞书妙计，制作 srt 字幕文件
+** 处理 srt 字幕文件
+*** {{video https://www.bilibili.com/video/BV16v4y1m7Rd}}
+**

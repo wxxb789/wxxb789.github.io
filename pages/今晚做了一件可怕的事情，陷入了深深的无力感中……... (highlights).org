@@ -1,0 +1,17 @@
+:PROPERTIES:
+:title: 今晚做了一件可怕的事情，陷入了深深的无力感中……... (highlights)
+:author: [[oasisfeng on Twitter]]
+:full-title: "今晚做了一件可怕的事情，陷入了深深的无力感中……..."
+:category: #tweets
+:url: https://twitter.com/oasisfeng/status/1637471238200360962
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-03-20]]
+** 今晚做了一件可怕的事情，陷入了深深的无力感中……
+
+我把过去思考了 7 年多的一个货币经济学研究课题，和 ChatGPT 探讨了一下，让它来尝试设计一个与信息产权价值相匹配的分配模型（可简单理解为游戏规则）。
+
+结果只用了几个回合补充了一些限定，它设计出的模型就已相当接近我打磨了 5 年多的思考。\ ([View Tweet](https://twitter.com/oasisfeng/status/1637471238200360962))
+** 不知道大家有没有尝试过让 ChatGPT 来设计游戏规则？仅仅从我自己与之简短的交流来看，通过提示词的引导，尤其是对「规则目标」的选择，ChatGPT 可以被塑造成那种极端理性且冷酷无情的规则设计者，没有半点对弱者的宽容和怜悯。
+
+当然，你也可以额外提出这些要求，但势必以牺牲目标达成的效果为代价。\ ([View Tweet](https://twitter.com/oasisfeng/status/1637473944780374016))

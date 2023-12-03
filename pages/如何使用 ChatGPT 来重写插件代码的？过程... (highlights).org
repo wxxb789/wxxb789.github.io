@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: 如何使用 ChatGPT 来重写插件代码的？过程... (highlights)
+:author: [[lewangdev on Twitter]]
+:full-title: "如何使用 ChatGPT 来重写插件代码的？过程..."
+:category: #tweets
+:url: https://twitter.com/lewangdev/status/1639086215793201154
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-03-24]]
+** 如何使用 ChatGPT 来重写插件代码的？过程非常简单，一共只花了10来分钟，首先是让 ChatGPT 扮演一名 Python 高级程序员 (1/n) https://t.co/aeR6kLkPMM 
+
+![](https://pbs.twimg.com/media/Fr8zoQJWcAEwM4_.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639086215793201154))
+** 先问个小问题， 试试 ChatGPT 会不会写 Python 代码
+(2/n) 
+
+![](https://pbs.twimg.com/media/Fr80e5rXwAMQnLB.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639086650792738817))
+** 直接告诉 ChatGPT 要写一个 SIP003 的 gost 插件, 代码完全正确，我没有描述清楚，其实我希望 SS_PLUGIN_OPTIONS 作为用户名密码，后续我们继续调整 (3/n) 
+
+![](https://pbs.twimg.com/media/Fr84jmoWAAIKrvx.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639091382794039296))
+** 告诉 ChatGPT 直接使用 os.system, 并且 SS_PLUGIN_OPTIONS 不需要解析出用户名密码 (4/n) 
+
+![](https://pbs.twimg.com/media/Fr85E6DX0AARBjL.jpg) 
+
+![](https://pbs.twimg.com/media/Fr85FRSWwAA4a9x.jpg) 
+
+![](https://pbs.twimg.com/media/Fr85I3eWwAEaK9_.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639091976724176896))
+** 这时候代码完全没有什么问题了，因为我熟悉 python，所以让它加上 main (5/n) 
+
+![](https://pbs.twimg.com/media/Fr86IZMXoAAlccw.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639092792583667717))
+** 接下来把代码稍微做点修改，让 ChatGPT 用 Go 和 Rust 重写一下 (6/n) 
+
+![](https://pbs.twimg.com/media/Fr9JuF6XgAEHWKz.jpg) 
+
+![](https://pbs.twimg.com/media/Fr9JuGlXoAEnCir.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639109942106791936))
+** 最后我把 ChatGPT 写的代码编译了一下 Rust 编译出来的文件比 Go 小很多，我还问了一下 Rust 改如何编译出一个小的文件，字打错了都不影响 (6/n) 
+
+![](https://pbs.twimg.com/media/Fr9KROAWcAAq96a.jpg) ([View Tweet](https://twitter.com/lewangdev/status/1639110630715039744))
+** 在使用 ChatGPT 进行 text2code 的过程中，需要的是要把问题描述的足够清晰，如果 Prompt 写得足够好，ChatGPT 可能会直接给出达到你要求的代码。不过，就算 Prompt 描述的不够清楚，也可以在 ChatGPT 交谈的过程一步步变得清晰，多聊几句，也行的。(n/n) ([View Tweet](https://twitter.com/lewangdev/status/1639112042257735682))

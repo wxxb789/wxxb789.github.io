@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: 🤖️LLM Can Self-Improve 🧠... (highlights)
+:author: [[@jkronand on Twitter]]
+:full-title: "🤖️LLM Can Self-Improve 🧠..."
+:category: #tweets
+:url: https://twitter.com/jkronand/status/1621744876298833920
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-02-05]]
+** 🤖️LLM can self-improve 🧠
+
+1) Self-consistency boosts reasoning skills by sampling multiple paths & finding the most consistent answer
+
+But more samples = more comp. requirements. 💻
+
+2)  but we can train better LLM with self-generated solutions from 1)
+
+https://t.co/kLfyCuc0uL ([View Tweet](https://twitter.com/jkronand/status/1621744876298833920))
+** The naive approach requires:
+
+- dataset of unlabeled questions
+- few-shot chain of thought prompts to generate the "pseudo" labels for the self-train pass
+
+Authors show one can also extend a dataset with synthetic questions, to get more pseudo labels, and improve results further ([View Tweet](https://twitter.com/jkronand/status/1621745961444986880))

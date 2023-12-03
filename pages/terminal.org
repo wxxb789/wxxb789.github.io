@@ -1,0 +1,6 @@
+*
+* list
+** windows terminal
+** git-bash
+** msys2
+** wsl2

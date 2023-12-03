@@ -1,0 +1,10 @@
+:PROPERTIES:
+:title: Tweets From Wey Gu 古思为 (highlights)
+:author: [[wey_gu on Twitter]]
+:full-title: "Tweets From Wey Gu 古思为"
+:category: [[tweets]]
+:url: https://twitter.com/wey_gu
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-18]]
+** 最近用了一段时间 https://t.co/GIRh4uxKgC ，感觉还不错，免费额度算是慷慨，聊了一下团队有文档处理的背景，推荐给了几个高校非 cs 背景的同学，反馈也不错，是典型 llm niche 场景了👍 希望能做下去。 ([View Tweet](https://twitter.com/wey_gu/status/1659033304040108033))

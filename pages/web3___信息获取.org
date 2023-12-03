@@ -1,0 +1,28 @@
+#+tags: web3,
+* [[https://www.bilibili.com/video/BV1rv4y1S7jA][~如何有效获取Web3信息？| 信息降噪 | 建立个人RSS信息系统 | 推特dc链上工具技巧_哔哩哔哩_bilibili~]]
+
+* twitter & twitter list
+
+** More twitter list rather timeline
+** Notify, turn off retweets to denoise
+** Mute and block, to trash sth like "RT @"
+* discord
+** follow project, focus on announcement
+** skim pinned message
+
+* RSS
+** ttrss
+** RSSHub
+*** follow twitter's timeline
+
+** Resources
+*** https://mirror.xyz/chainfeeds.eth/mwgMtCDcz5_YW-dRacfD2pzsb_gMUSyal9M5nR5472A
+
+* Tools on chain
+** Dune, free and open source
+** Glassnode
+** Glassnode
+** Nansen
+** NFTGo, free
+** NFT Nerds
+** NFTFlip

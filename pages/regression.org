@@ -1,0 +1,5 @@
+*
+* #+BEGIN_QUOTE
+Regression is a kind of prediction where the output variable is numerical, not categorical (as opposed to classification). The output is continuous. For example, it can help with predicting a patient’s length of stay in a hospital.
+#+END_QUOTE
+*

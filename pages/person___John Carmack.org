@@ -1,0 +1,6 @@
+*
+* interview
+** [[John Carmack: Best programming setup and IDE | Lex Fridman Podcast Clips]]
+** [[Best Programming Language | John Carmack and Lex Fridman]]
+** [[John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast]]
+*

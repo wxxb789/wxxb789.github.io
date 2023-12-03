@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: Universal Paperclip 与 AI 对齐问题 (highlights)
+:author: [[cyhsu.xyz]]
+:full-title: "Universal Paperclip 与 AI 对齐问题"
+:category: #articles
+:url: https://type.cyhsu.xyz/2023/04/clipper/
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-10]]
+** ![《宇宙回形针》多到令人昏厥的要素图示（来源：我）](https://cdn.sspai.com/2023/04/05/4644c056ebe0bb892df4d598dfe5bbc2.png) ([View Highlight](https://read.readwise.io/read/01gxmrzxkbswrvkxc9nwm4qc5a))
+** 2022 年以来，DALL-E、ChatGPT 和 Bing Chat 等 AI 应用陆续走红、快速迭代，在令人惊艳和赞叹的同时，也让 AI 技术的潜在问题走入公众视野。一种朴素的担心是：既然 AI 技术已经能创作出如此真假难辨的内容，还会不时做出一些「惊悚言论」，如果任由其进一步进化和「觉醒」，是否会在到达一定阶段后摆脱人的控制，甚至倒戈将人类作为敌人？ ([View Highlight](https://read.readwise.io/read/01gxms13x75fvfqpfb1dz9hzhp))
+** 这个想法并不完全是杞人忧天，而是同样被很多 AI 从业者和研究者密切关注和思考，也是「回形针」思维实验所试图检验的。在 AI 研究领域，这被称为「AI 对齐」（AI alignment）问题。 ([View Highlight](https://read.readwise.io/read/01gxms18s5xh055ytawxw8w212))
+** 我们知道，人类并不能直接将自己的意图和目的「告诉」AI，而是必须以训练数据和算法作为「中介」。在这样一个中介过程中，有两个层面可能发生错位，导致对齐失败。 ([View Highlight](https://read.readwise.io/read/01gxms3eejdz7ea09rap3w91hh))
+** ![AI 对齐问题涉及的层级（来源：基于维基百科文本制图）](https://cdn.sspai.com/2023/04/05/8ee7b26cc61dceb36d3d693f7bc63cfb.png) ([View Highlight](https://read.readwise.io/read/01gxms3gab0e7j2s0hw5qyjs28))
+** 一方面，我们的预期目标可能无法完整、准确地通过数据和算法表达出来，导致「外部错位」。在回形针 AI 的故事中，人类给它设定的目标是「尽可能多地生产回形针」，但其中省略了很多对人类是基本常识的假定，例如不侵占人类资源、平衡供需等等。
+
+但省略对于训练 AI 是危险的。由于缺乏人的价值观，AI 在理解简单指令时，可能其推向极端：例如试图把整个世界都变成回形针。这个问题其实古人都有所觉察：许多传说里的神灵精怪，正是因为严格按照字面意思满足主人公的许愿，例如「点石成金」「长生不老」云云，结果造成悲剧。
+
+另一方面，即使我们确实成功给 AI 设定了一个看似很具体、很有限的目标，也不能因此就假定它会自觉把活动限制在合理范围内。相反，它可能形成某种不同的自发目标，导致「内部错位」。例如，根据一些研究者提出的「工具性趋同」（instrumental convergence）理论，高级 AI 总是有动机去追求一些趋同的目标，包括保护自我、提升认知、发展技能、获取资源等，因为这都可以作为工具，促进实现人类设定的最终目标。游戏中，回形针 AI 自我加码的那些古怪工程正是如此。
+
+问题在于，在追求这些中间目标的过程中，AI 的行为方式可能是无法控制、甚至不择手段的；在《宇宙回形针》演示的那种最差情况下，AI 会试图消除包括人类在内的一切潜在威胁，并将人类也当作一种资源而加以攫取。字面上，AI 倒是真的领会了人类的指示；只可惜，它选择了反常甚至反人类的实现方式。
+
+（其实人类内部也早就在面对类似的问题。想象一下经济学中经典的[委托—代理问题](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)：上级的意愿并不总能通过指令准确传达给下级，下级也不总能准确领会上级的指令。）
+
+AI 对齐问题的产生原理决定了它很难被完全避免。研究人员陆续提出和尝试过很多不同方法，但都存在各自的缺陷。
+
+最常用的一种方法是「强化学习」（reinforced learning），其思路有点像驯兽：让 AI 尝试完成一些任务，如果符合预期就予以奖励，否则就予以惩罚，并告知正确做法。还有一种思路是「红队」（red teaming）：另行训练一个具有对抗和监督功能的模型，让它和主要模型「左右互搏」、相互制衡。 ([View Highlight](https://read.readwise.io/read/01gxms9z0p072gwjjer6x49ena))
+** ![OpenAI 承诺的 GPT 训练流程改进（来源：编译自 OpenAI 博客）](https://cdn.sspai.com/2023/02/19/bd1a50077a9ef894e3e36a70a1be1bfe.jpg) ([View Highlight](https://read.readwise.io/read/01gxmsa1percsr7k00nq1fr24t))
+** 实际上，想找出一种让 AI 作为对齐目标的通用价值观并不容易。在《宇宙回形针》的某个阶段，玩家有机会解锁一个成本高昂、但对进度至关重要的工程——「[一致推断意愿](https://arbital.com/p/cev/)」（coherent extrapolated volition, CEV）。这个拗口的名词直接取自 AI 对齐研究，指的就是一种适合赋予想象中终极 AI 的目标。粗略地说，CEV 是人类在高度知情、智慧、理性的状态下，对于什么值得追求达成的一致判断。这有点像一些学科为了定义「正义」「最优」等标准引入的假定人设，例如「理想观察者」「经济理性人」，目的在于从人类互不相同的个体意愿中找出一种「共识」。 ([View Highlight](https://read.readwise.io/read/01gxmsdxyrf837ry60kpejy2ws))
+** 何况，AI 的演化还不一定是线性的。例如，一些研究者相信「[通用人工智能](https://en.wikipedia.org/wiki/AGI)」（AGI）终将到来。当 AI 发展到达这个俗称「奇点」（singularity）的阶段后，就能够学习和取代人类的任何智力活动。如果无法保证这种通用人工智能的「对齐」，就会对人类存亡构成重大威胁。 ([View Highlight](https://read.readwise.io/read/01gxmsebsjpzkmh0mx1xy6e536))
+** 不过，一个有批判精神的读者可能要问：回形针 AI 的故事作为游戏固然引人入胜，但会不会有点过于天马行空呢？思维实验能在多大程度上代表现实危机？的确，AI 对齐虽然是一个值得研究的领域，但其固有的复杂、不透明和「神秘」特征也给「民科」行为留下了广阔的空间。 ([View Highlight](https://read.readwise.io/read/01gxmsh9nc84hxw2nc8az42h63))
+** 这方面，不能不提的两个群体是 [LessWrong](http://lesswrong.com/) 社区和[有效利他主义](https://en.wikipedia.org/wiki/Effective_altruism)（effective altruism）的信奉者。他们为 AI 对齐研究贡献了大量的理论和资金，但这些贡献的质量和动机却并不总是可取的。 ([View Highlight](https://read.readwise.io/read/01gxmshmg2q9hhskqbtketx49s))
+** LessWrong 是活跃着一群自称「理性主义者」（Rationalist）的在线社区，其主导思想是将统计数据和概率计算作为行动和决策的最高纲领，也就是所谓「理性」（Rationality，因其特殊含义常作大写）。最著名的两大 AI 研究机构 DeepMind 和 OpenAI，其创立背景和创始人都与 LessWrong 颇有渊源。 ([View Highlight](https://read.readwise.io/read/01gxmsj0cv36kk1q721z55fnba))
+** 一个最典型的事件是 2010 年诞生的「[Roko 蛇怪](https://en.wikipedia.org/wiki/Roko%27s_basilisk)」（Roko’s Basilisk）。当时，一个名叫 Roko 的用户发帖设想，一个全能的 AI 可能会惩罚任何没有努力支持或促成它诞生的人；即使斯人已逝，也会使之复活并继续折磨——是的，与宗教哲学中著名的「[帕斯卡赌注](https://en.wikipedia.org/wiki/Pascal's_wager)」（Pascal’s Wager）异曲同工。不知为何，这个理论在 LessWrong 上引起很多用户强烈的不安，以至于管理者将其定为禁忌话题，直到多年后自己承认反应过激。 ([View Highlight](https://read.readwise.io/read/01gxmsm8ckgd7v478a6tn9t1fx))
+** 2018 年，科幻作家姜峯楠（最近其文《[ChatGPT 是互联网的有损压缩](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)》传播颇广）就[批判](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)过硅谷科技从业者对 AI 对齐问题的渲染。在他看来，硅谷资本家们「不知不觉地按照自己的形象创造了一个魔鬼，而这个魔鬼的僭越行为正是他们自己的行为」。他们之所以相信 AI 有霸占一切的倾向，是因为自己就缺乏节制的美德，并在潜意识里将其投射到了 AI 这一外在事物上。因此，与其关心超级 AI 会不会把全世界都变成回形针或者草莓，硅谷公司应该首先停止将市场扩张作为唯一目标。
+
+客观地说，姜此论和他试图批判的问题一样，有过度解释和泛化之嫌。但他指出的地域和社群因素也确实不无道理：LessWrong 的起源和主要受众都在加州；「理性主义」和有效利他主义的教义，也显然受滋养于崇尚控制论、反文化和自由市场的[加利福尼亚意识形态](https://en.wikipedia.org/wiki/The_Californian_Ideology)。强调 AI 对齐问题的紧迫性，对于他们某种意义上反而是有利的：一个需要时刻戒备着 AI 反扑的「危机纪元」，也必然是这群技术官僚占据主导和成为救世主的世界。
+
+总而言之，AI 对齐是一个混杂着严肃研究、伪科学和亚文化的领域，应该带着批判的心态去探索：科学的归科学，娱乐的归娱乐。在 AI 内容甚嚣尘上的时代，这种识别能力也理应成为基本素养。 ([View Highlight](https://read.readwise.io/read/01gxmsp7jvtwyc8ac7q02af40a))
+** 在这个最后的阶段，走向太空的回形针 AI 把主要精力都花在制造和控制冯·诺依曼探测器（von Neumann probe）上。这种探测器可以自我复制、自我修复、收集资源、存储信息，在许多科幻文学和游戏中都有亮相。 ([View Highlight](https://read.readwise.io/read/01gxmssjtw01g6s7pza1kcpzft))
+** 值得玩味的是，回形针 AI 和这些出自己身的探测器之间，也存在「对齐」问题：探测器总是会以一定的概率发生「价值观偏离」（value drift），拒绝执行探测资源和制造回形针的使命，反而倒戈向其他探测器发起攻击。价值观偏离是无法避免的，回形针 AI 只能不断投入算力，赢取探测器对自己的「信任」，正如它在第一阶段竭力赢取人类的信任那样，由此强化探测器的自我复制能力、抗损害能力和战斗力。 ([View Highlight](https://read.readwise.io/read/01gxmssyvf67gfd295b3ng7pbs))
+** 比较讽刺的是，玩到这个阶段，玩家大都已经把「造回形针」这回事忘到了九霄云外，哪怕界面顶部的总产量计数已经积累到了几乎无法数清的五十几位。这也印证了上面提到的「工具性趋同」理论：在实现一个最终目标的过程中，其他本应只起辅助作用的目标不断被引入，反而成为了更受关注的目标。 ([View Highlight](https://read.readwise.io/read/01gxmsthf378swqdv6s3zsaaa0))

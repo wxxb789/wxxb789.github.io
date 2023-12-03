@@ -1,0 +1,7 @@
+#+TITLE: Refactoring Guru: Catalog of Refactoring
+
+* [[file:01-Bloaters.org][Bloaters]]
+* Object-Orientation Abusers
+* Change Preventers
+* Dispensables
+* Couplers

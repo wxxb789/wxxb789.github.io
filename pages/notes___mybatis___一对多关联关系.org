@@ -1,0 +1,49 @@
+
+
+* 一对多关联关系
+
+
+1. 关联对象采用select抓取方式
+2. 加载策略fetchType
+
+   1. eager：立即加载
+   2. lazy：延迟加载
+
+3. 关联属性的配置标签是collection
+
+#+begin_example
+    <!--在逆向工程生成的XxxMappper.xml文件基础上，添加的关联属性-->
+    <resultMap id="BaseResultMap" type="entity.Category" >
+      <id column="id" property="id" jdbcType="INTEGER" />
+      <result column="name" property="name" jdbcType="VARCHAR" />
+      <!--先定义一方对象，仅当调用时获取多方对象  -->
+      <collection property="books"
+                  javaType="list"
+                  ofType="Book"
+                  column="id"
+                  select="selectBooks"
+                  fetchType="lazy">
+      </collection>
+    </resultMap>
+
+    <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+      select id, name from category
+      where id = #{id,jdbcType=INTEGER}
+    </select>
+#+end_example
+
+#+begin_example
+    <!--查询所有信息，配置一的一方所对应的多的一方的信息的结果集-->
+    <select id="selectBooks" resultMap="BookResultMap" parameterType="java.lang.Integer" >
+      select id,title,author,isbn,category_id
+      from book
+      where category_id = #{catId}
+    </select>
+    <resultMap type="entity.Book" id="BookResultMap">
+      <id column="id" property="id" jdbcType="INTEGER" />
+      <result column="title" property="title" jdbcType="VARCHAR" />
+      <result column="author" property="author" jdbcType="VARCHAR" />
+      <result column="isbn" property="isbn" jdbcType="VARCHAR" />
+      <result column="category_id" property="categoryId" jdbcType="INTEGER" />
+    </resultMap>
+#+end_example

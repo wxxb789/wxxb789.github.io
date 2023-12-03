@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: 太喜欢 https:__t.co_EfiiAXR... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "太喜欢 https://t.co/EfiiAXR..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1684094529098448896
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-27]]
+** 📌
+** #+BEGIN_QUOTE
+** 太喜欢 https://t.co/EfiiAXRml7 这个 LLM 了
+
+拿到一份《数据库行业分析报告》，53页，3.9MB. 现在头脑一看到 PDF，就本能的反应丢给 https://t.co/EfiiAXRml7
+
+先把脉络滤出来，然后分而治之。有系统的逐级提问，确实把自己的看论文的劲儿，提到了最高
+
+这大概就是“阅读前置”的好处，精力要留给思考 
+
+![](https://pbs.twimg.com/media/F18Zm6eXsAAR0fm.png) 
+
+![](https://pbs.twimg.com/media/F18Z_4yXsAANtJp.jpg) 
+
+![](https://pbs.twimg.com/media/F18aJjmWAAEqF_g.png)  ([View Tweet](https://twitter.com/huangyun_122/status/1684094529098448896))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 我一向都爱读数据库类论文，但一点困扰我很久。当读完论文后，其实大部分精力，都花在读上面，思考反而不多
+
+现在有“人”帮我整理后，我更注重去问“这个人”，把我脑袋里有疑问的地方，解决了，这块知识才是我的
+
+在研究 AI 工具的时候，虽然很花时间，但“功不唐捐”，学到的每一招AI技巧，都在帮我，爽 !  ([View Tweet](https://twitter.com/huangyun_122/status/1684095094125744131))
+** #+END_QUOTE

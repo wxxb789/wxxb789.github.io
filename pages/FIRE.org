@@ -1,0 +1,6 @@
+#+alias: Financial Independence to Retire Early,
+
+*
+* articles
+** [[https://invest.einverne.info/2022/07/25/fire.html][如何理解 FIRE 财务独立 提前退休 · EV 的投资笔记 (einverne.info)]]
+*

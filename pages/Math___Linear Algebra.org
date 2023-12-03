@@ -1,0 +1,15 @@
+#+title: Math/Linear Algebra
+#+tags: math, linear algebra
+
+* 位置
+* 向量
+* 矩阵
+* 行列式
+* 变换：函数的另一种说法
+** 输入和输出都是向量
+** 直线变换后仍然是直线，且原点不变
+** 格线平行且等距分布
+* 基向量：basis vector
+** 1，0
+** 0，1
+*

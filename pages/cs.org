@@ -1,0 +1,4 @@
+#+alias: computer science,
+
+* cs is abbreviation of computer science
+*

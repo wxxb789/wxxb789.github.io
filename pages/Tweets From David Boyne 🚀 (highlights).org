@@ -1,0 +1,17 @@
+:PROPERTIES:
+:title: Tweets From David Boyne 🚀 (highlights)
+:author: [[@boyney123 on Twitter]]
+:full-title: "Tweets From David Boyne 🚀"
+:category: #tweets
+:url: https://twitter.com/boyney123
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-02-03]]
+** When building event-driven applications, no doubt you will have some point-to-point messaging in there. 
+
+Point-to-point messaging can help your applications scale, provide buffers and help create async patterns.
+
+Visual and resources to help 👇
+https://t.co/tDid0XLcGc 
+
+![](https://pbs.twimg.com/media/FoB8ur0XEAAA6D2.jpg) ([View Tweet](https://twitter.com/boyney123/status/1621433664453083137))

@@ -1,0 +1,9 @@
+#+title: Video/TMSOYCSE/Shell
+#+tags: shell, bash
+
+* {{video https://www.bilibili.com/video/BV1164y1u7mP}}
+* ~echo $SHELL~
+* host name
+* current working directory
+* =$= 符号表示您现在的身份不是 root 用户
+*

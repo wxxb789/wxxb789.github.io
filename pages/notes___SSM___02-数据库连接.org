@@ -1,0 +1,25 @@
+
+
+* 2.数据库连接
+
+
+1. 创建连接数据库的properties文件：db-mysql.properties
+
+   1. 配置连接数据库的4大参数
+
+   #+begin_example
+     dbDriver=com.mysql.jdbc.Driver
+     dbUrl=jdbc:mysql://localhost:3306/jsd18105
+     username=root
+     password=123
+   #+end_example
+
+   2. 配置连接池的伸缩性
+
+   #+begin_example
+     initialSize=3
+     maxActive=20
+     maxIdle=10
+     minIdle=2
+     maxWait=15000
+   #+end_example

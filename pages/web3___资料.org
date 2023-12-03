@@ -1,0 +1,36 @@
+*
+*
+* [[web3/concepts]]
+* basics
+** 密码学
+** 区块链
+** 金融
+** 比特币
+** 以太坊
+*** 智能合约
+**** [[ERC20]]
+**** [[ERC721]]
+**** [[ERC1155]]
+****
+** NFT
+** [[defi]]
+*** [[Uniswap]]
+** [[DApp]]
+*** [[IPFS]]
+*** [[FIL]]
+*** [[BitTorrent]]
+*** [[DHT]]
+*** [[SFS]]
+*** [[Filecoin]]
+***
+* #awesome-list
+** [[https://cubic-leaf-731.notion.site/web3-202208-09-1623ccd15c2148a1ae00ed8794d153b1][web3 入门计划 202208-09 (notion.site)]]
+* course，MOOC
+** [[北大区块链公开课]]
+**
+* book
+* white paper
+* programming
+** solidity
+* project
+**

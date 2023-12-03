@@ -1,0 +1,11 @@
+* What's the goal of logging
+:PROPERTIES:
+:title: logging
+:END:
+** Debug/Log Info/APM
+** What to log
+** What not to log
+* Standardize logs
+** Log Level
+** Schema/tructural log/Formatting Template
+*

@@ -1,0 +1,4 @@
+#+alias: Olympiad in Informatics,
+
+* [[IOI]] means International Olympiad in Informatics
+* [[NOI]] means National Olympiad in Informatics

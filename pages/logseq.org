@@ -1,0 +1,11 @@
+*
+* daily notes
+** 减少干扰
+** 消除输入阻力
+** 构建简单有效的 GTD system
+* blocks
+* back link, tags, namespace
+* advanced query
+* tips
+** [[完美主义]] 会导致 [[拖延]]
+应该尽全力避免完美主义

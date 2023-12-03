@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: 分享一个免费使用 ChatGPT 的方法 Co... (highlights)
+:author: [[Tisoga on Twitter]]
+:full-title: "分享一个免费使用 ChatGPT 的方法 Co..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1653993974980575234
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-04]]
+** 分享一个免费使用 ChatGPT 的方法
+
+Copilot Hub 免费用户每个月可以使用 300 次（每天 10 次），对于轻量级用户来说完全足够了。
+
+并且：
+- 无需 API、基于 cloud、多设备同步
+- 无限上下文（近期会支持跨 session 的 memory）
+- 生成速度极快
+
+https://t.co/KrBd4KbYJA
+
+具体方法 🧵 ([View Tweet](https://twitter.com/Tisoga/status/1653993974980575234))
+** 创建一个 Prompt Copilot
+
+如果需要创建一个纯净的 ChatGPT，直接填写 Name 和 Description 即可，User Prompt 可以选择不填写。
+
+点击 create 即可完成创建。 
+
+![](https://pbs.twimg.com/media/FvQooiPaAAIgW5F.jpg) 
+
+![](https://pbs.twimg.com/media/FvQo3w_aYAElZGR.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1653993978067566592))
+** 创建完了可以在 Home - My Copilots 中找到，点击进入即可进行交互。 
+
+![](https://pbs.twimg.com/media/FvQpS-iacAAkeZJ.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1653993981515280384))
+** 可以像 ChatGPT 那样进行交互 👇 https://t.co/Av6lyO5F8t ([View Tweet](https://twitter.com/Tisoga/status/1653993984900079616))
+** 除了自己创建，也可以直接使用社区其他成员创建好的
+
+例如刚刚在例子中创建的 Plain ChatGPT 👇
+
+https://t.co/cavJdmUSBe ([View Tweet](https://twitter.com/Tisoga/status/1653996862993739776))

@@ -1,0 +1,13 @@
+#+alias: fund,
+
+* categroy
+** [[ETF]] Exchange Traded Funds, 可以在交易所里买卖的基金
+** [[LOF]]
+** [[FOF]]
+** [[QDII]]
+* [[finance/小司的基金基础课]]
+* 基金讲座
+** [[202302 医疗器械]]
+* 基金评级
+** [[https://www.amac.org.cn/informationpublicity/institutionalpublicity/xjjjpjjggs/][基金评价机构名录 (amac.org.cn)]]
+*

@@ -1,0 +1,10 @@
+#+tags: opinions,
+
+* opinions
+:PROPERTIES:
+:template: opinion
+:END:
+** [[positive-opinions]]
+** [[negative-opinions]]
+** [[my-opinions]]
+*

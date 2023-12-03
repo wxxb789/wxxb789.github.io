@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: Docker_容器 101（2020.9更新） – 茶 ☕️ 咖啡 (highlights)
+:author: [[fastzhong.com]]
+:full-title: "Docker/容器 101（2020.9更新） – 茶 ☕️ 咖啡"
+:category: [[articles]]
+:url: https://fastzhong.com/posts/docker101/
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-15]]
+** 2000：FreeBSD Jail  
+2000 年末，FreeBSD OS 第一次将 chroot 引入操作系统，实现不单是文件而且是进程级别的隔离，并且可以分配不同的 IP 地址。 ([View Highlight](https://read.readwise.io/read/01gmaht3xeg7bwnq334mr3wyyy))
+** 2006-2007：Process Container/cgroups  
+2006 年 Google 开发的技术，实现对进程进行资源的控制（CPU、内存、磁盘 I/O、网络，等），一年后 Process Container 更名为 cgroups，cgroups 最后融入了 Linux Kernel 2.6.24。 ([View Highlight](https://read.readwise.io/read/01gmahtkjnn1pf80krb81ygqbm))
+** 2008：LXC  
+和之前的 Liunx VServer、Solaris Container、OpenVZ 类似，但 LXC （LinuX Container）包装了内核原生的 cgroups ，通过一系列的 API 允许普通程序创建和管理容器，每一个容器进程拥有自己的虚拟空间（CPU，内存，I/O，网络，等）。LXC 是第一个功能较完整的容器管理器。CloudFoundry 在 2011 年开发了 Warden，采用 LXC 并提供 API 来管理动态的容器资源。 ([View Highlight](https://read.readwise.io/read/01gmahtpmyqb33zgpvr018m4zb))
+** 2013：LMCTFY  
+Google 开源了自己的容器运行技术栈 LMCTFY（Let me contain that for you），同时和 Docker 合作，把其相关的概念和抽象移植到 libcontainer。
+
+CoreOS 发布和 Docker 类似的 Rocket。 ([View Highlight](https://read.readwise.io/read/01gmahv530fhdg086sx4btp2tp))

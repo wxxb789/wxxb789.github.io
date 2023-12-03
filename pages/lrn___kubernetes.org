@@ -1,0 +1,25 @@
+#+tags: k8s,
+
+* [[Docker Basics]]
+* [[Kubernetes/Basic Architecture and Object Design]]
+* [[Kubernetes/etcd]]
+* [[Kubernetes/Api Server]]
+*
+* 控制平面
+** [[Kubernetes/kube-scheduler]]
+** [[Kubernetes/Controller Manager]]
+** [[Kubernetes/kubelet]]
+** [[Kubernetes/CRI]]
+runtime
+** [[Kubernetes/CNI]]
+network
+** [[Kubernetes/CSI]]
+storage
+* [[Kubernetes/Lifecycle]]
+* [[Kubernetes/Service Discovery]]
+* [[Kubernetes/Cluster Management]]
+* [[Kubernetes/Cluster Devops]]
+* [[Kubernetes/Cloud Native Migration]]
+* [[Kubernetes/Istio]]
+* [[Kubernetes/In Action]]
+* [[Kubernetes/Windows Container]]

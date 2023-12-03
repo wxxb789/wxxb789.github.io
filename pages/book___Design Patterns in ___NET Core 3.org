@@ -1,0 +1,3 @@
+#+title: book/Design Patterns in .NET Core 3
+
+* [[../assets/Design_Patterns_in_.NET_Core_3_1648379599509_0.pdf][Design Patterns in .NET Core 3.pdf]]

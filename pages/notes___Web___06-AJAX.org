@@ -1,0 +1,227 @@
+
+
+* JavaWeb中涉及的前端技术
+
+
+- html(a table form)
+- css(看懂就行)
+- js(必须掌握)
+- jQuery(是js的框架,封装的就是js)
+- AJAX(也是js的框架,依赖于js)
+* AJAX
+
+(asynchronous javascript and xml)异步的javascript和xml
+
+1. js:AJAX实现异步交互核心靠的就是js
+2. xml:只是AJAX中的一种数据的转换方式
+3. 异步交互
+* 异步交互和同步交互
+
+** 1. 同步交互
+
+
+1. 同步请求:
+   浏览器向服务器发起一个请求,就要等待服务器给浏览器响应结束后,
+   然后浏览器才能向服务器发起第二个请求,中间这段时间只能等待。
+
+2. 全局刷新: 刷新的话也是整个页面,也就是说服务器向浏览器响应的是整个html
+   页面(每次响应整个页面都重新完整的响应(刷新))
+** 2. 异步交互
+
+
+1. 异步请求:
+   浏览器向服务器发起一个请求后,无需等待服务器的响应,浏览器就可以
+   向服务器再发起第二个请求。
+
+2. 局部刷新:
+   可以对页面的局部内容进行刷新,就是可以使用javascript接收服务器的
+   响应数据,然后使用javascript对页面的局部内容进行刷新,页面的其它
+   内容不变(不是整个页面都做刷新,而是页面中的某个局部位置只做刷新,
+   其他地方的内容不变)。
+
+#+begin_quote
+  AJAX的作用:就是实现异步请求和局部刷新的
+
+  异步请求: AJAX使用js向服务器发出异步请求;
+
+  局部刷新: AJAX也是使用js对页面做局部刷新的;
+#+end_quote
+* AJAX的特点
+
+AJAX:是异步请求和局部刷新
+
+1. 使用js进行异步请求: 使用javascript请求服务器,而且是异步请求。
+
+2. 使用js对页面进行局部刷新:
+   javascript接收服务器的响应数据,并使用javascript对页面做局部刷新。
+
+3. AJAX可接收的服务器响应的数据的类型:
+
+   - text:字符串文本
+   - xml:xml格式的文本
+   - json:js提供的数据格式(AJAX中使用最多)。
+     js的对象={"属性名":值,"属性名":值...}=
+* AJAX的操作步骤
+
+** 1. 第一步:得到XMLHttpRequest对象(xhr对象)
+
+AJAX主要就是通过XMLHttpRequest对象来实现异步交互的。
+得到XMLHttpRequest对象对于不同的浏览器的方式是不一样的：
+
+1. 大多数浏览器都支持： =var  xmlHttp = new  XMLHttpRequest();=
+2. IE6.0:(40~60 xp)
+   =var  xmlHttp = new  ActiveXObject("Msxml2.XMLHTTP");=
+3. IE5.5以及更早版本的IE：
+   =var  xmlHttp = new  ActiveXObject("Microsoft.XMLHTTP");=
+
+一般创建xhr对象都会写个封装方法,而在封装方法中不是使用判断结构
+来判断浏览器的版本,再以对应的方式创建xhr对象;而是使用try catch
+结构异常捕获的方式替换判断结构,针对不同的浏览器使用不同的方式
+创建xhr对象;
+** 2. 第二步:调用XMLHttpRequest对象的=open()=方法打开与服务器的连接
+
+=xmlHttp.open();=
+
+1. 参数一：请求方式，get或post。
+2. 参数二：请求的URL地址，即请求的服务器资源。
+3. 参数三：请求是否为异步，true表示发送异步请求，false表示发送同步请求。
+   =xmlHttp.open("GET" , "/AJAXTest/ServletA" , true);=
+
+如果是post请求,还需调用xmlHttp对象的setRequestHeader()方法,设置请求头:
+=Content-Type=,值是=application/x-www-form-urlencoded=告诉服务器浏览器使
+用url编码传递的数据
+=xmlHttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded");=
+** 3. 第三步:调用XMLHttpRequest对象的send()方法发送请求
+
+=xmlHttp.send();=
+
+1. get请求:=send()=方法参数是null,因为get请求没有请求体,请求参数都是在url路径之后以?连接的;
+2. post请求:
+
+   1. 无参:=sned()=方法参数也是null
+   2. 有参:=send()=方法参数就是post请求的请求体="a=AA&b=BB"=
+
+就是服务器和之前一样的去接收请求 处理请求 向客户端做出响应;
+** 4. 第四步:处理=onreadystatechange=事件
+
+在XMLHttpRequest对象的=onreadystatechange=事件属性上注册事件处理函数，
+=onreadystatechange=事件是当XMLHttpRequest对象的状态发生变化时被触发的,
+触发之后就会执行其绑定的事件处理函数。
+
+在事件处理函数中获取到XMLHttpRequest对象的状态码值和服务器的响应状态码
+并进行判断，如果状态都合法,再进而获取服务器的响应数据。
+
+1. 得到XMLHttpRequest对象的状态: =var state = xmlHttp.readyState;=
+
+- 0状态:初始化未完成状态。只是创建了XMLHttpRequest对象，还未调用open()方法。（第一步）
+- 1状态:请求已开始。open()方法调用了，还没有调用send()方法。（第二步）
+- 2状态:请求发送完成状态。send()方法也已经调用了。（第三步）
+- 3状态:开始读取服务器响应，但服务器响应未结束。
+- 4状态:读取服务器响应结束。(合法状态)
+
+2. 得到服务器响应的状态码: =var status = xmlHttp.status;=
+   (合法状态码200)
+
+3. 得到服务器的响应数据:
+
+   1. 得到服务器响应的文本格式的内容：
+      =var content = xmlHttp.responseText;=
+   2. 得到服务器响应的xml格式的内容,且返回的是将xml文本进行封装的Document对象:
+      =var content = xmlHttp.responseXML;=
+* 获取服务器响应数据的XML文本
+
+
+1. 服务器端： 设置响应头:=Content-Type=,值为:=text/xml;charset=utf-8=
+   告诉浏览器服务器响应的正文为xml文本,以及响应数据的编码格式为=utf-8=
+2. 客户端：
+   通过xmlHttp对象的responseXML属性获取响应数据,且返回值是封装了xml文档的document对象:
+   =var doc = xmlHttp.responseXML;=
+* XStream技术
+
+
+1. 作用: 把javaBean转换成(序列化)xml格式字符串
+
+2. 所需jar包:
+
+- =xstream-1.4.7.jar=
+- =xpp3_min-1.1.4c.jar=
+
+3. 操作步骤：
+
+   1. 创建XStream对象:=XStream xs = new XStream();=
+   2. 将指定javaBean转成xml字符串:=String str = xs.toXML(javaBean);=
+
+4. 其它方法：
+
+   1. 将生成的xml中指定类型对应生成的标签名进行修改:
+      =xs.alias("china" , List.class);=将List类型生成的标签名改为china
+      =xs.alias("province" , Province.class);=将Province类型生成的标签名改为province
+
+   2. 类的成员默认生成的是类对应标签的子标签,让类的成员生成类对应生成标签的属性:
+      =xs.useAttributeFor(Province.class , "name");=
+      把Province类的name成员属性,修改生成Province类生成的标签=<province>=的name属性,
+      而不是Province类生成的标签=<province>=的子标签=<name>=
+
+   3. 当javaBean的成员是Collection集合时,只需要将Collection集合的内容生成标签,而Collection集合不生成标签:
+      =xs.addImplicitCollection(Province.class , "cities");=
+      让Province类的成员List集合cities不生成标签,只让cities集合的内容生成标签
+
+   4. 让指定类的成员不生成标签:
+      =xs.omitField(City.class , "description");=
+      让City类的成员description不生成标签
+* JSON
+
+
+1. 作用: json是javascript提供的一种数据交换格式。
+2. 语法: ={ 属性名 : 值 ，属性名 : 值 , 属性名 : 值 , ……}=
+3. 细节:
+
+   1. ={}=其实就是javascript的对象
+   2. 属性名必须使用双引号标识
+   3. 属性值:
+
+      - 字符串(双引号标识)
+      - 数值(整型或浮点型)
+      - boolean(true或false)
+      - 数组(=[]=表示数组)
+      - 对象(={}=表示对象)
+      - null
+
+javascript的=eval()=函数:
+服务器响应给客户端的数据一般是json格式字符串，所以就需要在浏览器端将
+json格式的字符串转换成javascript的={}=对象进行处理。=eval()=的作用就是将
+参数字符串当做javascript代码执行，*但是必须在参数字符串两端拼接一对=()=*。
+
+用括号括住的原因：
+
+1. json对象是以”{}”的方式来开始以及结束的，在JS中，它会被当成一个语句块来处理。
+2. 加上圆括号为了处理字符串为表达式，而不是语句（statement）来执行。
+* json-lib技术
+
+
+1. 作用:可以将javaBean对象转成json格式字符串
+2. 所需jar包:
+
+   - json-lib.jar
+   - commons-lang.jar
+   - commons-beanutils.jar
+   - commons-logging.jar
+   - commons-collections.jar
+   - ezmorph.jar
+   - xom.jar
+
+3. 核心类：
+
+   1. JSONObject:本质是map集合
+
+      - =JSONObject  map  =  JSONObject.fromObject(javaBean);=
+        将参数javaBean对象转成JSONObject对象(即将javaBean对象的属性存储到map集合)
+      - =toString()=:
+        将JSONObject对象转成json格式的字符串(即将map集合的内容转成json格式字符串)
+
+   2. =JSONArray=:本质是List集合
+
+      - =JSONArray list = JSONArray.fromObject(List);=
+        将参数list集合放入JSONArray对象中(即将原list集合内容放入JSONArray的list集合中)
+      - =toString()=：
+        将JSONArray对象转成json格式字符串(即将list集合的内容转成json格式字符串)

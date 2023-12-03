@@ -1,0 +1,5 @@
+#+title: book/Leetcode Cookbook
+
+* [[https://books.halfrost.com/leetcode/][Book Online]]
+* [[../assets/LeetCode_Cookbook_1650459618924_0.pdf][LeetCode Cookbook.pdf]]
+*

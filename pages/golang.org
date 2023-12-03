@@ -1,0 +1,3 @@
+#+alias: pl/go, pl/golang,
+
+* [[learn golang in 5mins]]

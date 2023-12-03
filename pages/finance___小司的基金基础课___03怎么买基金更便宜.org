@@ -1,0 +1,21 @@
+*
+* 常用网站及工具
+** [[https://www.amac.org.cn/index/][中国证券投资基金业协会 (amac.org.cn)]]
+确认公司，基金经理，产品的安全性
+** [[https://fund.eastmoney.com/][天天基金网(1234567.com.cn) --首批独立基金销售机构-- 东方财富网旗下基金平台! (eastmoney.com)]]
+基金数据，交易平台
+** [[https://www.lixinger.com/][理杏仁—用数据认知世界 (lixinger.com)]]
+指数的PE分位点，估值历史分位点，指出当前估值高低
+** [[http://www.zhitouxing.com/][智投星-基金智能定投 (zhitouxing.com)]]
+辅助定投工具，智能定投服务。买入价值平均法，卖出均线法。
+均线法，在高位时候止盈，锁定收益。
+** [[https://www.morningstar.cn/main/default.aspx][晨星资讯 (morningstar.cn)]]
+晨星评级，仅针对非指数型基金
+* 基金的购买渠道
+** 银行
+** 券商
+** 基金公司
+** 第三方交易平台
+* 购买手续费
+** 基金公司自营平台费率最低
+** 银行费率最高

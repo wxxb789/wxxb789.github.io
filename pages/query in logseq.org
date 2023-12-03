@@ -1,0 +1,10 @@
+#+tags: logseq,
+
+* [[logseq]] 使用的的数据库是 [[datascript]]，使用 [[Datalog]] 作为查询引擎
+* [[datascript]] 的基础是 [[Datomic]]
+* [[datascript]] 与 [[Datomic]] 的区别
+[[https://github.com/tonsky/datascript#differences-from-datomic][tonsky/datascript: Immutable database and Datalog query engine for Clojure, ClojureScript and JS (github.com)]]
+* 数据库的基本组成单位是 [[datom]]
+* TODO pull Api
+DEADLINE: <2022-12-30 Fri>
+*

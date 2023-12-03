@@ -1,0 +1,45 @@
+#+title: pl/Rust/Concepts/Type
+
+* scalar
+1. 整型
+2. 浮点
+3. 布尔
+4. 字符
+* compound
+** tuple
+=()= unit type, unit value
+** array
+fix length as apart of type
+
+#+begin_src rust
+let a: [i32; 5] = [1, 2, 3, 4, 5];
+#+end_src
+* =struct=
+** =ownership= and reference
+** trait
+*** =Display= {}
+*** =Debug= {:?}
+*** =Pretty Print= {:#?}
+*** associated function
+1. do not have =self= as parameter.
+2. should use =::= for access.
+* enumeration
+aka enum
+have multiple variants, binding with a value is allowed, string, digit etc.
+similar with =algebraic data types= in other languages(or disjoint union).
+
+#+begin_src rust
+enum Message {
+    Quit,
+    Move { x: i32, y: i32 },
+    Write(String),
+    ChangeColor(i32, i32, i32),
+}
+#+end_src
+** =Option=
+#+begin_src rust
+enum Option<T> {
+    Some(T),
+    None,
+}
+#+end_src

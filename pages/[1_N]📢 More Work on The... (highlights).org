@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: [1/N]📢 More Work on The... (highlights)
+:author: [[lambdaviking on Twitter]]
+:full-title: "[1/N]📢 More Work on The..."
+:category: #tweets
+:url: https://twitter.com/lambdaviking/status/1630581475425828864
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-03-01]]
+** [1/n]📢 More work on the *computational model of transformers* w/ Ashish Sabharwal in TACL
+
+Takeaway: transformers are limited to expressing highly parallelizable functions
+
+(formally, they are in the complexity class uniform TC0)
+
+https://t.co/6GoZXOFEiC ([View Tweet](https://twitter.com/lambdaviking/status/1630581475425828864))
+** [2/n] This implies a list of problems transformers cannot solve (under assumptions in footnotes): 
+
+![](https://pbs.twimg.com/media/FqBm5viXwAMPY5k.jpg) ([View Tweet](https://twitter.com/lambdaviking/status/1630581477007040514))
+** [3/n] It also suggests *threshold gates* are a fundamental primitive for understanding transformers. Any transformer can be translated to a "simple" circuit of threshold gates. Among other things, these gates can be used to make transformers count (like LSTMs) ([View Tweet](https://twitter.com/lambdaviking/status/1630581478798110722))
+** [4/n] Our result suggests a *Parallelism Tradeoff*: parallelism makes transformers scalable but limits the complexity of their forward pass. Fundamentally serial computation must be broken down into a "chain" of parallelizable steps à la Scratchpad/CoT ([View Tweet](https://twitter.com/lambdaviking/status/1630581480249327616))

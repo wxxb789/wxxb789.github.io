@@ -1,0 +1,89 @@
+* Outline
+
+基本元素
+
+- identifiers and keywords分类
+- literals
+
+  - 各种 literals
+  - escape 转义
+
+- comments and whitespace
+- identifiers, names and scopes
+
+  - Top-Level Definitions (Packages, Namespace, DLL)
+  - dynamic / static scope
+
+- types
+
+  - value types
+  - non-value types
+
+    - method types
+    - type constructor
+
+  - Relations between types
+
+- Declarations and Definitions
+- Class, Object, Interface, Traits, Mixins, Prototype (OOP Related)
+- Expression
+
+  - Identifier, Value, Operator, Expression, Statement, Block
+  - Expression type
+  - ...
+
+- Implicits
+- Pattern Matching
+
+特性
+
+- DSL XML
+- Annotations
+- Standard Library
+- Asnyc NIO
+- Concurrent
+- Build
+- Test
+
+
+* Programming Paradigm
+
+- Data-Driven
+- Declarative
+
+  - Functional
+
+    - Functional Logic
+    - Purely Functional
+
+  - Logic
+  - Constraint
+  - Dataflow
+  - Ontology
+
+- Differentiable
+- Dynamic/scripting
+- Event-driven
+- Domain-specific
+- Metaprogramming
+
+  - Automatic
+  - Reflective
+  - Macro
+  - Template
+
+- Nondeterministic programming
+- Parallel computing
+- Probabilistic
+- Object-oriented
+
+  - Actor-based
+  - Class-based
+  - Concurrent
+  - Prototype-based
+  - Aspect-oriented
+  - Role-oriented
+  - Subject-oriented
+  - Recursive
+
+- Symbolic

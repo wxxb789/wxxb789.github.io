@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: Skeleton-of-Thought: LLM... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "Skeleton-of-Thought: LLM..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1685832487103008768
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-31]]
+** 📌
+** #+BEGIN_QUOTE
+** Skeleton-of-Thought: LLMs can do parallel decoding
+
+Interesting prompting strategy which firsts generate an answer skeleton and then performs parallel API calls to generate the content of each skeleton point.
+
+Reports quality improvements in addition to speed-up of up to 2.39x. Big deal given how costly in terms of latency some tasks are. This a great paper to rethink the necessity of sequential decoding of current LLMs.
+
+https://t.co/R5pn7YvNtX  ([View Tweet](https://twitter.com/omarsar0/status/1685832487103008768))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Skeleton-of-Thought: LLMs can do parallel decoding
+
+Interesting prompting strategy which firsts generate an answer skeleton and then performs parallel API calls to generate the content of each skeleton point.
+
+Reports quality improvements in addition to speed-up of up to 2.39x. Big deal given how costly in terms of latency some tasks are. This a great paper to rethink the necessity of sequential decoding of current LLMs.
+
+https://t.co/R5pn7YvNtX  ([View Tweet](https://twitter.com/omarsar0/status/1685832487103008768))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Reported speed-ups of Skeleton-of-Thought (SoT) compared to normal decoding... "for most models, SoT not only accelerates the generation but also improves the diversity and relevance of the answers." https://t.co/mK8K6vzjRS 
+
+![](https://pbs.twimg.com/media/F2VI6SnWsAE2KBN.jpg)  ([View Tweet](https://twitter.com/omarsar0/status/1685834334169686016))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** This diagram demonstrates the process of skeleton generation (prompt 1) and the point-expanding stage (prompt 2) based on the generated skeleton.
+
+Works on both proprietary models available only with APIs (via multiple parallel API calls) and open-source models (batched request). https://t.co/Auqs28ar6N 
+
+![](https://pbs.twimg.com/media/F2VKhG0WUAA3XTr.png)  ([View Tweet](https://twitter.com/omarsar0/status/1685836135841275905))
+** #+END_QUOTE

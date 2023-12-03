@@ -1,0 +1,5 @@
+* #+title: pl/Rust/Module System
+* crates
+* modules
+* paths
+In Rust, you can use paths to name items in your code. For example, a path can be a data definition like a vector, a code function, or even a module. The module feature also helps you control the privacy of your paths. You can specify the parts of your code that are accessible publicly versus parts that are private. This feature lets you hide the implementation details.

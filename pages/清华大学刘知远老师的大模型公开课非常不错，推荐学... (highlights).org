@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: 清华大学刘知远老师的大模型公开课非常不错，推荐学... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "清华大学刘知远老师的大模型公开课非常不错，推荐学..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1686709662199209984
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-02]]
+** 📌
+** #+BEGIN_QUOTE
+** 清华大学刘知远老师的大模型公开课非常不错，推荐学习
+
+课程全名为：Big Model Systems and Application
+
+课程主页：
+https://t.co/BXumLwkRNl
+
+在 B 站也有全部的视频：
+https://t.co/PFoigm4YSg 
+
+![](https://pbs.twimg.com/media/F2hlC_3asAAikn3.jpg)  ([View Tweet](https://twitter.com/Tisoga/status/1686709662199209984))
+** #+END_QUOTE

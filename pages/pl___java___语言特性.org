@@ -1,0 +1,28 @@
+* 结构
+一个 Java 源代码文件称为一个编译单元（compilation unit）（有时也称翻译单元 translation unit）。
+每个编译单元的文件名后缀必须是 .java。在编译单元中可以有一个 public 类，它的类名必须与文件名相同（包括大小写，但不包括后缀名 .java）。
+每个编译单元中只能有一个 public 类，否则编译器不接受。如果这个编译单元中还有其他类，那么在包之外是无法访问到这些类的，因为它们不是 public 类，此时它们为主 public 类提供 “支持” 类 。
+* 代码组织
+当编译一个 .java 文件时，**.java** 文件的每个类都会有一个输出文件。每个输出的文件名和 .java 文件中每个类的类名相同，只是后缀名是 .class。因此，在编译少量的 .java 文件后，会得到大量的 .class 文件。如果你使用过编译型语言，那么你可能习惯编译后产生一个中间文件（通常称为 “obj” 文件），然后与使用链接器（创建可执行文件）或类库生成器（创建类库）产生的其他同类文件打包到一起的情况。这不是 Java 工作的方式。在 Java 中，可运行程序是一组 .class 文件，它们可以打包压缩成一个 Java 文档文件（JAR，使用 jar 文档生成器）。Java 解释器负责查找、加载和解释这些文件。
+
+#+begin_src java
+// package 语句必须是程序第一行非注释代码
+package package.name;
+#+end_src
+** 文件名需要与 public 类名相同，一个文件仅有一个 public 类
+* =CLASSPATH=
+* Class First
+* =Static Class=
+* =Static Method=
+* 变长参数
+* overload 函数重载
+* Access Control / Access Specifier / Implementation hiding 访问控制
+** =public=
+** =protected=
+** =default=
+** =private=
+* Namespace 命名空间
+#+begin_src java
+import java.util.ArrayList;
+import java.util.*;
+#+end_src

@@ -1,0 +1,6 @@
+#+tags: pl/type, computation-theory
+
+* [[https://github.com/niltok/magic-in-ten-mins][Java Magic in Ten Minutes]]
+* [[https://github.com/PhotonQuantum/magic-in-ten-mins-rs][Rust Magic in Ten Minutes]
+* [[https://github.com/CWKSC/magic-in-ten-mins-csharp][Csharp Magic in Ten Minutes]
+* [[https://github.com/penguin-wwy/magic-in-ten-mins-py][Python Magic in Ten Minutes]

@@ -1,0 +1,11 @@
+#+alias: query/later,
+
+* #+BEGIN_QUERY
+{:title "All Later"
+:query [:find (pull ?b [*])
+:where
+[?b :block/marker ?marker]
+[(contains? #{"LATER"} ?marker)]
+[?b :block/ref-pages ?p]]
+}
+#+END_QUERY

@@ -1,0 +1,321 @@
+* [03]SpringFramework
+* mvc模式与架构
+
+一、Spring框架的学习目标： 1.Spring框架的两大主题：
+(1)控制反转与依赖注入(IoC&DI) IoC: Inversion of Control DI: Dependency
+Injection 依赖注入是控制反转的具体实现！ (2)面向切面编程(AOP) AOP:
+Aspect Orinented Programming 2.Spring框架的整合：
+(1)与JDBC及Hibernate的整合； (2)与Struts2的整合；
+
+二、依赖关系和依赖解耦 1.什么是类的依赖关系？
+如果在一个类的业务方法中使用另外一个类的业务方法来完成自己的功能，
+那么这两个类就构成了依赖关系。 【举例】
+有两个Bean类：UseBean和EnHelloBean。
+其中EnHelloBean中封装了一个输出英文问候语的业务方法sayHello()方法；
+而UseBean封装了一个业务方法show()方法并且在该方法中 通过调用
+EnHelloBean的sayHello()方法，输出问候语。 【分析】:\\
+UseBean是调用类 EnHelloBean是被调用类(所依赖的类)。
+
+2.依赖关系的两种表现形式 (1)仅在调用类方法中依赖
+①在方法中创建所依赖对象；
+②被依赖对象的生命周期仅局限在调用类的方法范围内； 【案例】:
+spring01_dependent1->dependent1.method\\
+(2)属性依赖 ①将所依赖的类作为调用类属性的类型；
+②被依赖对象的生命周期与调用类对象的生命周期相同；
+【注意】:Spring框架中研究的依赖形式是属性依赖！\\
+【案例】: spring01_dependent1->dependent1.property 3.依赖耦合
+(1)什么是依赖耦合？ 调用类的依赖属性的类型是具体的实现类；
+即调用类依赖具体的实现类； (2)依赖耦合的问题是:
+针对调用类实施功能扩展时，需要大量修改代码， 【例如】:
+功能扩展------要求UseBean显示一个中文的问候语。 【方案】:
+(1)增加一个能够显示中文问候语的bean类，即ZhHelloBean。
+(2)需要修改UseBean及测试类中的代码； 【案例】:
+spring01_dependent1->dependent1.property.couple
+
+4.依赖解耦 (1)什么是依赖解耦？
+封装调用类时，它的依赖属性的类型是接口而不是具体的实现类；
+(2)依赖解耦的目的：
+当调用类需要增加新的功能时，调用类的代码不需要变更或者变更量最小。
+(3)如何实施依赖解耦？ ①调用类依赖接口，而不是具体的类；
+②被调用的类（所依赖的类）需要实现接口； 【案例】:
+spring01_dependent1->dependent1.property.decouple
+
+一、控制反转(IoC)的概念 控制反转指的是控制权反转，英文Inversion of
+Control 1.什么是控制权？ (1)创建对象的权利； (2)设置对象依赖关系的权利；
+2.什么是反转？ (1)传统方式:
+调用类掌握控制权，即在调用类的执行方法中进行: ①创建所依赖的对象；
+②创建调用对象； ③设置调用对象和所依赖对象的依赖关系； (2)反转方式:
+①调用类将控制权转移给第三方工厂类；
+②调用类在执行方法中向工厂类所要对象并执行相应的业务方法； 【案例】:
+spring02_dependent2->dependent2.demo1
+
+二.Spring框架的IoC容器
+(1)Spring框架的IoC容器实际上是一个实现了BeanFactory接口的工厂类，
+例如：XmlBeanFactory (2)BeanFactory的功能：
+①通过Resource对象，加载对象的配置信息；
+(a)对象的配置信息通常采用xml文件；
+(b)xml文件的标准名称是：applicationContext.xml， 也可以采用自定义名称；
+(c)配置文件放在类路径下，即src下的相应包中；
+②根据xml文件的配置，创建对象和设置对象的依赖关系
+【注意】:SpringIoC容器是通过反射方式创建对象的。 =======
+③管理对象的生命周期并负责提供对象； ======= (3)案例参考：
+spring02_dependent2->dependent2.demo2
+
+一、Spring框架中IoC容器的常见类型
+1.BeanFactory接口，实现类是XmlBeanFactory， (1)特点:\\
+①提供了IoC容器的核心功能，通常被称为"Bean工厂"；
+②创建容器时，需要Resource（资源）对象； (2)功能:
+①实例化对象及设置对象的依赖关系； ②管理对象的生命周期 ③负责提供对象；
+2.ApplicationContext接口， 实现类是ClassPathXmlApplicationContext （*）
+(1)特点: ①继承于BeanFactory接口，因而功能更加完善，
+是实际应用中的标准容器，通常被称为"应用上下文"；
+②不需要资源对象，直接针对XML配置文件的路径创建容器对象； (2)功能:
+①拥有BeanFactory的所有功能； ②支持国际化和事件发布等先进功能
+3.WebApplicationContext接口，实现类是XmlWebApplicationContext (1)特点:
+①ApplicationContext接口的子接口，专用于Web应用中的IoC容器，
+②通过Web容器监听器(ContextLoaderListener)加载配置文件 并创建Spring容器；
+(2)功能: 整合时提供组件，有两种情况: ①为控制器提供业务组件；
+②负责提供所有组件(包括控制器);
+
+二、利用ApplicationContext容器管理对象\\
+1.bean对象的创建时机: (1)默认情况下，容器创建的同时bean也被创建；
+(2)设置lazy-init属性为true 当向容器所要对象时，容器才创建对象；
+
+2.bean对象的创建模式，即设置scope属性的值： (1)singleton(单例对象)
+容器只创建一个对象\\
+当向容器所要对象时，IoC容器每次提供相同的对象 (2)prototype(原型对象):
+容器创建多个对象(多例对象)\\
+当向容器所要对象时，IoC容器每次提供不同的对象
+(3)针对于Web应用，IoC容器可以将所创建的对象存入
+HttpServletRequest对象和HttpSession对象中: ①request ②session
+
+3.bean对象的再次初始化: (1)执行时机:在构造器之后执行的方法；
+(2)配置属性:init-method 4.bean对象销毁之前执行的方法(在单例模式中有效):
+(1)执行时机:关闭容器前，容器首先要销毁容器中所创建的对象
+(2)配置属性：destroy-method
+
+一、依赖注入的概念： 1.什么是依赖注入？ (1)依赖注入的英文是:Dependency
+Injection，简称:DI；
+(2)依赖注入是指通过IoC容器设置bean对象的属性，而不是在程序中
+通过调用setter方法或者有参构造器进行设置；
+(3)依赖注入需要在xml配置文件中，提供具体的属性值；
+2.属性值的注入分为两种情况(按照依赖注入的内容)
+根据Bean类中属性的类型不同，属性值有两种配置形式: (1)字面值注入
+如果bean类中属性的类型是如下2中情况，bean标签使用value属性
+或者在bean标签内使用value子标签； ①基本数据类型及其基本数据类型包装类:
+byte、short、char、int、long boolean double、float ②String类型
+(2)对象注入(真正的依赖注入)
+如果bean类中属性的类型是其它引用类型(String和基本数据类型包装类以外的)，
+配置时bean标签使用ref属性或者在bean标签内使用ref子标签。
+二、IoC容器实施依赖注入的三种形式： 1.Setter注入(最为常用)
+(1)要求：bean类定义了属性的set方法； (2)特点：先创建对象，再设置属性；
+【案例】：spring03_DI-di.demo2 2.构造器注入
+(1)要求：bean类定义了有参构造器； (2)特点：创建对象的同时设置了属性；
+【案例】：spring03_DI-di.demo3 3.接口注入：
+(1)要求：bean类实现IoC容器中所定义的接口，该接口中提供了属性的set方法；
+(2)特点：先创建对象，再设置属性；\\
+【案例】：
+在Struts2框架中，向Action注入HttpSession对象的Map结构的一种方式是:
+可以在封装Action时实现SessionAware接口，从而使Action具有如下方法： void
+setSession(Map<String,Object> session)
+,或者实现ServletRequestAware接口,拥有如下方法: void
+setServletRequest(HttpServletRequest request)
+
+三、bean的配置继承(bean对象的属性继承)
+1.子bean对象的配置，需要使用parent属性来说明与父bean对象的关系，
+表明子bean对象的所有属性来源于父bean对象。
+2.子bean对象可以重新配置继承下来的属性或者添加自己特有的属性配置；
+3.父bean对象可以设置abstract属性为true，表明IoC容器不必创建父bean对象，
+此时父bean标签中的class属性可以省略。
+4.注册的抽象bean，是不能通过IoC容器获得的；强行获得会产生异常。
+【案例】：spring03_DI中的di.demo4包和di.demo5包
+
+四、bean类中集合属性的依赖注入（重点） 1.集合属性的类型：
+(1)数组(2)List(3)Set(4)Map(5)Properties 2.参考案例:
+spring03_DI中的di.demo6包
+
+1.什么是自动装配？
+(1)在XML配置文件中注册一个bean时，通过使用autowire属性告知IoC容器
+自动为其属性实施依赖注入。例如：
+(2)如果bean类中属性的类型是基本数据类型、String类型、Class类型以及
+这些类型的数组，则不能实施自动装配。 2.自动装配的三种形式：
+(1)按名称自动装配(autowire="byName")
+根据bean类的属性名称，在xml配置文件中查找相同注册名称的bean对象，
+如果找到，实施自动装配。 【注意】:
+①bean类的属性名称由setter/getter方法指定；
+②xml文件中bean对象的注册名称由bean标签的id属性指定； 【案例】:
+spring03_DI_autowire->autowire1.byname
+(2)按类型自动装配(autowire="byType")
+根据bean类的属性类型，在xml文件中查找相同类型的bean对象，
+如果找到，实施自动装配。 【注意】: ①
+bean类的属性类型是set方法中的参数类型(可能是接口类型)； ②
+xml文件中，注册bean的类型由bean标签的class属性指定，
+(指定的可能是一个接口的具体实现类)。 ③
+如果xml文件中注册了多个相同类型的bean对象，不能采用byType
+自动装配，此时应采用手动装配，明确指明依赖关系！ 【案例】:
+spring03_DI_autowire->autowire2.bytype
+(3)构造器自动装配(autowire="constructor")
+根据bean类中构造器的参数类型，在xml文件中查找相同类型的bean对象，
+如果找到，实施自动装配。 【注意】: ①要求bean类提供有参构造器；
+②bean类中构造器的参数类型实际上是bean类的属性类型，
+因此构造器自动装配本质上是按类型自动装配； 【案例】:
+spring03_DI_autowire->autowire3.constructor
+(4)理论上还有一种情况------自动探测(autowire="autodetect")
+如果bean类提供了有参的构造器则采用constructor自动装配，
+如果没有提供有参构造器则采用byType自动装配。 【注意】:
+在MyEclipse中并不支持此种形式的自动装配！
+
+3.自动装配属性(autowire="")设置小结: (1)手动装配------显示指定
+①缺省autowire属性 ②autowire="default" ③autowire="no"
+(2)自动装配------按照属性名称 ④autowire="byName"
+(3)自动装配------按照属性类型 ⑤autowire="byType"
+(4)自动装配------按照构造器参数 ⑥autowire="constructor"
+
+#常用模式小结： 1.工厂模式(*) (1)静态工厂方法模式；例如：dao组件的解耦\\
+例如:在struts2,创建ActionContext对象的方式 ActionContext
+context=ActionContext.getContext();
+(2)(实例)工厂方法（Hibernate框架创建Session对象的工厂-SessionFactory)
+(3)抽象工厂（了解、Spring框架底层用来管理代理对象创建的方式）
+
+2.责任链模式(*)（过滤器、拦截器） 难点
+(1)在servlet中,FilterChain负责构建责任链模式;
+(2)在struts2中,ActionInvocation负责构建责任链模式;
+
+3.模板方法模式（Spring整合jdbc以及Spring整合Hibernate）
+
+4.装饰模式（new BufferedReader(new FileReader())
+
+5.代理模式(*)（静态代理、动态代理）难点
+
+6.单例模式(*) (1)特点： ①单例类自己创建自己的唯一实例； ②构造器私有；
+③使用静态变量存储唯一实例； (2)单例模式与静态工厂方法模式的关系：
+单例模式使用了静态工厂方法来提供自己的实例。
+
+7.多例模式： Locale 枚举类 enum public enum class Season
+
+8.观察者模式 : 监听器(ServletContextListener)
+
+一、面向切面编程介绍(Aspect Oriented Programming------AOP) 1.什么是AOP？
+在传统的软件系统中存在一些象日志记录、事务处理等通用性的代码块，它们通常
+散落在各个程序中，被称之为"横切逻辑"(cross-cutting concern)。
+将这些横切逻辑以面向对象的方式单独进行封装，从而形成切面(aspect)，并在
+程序执行时切入进来的编程方法，被称之为面向切面编程。 2.AOP与OOP的关系
+面向切面编程(AOP)与面向对象编程(OOP)并不矛盾，是在面向对象编程基础之上
+的一种软件开发模式； 3.AOP有几种实现方式？ (1)AspectJ
+AspectJ是一个基于Java的AOP编程语言，它通常采用ajc编译器，将横切逻辑
+切入到目标类的字节码中，所以被称为静态AOP。 (2)SpringAOP(重点)
+Spring框架提供了一个AOP的实现机制，这个实现机制是基于动态代理模式的，因此
+被称为动态AOP。Spring框架最初(1.x版)定义了一套自己的接口和类用于AOP编程，
+但在2.x版以后，支持和引入了AspectJ类库，并建议在实际应用中使用。
+(3)JBossAOP 基于JBoss应用服务器的一种动态AOP的实现。
+
+二、SpringAOP中的常用概念 1.连接点(JoinPoint) (1)什么是连接点？
+目标类在执行过程中可以切入增强代码的位置；从理论上讲有静态代码块，
+循环语句块，方法等程序执行位置； (2)连接点在Spring中的定义
+Spring框架只支持方法类型的连接点，不支持其它类型；因此在Spring中，
+JoinPoint专指目标对象的执行方法。 2.切入点(Pointcut) (1)什么是切入点？
+切入点是连接点的表示方式，可以指定一个连接点或者多个连接点，通常
+使用AspectJ所定义的切入点表达式；
+(2)SpringIoC容器会根据配置，将切入点表达式封装成一个对象；
+3.通知(Advice) (1)什么是通知？\\
+通知代表横切逻辑，是切入连接点的增强代码，通常被定义在一个类的方法中
+或者被单独封装到一个类中，比如事务拦截器； (2)如何理解通知？
+通知最初是指在控制台中显示字符串的输出语句，用来说明连接点的执行情况，
+是最简单的一种横切逻辑，属于日志记录。复杂的横切逻辑还有：事务处理，
+安全检查等；使用Adive表示横切逻辑，是"一斑窥豹"的命名手法。
+4.切面(Aspect) (1)什么是切面？
+切面是通知和切入点的组织与封装；SpringIoC容器根据切面，将Advice作用到
+相应的JoinPoint上；因此：Aspect=Advice+Pointcut;
+(2)SpringIoC容器会根据配置创建切面对象；但是切面对象通常依赖于一个普通类，
+即基于POJO的Aspect。 5.织入(weave) (1)什么是织入？
+在不侵入目标对象的业务方法的情况下，切入横切逻辑，即将附加的增强代码和
+目标对象的业务方法整合起来。 (2)如何织入呢？
+通过代理对象；代理对象在其所依赖的InvocationHandler对象的
+invoke方法中将增强代码与业务代码实施整合。 (3)如何创建代理对象呢？
+Spring的IoC容器通过ProxyFactory，动态产生代理对象。
+由于ProxyFactory封装了复杂的织入过程，因此也被称为织入器(weaver)。
+(4)ProxyFactory产生代理对象的两种方式：
+①基于JDK(Proxy)的动态代理模式(默认方式) 特点：目标类实现接口
+②基于CGLIB(Code Generation Library)的动态字节码生成库
+特点：目标类没有实现接口；
+通过子类继承，重写目标类的业务方法完成横切逻辑的织入；
+
+一、AOP编程案例： 1.基于POJO的通知封装 (1)什么是POJO? POJO(Plain Old
+Java Object)即普通的经典的(传统的)Java对象
+
+(2)将通知(Advice)按照不同的类型封装为POJO中的方法
+
+2.基于POJO的切面配置 (1)使用AOP名称空间 (2)注册POJO (3)配置切面
+①注册Pointcut对象； ②配置advice对象；
+
+二、Adivce类型： 通知根据切入连接点的时机和方式，划分为5种类型：
+（1）前置通知 配置标签： 切入时机 ：在目标对象方法执行之前切入
+（2）后置通知 配置标签： 切入时机
+：在目标对象方法正常执行完最后一条语句(return语句)时切入 （3）异常通知
+配置标签： 切入时机：在目标对象方法执行出现异常时切入 （4）最终通知
+配置标签： 切入时机：在目标对象方法执行完finally语句块之后切入
+（5）环绕通知： 配置标签：
+切入方式：在目标对象方法的执行之前和执行之后切入 特殊要求:
+封装环绕通知的方法必须含有ProceedingJoinPoint类型的参数
+①ProceedingJoinPoint位于aspectjrt.jar包中；
+②ProceedingJoinPoint继承于JoinPoint，扩展了连接点的
+概念，包含了多个环绕通知和连接点，并将它们组成了一个链式结构，
+其中连接点是这个链式结构的最后一个元素。
+③ProceedingJoinPoint#proceed()方法，表示下一个链式
+元素的执行。下一个链式元素可能是另外一个环绕通知或者是 JoinPoint。
+
+三、切入点表达式（Pointcut Expression） （Ⅰ）execution表达式 ①
+execution(public * /(..)) 说明： (a)(..)表示方法中的零个或多个参数；
+(b)后面紧跟括号的/，代表方法的名称； (c)第一个/，表示方法的返回值类型；
+② execution(/ hello/(..)) // void helloSave()
+符合任何以hello开头的方法\\
+说明：(a)后面紧跟括号的/，代表方法的部分名称；
+(b)第一个/，表示方法的返回值类型； ③ execution(/
+com.company.IHello./(..)) 符合IHello接口/类中声明的任何方法
+说明：(a)后面紧跟括号的/，代表方法的名称；
+(b)第一个/，表示方法的返回值类型； ④ execution(/
+com.company.service././(..)) 符合com.company.service包下的所有方法
+说明：(a)后面紧跟括号的/，代表方法的名称；
+(b)倒数第二颗/，代表包下的任意类或者是接口；
+(c)第一个/，表示方法的返回值类型； ⑤ execution(/
+com.company.service.././(..))
+符合com.company.service包或者其子包下的任何方法
+说明：(a)后面紧跟括号的/，代表方法的名称；
+(b)倒数第二颗/，代表包或者其子包下的任意类或者是接口；
+(c)第一个/，表示方法的返回值类型； （Ⅱ）within表达式
+within表达式只接受类型声明，表明了符合要求的类或接口中的所有方法 ①
+within(com.company.service./)
+说明：符合com.company.service包下的类和接口所定义的方法 ②
+within(com.company.service..*)
+说明：符合com.company.service包下或其子包下类和接口所定义的方法
+
+(一)目标对象的业务方法的执行 public void oneMethod(){
+
+#+begin_example
+    statement1-sq1;
+    statement2-sq2;
+    ...
+    statementn;
+    return;
+#+end_example
+
+} (二)基于四大通知的代理对象的代理方法的执行 try{
+target.oneMethod();//核心代码 }catch(Exception ex){ }finally{ }
+
+(三)五大通知的执行顺序 (1)针对目标对象的regist方法 --前置通知--
+--arond通知之前，显示执行的对象类型是：service.target.UserServiceImpl，执行的方法是:regist--
+target-regist:注册用户的信息... --后置通知--:null --最终通知--
+--arond通知之后，显示执行的对象类型是：service.target.UserServiceImpl，执行的方法是:regist--
+
+(2)针对目标对象的modify方法 --前置通知--
+--arond通知之前，显示执行的对象类型是：service.target.UserServiceImpl，执行的方法是:modify--
+target-modify:修改用户的信息... --后置通知--:200 --最终通知--
+--arond通知之后，显示执行的对象类型是：service.target.UserServiceImpl，执行的方法是:modify--
+
+(3)针对目标对象的delete方法(注意:环绕通知的后半部分没有执行)
+--前置通知--
+--arond通知之前，显示执行的对象类型是：service.target.UserServiceImpl，执行的方法是:delete--
+target-delete:删除用户的信息... --产生异常通知/ by zero-- --最终通知--
+Exception in thread "main" java.lang.ArithmeticException: / by zero at
+service.target.UserServiceImpl.delete(UserServiceImpl.java:28)
+** 1. 代理模式

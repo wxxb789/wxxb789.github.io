@@ -1,0 +1,57 @@
+#+tags: snippet,
+
+* code
+
+#+BEGIN_SRC python
+from playwright.sync_api import sync_playwright
+
+def scrape_content_from_shadow_dom(url, shadow_host_xpath, content_selector):
+    """
+    Scrapes content from a web page that uses Shadow DOM.
+
+    Args:
+    - url (str): The URL of the web page to scrape.
+    - shadow_host_xpath (str): The XPath to locate the shadow host element.
+    - content_selector (str): The CSS selector to find the content within the shadow DOM.
+
+    Returns:
+    - str: The text content of the selected element.
+    """
+
+    with sync_playwright() as playwright:
+        # Launch a browser in headless mode
+        browser = playwright.chromium.launch(headless=True)
+
+        # Create a new browser context and page
+        page = browser.new_context().new_page()
+
+        # Navigate to the specified URL
+        page.goto(url)
+
+        # Wait for the page to load completely
+        page.wait_for_selector("body", timeout=10000)
+
+        # Locate the shadow host element using XPath
+        shadow_host = page.locator(f"xpath={shadow_host_xpath}")
+
+        # Access the shadow root of the host element
+        shadow_root = shadow_host.evaluate_handle("el => el.shadowRoot")
+
+        # Query for the content inside the shadow DOM
+        content_element = shadow_root.wait_for_selector(content_selector, timeout=30000)
+
+        # Extract and return the text content of the content element
+        content_text = content_element.text_content()
+
+        # Close the browser
+        browser.close()
+
+        return content_text
+
+# Example usage
+url = "https://example.com"
+shadow_host_xpath = "/html/body/path/to/shadow-host"
+content_selector = ".content-class"
+text_content = scrape_content_from_shadow_dom(url, shadow_host_xpath, content_selector)
+print(text_content)
+#+END_SRC

@@ -1,0 +1,7 @@
+#+tags: lisp,
+
+* programming language using lisp-2
+** elisp
+** common lisp
+** ruby
+** perl

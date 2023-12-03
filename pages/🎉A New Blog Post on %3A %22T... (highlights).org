@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: 🎉A New Blog Post on : "T... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Avra_b on Twitter]]
+:full-title: "🎉A New Blog Post on : "T..."
+:category: [[tweets]]
+:url: https://twitter.com/Avra_b/status/1717570070719701032
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-27]]
+** 📌
+** #+BEGIN_QUOTE
+** 🎉A new blog post on : "The need of Retrieval Augmented Generation (RAG) powered chatbots" 
+
+The blog post covers :
+\- Key aspects of RAG in a Chatbot & comparison drawn with Basic chatbots without RAG enabled
+- Next, Building &  deploying own RAG-enabled chatbots.
+
+The RAG Chatbot uses several <a href="https://twitter.com/LangChainAI">@LangChainAI</a> functionalities alongside leveraging <a href="https://twitter.com/OpenAI">@OpenAI</a> LLMs. 
+
+Drawing inspiration from <a href="https://twitter.com/hwchase17">@hwchase17</a> 's LangChain cookbook! 
+
+App is built & deployed using  <a href="https://twitter.com/DatabuttonHQ">@DatabuttonHQ</a>
+
+🔗Link to the Blog - 
+https://t.co/N0sdYKqVAe<img src='https://pbs.twimg.com/media/F9YH31qWsAAL0zA.jpg'/>  ([View Tweet](https://twitter.com/Avra_b/status/1717570070719701032))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** https://t.co/rr5Ib4SOuH  ([View Tweet](https://twitter.com/Avra_b/status/1717570216576586193))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Here's a quick demo : Simple Chatbots vs RAG enabled Chatbots ! <video controls><source src="https://video.twimg.com/ext_tw_video/1717571566983118848/pu/vid/avc1/640x360/PAGQYwTnMyRku7O6.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1717571566983118848/pu/pl/srJdXgfWdFNLlFwU.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1717571566983118848/pu/vid/avc1/480x270/k5CgVd2VrA-QvUgp.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1717571566983118848/pu/vid/avc1/1282x720/rgSjUuuIVMttlYdj.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video>  ([View Tweet](https://twitter.com/Avra_b/status/1717571859732959553))
+** #+END_QUOTE

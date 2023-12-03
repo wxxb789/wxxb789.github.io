@@ -1,0 +1,3 @@
+#+alias: fundamental attribution error,
+
+* 因果关系分析错误

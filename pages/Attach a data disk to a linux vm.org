@@ -1,0 +1,21 @@
+* link
+[[https://learn.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal?tabs=ubuntu#connect-to-the-linux-vm-to-mount-the-new-disk][Attach a data disk to a Linux VM - Azure Virtual Machines | Microsoft Learn]]
+* find the disk
+
+#+BEGIN_SRC bash
+lsblk -o NAME,HCTL,SIZE,MOUNTPOINT | grep -i "sd"
+#+END_SRC
+
+example of a output
+#+BEGIN_QUOTE
+sda     0:0:0:0      30G
+├─sda1             29.9G /
+├─sda14               4M
+└─sda15             106M /boot/efi
+sdb     1:0:1:0      14G
+└─sdb1               14G /mnt
+sdc     3:0:0:0       4G
+sdd     3:0:0:1      16G
+sde     3:0:0:2      32G
+#+END_QUOTE
+*

@@ -1,0 +1,19 @@
+* [01]编程语言
+
+范式： OOP（一些细节，继承，多态，接口，数据/方法，静态与否） Expression
+FP Differentiable programming Probabilistic Programming Concurrency
+Model
+
+通用概念/特性： 变量定义 算术运算 for 循环语句，while 循环语句
+函数定义，函数调用 递归 静态类型系统 类型推导 lambda 函数 面向对象
+垃圾回收 指针算术 goto 语句 类型推导，类型检查，惰性求值
+
+这个语言的"变量定义"是什么语法，需要"声明类型"吗，还是可以用"类型推导"？
+它的"类型"是什么语法？是否支持"泛型"？泛型的 "variance" 如何表达？
+这个语言的"函数"是什么语法，"函数调用"是什么语法，可否使用"缺省参数"？
+
+次要的语言特性： C 语言的语句块，如果里面只有一条语句，可以不打花括号。
+Go 语言的函数参数类型如果一样可以合并在一起写，比如 func foo(s string,
+x, y, z int, c bool) { ... } Perl 把正则表达式作为语言的一种特殊语法
+JavaScript 语句可以在某些时候省略句尾的分号 Haskell 和 ML 等语言的
+currying 自己动手实现语言特性

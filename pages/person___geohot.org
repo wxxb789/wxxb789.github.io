@@ -1,0 +1,6 @@
+#+alias: person/George Hotz,
+
+* [[https://github.com/geohot][geohot (George Hotz) (github.com)]]
+* [[https://twitter.com/realgeorgehotz][George Hotz 🐀 (@realGeorgeHotz) / Twitter]]
+*
+*

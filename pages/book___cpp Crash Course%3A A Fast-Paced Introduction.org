@@ -1,0 +1,4 @@
+#+tags: pl/cpp,
+
+* links
+** [[https://www.amazon.com/dp/1593278888/][Amazon.com: C++ Crash Course: A Fast-Paced Introduction: 9781593278885: Lospinoso, Josh: Books]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 云的价格确实贵的离谱，尤其是储存这块，作者分析说... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "云的价格确实贵的离谱，尤其是储存这块，作者分析说..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1723876254460584276
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-13]]
+** 📌
+** #+BEGIN_QUOTE
+** 云的价格确实贵的离谱，尤其是储存这块，作者分析说，价格比自己采购要贵上一百多倍，https://t.co/fn4z0VOro4，硬件再加软件，那就更加可怕了。
+
+如果不考虑弹性，自建机房最快十天就可以把云上租赁的钱给省出来。倘若是一般性的储存需求，对小型企业和个体用户而言，可以考虑组装几个跨区域多点数据同步的 NAS，也是非常靠谱划算的。<img src='https://pbs.twimg.com/media/F-xuNghbUAA5pn1.jpg'/>  ([View Tweet](https://twitter.com/Barret_China/status/1723876254460584276))
+** #+END_QUOTE

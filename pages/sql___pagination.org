@@ -1,0 +1,64 @@
+#+tags: snippet,
+
+* #+BEGIN_SRC sql
+SELECT a.sno, a.sname, 
+  FROM (SELECT a.*, ROWNUM rn
+
+          FROM (SELECT *
+
+                  FROM stu) as a
+
+         WHERE ROWNUM <= 20)
+ WHERE rn >= 11
+ 
+ 
+# 学号，姓名，选修课程总数，平均分
+SELECT tb1.sno, tb1.sname, tb2.scount, tb2.savg
+FROM stu as tb1 
+     left join 
+     (select count(distinct cno) as scount, avg(score) as savg
+     from grade
+     group by sno) as tb2
+on tb1.sno = tb2.sno
+SELECT res.sno, res.sname, res.scount, res.savg
+  FROM (SELECT res.*, ROWNUM rn
+
+          FROM (SELECT tb1.sno, tb1.sname, tb2.scount, tb2.savg
+                FROM stu as tb1 
+                     left join 
+                     (select count(distinct cno) as scount, avg(score) as savg
+                     from grade
+                     group by sno) as tb2
+                on tb1.sno = tb2.sno) as res
+         WHERE ROWNUM <= 20)
+WHERE rn >= 11
+ 
+SELECT res.sno, res.sname, res.scount, res.savg
+FROM (
+	SELECT res.*, ROWNUM AS rn
+	FROM (
+		SELECT tb1.sno, tb1.sname, tb2.scount, tb2.savg
+		FROM stu tb1
+			LEFT JOIN (
+				SELECT COUNT(DISTINCT cno) AS scount, AVG(score) AS savg
+				FROM grade
+				GROUP BY sno
+			) tb2 ON tb1.sno = tb2.sno 
+	) res
+	WHERE ROWNUM <= 20
+)
+WHERE rn >= 11
+
+SELECT res.*, ROWNUM AS rn
+	FROM (
+		SELECT tb1.sno, tb1.sname, tb2.scount, tb2.savg
+		FROM stu tb1
+			LEFT JOIN (
+				SELECT COUNT(DISTINCT cno) AS scount, AVG(score) AS savg
+				FROM grade
+				GROUP BY sno
+			) tb2 ON tb1.sno = tb2.sno 
+	) res
+WHERE rn >=11 and rn <= 20
+#+END_SRC
+*

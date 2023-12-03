@@ -1,0 +1,58 @@
+#+tags: docker
+
+* [[https://docs.docker.com/engine/reference/builder/][Dockerfile Reference]]
+* =Dockerfile= contains all the instructions for building image.
+* ~docker build <path>/<git url>~
+* A new build backend after =docker 18.09=
+** [[https://github.com/moby/buildkit][buildkit]] benifits
+:PROPERTIES:
+:collapsed: true
+:END:
+*** skip unused stages, file trasfering
+*** parallel
+*** incrementally transfer files
+*** user external Dockerfile implementations with new features
+*** no side-effects
+*** use build cache for automatic pruning
+* Format
+
+#+BEGIN_SRC dockerfile
+# Comment
+# Not case-sensitive, but UPPERCASE is better
+# Must start with `FROM` instruction, after `parser directives` and globally scoped ARGs is possible
+FROM Imagename # it's parent image
+INSTRUCTION argument
+
+# commands
+RUN
+CMD
+LABEL
+EXPOSE
+ENV
+ADD
+COPY
+ENTRYPOINT
+VOLUME
+USER
+WORKDIR
+ARG
+STOPSIGNAL
+HEALTHCHECK
+SHELL
+
+ONBUILD
+
+#+END_SRC
+** Leading whitespace is not preserved
+** =SHELL=
+Each =SHELL= instruction overrides all previous =SHELL= instructions, and affects all subsequent instructions
+* Escape
+Setting the escape character to =`= is especially useful on Windows, where =\= is the directory path separator. =`= is consistent with Windows PowerShell.
+
+#+BEGIN_SRC dockerfile
+# escape=\ (backslash)
+# escape=` (backtick)
+#+END_SRC
+* =.dockerignore= file
+* Build
+** =docker build -t <imagename:version> <path>=

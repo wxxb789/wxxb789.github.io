@@ -1,0 +1,121 @@
+:PROPERTIES:
+:title: 15 Best ChatGPT Prompts... (highlights)
+:author: [[hasantoxr on Twitter]]
+:full-title: "15 Best ChatGPT Prompts..."
+:category: #tweets
+:url: https://twitter.com/hasantoxr/status/1648948460597436416
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-21]]
+** 15 Best ChatGPT prompts to finish hours of work in seconds(all new): 
+
+![](https://pbs.twimg.com/media/FuI9hb0X0AEN2CC.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948460597436416))
+** 1. All in one prompt for you
+
+Train ChatGPT to write its own unlimited prompts for you.
+
+Prompt:
+
+You are GPT-4, OpenAI's advanced language model. Today, your job is to generate prompts for GPT-4. Can you generate the best prompts on ways to <what you want> 
+
+![](https://pbs.twimg.com/media/FuIuTRBXwAEa7EV.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948464221388802))
+** 2. Cover Letter Writer
+
+One of my favourite prompts for writing a cover letter
+
+Copy-paste the prompt from image ALT. 
+
+![](https://pbs.twimg.com/media/FuIwnTfXoAEwSIe.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948467652259842))
+** 3. Startup Idea Pitcher Template
+
+By following this prompt, entrepreneurs can ensure that they cover all the critical elements of their startup idea and avoid missing essential information.
+
+Copy-paste the prompt from image ALT. 
+
+![](https://pbs.twimg.com/media/FuIzPFRWcAERaue.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948471091658754))
+** 4. Learn code fast!
+
+Just paste your code/coding problem or concept below, and it will explain it to you. 
+
+works well for understanding LeetCode problems.
+
+Copy-paste the prompt from image ALT. 
+
+![](https://pbs.twimg.com/media/FuI2a1CWAAEE45t.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948474723827712))
+** 5. Become A Textbook On Any Subject You Choose
+
+This prompt allows you to treat ChatGPT as a textbook, with the first step being that it shows you the table of contents. https://t.co/Cu9OwKT9MK ([View Tweet](https://twitter.com/hasantoxr/status/1648948477051674624))
+** 6. Revise User Writing
+
+Improve users' grammar and vocabulary with this Prompt and also maintain writing style.
+
+Copy-paste the prompt from image ALT. 
+
+![](https://pbs.twimg.com/media/FuI59dxX0AEKZbl.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948480549765122))
+** 7. My ChatGPT Prompts Cheat Sheet for beginners🔥 
+
+Unlock the 100% potential of ChatGPT with this cheat sheet. 
+
+![](https://pbs.twimg.com/media/FuI6NyiX0AANvdd.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948482688917504))
+** 8. This cheat sheet will help you understand the workings of prompts. 
+
+![](https://pbs.twimg.com/media/FuI6tr2WIAAe6Fg.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948485150867458))
+** 9. Make ChatGPT your personal trainer:  
+
+This prompt will turn ChatGPT into your personal AI trainer.
+
+This will help you generate a custom plan for you that will help you achieve your goals in the best way possible related to your health 
+
+Copy-paste the prompt from the image. 
+
+![](https://pbs.twimg.com/media/FuI7D-AWwAAIhFr.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948487218688003))
+** 10. I made a ChatGPT Cheat Sheet for Advance level
+
+Use this Cheat Sheet for learn everything about ChatGPT Prompts 
+
+![](https://pbs.twimg.com/media/FuI6g7pWcAEdjgx.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948489416589313))
+** 11. Get medical help:
+
+This prompt will turn ChatGPT into an AI doctor that will ask you questions to understand your problem and then provide possible solutions.
+
+Copy-paste the prompt from the image. 
+
+![](https://pbs.twimg.com/media/FuI8ievWYAEc1cO.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948492973359104))
+** 12. Make ChatGPT a plagiarism checker:   
+
+This prompt will help you turn ChatGPT into a plagiarism checker.
+
+Copy-paste Prompt from image. 
+
+![](https://pbs.twimg.com/media/FuI8v9eXsAAVrhS.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948496677081089))
+** 13. Create unique selling points   
+
+This prompt will help you create amazing ideas for selling anything.
+
+Copy-paste Prompt from image. 
+
+![](https://pbs.twimg.com/media/FuI9IV_XwAE1CyW.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948499306668034))
+** 14. Generate Engaging Stories   
+
+With this, ChatGPT will tell a story on the topic provided without copying content from anywhere. 
+
+It will choose the theme itself, you just need to provide the moral you want to focus on.   
+
+Copy-paste Prompt from image. 
+
+![](https://pbs.twimg.com/media/FuI9Qm1X0AE03pc.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948501466824704))
+** 15. Make ChatGPT Write Poems   
+
+This prompt heavily focuses on poetry that evokes emotions, which should work fine for most types of poetry topics.   
+
+Although if you want ChatGPT to be funny or witty a little, then you can add a line asking to make it funny. 
+
+![](https://pbs.twimg.com/media/FuI9cEhWAAM_UNf.jpg) ([View Tweet](https://twitter.com/hasantoxr/status/1648948503656185856))
+** That's a wrap!
+
+If you enjoyed this thread:
+
+1. Follow me @hasantoxr for more of these 
+2. If you enjoyed this thread, don't forget to like, comment, and retweet the first tweet.
+
+https://t.co/HutU2LluEl ([View Tweet](https://twitter.com/hasantoxr/status/1648949093077590016))

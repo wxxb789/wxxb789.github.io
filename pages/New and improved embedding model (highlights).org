@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: New and improved embedding model (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[OpenAI]]
+:full-title: "New and improved embedding model"
+:category: [[articles]]
+:url: https://openai.com/blog/new-and-improved-embedding-model
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-24]]
+** 📌
+** #+BEGIN_QUOTE
+** **Unification of capabilities**. We have significantly simplified the interface of the [/embeddings](https://beta.openai.com/docs/api-reference/embeddings) endpoint by merging the five separate models shown above (`text-similarity`, `text-search-query`, `text-search-doc`, `code-search-text` and `code-search-code`) into a single new model. This single representation performs better than our previous embedding models across a diverse set of text search, sentence similarity, and code search benchmarks.  ([View Highlight](https://read.readwise.io/read/01h61xk751gj05yx6rmwfea3nk))
+** #+END_QUOTE

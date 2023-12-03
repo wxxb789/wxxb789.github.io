@@ -1,0 +1,9 @@
+#+tags: ms-work
+
+* onenote
+welcome to bond https://microsoft.sharepoint.com/:o:/r/teams/WAG/EngSys/Bond/SiteAssets/Bond%20Notebook?d=w7a3d18e71d9d472081517f9a52280ea5&csf=1&web=1&e=WSSHyq
+* [[https://microsoft.github.io/bond/manual/bond_cs.html][A Thorough Guide to Bond for C# (microsoft.github.io)]]
+* [[https://msazure.visualstudio.com/DefaultCollection/One/_git/OldBond][OldBond - Repos (visualstudio.com)]]
+** [[https://msazure.visualstudio.com/One/_git/OldBond?path=/doc/src/bond_cpp.md&version=GBdevelop&_a=contents][bond_cpp.md - Repos (visualstudio.com)]]
+*
+*

@@ -1,0 +1,256 @@
+* [02]
+** 1. 归并排序（Time:$O(N\log{N})$,Space:$O(N)$）
+
+
+1. 整体就是个递归过程，左边排号，右边排好，整体有序
+2. 整体有序的过程用了外排
+3. 复杂度：Master 公式
+4. 归并排序的实质
+
+#+begin_src java
+  // TODO 待改进，只申请一次额外空间
+  public static void mergeSort(int[] arr) {
+    if(arr == null || arr.length < 2) { return; }
+    mergeSort(arr, 0, arr.length - 1);
+  }
+  // 划分两个区间[l,m]与[m+1,r]，按照空间大小划分两部分
+  public static void mergSort(int[] arr, int l, int r){
+    if(l == r) { return; }
+    int mid = l + ((r - l) >> 1);
+    mergeSort(arr,l,mid);
+    mergeSort(arr,mid+1,r);
+    merge(arr, l, mid, r);
+  }
+
+  public static void merge(int[] arr, int l, int m, int r){
+    int[] help = new int[r-l+1];
+    int i = 0;
+    int p1 = l;
+    int p2 = m + 1;
+    // 较小的进入辅助数组
+    while (p1 <=m && p2 <= r) { help[i++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++]; }
+    // 收尾，p1全部处理完成后
+    while (p2 <= r) { help[i++] = arr[p2++]; }
+    // 收尾，p2全部处理完后
+    while (p1 <= m) { help[i++] = arr[p1++]; }
+
+    for ( i = 0; i < help.length; i++) {
+      arr[l + i] = help[i];
+    }
+  }
+#+end_src
+*** 1.1. 归并思路的应用
+**** 1.1.1. 小和问题
+
+在一个数组中，每一个数左边比当前数小的数累加起来，叫做这个数组的小和。
+
+#+begin_src java
+  // 思路，借用归并排序，在执行merge的时候产生小和
+  // 注意，相等部分的处理
+  public static int smallSum(int[] arr) {
+    if (arr == null || arr.length < 2) {
+      return 0;
+    }
+    return mergeSort(arr, 0, arr.length - 1);
+  }
+
+  public static int mergeSort(int[] arr, int l, int r) {
+    if (l == r) {
+      return 0;
+    }
+    int mid = l + ((r - l) >> 1);
+    return mergeSort(arr, l, mid)
+        + mergeSort(arr, mid + 1, r)
+        + merge(arr, l, mid, r);
+  }
+
+  public static int merge(int[] arr, int l, int m, int r) {
+    int[] help = new int[r - l + 1];
+    int i = 0;
+    int p1 = l;
+    int p2 = m + 1;
+    // 小和
+    int res = 0;
+    while (p1 <= m && p2 <= r) {
+      // 等于的收先拷贝右边的
+      res += arr[p1] < arr[p2] ? (r - p2 + 1) * arr[p1] : 0;
+      help[i++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
+    }
+    while (p1 <= m) { help[i++] = arr[p1++]; }
+    while (p2 <= r) { help[i++] = arr[p2++]; }
+    for (i = 0; i < help.length; i++) { arr[l + i] = help[i]; }
+    return res;
+  }
+#+end_src
+**** 1.1.2. 逆序对问题
+
+在一个数组中，左边的数如果比右边的数大，那么这两个数构成一个逆序对，请打印所有逆序对。
+
+#+begin_src java
+  // TODO
+#+end_src
+** 2. 堆
+
+使用数组实现的完全二叉树。性质：
+
+1. 对于下标为$i$的节点而言，它的左孩子下标是 $2*i+1$ ，右孩子是 $2*i+2$ ，它的父节点为 $\frac{i-1}{2}$
+2. 分为大根堆，小根堆。如果是小根堆，那么对于树上的任意一棵子树，根节点都是这棵子树的最小值。大根堆同理，为最大值。
+3. 堆结构有关的两个操作：heapInsert，heapify
+4. 对结构的增大减小由一个heapSize的变量记录
+5. 优先级队列结构就是堆结构
+
+#+begin_src java
+  // 构建堆的过程（自顶向下），尾部添加，向上移动
+  public static void heapInsert(int[] arr, int index) {
+    while (arr[index] > arr[(index - 1) / 2]) {
+      swap(arr, index, (index - 1) /2);
+      index = (index - 1)/2 ;
+    }
+  }
+
+  // 取出根元素（index位置的元素想要向下移动）：头尾交换（size记录，size不一定等于数组大小），自头部向下移动
+  public static void heapify(int[] arr, int index, int size) {
+    int left = index * 2 + 1;
+    while (left < size) {
+      // 两个孩子中较大的那个的下标
+      int largest = left + 1 < size && arr[left + 1] > arr[left] ? left + 1 : left;
+      // 与父节点比较，的到较大的一个
+      largest = arr[largest] > arr[index] ? largest : index;
+      if (largest == index) {
+        break;
+      }
+      swap(arr, largest, index);
+      index = largest;
+      left = index * 2 + 1;
+    }
+  }
+#+end_src
+** 3. 堆排序
+
+建立堆结构的过程：
+
+1. 自顶向下的方法：$O(N\log{N})$
+2. 自底向上的方法：$O(N)$
+
+建堆完成后（大根堆），把堆顶愿随和末尾元素交换，并减小堆的大小，然后调整堆，循环操作，直到堆的大小减小到零，排序完成，整个过程时间复杂度为$O(N*logN)$，额外空间复杂度为$O(1)$。
+
+#+begin_src java
+  // 一开始就得到一个数组的所有数据，那么可以使用自底向上的方式构建堆结构，效率跟高，O(N)复杂度
+  public void sortedArrDistanceLessK(int[] arr, int k) {
+    PriorityQueue<Integer> heap = new PriorityQueue<>();
+    int index = 0;
+    for (; index < Math.min(arr.length, k); index++) {
+      heap.add(arr[index]);
+    }
+    int i = 0;
+    // 注意，进堆的下标始终是index，数组排好的下标始终是i
+    for (; index < arr.length; i++, index++) {
+      // 添加一个进入堆
+      heap.add(arr[index]);
+      // 从堆中取出一个
+      arr[i] = heap.poll();
+      // 维持了堆的大小始终为k+1
+    }
+    // 最终，把堆中剩下的k+1个元素取出来
+    while (!heap.isEmpty()) {
+      arr[i++] = heap.poll();
+    }
+  }
+#+end_src
+*** 3.1. 堆排序扩展问题
+
+
+#+begin_quote
+  已知一个几乎有序的数组，几乎有序是指，如果把数组排好顺序的话，每个元
+  素移动的距离可以不超过k，并且k相对于数组来说比较小。请选择一个合适的
+  排序算法针对这个数据进行排序。
+#+end_quote
+** 4. Partition
+
+
+#+begin_quote
+  给定一个数组arr以及一个值value，调整数组使得小于value的值都在value的左边，大于value的值都在value的右边。要求，时间复杂度$O(N)$，空间复杂度$O(1)$
+#+end_quote
+*** 4.1. 划分成两个区间（小于等于区间与大于区间）
+
+
+1. 当$cur \leq value$，cur与小于等于区域下一个数字交换，小于等于区域扩大1，cur跳到下一个位置。
+2. 当$cur \gt value$，cur跳到下一个位置。
+*** 4.2. 划分成三个区间（小于区间，等于区间，大于区间）
+
+
+#+begin_quote
+  荷兰国旗问题，小于放左边，等于放中间，大于放右边。
+#+end_quote
+
+1. 当$cur = value$，cur跳到下一个。
+2. 当$cur \lt value$，cur与小于区域的下一个交换，小于区域扩大1（向右移动1），cur跳到下一个。（小于区域的下一个要么是cur，要么是等于区域内的元素）
+3. 当$cur \gt value$，cur与大于区域的前一个交换，大于区域扩大1（向左移动1），cur不动。（不动是因为cur换过来的是大于区域的前一个元素，这个元素的值还未判断过）
+
+#+begin_src java
+  // 对数组arr的[l,r]区间内做划分，p为划分值
+  public static int[] partition(int[] arr, int l, int r, int p) {
+    // 初始时，假定小于区间和大于区间都在数组边界外。
+    int less = l - 1; // 小于区域的右边界
+    int more = r + 1; // 大于区域的左边界
+    // 使用l作为current标记，用来滑过数组
+    while (l < more) {
+      if (arr[l] < p) {
+        swap(arr, ++less, l++);
+      } else if (arr[l] > p) {
+        swap(arr, --more, l);
+      } else {
+        l++;
+      }
+    }
+    return new int[] { less + 1, more - 1 };
+  }
+#+end_src
+** 5. 传统快排
+
+
+#+begin_quote
+  平均时间复杂速度$O(N\log{N})$，最坏时间复杂度$O(N^{2})$。使用数组的末尾数作为划分值（与数据状况有关），递归的调用
+  partition 过程， base case
+  是当待处理的区域只有一个值的时候，不需要处理，直接返回。
+#+end_quote
+** 6. 随机快排
+
+
+#+begin_quote
+  平均时间复杂速度$O(N\log{N})$，最坏时间复杂度$O(N\log{N})$，额外空间复杂度$O(\log{N})$。使用数组中的一个随机位置的值作为划分值（随机的引入，消除了数据状况的影响），递归的调用=partition=过程，base
+  case 是当待处理的区域只有一个值的时候，不需要处理，直接返回。
+#+end_quote
+
+#+begin_src java
+  public static void quickSort(int[] arr) {
+    if (arr == null || arr.length < 2) {
+      return;
+    }
+    quickSort(arr, 0, arr.length - 1);
+  }
+  public static void quickSort(int[] arr, int l, int r) {
+    if (l < r) {
+      // 引入随机，使得划分区间的最后一个数是随机的
+      swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
+      int[] p = partition(arr, l, r);
+      quickSort(arr, l, p[0] - 1);
+      quickSort(arr, p[1] + 1, r);
+    }
+  }
+  public static int[] partition(int[] arr, int l, int r) {
+    int less = l - 1;
+    int more = r;
+    while (l < more) {
+      if (arr[l] < arr[r]) {
+        swap(arr, ++less, l++);
+      } else if (arr[l] > arr[r]) {
+        swap(arr, --more, l);
+      } else {
+        l++;
+      }
+    }
+    swap(arr, more, r);
+    return new int[] { less + 1, more };
+  }
+#+end_src

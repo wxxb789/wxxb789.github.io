@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: OpenAI 推出的开源免费 Whisper 在... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "OpenAI 推出的开源免费 Whisper 在..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1729521472669151516
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-29]]
+** 📌
+** #+BEGIN_QUOTE
+** OpenAI 推出的开源免费 Whisper 在语音识别领域（ASR）可以说无出其右，不过它有一个较大的局限性，就是无法进行说话人分类（Speaker diarization），尤其是在重叠语音检测（Overlapped speech detection）方面，Whisper 在训练过程中只识别了一个声音，同时将其他声音视为背景噪声。
+
+社区有一个发展了多年的音频处理工具包，pyannote-audio，https://t.co/THzXIP6HFr，它具备非常强大的音频分析、处理、识别和分类能力，在多人同时讲话的时候，也可以很准确地区分说话者内容，只不过它的 ASR 能力还是比不过 Whisper。
+
+有人想到结合两者的能力，并做了一个工程化的实践，https://t.co/ZH20hf2GBd，大致思路如下：
+
+1）通过 pyannote-audio 将不同 speaker 的音轨时间片段给识别出来
+2）将不同 speaker 的声音按照各自的时间片段进行合并，空白处使用静音填充
+3）将分离的多个 speaker 音频交给 Whisper 进行语音识别
+4）最后将识别的内容按照 speaker 和时间顺序进行还原
+
+这个实验还演示了如何使用 yt-dlp 从 Youtube 下载视频，如何使用 pydub 分离音频，以及解决了 Whisper 和 pyannote-audio 安装时的依赖冲突问题，算是一个比较完整的解决方案，不过这个思路需要对音频进行多次分析（取决于 speaker 数量），性能一般。
+
+https://t.co/sYEMTsce6m，这篇文章提出了一个性能稍微优秀一点点的方案，仍然是通过工程手段解决问题：
+
+1）首先利用 pyannote-audio 根据静音、暂停和说话者变化等特征，将音频流分割为更小的片段
+2）对于每个片段，将不同说话者的语音特征提取出来（Speaker Embedding）
+3）将分割的片段极其衍生的更多片段进行聚类（Clustering）和打标（Labeling）
+4）最后交给 Whisper 进行语音识别
+
+这部分工程的实现已被作者整理成一个开源项目：https://t.co/vluIQH1ElF，目前还没有找到更优的解决方案，不知道有经验的朋友都是如何去做的？  ([View Tweet](https://twitter.com/Barret_China/status/1729521472669151516))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Whisper 项目的维护者给出了一个解决思路：“如果你有重叠音频的数据集，对 Whisper 直接进行微调，或许是一个效果更好、更加可靠、成本更低的方案”，https://t.co/do5NILbOeQ
+
+还没有找到这么厉害的端到端模型，不知道是不是论文读少了，我再去找找😄  ([View Tweet](https://twitter.com/Barret_China/status/1729526155932553493))
+** #+END_QUOTE

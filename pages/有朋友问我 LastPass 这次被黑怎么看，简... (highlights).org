@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: 有朋友问我 LastPass 这次被黑怎么看，简... (highlights)
+:author: [[@evilcos on Twitter]]
+:full-title: "有朋友问我 LastPass 这次被黑怎么看，简..."
+:category: #tweets
+:url: https://twitter.com/evilcos/status/1606615478277132289
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-25]]
+** 有朋友问我 LastPass 这次被黑怎么看，简单说下吧...
+
+如图，根据官方披露的信息来看，至少虚线里的信息许多是泄露的，包括 Encrypted Vault，这里面就有你那些最关键的密码等隐私。
+
+那么后面的游戏就变成：如果你的 Master Password 也被黑客知道了，那就全完了...
+
+1/n 
+
+![](https://pbs.twimg.com/media/FkvWjshUEAAoGkK.png) ([View Tweet](https://twitter.com/evilcos/status/1606615478277132289))
+** 黑客要知道你的 Master Password 是有方法的，碰撞难度应该挺大，但如果通过其他泄漏源做分析，那就有一定概率可以知道。
+
+于是，黑客之后可以玩概率统计游戏，反正 LastPass 用户那么多...
+
+2/n ([View Tweet](https://twitter.com/evilcos/status/1606616256001769473))
+** 更糟糕的是，黑客还拿到了许多明文信息，如：
+
+- Company names, end-user names, billing addresses, email addresses, telephone numbers, and the IP addresses from which customers were accessing the LastPass service.  
+- 以及 Vault 里的 unencrypted data, such as website URLs...
+
+3/n ([View Tweet](https://twitter.com/evilcos/status/1606616987798769664))
+** 所以，后面的游戏还可以包括钓鱼、社会工程学等持续性攻击...
+
+这确实是非常严重的安全事故了，可能还有我们未知的信息，这里也不猜测了。具体见官方披露：
+https://t.co/whUvep7OLi ([View Tweet](https://twitter.com/evilcos/status/1606617519720390656))
+** 如果你或你的企业用了 LastPass，里面保管的密码等信息还是全面改一遍吧...这种事不用罗嗦...
+
+另外，虽然我之前一直挺推荐 @1Password 及 @Bitwarden ，但他们是否可能也会遭遇这类安全事故，我觉得吧...一切皆有可能，时刻做好响应吧。
+
+n/n ([View Tweet](https://twitter.com/evilcos/status/1606619778671861760))

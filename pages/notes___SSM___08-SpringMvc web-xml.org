@@ -1,0 +1,21 @@
+#+title: notes/SSM/08-SpringMvc web-xml
+
+* 8.SpringMvc之web.xml
+
+1. 注册编码过滤器
+2. 注册总控制器-DispatcherServlet(请求分发器)
+3. 注册监听器，创建web类型的IoC容器(管理Service，Dao，连接池，事务管理器....)
+
+#+begin_example
+      <!--整个应用的上下文对象的常量，可以被监听器调用 -->
+      <context-param>
+          <param-name>contextConfigLocation</param-name>
+          <param-value>classpath:spring-mybatis.xml</param-value>
+      </context-param>
+      <!--配置监听器，创建web类型的根容器  -->
+      <listener>
+          <listener-class>
+              org.springframework.web.context.ContextLoaderListener
+          </listener-class>
+      </listener>
+#+end_example

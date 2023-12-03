@@ -1,0 +1,3 @@
+*
+* [[https://promptperfect.jina.ai/][PromptPerfect - Elevate Your Prompts to Perfection. Prompt Engineering, Optimizing, Debugging and Hosting. (jina.ai)]]
+*

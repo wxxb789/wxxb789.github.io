@@ -1,0 +1,2 @@
+*
+* [[https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction][DLAI - Learning Platform Beta (deeplearning.ai)]]

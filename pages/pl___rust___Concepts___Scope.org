@@ -1,0 +1,8 @@
+#+title: pl/Rust/Concepts/Scope
+
+* block
+={}= could work with variable shadowing
+* Shadow
+Shadowing feature allow reuse the same variable for different type.
+** todo: could it works if mix use =let= and =let mut=
+*

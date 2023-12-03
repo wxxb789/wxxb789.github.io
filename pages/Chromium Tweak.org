@@ -1,0 +1,10 @@
+* Temp Files
+
+#+BEGIN_QUOTE
+"C:\Users\<your user name>\AppData\Local\Google\Chrome\Application\chrome.exe" 
+--profile-directory="C:\temp\profile"
+--user-data-dir=D:\ChromeFiles
+--disk-cache-dir="d:\cache" 
+--disk-cache-size=104857600
+#+END_QUOTE
+*

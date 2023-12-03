@@ -1,0 +1,48 @@
+#+title: pl/elisp/contents
+#+tags: elisp
+
+* why
+** =car= and =cdr=
+* ='()= create a list without evaluate
+* =`()= create a list with some symbol/expression also evaluated
+* =cons= is called cons cells
+cons doesn't have a nil at the end of list
+#+begin_src emacs-lisp
+(cons 1 2)
+(message "done1")
+(cons 1 (cons 2 nil))
+;; you get (1 . 2) as the result
+#+end_src
+* why not use =setq= for function
+
+variables and functions have different namesapce.
+so, it's possible to get both varialbe and function with same name.
+
+#+begin_src emacs-lisp
+
+#+end_src
+* =#'= is used for access the function namespace
+so that, you would get a function with symbol ~a~ if you try ~#'~.
+
+#+begin_src emacs-lisp
+(defun a ()
+  (message "hey I'm a, a function called a."))
+
+(setq a (lambda () 10))
+
+;; here is how to call a function by =funcall= with a name rather than invoke it by =()= directly.
+;; function namespace
+(funcall #'a)
+
+;; here is call something in varialbe namespace.
+(funcall a)
+#+end_src
+
+#+RESULTS:
+: 10
+* =mapcar=
+
+#+begin_src emacs-lisp
+(mapcar #'1+ '(1 2 3))
+#+end_src
+*

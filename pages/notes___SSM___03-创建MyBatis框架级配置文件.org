@@ -1,0 +1,32 @@
+
+
+* 3.创建MyBatis框架级配置文件
+
+
+1. mybatis-config.xml
+
+   1. 配置MyBatis的日志的输出形式
+   2. 配置JavaBean的别名，方便在mapper文件中使用；
+   3. 配置Mapper文件的引用.
+
+#+begin_example
+  <?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+     "http://mybatis.org/dtd/mybatis-3-config.dtd">
+  <configuration>
+      <settings>
+          <!--配置在控制台上输出日志  -->
+          <setting name="logImpl" value="STDOUT_LOGGING"/>
+      </settings>
+
+      <!--定义javabean的别名，有利于简化配置  -->
+      <typeAliases>
+          <package name="entity"/>
+      </typeAliases>
+
+      <!--配置mapper文件的位置  -->
+      <mappers>
+          <package name="dao"/>
+      </mappers>
+  </configuration>
+#+end_example

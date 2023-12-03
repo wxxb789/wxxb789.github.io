@@ -1,0 +1,4 @@
+* #+BEGIN_QUOTE
+In the original book that coined the terms Observer and Mediator, Design Patterns, Elements of Reusable Object-Oriented Software it says that the Mediator pattern can be implemented by using the [[Design Pattern/Behavioral Pattern/Observer]] pattern. However it can also be implemented by having Colleagues (roughly equivalent to the Subjects of the Observer pattern) have a reference to either a Mediator class or a Mediator interface.
+
+#+END_QUOTE

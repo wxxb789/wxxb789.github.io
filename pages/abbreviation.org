@@ -1,0 +1,7 @@
+#+alias: abbr,
+
+* abbr is better for file name
+* [[lrn]] is abbr. for [[learning]]
+* [[pl]] is abbr. for [[Programming Language]]
+* [[crse]] is abbr. for [[course]]
+* [[cs]] is abbr. for [[computer science]]

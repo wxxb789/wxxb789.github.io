@@ -1,0 +1,12 @@
+#+alias: ml,
+
+* [[machine learning metrics]]
+* [[binary classification]]
+* [[multi classification]]
+* [[ml/denoise]]
+* [[ml/compression]]
+*
+* [[nlp]]
+** [[bert]]
+** [[fasttext]]
+*

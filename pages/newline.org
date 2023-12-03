@@ -1,0 +1,4 @@
+*
+* | Unix, Linux, Mac OS X |  ~LF~  |
+| Windows |  ~CRLF~  (2 characters) |
+*

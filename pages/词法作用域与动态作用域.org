@@ -1,0 +1,11 @@
+#+tags: plt
+
+* [[plt/scoping]]
+* scope 规定了 name 与 entity 的绑定保持有效的范围
+* 词法作用域 Lexical Scope
+编译时确定
+* 动态作用域 Dynamic Scope
+运行时确定
+* The bottom line is that ^^dynamic scope by default is indeed a mistake, but dynamic scope as a feature is not.^^
+*
+*

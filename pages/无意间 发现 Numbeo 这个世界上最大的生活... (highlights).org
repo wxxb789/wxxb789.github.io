@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: 无意间 发现 Numbeo 这个世界上最大的生活... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[ponyweb3_eth on Twitter]]
+:full-title: "无意间 发现 Numbeo 这个世界上最大的生活..."
+:category: [[tweets]]
+:url: https://twitter.com/ponyweb3_eth/status/1680548584364871681
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-16]]
+** 📌
+** #+BEGIN_QUOTE
+** 无意间 发现 Numbeo 这个世界上最大的生活成本数据库还挺好玩的！✨🌍
+
+🌃它收集了各个国家和地区的消费价格指数、住房指标、直观犯罪率、医疗保健品质、交通质量等数据
+
+更有趣的是还提供了一个全球城市在线生活成本计算器🧮，可以计算任何城市的生活成本
+
+链接 https://t.co/QsAiBAXAiV 
+
+![](https://pbs.twimg.com/media/F1J0U-LagAAvuhb.jpg) ([View Tweet](https://twitter.com/ponyweb3_eth/status/1680548584364871681))
+** #+END_QUOTE

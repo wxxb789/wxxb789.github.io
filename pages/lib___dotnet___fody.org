@@ -1,0 +1,4 @@
+*
+* [[https://github.com/Fody/Fody][GitHub - Fody/Fody: Extensible tool for weaving .net assemblies]]
+* [[https://github.com/Fody/Home/blob/master/pages/addins.md][Home/addins.md at master · Fody/Home · GitHub]]
+* Extensible tool for weaving .net assemblies

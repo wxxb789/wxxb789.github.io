@@ -1,0 +1,531 @@
+
+
+* Git
+** 基本概念
+- 三种状态
+  - 已提交 committed
+  - 已修改 modified
+  - 已暂存 staged
+- 每个文件都处于两种状态之一
+  - 已跟踪 tracked :: 上次快照中包含的文件
+    - unmodified :: 编辑后，变为已修改
+    - modified :: 暂存后变成已暂存
+    - staged :: 提交后变成未修改
+  - 未跟踪 untracked :: 上次快照中未包含的文件。添加后变成已暂存。
+** Command
+#+BEGIN_SRC bash
+# 常用基本的命令
+# doc helper
+git help --web <command>
+
+git status
+
+# <branch>; -f; -- .; -b <new branch>; <branch> -- <file>
+git branch -av
+
+git reflog
+
+git config --local --list
+
+# 查看对应 hash 的类型或者内容
+git cat-file -t|-p <hash>
+#+END_SRC
+** Author and Committer
+- author :: the man who writes the code.
+- committer :: the man who execute the "commit" command.
+* Config 配置
+#+BEGIN_SRC shell
+
+# system
+git config --system
+# HOME/user
+git config --global
+# repo
+git confg --local
+
+git config --global user.name "<wxxb>"
+git config --global user.email "<wxxb@xxx.com>"
+
+#+END_SRC
+** Case Sencetive
+#+BEGIN_SRC shell
+git config core.ignorecase <true/false>
+#+END_SRC
+** Getting Start
+#+BEGIN_SRC shell
+git init
+git clone
+#+END_SRC
+* Basic Snapshotting 快照操作
+#+BEGIN_SRC shell
+# 工作区，暂存区，仓库相互操作
+# todo
+git add
+git status
+git commit
+
+# 默认比较工作区与暂存区
+git diff
+# 比较暂存区与 HEAD 。
+git diff --cache
+# 比较工作区与 HEAD 。
+git diff HEAD -- <file>
+# 特定比较
+git diff <branch> <branch>
+git diff <commit-hash> <commit-hash>
+git diff <branch> <branch> -- <file>
+
+# 删除文件，在暂存区中删除文件
+git rm <file>
+# 移动/重命名文件
+git mv <file>
+
+# 操作暂存区
+git reset
+# 放弃暂存区的修改
+git reset HEAD -- <file>
+# 放弃暂存区的所有修改
+git reset HEAD
+# 删除前几个分支
+git reset --hard <commit-hash>
+# 操作工作区
+git checkout
+# 放弃工作区修改，使工作区内容与暂存区一致
+git checkout -- <file>
+
+# todo
+git restore
+# untrack file
+git restore --staged <file>
+git notes
+
+# 临时存储区域
+# 保存当前工作到临时区域中（栈），并得到干净的工作区
+git stash
+git stash list
+# 拿出栈顶内容，但不删除
+git stash apply
+# 弹出栈顶内容（删除）
+git stash pop
+#+END_SRC
+* Staging and 工作区与暂存区
+
+- 工作目录 Working Directory :: 系统上的文件，在这里进行编辑开发
+- 索引 Index or Staging Area :: 暂存区，会在下一次 commit 后提交到 Git 仓库中
+- Git 仓库 :: 有 Git Object 进行记录每次 commit 的快照，然后用链式结构记录 commit 到历史中
+
+#+BEGIN_SRC bash
+
+# 工作目录
+git add <files>
+git add . # git add -A git add --all
+git add -u
+# 暂存区
+git commit
+# 版本历史
+
+# 清除暂存区以及工作目录
+git reset --hard
+
+#+END_SRC
+* Log 历史
+
+#+BEGIN_SRC bash
+
+#
+git log
+# 所有分支的历史
+git log --all
+#
+git log --oneline
+#
+git log --oneline -n5
+#
+git log --oneline --all -n5 --graph
+
+#+END_SRC
+** gitk
+GUI repo browser.
+* Branch 分支
+#+BEGIN_SRC shell
+# list branches on your repo
+git branch
+# create branch
+git branch <new-branch>
+git checkout -b <new-branch> <based-on-branch>
+# switch branch
+git switch
+git checkout
+# delete a branch
+git branch -[d|D]
+#+END_SRC
+** HEAD
+可以指向一个 branch, 也可以指向某个 commit 。
+=HEAD~1= 可以表示 HEAD 的上一次 commit 。
+* Sharing And Updating 共享与更新
+
+#+BEGIN_SRC shell
+git fetch
+git pull
+git push
+git push origin <branch>
+# todo
+git remote
+git submodule
+#+END_SRC
+* Inspection and Comparison 检查与比较
+#+BEGIN_SRC shell
+git show
+git log
+git diff
+git difftool
+git range-diff
+git shorlog
+git describe
+#+END_SRC
+* Patching 修补
+#+BEGIN_SRC shell
+git apply
+git cherry-pick
+git rebase
+git revert
+#+END_SRC
+** =rebase=
+=git rebase -i <commit-hash>= 的一些命令
+*** =pick=
+*** =reword=
+修改 commit message
+*** =edit=
+*** =squash=
+合并到上一个 commit
+*** =fixup=
+合并到上一个 commit 且忽略 message
+*** =exec=
+执行 shell command
+*** =drop=
+删除这个 commit
+*** =label=
+为这个 HEAD 打 label
+*** =reset=
+重置 HEAD 到一个 label
+*** =merge=
+=merge [-C <commit> | -c <commit>] <label> [# <oneline>]=
+创建一个 merge commit
+* Debuging 调试
+#+BEGIN_SRC shell
+git biset
+git blame
+#+END_SRC
+* Management 管理仓库
+#+BEGIN_SRC shell
+git clean
+git gc
+git fsck
+git reflog
+git filter-branch
+git instaweb
+git archive
+git bundle
+#+END_SRC
+* Tips 技巧
+** 重命名
+#+BEGIN_SRC shell
+git mv <src> <dest>
+#+END_SRC
+** git add -p
+** 拼写错误
+*** git commit --amend
+*** mv branch 修复分支名字错误
+** 错误的把更改提交到 master 分支
+#+BEGIN_SRC shell
+# save your change first
+git branch feature-branch
+git reset HEAD~ --hard
+git checkout feature-branch
+#+END_SRC
+** 提交后发现忘记添加文件
+#+BEGIN_SRC shell
+git add missed-file.txt
+git commit --amend
+#+END_SRC
+** 错误的把文件添加到仓库
+*** 如果还没有提交
+#+BEGIN_SRC shell
+git rest <file>
+#+END_SRC
+*** 如果已经提交了
+#+BEGIN_SRC shell
+git reset --soft HEAD~1
+git reset <file>
+rm <file>
+git commit
+#+END_SRC
+** 错误的删掉分支
+#+BEGIN_SRC shell
+git reset --hard
+git rebase
+
+git reflog
+#+END_SRC
+** 删除历史中已经提交的文件
+#+BEGIN_SRC shell
+git filter-branch --tree-filter 'rm -f <file>' HEAD
+#+END_SRC
+** 工作空间混乱，如何重新开始
+#+BEGIN_SRC shell
+git reset --hard HEAD
+git checkout -f
+git clean -df
+
+git stash push [-u | --include-untracked]
+
+#+END_SRC
+
+#+RESULTS:
+** 整理历史提交
+git reabse -i
+** git cherry-pick
+* Git 原理
+
+Git: refs -> commit -> tree -> blob
+** .git 目录
+
+- HEAD
+  文本文件，保存了一个指向 commit 的 ref 。
+- config
+  文本文件，保存当前仓库的配置。
+#+BEGIN_SRC shell
+git config --local --list
+#+END_SRC
+- branches
+- description
+- hooks
+- index
+- info
+- logs
+- objects
+    文件 -> tree -> blob
+  - pack
+    文件过多，则放进 pack 打包。
+
+- refs
+  - heads
+    文件夹，保存不同分支。
+  - tags
+    file -> tag object -> commit object
+    文件夹，保存了标签（里程碑）。
+** Plumbing and Porcelain 底层命令与高层命令
+** Git object
+简单说， commit 记录历史， tree 记录快照， blob 记录了具体内容。
+*** commit
+- tree
+  指向一棵树。
+- parent
+  父亲 commit
+- child
+  儿子 commit
+- author
+- committer
+*** tree
+保存了某个状态时的快照，所有的，目录指针，目录名，文件指针，文件名，权限。
+
+- tree
+  树可以指向另一个树。
+- blob
+*** blob
+文件内容
+** Git ref 引用
+** Pack 包文件
+** 引用规格
+** 传输协议
+*** Dumb
+*** Smart
+**** SSH
+**** HTTPS
+** 维护与数据恢复
+*** 维护
+*** 数据恢复
+=git reflog=
+*** 移除对象
+=git filter-branch --index-filter=
+** 环境变量
+** ref
+** tag
+* Tools 工具
+** gitk
+** tig
+** lazygit
+** Git Extensions
+** Tortoisegit
+* Diff and Merge Tools
+** git-diff
+** meld
+** winmerge
+** Diff Algorithm
+* GitHub and GitLab
+** GitHub 的模式
+Forking flow
+** GitLab 的模式
+** 分支集成策略
+** Issue
+** Pull Request
+** Code Review
+** CI/CD
+* Quiz
+- 概念
+- Scenario
+** Scenario 场景
+*** 单人
+*** 多人单分支
+todo
+**** 不同人修改了不同的文件
+1. merge fast forword: 两个分支的关系为 0|n 或 n|0.
+2. 如果关系是 n|m 就是 non-fast-forward.
+3. push 前要先 pull
+4. 解决冲突：非自己的代码尽量不改变
+#+BEGIN_SRC shell
+# committer1: root -> A
+# committer2: root -> B
+# committer1: ahead 1, behind 1.
+# committer1: try to merge, root -> A -> B -> C
+git merge
+git push
+#+END_SRC
+**** 不同人修改了同一文件
+不同部分是什么？
+不同部分由 diff 算法决定，不一定是指同一行。
+#+BEGIN_SRC shell
+git merge
+git pull
+# 遇到冲突
+# 编辑文件，处理所有 <<<< ==== >>>> 的部分
+# 若无法解决，需要暂停 merge
+git merge --abort
+# 若成功解决
+git commit -am 'Resolved conflict'
+# push
+git push <target-branch>
+# 使用 gui 工具解决冲突
+git mergetool
+#+END_SRC
+**** 同时候变更了文件名和文件内容
+#+BEGIN_SRC shell
+# committer1
+git mv <file1> <file2>
+git commit -am 'Rename file1 to file2.'
+# committer2
+vim <file1>
+git commit -am 'Edit file1'
+git push
+# committer1
+git push # fail, it's non-fast-forward.
+git pull # auto merge.
+git push # got the new filename and modified content.
+#+END_SRC
+**** 同一文件修改为不同文件名字
+#+BEGIN_SRC shell
+# committer1
+git mv <file1> <file2>
+git commit -am 'Rename file1 to file2'
+# committer2
+git mv <file1> <file3>
+git commit -am 'Rename file1 to file3'
+git push
+# committer1
+git push # fail
+git merge # got two new files: file2, file3
+# check git status to resolve
+git status
+# delete all files that unwanted
+git rm <file> <file>
+# add the finally file you wanted
+git add <file>
+# generate the new commit
+git commit -am 'Resolve filename conflict.'
+git push # finally
+#+END_SRC
+** 概念
+** 比较
+*** add
+| command                    | impact                                                                    |
+|----------------------------+---------------------------------------------------------------------------|
+| =git add .=                | 提交所有变换到暂存区（ modified, new, deleted file ）                     |
+| =git add all=              | 和上面一样                                                                |
+| =git add -A=               | 和上面一样                                                                |
+| =git add --ignore-removal= | 处理 ( modified, new ) 不处理（ deleteed file ）                          |
+| =git add -u=               | 仅处理 tracked file ，不会提交 untracked file 。等价于 =git add --update= |
+
+add 支持通配符（*.java)
+*** merge rebase
+- merge :: 不会修改历史，会把两个分支合并后创建一个新的 commit 。
+- rebase :: A rebased on B ，那么，首先找到 A,B 的公共祖先 C ，从 C 到 A 的所有 commit 都在 B 之后重新生成。因此，A 的历史被修改了。
+*** checkout
+| command                           | impact |
+|-----------------------------------+--------|
+| =git checkout master=             |        |
+| =git checkout -f=                 |        |
+| =git checkout -- .=               |        |
+| =git checkout -b <new-branch>=    |        |
+| =git checkout master -- file.txt= |        |
+*** reset
+| command            | impact |
+|--------------------+--------|
+| =git reset --soft= |        |
+| =git reset --hard= |        |
+| =git reset=        |        |
+*** log reflog
+*** revert vs reset
+** Bolb 里面为什么没有文件名和权限，而是在 Tree 里面
+** Git 在 commit 后存储的是文件快照还是文件差异
+新的文件快照
+** Git 如何保证历史不会篡改
+哈希树，分布式结构
+** backup repo 怎么做？
+** count tree
+** 删除这个分支？
+** 修改 commit 的 message?
+#+BEGIN_SRC shell
+# 修改最近一次 commit message
+git commit --amend
+# 修改某一次 commit message
+# 修改更早的 commit message 意味着要修改历史
+git rebase -i <commit-hash># 交互式，rebase 到要修改的 commit 的上一个 commit.
+#+END_SRC
+** 合并连续的 commit？
+** 很并不连续的 commit？
+** diff 比较差异怎么做？
+*** 比较工作区和暂存区
+** revert 恢复怎么做？
+*** 消除最近几次提交？
+** reset 重置怎么做？
+** undo change 怎么做？
+** delete 删除文件怎么做？
+** ignore 怎么做？
+** 紧急任务怎么做？
+stash
+** "in detached HEAD state" 问题
+工作在一个没有分支的状态下（checkout 了某个 commit ），这个状态下可以继续开发，提交 commit 等等。
+但是，如果始终没有对应的分支，而之后又切换到其他分支去，那么这些变更可能会被 git 当作垃圾清理掉。
+
+#+BEGIN_SRC shell
+# 为分离头之后的 commit 分配 branch
+git branch <new-branch> <commit-hash>
+#+END_SRC
+** 合并多个 commit 为一个
+#+BEGIN_SRC shell
+git rebase -i <commit-hash>
+# squash, 合并 commit 到上一个 commit 。
+#+END_SRC
+** Git 备份
+#+BEGIN_SRC shell
+# push or fetch
+git push --set-upstream <address>
+
+#+END_SRC
+* Anti-pattern 反模式
+** =push -f=
+=git push -f= 在 non-fast-forward 的情况下也可以执行成功。
+** 向集成分支执行变更历史操作
+** 用 git 管理环境、密码、部署配置信息。
+* Git 局限性
+** 二进制文件

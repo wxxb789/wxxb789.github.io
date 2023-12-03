@@ -1,0 +1,816 @@
+
+
+* JDBC介绍
+:PROPERTIES:
+:id: jdbc介绍
+:END:
+
+JDBC (Java DataBase Connectivity),java数据库连接操作。
+说白了就是使用java语言来操作数据库。其实JDBC是接口，而各个数据库的驱动就是各个数据库厂商针对自己的数据库实现了JDBC
+接口的实现类。
+** 1. 数据库客户端和数据库服务器交互
+
+
+- 命令行
+- 图形界面化
+** 2. 使用Java程序(JDBC)操作数据库服务器
+
+之前我们操作数据库是在数据库客户端(自带客户端或第三方客户端)使用SQL语句来操作数据库的。
+JDBC是使用java语言向数据库发送SQL语句来操作数据库，并可以接收数据库返回来的数据。
+* JDBC的操作步骤
+
+JDBC的操作步骤是固定的
+
+jar包，就是java的压缩包,其中就封装了很多类(源文件或字节码文件);然后只需要将指定的jar
+包导入到指定的项目中,那么在项目中就可以直接访问jar包中的类了;
+** 1. 导jar包(数据库驱动包)
+
+不同数据库的驱动包是不同的, JDBC和数据库驱动jar包的关系:
+
+- JDBC是一套接口规范
+- 数据库驱动jar包是JDBC接口的实现(其中封装的是对jdbc接口的所有实现类)
+** 2. 加载(注册)驱动类：使用Class.forName("驱动类类名")
+
+那么jdbc就明确了其所操作的数据库,每个数据库的驱动类类名是固定的。
+
+- MySql: =com.mysql.jdbc.Driver=
+- Oracle: =oracle.jdbc.driver.OracleDriver=
+** 3. 指定=url=、=username=、=password=
+
+
+1. =url=是数据库服务器的访问地址，使用的是jdbc协议。每个数据库的访问地址也是固定的。
+
+   MySql=> =jdbc:mysql://IP:端口/数据库名=
+
+2. =username=是登陆数据库的用户名。
+
+3. =password=是用户密码。
+
+网络三要素:
+
+- 协议:规定了两个终端之间传输数据的格式
+
+  =jdbc协议=(专门实现jdbc的)
+  =mysql=(是jdbc的子协议是专门针对mysql数据库的)
+
+- IP地址:指定了所要访问的目标主机(计算机)
+
+  =127.0.0.1=(localhost)
+
+- 端口:指定了目标主机上部署的具体的服务应用(服务器)
+
+  =Oracle: jdbc:oracle:thin:@IP:端口:数据库名=
+** 4. 静态方法获取=Connection=对象
+
+使用=DriverManager=类的静态方法=getConnection(url,username,password)=获取数据库
+连接对象=Connection=。
+* JDBC核心类(接口)介绍：
+
+JDBC的核心类有=DriverManager=、=Connection=、=Statement=、=ResultSet= 。
+
+1. =DirverManager=(驱动管理器类)，作用有两个:
+
+   1. 驱动：使用其静态方法registerDriver(Driver)方法，让JDBC知道使用的是哪个数据库的驱动。
+   2. 获取=Connection=连接对象：使用其静态方法=getConnection(url,userName,passWord)=。如果获取到了=Connection=对象，说明与数据库连接成功。
+
+2. =Connection=对象是数据库连接对象，与数据库的通信都是通过这个对象展开的。
+   Connection对象最为重要的作用就是获取Statement对象，使用其对象方法
+   =createStatement()= 。
+
+3. =Statement=对象是用于向数据库发送SQL语句的，数据库就会执行其发送过来的SQL语句。
+
+   常用的方法有两个：
+
+   1. =int executeUpdate(String sql)=执行更新操作(insert、delete、update等)，
+      参数就是执行更新的SQL语句，返回值是影响的行记录数。
+   2. =ResultSet executeQuery(String sql)=执行查询操作，参数就是执行查询操作
+      的SQL语句，返回值是ResultSet对象代表查询到的结果。
+
+4. =ResultSet=对象表示查询结果集，只有在执行查询操作后才会有结果集产生。结果集
+   是一个二维表格，有行有列。
+
+   常用的方法有两个
+
+   1. =boolean | next()=
+      使”行光标”移动到结果集下一行，返回值是boolean型，
+      表示移动后的行是否存在。
+
+   2. =xxx | getXxx(int col)=
+      获取当前行指定列数上的值，参数是列数，列数是
+      从1开始不是从0开始，返回值就是当前行指定列的数据。
+
+   3. =xxx | getXxx(String columnName)= 获取当前行指定列名的值，
+      参数是列名，返回值就是当前行指定列名的数据。
+* SQL攻击
+
+什么是SQL攻击呢？
+
+JDBC的操作步骤分为一下几步
+
+1. 导入数据库驱动jar包
+2. 加载数据库驱动类
+3. 创建Connection数据库连接对象
+4. 创建SQL语句发送器Statement对象
+
+接着我们就可以编写要执行的SQL语句，然后调用Statement对象的
+executeUpdate(String sql)方法进行更新操作或调用executeQuery(String sql)
+方法执行查询操作了。
+
+接着我们做一个简单的登录操作，登录的时候是用户输入用户名和密码，
+然后程序接收到用户输入的用户名和密码，再把用户名和密码拼接到select
+语句中再在数据库进行查询:
+如:=select * from t_user where u_name = ? and u_pass=?=
+如果查询生成的结果集有记录，即调用=ResultSet=对象的=next()=方法返回值为=true=，
+则表示用户存在，我们让其登录；反之，如果调用结果集=ResultSet=对象的=next()=
+方法返回值为=false=，则表示用户或密码错误，不让其登录。 注意:
+
+1. =select * from t_user where u_name=’mmy’  and u_pass=’111’;=
+2. =select * from t_user where u_name=’mmy’ or  ’a’=’a’ and u_pass=’111’ or ’b’=’b’;=
+** 1. jdbc普通操作方式的弊端
+
+
+- 存在sql攻击
+- 执行效率低
+
+#+begin_quote
+  应用程序端:
+#+end_quote
+
+1. 获取=Connection=连接对象
+2. 创建sql发送器=Statement=对象
+3. 拼接sql语句 ---> 黑客就可以利用sql语句的语法漏洞攻击系统
+4. Statement对象发送sql语句 =int executeUpdate(String sql)执行更新=
+   =ResultSet executeQuery(String sql)执行查询=
+
+#+begin_quote
+  数据库端:
+#+end_quote
+
+5. 接收sql语句
+6. 对sql语句进行语法检查
+7. 编译sql语句
+
+#+begin_quote
+  影响应用程序的执行效率(普通jdbc操做方式每次都会执行这个步骤)
+#+end_quote
+
+8. 执行sql语句
+9. 向应用程序返回结果
+
+#+begin_quote
+  应用程序端:
+#+end_quote
+
+10. 接收数据库返回的结果
+** 2. jdbc预编译(预处理)操作方式的优点
+
+1. 避免sql攻击
+2. 提高了程序的执行效率
+
+#+begin_quote
+  应用程序端:
+#+end_quote
+
+1. 获取到Connection连接对象
+2. 指定sql模板语句(sql语句中的未知参数都是使用占位符?表示):
+   =select * from user where userName=? and userPass=?;=
+3. 创建sql发送器PreparedStatement(是Statement的子接口)对象,并给其绑定sql模板语句--->先会对sql模板语句的语法进行一次检查
+4. 给sql模板语句中的未知参数(占位符)赋值: =PreparedStatement=对象的
+   =set数据类型(?的index,?的value)= 方法 --->
+   又会对参数值进行一次语法检查: =pt.setString(1,"a' or '1=1");=
+   -->检查出参数值是非法表达式,不通过 =pt.setString(2,"b' or '1=1");=
+   -->检查出参数值是非法表达式,不通过 预编译方式可以防止sql攻击
+5. 调用PreparedStatement对象的: =int | executeUpdate()=执行更新
+   =ResultSet | executeQuery()=执行查询
+
+#+begin_quote
+  数据库端:
+#+end_quote
+
+6. 接收sql语句
+7. 检查语法
+8. 编译sql语句
+
+#+begin_quote
+  只在第一次执行sql语句的时候会完整的执行所有的步骤,然后二次及二次之后再执行就无需检查语句编译语句了,接收到应用程序传递的参数之后直接执行(函数的性质一样)
+#+end_quote
+
+9.  执行sql语句
+10. 向应用返回结果
+
+#+begin_quote
+  应用程序端:
+#+end_quote
+
+11. 接收数据库返回的结果
+* 解决SQL攻击
+
+预处理(预编译)
+解决SQL攻击的办法就是不再使用=Statement=对象去执行SQL语句，而是使用
+=Statement=接口的子接口=PreparedStatement=的对象去执行SQL语句，这叫预处理。
+
+PreparedStatement的使用：
+
+1. 给出SQL模板: 用?代替SQL语句中的条件参数的SQL语句。
+
+2. 调用Connection数据库连接对象的
+
+   - =PreparedStatement | preparedStatement(String sql模板)=方法获取
+   - =PreparedStatement=对象，并装配SQL语句。
+
+3. 调用=PreparedStatement=对象的=setXxx(index,value)=方法给SQL模板中的=?=赋值。
+   参数一表示=?=的次序，参数二表示给对应=?=赋的值。
+
+4. 调用PreparedStatement对象的=executeUpdate()=方法执行更新操作，调用
+   =executeQuery()=方法执行查询操作。
+
+#+begin_quote
+  注意:方法不需要SQL语句作为参数，因为在调用Connection对象的
+  preparedStatement(String sql模板)方法，创建PreparedStatement对象时SQL
+  模板语句已经装配到PreparedStatement对象中了。
+#+end_quote
+
+预处理的优点: 1. 防止SQL攻击 2. 提高效率:
+
+当我们向数据库发送一条SQL语句操作数据库时，其实数据库服务器的底层执行了3个任务:
+
+1. 检查SQL语句的语法
+2. 编译SQL语句
+3. 执行SQL语句
+
+由此可见如果使用Statement对象向数据库发送并执行SQL语句时，它每次都会按照以
+上3个步骤去执行，显然效率很低。
+而PreparedStatement对象它是将一个SQL模板与其绑定在一起，它是先把SQL模板
+发送给数据库服务器，数据库先进行SQL语句语法检查，然后再编译生成了一个类
+似函数的东西。当执行SQL语句时只是把函数进行了调用再把参数传递过去而已。
+若二次再执行时，就不用再进行语法检查和编译了，直接调用函数执行就行了。
+如此就省去了语法检查和编译的耗时，大大提高了效率。
+所以以后的开发中我们都使用PreparedStatement对象向数据库发送并执行SQL语句。
+* DAO模式
+
+DAO(Data Access Object)模式，就是定义一个类，把访问数据库增、删、改、查
+等操作的功能封装到DAO模式类的对象中。DAO处于数据库层和业务逻辑层(service)
+之间，这样就层次分明，每一层只负责自己的事情，利于代码的维护，即使需要进行
+代码修改时，哪一层有问题就修改哪一层不会影响其它层的代码。
+
+具体操作:
+
+1. 定义实体域，即操作的对象(实体域对象)。
+
+#+begin_quote
+  表->实体类
+
+  列->属性
+
+  行->实体对象
+
+  例如:我们操作的表是user表，那么就定义一个
+  user类，类中定义的属性就是表中的所有字段，用user类的对象用于临时存
+  放从user表中查询到的记录行数据或者也可以将要往user表中插入的记录行
+  数据临时的存储在User对象中。
+#+end_quote
+
+2. 定义DAO接口(dao模式类的接口)：接口中定义操作数据库增、删、改、查等的抽象方法。
+3. 定义DAO接口实现类(dao模式类)：在此类中具体实现增、删、改、查等功能。
+4. 定义一个业务类:主要负责具体的业务功能的实现(依赖dao对象,一般将dao对象定义为业务类的成员变量)
+
+定义DAO工厂类： service通过工厂类获取DAO模式类对象，并调用DAO模式类对象
+的功能进行业务逻辑操作。(工厂设计模式,专门创建dao对象的)
+
+项目层次的划分(包):
+
+1. 实体域:beans entitys(entities) domain
+2. 业务类:service
+3. dao接口:dao
+4. dao模式类:dao.impl
+5. 其他类:utils
+* 时间类型的转换
+
+在前面的DAO模式中我们提到一个实体域，是说在数据库中的每张表都会对应java
+中的一个实体类，在该类中定义的所有属性就是表中的所有字段，而该类的对象
+就持有这些属性，进而用该类的对象来临时存放从表中查询到的数据。
+那么就牵扯到一个数据库中字段的数据类型和java中变量的数据类型的对应问题。
+对应关系如下:
+
+#+begin_quote
+  varchar----->String
+
+  char--------->String
+
+  int----------->int
+
+  double------>double
+#+end_quote
+
+而需要强调的就是时间类型
+
+在数据库中时间类型主要有3种，分别和java是如下对应的关系
+
+- =Date=----->=java.sql.Date=表示日期，只有年、月、日，没有时、分、秒。会丢失时间部分。
+- =Time=---->=java.sql.Time=表示时间，只有时、分、秒，没有年、月、日。会丢失日期部分。
+- =Timestamp=--->=java.sql.Timestamp=表示时间戳，有年、月、日、时、分、秒，以及毫秒。
+
+而=java.sql.Date=类、=java.sql.Time=类、=java.sql.Timestamp=类都是
+=java.util.Date=类的子类(=java.util.Date=类的对象代表日期，包含年月
+日时分秒以及毫秒)。
+所以无论是对于数据库的日期类型Date、时间类型Time、时间戳类型Timestamp的数据，
+我们往往在实体域中都定义成java.util.Date类型的变量，而在DAO模式类中具体
+的操作数据库的增、删、改、查时，再根据具体的数据库的时间类
+型数据和对应的java的时间类型数据进行对应的类型转换就行。
+而Java的时间类型数据和数据库的时间类型的转换无非就是:
+** 1. =java.sql.Date | Time | Timestamp= -> =java.util.Date=
+
+把数据库中的时间类型数据拿出来转成java对应的时间类型再存放到实体域
+对象中的java.util.Date型变量中:
+从数据库中查询的数据到时是在结果集ResultSet对象中，然后可以调用
+ResultSet对象的=getDate(int  列数)=或=getDate(String 列名)=方法获取
+从数据库中查询到的Date类型的字段的数据，此方法的返回值就是
+java.sql.Date类型；或调用ResultSet对象的=getTime(int 列数)=或
+=getTime(String 列名)=方法获取从数据库中查询到的Time类型的字段的
+数据，此方法的返回值就是java.sql.Time类型；或调用ResultSet对象的
+=getTimestamp(int 列数)=或=getTimestamp(String 列名)=方法获取从数据库
+中查询到的Timestamp类型的字段的数据，此方法的返回值就是
+java.sql.Timestamp类型。而因为java.sql.Date、java.sql.Time、
+java.sql.Timestamp类都是java.util.Date的子类，所以从ResultSet
+对象中获取到的java.sql.Date、java.sql.Time、java.sql.Timestamp
+类型的数据都能直接set到实体域对象的java.util.Date类型的变量中。
+
+#+begin_src java
+  java.sql.Date  birthday = rs.getDate("s_birthday");
+  Stu stu = new Stu();
+  stu.setBirthday(birthday);
+
+  java.sql.Timestamp  hiredate = rs.getTimestamp("e_hiredate");
+  Emp emp = new Emp();
+  emp.setHiredate(hiredate);
+#+end_src
+** 2. =java.util.Date= -> =java.sql.Date | Time | Timestamp=
+
+实体域对象的java.util.Date类型的数据转成和数据库的时间类型Date、Time、
+Timestamp对应的java的时间类型java.sql.Date、java.sql.Time、
+java.sql.Timestamp再存到数据库中。
+步骤都是先把实体域对象的java.util.Date类型的数据，调用其getTime()方法
+转成毫秒值，再分别使用java.sql.Date、java.sql.Time、java.sql.Timestamp
+类各自的参数是毫秒值的构造器创建其对象，达到将java.util.Date类型数据转
+成java.sql.Date、java.sql.Time、java.sql.Timestamp类型的数据，最后再存
+入数据库中。
+
+例:
+
+#+begin_src java
+  java.util.Date birthday = stu.getBirthday();
+  Java.sql.Date s_birthday = new java.sql.Date(birthday.getTime());
+  Java.util.Date hiredate = emp.getHiredate();
+  Java.sql.Timestamp e_hiredate =
+  new java.sql.Timestamp(hiredate.getTime());
+#+end_src
+* 批处理
+
+批处理就是一批一批的处理数据，而不是一条一条的处理。
+当有多条DML语句要执行时，一次向数据库服务器发送一条
+DML语句，这么做效率太低了。解决方案就是使用批处理，
+即一次向数据库服务器发送多条DML语句，然后有数据库 服务器一次性执行。
+批处理只针对更新操作(增、删、改)，查询没有批处理一说。
+** 1. Statement批处理
+
+通过多次调用Statement对象的addBatch(String sql)方法，
+把需要执行的多条SQL语句添加到一个”批”中，最后使用
+Statement对象的executeBatch()方法来执行”批”中的多条 SQL语句。
+
+=void | addBatch(String sql)=:添加一条SQL语句到”批”中
+
+=int[] |executeBatch()=:执行”批”中的所有SQL语句,返回值是
+int[]数组,数组中的每个值表示”批”中每条SQL语句所
+影响的行数。且当调用了此方法执行了”批”中的所有
+SQL语句后，”批”中的SQL语句就会被清空。
+
+=void | clearBatch()=: 可在执行”批”中所有SQL语句之前,将”批”中
+的所有SQL语句清空。
+** 2. PreparedStatement批处理
+
+PreparedStatement的批处理与Statement的批处理稍有不同，
+因为每个PreparedStatement对象都绑定了一个固定的SQL语句，
+所以向PreparedStatement对象的批中添加不是多条SQL语句，
+而是多次给SQL模板语句的所有?赋值。
+
+注意：如果按照以上步骤执行，那还不是真正的批处理，只能说
+是执行了多条SQL语句而已，因为要执行批处理还必须支持批处理。
+MySql支持批处理的方式是在其数据库url地址后加上参数
+=rewriteBatchedStatements=赋值=true=。
+=url=jdbc:mysql://localhost:3306/mydata?rewriteBatchedStatement=true;=
+* 事务处理
+
+** 1. 事务的介绍(回忆)
+
+事务是为了保证数据的一致性，它由一组相关的DML语句组成，该
+组的DML语句要么全部成功执行，要么任一个失败其它的都不被执 行。
+例：银行转账 张三转10000块到李四的账户，这其实需要两条SQL语句：
+给张三的账户减去10000元； update account set money=money-10000 where
+name='张三'; 给李四的账户加上10000元。 update account set
+money=money+10000 where name='李四';
+如果在第一条SQL语句执行成功后，在执行第二条SQL语句之前，
+程序被中断了（可能是抛出了某个异常，也可能是其他什么原因），
+那么李四的账户没有加上10000元，而张三却减去了10000元。 这肯定是不行的！
+因为事务中的多个操作，要么完全成功，要么完全失败！所以不
+可能存在成功一半的情况！也就是说给张三的账户减去10000元如
+果成功了，那么给李四的账户加上10000元的操作也必须是成功的；
+否则给张三减去10000元，以及给李四加上10000元都是失败的！
+** 2. 事务的四大特性(回忆)
+
+
+- 原子性：事务中所有操作是不可再分割的原子单位。事务中所有操作
+  要么全部执行成功，要么全部执行失败。
+
+- 一致性：事务执行后，数据库状态与其它业务规则保持一致。如转账
+  业务，无论事务执行成功与否，参与转账的两个账号余额之和应该是 不变的。
+
+- 隔离性：隔离性是指在并发操作中，不同事务之间应该隔离开来，使
+  每个并发中的事务不会相互干扰。
+
+- 持久性：一旦事务提交成功，事务中所有的数据操作都必须
+  被持久化到数据库中，即使提交事务后，数据库马上崩溃，在数据库
+  重启时，也必须能保证通过某种机制恢复数据。
+** 3. MySQL的事务处理
+
+在默认情况下，MySQL每执行执行一条SQL语句，都是一个单独的事务。
+如果需要在一个事务中执行多条语句，那么需要开启事务和结束事务:
+
+开启事务:=start transaction;= 结束事务:=commit;= 或 =rollback;=
+
+在执行SQL语句之前，先执行strat transaction，这就开启了一个事务
+（事务的起点），然后可以去执行多条SQL语句，最后要结束事务，
+commit表示提交，即事务中的多条SQL语句所做出的影响会持久化到
+数据库中。或者rollback，表示回滚，即回滚到事务的起点，之前做
+的所有操作都被撤消了！
+
+#+begin_src sql
+  -- example
+  START TRANSACTION; --开启事务
+  UPDATE account SET money= money -10000 WHERE id=1;
+  UPDATE account SET money = money +10000 WHERE id=2;
+  ROLLBACK;--回滚，事务执行失败，之前所做的操作都被撤销
+
+  START TRANSACTION; --开启事务
+  UPDATE account SET money = money -10000 WHERE id=1;
+  UPDATE account SET money = money +10000 WHERE id=2;
+  COMMIT; --提交事物，事务中操作数据库的两条SQL语句所作出的
+  --影响持久化到数据库中
+#+end_src
+
+说明：oracle是使用保存点和提交事物和回滚来处理事务的，
+即保存点和提交事务之间，以及保存点和回滚事务之间为 事务操作内容。
+** 4. JDBC的事务处理：
+
+JDBC事务处理都是靠Connection来完成的，因为同一事务的所有
+操作都是在使用同一个Connection对象。
+*** 4.1. 事务
+
+
+1. 数据库自带的事务机制:
+
+   其实单条sql语句本身就构成一个事务,而且如果执行正常会在指定的时间自动提交,
+   如果执行失败会自动回滚;
+
+2. 我们自定义的事务: 是指我们开启事务 执行DML操作 提交 回滚;
+*** 4.2. Connection处理事务的常用方法
+
+
+1. =setAutoCommit(boolean)= ： 设置是否为自动提交事务。
+   如果是true表示自动提交事务(默认就是true)，也就是说每条
+   执行的SQL语句都是一个单独的事务。如果设置为false，即不
+   是自动提交，那就是开启了事务了。
+
+2. =commit()=：提交并结束事务
+
+3. =rollback()=:回滚并结束事务
+*** 4.3. JDBC处理事务的代码格式
+
+#+begin_src java
+  try{
+     con.setAutoCommit(false);  //A.开启事务，取消自动提交
+     …
+     …
+     …//B.事务操作内容
+     con.commit(); //C.以上代码没有异常，则提交事务
+  }catch(Exception e){
+  con.rollback();//D.代码出现异常,进入catch块,执行回滚
+  }
+#+end_src
+** 5. 事务隔离级别(了解)
+
+并发事务在读取数据时导致的问题有3种：
+
+- 脏读：读到另一事务的未提交的更新数据，即读到了脏数据。
+
+- 不可重复读：对同一记录的重复两次读取读取到的数据不一致，
+  因为另一事务对该记录做了修改。
+
+- 幻读(虚读)：对同一张表的两次查询结果不一致，因为另一事务
+  往表中插入了一条记录。
+*** 5.1. 脏读示例：
+
+
+- 事务1：张三给李四转100块钱
+
+- 事务2：李四查看自己账户
+
+- A、事务1：开始事务
+
+- B、事务1：张三给李四转了100块钱
+
+- C、事务2：开始事务
+
+- D、事务2：李四查看自己账户多了100块钱
+
+- E、事务2：提交事务
+
+- F、事务1：回滚事务，会到转账之前的状态。
+
+- 结果：李四被骗
+*** 5.2. 不可重复读示例：
+
+
+- 事务1：酒店两次查看1001号房间状态
+
+- 事务2：预定1001号房
+
+- A、事务1：开始事务
+
+- B、事务1：查看1001号房间的状态为空闲
+
+- C、事务2：开始事务
+
+- D、事务2：预定1001号房
+
+- E、事务2：提交事务
+
+- F、事务1：在此查看1001号房的状态为使用
+
+- G、事务1：提交事务
+
+- 结果：对同一记录的两次查询结果不一致。
+*** 5.3. 幻读示例：
+
+
+- 事务1：对酒店所有房间预定记录进行两次统计
+
+- 事务2：添加一条预定房间记录
+
+- A、事务1：开始事务
+
+- B、事务1：从表中统计预定记录有100条
+
+- C、事务2：开始事务
+
+- D、事务2：往表中添加一条预定房间记录
+
+- E、事务2：提交事务
+
+- F、事务2：再次从表中统计到预定记录有101条
+
+- G、事务2：提交事务
+
+- 结果：对同一表的两次查询结果不一致
+
+说明：
+
+1. 不可重复读和幻读还有原谅的可能，脏读是绝不允许出现的。
+2. 不可重复读是读到了另一事务对表中记录的修改，幻读是读到了另一事务往表中插入的新记录。
+*** 5.4. 四大隔离级别：
+
+4个等级的事务隔离级别，在相同的数据环境下，使用相同的输入，
+执行相同的工作，因为不同的隔离级别的原因，会导致出现不同的
+结果。不同的事物隔离级别所能解决的数据并发问题的能力也不同。
+
+A. SERIALIZABLE (串行化)：
+
+#+begin_example
+  不会出现任何并发问题，因为它对同一数据的访问是串行的，非并
+  发访问的三种事物并发读问题都能解决性能最差
+#+end_example
+
+B. REPEATABLE READ (可重复读)：
+
+#+begin_example
+  防止脏读和不可重复读，不能处理幻读
+  性能比SERIALIZABLE好
+  是MySQL默认的事务隔离级别
+#+end_example
+
+C. READ COMMITTED (读已提交数据)：
+
+#+begin_example
+  防止脏读，没有处理不可重复读和幻读
+  性能比REPEATABLE  READ好
+  Oracle的默认事务隔离级别
+#+end_example
+
+D. READ UNCOMMITTED (读未提交数据)：
+
+#+begin_example
+  可能出现任何事务并发读问题，对三种并发读问题都不处理
+  性能最好
+#+end_example
+*** 5.5. MySQL设置隔离级别：
+
+查看MySQL的隔离级别: =select @@tx_isolation;=
+
+设置当前连接的隔离级别：
+=set  transaction  isolation  level  四大隔离级别;= ### 5.6.
+JDBC设置隔离级别：
+调用Connection对象的=setTransactionIsolation(int level)=方法,参数就是以下值：
+
+#+begin_src java
+  Connection.TRANSACTION_READ_UNCOMMITTED
+  Connection.TRANSACTION_READ_COMMITTED
+  Connection.TRANSACTION_REPEATABLE_READ
+  Connection.TRANSACTION_SERIALIZABLE
+#+end_src
+* 数据库连接池
+
+=池=:缓冲区(内存中的一块临时空间)
+
+=数据库连接池=:用于存储数据库连接对象的一个缓冲区
+** 1. 数据库连接池的概念
+
+我们要使用JDBC操作数据库首先必须创建Connection数据库连接对象，
+进而是通过Connection对象和数据库进行通信的。那么为了节省资源
+当使用完了Connection对象后，要调用其close()方法关闭Connection
+对象。当下次和数据库通信时就得重新再创建Connection对象。由此
+我们就可以看出这样的灵活性很差啊。
+而数据库连接池就是使用”池”来管理Connection对象，有了池我们就
+不用自己创建Connection对象了，而是从池中获取Connection对象。
+当使用完Connection对象后，也不需要关闭Connection对象，而是调
+用close()方法将Connection对象归还到”池”中。池中就可以在利用这
+个Connection对象了，起到了重复使用Connection对象的目的。
+** 2. 池参数
+
+数据库连接池中的连接对象的个数、最少剩余数等也都是有要求的，
+这些都成为池参数，我们可以根据不同需求去进行设置。而所有池
+参数都有默认值，一般是不需要我们去设置的。
+
+- =initialSize=：初始个数，即池中初始时的连接对象个数。
+- =maxActive=：最大可连接数，即可同时获取到连接对象的最大数。
+- =maxIdle=：最大空闲连接数，即池中可空间剩余连接对象的最大个数。
+- =minIdle=：最小空闲连接数，即池中可空闲剩余连接对象的最小个数。
+- =maxWait=：最大等待时间，即当池中所有连接对象都被获取完时，
+  再来一个获取者会处于等待状态，而此参数用于设置最大的等待时间限定。
+** 3. 从数据库连接池中获取Connection对象的步骤：
+
+
+1. 创建连接池对象(缓冲区)
+2. 配置JDBC四大参数: =驱动类类名= =url= =userName= =userPass=
+3. 配置池参数 (可选的)
+4. 得到连接对象
+5. 使用完后归还连接对象：调用close方法，注意是归还而不是销毁连接对象。
+** 4. JDBC数据库连接池接口
+
+Java本身是不支持数据库连接池的，它只是为了数据库连接池提供了规范
+(接口=javax.sql.DataSource=)，而各大厂商必须实现此接口，进而提供
+自己的数据库连接池。
+** 5. DBCP连接池
+
+DBCP是Apache提供的一款开源的数据连接池，使用DBCP连接池必须导入
+=commons-dbcp.jar=和=commons-pool.jar=两个jar包。
+** 6. C3P0连接池
+
+C3P0也是开源的连接池，但是其性能比DBCP更好，市场的占有率也更高。
+
+1. 如果是oracle数据库则必须导入：
+   =c3p0-oracle-thin-extras-0.9.2-pre1.jar=包和=mchange-commons-0.2.jar=包。
+2. 如果是其它数据库则必须导入： =c3p0-0.9.2-pre1.jar=
+   包和=mchange-commons-0.2.jar=包
+* DBUtiles工具包
+
+学习了数据库连接池，那么接下来我们就使用数据库连接池做一下
+增删改查来操作数据库。从案例我们看到增、删、改操作的三个功能的实现其实很类似，
+操作步骤几乎一样，所以我们可以进一步的再进行简化。
+在Commons组件中提供了对JDBC封装，我们可直接使用，必须导入=commons-dbutils.jar=包。
+** 1. DBUtils包的主要类
+
+
+- DbUtils：都是静态方法，一系列的close()方法；
+- QueryRunner：
+- update()：执行insert、update、delete；
+- query()：执行select语句；
+- batch()：执行批处理。
+** 2. QueryRunner之更新
+
+*** 2.1.
+QueryRunner的=update()=方法可以用来执行insert、update、delete语句。
+
+步骤： 1. 创建QueryRunner对象 构造器：QueryRunner(); 2. update()方法
+
+#+begin_src java
+  int update(Connection con, String sql, Object… params)
+  QueryRunner qr = new QueryRunner();
+  String sql = "insert into user values(?,?,?)";
+  qr.update(JdbcUtils.getConnection(), sql, "u1", "zhangSan", "123");
+#+end_src
+*** 2.2. 还有另一种方式来创建QueryRunner对象
+
+步骤： 1. 创建QueryRunner 构造器：=QueryRunner(DataSource)=
+
+2. update()方法 =int update(String sql, Object… params)=
+   这种方式在创建QueryRunner时传递了连接池对象，那么在调用update()
+   方法时就不用再传递Connection了。
+
+#+begin_src java
+  QueryRunner qr = new QueryRunner(JdbcUtils.getDataSource());
+  String sql = "insert into user values(?,?,?)";
+  qr.update(sql, "u1", "zhangSan", "123");
+#+end_src
+** 3. ResultSetHandler接口
+
+我们知道在执行select语句之后得到的是ResultSet，然后我们还需要对
+ResultSet进行转换，得到最终我们想要的数据。你可以希望把ResultSet
+的数据放到一个List中，也可能想把数据放到一个Map中，或是一个Bean中。
+DBUtils提供了一个接口ResultSetHandler，它就是用来ResultSet转换成
+目标类型的工具。你可以自己去实现这个接口，把ResultSet转换成你想要
+的类型。 DBUtils提供了很多个ResultSetHandler接口的实现，这些实现已经基本
+够用了，我们通常不用自己去实现ResultSet接口了。
+
+- =MapHandler=：单行处理器！把结果集转换成Map<String,Object>，其中列名为键！
+- =MapListHandler=：多行处理器！把结果集转换成List<Map<String,Object>>；
+- =BeanHandler=：单行处理器！把结果集转换成Bean，该处理器需要Class参数，即Bean的类型；
+- =BeanListHandler=：多行处理器！把结果集转换成List；
+- =ColumnListHandler=：多行单列处理器！把结果集转换成=List<Object>=，
+  使用=ColumnListHandler=时需要指定某一列的名称或编号，例如：
+  =new ColumListHandler(“name”)=表示把name列的数据放到List中。
+- =ScalarHandler=：单行单列处理器！把结果集转换成Object。一般用于
+  聚集查询，例如=select count(*) from tab_student=。
+** 4. QueryRunner之查询
+
+QueryRunner的查询方法是：
+
+#+begin_src java
+  public <T> T query(String sql, ResultSetHandler<T> rh, Object… params)
+  public <T> T query(Connection con, String sql, ResultSetHandler<T> rh, Object… params)
+#+end_src
+
+query()方法会通过sql语句和params查询出ResultSet，然后通过rh把ResultSet转换成对应的类型再返回。
+
+#+begin_src java
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "select * from tab_student where number=?";
+  Map<String,Object> map = qr.query(sql, new MapHandler(),"S_2000");
+  System.out.println(map);
+#+end_src
+
+#+begin_src java
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "select * from tab_student";
+  List<Map<String,Object>> list = qr.query(sql, new MapListHandler());
+  for(Map<String,Object> map : list) {
+  System.out.println(map);
+  }
+#+end_src
+
+#+begin_src java
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "select * from tab_student where number=?";
+  Student stu = qr.query(sql, new BeanHandler<Student>(Student.class), "S_2000");
+  System.out.println(stu);
+
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "select * from tab_student";
+  List<Student> list = qr.query(sql, new BeanListHandler<Student>(Student.class));
+  for(Student stu : list) {
+  System.out.println(stu);
+  }
+
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "select * from tab_student";
+  List<Object> list = qr.query(sql, new ColumnListHandler("name"));
+  for(Object s : list) {
+  System.out.println(s);
+  }
+
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "select count(*) from tab_student";
+  Number number = (Number)qr.query(sql, new ScalarHandler());
+  int cnt = number.intValue();
+  System.out.println(cnt);
+#+end_src
+** 5. QueryRunner之批处理
+
+QueryRunner还提供了批处理方法：=batch()=。
+我们更新一行记录时需要指定一个=Object[]=为参数，如果是批处理，
+那么就要指定=Object[][]=为参数了。即多个=Object[]=就是=Object[][]=了，
+其中每个=Object[]=对应一行记录：
+
+#+begin_src java
+  DataSource ds = JdbcUtils.getDataSource();
+  QueryRunner qr = new QueryRunner(ds);
+  String sql = "insert into tab_student values(?,?,?,?)";
+  Object[][] params = new Object[10][];//表示 要插入10行记录
+  for(int i = 0; i < params.length; i++) {
+  params[i] = new Object[]{"S_300" + i, "name" + i, 30 + i, i%2==0?"男":"女"};}
+  qr.batch(sql, params);
+#+end_src

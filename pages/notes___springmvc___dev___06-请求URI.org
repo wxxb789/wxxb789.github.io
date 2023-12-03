@@ -1,0 +1,32 @@
+
+
+* 6.请求URI
+
+
+1. 注解请求的形式要求尽可能REST风格(RestfulURI)
+2. REST是Representational State
+   Transfer的首字母缩写,中文翻译为"表现层状态转移",
+   是针对互联网资源请求形式的一个规范.遵循这个规范,前台请求的语义更加清楚,后台的请求处理更加明确.
+3. REST规范简介(只要求了解即可):
+
+   1. 将互联网的一切请求,视为是互联网资源的请求,因此建议请求URI中使用名词;
+   2. 不使用带有后缀的请求,比如:/.do,/.action是不建议使用的;
+   3. 请求URI中使用小写字母;
+   4. 请求URI中应该表明清楚的语义;
+   5. 在HTTP协议里面四个表示操做命令的动词:GET、POST、PUT、DELETE,要求分别对应服务器端的4种处理:
+      GET用来获取资源,POST用来新建资源,PUT用来更新资源,DELETE用来删除资源.例如:
+
+      - /order/1 HTTP GET ：得到 id = 1 的 order
+      - /order/1 HTTP DELETE：删除 id = 1的 order
+      - /order/1 HTTP PUT：更新id = 1的 order
+      - /order HTTP POST：新增 order 注意:浏览器 form表单只支持 GET与
+        POST请求
+
+4. @PathVariable("占位符参数")
+
+   1. 在SpringMVC框架下,请求URI中可以使用路径变量(PathVariabl);
+
+5. 请求URI中的路径变量又被称为占位符参数,是可以传入到控制器处理方法的入参之中的：
+   例如:URI中
+   {country}占位符可以通过@PathVariable("country")绑定到操作方法的入参中,参照案例.
+6. 使用带占位符的 URI是SpringMVC支持REST风格请求的一个重要体现.

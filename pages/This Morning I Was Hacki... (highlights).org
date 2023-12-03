@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: This Morning I Was Hacki... (highlights)
+:author: [[rez0__ on Twitter]]
+:full-title: "This Morning I Was Hacki..."
+:category: #tweets
+:url: https://twitter.com/rez0__/status/1639259413553750021
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-03-25]]
+** This morning I was hacking the new ChatGPT API and found something super interesting: there are over 80 secret plugins that can be revealed by removing a specific parameter from an API call.
+
+The secret plugins include a "DAN plugin", "Crypto Prices Plugin", and many more. 
+
+![](https://pbs.twimg.com/media/Fr_QppUXgAMK37Z.png) 
+
+![](https://pbs.twimg.com/media/Fr_QsSCWYAASQ2H.jpg) ([View Tweet](https://twitter.com/rez0__/status/1639259413553750021))
+** It is possible to use these unreleased plugins by setting up match-and-replace rules through an HTTP proxy. There are only client-side checks to validate that you have permission to use the plugins and they can be bypassed. 
+
+![](https://pbs.twimg.com/media/Fr_R6LLWcAAzPvg.jpg) ([View Tweet](https://twitter.com/rez0__/status/1639259676519936001))
+** The api also shows the "description_for_model" which doesn't need to be exposed to the users. It's interesting to see how the model is told to use the plugins. 
+
+![](https://pbs.twimg.com/media/Fr_UAELX0AA-B_g.jpg) ([View Tweet](https://twitter.com/rez0__/status/1639261978806870019))
+** It's already fixed. Kudos @OpenAI!
+
+And to clarify what I said earlier, it's not a client side check. The api either returns the unreviewed plugins or not. There was interesting client side behavior in regards to "installing" plugins requiring auth to install. ([View Tweet](https://twitter.com/rez0__/status/1639318330040369185))

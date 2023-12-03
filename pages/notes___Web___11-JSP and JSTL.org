@@ -1,0 +1,1390 @@
+
+
+* JSP
+
+(java servlet pages)
+
+1. 以.jsp为扩展名的文件就.jsp页面
+2. 是动态资源:可以被浏览器请求访问的
+** 1. Servlet
+
+*优点：* 动态资源， 可以接收客户端请求并处理请求，
+并可以给客户端发送响应。
+
+*缺点：* 客户端浏览器只识别html响应体， 所以不适合发送html响应体，
+因为需
+要通过大量的=response.getWriter().print("<html></html>");=来向客户端
+浏览器响应html。 (数据量大不灵活)
+
+如果能够是Servlet给浏览器响应的大量的html内容自动完成就非常棒。
+Servlet需要html的功能。
+** 2. html
+
+*优点：* 超文本标记语言， 就由html标签组成， 浏览器可直接识别。
+
+*缺点：* html是静态页面， 不能包含动态信息(不能定义变量)。
+
+如果在html中能像Servlet一样可以定义变量就非常棒。
+html需要Servlet的功能。
+Servlet和html是互相需要彼此的功能但是又缺少彼此的功能的关系;
+** 3. JSP
+
+动态资源，
+在原有的html的基础上添加java脚本构成(有Html了也可以定义变量了)，
+这样就可添加动态信息了。 而浏览器只识别html，
+所以服务器会.jsp页面自动转成html页面，
+再响应给客户端浏览器(所以当浏览器直接向服务器请求一.jsp页面时， 在浏
+览器的当前页面中鼠标右键查看源代码其实是一个已经转换了的html页面)。
+
+*解释: =JSP = java脚本 + html=*
+
+1. 有了html, 就无需在自己使用 =response.getWriter().write();=
+   方法向浏览器 去写入大量的html的字符串文本来实现向浏览器响应正文了,
+   就可以直接正常 像编写html一样了;
+
+2. 有了java脚本就能实现页面的动态化了:接收请求参数 处理请求
+   定义变量等等; 可以.jsp是基于servlet和html于一身，
+   因.jsp本质就是servlet， 其 实服务器.jsp页面转成html页面，
+   底层就是靠servlet的Writer对象 =out.write("<html></html>")= 方法或
+   =out.print("<html></html>")= 来实现的。
+
+*解释:(JSP的执行流程)*
+
+- JSP本质是Servlet, 一般是在第一次访问某.jsp页面的时候, 服务器会.jsp
+  页面生成一个对应的Servlet,.jsp页面的java脚本会原封不动的放入.jsp生成
+  的Servlet中, .jsp页面编写html内容, 会自动由服务器转成
+  =out.writer("<html></html>");=
+  还是.jsp页面中的html内容以out对象大量的write()写给浏览器的;
+  (只不过这块 工作不再由我们完成, 而是由服务器自动完成,
+  我们只需要正常的.jsp页面编写 html内容就行)
+
+- 再去创JSP对应的Servlet对象;
+
+- 再去调JSP对应的Servlet对象的init()方法, 最初执行且执行一次;
+
+- 再去调JSP对应的Servlet的service()方法处理请求, 后.jsp页面被访问
+  多少次,JSP对应的Servlet的service()方法被执行多少次;
+
+- 最后在服务器关闭的时候销.jsp对应的Servlet对象之前调用其destory()方法,
+  最后执行且只被执行一次;
+
+=index.jsp= ----> =index.jsp.java= 的Servlet
+
+1. JSP包含了html和java代码, 那么就可以直接编写html标签, 以及定义变量,
+   就可以有动态信息。
+
+2. JSP是动态资源, 浏览器不直接识别, 所以需要服务器.jsp转换为html, 再
+   响应给浏览器
+
+3. 服务器是如何.jsp转换为html的: JSP其本质还是Servlet,
+   那就是说当在请求一.jsp时, .jsp对应的Servlet 中服务器会自动使用大量的
+   =response.getWriter().write() .print()= 将
+   JSP页面中的html响应给浏览器, 但是这一部分的工作是由服务器自动完成的。
+*** 3.1. JSP的组成
+
+=JSP = html + java脚本 + JSP动作标签 + JSP指令 + JSP的九大内置对象 + EL表达式 + 第三方的jstl标签;=
+**** 3.1.1. 九大内置对象
+
+九个在JSP页面中无需创建即可直接使用的对象(因为JSP对应的Servlet已经创建了)
+
+1. application(ServletContext)
+2. session
+3. request
+4. pageContext
+5. response
+6. out
+7. exception
+8. config
+9. page(this)
+**** 3.1.2. 3种java脚本
+
+
+1. =<% . . . %>= :
+
+   局部java脚本: 该java脚本会原封不动的放入JSP对应的Servlet的service()
+   方法中, 即 一个方法中能放入什么代码, 那么该脚本中就能放入什么代码:
+   放java代码片段， 用于执行多条java语句。 方法体中能写什么，
+   它就能写什么。 如, 局部变量、 局部代码块、 流程控制语句。
+
+2. =<%= . . . %>= :
+
+   输出java脚本: 放java表达式， 用于往页面输出一条表达式或变量的结果。
+   =response.getWriter().print(. . . );= 中能放什么， 它就能放什么，
+   然后会被放在 =service()= 中。
+
+3. =<%! . . . %>= :
+
+   成员java脚本: 声明， 用来定义Servlet类的成员变量和成员方法。
+   Servlet类体中能放什么， 它就能放什么。 (成员变量、 成员方法、
+   构造器、 构造代码块、 静态代码块、 内部类等)
+*** 3.2. JSP和servlet的分工
+
+
+1. JSP:(视图层)
+
+   - 用作请求发起页面， 如:显示表单、 超链接 录入数据并向服务器发起请求
+
+   - 用作请求结束响应页面， 如:显示响应数据 显示服务器的响应信息
+
+2. servlet:(控制器)
+
+   用于具体处理请求数据的环节。
+*** 3.3. JSP的原理
+
+JSP其实就是一个特殊的servlet。
+
+1. 当JSP页面第一次被访问时， 服务器会把JSP编译成java文件， 这个java文件
+
+其实就是一个servlet类。 =xxx.JSP= -> =xxx_JSP.java=
+
+2. 然后再把java文件编译成.class文件。
+3. 然后再创建该servlet类对象。
+4. 最后调用该servlet对象的service()方法。
+5. 第二次之后请求同一JSP时， 直接调用它的service()方法。
+*** 3.4. JSP的注释
+
+=<!--html的注释-->= , =<%--JSP注释内容-->= 当服务器把JSP编译成
+.java文件时会忽略JSP的注释部分。
+
+而JSP中html的注释 =<!--被注释内容-->= 会在JSP被编译成的 .java文件中以
+=out.write("<!--html的注释-->")= 方法写入到html页面中，
+并响应到客户端浏览器， 只是浏览器对html的注释内容不解析。
+* Cookie
+
+Http协议与Cookie: Cookie是Http协议制定的！
+先由服务器创建Cookie并保存到浏览器， 浏览器
+下次请求服务器时会把上一次请求从服务器得到的Cookie再归还给服务器。
+(只要web开发使用的协议是http就有Cookie技术);
+** 1. 作用
+
+
+1. 当浏览器第一次请求服务器, 服务器创建Cookie并保存数据,
+   再将Cookie响应保存在浏览器上:
+
+   1. Cookie是服务器创建的
+   2. Cookie中的数据是服务器保存的
+   3. Cookie是服务器响应保存在浏览器上面了(最终Cookie会保存在浏览器上面)
+
+2. 当浏览器第二次再请求服务器时, 就会将上请求服务器获取并保存在浏览器上
+   的Cookie归还给服务器, 服务器又可以重新拿到Cookie中的数据。
+
+服务器创建并保存到浏览器的Cookie是键值对( =Cookie名=Cookie值= )，
+服务器使用 =响应头Set-Cookie= 往浏览器保存Cookie。
+
+因为是多值响应头， 所以使用response的 =addHeader()= 方法:
+=response.addHeader("Set-Cookie", "aaa=AAA");=
+=response.addHeader("Set-Cookie", "bbb=BBB");=
+
+当浏览器请求服务器时， 会把上一次请求， 服务器保存到浏览器的Cookie，
+使用请求头Cookie随着请求再发送给服务器： =Cookie : aaa=AAA; bbb=BBB=
+** 2. Cookie的用途
+
+服务器可以从下次请求中， 通过Cookie拿到上一次请求保存到Cookie中的数据。
+
+服务器使用Cookie来跟踪客户端状态。 服务器就是从当次请求中通过Cookie拿到
+上次请求保存到Cookie中的数据来查看客户端状态的。
+
+#+begin_quote
+  保存购物车:
+
+  购物车中的商品不能使用request对象保存， 因为一个请求对应一个
+  request对象， 而购物车它是一个用户(浏览器)向服务器发送的多次请求，
+  所以 可以利用下次请求通过Cookie拿到上次请求保存到Cookie中的数据，
+  来使用Cookie 再次保存， 以此来添加购物车。
+
+  显示上次登录名:
+
+  多次登录也是一个用户(浏览器)向服务器发送多次请求， 所以
+  也可以利用下次请求通过Cookie拿到上次请求保存到Cookie中的用户名，
+  来获取 上次的登录用户名。
+#+end_quote
+
+特点: 以上可知Cookie是保存在浏览器上的，
+且是同一浏览器多次请求服务器来操作Cookie
+以获得上次请求保存在Cookie中的数据的， 所以Cookie是不能跨浏览器操作的。
+而且正因为Cookie是保存在浏览器中的， 所以它相对不安全。
+** 3. JavaWeb中使用Cookie
+
+原始方式：
+
+- 服务器使用response发送Set-Cookie响应头向浏览器保存Cookie。
+  =response.addHeader("Set-Cookie", "aaa-AAA");= (多值)
+- 服务器使用request获取Cookie请求头，
+  来获取当次请求发送的保存了上次请求数据的Cookie。
+
+=Enumeration<String> request.getHeaders("Cookie");= (多值)
+
+快捷方式：
+
+- 使用 =response.addCookie()= 方法向浏览器响应保存Cookie。
+- 使用 =request.getCookies()=
+  方法获取当次请求发送的保存了上次请求数据的Cookie。
+** 4. Cookie的生命
+
+Cookie除了name和value属性外， 还有一个 =maxAge= 属性：
+即Cookie的最大生命， 即Cookie可保存的最大时长， 以秒为单位。
+
+1. =maxAge= >0： 浏览器会把Cookie保存在客户机硬盘上，
+   有效时长由maxAge的值决定。
+
+   如， cookie.setMaxAge(60) 表示Cookie会被浏览器保存在硬盘上60秒。
+
+2. =maxAge= <0： Cookie只在浏览器的运行内存中存在， 当关闭浏览器，
+   浏览器进程结
+
+   束内存销毁时， 同时Cookie也就销毁了。 如，
+   cookie.setMaxAge(-1)表示浏览器关闭则Cookie销毁。
+
+3. =maxAge= =0： 浏览器会马上删除这个Cookie。 如，
+   cookie.setMaxAge(0)浏览器则会立刻销毁此Cookie。
+
+注意： 当没有设置Cookie的maxAge属性时默认是-1， Cookie默认只在浏览器内存
+中存活， 即浏览器关闭， Cookie销毁。
+** 5. Cookie的路径（path属性）
+
+Cookie的path属性并不是设置Cookie在客户端的保存路径，
+而是当浏览器访问服务器的某个资源路径时，
+决定是否需要给服务器归还Cookie的。
+当浏览器访问请求服务器的某个资源路径时，
+如果此访问路径包含这个Cookie的path属性设置的路径部分时，
+那么就向服务器归还这个Cookie。
+
+Cookie的path属性由服务器在创建Cookie时设置。 如：
+=aCookie.setPath("/JSPTest1/");= , =bCookie.setPath("/JSPTest1/JSPs/");=
+, =cCookie.setPath("/JSPTest1/JSPs/cookies/");=
+
+#+begin_quote
+  浏览器访问请求： /JSPTest1/index.JSP， 此访问路径包含aCookie的路径，
+  所以向服务器归还： aCookie
+
+  浏览器访问请求： /JSPTest1/JSPs/a.JSP，
+  此访问路径把aCookieb和Cookie的路径都包含， 所以向服务器归还：
+  aCookie、 bCookie
+
+  浏览器访问请求： /JSPTest1/JSPs/cookies/b.JSP， 此访问路径把
+  aCookie和bCookie和cCookie的路径都包含， 所以向服务器归还：aCookie、
+  bCookie、 cCookie
+#+end_quote
+
+*当创建的Cookie没有设置path属性时， 此Cookie的默认路径就是，
+当前请求访问路 径的父路径。* >如， 当请求访问/JSPTest1/cookies2/c.JSP，
+服务器创建并向浏览器 >响应一个Cookie，
+那么此Cookie的默认路径就是/JSPTest1/cookies2/
+** 6. Cookie的域（domain属性）
+
+Cookie的domain用于指定Cookie的域名，
+当多个二级域之间共享同一Cookie时使用。
+
+例：在 =www.baidu.com= ， =zhidao.baidu.com= ， =news.baidu.com= ，
+=tieba.baidu.com= ， 4个域请求之间共享同一Cookie
+
+- 设置此Cookie的domain为： =cookie.setDomain(".baidu.com")；=
+- 必须设置此Cookie的path为： =cookie.setPath("/")；=
+
+因为域名封装了请求的项目路径， 所以使用域名请求服务器没有项目名，
+也就没法 给Cookie设置具体的路径， 所以必须使用="/"=通配所有请求路径，
+否则多个域名请 求之间无法传递共享同一Cookie。
+
+#+begin_src java
+  //创建Cookie
+  Cookie ck = new Cookie("www", "WWW");
+  //设置Cookie的域(domain属性)为 ".baidu.com"
+  ck.setDomain(".baidu.com");
+  //设置Cookie路径(path属性)为 "/"
+  ck.setPath("/");
+  //向浏览器响应Cookie
+  response.addCookie(ck);
+#+end_src
+* Session (HttpSession的对象)
+
+** 1. HttpSession的概述
+
+
+1. Cookie是由http协议制定的, 是由服务器创建, 是客户端对象， 保存在
+
+浏览器中, 跟踪客户端。
+
+- Cookie是http制定的(只要web开发使用的协议是http就有Cookie)
+- Cookie是服务器去创建 保存数据, 但是最终是保存在浏览器上的
+- Cookie是客户端对象, 用于跟踪客户端
+
+#+begin_quote
+  辨析：
+
+  HttpSession区别于Cookie， 它是由JavaWeb提供的而不是由Http协议制定的,
+  session是服务器端对象， 保存在服务器端(session缓存中)， 服务器对象,
+  是专门用于会话跟踪的对象。
+#+end_quote
+
+- Session是javaWeb的技术(只要是javaWeb开发就有Session)
+- Session也是由服务器创建、 保存数据, 但是最终还是保存在服务器中(
+
+保存在服务器的Session缓存(Map<sessionid, Session>))
+
+- Session是服务器端对象
+
+2. HttpSession是javaWeb的四大域对象之一(其本身也是个Map)， 所以它也有
+   =setAttribute()= 、
+
+=getAttribute()= 、 =removeAttribute()= 方法。 session的作用域就在一个
+=会话= 中, 在同一个会话中共享同一个session。
+
+3. HttpSession底层依赖于Cookie, 或是URL重写（JSESSIONID）。
+** 2. HttpSession的作用
+
+
+1. 会话： 是一个浏览器对服务器的多次连贯性请求。 所谓连贯性 请求，
+   就是该浏览器多次请求服务器中间没有关闭浏览器。
+
+#+begin_quote
+  浏览器的开启到关闭就是一个会话, 一个会话一个Session;
+#+end_quote
+
+2. 会话范围： 就是某个浏览器从开启首次访问服务器开始，
+   到该浏览器关闭结束 对服务器的访问。
+
+3. 服务器会自动为每个会话创建一个session对象（即使是同一个用户使用不同
+   的浏览器登录， 也相当于是两个会话， 服务器也会创建两个不同的session对
+   象）， 一个session就好比一个会话在服务器端的账户， 它们被服务器保存到
+   一个Map集合中， 这个Map集合被称之为session缓存。
+
+#+begin_quote
+  Session也不能跨浏览器, 因为一个浏览器的开启到关闭就是一个新的会话;
+#+end_quote
+** 3. 获取HttpSession对象
+
+
+1. Servlet中获取session对象：
+   =HttpSession session = request.getSession();=
+
+2. JSP中获取session对象： session是JSP的九大内置对象之一，
+   不用创建就可直接使用。 session的核心用法,
+   就是session是一个再同一会话之间被共享的域对象, 那么浏览器开启到关闭,
+   浏览器对服务器的多次请求就是一个会话, 那么
+   就是在这多次请求中可以使用同一个session来传递数据。
+** 4. session的原理
+
+session的底层依赖于cookie， 其实当调用 =request.getSession()= 方法时，
+服务器会从请求request对象中获取名叫 =JSESSIONID= 的cookie， 其值就是
+一个sessionID： ( =Cookie:JSESSIONID=asadadjhu8h02390= )
+
+1. 如果 =sessionID= 不存在(一般是一个新的会话开启后第一次调用
+   =request.getSession()= 方法)， 服务器就会创建一个session对象，
+   给session对象分配 一个sessionid,
+   然后把session对象保存到session缓存中(sessionId:Session)， 并给
+   该session对象指定一个名叫JSESSIONID的cookie中，
+   cookie中就保存sessionID, 并将 cookie保存到浏览器。
+
+2. 如果 =sessionID= 存在，
+   服务器就会通过sessionID在session缓存中查找对应的 session对象，
+   如果没有查找到(会话没关闭但是session对象被销毁了)， 服务器就会创建
+   一个session对象， 还会session对象新分配个sessionid,
+   把session对象保存到session缓存 中，
+   并给该session对象指定一个名叫JSESSIONID的cookie中，
+   cookie中还是保存sessionID, 并将cookie保存到浏览器。
+
+3. 如果 =sessionID= 存在，
+   服务器也通过sessionID在session缓存中找到了对应的 session对象，
+   那么服务器就不再创建session对象了，
+   直接将找到的session对象返回(是在一个会话, 且session对象没有被销毁,
+   且是二次以及二次以后调用 =request.getSession()= )。
+
+所以在一个会话中， 服务器不会马上创建session对象， 而是在第一次调用
+=request.getSession()= 方法获取session对象时才会创建session对象。
+** 5. 为什么同一个session在一个会话范围内被共享
+
+因为当一个会话开启时， 服务器会创建一个新的session对象，
+将session对象保存在 session缓存，
+同时给该session对象指定了一个sessionID保存在了名为JSESSIONID
+的cookie中， 并将该cookie保存在了浏览器中。 而这个cookie的 =maxAge=
+属性值默认为 =-1= ， 即只在浏览器内存中存在，
+只要不关闭浏览器那么该cookie就一直存在。 而下次请求时， 再次执行
+=request.getSession()= 方法时， 服务器可以从请求对象request
+中获取到名为JSESSIONID的cookie， 进而拿到sessionID，
+再通过该sessionID从session 缓存中再次拿到该sessionID对应的session对象，
+所以与上次请求使用的是同一session 对象。
+** 6. 细说 =request.getSession()= 方法
+
+
+1. =request.getSession(false)= ： 如果从请求中获取的名叫JSESSIONID的
+   cookie中没有获取到sessionID，
+   或获取到的sessionID在session缓存中没有对应的 session对象，
+   服务器不会创建新的session对象， 返回null。
+
+2. =request.getSession()= 或 =request.getSession(true)= ：
+   会创建新的session对象。 （创建新Session会覆盖掉已有的Session）
+** 7. Servlet和JSP创建session的区别
+
+
+1. 创建一个Servlet， 在Servlet中没有调用 =request.getSession()= 方法，
+   那么服务器
+   也就谈不上从request请求对象中获取名为JSESSIONID的cookie拿到sessionID，
+   就更谈不上创建session对象。 那么请求该Servlet时，
+   服务器也不会给浏览器 响应名为JSESSION的cookie；
+   只用当在Servlet中调用了 =request.getSession()= 方法时，
+   服务器才会从请求对象request中获取名为JSESSIONID的cookie， 再从
+   该cookie中拿到sessionID。 如果该sessionID存在，
+   那么直接从session缓存中 获取对应的session对象；
+   如果该sessionID不存在， 请求该Servlet， 服务器才 会创建session对象，
+   并给浏览器响应名为JSESSION的cookie， 并保存sessionID。
+
+2. 而不管请求任何JSP时， 每个JSP页面对应的Servlet中都调用了
+   =request.getSession()= 方法， 服务器都会从请求request对象中获取名为
+   JSESSIONID的cookie， 并cookie中去获取sessionID。
+   如果该sessionID存在，
+   则服务器直接从session缓存中直接获取其对应的session对象； 如果该
+   sessionID不存在， 那么服务器就会session对象， 并给浏览器响应名为
+   JSESSIONID的cookie， 并保存sessionID。
+   这也就是之前为什么我们请求任何一个新的JSP页面， 通过HttpWatch拦截都能
+   看到响应协议中服务器为浏览器响应了名为JSESSIONID的cookie。
+   而请求一个新 的Servlet在不调用 =request.getSession()= 的情况下，
+   响应协议中不会看到 服务器给浏览器响应名为JSESSIONID的cookie的原因。
+   也是为什么Servlet获取session对象必须使用 =request.getSession()=
+   方法， 而 JSP可以直接使用的原因。
+** 8. HttpSession的其它方法
+
+
+1. =String getId()= 获取sessionID, sessionID是一个32位长的16进制字符串，
+   其实底层是使用 java.util.UUID类生成的一个随机字符串，
+   并能保证每次生成的字符串不同。
+
+2. =boolean isNew()= 判断session是否为新 在一个会话中， 当第一次调用
+   =request.getSession()= 方法获取session对象时，
+   服务器会创建session对象， 但这时服务器还没有把保存sessionID的名叫
+   JSESSIONID的cookie响应给客户端浏览器时， 这时的session状态为新。
+
+3. =int getMaxInactiveInterval()= 获取session可以的最大不活动时间(秒)。
+   默认为30分钟， 当该session在30分钟内没有使用， 那么服务器会在session
+   缓存中将该session移除。
+
+4. =void invalidate()= 让session失效。 调用该方法会让当前session失效，
+   当session失效后， 再次使用 =request.getSession()=
+   方法获取session对象时， 服务器会创建一个新的 session对象，
+   并为其指定新的sessionID， 并给客户端浏览器响应新的
+   JSESSIONID的cookie。 该方法一般用作当用户退出登录时，
+   让当前session失效， 防止用户退出 登录后，
+   受限页面仍可被直接访问的问题。
+
+在web.xml中配置session的最大不活动时间：
+
+#+begin_example
+   <session-config>
+     <session-timeout>30</session-timeout>
+   </session-config>
+#+end_example
+** 9. URL重写
+
+前面说过session的底层依赖于cookie， 其目的是让客户端发送请求时向服务
+器自动归还名为=JSESSIONID=的cookie， 服务器再从cookie中拿sessionId，
+再通过sessionId从session缓冲区中拿到对应的session对象， 这样就能保
+证同一个会话共享同一个session对象。 但是如果客户端禁用了cookie，
+那么服务器就无法拿到名为=JSESSIONID=的 Cookie， 也就拿不到sessionId，
+更拿不到session对象了。
+所以也可以通过URL重写来替代cookie向服务器归还sessionId， 其本质就是：
+
+1. 在超链接、 表单等请求路径中添加一个特殊的请求参数jsessionid，
+   参数值就
+
+是sessionId。 代替cookie向服务器归还sessionId。
+
+2. 服务器就可以通过请求参数jsessionid获取sessionId， 再通过sessionId从
+
+session缓冲区中获取到对应的session对象。
+
+3. =Response.encodeURL(url)= 方法会智能的对参数url进行重写：
+
+   1. 当请求中归还了名为JSESSIONID的cookie时，
+      那么该方法不会重写参数url，
+
+   服务器还是通过名为JSESSIONID的cookie获取sessionid， 进而获取到session
+   对象。
+
+   2. 当请求没有归还名为JSESSIONID的cookie时，
+      那么该方法就会自动在请求url的
+
+   后面加上参数jsessionid值为sessionid。 那么服务器就会通过请求参数
+   jsessionid获取sessionid， 进而获取到session对象。
+
+=JSP = html + java脚本 + JSP指令 + JSP动作标签 + 九大内置对象 + EL表达式 + 第三方jstl标签;=
+* JSP的三大指令
+
+JSP中有三大指令: =page= 、 =include= 、 =taglib=
+
+1. JSP指令的格式:
+
+=<%@ 指令名称 属性="值" 属性="值"......%>= 严格说JSP的指令不是标签,
+但是可以理解成是特殊的标签(用法)
+
+JSP的指令可以放在JSP页面的任何位置,
+但是一般都会把JSP指令放到JSP文件的最上方 只是为了好看;
+
+2. JSP的任何指令在一个JSP文件中都是可以重复出现的:如
+
+- =<%@ page language="java"%>=
+- =<%@ page import="java.util.*"%>=
+- =<%@ page pageEncoding="UTF-8"%>=
+
+而用一个page指令也是可以搞定的：
+=<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>=
+
+其实就是将一个指令拆分成多个指令而已。
+** 1. page指令
+
+page指令没有必须属性, 都是可选属性。 即使没有出现任何属性也是可以的, 如:
+=<%@ page %>=
+*** 1.1. =pageEncoding= 和 =contentType= 属性
+
+
+1. =pageEncoding= 属性:它用于指定当前JSP页面的编码格式
+
+   1. 只要当前指定的编码格式和右键点击当前JSP文件Properties属性看到的当前
+
+   JSP文件的编码格式一致就不会出现乱码问题(只要一个文件编辑的编码格式
+   和打开的编码格式一致就不会出现乱码)
+
+   2. 而服务器需要以pageEncoding指定的编码格式将JSP编译成.java的,
+      编码格式不匹配
+
+   的话不能正确编译。
+
+2. =contentType= 属性:
+
+与 =response.setContentType()= 方法的作用相同一是设置响应内
+容的编码格式, 二是设置content-type响应头, 告诉浏览器服务器响应协议的编码
+格式。 如, =<%@ page contentType="text/html; charset=utf-8"%>= ,
+在JSP页面对应的Servlet中就是以
+=response.setContentType("text/html; charset=utf-8");= 存在的。
+
+#+begin_example
+  1. 指定了JSP转换的servlet向浏览器响应的正文类型
+  2. 指定了JSP转换的servlet向浏览器响应的正文使用的编码格式
+  3. 浏览器也会使用此相同的编码格式对JSP转换的servlet响应的正文进行解码
+#+end_example
+
+注意:无论是page指令的 =pageEncoding= 属性还是 =contentType= 属性,
+默认值都是 =ISO8859-1= , 是不支持中文的,
+所以JSP页面存在中文的话一定要设置这两个属性。
+
+- 以上两个属性如果只提供了一个,
+  那么另一个属性的值就默认为设置的那一个属性的值。
+- 所以JSP为了支持中文, 以上两个属性至少要设置一个。
+*** 1.2. =import= 属性
+
+import属性的真身就是JSP页面对应的Servlet中的import关键字导包。
+
+*import属性是唯一可以重复出现的属性* 如:
+=<%@ page import="java.util.*" import="java.io.*"%>= , 还可以使用 =,=
+分隔 =<%@ page import="java.util.*, java.io.*"%>= ，
+但是一般会使用多个page指 令来导入多个包:
+
+- =<%@ page import="java.util.*"%>=
+- =<%@ page import="java.io.*"%>=
+*** 1.3. =errorPage= 属性和 =isErrorPage= 属性
+
+
+1. =errorPage= 属性:我们知道, 当请求的JSP页面出错抛出异常后,
+   服务器会给浏览器
+
+   响应错误信息(500页面)。 如果不希望服务器给浏览器响应错误信息,
+   那么就可以 使用page指令的errorPage属性来自定义错误页面。 如:
+
+   =a.JSP= : =<%@ page errorPage="/a/err.JSP" %>=
+
+   表示如果a.JSP页面内部存在异常, 不会抛出500状态码了,
+   而是抛出正常的200状态 码并且会自动转发到 =/a/err.JSP=
+   页面去了其实目前 =err.JSP= 还不算是错误页面;
+
+2. =isErrorPage= 属性:如果希望给客户端响应的状态码为500，
+   那么就还需要使用
+
+   isErrorPage属性指定通过errorPage属性请求转发的JSP页面为错误页面。
+   当isErrorPage属性的值为true时, 说明当前JSP页面为错误页面,
+   即专门处理错误 的页面,
+   那么在这个JSP页面中就可以使用内置对象exception了, 其它页面是不能
+   使用exception内置对象的。
+
+   =err.JSP= : =<%@ page isErrorPage="true" %>=
+
+   *此时err.JSP页面才是真正的错误页面了*
+
+   其二就是JSP的九大内置对象 =exception= 只能在
+
+   **设置了page指令且isErrorPage属性值为true的
+
+   错误页面
+
+   **才可以使用;
+
+3. =web.xml= 中配置错误页面
+
+   使用JSP的page指令的 =errorPage= 属性和 =isErrorPage=
+   属性可以配置错误页面， 还可以在web.xml中配置错误页面。
+
+#+begin_src java
+  <!--
+   服务器给客户端响应404状态码, 即客户端访问的资源不存在时, 请求转发到
+   error404.JSP页面
+  -->
+  <error-page>
+    <error-code>404</error-code>
+    <location>/error/error404.JSP</location>
+  </error-page>
+
+  <!--
+   服务器给客户端浏览器响应500状态码, 即客户端请求服务器的资源出错抛出
+   异常时, 请求转发到error500.JSP页面
+   -->
+  <error-page>
+    <error-code>500</error-code>
+    <location>/error/error500.JSP</location>
+  </error-page>
+
+  <!--
+    上面的配置表示, 当服务器响应500状态码, 即客户端请求服务器的资源出错
+    抛出异常时, 请求转发到指定页面, 而500状态码表示的是服务器资源抛出任何
+    异常.如果需要指定对具体的异常进行处理的话就使用以下配置, 表示当请求的
+    服务器资源抛出空指针异常时, 就请求转发到nullPoint.JSP
+  -->
+  <error-page>
+    <exception-type>java.lang.NullPointerException</exception-type>
+    <location>/error/nullPoint.JSP</location>
+  </error-page>
+#+end_src
+*** 1.4. =autoFlush= 属性和 =buffer= 属性
+
+
+1. =buffer= 属性:表示当前JSP的输出流(out内置对象)的缓冲区大小,
+   默认为8kb。
+
+(一般不需要修改)
+
+2. =autoFlush= 属性:指定当前JSP的输出流(out内置对象)缓冲区满时，
+   是否自动刷新。
+
+默认为true， 自动刷新， 表示当缓冲区满时自动把缓冲区数据输出到客户端。
+如果改为false时， 那么在缓冲区满时抛出异常。 (一般也不需要修改)
+*** 1.5. =isELIgnored= 属性
+
+表示当前JSP是否忽略el表达式, 默认值为false, 表示不忽略, 即支持。
+(一般也不需要修改)
+*** 1.6. 基本没用的属性
+
+
+1. =language= 属性:指定当前JSP编译后的语言类型, 默认值为java。
+   (目前也只能是java)
+
+2. =info= 属性:当前JSP的说明信息
+
+3. =isThreadSafe= 属性:当前JSP是否支持并发访问, 默认值为false, 支持。
+   当改为true时,
+
+   JSP生成的servlet会去实现一个过时的标记接口SingleThreadModel,
+   这时JSP就只能 单线程访问。 (一般不需要修改) //todo
+
+4. =session= 属性:当前JSP页面是否支持session, 默认为true,
+   表示当前JSP可使用内置对象
+
+   session; 如果改为false, 表示当前JSP不能使用内置对象session。
+   (一般不需要修改)
+
+5. =extends= 属性:让当前JSP生成的servlet去继承该属性指定的类。
+   (一般不需要修改)
+** 2. include指令
+
+include指令表示静态包含, 其目的是把多个JSP合并成一个JSP。
+include指令只有一个属性file, 指定所包含的页面, 如:
+=<%@ include file="x.JSP"%>= 。 include指令静态包含和
+=request.getRequestDispatcher().include()= 的请求包含的功能 相似, 但是:
+*** 2.1. 请求包含
+
+=request.getRequestDispatcher().include()= 是请求包含,
+包含和被包含的是两个 servlet, 即两个 =.class= ,
+只是把两个servlet的响应内容在运行时合并了, 再统一响应给客户端。
+
+请求包含包含的是两个servlet的响应正文, 而Servlet还是两个,
+Servlet对应的class文件也是两个;
+*** 2.2. include静态包含
+
+include指令是在JSP编译成java文件时完成的。 它是把两个JSP合并成一个JSP,
+然后被编译成一个java(即一个servlet)文件, 最终生成一个 =.class= 。
+即在JSP页面在被编译成 =.java= 之前， 还是JSP时就合并了。
+其实静态包含就是将被包含的JSP页面的所有内容拷贝到包含 的JSP页面中,
+所以两个JSP页面中不能出现重复内容, 否则属于二次定义。
+
+*注意:* include指令静态包含，
+包含页面和被包含页面*不能出现相同内容部分*，
+因为两个JSP页面会被合并成一个JSP， 进而再被编译成一个servlet，
+不可能出现重复定义内容。
+
+*应用场景:* 当多个JSP页面存在共性部分的时候,
+在每个JSP页面都编写一份不利于代码的复用性,
+所以就可以将共性部分抽取出来定义在一个独立的JSP页面中,
+然后在其他JSP页面使用 include指令去包含定义了共性内容的JSP页面就行了;
+** 3. taglib指令
+
+在JSP页面中使用第三方标签库时, 需要使用taglib指令来导入第三方标签库，
+类似于java类的导包一样。
+
+1. prefix:指定标签库在当前JSP页面使用的前缀。 自定义命名，
+   类似于xml的名称空间。
+2. uri:指定标签库的位置。 一般是由第三方标签库定义好的。
+3. 指定标签库的标签的使用： =<前缀： 标签名>=
+
+如: =<%@ taglib prefix="c" uri="http://java.sun.com/JSP/jstl/core" %>=
+， 使用该标签库的text标签时, 是
+* JSP的九大内置对象
+
+JSP页面主要对应的是Servlet的service()方法。
+每个JSP页面服务器都会将其编译成对应的一个 =.java= (即一个servlet)文件，
+而JSP页面的内容的"真身"在对应的servlet的 =_JSPService()= 方法中， 而在
+=_JSPService()= 方法的开头部分已经创建了9大内置对象，
+所以在JSP页面可以直接使用这9大内置对象。
+
+- request
+- response
+- out
+- session
+- application
+- config
+- page
+- pageContext
+- exception
+
+1. html: =service()= 方法中以 =out.write()= 出现
+2. java脚本:
+
+   - =<% %>= :service()方法
+   - =<%=%>= :转成 =out.write()= 再放到 =service()= 方法
+   - =<%!%>= :Servlet的成员位置(很少很少用到)
+
+在JSP对应的servlet的service()方法的一开始, 就将这九个对象声明并初始化了(
+request和response是作为service()的参数,
+exception是存在错误页面对应的servlet),
+所以这九大内置对象在JSP页面中无需创建便可直接使用。
+** 1. out
+
+是JSPWriter的对象, 等同于servlet的
+=PrintWriter out = response.getWriter();= 获取的PrintWriter的对象,
+作用就是向客户端响应输出文本数据。
+** 2. config
+
+它就是ServletConfig的对象。 在servlet中ServletConfig对象就代表当前
+Servlet的配置信息, 即在web.xml中配置的
+
+#+begin_example
+  <servlet>
+   <servlet-name></servlet-name>
+   <servlet-class></servlet-class>
+  </servlet>
+#+end_example
+
+的内容。 而JSP我们不需要在web.xml中配置,
+所以config内置对象在JSP中几乎没用。
+** 3. page
+
+当前JSP对象(this), 但其在JSP编译的servlet中是以 =Object page = this;=
+存在的, 属于多态思想,
+所以子类对象this的很多属性和功能父类引用page都无法使用。
+而在JSP的<%%>java脚本中能直接用this去操作当前JSP对象绝不用page,
+所以page内置对象在JSP中也几乎不用。
+
+使用page还不如直接用this方便;
+** 4. exception
+
+类型不是Exception而是Throwable, 异常对象,
+只有在错误页面中才可以使用该对象。
+** 5. request
+
+HttpServletRequest的对象, 请求对象。
+** 6. response
+
+HttpServletResponse的对象, 响应对象。
+** 7. application
+
+ServletContext的对象, 服务器会为每个web应用程序创建唯一的
+一个ServletContext对象, 其作用就是在整个web应用的动态资源之间共享数据,
+即多个servlet和JSP之间就都可以通过获取这个唯一的ServletContext对象来
+传递数据。
+** 8. session
+
+HttpSession的对象, 服务器会为每个会话创建一个session对象, 多个动态资源
+即多个servlet和JSP就可以使用session对象在同一会话中共享数据。
+** 9. pageContext对象（域对象）
+
+在javaWeb中一共有4大域对象, 其中servlet中可以使用request、 session、
+ServletContext 三个对象, 在JSP中可以使用pageContext、 request、
+session、 application(ServletContext)
+** 10. 四大域对象
+
+
+- application(ServletContext):在整个web应用中共享数据
+- session:在一个会话中共享数据
+- request:在一个请求链中共享数据
+- pageContext:在一个JSP页面中共享数据。 这个域是指在当前JSP页面和
+
+当前JSP页面中使用的标签之间共享数据。
+*** 10.1. pageContext域对象功能
+
+pageContext域对象是四个域对象中范围最小的,
+在当前JSP页面和当前JSP页面中使用 的标签之间共享数据。
+
+#+begin_src java
+  void setAttribute(String name, Object value)
+
+  Object getAttribute(String name)
+
+  void removeAttribute(String name)
+#+end_src
+*** 10.2. pageContext获取其它内置对象
+
+拿到了pageContext内置对象就等同于拿到了所有的内置对象,
+因为pageContext对象 可以获取其它8个内置对象。
+
+#+begin_src java
+  JSPWriter getOut(); // 获取out内置对象
+  ServletConfig getServletConfig(); // 获取config内置对象
+  Object getPage(); // 获取page内置对象
+  ServletRequest getRequest(); // 获取request内置对象
+  ServletResponse getResponse(); // 获取response内置对象
+  HttpSession getSession(); // 获取session内置对象
+  Throwable getException(); //  获取exception内置对象
+  ServletContext getServletContext(); // 获取application内置对象
+#+end_src
+*** 10.3. pageContext代理其它域对象
+
+因为pageContext对象可以拿到其它8个内置对象,
+所以可以使用pageContext域对象 来代理其它3个域对象,
+也就是说可以使用pageContext对象向request、 session、
+application域对象中存储数据和获取数据。
+
+#+begin_src java
+  void setAttribute(String name, Object value, int scope); // 向指定的域对象中添加数据
+  Object getAttribute(String name, int scope); // 从指定的域对象中获取数据
+  void removeAttribute(String name, int scope); // 移除指定域对象中的数据
+
+  // example
+  pageContext.setAttribute("uname", "mmy"); // 默认向pageContext域中存储数据
+  pageContext.setAttribute("uname", "mmy", PageContext.REQUEST_SCOPE); // 向request域对象中存储数据
+  pageContext.setAttribute("uname", "mmy", PageContext.SESSION_SCOPE); // 向session域对象中存储数据
+  pageContext.setAttribute("uname", "mmy", PageContext.APPLICATION_SCOPE); // 向application域对象中存储数据
+#+end_src
+*** 10.4. pageContext全域查找
+
+=Object findAttribute(String name)=
+
+1. 会从小到大, 依次在 =pageContext= , =request= , =session= ,
+   =application= 域对象中 查找名为name的数据的值, 如果找到则返回结果,
+   没有则返回null。
+2. 如果在在多个域对象中存在同名的属性, 那么依据优先级别,
+   范围最小的域对象的优先级别最高。 所以存储同名的属性时,
+   为了进行区别都加上前缀。
+
+#+begin_src java
+  pageContext.setAttribute("uname", "mmy");
+  pageContext.setAttribute("request_uname", "mmy", PageContext.REQUEST_SCOPE);
+  pageContext.setAttribute("session_uname", "mmy", PageContext.SESSION_SCOPE) pageContext.setAttribute("application_uname", "mmy", PageContext.APPLICATION_SCOPE);
+#+end_src
+* JSP的动作标签
+
+JSP的动作标签的作用是用来简化java脚本的， 因为其内部封装的就是java脚本。
+在JSP2.0版本开始不建议在JSP页面中直接使用java脚本了, 因为页面容易混乱，
+所以去使用=指令=，=动作标签=，=EL表达式=，=第三方标签=，等去替代java脚本，
+然后由服务器 去转换。
+** 1. JSP的动作标签和html的标签的区别
+
+
+1. html的标签是由浏览器来解析执行的: 解析标签内容和样式在页面来显示的。
+2. JSP的动作标签它封装的就是java代码，
+   和java代码一样都是由服务器解析执行的:
+   JSP的动作标签是标签但是其封装的是java代码, 是交给服务器来解析,
+   由服务器将其转换成java代码再去去执行的;
+3. JSP的动作标签是javaWeb内置已经定义好的动作标签， 供于我们直接使用。
+4. JSP动作标签的格式：
+** 2. 常用JSP动作标签
+
+*** 2.1. =<JSP:forward>=动作标签
+
+=<JSP:forward>=动作标签的作用就是请求转发， 和
+servlet的=request.getRequestDispatcher("").forward(request, response);=
+的作用是一样的。
+*** 2.2. =<JSP:include>=动作标签
+
+=<JSP:include>=动作标签的作用就是请求包含， 和
+servlet的=request.getRequestDispatcher("").include(request, response);=
+的作用是一样的。
+**** 2.2.1. =<JSP:include>=动作标签和=<%@include%>=指令的区别
+
+
+1. =<%@include%>=指令是静态包含，
+   是指在两个JSP页面在被编译成servlet之前， 合并成一个JSP页面，
+   然后在被编译成一个servlet。
+2. =<JSP:include>=动作标签， 也叫动态包含， 它与servlet的
+   =request.getRequestDispatcher("").include(request, response);=
+   一样都是请求包含的作用。
+   即表示当前JSP和被包含的JSP页面都被编译成各自对应 的servlet后，
+   在运行时当前JSP页面时请求包含到被包含的JSP页面，
+   合并两个JSP页面的响应体， 共同向浏览器完成完整的一个响应。
+*** 2.3. =<JSP:param>=动作标签
+
+还可以在=<JSP:forward>=和=<JSP:include>=动作标签之间使用=<JSP:param>=动作标签，
+向被请求转发和请求包含的JSP页面传递参数。
+
+#+begin_example
+  <JSP:forword page="b.JSP">
+      < JSP: param name = "uname" value = "aaa" / >
+  </JSP:forword>
+#+end_example
+
+等价于:
+=request.getRequestDispatcher("/b.JSP?uname=aaa").forword(request, response);=
+*** 2.4. =<JSP:useBean>= 动作标签
+
+如果javaBean对象存在， 则从指定域对象中获取javaBean对象， 如果不存在，
+在当前JSP页面创建javaBean对象， 并保存到指定域对象中。
+默认域对象是pageContext, 可以使用scope属性来指定保存到的域对象，
+或指定获取javaBean的域对象。
+*** 2.5. =<JSP:setProperty>=和=<JSP:getProperty>=
+
+=<JSP:setProperty>=标签的作用是给指定的javaBean对象的javaBean属性赋值，
+=<JSP:getProperty>=标签是获取指定javaBean对象的javaBean属性的值。
+* javaBean
+
+*JavaBean是一种对类的规范：*
+
+- 它要求为类的成员变量提供get/set方法，
+  这样的成员变量被称为JavaBean属性。
+- 它还要求类必须提供默认无参的构造器。
+- 只提供get方法的属性叫只读属性
+- 只提供set方法的属性叫只写属性
+- 如果属性为boolean类型， 那么读方法的格式可以是getXxx或isXxx
+- 属性名要求前两个字母要么都大写， 要么都小写(为了规范,
+  一般是将javaBean的属性全部小写)
+- 一个属性没有对应的成员变量， 只有get/set方法也是可以的，
+  属性的名称就是get/set方法 去除get / set后的内容，
+  再把首字母小写的内容。 也就是说属性的名字并不是取决于成员变量 名，
+  而是get / set方法名后面的部分。 (但一般不这么做)
+* 内省
+
+内省的目标就是使用JavaBean属性的读、 写方法的反射对象(即Method对象)，
+通过反射机制对JavaBean属性进行取值和赋值操作的一组API。 如， JavaBean
+类User有个JavaBean属性name，
+通过两个Method对象(一个是getName()方法的对象，
+一个是setName()方法的对象)来操作name属性给其取值和赋值。
+
+1. =java.beans.BeanInfo=类： javaBean信息类， 封装了javaBean类的属性、
+   方法、 事件等信息。
+   通过=java.beans.Introspector=类的静态方法=getBeanInfo(Class)=来获取BeanInfo的实例。
+   如： =BeanInfo userBean = Introspector.getBeanInfo(User.class);=
+   userBean对象就封装了User类的所有方法、 属性、 事件等信息。
+
+2. =java.beans.PropertyDescriptor=类： javaBean属性描述符类，
+   每个PropertyDescriptor对象就对应一个javaBean属性，
+   可通过其提供的方法来操作javaBean属性。
+   通过BeanInfo对象的=getPropertyDescriptors()=方法可以获取到封装了该javaBean
+   类的所有javaBean属性的PropertyDescriptor对象数组。 如：
+   =PropertyDescriptor[] pds = userBean.getPropertyDescriptors();=
+
+3. =PropertyDescriptor=对象提供的操作javaBean属性的方法
+
+   - =String getName()= 获取该javaBean属性名
+   - =Method getReadMethod()=获取该javaBean属性的读方法， 即get方法。
+   - =Method getWriteMethod()=获取该javaBean属性的写方法， 即set方法。
+
+内省流程:
+
+#+begin_example
+  graph TD
+      a(Introspector内省类)
+      b(BeanInfo  bean信息类)
+      c(PropertyDescriptor属性描述符类)
+      d(属性的get/set方法对应的Method)
+      e(反射机制给属性赋值和取值)
+      a-->b;b-->c;c-->d;d-->e;%% one edge
+#+end_example
+* commons-beanutils第三方组件
+
+commons-beanutils组件， 底层使用了内省来操作javaBean属性，
+对内省进行了大量的简化。
+使用commons-beanutils组件必须导入的第三方jar包：
+
+- commons-beanutils.jar
+- commons-logging.jar
+* EL表达式：
+
+EL(Expression Language) 表达式语言, 它是JSP内置的表达式语言。
+而EL表达式替代的是 =<%=...%>=, 也就是说EL表达式在JSP页面只能做输出作用。
+EL表达式格式: =${表达式}=
+
+1. EL是JSP内置的一个表达式(语言)
+2. 格式: =${表达式}=, 其实学习EL就是学习这些表达式如何使用
+3. EL表达式只有一个作用就是在JSP页面进行输出, 等价于 =<%=表达式%>=,
+   又比输出脚本简化了很多。 所以后期EL表达式基本已经替代了 =<%=%>=;
+** 1. EL表达式读取四大域
+
+*** 1.1. =${xxx}=:全域查找名为=xxx=的属性
+
+如果存在该属性, 则输出该属性值; 如果不存在该属性, 则输出空字符串,
+而不是null。
+四大域的优先级是=pageContext > request > session > application=，
+即会先在 pageContext域对象中查找名为xxx的属性，
+如果pageContext中不存在再在request 域对象中查找,
+如果request中也不存在就会再在session域对象中查找， 如果session
+中也不存在, 最后就会在application域对象中查找, 如果四大域中都不存在,
+则返回空 字符串。 相当于=<%= pageContext.findAttribute("xxx")%>=方法,
+但是该方法是全域中都未找到 指定属性则返回null。 所以一般为了进行区别,
+给指定的域对象中存储属性时, 都会以该域名为前缀给属性命名。
+=${page_xxx}=、 =${request_xxx}=、 =${session_xxx}=、
+=${application_xxx}=
+*** 1.2. 指定域中获取属性
+
+
+- =${pageScope.xxx}=:获取pageContext域对象中的名为xxx的属性。
+
+相当于： =<%=pageContext.getAttribute("xxx")%>=
+
+- =${requestScope.xxx}=:获取request域对象中的名为xxx的属性。
+
+相当于： =<%=request.getAttribute("xxx")%>=
+
+- =${sessionScope.xxx}=:获取session域对象中名为xxx的属性。
+
+相当于： =<%=session.getAttribute("xxx")%>=
+
+- =${applicationScope.xxx}=:获取application域对象中的名为xxx的属性
+
+相当于： =<%=application.getAttribute("xxx")%>=
+** 2. javaBean导航
+
+*** 2.1. Servlet
+
+#+begin_src java
+  public class C_1 extends HttpServlet {
+      public void doGet(HttpServletRequest request, HttpServletResponse response)
+      throws ServletException, IOException {
+          //创建Address对象
+          Address address = new Address();
+          address.setCity("西安市");
+          address.setStreet("高新四路");
+          //创建Stu对象, 并将Address对象作为属性存储到Stu对象中
+          Stu stu = new Stu();
+          stu.setName("张三");
+          stu.setNum(10001);
+          stu.setAddress(address);
+          //创建session域对象, 并将Stu对象存储到session中
+          HttpSession session = request.getSession();
+          session.setAttribute("stu", stu);
+          response.getWriter().write("<h1>session is ok</h1>");
+      }
+  }
+#+end_src
+*** 2.2. JSP
+
+#+begin_example
+  < body >
+  < !--获取session域对象中存储的stu属性, 即stu对象的name属性的值-->
+  姓名: ${sessionScope.stu.name} < br / >
+  < !--相当于-->
+  <%=((Stu)session.getAttribute("stu")).getName() %>
+
+  < !--获取session域对象中存储的stu属性, 即stu对象的num属性的值-->
+  学号: ${sessionScope.stu.num} < br / >
+  < !--相当于-->
+  <%=((Stu)session.getAttribute("stu")).getNum() %>
+
+  < !--全域查找stu属性, 即stu对象的address属性, 即stu对象持有的address对象的city属性和street属性的值-->
+  地址:
+  ${stu.address.city}
+  ${stu.address.street}
+  < !—相当于-->
+  <%=((Stu)pageContext.findAttribute("stu")).getAddress().getCity() %>
+  <%=((Stu)pageContext.findAttribute("stu")).getAddress().getStreet() %>
+  < /body>
+#+end_example
+** 3. EL表达式的11个内置对象
+
+EL表达式可以输出的内容其实都封装在了其11个内置对象中, 无需创建即可使用。
+
+1.  =pageScope=
+2.  =requestScope=
+3.  =sessionScope=
+4.  =applicationScope=
+5.  =param= :=Map<String, String>=
+6.  =paramValues= : =Map<String, String[]>=
+7.  =header= : =Map<String, String>=
+8.  =headerValues= :
+    =Map<String, String[]>=,Map集合就可以map.key通过键获取值,
+    也可以map[key] 通过键获取值;
+9.  =initParam= : =Map<String, String>=
+10. =cookie= : =Map<String, Cookie>=
+11. =pageContext=
+
+这11个内置对象除了pageContext外, 其它10个的本质都是Map集合。
+*** 3.1. param和paramValues这两个内置对象是用来获取请求参数的
+
+=param=: 本质是=Map<String name，String value>=，
+用于获取单值的请求参数， 相当于=request.getParameter("name");=
+区别在于param对象如果没值返回空字符串，
+而=request.getParameter("name");= 返回null。
+
+=paramValues=： 本质是=Map<String name，String[] values>= ，
+用于获取多值的请求参数， 相当于=request.getParameterValues("name");=
+区别在于=paramValues=对象如果没值返回 空字符串，
+而=request.getParameterValues("name");= 返回null。
+*** 3.2. header和headerValues这两个内置对象是用来获取请求头的：
+
+=header=： 本质是=Map<String name， String value>=，
+用于获取单值的请求头。
+
+相当于=request.getHeader("name");=
+区别在于header对象如果没值返回空字符串， 而=request.getHeader("name");=
+返回null。
+
+=headerValues=： 本质是=Map<String name，String[] values>= ，
+用于获取多值的请求头。 相当于=request.getHeaders("name");=
+区别在于=headerValues=对象如果没值返回空字符串，
+而=request.getHeaders("name");= 返回null。
+*** 3.3. initParam
+
+用于获取=web.xml=中=<context-param>=中配置的应用参数，
+相当于=application.getInitParameter("name")=。 ### 3.4. cookie
+本质是=Map<String name， Cookie value>=， 用于获取Cookie对象，
+键是Cookie名字， 值是Cookie对象。 相当于=request.getCookies();=
+*** 3.5. pageContext
+
+它就是pageContext域对象。 可以使用EL表达式的pageContext内置对象获取
+其它域对象， 替代pageContext对象的=getXxx()= 获取其它域对象： 1.
+=${pageContext.request}= =pageContext.getRequest()= 获取request对象 1.
+=${pageContext.request.remoteAddr}=
+=pageContext.getRequest().getRemoteAddr()= 获取客户端IP 1.
+=${pageContext.request.method}= =pageContext.getRequest().getMethod()=
+获取请求方式 1. =${pageContext.request.scheme}=
+=pageContext.getRrequest().getScheme()= 获取协议名 1.
+=${pageContext.request.serverName}=
+=pageContext.getRequest().getServerName()= 获取服务器名称 1.
+=${pageContext.request.serverPort}=
+=pageContext.getRequest().getServerPort()= 获取服务器端口 1.
+=${pageContext.request.contextPath}=
+=pageContext.getRequest().getContextPath()= 获取项目路径
+
+动态生成URI路径 1. =${pageContext.request.queryString}=
+=pageContext.getRequest().getQueryString()= 获取参数部分 1.
+=${pageContext.request.requestURI}=
+=pageContext.getRequest().getRequestURI()= 获取请求URI 1.
+=${pageContext.request.requestURL}=
+=pageContext.getRequest().getRequestURL();=
+
+获取请求URL 1. =${pageContext.request.protocol}=
+=pageContext.getRequest().getProtocol()= 获取协议名及版本 1.
+=${pageContext.session}= =pageContext.getSession()= 获取session对象 1.
+=${pageContext.session.new}= =pageContext.getSession().isNew()=
+判断session是否是新的 1. =${pageContext.session.id}=
+=pageContext.getSession().getId()= 获取sessionId 1.
+=${pageContext.servletContext.serverInfo}=
+=pageContext.getServletContext().getServerInfo();=
+** 4. EL表达式操作总结
+
+
+1. 操作List集合和数组： =${ list[0] } 、 ${ arr[0] }=
+2. 操作bean属性： =${ user.name } 或 ${ user['name']}=，
+   相当于=user.getName()=方法。
+3. 操作map集合： =${ map.key }或 ${ map['key'] }=，
+   相当于=map.get(key)=方法。
+** 5. EL函数库
+
+EL表达式的函数库， 可以使用EL表达式直接调用；
+而EL表达式的函数库是由JSTL标签库提供的，
+所以要使用EL的函数库必须先导入JSTL的标签为其提供的函数库
+
+导入JSTL标签库：
+
+1. 导入JSTL标签库jar包： ( jstl-1.2.jar )： MyEclipse为我们自动提
+   供并导入了JSTL的标签库jar包， 如果是版本较低的MyEclipse就需要
+   我们手动导入了。
+
+2. 在JSP页面使用taglib指令导入JSTL标签库
+
+   =<%@ taglib prefix="fn" uri="http://java.sun.com/JSP/jstl/functions"%>=
+   说明: =prefix = "fn"= 指定标签库的前缀， 这个前缀名可以随意赋值。
+   =uri = "http://java.sun.com/JSP/jstl/functions"=
+   指定引入的标签库的uri地址。 EL函数库导入JSTL的标签库，
+   其实引入的是jstl-1.2.jar包下的META-INF目录下 的fn.tld文件，
+   而这个uri地址绑定的就是fn.tld文件。
+
+EL表达式只能直接操作字符串和11个内置对象,
+其他对象是通过EL的内置对象间接操作。
+** 6. EL运算符
+
+
+1.  =+= 加 =${17+5}= 22
+2.  =-= 减 =${17-5}= 12
+3.  =*= 乘 =${17*5}= 85
+4.  =/=或=div= 除 =${17/5}或${17 div 5}= 3
+5.  =%=或=mod= 取余 =${17%5}或${17 mod 5}= 2
+6.  ====或=eq= 等于 =${5==5}或${5 eq 5}= true
+7.  =!==或=ne= 不等于 =${5!=5}或${5 ne 5}= false
+8.  =<=或=lt= 小于 =${3<5}或${3 lt 5}= true
+9.  =>=或=gt= 大于 =${3>5}或${3 gt 5}= false
+10. =<==或=le= 小于等于 =${3<=5}或${3 le 5}= true
+11. =>==或=ge= 大于等于 =${3>=5}或${3 ge 5}= false
+12. =&&=或=and= 并且 =${true&&false}或${true and false}= false
+13. =!=或=not= 非 =${!true}或${not true}= false
+14. =||=或=or= 或者 =${ true || false }或${true or false}= true
+15. =empty= 是否为空 =${empty ""}=， 可以判断字符串、 数组、
+    集合的长度是否为0， 为0返回true。 empty还可以与not或!一起使用。
+    =${not empty ""}= true =${!empty ""}=true
+* JSTL标签库
+
+jstl是apache对EL表达式的扩展， 也就是说jstl的使用依赖于EL；
+其实jstl和JSP的动作标签一样， 都是标签语言， 底层封装的都是java代码；
+只不过JSP的动作标签是JSP的内置标签， 可直接使用， 而jstl是第三方标签库，
+所以使用时需要导入标签库。
+
+1. 第三方标签:补充
+2. jstl标签一般需要结合EL表达式使用
+3. 使用之前需要先导入标签库
+4. 也是被服务器解析的(不是被浏览器解析的)
+** 1. jstl的常用标签库
+
+
+1. core： 核心标签库 也叫c标签库
+2. fmt： 格式化标签库
+** 2. 导入jstl标签库
+
+
+1. 导jar包： MyEclipse提供并导入jstl-1.2.jar包， 如果没有，
+   则需要我们手动导入。
+
+2. 在JSP页面使用taglib指令引入标签库： 如, 引入jstl的core标签库
+   =<%@ taglib prefix="c" uri="http://java.sun.com/JSP/jstl/core"%>=
+
+3. =prefix="c"=： 指定标签库的前缀， 这个前缀可以随便赋值，
+   但是core标签库一般都使用c作为前缀， 所以core标签库也往往被称为c标签。
+
+4. =uri="http://java.sun.com/JSP/jstl/core"=： 指定标签库的uri，
+   它的值一般都是网址， 但它不一定是真实的网址。
+** 3. core标签库常用标签
+
+*** 3.1. =<c:out>=
+
+向页面输出内容 (几乎不用, 更多的是使用EL表达式) 1. value属性：
+指定输出的内容， 可以是字符串常量， 也可以是EL表达式。 2. default属性：
+当输出的value的内容不存在时， 默认输出default的值。 3. 3.
+escapeXml属性： 值为true时， 转义输出的字符串中的< >等符号；
+值为false时， 不转义。 默认为true。
+*** 3.2. =<c:set>=
+
+向指定的域对象中存储属性 1. var属性： 指定属性名。 2. value属性：
+指定属性值。 3. scope属性： 指定域对象， 默认是pageContext对象。
+*** 3.3. =<c:remove>=
+
+删除域对象中指定的属性 1. var属性： 指定删除的属性名 2. scope属性：
+不给出scope属性， 表示删除所有域对象中的该属性，给出scope属性，
+表示只删除指定域对象中的该属性。
+*** 3.4. =<c:url>=
+
+(重中之重)
+
+1. 只使用value属性 指定一个路径， 它会在路径前自动加上项目路径。
+   相当于EL表达式 =${pageContext.request.contextPath}=。 如，
+   =<c:url value="/index.JSP" />=， 输出=/JSPTest3/index.JSP= 等价于，
+   =${pageContext.request.contextPath}/index.JSP=
+
+2. value属性结合子标签=<c:param>= 自动在路径前加上项目路径，
+   并在uri地址后添加参数， 还会对中文参数自动进行url编码。
+
+#+begin_example
+  <c:url value="/index.JSP">
+  < c: param name = "uname" value = "张三" / >
+  < /c:url>
+#+end_example
+
+输出 : =/JSPTest3/index.JSP?uname=%ED%2C%3F%A4%4B%3D=
+
+3. value属性结合var和scope属性：
+   会将value生成的uri地址赋值给var指定的变量，
+   再将变量存储到scope指定的域对象中。 如，
+   =<c:url value="/index.JSP" var="path" scope="session">=向session域对象中
+   存储属性path， 值是value生成的uri地址。
+
+=<c:url>=标签一般也只是使用value属性， 用在超链接或form表单中，
+用于动态生成uri地址。
+*** 3.5. =<c:if>=
+
+#+begin_example
+  <c:if  test= "条件表达式">
+  </c:if>
+  <!-- 当test中的值为true时， 执行标签体中的内容 -->
+  <c:choose>
+      < c: when test = "条件表达式" >
+      < /c:when>
+
+      < c: when test = "条件表达式" >
+      < /c: when >
+
+      < c: otherwise >
+      < /c:otherwise>
+  </c:choose>
+#+end_example
+*** 3.6. =<c:forEach>=
+
+
+1. 计数方式循环：
+
+   var属性： 循环变量 begin属性： 设置循环变量初始值 end属性：
+   设置循环变量结束值 step属性： 设置循环变量步长。 默认值为1。
+
+#+begin_src java
+  for (int i = 1; i <= 10; i++){
+
+  }
+#+end_src
+
+2. 遍历数组、 集合： items属性： 指定要循环的数组、 集合 var属性：
+   代表数组、 集合的每个元素
+
+#+begin_src java
+  int[] arr = {};
+  for (int i: arr) {
+      i;
+  }
+#+end_src
+
+#+begin_quote
+  注意： 一个开发中的小bug， 使用 =< c: forEach >= 遍历数组和集合时，
+  items属性指定要遍历的数组和集合时， EL表达式的=}=和
+  ="=之间不能有空格。
+#+end_quote
+
+3. 循环状态变量： varStatus 用于操作循环状态的变量
+
+   1. index属性： int型， 返回当前元素的下标
+   2. count属性： int型， 返回当前已遍历元素的个数
+   3. first属性： boolean型， 判断当前元素是否为第一个元素
+   4. last属性： boolean型， 判断当前元素是否为最后一个元素
+   5. current属性： Object型， 返回当前元素
+
+#+begin_example
+  <c:forEach
+      items="<object>"
+      begin="<int>"
+      end="<int>"
+      step="<int>"
+      var="<string>"
+      varStatus="<string>">
+
+  </c:forEach>
+#+end_example
+** 4. fmt标签库常用标签
+
+引入标签库:=<%@ taglib prefix="fmt" uri="http://java.sun.com/JSP/jstl/fmt"%>=
+
+1. =<fmt:formatDate>=： 格式化日期 value属性： 指定被格式化的Date型变量
+   pattern属性： 指定格式化模板
+
+2. =<fmt:formatNumber>=： 格式化数字 value属性： 指定被格式化的数字变量
+   pattern属性： 指定格式化模板
+
+   1. =0.00=模板： 保留小数点后两位。 数字超出小数点后两位， 四舍五入；
+      数字不够小数点后两位， 用0补位。
+   2. =#.##=模板： 也是保留小数点后两位。 数字超出小数点后两位，
+      四舍五入； 数字不够小数点后两位， 不用0补位。

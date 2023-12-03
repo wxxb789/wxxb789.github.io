@@ -1,0 +1,7 @@
+#+alias: 向量数据库,
+
+* pgvector
+* pgeccto.rs
+* qdrant
+* pinecone
+*

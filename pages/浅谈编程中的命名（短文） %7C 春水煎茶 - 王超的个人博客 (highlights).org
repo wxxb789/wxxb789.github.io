@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: 浅谈编程中的命名（短文） | 春水煎茶 - 王超的个人博客 (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[writings.sh]]
+:full-title: "浅谈编程中的命名（短文） | 春水煎茶 - 王超的个人博客"
+:category: [[articles]]
+:url: https://writings.sh/post/naming
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-14]]
+** 📌
+** #+BEGIN_QUOTE
+** 布尔值和判断函数，命名以 `is/has/should/contains/check` 等开头 (`is` 最常用):
+
+    var isExist bool
+    func IsUserLogin() bool {}
+    func HasPrefix() bool {}
+    
+
+此条并不绝对，只要用词有「是否」之意即可，比如 `found`：
+
+    func Contains(s, part string) (found bool) ([View Highlight](https://read.readwise.io/read/01h59dsj9cfxph5q4jcd4amszn))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 只做数据增删改查的函数，考虑用 `Get/Set/Query/List/Update/Delete` 等字眼：
+
+    GetValue()     // 查询单个
+    SetValue()     // 设置单个
+    QueryValues()  // 查询多个值
+    ListValues()   // 列出多个值
+    UpdateValue()  // 更新单个值
+    DeleteValue()  // 删除单个值 ([View Highlight](https://read.readwise.io/read/01h59dsyn1zvzvqwrqcxyyzn6c))
+** #+END_QUOTE

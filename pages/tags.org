@@ -1,0 +1,8 @@
+* {{query (all-page-tags)}}
+:PROPERTIES:
+:query-sort-by: block
+:query-table: true
+:query-sort-desc: false
+:END:
+*
+*

@@ -1,0 +1,339 @@
+#+title: Design Pattern/Behavioral Pattern/Visitor
+#+tags: design pattern, visitor pattern
+
+* Classic Visitor Pattern Uml
+:PROPERTIES:
+:title: Design Pattern/Visitor Pattern
+:END:
+[[../assets/image_1630826395560_0.png]]
+* Extension Method with Reflection
+** OOP
+#+begin_src csharp
+public static class ExpressionPrinter
+{
+  private static Dictionary<Type, MethodInfo> methods
+    = new Dictionary<Type, MethodInfo>();
+  static ExpressionPrinter()
+  {
+    var a = typeof(Expression).Assembly;
+    var classes = a.GetTypes()
+      .Where(t => t.IsSubclassOf(typeof(Expression)));
+    var printMethods = typeof(ExpressionPrinter).GetMethods();
+    foreach (var c in classes)
+    {
+      // find extension method that takes this class
+      var pm = printMethods.FirstOrDefault(m =>
+        m.Name.Equals(nameof(Print)) &&
+        m.GetParameters()?[0]?.ParameterType == c);
+      methods.Add(c, pm);
+    }
+}
+
+public static void Print(this Expression e, StringBuilder sb)
+{
+  methods[e.GetType()].Invoke(null, new object[] {e, sb});
+}
+#+end_src
+
+#+begin_quote
+Tips:
+Reflection Improvment: using =Delegate.CreateDelegate()= to avoid storing =MethodInfo= Objects.
+#+end_quote
+** Functional Reflective Visitor
+#+begin_src fsharp
+type Expression =
+  | Add of Expression * Expression
+  | Mul of Expression * Expression
+  // ... other operations
+
+let rec process expr =
+    match exper with
+        | Add (lhs, rhs) -> // ... do something
+        | Mul (lhs, rhs) -> // ... do something
+        // ...
+#+end_src
+* Dict Way
+#+begin_src csharp
+
+private static DictType actions = new DictType
+{
+  [typeof(DoubleExpression)] = (e, sb) =>
+  {
+    var de = (DoubleExpression) e;
+    sb.Append(de.Value);
+  },
+  [typeof(AdditionExpression)] = (e, sb) =>
+  {
+    var ae = (AdditionExpression) e;
+    sb.Append("(");
+    Print(ae.Left, sb);
+    sb.Append("+");
+    Print(ae.Right, sb);
+    sb.Append(")");
+  }
+};
+
+public static void Print(this Expression e, StringBuilder sb)
+{
+  actions[e.GetType()](e, sb);
+}
+// sample use:
+myExpression.Print(sb)
+
+#+end_src
+* Dispatch
+
+#+begin_src csharp
+interface Stuff {
+  void call();
+}
+class Foo : Stuff {
+  void call() { func(this); }
+}
+class Bar : Stuff {
+  void call() { func(this); }
+}
+void func(Foo foo) {}
+void func(Bar bar) {}
+#+end_src
+* Double Dispatch, the Classic Visitor Way
+
+#+begin_quote
+1. Methods of the visitor are typically called
+   =Visit()=
+2. Methods implemented throughout the hierarchy are typically called
+   =Accept()=
+#+end_quote
+
+#+begin_src csharp
+using System;
+using System.Collections.Generic;
+using System.Text;
+using static System.Console;
+
+namespace DotNetDesignPatternDemos.Behavioral.Visitor.Classic
+{
+  public abstract class Expression
+  {
+    public abstract void Accept(IExpressionVisitor visitor);
+  }
+
+  public interface IExpressionVisitor
+  {
+    void Visit(DoubleExpression de);
+    void Visit(AdditionExpression ae);
+  }
+
+  public class DoubleExpression : Expression
+  {
+    public double Value;
+
+    public DoubleExpression(double value)
+    {
+      Value = value;
+    }
+
+    public override void Accept(IExpressionVisitor visitor)
+    {
+      visitor.Visit(this);
+    }
+  }
+
+  public class AdditionExpression : Expression
+  {
+    public Expression Left;
+    public Expression Right;
+
+    public AdditionExpression(Expression left, Expression right)
+    {
+      Left = left;
+      Right = right;
+    }
+
+    public override void Accept(IExpressionVisitor visitor)
+    {
+      visitor.Visit(this);
+    }
+  }
+
+  public class ExpressionPrinter : IExpressionVisitor
+  {
+    StringBuilder sb = new StringBuilder();
+
+    public void Visit(DoubleExpression de)
+    {
+      sb.Append(de.Value);
+    }
+
+    public void Visit(AdditionExpression ae)
+    {
+      sb.Append("(");
+      ae.Left.Accept(this);
+      sb.Append("+");
+      ae.Right.Accept(this);
+      sb.Append(")");
+    }
+
+    public override string ToString() => sb.ToString();
+  }
+
+  public class ExpressionCalculator : IExpressionVisitor
+  {
+    public double Result;
+
+    // what you really want is double Visit(...)
+
+    public void Visit(DoubleExpression de)
+    {
+      Result = de.Value;
+    }
+
+    public void Visit(AdditionExpression ae)
+    {
+      ae.Left.Accept(this);
+      var a = Result;
+      ae.Right.Accept(this);
+      var b = Result;
+      Result = a + b;
+    }
+  }
+
+  public static class ExtensionMethods
+  {
+  }
+
+  public class Demo
+  {
+    public static void Main()
+    {
+      var e = new AdditionExpression(
+        left: new DoubleExpression(1),
+        right: new AdditionExpression(
+          left: new DoubleExpression(2),
+          right: new DoubleExpression(3)));
+      var ep = new ExpressionPrinter();
+      ep.Visit(e);
+      WriteLine(ep.ToString());
+
+      var calc = new ExpressionCalculator();
+      calc.Visit(e);
+      WriteLine($"{ep} = {calc.Result}");
+    }
+  }
+}
+#+end_src
+* Acyclic Visitor
+** Acyclic Visitor Uml
+[[../assets/image_1630829851763_0.png]]
+** Code Sample
+#+begin_src csharp
+using System;
+using System.Collections.Generic;
+using System.Text;
+using static System.Console;
+
+namespace DotNetDesignPatternDemos.Behavioral.Visitor.Acyclic
+{
+  public interface IVisitor {} // marker interface
+
+  public interface IVisitor<TVisitable>
+  {
+    void Visit(TVisitable obj);
+  }
+
+  public abstract class Expression
+  {
+    public virtual void Accept(IVisitor visitor)
+    {
+      if (visitor is IVisitor<Expression> typed)
+        typed.Visit(this);
+    }
+  }
+
+  public class DoubleExpression : Expression
+  {
+    public double Value;
+
+    public DoubleExpression(double value)
+    {
+      Value = value;
+    }
+
+    public override void Accept(IVisitor visitor)
+    {
+      if (visitor is IVisitor<DoubleExpression> typed)
+        typed.Visit(this);
+    }
+  }
+
+  public class AdditionExpression : Expression
+  {
+    public Expression Left;
+    public Expression Right;
+
+    public AdditionExpression(Expression left, Expression right)
+    {
+      Left = left;
+      Right = right;
+    }
+
+    public override void Accept(IVisitor visitor)
+    {
+      if (visitor is IVisitor<AdditionExpression> typed)
+        typed.Visit(this);
+    }
+  }
+
+  public class ExpressionPrinter : IVisitor,
+    IVisitor<Expression>,
+    IVisitor<DoubleExpression>,
+    IVisitor<AdditionExpression>
+  {
+    StringBuilder sb = new StringBuilder();
+
+    public void Visit(DoubleExpression de)
+    {
+      sb.Append(de.Value);
+    }
+
+    public void Visit(AdditionExpression ae)
+    {
+      sb.Append("(");
+      ae.Left.Accept(this);
+      sb.Append("+");
+      ae.Right.Accept(this);
+      sb.Append(")");
+    }
+
+    public void Visit(Expression obj)
+    {
+      // default handler?
+    }
+
+    public override string ToString() => sb.ToString();
+  }
+
+  public class Demo
+  {
+    public static void Main()
+    {
+      var e = new AdditionExpression(
+        new DoubleExpression(1),
+        new AdditionExpression(
+          new DoubleExpression(2),
+          new DoubleExpression(3)));
+      var ep = new ExpressionPrinter();
+      ep.Visit(e);
+      WriteLine(ep.ToString());
+    }
+  }
+}
+#+end_src
+*
+*
+*
+*
+*
+*
+*
+*

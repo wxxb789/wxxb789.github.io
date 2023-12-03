@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: Introduced in C\# 11. Wh... (highlights)
+:author: [[TheCodeMan__ on Twitter]]
+:full-title: "Introduced in C\# 11. Wh..."
+:category: [[tweets]]
+:url: https://twitter.com/TheCodeMan__/status/1664202044628951040
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-02]]
+** Introduced in C# 11.
+
+When creating a new object instance, you can employ it to specify that a particular field or property must be initialized.
+
+This keyword is especially useful when used alongside nullable reference types as it helps in creating a more robust design.
+
+#Dotnet 
+
+![](https://pbs.twimg.com/media/FxhuS_lXwAIvunf.jpg) ([View Tweet](https://twitter.com/TheCodeMan__/status/1664202044628951040))
+** P.S. If you want to read such content and have insight into the complete code, make sure you are subscribed.     
+
+Join 3k+ engineers here: https://t.co/SCnnRzSw4R 
+
+![](https://pbs.twimg.com/media/Fxhu68XWwAE-t3m.jpg) ([View Tweet](https://twitter.com/TheCodeMan__/status/1664202047011315713))

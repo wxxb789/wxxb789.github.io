@@ -1,0 +1,10 @@
+*
+* [[links]]
+** [[https://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/][A Primer on Python Metaclasses | Pythonic Perambulations (jakevdp.github.io)]]
+** [[https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/][Understanding Python metaclasses | ionel's codelog (ionelmc.ro)]]
+*** attribute lookup
+:PROPERTIES:
+:id: 64c32ca6-3859-4af0-bf34-143cb1375cc2
+:END:
+** [[https://www.youtube.com/watch?v=sPiWg5jSoZI][(22) Python 3 Metaprogramming - YouTube]]
+**

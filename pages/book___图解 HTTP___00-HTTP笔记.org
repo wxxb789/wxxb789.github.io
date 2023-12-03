@@ -1,0 +1,54 @@
+00-HTTP
+#+caption: 各种协议与HTTP协议的关系
+[[../assets/20181228124325771_26100_1666114229107_0.png]]
+
+** 请求协议
+
+
+1. get请求协议:
+
+   #+begin_quote
+     请求首行:(请求方式 请求资源路径 协议及版本)
+
+     请求头信息:(头名称:值,而且请求头信息可以有多个)
+
+     空行
+   #+end_quote
+
+2. post请求协议:
+
+   #+begin_quote
+     请求首行:(请求方式 请求资源路径 协议及版本)
+
+     请求头信息:(头名称:值,而且请求头信息可以有多个)
+
+     空行
+
+     请求体(参数名=值&参数名=值)
+   #+end_quote
+*** GET
+
+内容 首行 请求头 空行 Host user-agent accept accept-language
+accept-encoding : gzip accept-charset connection: cookie
+*** POST
+
+首行 请求头 空行 请求体 Referer：来源 conten-type content-length
+** 响应协议
+
+
+#+begin_quote
+  响应首行:(协议及版本 响应状态码 响应状态码解释)
+
+  响应头信息:(响应头名:值,也可以有多个)
+
+  空行
+
+  响应正文(体):(就是服务器响应给浏览器的正文内容,一般就是html)
+#+end_quote
+*** 响应协议内容
+
+响应首行：协议状态码 响应头信息 server content-type content-length
+set-cooke date 空行 响应正文（响应正文）
+*** 状态码
+
+200 404 500 302 304 last-modified if-modified-since 405

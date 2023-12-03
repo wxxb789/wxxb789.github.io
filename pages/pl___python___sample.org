@@ -1,0 +1,15 @@
+* 1. sample
+
+判断连续出现3次和连续出现2次
+
+#+begin_example
+  def triple_double(num1, num2):
+      return any([i * 3 in str(num1) and i * 2 in str(num2) for i in '0123456789'])
+#+end_example
+
+正确版
+
+#+begin_example
+  def triple_double(num1, num2):
+      return any([i * 3 in str(num1) for i in '0123456789']) and any([i * 2 in str(num2) for i in '0123456789'])
+#+end_example

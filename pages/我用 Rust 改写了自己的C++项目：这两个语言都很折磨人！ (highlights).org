@@ -1,0 +1,13 @@
+:PROPERTIES:
+:title: 我用 Rust 改写了自己的C++项目：这两个语言都很折磨人！ (highlights)
+:author: [[Strager]]
+:full-title: "我用 Rust 改写了自己的C++项目：这两个语言都很折磨人！"
+:category: #articles
+:url: https://www.infoq.cn/article/gWoHTU1gilTd2jRvrSqf
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** 与 C++编译器相比，通过 rustup 发布的 Rust 工具链似乎已经是优化完成的结果。PGO 加上 BOLT 的组合只带来了不到 10%的性能提升。但有提升就是好的，所以在后续与 C++的竞争中我们会继续使用这个速度最快的工具链。 ([View Highlight](https://read.readwise.io/read/01gr2xhq4x705h3ts115varw1z))
+** 优化 C++构建
+
+在最初的 C++项目 quick-lint-js 中，我已经用常见的手段优化了编译时间，比如用 PCH、禁用异常和 RTTI、调整编译标志、删除非必要 #include、将代码从头中移出、外置模板实例等方法。但此外还有一些 C++编译器和链接器我没试过，在我们进入 C++和 Rust 的对比之前，先从这些里面挑出最适合我们的。 ([View Highlight](https://read.readwise.io/read/01gr2xjg4prjgcr0fh4m66sbwb))

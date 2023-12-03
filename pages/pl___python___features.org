@@ -1,0 +1,171 @@
+*
+* Comprehension
+List comprehension
+#+BEGIN_SRC python
+[exp for item in iterable if cond1]
+[<transformer> <iteration> <filter>]
+[i for i in iterable if cond1 if cond2]
+[cond1(i) if cond1 else cond2(i) for i in iterable]
+[[i * j for j in iterable1] for i in iterable2]
+#+END_SRC
+* Iterator
+All collections are iterable
+* Generator
+* Decorator
+** Function Decorator
+
+简单的装饰器
+#+BEGIN_SRC python
+
+# ex1
+def my_decorator(func):
+    def wrapper(*args, **kwargs):
+        print('wrapper of decorator')
+        func(*args, **kwargs)
+    return wrapper
+# ex2
+def repeat(num):
+    def my_decorator(func):
+        def wrapper(*args, **kwargs):
+            for i in range(num):
+                print('wrapper of decorator')
+                func(*args, **kwargs)
+        return wrapper
+    return my_decorator
+
+
+@repeat(4)
+def greet(message):
+    print(message)
+
+greet('hello world')
+
+greet.__name__
+## 输出
+'wrapper'
+
+help(greet)
+# 输出
+Help on function wrapper in module __main__:
+
+wrapper(*args, **kwargs)
+
+#+END_SRC
+
+保留原函数的 meta 信息。
+
+#+BEGIN_SRC python
+
+import functools
+
+def my_decorator(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        print('wrapper of decorator')
+        func(*args, **kwargs)
+    return wrapper
+
+@my_decorator
+def greet(message):
+    print(message)
+
+greet.__name__
+
+# 输出
+'greet'
+#+END_SRC
+** Class Decorator
+类装饰器依赖于 ~__call__()~ ，每当调用一个类的实例时， ~__call__()~ 就会被执行一次。
+#+BEGIN_SRC python
+class Count:
+    def __init__(self, func):
+        self.func = func
+        self.num_calls = 0
+
+    def __call__(self, *args, **kwargs):
+        self.num_calls += 1
+        print('num of calls is: {}'.format(self.num_calls))
+        return self.func(*args, **kwargs)
+
+@Count
+def example():
+    print("hello world")
+
+example()
+
+# 输出
+num of calls is: 1
+hello world
+
+example()
+
+# 输出
+num of calls is: 2
+hello world
+#+END_SRC
+** Nested Decorator
+#+BEGIN_SRC python
+
+@decorator1
+@decorator2
+@decorator3
+def func():
+    pass
+
+decorator1(decorator2(decorator3(func)))
+#+END_SRC
+** Example
+#+BEGIN_SRC python
+# auth
+import functools
+
+def authenticate(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        request = args[0]
+        if check_user_logged_in(request): # 如果用户处于登录状态
+            return func(*args, **kwargs) # 执行函数post_comment()
+        else:
+            raise Exception('Authentication failed')
+    return wrapper
+
+@authenticate
+def post_comment(request, ...)
+    pass
+ 
+# logging
+import time
+import functools
+
+def log_execution_time(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        start = time.perf_counter()
+        res = func(*args, **kwargs)
+        end = time.perf_counter()
+        print('{} took {} ms'.format(func.__name__, (end - start) * 1000))
+        return res
+    return wrapper
+
+@log_execution_time
+def calculate_similarity(items):
+    pass
+
+# validation
+import functools
+
+def validation_check(input):
+    @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        ... # 检查输入是否合法
+
+@validation_check
+def neural_network_training(param1, param2, ...):
+    pass
+
+# LRU
+
+@lru_cache
+def check(param1, param2, ...) # 检查用户设备类型，版本号等等
+    pass
+#+END_SRC

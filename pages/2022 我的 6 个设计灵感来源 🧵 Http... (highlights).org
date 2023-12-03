@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: 2022 我的 6 个设计灵感来源 🧵 Http... (highlights)
+:author: [[@zuozizhen on Twitter]]
+:full-title: "2022 我的 6 个设计灵感来源 🧵 Http..."
+:category: #tweets
+:url: https://twitter.com/zuozizhen/status/1612761286840053767
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-17]]
+** 2022 我的 6 个设计灵感来源 🧵 
+
+![](https://pbs.twimg.com/media/FmGUx6wacAQjPml.jpg) ([View Tweet](https://twitter.com/zuozizhen/status/1612761286840053767))
+** 1. DEX 周刊 by @dingyi：https://t.co/D5fIVwkDX6
+每周推送 1 篇设计资讯精选，内容非常前沿多元，丰富度和质量都很高 
+
+![](https://pbs.twimg.com/media/FmFXI6kaUAA1JwZ.jpg) ([View Tweet](https://twitter.com/zuozizhen/status/1612761291902287874))
+** 2. Sidebar by @SachaGreif：https://t.co/lOvydmKEUl
+每天推送 5 篇设计和技术相关的资讯，特点是前端和 CSS 相关内容占比更多一些，因为推送频率比较高，所以我一般只会挑着看感兴趣的内容 
+
+![](https://pbs.twimg.com/media/FmFW3M2aAAEvp5o.jpg) ([View Tweet](https://twitter.com/zuozizhen/status/1612761296675704838))
+** 3.abdz by @abduzeedo : https://t.co/1tsAS438Iw
+这个网站的内容偏视觉和品牌，我习惯在 RSS 阅读器中积攒了一批内容后，找一个闲暇的时候统一翻翻，就当作放松了 
+
+![](https://pbs.twimg.com/media/FmFWaedaMAA2yGZ.jpg) ([View Tweet](https://twitter.com/zuozizhen/status/1612761302228951040))
+** 4. Figma Community by @figma : https://t.co/fnDYvgGdSE
+如果有很明确的需求，很多时候 Figma Community 是我找东西的第一选择，因为可以直接拿来使用和研究，没事的时候翻翻，也常能看到让人眼前一亮的东西 
+
+![](https://pbs.twimg.com/media/FmGN8qqaYAAZ1Qc.jpg) ([View Tweet](https://twitter.com/zuozizhen/status/1612761307677356032))
+** 5. Pinterest by @Pinterest ：https://t.co/kAlpgvzARv
+如果是收集特定的设计灵感和参考，我会在 Pinterest 通过关键词搜索，可以找到大量的设计参考，质量也都不错 
+
+![](https://pbs.twimg.com/media/FmGQ3HLakAAIgvm.jpg) ([View Tweet](https://twitter.com/zuozizhen/status/1612761312081367042))
+** 6. Twitter：关注优秀的人
+我在 Twitter 上也得到了很多灵感和启发，这些都来自于我关注的优秀设计师和创造者们，比如 @jamesm，@pacocoursey，@rsms，@brian_lovin 等等，跟随他们的脚步让我学习到了很多 ([View Tweet](https://twitter.com/zuozizhen/status/1612761316443447301))
+** 欢迎大家分享推荐自己喜欢的资讯灵感来源，一起交流学习 🙌 ([View Tweet](https://twitter.com/zuozizhen/status/1612761319278784512))

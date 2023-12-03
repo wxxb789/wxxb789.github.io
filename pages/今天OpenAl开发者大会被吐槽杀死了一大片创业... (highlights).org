@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: 今天OpenAl开发者大会被吐槽杀死了一大片创业... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Danielw19410 on Twitter]]
+:full-title: "今天OpenAl开发者大会被吐槽杀死了一大片创业..."
+:category: [[tweets]]
+:url: https://twitter.com/Danielw19410/status/1721872082307572161
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-08]]
+** 📌
+** #+BEGIN_QUOTE
+** 今天OpenAl开发者大会被吐槽杀死了一大片创业公司，但其实今天发布会的内容在之前的公开和半公开分享中早有遇见，我选两个我认为最经典的片段来事后分析一下。  ([View Tweet](https://twitter.com/Danielw19410/status/1721872082307572161))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 其实这些内容几乎每一个科技媒体和KOL都有分享，只是很多人没有真正认同。
+一个是6月底Karpathy的分享阐明了agent才是未来，并且现有的技术路线其实OpenAl早就尝试过了，小半年过去技术的发展和发布会的重点果然在agent。https://t.co/DqnEbxXPo7  ([View Tweet](https://twitter.com/Danielw19410/status/1721872084539003196))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 第二个就更有意思了，在上个月sam在YC的小范围分享纪要中的第一点不要做“AI女友”几乎就要把今天的GPTS给说出来了，可惜有的创业者似乎没当回事。
+当然还有第三点是给“套壳”的警示，今天也被验证这种工作很难逃脱OpenAI的一次更新。
+https://t.co/sU7eMYA147  ([View Tweet](https://twitter.com/Danielw19410/status/1721872087282016350))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 当然我认为最非共识的其实是关于能源和智能的看法，因为现在的剧本几乎完全按照“数据就是新时代的石油”这个剧本来走的，现在AI的各种狂热在19世纪的石油领域已经完全发生过一次了，而当时各路人马的选择的关键节点的预判可以给现在很多的启发。要是大家有兴趣可以建个小范围的分享群。  ([View Tweet](https://twitter.com/Danielw19410/status/1721872089928597898))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 感谢看到这里,欢迎点赞本条Thread,并且：
+1.关注我<a href="https://twitter.com/Danielw19410">@Danielw19410</a>发现更多有料内容。
+2.转发（Retweet ）推文分享给他人。
+3.你有哪些独特的观点欢迎在评论区交流。  ([View Tweet](https://twitter.com/Danielw19410/status/1721872092638109987))
+** #+END_QUOTE

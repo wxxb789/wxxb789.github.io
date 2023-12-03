@@ -1,0 +1,81 @@
+:PROPERTIES:
+:title: Next.js 最新的 App Router 真... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[benn_huang on Twitter]]
+:full-title: "Next.js 最新的 App Router 真..."
+:category: [[tweets]]
+:url: https://twitter.com/benn_huang/status/1698545505830416546
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-09-05]]
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Next.js 最新的 App Router 真的是个大坑。我在周末项目里深度使用后，感觉简直是浪费时间。其实我对新技术是很包容的，但我认为 App Router 带来新特性和开发者代价完全不成正比。  ([View Tweet](https://twitter.com/benn_huang/status/1698545505830416546))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 我是一个后端工程师，写前端不多，可能下面很多前端概念的理解有误，希望得到指正。  ([View Tweet](https://twitter.com/benn_huang/status/1698545548805255382))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 在框架交互上，最新的 App Router 和原来的 Page Router（也就是 /pages 的方式）完全不一样，可以说是两套完全不同的开发框架。而且 App Router 的成熟度和原来的完全无法比。大家看到后面就能理解我说的话了。  ([View Tweet](https://twitter.com/benn_huang/status/1698545597836660798))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 首先，满仓库的 /xx/page.tsx 就不吐槽了，毕竟文件路径的改动已经是最容易接受的了。  ([View Tweet](https://twitter.com/benn_huang/status/1698545707953848641))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 另外无法理解的是 i18n 的噩梦。在我原来的印象里，我只要在 next.config.js 里配好 i18n 选项，就能基本完成多语言的路由。但我后来发现，App Router 的 i18n 完全是另外一套和原来根本不兼容的玩意儿。  ([View Tweet](https://twitter.com/benn_huang/status/1698545963030528304))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** App Router 的 i18n 文档特别简短，让人有种框架搞定一切的错觉，实际上完全相反，而是开发者必须自己搞定一切。App Router 可以说是没有提供任何 i18n 的路由功能，你必须通过 middleware.ts 自行实现。Next.js 只提供了一个非常简陋的 middleware 示例，看上去能工作，但最后发现它根本不靠谱。  ([View Tweet](https://twitter.com/benn_huang/status/1698555275333263491))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 如果你和我一样，即配置了 middleware，也配置了 next.config.js，那么你要浪费很多时间才能弄明白这两者根本无法一起工作。文档并没有讲清楚这一点。同时 <Link locale="" /> 这种原来最常见的语言切换导航，在 App Router 官方示例下也是无法工作的。  ([View Tweet](https://twitter.com/benn_huang/status/1698555306484301892))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 另一场无声的灾难。我在最后才发现，官方示例的 middleware 会把 sitemap.xml、robots.txt 重定向到 404，简直又是场 SEO 灾难。不得不吐槽一句，不是为了 SEO，我 SSR 个锤子。  ([View Tweet](https://twitter.com/benn_huang/status/1698555363854053628))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 更正： https://t.co/TaMRPHSAjk  ([View Tweet](https://twitter.com/benn_huang/status/1698615315868037332))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 更正：”use client” 标记的 client component 也可以使用 Next.js 原来的 SSR 机制。不过某些场合如果没有及时标记 Suspense，依然会导致整个页面在客户端渲染，比如我上面踩到的 useSearchParams 问题。
+这些奇怪的坑，对我这种偶尔才写次前端的人来说真的很心累……🥲🥲  ([View Tweet](https://twitter.com/benn_huang/status/1698728051390173356))
+** #+END_QUOTE

@@ -1,0 +1,4 @@
+#+tags: linux, Parallel Programming, pl/c,
+
+* [[https://book.douban.com/subject/6957175/][Is Parallel Programming Hard, And, If So, What Can You Do About It? (豆瓣) (douban.com)]]
+*

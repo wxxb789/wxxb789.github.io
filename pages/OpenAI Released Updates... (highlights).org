@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: OpenAI Released Updates... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[cwolferesearch on Twitter]]
+:full-title: "OpenAI Released Updates..."
+:category: [[tweets]]
+:url: https://twitter.com/cwolferesearch/status/1668694954581827598
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-09]]
+** 📌
+** #+BEGIN_QUOTE
+** OpenAI released updates to their API today. This includes support for calling functions with Chat endpoints, which is really cool. But, there are other components to this release that are even more important. Here's the top 3 things to know... 
+
+![](https://pbs.twimg.com/media/FyhhogYXoAAvAiS.jpg) ([View Tweet](https://twitter.com/cwolferesearch/status/1668694954581827598))
+** #+END_QUOTE

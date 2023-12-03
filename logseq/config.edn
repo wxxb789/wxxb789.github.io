@@ -132,7 +132,7 @@
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
- ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
+    :default-home {:page "Contents", :sidebar ["wxxb/blog"]}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -412,4 +412,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :publishing/all-pages-public? false}
+ :publishing/all-pages-public? true
+ :preferred-format :org
+ :journal/page-title-format "yyyy-MM-dd"}

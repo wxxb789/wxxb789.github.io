@@ -1,0 +1,20 @@
+#+title: book/CSharp函数式编程
+
+* [[https://book.douban.com/subject/30467523/][C#函数式编程 (豆瓣) (douban.com)]]
+*
+* [[book/csharp函数式编程/01-介绍函数式编程]]
+* [[book/csharp函数式编程/02-为什么函数式编程很重要]]
+* [[book/csharp函数式编程/03-设计函数签名和类型]]
+* [[book/csharp函数式编程/04-函数式编程的模式]]
+* [[book/csharp函数式编程/05-使用函数组合设计程序]]
+* [[book/csharp函数式编程/06-函数式错误处理]]
+* [[book/csharp函数式编程/07-用函数构造第一个程序]]
+* [[book/csharp函数式编程/08-有效的处理多参函数]]
+* [[book/csharp函数式编程/09-关于数据的函数式思考]]
+* [[book/csharp函数式编程/10-事件溯源-持久化的函数式方法]]
+* [[book/csharp函数式编程/11-惰性计算，延续以及单子组合之美]]
+* [[book/csharp函数式编程/12-有状态的程序和计算]]
+* [[book/csharp函数式编程/13-使用异步计算]]
+* [[book/csharp函数式编程/14-数据流和Reactive Extension]]
+* [[book/csharp函数式编程/15-并发消息传递]]
+*

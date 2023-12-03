@@ -1,0 +1,20 @@
+
+
+* 开发前的准备
+
+
+1. 将类库拷贝到WEB-INF/lib目录下
+
+   1. 类库位置：[[file:///G:/JAVA游戏/4.框架/4.Spring_Mvc/SpringMVC3.2-Libraries][SpringMVC3.2-Libraries]]
+
+2. 在WebRoot下创建静态资源目录
+
+   1. css
+   2. js
+   3. images
+
+3. 在WebRoot/WEB-INF目录下创建如下目录:
+
+   1. config ：存储创建表现层IoC容器的配置文件springmvc-config.xml
+   2. jsp：存储jsp页面
+   3. resources：存储消息资源文件

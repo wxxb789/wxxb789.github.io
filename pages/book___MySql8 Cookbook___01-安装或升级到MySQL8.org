@@ -1,0 +1,179 @@
+* [01]安装或升级到MySQL8
+
+** 安装
+
+#+begin_src shell
+  # 使用yum仓库
+  # 查看CentOS版本
+  cat /etc/redhat-release
+  # 安装
+  sudo yum localinstall -y mysql57-community-release-el7-11.noarch.rpm
+  # 通过url安装
+  sudo rpm -Uvh "url...rpm"
+  # 验证安装
+  yum repolist enabled | grep 'mysql.*-community.*'
+  # 禁用mysql57-community并启用mysql80-community的repo
+  sudo yum install yum-utils.noarch -y
+  sudo yum-config-manager --disable mysql57-community
+  sudo yum-config-manager --enable mysql80-community
+  # 确认mysql80-community已启用
+  sudo yum repolist all | grep mysql8
+  # 安装mysql8
+  sudo yum install -y mysql-community-server
+  # 检查已安装
+  rpm -qa | grep -i 'mysql.*8.*'
+
+  # 使用apt仓库
+  # 下载deb
+  wget "url...deb"
+  # 安装deb
+  sudo dpkg -i mysql-apt-config_all.deb
+  # 如果项更改发行版，使用下默的命令
+  sudo dpkg-reconfigure mysql-apt-config
+  # 安装mysql
+  sudo apt-get install -y mysql-community-server
+  # 验证包，ii表示软件包已经安装
+  dpkg -l | grep -i mysql
+#+end_src
+
+** 使用RPM包或DEB包安装
+
+#+begin_src shell
+  # yum 无法解决依赖问题
+  sudo rpm -i mysql-community-{server-8,client,common,libs}*
+  # 验证安装
+  rpm -qa | grep -i mysql-community
+
+  # DEB安装
+  # 首先安装依赖
+  sudo apt-get install -y libaio1
+  # 升级libstdc++6
+  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+  sudo apt-get update
+  sudo apt-get upgrade -y libstdc++6
+  # 安装MySQL server
+  sudo dpkg-preconfigure mysql-community-server_*.deb
+  sudo dpkg -i mysql-{common,community-client-core,commuinity-client,client,community-server-core,community-server,server}_*.deb
+  # 安装共享库
+  sudo dpkg -i libmysqlclient21_8.0.11-dmr-1ubuntu16.10_amd64.deb
+  # 验证安装
+  dpkg -l | grep -i mysql
+#+end_src
+
+** 二进制安装Mysql8
+
+#+begin_src shell
+  # install libaio library
+  # add mysql group and mysql user
+  sudo groupadd mysqll
+  sudo useradd -r -g mysql -s /bin/false mysql
+  # 解压二进制文件到 /usr/local
+  # 制作符号链接
+  sudo ln -s mysql-8.0.3-rc-linux-glibc2.12-x86_64 mysql
+  # 初始化mysql，会生成一个临时密码
+  sudo bin/mysqld --initiallize --user=mysql
+  # 设置SSL的RSA
+  sudo bin/mysql_ssl_rsa_setup
+  # 更改二进制文件所有权为root
+  sudo chown -R root .
+  sudo chown -R mysql data mysql-files
+  # 复制启动脚本到init.d中
+  sudo cp support-files/mysql.server /etc/init.d/mysql
+  # 设置环境变量
+  export PATH=$PATH:/usr/local/mysql/bin
+#+end_src
+
+** 启动或停止MySQL8的运行
+
+*** 启动MySQL
+
+#+begin_src shell
+  # service
+  sudo service mysql start
+  # init.d
+  sudo /etc/init.d/mysql start
+  # systemd
+  sudo systemctl start mysqld
+  # mysqld_safe
+  sudo mysqld_safe --user=mysql &
+#+end_src
+
+*** 启动后的状态和要做的操作
+
+
+1. 服务器已初始化
+2. SSL证书和密钥文件在数据目录中生成
+3. Validate_password插件已安装并启用
+4. 创建超级用户=root @ localhost=，查看临时密码=sudo grep "temporary password" /var/log/mysqld.log=
+
+#+begin_src shell
+  # 使用临时密码链接mysql
+  mysql -u root -ppassword
+  # 设置密码
+  ALTER USER 'root'@'localhost' IDENTIFIED BY 'new password';
+#+end_src
+
+*** 停止MySQL
+
+#+begin_src shell
+  # service
+  sudo service mysqld stop
+  # init.d
+  sudo /etc/init.d/mysql stop
+  # systemd
+  sudo systemctl stop mysqld
+  # mysqladmin
+  mysqladmin -u root -p shutdown
+#+end_src
+
+** 检查MySQL服务器状态
+
+#+begin_src shell
+  sudo systemctl status mysqld
+  sudo /etc/init.d/mysql status
+#+end_src
+
+** 卸载MySQL8
+
+//todo
+
+** 使用systemd管理MySQL服务器
+
+*** 配置systemd
+
+
+1. 创建本地化的systemd配置文件=sudo mkdir -pv /etc/systemd/system/mysqld.service.d=
+2. 编辑conf文件=sodo vim /etc/systemd/system/mysqld.service.d/override.conf=
+3. 输入配置信息
+4. 重新加载systemd：=sudo systemctl daemon-reload=
+5. 临时更改可以不用修改conf文件，例如：=sudo systemctl set-environment MYSQLD_OPTS="--general_log=1"=或=sudo systemctl unset-environment MYSQLD_OPTS=
+6. 修改systemd环境后，重启服务器使更改生效=sudo systemctl unmask mysql.service=
+7. 重启mysql：=sudo systemctl restart mysqld=或在Debian平台上用=sudo systemctl restart mysql=
+
+#+begin_example
+  [Service]
+  LimitNOFILE=max_open_files (ex:102400)
+  PIDFile=/path/to/pid/file (ex:/var/lib/mysql/mysql.pid)
+  Nice=nice_level (ex:-10)
+  Environment="LD_PRELOAD=/path/to/malloc/library"
+  Environment="TZ=time_zone_setting"
+#+end_example
+
+** 从MySQL降级
+
+//todo
+
+** 升级到MySQL8
+
+//todo
+
+** 安装MySQL工具集
+
+*** 安装工具集
+
+#+begin_src shell
+  wget url
+  sudo yum localinstall -y mysql-utilities-*.noarch.rpm
+  sudo dpkg -i mysql-utilities_*all.deb
+  sudo apt-get install -f
+#+end_src

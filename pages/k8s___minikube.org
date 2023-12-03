@@ -1,0 +1,93 @@
+#+title: k8s/minikube
+
+* [[https://minikube.sigs.k8s.io/docs/start/][minikube start | minikube (k8s.io)]]
+* #+BEGIN_SRC bash
+# 启动集群
+minikube start
+# 查看节点。kubectl 是一个用来跟 K8S 集群进行交互的命令行工具
+kubectl get node
+# 停止集群
+minikube stop
+# 清空集群
+minikube delete --all
+# 安装集群可视化 Web UI 控制台
+minikube dashboard
+
+# 每个节点分别设置对应主机名
+hostnamectl set-hostname master
+hostnamectl set-hostname node1
+hostnamectl set-hostname node2
+
+# 所有节点都修改 hosts
+vim /etc/hosts
+172.16.32.2 node1
+172.16.32.6 node2
+172.16.0.4 master
+
+# 所有节点关闭 SELinux
+setenforce 0
+sed -i --follow-symlinks 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/sysconfig/selinux
+
+# 所有节点确保防火墙关闭
+systemctl stop firewalld
+systemctl disable firewalld
+
+# 添加 k8s 安装源
+cat <<EOF > kubernetes.repo
+[kubernetes]
+name=Kubernetes
+baseurl=https://mirrors.aliyun.com/kubernetes/yum/repos/kubernetes-el7-x86_64
+enabled=1
+gpgcheck=0
+repo_gpgcheck=0
+gpgkey=https://mirrors.aliyun.com/kubernetes/yum/doc/yum-key.gpg https://mirrors.aliyun.com/kubernetes/yum/doc/rpm-package-key.gpg
+EOF
+mv kubernetes.repo /etc/yum.repos.d/
+# 安装所需组件（所有节点）
+yum install -y kubelet-1.22.4 kubectl-1.22.4 kubeadm-1.22.4 docker-ce
+# 添加 Docker 安装源
+yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+
+# auto start 
+systemctl enable kubelet
+systemctl start kubelet
+systemctl enable docker
+systemctl start docker
+
+# kubernetes 官方推荐 docker 等使用 systemd 作为 cgroupdriver，否则 kubelet 启动不了
+cat <<EOF > daemon.json
+{
+  "exec-opts": ["native.cgroupdriver=systemd"],
+  "registry-mirrors": ["https://ud6340vz.mirror.aliyuncs.com"]
+}
+EOF
+mv daemon.json /etc/docker/
+
+# 重启生效
+systemctl daemon-reload
+systemctl restart docker
+
+# 用 kubeadm 初始化集群（仅在主节点跑）
+# 初始化集群控制台 Control plane
+# 失败了可以用 kubeadm reset 重置
+kubeadm init --image-repository=registry.aliyuncs.com/google_containers
+
+# 记得把 kubeadm join xxx 保存起来
+# 忘记了重新获取：kubeadm token create --print-join-command
+
+# 复制授权文件，以便 kubectl 可以有权限访问集群
+# 如果你其他节点需要访问集群，需要从主节点复制这个文件过去其他节点
+mkdir -p $HOME/.kube
+cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+chown $(id -u):$(id -g) $HOME/.kube/config
+
+# 在其他机器上创建 ~/.kube/config 文件也能通过 kubectl 访问到集群
+
+# 把工作节点加入集群（只在工作节点跑）
+kubeadm join 172.16.32.10:6443 --token xxx --discovery-token-ca-cert-hash xxx
+
+# install network plugin
+# 很有可能国内网络访问不到这个资源，你可以网上找找国内的源安装 flannel
+kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
+
+#+END_SRC

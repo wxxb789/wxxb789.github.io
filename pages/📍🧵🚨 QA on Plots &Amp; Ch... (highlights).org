@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: 📍🧵🚨 QA on Plots &Amp; Ch... (highlights)
+:author: [[@hardy_qr on Twitter]]
+:full-title: "📍🧵🚨 QA on Plots &Amp; Ch..."
+:category: #tweets
+:url: https://twitter.com/hardy_qr/status/1605480019983142913
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-23]]
+** 📍🧵🚨 QA on plots & charts is a complex task requiring sophisticated reasoning - our visual language models struggle with this.
+
+LLMs are super strong reasoners - but they only work for text.
+
+What do we do? We translate plots & charts to text so LLM can understand! 
+
+![](https://pbs.twimg.com/media/FkfL8ySXEAA6sQK.jpg) ([View Tweet](https://twitter.com/hardy_qr/status/1605480019983142913))
+** We propose DePlot📊, one-shot visual language reasoning by (1) translating a plot image to a linearized table and then (2) using LLMs to answer QA queries via prompting techniques such as chain of thought and self-consistency (other table reasoning methods should work as well). ([View Tweet](https://twitter.com/hardy_qr/status/1605480023036596224))
+** On ChartQA human queries, DePlot+LLM outperforms SOTA (fine-tuned with >28k data points) by 24.0% with just one-shot supervision! ([View Tweet](https://twitter.com/hardy_qr/status/1605480024772988928))
+** DePlot can do cool things, like, given a screenshot of the figure from your paper, telling you by how much your approach beats the second strongest model on average, step by step 😊 (see example in the pic). 
+
+Check out our arxiv: https://t.co/x03dcjahMO ([View Tweet](https://twitter.com/hardy_qr/status/1605480026442383360))

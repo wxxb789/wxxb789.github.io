@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: How to Make Your EF Quer... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[TheCodeMan__ on Twitter]]
+:full-title: "How to Make Your EF Quer..."
+:category: [[tweets]]
+:url: https://twitter.com/TheCodeMan__/status/1683762114882686977
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-26]]
+** 📌
+** #+BEGIN_QUOTE
+** How to make your EF queries faster? 🚀
+
+Compiled Queries allow you to pre-compile a query into a reusable delegate, which can then be invoked multiple times without the overhead of query parsing and compilation each time.
+
+#Dotnet 
+
+![](https://pbs.twimg.com/media/F13saJwXoAAQoEI.jpg)  ([View Tweet](https://twitter.com/TheCodeMan__/status/1683762114882686977))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** P.S. If you like posts like this, you should consider subscribing to my free Weekly Newsletter.
+
+Join 4400+ engineers: https://t.co/9p4ri3lNoR 
+
+![](https://pbs.twimg.com/media/F13ssH_WIAA6NcS.jpg)  ([View Tweet](https://twitter.com/TheCodeMan__/status/1683762117189533696))
+** #+END_QUOTE

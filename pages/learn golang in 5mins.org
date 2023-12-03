@@ -1,0 +1,197 @@
+* Book: Get Programming with Go
+* 概念
+** 特性
+*** 不需要分号结束 statement
+*** comment: =//= =/* */=
+*** 常量，变量：=const=, =var=
+*** ~:=~ 声明并赋值
+*** 函数 
+
+- With =defer= we can run some code every time a function finishes.
+#+BEGIN_SRC go
+func SumMultiple(x, y int) (sum, prod int) {
+    return x + y, x * y // 返回两个值
+}
+// 和其他编程语言不同的是，go支持有名称的变量返回值。
+// 声明返回值时带上一个名字允许我们在函数内的不同位置
+// 只用写return一个词就能将函数内指定名称的变量返回
+func NamedReturns(x, y int) (z int) {
+    z = x * y
+    return // z is implicit here, because we named it earlier.
+}
+// 闭包函数
+laggerThan100 := func() bool {
+    return x > 100 // x是上面声明的变量引用
+}
+// 满足下列条件时，也可以作为参数传递给其他函数：
+//   a) 定义的函数被立即调用
+//   b) 函数返回值符合调用者对类型的要求
+fmt.Println("两数相加乘二: ",
+    func(a, b int) int {
+        return (a + b) * 2
+    }(10, 2)) // Called with args 10 and 2
+
+// defer
+func Defer() (ok bool) {
+    // defer表达式在函数返回的前一刻执行
+    defer fmt.Println("defer表达式执行顺序为后进先出（LIFO）")
+    defer fmt.Println("\n这句话比上句话先输出，因为")
+    // 关于defer的用法，例如用defer关闭一个文件，
+    // 就可以让关闭操作与打开操作的代码更近一些
+    return true
+}
+#+END_SRC
+*** =tpye= and Data Structure
+**** =Array= 固定大小
+#+BEGIN_SRC go
+array3 := [...]int{3, 1, 4}     // 有3个int变量的数组，同时进行了初始化
+
+multiDimArr := [2][3]int{
+    {1, 2, 3},
+    {4, 5, 6},
+}  // -> [[1 2 3] [4 5 6]]
+#+END_SRC
+**** =Slice= 动态大小
+#+BEGIN_SRC go
+slice := []int{4, 5, 9}     // 没有省略号
+slice4 := make([]int, 4)    // 分配4个int大小的内存并初始化为0
+var d2 [][]float64          // 这里只是声明，并未分配内存空间
+bs := []byte("a slice")     // 进行类型转换
+
+s := []int{1, 2, 3}     // 这是个长度3的slice
+s = append(s, 4, 5, 6)  // 再加仨元素，长度变为6了
+fmt.Println(s) // 更新后的数组是 [1 2 3 4 5 6]
+s = append(s, []int{7, 8, 9}...) // 第二个参数是一个slice常量
+#+END_SRC
+**** =map=
+
+#+BEGIN_SRC go
+// Map是动态可增长关联数组，和其他语言中的hash或者字典相似。
+map0 := map[string]int{"three": 3, "four": 4}
+map0["one"] = 1
+#+END_SRC
+*** =memory= and =pointer=
+
+- =*=: get value from pointer
+- =&=: get address from variable
+
+#+BEGIN_SRC go
+p, q := Memory()       // 声明p,q为int型变量的指针
+fmt.Println(*p, *q)         // * 取值
+
+// Go全面支持垃圾回收。Go有指针，但是不支持指针运算。
+// 你会因为空指针而犯错，但是不会因为增加指针而犯错。
+func Memory() (p, q *int) {
+    // 返回int型变量指针p和q
+    p = new(int)    // 内置函数new分配内存
+    // 自动将分配的int赋值0，p不再是空的了。
+    s := make([]int, 20)    // 给20个int变量分配一块内存
+    s[3] = 7                // 赋值
+    r := -2                 // 声明另一个局部变量
+    return &s[3], &r        // & 取地址
+}
+#+END_SRC
+**** =structs=
+#+BEGIN_SRC go
+// Define struct
+type Coffee struct {
+	name string
+	country string
+	variety string
+}
+#+END_SRC
+**** =interface=
+#+BEGIN_SRC go
+// 定义Stringer为一个接口类型，有一个方法String
+type Stringer interface {
+    String() string
+}
+
+// 定义pair类型的方法，实现Stringer接口。
+func (p pair) String() string { // p被叫做“接收器”
+    // Sprintf是fmt包中的另一个公有函数。
+    // 用 . 调用p中的元素。
+    return fmt.Sprintf("(%d, %d)", p.x, p.y)
+}
+#+END_SRC
+*** Control Flow
+**** =if=, =switch=
+**** =for-loops=
+#+BEGIN_SRC go
+// 用range可以枚举 array、slice、string、map、channel等不同类型
+// 对于channel，range返回一个值，
+// array、slice、string、map等其他类型返回一对儿
+for key, value := range map[string]int{"one": 1, "two": 2, "three": 3} {
+    // 打印map中的每一个键值对
+    fmt.Printf("key：%s, value：%d\n", key, value)
+}
+#+END_SRC
+*** =error=
+#+BEGIN_SRC go
+func learnErrorHandling() {
+    // ", ok"用来判断有没有正常工作
+    m := map[int]string{3: "three", 4: "four"}
+    if x, ok := m[1]; !ok { // ok 为false，因为m中没有1
+        fmt.Println("别找了真没有")
+    } else {
+        fmt.Print(x) // 如果x在map中的话，x就是那个值喽。
+    }
+    // 错误可不只是ok，它还可以给出关于问题的更多细节。
+    if _, err := strconv.Atoi("non-int"); err != nil { // _ discards value
+        // 输出"strconv.ParseInt: parsing "non-int": invalid syntax"
+        fmt.Println(err)
+    }
+}
+#+END_SRC
+*** =channel=
+#+BEGIN_SRC go
+func inc(i int, c chan int) {
+    c <- i + 1 // <-把右边的发送到左边的channel。
+}
+
+// 我们将用inc函数来并发地增加一些数字。
+func Concurrency() {
+    // 用make来声明一个slice，make会分配和初始化slice，map和channel。
+    c := make(chan int)
+    // 用go关键字开始三个并发的goroutine，如果机器支持的话，还可能是并行执行。
+    // 三个都被发送到同一个channel。
+    go inc(0, c) // go is a statement that starts a new goroutine.
+    go inc(10, c)
+    go inc(-805, c)
+    // 从channel中读取结果并打印。
+    // 打印出什么东西是不可预知的。
+    fmt.Println(<-c, <-c, <-c) // channel在右边的时候，<-是读操作。
+
+    cs := make(chan string)       // 操作string的channel
+    cc := make(chan chan string)  // 操作channel的channel
+    go func() { c <- 84 }()       // 开始一个goroutine来发送一个新的数字
+    go func() { cs <- "wordy" }() // 发送给cs
+    // Select类似于switch，但是每个case包括一个channel操作。
+    // 它随机选择一个准备好通讯的case。
+    select {
+    case i := <-c: // 从channel接收的值可以赋给其他变量
+        fmt.Println("这是……", i)
+    case <-cs: // 或者直接丢弃
+        fmt.Println("这是个字符串！")
+    case <-cc: // 空的，还没作好通讯的准备
+        fmt.Println("别瞎想")
+    }
+    // 上面c或者cs的值被取到，其中一个goroutine结束，另外一个一直阻塞。
+}
+
+
+#+END_SRC
+** 结构
+go 程序总是以 main package 的 main 方法作为程序入口。
+1. =package=
+2. =improt=
+3. =main()=
+* std input/output
+* =iota=
+* =遮蔽变量=
+* =bare return=
+* =interface {}=
+* =方法值=
+* =类型断言=， =类型判断=
+* =双向通道=
+* 特殊函数：=init= =main=

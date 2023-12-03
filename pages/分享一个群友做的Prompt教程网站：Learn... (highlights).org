@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: 分享一个群友做的Prompt教程网站：Learn... (highlights)
+:author: [[cryptocake777 on Twitter]]
+:full-title: "分享一个群友做的Prompt教程网站：Learn..."
+:category: [[tweets]]
+:url: https://twitter.com/cryptocake777/status/1657576636043378688
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-15]]
+** 分享一个群友做的Prompt教程网站：Learn Prompt
+
+ https://t.co/y60saTE4SX
+
+ 这是由两个nlp的硕士在读生共同建立的开源教程网站，里面包含了ChatGPT、Runway、Midjourney，Stable Diffusion的教程内容。
+
+我试用了一下，里面内容非常全面详细，还是喂饭级别的教程，大家有时间去试试看，支持一下作者 
+
+![](https://pbs.twimg.com/media/FwDk8vOaQAE7fje.jpg) ([View Tweet](https://twitter.com/cryptocake777/status/1657576636043378688))
+** 听作者说后期还会更新3D和ai voice的教程内容，而且网站将会一直开源免费，让中文社区的AI爱好者们更方便接触和学习AIGC的知识和技巧。
+
+ 有需要合作的也可以找我来联系他们 
+
+![](https://pbs.twimg.com/media/FwDlDKwaEAIGlHU.jpg) ([View Tweet](https://twitter.com/cryptocake777/status/1657576638790656000))

@@ -1,0 +1,45 @@
+
+
+* 多对多关联关系
+
+
+1. 拆分成两个一对多
+2. 多对多关联关系涉及3张表
+
+   1. 2张数据表
+   2. 1张关系对照表
+
+#+begin_example
+    <resultMap id="BaseResultMap" type="domain.Course" >
+      <id column="id" property="id" jdbcType="INTEGER" />
+      <result column="name" property="name" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <!--resultMap type="Course"表明返回值类型-->
+    <resultMap type="Course" id="CourseResultMap" extends="BaseResultMap">
+          <!--为避免字段混淆，重写继承自BaseResultMap中的字段-->
+          <id property="id" column="couId" jdbcType="INTEGER"/>
+          <result property="name" column="couName"  jdbcType="VARCHAR" />
+          <!--collection ofType="Student"表明集合的泛型-->
+          <collection property="list" javaType="list" ofType="Student">
+              <id column="stuId" property="id" jdbcType="INTEGER" />
+              <result column="stuName" property="name" jdbcType="VARCHAR" />
+              <result column="cardId" property="cardid" jdbcType="VARCHAR" />
+              <result column="age" property="age" jdbcType="INTEGER" />
+          </collection>
+    </resultMap>
+
+    <select id="selectAll"  resultMap="CourseResultMap" >
+      select s.id as stuId,
+              s.name as stuName,
+              s.cardid,
+              s.age,
+              c.id as couId,
+              c.name as couName
+      from course c
+      left join student_course sc
+      on c.id = sc.course_id
+      left join student s
+      on sc.stu_id = s.id
+    </select>
+#+end_example

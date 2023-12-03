@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 新的 ChatGPT 教程 吴恩达和 Open... (highlights)
+:author: [[nishuang on Twitter]]
+:full-title: "新的 ChatGPT 教程 吴恩达和 Open..."
+:category: [[tweets]]
+:url: https://twitter.com/nishuang/status/1664063277389815808
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** 新的 ChatGPT 教程
+
+吴恩达和 OpenAI 浓眉大眼的姑娘 Isa 又回来了，这次教你怎么用 ChatGPT API 完成复杂功能：
+
+- 怎么使用指令串/序列，让后面的指令和前面完成的指令互动
+- 用 python 和完成的指令、新指令互动
+- 用上面技巧搭一个使用 ChatGPT 机器人的客服系统
+
+https://t.co/nnYO5FQbao… ([View Tweet](https://twitter.com/nishuang/status/1664063277389815808))

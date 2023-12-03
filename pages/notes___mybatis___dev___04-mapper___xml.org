@@ -1,0 +1,74 @@
+
+
+* [04]mapper.xml
+
+* 解读针对dao接口方法的mapper.xml文件
+
+
+1. mapper.xml文件名需与定义Dao接口的文件名保持一致
+
+#+begin_example
+  <?xml version="1.0" encoding="UTF-8"?>
+#+end_example
+
+2. mapper.xml文件的约束定义声明
+
+#+begin_example
+  <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+#+end_example
+
+3. namespace指明mapper.xml文件的位置
+
+#+begin_example
+  <mapper namespace="dao.StudentMapper">
+#+end_example
+
+4. 增：id指明实施添加操作的方法名，parameterType指明该方法的参数类型
+
+#+begin_example
+      <!--此处#代表javabean的属性  -->
+      <insert id="insert" parameterType="Student">
+          insert into st_student values(default,#{stuName},#{sex},#{birthDate},#{address})
+      </insert>
+#+end_example
+
+5. 删
+
+#+begin_example
+      <!--此处#代表参数  -->
+      <delete id="deleteById" parameterType="int">
+          delete from st_student where id = #{id}
+      </delete>
+#+end_example
+
+6. 改
+
+#+begin_example
+      <update id="update" parameterType="Student">
+          update st_student
+          set stuName=#{stuName},
+              sex=#{sex},
+              birthDate=#{birthDate},
+              address=#{address}
+          where id =#{id}
+      </update>
+#+end_example
+
+7. 单查：对于存在返回值的方法，使用resultType指明返回值类型
+
+#+begin_example
+      <select id="findById" parameterType="int" resultType="Student">
+          select * from st_student where id =#{id}
+      </select>
+#+end_example
+
+8. 全查：使用泛型替代list集合，指明返回值类型
+
+#+begin_example
+      <!--使用泛型替代list集合的表示方式  -->
+      <select id="findAll" resultType="Student">
+          select * from st_student
+      </select>
+  </mapper>
+#+end_example

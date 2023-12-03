@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: 去年拜读了 George Gilder 的那本成... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "去年拜读了 George Gilder 的那本成..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1691339747287855104
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-16]]
+** 📌
+** #+BEGIN_QUOTE
+** 去年拜读了 George Gilder 的那本成名大作《Knowledge and Power》，做为在上世纪九十年代初就开始引领数字经济思潮的自由派经济学家，今年出版了新书《后资本主义生活：财富的意义，未来的经济，以及货币的时间理论》，今天刚好听了万维钢老师的推荐！
+
+Gilder 的明确观点：“走向封闭的趋势是人们的认知错误导致的，信息化和走向自由这个趋势才是对的”。他在信息经济学（The Information Theory of Economics）中提出了四个关键命题：
+
+\- 财富就是知识（Wealth is knowledge）
+- 增长就是学习（Growth is learning）
+- 信息就是意外（Information is surprise）
+- 金钱就是时间（Money is time）
+
+这本书中还特意拿中国大炼芯片做了反面教材！Gilder 说这种大搞基建、不差钱、广撒网的做法不成功的根本原因在于，企业家干的事儿不只是试错，你得真有思想，才谈得上冒险 —— 而有用的想象力不是从天上掉下来的。
+
+换句话说你得先有很多大人物，才能有硅谷。如果你这个环境养育的都是做题家和套利者，砸再多钱也砸不出来伟大的公司。
+
+从信息经济学的角度来看，最有价值的创业公司都是能制造意外的公司，它们做的是“从0到1”的事儿，你说从1到N也能赚钱，但那赚的都是辛苦钱 。。
+
+这两周计划抽时间看完这本新书的英文版，再给大家分享更多感悟😌  ([View Tweet](https://twitter.com/indigo11/status/1691339747287855104))
+** #+END_QUOTE

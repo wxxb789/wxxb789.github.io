@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 没想到我这个菜鸡写的应用也能在github搞到1... (highlights)
+:author: [[op7418 on Twitter]]
+:full-title: "没想到我这个菜鸡写的应用也能在github搞到1..."
+:category: #tweets
+:url: https://twitter.com/op7418/status/1646118470642458625
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-12]]
+** 没想到我这个菜鸡写的应用也能在github搞到100个star。本周的一周用GPT-4做一个产品不会开新坑，会给这个扩展修复一些体验问题加一些新功能，下面是一些ToDo。
+
+🛠体验优化
+鼠标右键菜单增加保存功能
+增加自动解析页面ID，现在输入页面链接就可以了
+通知会包含Notion页面链接方便查看… 
+
+![](https://pbs.twimg.com/media/FtgvkDlacAIJoZU.jpg) ([View Tweet](https://twitter.com/op7418/status/1646118470642458625))
+** 浏览器插件的介绍和下载在这里：https://t.co/ILH2lmEuGJ ([View Tweet](https://twitter.com/op7418/status/1646118701454995461))

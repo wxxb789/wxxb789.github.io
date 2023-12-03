@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: VSCode 1.74 (2022-11) 更新日志 (highlights)
+:author: [[rectcircle96@gmail.com (Rectcircle)]]
+:full-title: "VSCode 1.74 (2022-11) 更新日志"
+:category: #articles
+:url: https://www.rectcircle.cn/series/vscode/changelog/v1_74_2022-11/
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** Remote Tunnels 已作为一个预览特性添加 VSCode 稳定版中。
+
+•   具体操作为：在个人电脑中，下载安装 [VSCode 桌面版](https://code.visualstudio.com)。点击左下角账户图标，点击打开远程隧道访问，按照提示操作即可。
+•   命令行方式：
+    •   运行 `code tunnel --accept-server-license-terms`，或者通过。
+    •   打开 [https://github.com/login/device，输入命令行输出的](https://github.com/login/device，输入命令行输出的) 8 位设备码，进行授权。
+    •   授权后，在浏览器中打开 `https://vscode.dev/tunnel/ecstatic-bunting/打开的目录`（终端中会输出）。
+    •   后面即可通过任意设备通过浏览器，访问这台个人电脑的 VSCode Server（类似远程多面）。
+•   除了通过浏览器的 vscode.dev 访问外，还可以通过 [Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) 扩展，使用 VSCode 桌面客户端访问。 ([View Highlight](https://read.readwise.io/read/01gmat50r1rgtgc53trte8cdgj))

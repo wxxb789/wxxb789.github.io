@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: Just Finished a First Re... (highlights)
+:author: [[BenTheEgg on Twitter]]
+:full-title: "Just Finished a First Re..."
+:category: #tweets
+:url: https://twitter.com/BenTheEgg/status/1648798713819611147
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-21]]
+** Just finished a first read of Dino v2, feels really significant https://t.co/XgJFmvbEXs I read a fair bit of papers, first one for a while which felt so insightful despite not being about a new arch per say 1/N ([View Tweet](https://twitter.com/BenTheEgg/status/1648798713819611147))
+** It feels like a paper which covers the whole loop to start with: a lot of context around the SSL SOTA, picking the good ideas where they are, detailed explanations on the data pipeline, many insightful ablations, extensive results and plenty of take aways and surprises 2/N ([View Tweet](https://twitter.com/BenTheEgg/status/1648799212782452737))
+** I forgot in the above, but the details on engineering are just great also. Hero number: 2x as fast and 3x less memory as comparable SSL methods, when proper engineering is included. Pretty impactful, and good engineering compounds (reusable),  good omen for FAIR 3/N ([View Tweet](https://twitter.com/BenTheEgg/status/1648799976309366784))
+** Data: intro a new (private) dataset, LVD (142M at this point in time, probably long gone already), answer to JFT (google) ? Quality and entropy over quantity, feels like SSL is evolving (if you *can* digest humongous amount of data because SSL, doesn’t mean you *have to*) 4/N ([View Tweet](https://twitter.com/BenTheEgg/status/1648801138718777344))
+** SSL method: I’m far from a specialist, felt like this reuses a lot of prior insights from this lab + other good ideas from the outside, in particular KoLeo (encourages a very regular feature spread) looks to be very significant (8% retrieval boost !) 5/N ([View Tweet](https://twitter.com/BenTheEgg/status/1648801753297567745))
+** Results TLDR: catching up with or much better than WSL on “classic” tasks + some really, really nice emergent properties (I’m a sucker for “holistic proof”, the odds of randomly grokking something fundamental are super low, seeing this make me an instant believer).  6/N 
+
+![](https://pbs.twimg.com/media/FuG5TI6X0AU1_QL.jpg) ([View Tweet](https://twitter.com/BenTheEgg/status/1648802705903697920))
+** Results again: training a VITg with Dino v2, distillation into a smaller L, this visualization completely nails it. FlexiViT results would have been icing on the cake, unless I’m missing something 7/N 
+
+![](https://pbs.twimg.com/media/FuG5v4pXsAIaToH.jpg) ([View Tweet](https://twitter.com/BenTheEgg/status/1648803495242342406))
+** Results again, impact of resolution: missing a link with FlexiVIT as mentioned above, distillation is a way to cross the pre-train/inference cost boundaries, FlexiViT feels like a complementary take. I’m a bit surprised by how good the results are at higher res here though 8/N 
+
+![](https://pbs.twimg.com/media/FuG6newWcAUTzbO.jpg) ([View Tweet](https://twitter.com/BenTheEgg/status/1648804231711711237))
+** Continues here, twitter web is a bit messed up (and it’s a bit late) 
+https://t.co/Vb2DeQNX69 ([View Tweet](https://twitter.com/BenTheEgg/status/1648812506972815361))

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: 📢Introducing 🔥\#CodeTF🔥,... (highlights)
+:author: [[stevenhoi on Twitter]]
+:full-title: "📢Introducing 🔥\#CodeTF🔥,..."
+:category: [[tweets]]
+:url: https://twitter.com/stevenhoi/status/1664483010954272770
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-02]]
+** 📢Introducing 🔥#CodeTF🔥, a one-stop Transformer Library for Code Large Language Models (CodeLLM), with a unified interface for training & inference on code tasks (code generation,summarization,translation,etc)
+
+Paper: https://t.co/TmTrsOz94a
+Code: https://t.co/GmEN2rOYPE
+
+(1/n) ([View Tweet](https://twitter.com/stevenhoi/status/1664483010954272770))
+** CodeTF library supports both the development and deployment of Code LLMs for code intelligence tasks. The library can support both training and serving code LLM models, code utilities to process code data, and popular research benchmarks to evaluate the model performance. 
+(2/n) 
+
+![](https://pbs.twimg.com/media/FxlvgoKaQAA8xA4.jpg) ([View Tweet](https://twitter.com/stevenhoi/status/1664484250169769984))
+** CodeTF is designed with key principles to provide a user-friendly and easy-to-use platform for code intelligence tasks. It follows a modular architecture, enhancing its extensibility by allowing seamless integration of additional programming languages, models & utilities.
+
+(3/n) 
+
+![](https://pbs.twimg.com/media/FxlyKhLaEAAJN9x.jpg) ([View Tweet](https://twitter.com/stevenhoi/status/1664487100279054336))
+** Find out more details from our technical report here: 
+
+CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
+
+Another great open-source library with our amazing AI Research team: Nghi, @LHung1610 @ayueei @LiJunnan0409 @AkhileshGotmare at @SFResearch. 
+
+(4/n) ([View Tweet](https://twitter.com/stevenhoi/status/1664488648224698369))
+** https://t.co/TmTrsOz94a (5/n) ([View Tweet](https://twitter.com/stevenhoi/status/1664488849580621825))

@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: 如何写出一个更好的 ChatGPT Prompt... (highlights)
+:author: [[Tisoga on Twitter]]
+:full-title: "如何写出一个更好的 ChatGPT Prompt..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1655428760546562048
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-08]]
+** 如何写出一个更好的 ChatGPT Prompt
+
+关于 prompt engineering，有各种各样的技术，但是对于普通用户来说，门槛还是太高了。
+
+为此，我们训练了上万条不同的 prompt，然后做了这个 Prompt Generator Copilot。
+
+只需要告诉它你的需求，就可以进行快速创建 👇
+
+https://t.co/iTqRPYLyX0
+
+🧵 
+
+![](https://pbs.twimg.com/media/FvlDrn7aQAAnwN8.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1655428760546562048))
+** 第一步：创建 Prompt
+
+格式：I want a prompt that will help me [具体需求]
+
+比如说我现在需要创建一个 Copilot 来帮助我更好得练习英文写作，我可以向这个 Copilot 说：
+
+I want a prompt that will help me practice my English writing skills
+
+[具体需求] 部分也可以使用中文描述。 
+
+![](https://pbs.twimg.com/media/FvlDsJPaEAI1bss.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1655428769681756160))
+** 第二步：基于 Prompt 来创建一个 Copilot
+
+有了 Prompt 之后，我们就可以基于这个 Prompt 来创建一个 Copilot 了。 https://t.co/6ZDiROBT9Y ([View Tweet](https://twitter.com/Tisoga/status/1655428897599528961))
+** 第三步：和创建后的 Copilot 进行交互
+
+这里拿了一片高考满分作文来让这个 Copilot 修改。
+
+另外记得把它分享给其他人，来帮助别人更好地使用 AI 👇
+
+https://t.co/28jT0ltFZc 
+
+![](https://pbs.twimg.com/media/FvlD0ZJaUAAgIxW.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1655428912195805184))
+** 可以关注 @CopilotHubAI 获取最新的产品信息，或者加入 Telegram 中文社区群组来讨论相关的内容。
+
+https://t.co/pfgN1hxDKz ([View Tweet](https://twitter.com/Tisoga/status/1655428916713070592))

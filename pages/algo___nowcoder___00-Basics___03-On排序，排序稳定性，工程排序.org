@@ -1,0 +1,170 @@
+* [03]
+** 1. 比较器的使用
+
+#+begin_src java
+  // 基于比较的排序
+  // 注意，比较器的定义要符合传递性
+  class comp implements comparator<integer>{
+    // 如果返回负数，认为第一个参数应该排在前面
+    // 如果返回正数，认为第二个参数应该排在前面
+    // 如果返回0，认为谁放前面都可以
+    @Override
+    public int compare(integer o1, integer o2){
+      return o1 - o2;
+    }
+  }
+#+end_src
+** 2. 桶排序
+
+
+#+begin_quote
+  桶排序思想下的排序都是不基于比较的排序。要求是基础数据类型（非基础类型要特殊处理），而且与数据状况有关（要根据数据状况设计算法）时间复杂度$O(N)$
+#+end_quote
+*** 2.1. 计数排序
+
+
+#+begin_quote
+  利用数据状况的特殊性。有特定的最大值，最小值范围。
+#+end_quote
+
+#+begin_src java
+  // 已知数据的取值范围在[0,200]only for 0~200 value
+  public static void countsort(int[] arr) {
+    if (arr == null || arr.length < 2) {
+      return;
+    }
+    int max = integer.min_value;
+    for (int i = 0; i < arr.length; i++) { max = math.max(max, arr[i]); }
+    // 用于词频统计的桶
+    int[] bucket = new int[max + 1];
+    for (int i = 0; i < arr.length; i++) { bucket[arr[i]]++; }
+    int i = 0;
+    for (int j = 0; j < bucket.length; j++) {
+      while (bucket[j]-- > 0) { arr[i++] = j; }
+    }
+  }
+#+end_src
+*** 2.2. 基数排序
+
+
+#+begin_quote
+  以十进制为例。
+#+end_quote
+
+1. 首先确定，最大数有多少位，然后将所有数都补齐到一样的位数。
+2. 准备$[0,9]$十个桶，然后根据每个数的个位数字把所有数放入到相应的桶中。
+3. 然后从$0$号桶到$1$号桶，依次倒出数字。于是得到基于个位数字比较的结果。
+4. 接着根据十位数字，把每个数字所进入相应的桶。然后依次倒出。
+5. 以此类推，直到处理完最高位。得到结果。
+
+#+begin_src java
+  public static void radixsort(int[] arr) {
+    if (arr == null || arr.length < 2) {
+      return;
+    }
+    radixsort(arr, 0, arr.length - 1, maxbits(arr));
+  }
+  // 找到最大数是有几位数字
+  public static int maxbits(int[] arr) {
+    int max = integer.min_value;
+    for (int i = 0; i < arr.length; i++) {
+      max = math.max(max, arr[i]);
+    }
+    int res = 0;
+    while (max != 0) {
+      res++;
+      max /= 10;
+    }
+    return res;
+  }
+  public static void radixsort(int[] arr, int begin, int end, int digit) {
+    final int radix = 10; // 默认为十进制数
+    int i = 0, j = 0;
+    // 准备用于统计的桶
+    int[] bucket = new int[end - begin + 1];
+    for (int d = 1; d <= digit; d++) { // 有多少位，就进出多少次桶
+      // 10个空间1
+      // count[0]，当前位（d位）是0的数字有多少个
+      // count[1]，当前位（d位）是（0和1）的数字有多少个
+      // count[2]，当前位（d位）是（0，1，2）的数字有多少个
+      // count[i]，当前位（d位）是（[0,i]）的数字有多少个
+      int[] count = new int[radix];
+      for (i = begin; i <= end; i++) {
+        j = getdigit(arr[i], d);
+        count[j]++;
+      }
+      for (i = 1; i < radix; i++) {
+        count[i] = count[i] + count[i - 1];
+      }
+      for (i = end; i >= begin; i--) {
+        j = getdigit(arr[i], d);
+        bucket[count[j] - 1] = arr[i];
+        count[j]--;
+      }
+      for (i = begin, j = 0; i <= end; i++, j++) {
+        arr[i] = bucket[j];
+      }
+    }
+  }
+  public static int getdigit(int x, int d) {
+    return ((x / ((int) math.pow(10, d - 1))) % 10);
+  }
+#+end_src
+** 3. 排序算法的稳定性
+
+
+#+begin_quote
+  同样值的个体之间，如果不因为排序而改变相对次序，就是这个排序是有稳定
+  性的；否则就没有。
+#+end_quote
+
+- 不具有稳定性的排序
+
+  - 选择排序
+  - 堆排序
+  - 快排
+
+- 具有稳定性的排序
+
+  - 冒泡排序
+  - 插入排序
+  - 归并排序
+  - 一切桶排序思想下的排序
+
+#+begin_quote
+  目前没有找到时间复杂度 $O(N\log{N})$，额外空间复杂度
+  $O(1)$，又稳定的排序。
+#+end_quote
+
+| 排序算法         | 时间复杂度    | 空间复杂度   | 稳定性 |
+|------------------+---------------+--------------+--------|
+| 选择排序         | $O(N^{2})$    | $O(1)$       | 不稳定 |
+| 冒泡排序         | $O(N^{2})$    | $O(1)$       | 稳定   |
+| 插入排序         | $O(N^{2})$    | $O(1)$       | 稳定   |
+| 归并排序         | $O(N\log{N})$ | $O(N)$       | 稳定   |
+| 快排             | $O(N\log{N})$ | $O(\log{N})$ | 不稳定 |
+| 堆排序           | $O(N\log{N})$ | $O(1)$       | 不稳定 |
+| 非基于比较的排序 | $O(N)$        | $O(M)$       | 稳定   |
+** 4. 工程上的排序
+
+
+1. 不在乎稳定性，一律用快排
+2. 结合使用$O(N\log{N})$和$O(N^{2})$的排序算法
+
+   1. 待排序元素小于
+      50（或者某个小常数）时使用插入排序，常数项更低，空间复杂度更好
+** 5. 排序相关的坑
+*** 5.1. 归并排序的额外空间复杂度可以变$O(1)$
+
+「归并排序的内部缓存法」，虽然空间复杂度降低到了$O(1)$，但是失去了稳定性。
+*** 5.2. 快速排序可以做到稳定性问题
+
+"01 stable sort"，但是会使空间复杂度上升。
+*** 5.3. 所有的改进都不重要
+
+因为目前没有找到时间复杂度$O(N\log{N})$，额外空间复 杂度
+$O(1)$，又稳定的排序。
+** 6.
+「奇数放在数组左边，偶数放在数组右边，还要求原始的相对次序不变，且时间复杂度$O(N)$，额外空间复杂度$O(1)$」
+
+等同于"01 stable sort"，碰到这个问题，可以怼面试官。

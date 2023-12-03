@@ -1,0 +1,2 @@
+* [[../assets/The_Azure_Cloud-Native_Architecture_Mapbook_1666181592153_0.pdf][The Azure Cloud-Native Architecture Mapbook.pdf]]
+*

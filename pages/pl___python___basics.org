@@ -1,0 +1,121 @@
+*
+* 编程语言的基本组成
+
+1. 基本 =表达式= 和 =语句=
+2. 组合的手段: 嵌套函数
+3. 抽象的手段：名称到值的绑定
+
+函数和数据
+** Expression
+表达式：描述了一个计算并能求得一个值
+* Data and Type
+~del var~ 删除变量，而不是 instance 。
+** str
+'str',"str","""str"""
+
+no StringBuilder in python
+** string and char
+** None
+** Tuples
+** Sequence Datatypes
+1. All sequences are ordered, indexed by integers, and have a length.
+2. add
+3. multiply
+4. slice
+5. reductions
+   sum, max, min
+6. iteration
+7. enumerate()
+8. zip()
+*** string
+*** list
+*** tuple
+* Collections
+** List
+mutable
+
+#+BEGIN_SRC python
+l = [1,2,3]
+l = list()
+#+END_SRC
+** Tuple
+immutable
+
+#+BEGIN_SRC python
+tup = (1,2,3)
+tup = tuple([1,2,3])
+#+END_SRC
+** Dict
+order
+
+#+BEGIN_SRC python
+d = {key: value, key: value}
+d = dict([(key,value),(key,value)])
+d = dict(key=value,key=value)
+#+END_SRC
+*** Composite Keys
+
+#+BEGIN_SRC python
+holidays = {
+    (1, 1) : "new years",
+    (3, 14) : "pi day",
+    (9, 13) : "programmer's day",
+}
+
+holidays[3, 14] # >>> "pi day"
+#+END_SRC
+
+#+RESULTS:
+: None
+** Set
+
+#+BEGIN_SRC python
+s = {1, 2, 3}
+s = set([1,2,3])
+#+END_SRC
+** Slice
+[start : stop : step]
+* Condition, Branching and Loop
+** Condition and Branching
+#+BEGIN_SRC python
+if exp:
+    do_something()
+elif exp:
+    do_something()
+else:
+    do_something()
+#+END_SRC
+** Loop
+#+BEGIN_SRC python
+for item in iterable:
+    do_something()
+
+for k,v in dict.items():
+    do_something()
+
+for idx, item in enumerate(iterator):
+    do_something()
+
+while exp:
+    do_something()
+
+exp1 if condition else exp2 for item in iterable
+exp for item in iterable if codition
+
+#+END_SRC
+* Equals and Copy
+~is~ 比较引用（id），没法被重载， ~==~ 比较值（遍历对象逐一比较）。
+** shallow copy
+内存中分配一块新区域用于创建一个新对象。但如果有可变对象可能引起副作用。
+1. 构造器赋值
+2. 切片赋值
+3. ~copy.copy()~
+4. 对于 tuple ，不会创建新对象，仅仅返回一个引用
+** deep copy
+~copy.deepcoyp()~ 可以用来创建一个深度拷贝，一个完全新建的的对象。
+深度拷贝完全没有副作用，但是如果对象中有循环引用，可能会死循环。
+* Parameter Passing
+** Pass by Value
+** Pass by Reference
+** Pass by Assignment
+Python 的传惨方式（pass by object reference）。

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: 🎉大语言模型的安卓时刻真的来了啊!? 这次又是微... (highlights)
+:END:
+:PROPERTIES:
+:author: [[JefferyTatsuya on Twitter]]
+:full-title: "🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..."
+:category: [[tweets]]
+:url: https://twitter.com/JefferyTatsuya/status/1667748018899279872
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-11]]
+** 🎉大语言模型的安卓时刻真的来了啊!? 这次又是微软！
+
+微软研究院的发布了 🐳#Orca模型：
+
+13B参数，能力达到了ChatGPT-3.5的水平，甚至超越了Vicuna 113%!
+
+尽管与GPT-4相比还有一定的差距，但它已经足够强大，足以应对工作中的需求了！
+
+请看下面的效果图！
+
+论文：https://t.co/zhxIbzLduU 
+
+![](https://pbs.twimg.com/media/FyUGBWyaEAAZg_K.jpg) 
+
+![](https://pbs.twimg.com/media/FyUGBX3aQAAQsWz.jpg) 
+
+![](https://pbs.twimg.com/media/FyUGBYuaAAEd8dj.jpg) 
+
+![](https://pbs.twimg.com/media/FyUGnZpaUAEKbPI.jpg) ([View Tweet](https://twitter.com/JefferyTatsuya/status/1667748018899279872))
+** 他的原理是 #渐进学习：采用了一种叫“渐进学习”或“解释学习”的训练过程。
+
+相较于Vicuna，只是抄作业，复制ChatGPT的答复，但还没有知识的笨学生。
+
+而Orca模型从ChatGPT和GPT-4的推理和思考过程来学习，像跟老师上原理和逻辑课一样。因此他拥有 #推理能力，并能够解决没见到过的问题。 
+
+![](https://pbs.twimg.com/media/FyUHowXaMAEQDKI.jpg) ([View Tweet](https://twitter.com/JefferyTatsuya/status/1667748021214523394))
+** 看 Matthew Berman 的视频有详细的解释：
+
+https://t.co/uPAdByVH0X ([View Tweet](https://twitter.com/JefferyTatsuya/status/1667748548384034816))

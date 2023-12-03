@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: “What Should I Work On?”... (highlights)
+:author: [[radamihalcea on Twitter]]
+:full-title: "“What Should I Work On?”..."
+:category: [[tweets]]
+:url: https://twitter.com/radamihalcea/status/1660984828622192644
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-24]]
+** “What should I work on?” is a question we hear more & more often from NLP students, during a time when the media rhetoric is that “it’s been all solved”
+
+Turns out there are many NLP research areas rich for exploration—here is our answer from 20+ students
+
+https://t.co/Lif85EhxuI ([View Tweet](https://twitter.com/radamihalcea/status/1660984828622192644))
+** We identified numerous research directions in areas covering multilinguality, reasoning, KB, grounding, computational social science, language acquisition, non-verbal communication, interpretability, efficiency, ethics & more.
+
+We also welcome suggestions!
+https://t.co/I3lFjTXgx6 ([View Tweet](https://twitter.com/radamihalcea/status/1660984831721832448))
+** This compilation of ideas from across NLP is the result of a careful thought process from a diverse group of students in the LIT🔥lab: @OanaIgnatRo, @ZhijingJin, Artem Abzaliev, Laura Biester @lbiester23, Santiago Castro @bryant1410, @NaihaoDeng Xinyi Gao, @AylinGunal_2, Jacky He ([View Tweet](https://twitter.com/radamihalcea/status/1660984834167128065))
+** @AshkanKazemi, Muhammad Khalifa @MKhalifaaaa, Namho Koh, Andrew Lee @a_jy_l, Siyang Liu, Do June Min @dojminn, Shinka Mori, Joan Nwatu @_agirlyengineer, Veronica Perez-Rosas @vperez_r, Siqi Shen, Zekun Wang, Winston Wu ([View Tweet](https://twitter.com/radamihalcea/status/1660984836843089920))

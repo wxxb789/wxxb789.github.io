@@ -1,0 +1,7 @@
+*
+* self-attention is a concept, part of [[transformer]]
+* what's self-attension
+** Each token is computed by weighted contextual tokens
+** The weights a re dynamically changes along the inputs
+** Multi-head attentions capture various knowledge aspects
+*

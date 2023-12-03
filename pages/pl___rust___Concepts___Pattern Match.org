@@ -1,0 +1,33 @@
+#+title: pl/Rust/Concepts/Pattern Match
+
+* arms 分支
+每个分支对应一个 模式 pattern
+
+#+begin_src rust
+use std::cmp::Ordering;
+match guess.cmp(&secret_number) {
+    Ordering::Less => println!("Too small!"),
+    Ordering::Greater => println!("Too big!"),
+    Ordering::Equal => {
+        println!("You win!");
+        break;
+    },
+}
+#+end_src
+* =if let=
+#+begin_src rust
+//ex1
+if let Some(3) = some_u8_value {
+    println!("three");
+} else {
+    // do sth here.
+}
+
+// ex2
+let mut count = 0;
+if let Coin::Quarter(state) = coin {
+    println!("State quarter from {:?}!", state);
+} else {
+    count += 1;
+}
+#+end_src

@@ -1,0 +1,308 @@
+* [07]
+** 1. 前缀树
+
+
+#+begin_quote
+  由一个字符串数组得到一棵前缀树。由*空节点*开始，遇到没出现过的字符就新建一个边，字符放在边上而不是节点上。
+#+end_quote
+
+节点上的数据项：=pass=是在添加的过程中经过多少次，=end=是添加的时候有多少个字符串是以此结尾的。
+
+优点：查询字符串数量，查询前缀数量
+
+- 节点=Node=的数据项
+
+  - =pass=：生成前缀树的过程中，经过这个节点多少次
+  - =end=：生成前缀树后，有多少个字符串以当前节点为结尾
+
+- 边：存放一个字符
+*** 1.1. 生成前缀树
+
+字符串从左向右，节点从上到下。
+
+#+begin_src java
+  public static class TrieNode {
+    public int path;
+    public int end;
+    public TrieNode[] nexts;
+
+    public TrieNode() {
+      path = 0;
+      end = 0;
+      nexts = new TrieNode[26]; // 假定只有26种字符（可以尝试用`HashMap<Char,Node>`代替实现不定宽度）
+    }
+  }
+
+  public static class Trie {
+    private TrieNode root;
+
+    public Trie() {
+      root = new TrieNode();
+    }
+
+    public void insert(String word) {
+      if (word == null) {
+        return;
+      }
+      char[] chs = word.toCharArray();
+      TrieNode node = root;
+      int index = 0;
+      for (int i = 0; i < chs.length; i++) { // 由左向右遍历字符
+        index = chs[i] - 'a'; // 由字符得到数组下标（边）
+        if (node.nexts[index] == null) {
+          node.nexts[index] = new TrieNode();
+        }
+        node = node.nexts[index];
+        node.path++;
+      }
+      node.end++;
+    }
+    // 删掉一个字符串，沿途p--，最终p--，e--。
+    // 中途遇到p减到0，e也减到0，直接放弃整个支路即可。
+    // 要先查询，确定有word，再删除
+    public void delete(String word) {
+      if (search(word) != 0) {
+        char[] chs = word.toCharArray();
+        TrieNode node = root;
+        int index = 0;
+        for (int i = 0; i < chs.length; i++) {
+          index = chs[i] - 'a';
+          if (--node.nexts[index].path == 0) {
+            node.nexts[index] = null;
+            return;
+          }
+          node = node.nexts[index];
+        }
+        node.end--;
+      }
+    }
+
+    // word这个单词加入过几次
+    public int search(String word) {
+      if (word == null) {
+        return 0;
+      }
+      char[] chs = word.toCharArray();
+      TrieNode node = root;
+      int index = 0;
+      for (int i = 0; i < chs.length; i++) {
+        index = chs[i] - 'a';
+        if (node.nexts[index] == null) {
+          return 0;
+        }
+        node = node.nexts[index];
+      }
+      return node.end;
+    }
+    // 所有之前加入过的字符串种，有几个是以pre这个字符串作为前缀的
+    public int prefixNumber(String pre) {
+      if (pre == null) {
+        return 0;
+      }
+      char[] chs = pre.toCharArray();
+      TrieNode node = root;
+      int index = 0;
+      for (int i = 0; i < chs.length; i++) {
+        index = chs[i] - 'a';
+        if (node.nexts[index] == null) {
+          return 0;
+        }
+        node = node.nexts[index];
+      }
+      return node.path;
+    }
+  }
+#+end_src
+*** 1.2. 应用
+
+一个字符串类型的数组=arr1=，以及另一个字符串类型的数组=arr2=。
+
+1. arr2中有哪些字符是再arr1种出现过的？请打印。
+2. arr2中有哪些字符，是作为arr1中某个字符串的前缀出现的？请打印。
+3. arr2中出现次数最大的前缀？请打印。
+** 2. 贪心算法
+
+
+#+begin_quote
+  在某一个标准下，优先考虑最满足标准的样本，最后考虑最不满足标准的样本，最终得到
+  一个答案的算法，叫作贪心算法。
+  也就是说，不从整体最优上加以考虑，所做出的是在某种意义上的局部最优解。=局部最优  -?->  整体最优=
+
+  贪心策略一定是单调的。
+#+end_quote
+*** 2.1. 贪心算法解题套路
+
+
+1. 实现一个不依靠贪心策略的解法X，可以用最暴力的尝试
+2. 脑补出贪心策略A、贪心策略B、贪心策略C...
+3. 用解法X和对数器，去验证每一个贪心策略，用实验的方式得知哪个贪心策略正确
+4. 不要去纠结贪心策略的证明
+*** 2.2. 实现贪心算法用到的技巧
+
+贪心策略在实现时，经常使用到的技巧：
+
+1. 根据某标准建立一个比较器来排序
+2. 根据某标准建立一个比较器来组成堆
+*** 2.3. 字典序问题
+**** 2.3.1. 什么是字典序
+
+如果两个字符串长度一样，则可以看成连个二十六进制的数，然后按照两个数大小比较。长度不一样的时候，在较短的字符串后面补零使两个字符串长度一致（0的含义是比a还要小的值）之后按值比较。
+**** 2.3.2. 问题
+
+
+#+begin_quote
+  给定一个字符串类型的数组strs，找到一种拼接方式，使得把所有字符串拼起来之后形成的字符串具有最小的字典序。
+#+end_quote
+
+ans：两个字符串拼接后排序，用来决定字典序。即=str1.str2=与=str2.str1=按字典序比较，决定顺序。
+*** 2.4. 哈夫曼编码
+
+与哈夫曼编码相关的问题：与原始顺序无关；产生的代价是两个元素合起来形成的一个结果（比如累加，或着累乘）；
+*** 2.5. 例题
+**** 2.5.1. 时间安排
+
+
+#+begin_quote
+  一些项目要占用一个会议室宣讲，会议室不能同时容纳两个项目的宣讲。
+  给你每一个项目开始的时间和结束的时间(给你一个数 组，里面是一个个具体
+  的项目)，你来安排宣讲的日程，要求会议室进行的宣讲的场次最多。
+  返回这个最多的宣讲场次。
+#+end_quote
+
+ans：结束时间早的项目先安排。
+**** 2.5.2. 分金条（哈夫曼编码）
+
+
+#+begin_quote
+  一块金条切成两半，是需要花费和长度数值一样的铜板的。比如长度为20的金
+  条，不管切成长度多大的两半，都要花费20个铜板。一群人想整分整块金条，怎么分最省铜板?
+
+  例如,给定数组{10,20,30}，代表一共三个人，整块金条长度为10+20+30=60。
+  金条要分成10,20,30三个部分。 如果先把长度60的金条分成10和50，花费60；
+  再把长度50的金条分成20和30，花费50；一共花费110铜板。
+  但是如果先把长度60的金条分成30和30，花费60；再把长度30金条分成10和20，
+  花费30；一共花费90铜板。 输入一个数组，返回分割的最小代价。
+#+end_quote
+
+思路：建立一个小根堆，每次弹出两个元素相加再添加回小根堆，直到堆中只剩下一个元素。非叶节点的和就是结果。记录整个过程，可以得到一个树就是Huffman树。
+
+#+begin_src java
+  public static int lessMoney(int[] arr) {
+    PriorityQueue<Integer> pQ = new PriorityQueue<>();
+    for (int i = 0; i < arr.length; i++) {
+      pQ.add(arr[i]);
+    }
+    int sum = 0;
+    int cur = 0;
+    while (pQ.size() > 1) {
+      cur = pQ.poll() + pQ.poll();
+      sum += cur;
+      pQ.add(cur);
+    }
+    return sum;
+  }
+#+end_src
+**** 2.5.3. 最大收益
+
+
+#+begin_quote
+  输入： 正数数组=costs= 正数数组=profits= 正数=k= 正数=m=
+
+  含义：
+  costs[i]表示i号项目的花费；profits[i]表示i号项目在扣除花费之后还能挣到的钱(利润)；k表示你只能串行的最多做k个项目；m表示你初始的资金；
+
+  说明： 你每做完一个项目，马上获得的收益，可以支持你去做下一个项目。
+  输出： 你最后获得的最大钱数。
+#+end_quote
+
+思路：所有的项目根据花费=（花费，利润）=做一个小根堆；再做一个大根堆；把所有小于m花费的元素从小根堆中弹出，根据利润比较扔进大根堆，从大根堆弹出一个更新m然后丢掉；查看小根堆看是否能解锁新的项目。依次类推，直到做完k个项目，或者大根堆为空。
+
+#+begin_src java
+  public static class Node {
+    public int p; public int c;
+    public Node(int p, int c) { this.p = p; this.c = c; }
+  }
+  // 花费比较
+  public static class MinCostComparator implements Comparator<Node> {
+    @Override
+    public int compare(Node o1, Node o2) { return o1.c - o2.c; }
+  }
+  // 利润比较
+  public static class MaxProfitComparator implements Comparator<Node> {
+    @Override
+    public int compare(Node o1, Node o2) { return o2.p - o1.p; }
+  }
+  public static int findMaximizedCapital(int k, int W, int[] Profits, int[] Capital) {
+    Node[] nodes = new Node[Profits.length];
+    for (int i = 0; i < Profits.length; i++) {
+      nodes[i] = new Node(Profits[i], Capital[i]);
+    }
+
+    PriorityQueue<Node> minCostQ = new PriorityQueue<>(new MinCostComparator());
+    PriorityQueue<Node> maxProfitQ = new PriorityQueue<>(new MaxProfitComparator());
+    
+    for (int i = 0; i < nodes.length; i++) { minCostQ.add(nodes[i]); }
+
+    for (int i = 0; i < k; i++) {
+      while (!minCostQ.isEmpty() && minCostQ.peek().c <= W) {
+        maxProfitQ.add(minCostQ.poll());
+      }
+      if (maxProfitQ.isEmpty()) { return W; }
+      W += maxProfitQ.poll().p;
+    }
+    return W;
+  }
+#+end_src
+**** 2.5.4. 中位数
+
+
+#+begin_quote
+  一个数据流中，随时可以取得中位数
+#+end_quote
+
+思路：使用两个堆实现。一个大根堆，一个小根堆；有个一个数，如果两个堆都为空，扔到大根堆；如果整个数小等于大根堆的对顶就进入大根堆，否则进入小根堆。检查两个堆的大小，如果大于1，那么调整两个堆，将较大的堆的堆顶弹出扔进较小的堆，以保证差值小于2。基于如上的调整之后可以保证，较小的$\frac{N}{2}$个元素在大根堆中，较大的$\frac{N}{2}$个元素在小根堆中。因此，任何时候拿出两个根的堆顶就能得到中位数。
+
+#+begin_src java
+
+  public static class MedianHolder {
+    private PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>(new MaxHeapComparator());
+    private PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>(new MinHeapComparator());
+    private void modifyTwoHeapsSize() {
+      if (this.maxHeap.size() == this.minHeap.size() + 2) {
+        this.minHeap.add(this.maxHeap.poll());
+      }
+      if (this.minHeap.size() == this.maxHeap.size() + 2) {
+        this.maxHeap.add(this.minHeap.poll());
+      }
+    }
+
+    public void addNumber(int num) {
+      if (maxHeap.isEmpty() || num <= maxHeap.peek()) { maxHeap.add(num); }
+      else { minHeap.add(num); }
+      modifyTwoHeapsSize();
+    }
+
+    public Integer getMedian() {
+      int maxHeapSize = this.maxHeap.size();
+      int minHeapSize = this.minHeap.size();
+      if (maxHeapSize + minHeapSize == 0) {
+        return null;
+      }
+      Integer maxHeapHead = this.maxHeap.peek();
+      Integer minHeapHead = this.minHeap.peek();
+      if (((maxHeapSize + minHeapSize) & 1) == 0) {
+        return (maxHeapHead + minHeapHead) / 2;
+      }
+      return maxHeapSize > minHeapSize ? maxHeapHead : minHeapHead;
+    }
+  }
+  public static class MaxHeapComparator implements Comparator<Integer> {
+    @Override
+    public int compare(Integer o1, Integer o2) { if (o2 > o1) { return 1; } else { return -1; }
+    }
+  }
+  public static class MinHeapComparator implements Comparator<Integer> {
+    @Override
+    public int compare(Integer o1, Integer o2) { if (o2 < o1) { return 1; } else { return -1; } }
+  }
+#+end_src

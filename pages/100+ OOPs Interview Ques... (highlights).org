@@ -1,0 +1,162 @@
+:PROPERTIES:
+:title: 100+ OOPs Interview Ques... (highlights)
+:author: [[@swapnakpanda on Twitter]]
+:full-title: "100+ OOPs Interview Ques..."
+:category: #tweets
+:url: https://twitter.com/swapnakpanda/status/1609879834053988354
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-04]]
+** 100+ OOPs Interview Questions
+
+    ➤ C++
+    ➤ Java
+    ➤ C#
+    ➤ Python
+    ➤ JavaScript
+    ➤ PHP
+    ➤ Kotlin
+    ➤ Swift
+
+incl. design patterns and class diagrams
+
+⇩ ([View Tweet](https://twitter.com/swapnakpanda/status/1609879834053988354))
+** Level: Beginner to Medium
+Topic:
+
+➊ OOPs Basics
+➋ Class, Object, Interface
+➌ Encapsulation, Abstraction, etc.
+➍ Constructor and Destructor
+➎ Design Patterns
+➏ Class Diagram
+
+Read all these questions uninterrupted and download them to a PDF using 👇
+https://t.co/VAVMfj59tw ([View Tweet](https://twitter.com/swapnakpanda/status/1609879836511862786))
+** ➊ OOPs Basics
+
+➀ What is a programming paradigm?
+➁ Mention various types of programming paradigms.
+➂ What is structured programming?
+➃ What are OOPs?
+➄ Why are OOPs needed?
+     Or,
+➅ Advantages of OOPs ([View Tweet](https://twitter.com/swapnakpanda/status/1609879840026660865))
+** ➆ Where should OOPs not be used?
+➇ What are the major features of OOPs?
+➈ Mention a few popular languages that support OOPs.
+➉ Does <your_language> support OOPs? How? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879842966876160))
+** ➋ Class, Object, Interface
+
+➀ Define a class.
+➁ What is an object?
+➂ Does a class take any memory?
+➃ What does a class provide or define?
+➄ What is a property in a class?
+➅ What is a method in a class? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879845269561345))
+** ➆ What is an abstract method?
+➇ What is an abstract class?
+➈ What is an interface?
+➉ What does "static" mean with regard to properties and methods? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879847773556737))
+** ➌ Encapsulation, Abstraction, Polymorphism, Inheritance
+
+➀ What is encapsulation?
+➁ What is data hiding?
+➂ What is data binding?
+➃ How does <your_language> do encapsulation?
+➄ What is abstraction?
+➅ How is abstraction accomplished?
+➆ What is inheritance? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879850374037507))
+** ➇ Give an example of inheritance.
+➈ What are the advantages of inheritance?
+➉ Are there any limitations to inheritance?
+➀➀ What are the different types of inheritance?
+➀➁ Which type of inheritance does <your_language> support?
+➀➂ What is a superclass or a subclass? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879852940947461))
+** ➀➃ What is polymorphism?
+➀➄ What are the different types of polymorphism? Explain.
+➀➅ What is method overloading?
+➀➆ What is method overriding?
+➀➇ Tell the difference between overloading and overriding.
+➀➈ How does <your_language> support overloading and overriding? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879855449112576))
+** ➍ Constructor and Destructor
+
+➀ What is a constructor?
+➁ What are the different types of constructors?
+➂ What do you mean by a default constructor?
+➃ What is a parameterized constructor?
+➄ What is a copy constructor?
+➅ When is a constructor invoked? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879858196119553))
+** ➆ Is a parent class constructor invoked when a child class constructor is invoked? In what order?
+➇ Is the creation of an object mandatory? If not, when?
+➈ Can an interface have a constructor?
+➉ What is a destructor?
+➀➀ When is a destructor invoked? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879861388267522))
+** ➀➁ Is the destructor invoked automatically or manually?
+➀➂ Does <your_language> support defining a destructor?
+➀➃ In which order destructors are invoked in case of inheritance?
+➀➄ What is garbage collection?
+➀➅ How does <your_language> do garbage collection? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879863724498944))
+** ➎ Design Patterns
+
+➀ What is a design pattern?
+➁ What is GoF?
+➂ Mention categories in which all design patterns are classified.
+➃ What do you mean by creational design pattern?
+➄ Define all creational design patterns.
+➅ What do you mean by structural design pattern? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879866274635777))
+** ➆ Define all structural design patterns.
+➇ What do you mean by behavioral design pattern?
+➈ Define all behavioral design patterns.
+➉ What do you mean by Singleton?
+➀➀ Why is singleton necessary?
+➀➁ Doesn't Singleton break the purpose of OOPs?
+➀➂ What is a Facade? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879868594085888))
+** ➀➃ What is a Factory?
+➀➄ What is a Builder?
+➀➅ What is a composite?
+➀➆ How is composition different from inheritance?
+➀➇ What is an adapter? Give some examples.
+➀➈ What is a decorator? Give some examples.
+20. What is a Proxy?
+➁➀ Explain different types of proxies. ([View Tweet](https://twitter.com/swapnakpanda/status/1609879871039352833))
+** ➁➁ What is a chain of responsibility?
+➁➂ What is a bridge?
+➁➃ Difference between a bridge and an adapter?
+➁➄ What is the service locator design pattern?
+➁➅ What is dependency injection?
+➁➆ Difference between Service Locator and Dependency Injection. ([View Tweet](https://twitter.com/swapnakpanda/status/1609879873581125636))
+** ➁➇ What is MVC?
+Or,
+➁➈ Explain the model, the view, and the controller in MVC pattern.
+30. What is a DAO?
+➂➀ What is a DTO?
+➂➁ Define the strategy to describe a design pattern. ([View Tweet](https://twitter.com/swapnakpanda/status/1609879875887955968))
+** ➏ Class Diagram
+
+➀ What is UML?
+➁ What is a class diagram?
+➂ How are private, protected, and public members shown in a class diagram?
+➃ How is an interface shown in a class diagram?
+➄ How is an abstract class shown in a class diagram? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879878744297473))
+** ➅ What are generalization and specialization?
+➆ What is an association?
+➇ What is multiplicity?
+➈ How is an aggregation shown?
+➉ How is a composition shown?
+➀➀ What is a composite structure diagram?
+➀➁ What are reflexive associations?
+➀➂ What is an object diagram? ([View Tweet](https://twitter.com/swapnakpanda/status/1609879883920052233))
+** 🚥 Disclaimer
+
+⬘ The questions covered here are mostly conceptual. Do practice to have a better hold.
+
+⬗ I don't claim that only these types of questions are asked during interviews.
+
+⬙ Many questions from this series have been shared by me earlier on Twitter. ([View Tweet](https://twitter.com/swapnakpanda/status/1609879886591660032))
+** That's it for this series.
+
+I am sharing interview questions on programming, DSA, databases. Follow me @swapnakpanda to never miss them.
+
+Did you like these questions? Remember to Like and RT the below tweet:
+https://t.co/6lfHZ3ERvB ([View Tweet](https://twitter.com/swapnakpanda/status/1609880005995286528))

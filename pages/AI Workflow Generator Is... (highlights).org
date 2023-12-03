@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: AI Workflow Generator Is... (highlights)
+:author: [[Taskade on Twitter]]
+:full-title: "AI Workflow Generator Is..."
+:category: [[tweets]]
+:url: https://twitter.com/Taskade/status/1658170826569682944
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-17]]
+** AI Workflow Generator is LIVE! Powered by GPT-4, instantly generate thousands of case-specific workflows, from team agendas to design sprints.
+
+The only limit is your imagination. Transform the way you craft and launch new projects, forever.
+
+Welcome to a new era of productivity. https://t.co/WGrkb3nI47 ([View Tweet](https://twitter.com/Taskade/status/1658170826569682944))
+** 🎯 Introducing the new /Subtask AI command! Effortlessly turn big ideas into actionable tasks & simplify large projects into bite-sized pieces. 
+
+Give /subtask AI a try & supercharge your productivity, one task at a time!
+
+Learn more: https://t.co/o1DE34hf4z https://t.co/9ilhuixMvc ([View Tweet](https://twitter.com/Taskade/status/1658170829581201409))
+** ✍️ Say hello to the new Notes Add-on with multi-line support! Press '⇧ Shift + ↵ Enter' to toggle it. 
+
+Paste long paragraphs, insert code snippets, or add descriptions to tasks. Add depth to every task. 
+
+Learn more: https://t.co/WSeD0FgYp3 https://t.co/vj6SHk5jWW ([View Tweet](https://twitter.com/Taskade/status/1658170833926516736))
+** 🎉 Fresh from Taskade lab!
+
+🧠 AI Workflow Generator to streamline your projects
+
+✔️ /Subtask AI command to simplify complex tasks
+
+🖊️ Multi-Line Notes Add-On to enrich your tasks with depth.
+
+And there's more where that came from!
+
+Dive in for details: https://t.co/vsAnPBmra0 ([View Tweet](https://twitter.com/Taskade/status/1658170837583941633))

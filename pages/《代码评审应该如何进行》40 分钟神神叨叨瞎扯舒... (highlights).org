@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: 《代码评审应该如何进行》40 分钟神神叨叨瞎扯舒... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[tison1096 on Twitter]]
+:full-title: "《代码评审应该如何进行》40 分钟神神叨叨瞎扯舒..."
+:category: [[tweets]]
+:url: https://twitter.com/tison1096/status/1717213863123517564
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-27]]
+** 📌
+** #+BEGIN_QUOTE
+** 《代码评审应该如何进行》40 分钟神神叨叨瞎扯舒服了，确实跟开头说的一样更适合开直播，但是没精力组织直播。
+
+晚些可以出个浓缩版发视频号，只讲分点结论和一句话说明。
+
+https://t.co/7BxMF3ACFU  ([View Tweet](https://twitter.com/tison1096/status/1717213863123517564))
+** #+END_QUOTE

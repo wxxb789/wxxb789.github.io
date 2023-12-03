@@ -1,0 +1,27 @@
+*
+* General Purpose
+** [[https://github.com/tweag/nickel][tweag/nickel: Better configuration for less (github.com)]]
+** [[https://jsonnet.org/][Jsonnet - The Data Templating Language]]
+** [[https://cuelang.org/][CUE (cuelang.org)]]
+[[https://github.com/cue-lang/cue][cue-lang/cue: The new home of the CUE language! Validate and define text-based and dynamic configuration (github.com)]]
+** [[https://github.com/edn-format/edn][edn-format/edn: Extensible Data Notation (github.com)]]
+** [[https://github.com/vmware-tanzu/carvel-ytt][vmware-tanzu/carvel-ytt: YAML templating tool that works on YAML structure instead of text (github.com)]]
+** [[https://github.com/json5/json5][json5/json5: JSON5 — JSON for Humans (github.com)]]
+** [[https://github.com/hjson/hjson-js][hjson/hjson-js: Hjson for JavaScript (github.com)]]
+** [[https://github.com/ron-rs/ron][ron-rs/ron: Rusty Object Notation (github.com)]]
+** [[https://toml.io/en/][TOML: Tom's Obvious Minimal Language]]
+** [[https://github.com/kdl-org/kdl][kdl-org/kdl: the kdl document language specifications (github.com)]]
+** [[https://github.com/s-i-e-v-e/sxml][s-i-e-v-e/sxml: S-expression syntax for XML (github.com)]]
+** [[https://github.com/grafana/tanka][grafana/tanka: Flexible, reusable and concise configuration for Kubernetes (github.com)]]
+** [[https://dhall-lang.org/][The Dhall configuration language (dhall-lang.org)]]
+**
+**
+*
+* Domain Specific
+** [[https://github.com/hashicorp/terraform][hashicorp/terraform: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (github.com)]]
+** [[https://github.com/hashicorp/hcl][hashicorp/hcl: HCL is the HashiCorp configuration language. (github.com)]]
+** [[https://github.com/hofstadter-io/hof][hofstadter-io/hof: The High Code Framework (low-code for devs), a modular code generation system powered by CUE (github.com)]]
+** [[https://github.com/kubernetes-sigs/kustomize][kubernetes-sigs/kustomize: Customization of kubernetes YAML configurations (github.com)]]
+** [[https://www.pulumi.com/][Pulumi - Universal Infrastructure as Code]]
+**
+*

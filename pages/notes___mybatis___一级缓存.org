@@ -1,0 +1,21 @@
+
+
+* 一级缓存
+:PROPERTIES:
+:id: 一级缓存
+:END:
+
+1. SqlSession（一级缓存）的隔离性
+
+   1. SqlSession的缓存是SqlSession独立拥有的内部缓存，是以SqlSession为单位进行管理的，不能相互访问和使用。
+
+2. 控制SqlSession缓存的清空开关
+
+   1. select标签中的flushCache属性
+
+      1. 默认是false，表明使用缓存
+      2. 设置为true，表明不使用缓存。
+
+3. 任何的 UPDATE, INSERT, DELETE
+   语句都会清空缓存，事务的commit语句也会清空缓存。
+*

@@ -1,0 +1,124 @@
+:PROPERTIES:
+:title: 有一张“每个llm开发者都应该知道的数字”表格很... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Danielw19410 on Twitter]]
+:full-title: "有一张“每个llm开发者都应该知道的数字”表格很..."
+:category: [[tweets]]
+:url: https://twitter.com/Danielw19410/status/1712296361029509279
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-12]]
+** 📌
+** #+BEGIN_QUOTE
+** 有一张“每个LLM开发者都应该知道的数字”表格很不错，灵感来源于谷歌的Jeff Dean的文档“每个工程师都应该知道的数字”。
+以下是数字的具体说明： 
+
+![](https://pbs.twimg.com/media/F8NKUt6a4AAD52p.jpg)  ([View Tweet](https://twitter.com/Danielw19410/status/1712296361029509279))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 40- 90%--通过在提示符后附加“Be Concise”(要简洁)节省的金额
+重要的是要记住，你支付的token的反应。这意味着要求LLM简洁可以为您节省大量资金。这可以扩展到不仅仅是在提示中添加“简洁”：如果你是用GPT-4想出10个替代方案，也许可以向它要5个，留着另一半的钱。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296364129001814))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 1:3--每个单词的平均标记数
+LLM在token上运行。记号是单词或单词的子部分，因此“eating”可以被分成两个记号“eat”和“ing”。一个750字的英文文档大约需要1000个代币。对于英语以外的语言，每个单词的标记根据它们在LLM的嵌入语料库中的共性而增加。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296366431772994))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 知道这个比率是很重要的，因为大多数计费是在token中完成的，并且LLM的上下文窗口大小也是在token中定义的。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296368818233581))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 50:1 --GPT-4与GPT-3.5 Turbo 3的成本比
+这意味着对于许多实际应用程序来说，使用GPT-4来生成高质量的微调数据或自动评估其他模型要好得多-这些事情可能只需要做一次，而不是在推理周期的中间。使用GPT-3.5-Turbo比GPT-4便宜大约50倍  ([View Tweet](https://twitter.com/Danielw19410/status/1712296371083235464))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** （“大约”是因为GPT-4对提示和生成的输出收取不同的费用）-所以你真的需要检查一下GPT-3.5-Turbo能走多远。GPT-3.5-Turbo对于像摘要这样的任务来说绰绰有余。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296373444608111))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 5:1 -使用GPT-3.5-Turbo与OpenAI嵌入生成文本的成本比
+这意味着在向量存储中查找某些内容比要求LLM生成它要便宜得多。例如：“特拉华州的首府是哪里？”“当在神经信息检索系统中查找时，成本约为GPT-3.5-Turbo的5倍。与GPT-4相比，成本差异高达250倍！  ([View Tweet](https://twitter.com/Danielw19410/status/1712296375965405351))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 10:1 -OpenAI嵌入与自托管嵌入的成本比
+在我们的博客文章中，我们注意到使用g4dn.4xlarge（按需价格：1.20美元/小时），我们能够使用Hugging Face的SentenceTransformers以每秒约9000个令牌的速度嵌入（这与OpenAI的嵌入一样好）。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296379090190567))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 对该速率和该节点类型进行一些基本的数学计算表明，自托管嵌入的成本要低得多（便宜10倍）（这是在你开始考虑入口和出口费用之前）。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296381736718798))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 6：1 -OpenAI微调与基本模型查询的成本比
+在OpenAI上提供一个微调模型的成本是基础模型的6倍。这是相当高的，但可能是有意义的，因为可能的多租户的基本模型。这也意味着调整基本模型的提示比微调定制模型更经济有效。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296384492425496))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 1:1 --自托管基本查询与微调模型查询的成本比
+如果你自己托管一个模型，那么它或多或少花费相同的金额来服务一个微调的模型，因为它服务于一个基本的：模型具有相同数量的参数。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296387147366854))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 100万美元：在1.4万亿令牌上训练130亿参数模型的成本
+LLaMa的论文提到，他们花了21天的时间使用2048个GPU A100 80 GB GPU来训练LLaMa。我们考虑在Red Pajama训练集上训练我们自己的模型，然后我们运行了数字。上面是假设一切正常，没有崩溃，第一次计算成功，等等。此外，它还涉及2048个GPU的协调。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296389567459336))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 这不是大多数公司可以做到的（无耻的插件时间：当然，我们Anyscale可以-这是我们的面包和黄油！联系我们，如果你想了解更多）。关键是，培训自己的LLM是可能的，但它并不便宜。而且每次运行都要花上几天时间。使用预先训练的模型要便宜得多。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296391983485193))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** < 0.001：微调与从头开始培训的成本比
+微调的成本可以忽略不计。例如，您可以用大约7美元微调6B参数模型。即使以OpenAI最昂贵的可微调模型Davinci的价格计算，每1000个代币也是3c。这意味着要对莎士比亚的全部作品（约100万字）进行微调，你需要40美元。然而，微调是一回事，从头开始训练是另一回事。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296394260926746))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** GPU内存容量
+V100：16GB，
+A10G：24GB，
+A100：40/80 GB
+这可能看起来很奇怪，但重要的是要知道不同类型的GPU的内存量。这将限制您的LLM可以拥有的参数数量。一般来说，我们喜欢使用A10G，因为它们的AWS按需价格为每小时1.50美元至2美元，并且具有24G的GPU内存，而A100的AWS按需价格为每小时5美元。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296399319269459))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 2x参数数量：用于服务的LLM的典型GPU存储器要求
+例如，如果你有一个70亿参数的模型，它需要大约14 GB的GPU空间。这是因为大多数时候，每个参数需要一个16位浮点数（或2个字节）。通常不需要超过16位精度，大多数情况下，当您达到8位精度时，您开始失去分辨率（尽管在某些情况下这可能是可以接受的）。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296401546457384))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 当然，也有努力来减少这一点，特别是llama.cpp，它在6 GB GPU上运行130亿个参数模型，通过积极量化到4位（和8位，没有太大的影响），但这是非典型的。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296403777765537))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 1GB：嵌入模型的典型GPU内存要求
+每当你在做句子嵌入（一个非常典型的聚类、语义搜索和分类任务）时，你都需要一个像句子转换器这样的嵌入模型。OpenAI也有自己的嵌入，他们提供商业。
+你通常不必担心GPU上有多少内存嵌入，它们相当小。我们甚至在同一个GPU上实现了嵌入和LLM。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296405963014625))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 10倍：通过批处理LLM请求提高吞吐量
+通过GPU运行LLM查询的延迟非常高：它可能花费例如5秒，吞吐量为每秒0.2个查询。有趣的是，如果你运行两个任务，可能只需要5.2秒。这意味着，如果您可以将25个查询捆绑在一起，则大约需要10秒，而我们的吞吐量已经提高到每秒2.5个查询。但是，请看下一点。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296408127250713))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 1 MB：使用13 B参数模型输出1个令牌所需的GPU内存
+所需的内存量与要生成的最大令牌数成正比。例如，如果您希望生成多达512个标记（约380个单词）的输出，则需要512 MB。你可能会说没什么大不了的--我有24 GB的备用空间，512 MB是什么？  ([View Tweet](https://twitter.com/Danielw19410/status/1712296410505429045))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 好吧，如果你想运行更大的批次它开始加起来。因此，如果你想批量处理16个，你需要8 GB的空间。有一些正在开发的技术可以克服这个问题，但它仍然是一个真实的的问题。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296412740976830))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 感谢看到这里,欢迎点赞本条Thread,并且：
+1.关注我@Danielw19410发现更多有料内容。
+2.转发（Retweet ）推文分享给他人。
+3.你有哪些有料的表格欢迎在评论区交流。  ([View Tweet](https://twitter.com/Danielw19410/status/1712296415005970939))
+** #+END_QUOTE

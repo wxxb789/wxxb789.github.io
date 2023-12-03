@@ -1,0 +1,65 @@
+
+
+* [[../assets/image_1664023443902_0.png]]
+*
+* move
+resolve
+** double free
+* clone trait
+* copy trait
+** all scalar
+* Reference and Borrowing
+[[https://rustwiki.org/zh-CN/book/ch04-02-references-and-borrowing.html][引用和借用]]
+** reference
+不需要获取所有权
+*** =&=
+borrowing is immutable
+*** =&mut=
+**** 限制
+1. 在同一时间只能有一个对某一特定数据的可变引用
+2. =&= 和 =&mut= 不能同时使用
+**** Data Race
+1. 两个或更多指针同时访问同一数据。
+2. 至少有一个指针被用来写入数据。
+3. 没有同步数据访问的机制
+** borrowing
+创建一个引用的行为被称作 =借用=
+** 悬垂指针 Dangling Pointer or 悬垂引用 Dangling References
+在 Rust 中编译器确保引用永远也不会变成悬垂状态: 当你拥有一些数据的引用, 编译器确保数据不会在其引用之前离开作用域。
+** 引用的规则
+*** 在任意给定时间，要么只能有一个可变引用，要么只能有多个不可变引用。
+*** 引用必须总是有效的。
+* =slice=
+字符串字面量就是 slice.
+这里 s 的类型是 &str：它是一个指向二进制程序特定位置的 slice。这也就是为什么字符串字面量是不可变的；&str 是一个不可变引用。
+#+begin_src rust
+
+#![allow(unused)]
+fn main() {
+    let s = "Hello, world!"; // s -> &str
+}
+#+end_src
+
+slice 允许你引用集合中一段连续的元素序列，而不用引用整个集合。
+#+BEGIN_SRC rust
+// 左闭右开
+let s = String::from("hello world");
+let hello = &s[0..5]; // [..5]
+let world = &s[6..11];
+
+fn first_word(s: &String) -> &str {
+    let bytes = s.as_bytes();
+
+    for (i, &item) in bytes.iter().enumerate() {
+        if item == b' ' {
+            return &s[0..i];
+        }
+    }
+
+    &s[..] // TODO why? String vs str
+}
+#+END_SRC
+* =enumerate=
+enumerate 返回的元组中，第一个元素是索引，第二个元素是集合中元素的引用。
+
+heap memory, call =drop= automatically after leave scope.

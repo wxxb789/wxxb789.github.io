@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: 🧱 OpenAI Functions + Str... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Hacubu on Twitter]]
+:full-title: "🧱 OpenAI Functions + Str..."
+:category: [[tweets]]
+:url: https://twitter.com/Hacubu/status/1677334911253106688
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-09]]
+** 📌
+** #+BEGIN_QUOTE
+** 🧱 OpenAI Functions + Structured Data 🧱
+
+We've released new @LangChainAI chains using OpenAI functions to reliably output data matching a schema!
+
+They're great for pipelines & workflows beyond chat.
+
+Docs & more 👇
+
+Python: https://t.co/md9p2MsNJr
+JS: https://t.co/ySSVoTkcUr ([View Tweet](https://twitter.com/Hacubu/status/1677334911253106688))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** When OpenAI released function calling, a clear (and very hype!) application was to use them to power tools for agents. 
+
+But they also added a way for you to choose a specific function and force the chat model to return arguments for it! ([View Tweet](https://twitter.com/Hacubu/status/1677334913006313472))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** This new chain takes advantage of this by defining a "function" that takes arguments exactly matching the schema we want. 
+
+While we don't necessarily intend to use those arguments to call something else, the response will conveniently match the output schema we want. ([View Tweet](https://twitter.com/Hacubu/status/1677334914289770496))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** This is easier and cleaner than adding output formatting instructions into your prompt, and stays reliable with higher temperature values, allowing for more varied generative results.
+
+You can use these chains on their own or as a step in a larger pipeline. 
+
+![](https://pbs.twimg.com/media/F0cWs3NaIAAiCAB.jpg) ([View Tweet](https://twitter.com/Hacubu/status/1677334915564847106))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** And finally, functions models and the APIs around them are still very new, so stay tuned and let us know if there's anything else you'd like to see!
+
+Thanks for reading! ([View Tweet](https://twitter.com/Hacubu/status/1677334918832209922))
+** #+END_QUOTE

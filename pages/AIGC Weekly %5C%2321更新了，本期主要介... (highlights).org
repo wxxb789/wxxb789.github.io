@@ -1,0 +1,127 @@
+:PROPERTIES:
+:title: AIGC Weekly \#21更新了，本期主要介... (highlights)
+:author: [[op7418 on Twitter]]
+:full-title: "AIGC Weekly \#21更新了，本期主要介..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1657945589638914053
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-16]]
+** AIGC Weekly #21更新了，本期主要介绍了谷歌 I/O发布会的相关内容以及Anthropic和Open AI的一些消息还有上周一些产品推荐和值得阅读的文章，本期内容里面还有ChatDOC提供的会员福利，领取方式在下面周刊的详细信息里https://t.co/6KU7LYO1OD 
+
+![](https://pbs.twimg.com/media/FwI0uB9agAEpD-g.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945589638914053))
+** 🥰本周精选：
+
+Google I/O发布会相关信息汇总：https://t.co/HYE0nxHdM6
+
+首先是谷歌的自然语言模型PaLM 2，值得注意的是PaLM 2模型在各种规模上都提供出色的基础功能，包括名为Gecko的模型，能够在移动设备上运行，即使在离线状态下也可以支持交互式应用。
+
+https://t.co/6nFKVNlT3H 
+
+![](https://pbs.twimg.com/media/FwI0u1laAAA1QNQ.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945598350487553))
+** 接下来是AI搜索引擎Bard，Bard正在扩大全球访问范围，引入更多语言并结束候补名单。还将推出类似插件的功能。https://t.co/R7L31hIWjE
+
+谷歌还推出了基于谷歌搜索的一系列AI增强功能，从而为用户提供更多的信息和上下文。现在只对美国开放。https://t.co/aJ1E7HSiR9 
+
+![](https://pbs.twimg.com/media/FwI0vUDaMAElZVf.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945606252560384))
+** 谷歌还推出了基于谷歌搜索的一系列AI增强功能，从而为用户提供更多的信息和上下文。现在只对美国开放。https://t.co/aJ1E7HSiR9 
+
+![](https://pbs.twimg.com/media/FwI0vxwagAA8Xof.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945614590803969))
+** 其他的谷歌传统应用于AI结合的功能：
+• Gmail推出了"Help me write"功能，用户只需输入简单指示，AI即可自动草拟邮件。
+• Google Maps推出了新的沉浸式视图功能，用户可以在出发前预览整个旅程。
+• Google Photos将推出Magic Editor功能，用户可以调整照片中的元素位置和光照效果 
+
+![](https://pbs.twimg.com/media/FwI0wQEaIA0ga_Z.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945622773747712))
+** • Android 系统会在你使用短信APP时增加AI功能帮你润色你的对话。
+• 还推出了AI图片检测工具，通过搜索图片在谷歌搜索引擎最早出现的时间来判断。
+• 推出了一款文本转音乐的AI工具MusicLM，该工具可以将用户的文本描述转化为独特的音乐作品。试用https://t.co/Vrqn7ksa3M 
+
+![](https://pbs.twimg.com/media/FwI0wvxaIAAI3dQ.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945630696955905))
+** Anthropic已经把Claude的上下文窗口扩展到10万文本标记，大概七万五千个字符。这个功能将首先开放给有API权限的的用户。https://t.co/HlXC5RwGCE
+
+Poe率先支持了这个能力，目前只有Web版本支持：https://t.co/Ezn9cIdlMe 
+
+![](https://pbs.twimg.com/media/FwI0xMQaYAAhRa8.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945638624186369))
+** Open AI发布了新研究，使用 gpt4 来标记 gpt2 中的所有 307,200 个神经元，并用简单的英语描述每个神经元在模型中所扮演的角色：https://t.co/YXvO2qzRPt
+
+Open AI还宣布了将会在这周向所有Plus用户全量开放插件的使用权限，UI也进行了更新：https://t.co/cjIt4cflU9 
+
+![](https://pbs.twimg.com/media/FwI0xpxaAAAnFdt.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945648606625792))
+** Meta 开源了一个名为 Image Bind 的 AI 模型，这是第一个能够同时绑定来自六种模式的数据的 AI 模型：https://t.co/8J75ssp0vv
+
+HuggingFace Transformers Agent，它使编码 LLM 能够动态组合其他 HF 模型以解决多模态任务：
+
+https://t.co/WtgaytzZiz 
+
+![](https://pbs.twimg.com/media/FwI0yRsaEAEmX09.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945657142046720))
+** ⚒️产品推荐：
+
+ChatDOC：与文档聊天，通过引用的来源获得即时答案：https://t.co/wVFfaB2iWG
+
+Boring Report：AI新闻降噪：https://t.co/8SKCUhwqBg
+
+https://t.co/xWHt0zZLXR：无代码生成AI应用：https://t.co/sRwZRKXx2Q
+
+Kadoa：AI驱动的内容爬取工具：https://t.co/fjx4r7W03h 
+
+![](https://pbs.twimg.com/media/FwI0yvQaUAAIE04.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945665937498112))
+** LingoSync：AI视频翻译：https://t.co/L3no0axnQJ
+
+PuddlTrack：Open AI API监控工具：https://t.co/IgJXSo2UBy
+
+https://t.co/2lV0Tu1PmX：AI客服构建工具：https://t.co/iYjVShuOgD
+
+Teaser AI：AI约会应用：https://t.co/f3RMksdtMy 
+
+![](https://pbs.twimg.com/media/FwI0zQjakAI2awz.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945674477105152))
+** Dify：@goocarlos 开发的无代码LLM应用构建：https://t.co/kM4tL3nhdt
+
+Airtable 发布了自己的AI能力：https://t.co/fbglcCzsEN
+
+Raycast AI 正式向所有人公开：https://t.co/cWF8dhkpkE
+
+Scribe AI：AI流程管理工具：https://t.co/FmTUQgeKnY 
+
+![](https://pbs.twimg.com/media/FwI0zwTakAIBPTr.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945683218030597))
+** Zmo：AI商品背景替换工具：https://t.co/mDdlcyfV5p
+
+TOTAL CRAP：完全由AI编写的杂志：https://t.co/AeX7vVMCPm 
+
+![](https://pbs.twimg.com/media/FwI00QQaAAEE-3S.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945691216551937))
+** 🔬精选文章：
+
+有关LLM代理工作原理：https://t.co/RWrmeXDxOo
+
+生成式人工智能简介-Google：https://t.co/H4cbygAH6X
+
+OpenAI 的开发者关系负责人访谈：https://t.co/6yfRLG9ASL
+
+Building AI 谷歌出品的AI课程：https://t.co/IelB4gQyJm 
+
+![](https://pbs.twimg.com/media/FwI00uAakAEHhgE.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945699168960519))
+** 为什么大型语言模型会产生幻觉-IBM课程：https://t.co/FHQLpHAVIx
+
+构建 ML 基础设施 - 采访 Aditya Nambiar Meta前技术主管：https://t.co/oChszBpiNW
+
+Meta 推出了一款名为 AI 沙盒的新型生成式 AI 广告工具：https://t.co/vCb53OxNqm 
+
+![](https://pbs.twimg.com/media/FwI01M6aEAAN7F2.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945707385602048))
+** 这位 23 岁的 Snapchat 明星可以成为你的 AI 女朋友——只要付出代价：https://t.co/onYBKtACPG
+
+GPT-4 的迷宫导航：深入研究 ReAct Agent 和 LLM 的思想：https://t.co/PHdoYzCxBP 
+
+![](https://pbs.twimg.com/media/FwI01qhaQAEdBue.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945717628096514))
+** 在 Langchain 中计划和执行代理，以进行更复杂的长期规划：https://t.co/ruCM59mSzF
+
+FrugalGPT：如何在降低成本和提高性能的同时使用大型语言模型：https://t.co/LBFR6rPrU2 
+
+![](https://pbs.twimg.com/media/FwI02RjaAAQxUz4.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945725924429824))
+** 💼招聘信息：
+
+Poe招聘远程iOS和Android开发工程师：https://t.co/1Jbezn4Kbf
+
+Open AI招聘产品设计师：https://t.co/Vunu1RCbfx 
+
+![](https://pbs.twimg.com/media/FwI02veaIAELtSK.jpg) ([View Tweet](https://twitter.com/op7418/status/1657945733583245312))
+** 感谢大家看到这里，在此我也想给大家介绍一下有趣的内容和信息，如果你也觉得有意思的话可以私信我或者给我发邮件投稿。 再次感谢ChatDOC提供的会员。订阅周刊：https://t.co/6KU7LYO1OD ([View Tweet](https://twitter.com/op7418/status/1657945736766701570))

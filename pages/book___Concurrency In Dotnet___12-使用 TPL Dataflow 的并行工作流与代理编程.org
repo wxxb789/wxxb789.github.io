@@ -1,0 +1,16 @@
+* .NET Task Parallel Library Dataflow (TDF) is push based model. Producer/Consumer pattern.
+* These reactive models emphasize a push-based model for applications to work, rather than a pull-based model. This push-based strategy ensures that the individual components are easy to test and link, and, most importantly, easy to understand.
+* TDF offers a rich array of components (also called blocks) for composing dataflow and pipeline infrastructures based on the in-process message-passing semantic
+* [[../assets/image_1652349718537_0.png]]
+TDF embraces the concepts of reusable components. In this figure, each step of the workflow acts as reusable components. TDF brings a few core primitives that allow you to express computations based on Dataflow graphs.
+** Each block receives and buffers data from one or more sources, including other blocks, in the form of messages. When a message is received, the block reacts by applying its behavior to the input, which then can be transformed and/or used to perform side effects.
+** The output from the component (block) is then passed to the next linked block, and to the next one, if any, and so on, creating a pipeline structure.
+* TDF excels at providing a set of configurable properties by which it's possible, with small changes, to control the level of parallelism, manage the buffer size of the mailbox, and process data and dispatch the outputs.
+** There are three main types of dataflow blocks
+*** Source —Operates as producer of data. It can also be read from.
+*** Target —Acts as a consumer, which receives the data and can be written to.
+*** Propagator —Acts as both a Source and a Target block.
+** For each of these dataflow blocks, TDF provides a set of subblocks, each with a different purpose. It’s impossible to cover all the blocks in one chapter. In the following sections we focus on the most common and versatile ones to adopt in general pipeline composition applications.
+*
+*
+*

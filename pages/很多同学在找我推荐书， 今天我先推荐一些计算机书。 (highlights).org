@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 很多同学在找我推荐书， 今天我先推荐一些计算机书。 (highlights)
+:END:
+:PROPERTIES:
+:author: [[Andy Stewart]]
+:full-title: "很多同学在找我推荐书， 今天我先推荐一些计算机书。"
+:category: [[articles]]
+:url: https://twitter.com/manateelazycat/status/1674003806168977408
+
+
+
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023\-06\-30]]
+** 5. Rust： 只推荐一本《Rust语言圣经》，其他的Rust书籍不注重循序渐进， 太过于炫技， 导致很多Rust初学者读几章都直接劝退了。 希望这本书后面1/5质量再提升一下， 前面4/5都写的非常非常好， 深入浅出。 ([View Highlight](https://read.readwise.io/read/01h45eznkshm7gsf6gbe4pts4n))
+** 8. Qt/Gtk: 图形编程首推 ZetCode 的在线教程 [zetcode.com/gui/pyqt5/](https://zetcode.com/gui/pyqt5/) ， 篇幅很小， 但是都是代码实践， 核心API讲解， 特别适合图形编程的入门学习。 ([View Highlight](https://read.readwise.io/read/01h45f053jhkrv2mn2rgqcwvjk))
+** 9. 加解密：如果你对非对称加密、加解密以及安全体系的可信根很多概念只是知道名字， 不知道底层原理， 一定首推日本作家结城浩的《图解密码技术》， 一行代码不写， 只通过画架构图让你明白密码领域常用的各种技术以及流程，让你对加解密会有一个体系化的理解， 不会再创造一些自己认为安全的‘弱方案’ ([View Highlight](https://read.readwise.io/read/01h45f0amc9d95jtz03k92zd42))
+** 10. Git: 我写 eaf\-git 客户端 [github.com/emacs\-eaf/eaf\-…](https://github.com/emacs\-eaf/eaf\-git) 之前恶补了一下Git的底层知识， 推荐《Pro Git》这本书， 主要告诉你Git底层文件存储的格式， 你可以基于文件的格式自己编写很多Git高级命令。 ([View Highlight](https://read.readwise.io/read/01h45f0mvc0p3wsm71awkn5z24))

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: ✨ I Spent the Last 48 Ho... (highlights)
+:author: [[0xSamHogan on Twitter]]
+:full-title: "✨ I Spent the Last 48 Ho..."
+:category: #tweets
+:url: https://twitter.com/0xSamHogan/status/1637521141236658176
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-03-23]]
+** ✨ I spent the last 48 hours making GPT-4 read the entire @solana validator codebase and write documentation, so @aeyakovenko doesn't have to.
+
+Introducing https://t.co/spDDFkqtcC — an AI-powered chatbot trained on nothing but code that can answer deep https://t.co/RLpWc2Y85A… https://t.co/vnFXaQSC8N https://t.co/2VGsVmmylF ([View Tweet](https://twitter.com/0xSamHogan/status/1637521141236658176))
+** @solana @aeyakovenko Just a heads folks up, we're about to hit the limit on our OpenAI account. We've put in in a request to have it raised but it likely won't be granted today.  
+
+If anyone can help us expedite this request, we'd really appreciate it! ([View Tweet](https://twitter.com/0xSamHogan/status/1637547543436627969))
+** @solana @aeyakovenko Our API limit has been reached. Our back up account has been activated but it only has access to gpt-3.5. 
+
+Response quality will be downgraded for the time-being, check back soon! The answers are still pretty good tho. ([View Tweet](https://twitter.com/0xSamHogan/status/1637555289431109632))

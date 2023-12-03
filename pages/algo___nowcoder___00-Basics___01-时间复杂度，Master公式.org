@@ -1,0 +1,277 @@
+* 01 时间复杂度，Master公式
+** 1. 认识时间复杂度
+
+常数时间的操作：（与数据量没有关系）
+
+1. 一个操作如果和样本的数据量没有关系，每次都是固定时间内完成的操作，叫做常数操作。时间复杂度为一个算法流程中，常数操作数量的一个指标。
+2. 常用 O(读作 big O)来表示。具体
+   来说，先要对一个算法流程非常熟悉，然后去写出这个算法流程中，发生了多少常数操作，
+   进而总结出常数操作数量的表达式。
+   在表达式中，*只要高阶项*，*不要低阶项*，也*不要高阶项的系数*，剩下的部分如果为
+   $f(N)$，那 么时间复杂度为 $O(f(N))$。
+3. 按照最差情考虑。评价一个算法流程的好坏，先看时间复杂度的指标，然后再分析不同数据样本下的实际运行
+   时间，也就是"常数项时间"。
+*** 1.1. Master 公式
+
+估计子问题为相同规模的递归过程的算法复杂度。
+
+$$T(N) = aT(\frac{N}{2})+O(N^{d})$$
+
+1. $\log_{b}a \gt d$ => $O(N^{\log_{b}{a}})$
+2. $\log_{b}a = d$ => $O(N^{d}*\log{N})$
+3. $\log_{b}a \lt d$ => $O(N^{d})$
+
+#+begin_quote
+  BFPRT算法特殊
+#+end_quote
+
+#+begin_src java
+  // 例子
+  // [L,R]范围上求最大值
+  public static int process(int[] arr, int L, int R){
+      if(L == R) { return arr[L]; }
+      int mid = L+((R-L)>>1); // 中点
+      // 划分为两个子过程，规模都是n/2，除去子过程之外的算法复杂度为O(1)
+      int leftMax = process(arr,L,mid);
+      int rightMax = process(arr,mid,R);
+      return Math.max(leftMax,RigthMax);
+  }
+  // 最终有 T(n) = 2T(n/2) + O(1)
+#+end_src
+** 2. 选择排序，冒泡排序的细节与复杂度分析
+*** 2.1. 选择排序
+
+#+begin_src java
+  public static void selectionSort(int[] arr) {
+      if(arr == null || arr.length < 2) { return; }
+      for(int i = 0; i < arr.length-1; i++){ // i~N-1
+          int minIndex = i;
+          for(int j = i + 1; i < arr.length; j++) { // i~N-1范围内找最小值下标
+              minIndex = arr[j] < arr[minIndex] ? j : minIndex;
+          }
+          swap(arr,i,minIndex);
+      }
+  }
+
+  public static void swap(int[] arr, int i, int j) {
+      int tmp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = tmp;
+  }
+#+end_src
+*** 2.2. 冒泡排序
+
+#+begin_src java
+  public static void bubbleSort(int[] arr) {
+      if(arr == null || arr.length < 2) { return; }
+      for(int e = arr.length - 1; e > 0; e--) {
+          for(int i = 0; i < e; i++){
+              // 不符合小的在前面，于是交换一下
+              if(arr[i] > arr[i+1]) {
+                  swap(arr,i,i+1);
+              }
+          }
+      }
+  }
+
+  // 不能用于自己与自己交换
+  public static void swap(int[] arr, int i, int j) {
+      arr[i] = arr[i] ^ arr[j];
+      arr[j] = arr[i] ^ arr[j];
+      arr[i] = arr[i] ^ arr[j];
+  }
+#+end_src
+*** 2.3. 插入排序
+
+思路：保证$[0,0]$有序 -> 保证$[0,1]$有序 -> 保证$[0,2]$有序直到 ->
+保证$[0,N-1]$有序。
+
+#+begin_src java
+  public static void insertionSort(int[] arr) {
+      if(arr == null || arr.length < 2) { return; }
+      for(int i=1; i<arr.length; i++){
+          for(int j=i-1; j>=0 && arr[j]>arr[j+1]; j--){
+              swap(arr,j,j+1);
+          }
+      }
+  }
+#+end_src
+*** 2.4. 复杂度分析
+
+Time:$O(n^{2})$,Space:$O(1)$
+
+#+begin_quote
+  额外空间复杂度不考虑输入空间占用，不考虑输出（结果）空间占用。
+#+end_quote
+** 3. 异或运算的性质与扩展
+
+
+#+begin_quote
+  异或运算是按位的无进位相加
+#+end_quote
+
+特性：
+
+1. =0^N == N=,=N^N==0=
+2. 异或运算满足交换律和结合律
+
+应用：
+
+1. 不用额外变量交换两个数
+
+   #+begin_src java
+     // a与b要在内存中是不同的，如果相同的话
+     // 相当于 a=a^a;a=a^a^a^a;a=a^a^a
+     a = a^b;
+     b = a^b; // a^b^b
+     a = a^b; // a^b^a
+   #+end_src
+
+2. 一个数组中有一种数出现了奇数次，其它数都出现了偶数次，找到这个数
+
+   #+begin_src java
+     // 所有数异或出来
+   #+end_src
+
+3. 一个数组中有两种数出现了奇数次，其他数都出现了偶数次，找到这两个数
+
+   #+begin_src java
+     // 有a!=b两个数
+     // 设有变量eor从头到尾遍历数组一遍，那么结果是a^b!=0
+     // 按位考察eor，为0的位值说明a,b在此位置上相同，为1的位置说明a,b在此位置上不同
+     // 假设eor在第i位上为1，那么用一个新变量eor',只和第i位上为0的数异或运算，那么eor'的结果必为a,b中的某个数。最后eor^eor'则得到另一个数。
+     public static void printOddTimesNum2(int[] arr){
+         int eor = 0, onlyOne = 0;
+         for(int curNum : arr) {
+             eor ^= curNum;
+         }
+         int rightOne = eor & (~eor + 1);
+         for(int cur : arr) {
+             if((cur & rightOne) == 0) { // 排除了第i位上为1的a,b中的一个，以及第i位上为1但是出现了偶数次的数。剩下a,b中第i位为0的那个数，和所有第i位为0但是出现了偶数次的数
+                 onlyOne ^= cur;
+             }
+         }
+         System.out.println(onlyOne+" "+(eor^onlyOne));
+     }
+   #+end_src
+
+#+begin_quote
+  提取一个数最右侧的
+  1：取反加一然后和自己与运算=int rigthOne = a & (~a + 1);=
+#+end_quote
+** 4. 对数器
+
+
+#+begin_quote
+  TODO:
+
+  1. 随机数组
+  2. 随机链表
+  3. 随机二叉树
+#+end_quote
+
+1. 准备正确方法 a(),以及待测方法 b()。
+2. 生成随机数据（随机的样本值，样本个数，样本规模）
+3. 比较 a(),b()的到结果
+4. 如果结果不一致，人工干预，更改方法 a 或方法 b
+5. 增大样本数量继续比较，直到完全一致
+** 5. 递归
+
+
+#+begin_quote
+  任何递归方法都能改成非递归方法。函数递归调用的状态由系统栈维护
+#+end_quote
+
+1. base case
+2. 递归调用自己的子问题（一定要改变调用参数或者说改变调用相关的状态，使得在优先步骤内能达到
+   base case 以停止调用）
+** 6. 例题
+*** 6.1. 给定一个长度为 n
+的数组，返回每一个（也就是所有）位置左边最小的数和右边最小的数
+
+
+1. 暴力解$O(n^{2})$
+2. 预处理数组$O(n)$：使用辅助数组=L[]=，自左向右记录只降不增的数据。于是下标
+   i
+   意味着$[0,i]$范围内的最小值。再使用辅助数组=R[]=记录自右向左的只降不增数据。于是下标
+   i 意味着$[i,n-1]$范围内的最小值。
+*** 6.2. 二分法详解与扩展
+**** 6.2.1. 一个有序数组中，找某个数是否存在
+
+
+#+begin_quote
+  Time:$O(\log{N})$, Space:$O(1)$
+#+end_quote
+**** 6.2.2. 一个有序数组中，找*大于等于*某个数最左的位置
+
+
+#+begin_quote
+  Time:$O(\log{N})$, Space:$O(1)$, 无论如何这个问题需要二分查找到最后。
+#+end_quote
+
+#+begin_src java
+  // 在arr上，满足 >= value 的最左位置
+  public static int nearestIndex(int[] arr, int value){
+      int L = 0;
+      int R = arr.length - 1;
+      int index = -1; // 记录最左的对号
+      while(L<R){
+          int mid = L+((R-L)>>1);
+          if(arr[mid] >= value){
+              index = mid;
+              R = mid - 1;
+          } else {
+              L = mid + 1;
+          }
+      }
+      return index;
+  }
+#+end_src
+
+#+begin_quote
+  =>>=使用符号位补齐，=>>>=使用 0 补齐。
+#+end_quote
+**** 6.2.3. 局部最小值问题（任意两个相邻的数不相等）
+
+在长度为 n 的数组内返回一个局部最小值。
+
+#+begin_quote
+  局部最小：考察元素，在边界处。
+
+  1. 如果=arr[0]<arr[1]=那么=arr[0]=是一个局部最小值。
+  2. 如果=arr[n-1]<arr[n-2]=那么=arr[n-1]=是一个局部最小值。
+  3. 如果不在边界，而且=arr[i]<arr[i-1] && arr[i]<arr[i+1]=，那么=arr[i]=就是一个局部最小值。
+#+end_quote
+
+#+begin_src java
+  public static int getLessIndex(int[] arr) {
+      if(arr == null || arr.length == 0) { return -1;}
+      if(arr.length == 1 || arr[0] < arr[1]) { return 0; }
+      if(arr[arr.length-1]<arr[arr.length-2]) { return arr.length - 1; }
+      int left = 1;
+      int right = arr.length - 2;
+      int mid = 0;
+      while(left < right){
+          mid = left + ((rigth - left) >> 1);
+          if(arr[mid]>arr[mid - 1]){
+              right = mid - 1;
+          } else if (arr[mid] > arr[mid + 1]) {
+              left= mid + 1;
+          } else {
+              return mid;
+          }
+      }
+      return left;
+  }
+#+end_src
+
+思路：
+
+1. 考察边界：如果边界存在则返回边界。
+2. 边界不存在：那么说明，数组自左向右递减，自右向左递减。因此，$[1,n-2]$范围内必然存在一个值满足局部最小条件。不妨假定这个在
+   mid。
+3. 考察$arr[mid]$，如果满足局部最小则返回，否则以 mid
+   为一个边界，与另一个与之形成双向递减的边界围成的范围内继续二分。
+
+结论：
+能够二分不一定非要有有序这个前提。要看选择中点时有没有排它性出现（要么向左划分，要么向右划分）

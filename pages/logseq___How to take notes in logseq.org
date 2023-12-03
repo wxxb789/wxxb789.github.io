@@ -1,0 +1,30 @@
+* how to use journals
+* how to organize pages and journals and build relationships between them
+* how to build a clean index aka contents in logsea
+* DONE decision
+:LOGBOOK:
+CLOCK: [2022-10-05 Wed 00:01:52]--[2022-10-05 Wed 00:01:53] =>  00:00:01
+:END:
+what decisions should I make while I using the logseq
+** use space or not (maybe dash)
+** back link (page and block)
+*** tags, namespaece (hierarchy)
+*** workflow
+* 分类
+** ((634f6b1a-ecc4-47d7-93d4-1966054a3c6d))
+* some tags
+** #budding
+** #to-develop
+* [[../assets/image_1669475528856_0.png]]
+* [[../assets/Niklas_Luhmann’s_Card_Index_1669476106011_0.pdf][Niklas Luhmann’s Card Index.pdf]]
+* [[maximum likelihood estimation]] 最大似然估计
+* [[maximum a posteriori]] 最大后验估计
+*
+* articles
+写作
+** [[https://fortelabs.com/blog/how-to-take-smart-notes/][How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs]]
+** [[https://superorganizers.substack.com/p/how-to-build-a-learning-machine][How to Make Yourself Into a Learning Machine (substack.com)]]
+** [[https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C][Evergreen notes (andymatuschak.org)]]
+** [[https://notes.andymatuschak.org/About_these_notes][About these notes (andymatuschak.org)]]
+** [[https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc][“Better note-taking” misses the point; what matters is “better thinking” (andymatuschak.org)]]
+*

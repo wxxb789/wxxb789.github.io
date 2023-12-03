@@ -1,0 +1,31 @@
+* 内容
+* [[jdbc]]（数据库连接池）
+* HTML
+* XML
+* CSS
+* JS
+* AJAX
+* jQuery
+* Servlet Tomcat
+
+** Servlet
+** Listener
+** Filter
+
+* JSP and JSTL
+* 国际化
+* 常用库
+
+
+* JDBC connector
+* 数据库连接池
+* BeanUtils
+* xml
+* json
+
+* 相关设计模式
+** 单例
+** 工厂
+** 观察者
+** 装饰者
+** 笔记结构

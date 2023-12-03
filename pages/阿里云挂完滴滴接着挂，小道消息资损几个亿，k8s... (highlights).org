@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: 阿里云挂完滴滴接着挂，小道消息资损几个亿，k8s... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[GobeUncleWang on Twitter]]
+:full-title: "阿里云挂完滴滴接着挂，小道消息资损几个亿，k8s..."
+:category: [[tweets]]
+:url: https://twitter.com/GobeUncleWang/status/1729447966782763008
+:image-url: https://pbs.twimg.com/profile_images/1540524987572195329/yT3N6FIR.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-30]]
+** 📌
+** #+BEGIN_QUOTE
+** 阿里云挂完滴滴接着挂，小道消息资损几个亿，K8S的问题，SRE定位了三个小时没定位到。有说是升级容器搞挂的，有说是 etcd 挂了的，有说是存储挂了的，也有可能是 etcd 和恢复工具循环依赖套娃了。 
+
+![](https://pbs.twimg.com/media/GAA7wewaYAAAujx.jpg)  ([View Tweet](https://twitter.com/GobeUncleWang/status/1729447966782763008))
+** #+END_QUOTE

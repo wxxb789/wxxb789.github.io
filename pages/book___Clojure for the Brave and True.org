@@ -1,0 +1,4 @@
+#+title: book/Clojure for the Brave and True
+#+tags: clojure, lisp
+
+* [[../assets/Clojure_for_the_Brave_and_True_1650458579242_0.pdf][Clojure for the Brave and True.pdf]]

@@ -1,0 +1,5 @@
+#+alias: deep learning,
+#+tags: ai,
+
+*
+*

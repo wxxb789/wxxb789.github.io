@@ -1,0 +1,4 @@
+#+tags: db,
+
+* [[https://book.douban.com/subject/2256069/][Readings in Database Systems (豆瓣) (douban.com)]]
+*

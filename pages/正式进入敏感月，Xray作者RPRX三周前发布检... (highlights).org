@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: 正式进入敏感月，Xray作者RPRX三周前发布检... (highlights)
+:author: [[geekbb on Twitter]]
+:full-title: "正式进入敏感月，Xray作者RPRX三周前发布检..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1664090262782738433
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** 正式进入敏感月，Xray作者RPRX三周前发布检测TLS in TLS 工具，GFW表示感谢😂。现在高危协议有:
+SS
+Trojan
+TCP/WS套TLS
+我准备测试以下协议过月:
+VLESS-Vision-TLS
+VLESS-Vision-uTLS-REALITY
+VLESS-gRPC-uTLS-REALITY
+高危协议不建议使用，也许存在幸存者偏差，但能探测就是能探测，没什么好得瑟的。 
+
+![](https://pbs.twimg.com/media/Fxf3p-UaUAA97m9.jpg) ([View Tweet](https://twitter.com/geekbb/status/1664090262782738433))
+** 相关链接https://t.co/uQmZ4cn8zM 
+
+![](https://pbs.twimg.com/media/FxgH9hqagAEPha_.jpg) ([View Tweet](https://twitter.com/geekbb/status/1664090265945276418))

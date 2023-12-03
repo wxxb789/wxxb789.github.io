@@ -1,0 +1,4 @@
+#+title: book/Dive Into Design Patterns
+
+* [[../assets/Dive_Into_Design_Patterns_1649763023154_0.pdf][Dive Into Design Patterns.pdf]]
+*

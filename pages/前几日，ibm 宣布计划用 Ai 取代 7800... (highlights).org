@@ -1,0 +1,73 @@
+:PROPERTIES:
+:title: 前几日，ibm 宣布计划用 Ai 取代 7800... (highlights)
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "前几日，ibm 宣布计划用 Ai 取代 7800..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1658261415453679618
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-17]]
+** 前几日，IBM 宣布计划用 AI 取代 7800 个工作岗位。   
+
+许多其他公司将效仿。   
+
+您现在应该学习和利用 AI 来做好准备。   
+
+以下是关于 AI 的 6 大顶尖课程（权威且免费），来自吴恩达，coursera，哈佛，斯坦福，谷歌等。可让您遥遥领先： ([View Tweet](https://twitter.com/FinanceYF5/status/1658261415453679618))
+** 1. ChatGPT 开发者提示工程     
+
+由 DeepLearning AI 和 OpenAI 为开发者提供的关于 ChatGPT Prompt工程的免费课程。来自@AndrewYNg
+
+在这短短的 1.5 小时课程中，他和@isafulf 会教您如何使用大型语言模型 (LLM) 快速构建应用程序，以及这样做的最佳实践。
+
+https://t.co/7pguZ9ghix https://t.co/g3tRxYa22a ([View Tweet](https://twitter.com/FinanceYF5/status/1658262189730574342))
+** 2. 吴恩达的0基础人工智能入门经典课程
+
+面向所有人的 AI 入门课程，包括非技术人员。
+还是由吴老师 @AndrewYNg 和DeepLearningAI 在2019年推出，是一个4周的，0基础的系统课程，94万人报名。
+
+https://t.co/yschW2OmTL https://t.co/mgbDiwzHiV ([View Tweet](https://twitter.com/FinanceYF5/status/1658263659444047872))
+** 3.哈佛CS50     
+
+使用 Python 学习 AI 机器学习的基础知识。
+为期7周，66万人报名
+
+https://t.co/rlyCalRGwf https://t.co/qhX65KgY18 ([View Tweet](https://twitter.com/FinanceYF5/status/1658264119785693184))
+** 4. 斯坦福 CS 224N     
+
+介绍自然语言处理 (NLP) 及其工作原理。2022年推出
+，部分课程由克里斯托弗·曼宁老师讲授，斯坦福大学教授、斯坦福自然语言处理组负责人。
+https://t.co/GXji22zmRK https://t.co/apS9xoX4J9 ([View Tweet](https://twitter.com/FinanceYF5/status/1658265188142047233))
+** 5.学习Prompting   
+
+包含 60 多个内容模块的提示工程综合课程。     
+带你从初级到高级。
+
+https://t.co/kDr7FXbCv7 https://t.co/Yrcc1RlPlY ([View Tweet](https://twitter.com/FinanceYF5/status/1658265437623418882))
+** 6. 机器学习简介    
+
+ Google 的免费机器学习入门课程
+   
+https://t.co/b9nRJkMMyh https://t.co/T2qSfbLeXF ([View Tweet](https://twitter.com/FinanceYF5/status/1658265799805763584))
+** 7、学习 AI，通过微软的GitHub Copilot
+
+4月25日推出 时效性很强
+
+为ML新手，使用python语言的工程师准备的
+
+https://t.co/Ru0wU3VTyu ([View Tweet](https://twitter.com/FinanceYF5/status/1658266440389267456))
+** 以上就是全部内容
+原整理者：@rowancheung 感谢他！
+翻译整理不易，如果你喜欢，请
+1.关注我@financeYF5 获取更多内容  
+2. 点赞+转发下方推文分享https://t.co/6uIoevV0kX ([View Tweet](https://twitter.com/FinanceYF5/status/1658266932452425728))
+** 补充：
+LangChain 101：Prompts课程 
+ 您将学习如何：  
+- 构建 LLM Prompts  
+- 构建聊天Prompts  
+- 使用Prompts选择器  
+- 使用解析器格式化输出   满的
+
+@Replit 包含 90 分钟视频的项目，涵盖了@LangChainAI  Prompts！
+https://t.co/ZdxxTiUHiO ([View Tweet](https://twitter.com/FinanceYF5/status/1658290306566205441))

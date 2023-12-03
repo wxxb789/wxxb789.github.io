@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: 🔥Check Out Our SEEM! A N... (highlights)
+:author: [[jw2yang4ai on Twitter]]
+:full-title: "🔥Check Out Our SEEM! A N..."
+:category: #tweets
+:url: https://twitter.com/jw2yang4ai/status/1646939294580473856
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-16]]
+** 🔥Check out our SEEM! A new image segmentation interface with a single model supporting prompts like text, points, boxes, scribbles and even ref images! It is versatile, compositional, interactive, and semantic-aware! 
+Code: https://t.co/8vofaL0JQN
+Demo: https://t.co/ksr82Uw8Vk ([View Tweet](https://twitter.com/jw2yang4ai/status/1646939294580473856))
+** SEEM inherits the spirit of our X-Decoder to build a general-purpose multi-modal interface but focuses on adapting human intents in various formats (texts, UI actions, audios, etc.) to universal prompt space for the decoder, removing the communication barrier between you and AI! ([View Tweet](https://twitter.com/jw2yang4ai/status/1646943063057780736))
+** With SEEM, the power of the segmentation models is fully unleashed and your intents can be fully conveyed! It further shows surprising capacities to generalize to unseen prompts and different visual domains. Some interesting examples for using texts, points and images as prompts! 
+
+![](https://pbs.twimg.com/media/Ftsf6CIaMAAEp_w.jpg) 
+
+![](https://pbs.twimg.com/media/Ftsf7wZaEAE92VJ.jpg) 
+
+![](https://pbs.twimg.com/media/FtsgC2raIAATs46.jpg) ([View Tweet](https://twitter.com/jw2yang4ai/status/1646945974592630789))
+** Another interesting and promising application is using SEEM for videos! We did NOT train on it with a single video. It works directly for you to segment any entities! With just a simple scribble on the first frame, it can handle deformations, zooms, and blurring in a long range! 
+
+![](https://pbs.twimg.com/media/Ftsh-JmaQAAFHEz.jpg) ([View Tweet](https://twitter.com/jw2yang4ai/status/1646947456662507520))
+** It does not only understand the single entities but also the styles and contexts! See these interesting proofs! 
+
+![](https://pbs.twimg.com/media/Ftsjl2OaAAEn1-f.jpg) 
+
+![](https://pbs.twimg.com/media/FtsjnEfaIAACnUh.jpg) ([View Tweet](https://twitter.com/jw2yang4ai/status/1646949347660304386))
+** Seeing these good results, you may wonder whether it fails. Yes! it fails in many cases. It does not handle object parts. it does not have a huge vocabulary size though it was trained for open-vocab. The segmentation preciseness may also not satisfy your requirements sometime. ([View Tweet](https://twitter.com/jw2yang4ai/status/1646950412568907777))
+** At last, you may wonder what we think about moving forward. We do advocate solving vision out of the box and building interactive/universal interfaces for the multi-modal world, particularly the open visual world we are residing! It is not the end, it is just right the beginning! ([View Tweet](https://twitter.com/jw2yang4ai/status/1646953187231023104))

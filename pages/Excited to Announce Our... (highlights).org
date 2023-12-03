@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: Excited to Announce Our... (highlights)
+:author: [[ankur_maker on Twitter]]
+:full-title: "Excited to Announce Our..."
+:category: [[tweets]]
+:url: https://twitter.com/ankur_maker/status/1661416704524558336
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-25]]
+** Excited to announce our new course: "Introduction to @LangChainAI : A Framework for Large Language Model Applications"!🎉
+Dive into the world of #LangChain, a software development framework designed to streamline the creation of applications using LLM
+#ChatGPT #LLM #course 
+
+![](https://pbs.twimg.com/media/Fw6IH12XoAA4iFs.png) ([View Tweet](https://twitter.com/ankur_maker/status/1661416704524558336))
+** Agenda: We've packed this course with everything from understanding what LangChain is, to building your own application. A complete guide to get you started with LangChain.📚🚀 
+
+![](https://pbs.twimg.com/media/Fw6IhoUWAAUl7KH.png) ([View Tweet](https://twitter.com/ankur_maker/status/1661416706957246468))
+** Check our course at the link below. https://t.co/7WJ9DwsEIf
+Repo link: 
+https://t.co/NWF3peraJK ([View Tweet](https://twitter.com/ankur_maker/status/1661416709176082432))
+** 🤞Fingers crossed that you found this thread beneficial! If you did, consider taking the following steps:
+
+1️⃣ Follow me ( @ankur_maker ) for more AI insights and @LangChainAI walkthroughs. 
+2️⃣ Show your appreciation by liking and retweeting the initial tweet below👍🔄:… ([View Tweet](https://twitter.com/ankur_maker/status/1661417034674995202))
+** @LangChainAI Video tutorials would be added soon on
+https://t.co/mfH6dyVXIZ ([View Tweet](https://twitter.com/ankur_maker/status/1661417753247350793))

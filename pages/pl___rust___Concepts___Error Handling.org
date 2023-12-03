@@ -1,0 +1,20 @@
+#+title: pl/Rust/Concepts/Error Handling
+Rust 将错误分为两种，可恢复错误（recoverable）和 不可恢复错误（unrecoverable）。
+
+* =Result<T, E>=
+可恢复错误
+* =panic!=
+不可恢复错误
+* To =panic!= or Not to =panic!=
+=panic!= 比 =Result<T, E>= 更合适的场景
+** 示例、代码原型和测试都非常适合 panic
+** 当我们比编译器知道更多的情况
+#+begin_src rust
+use std::net::IpAddr;
+
+// 永远不会 panic
+let home: IpAddr = "127.0.0.1".parse().unwrap();
+#+end_src
+** 错误处理指导原则
+当代码有可能以有害状态结束时，建议让代码 panic。
+** 创建自定义类型进行有效性验证

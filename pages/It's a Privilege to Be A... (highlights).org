@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: It's a Privilege to Be A... (highlights)
+:END:
+:PROPERTIES:
+:author: [[ianzhu_sj on Twitter]]
+:full-title: "It's a Privilege to Be A..."
+:category: [[tweets]]
+:url: https://twitter.com/ianzhu_sj/status/1672014165039513600
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023\-06\-23]]
+** It's a privilege to be able to extend the power of LLMs to schools and districts. Now any parent can ask any question about their child in any language. Context + AI can be extremely powerful.
+
+Special thanks to @llama_index (@jerryjliu0) and @OpenAI for making this possible. https://t.co/Sw95dwFsuN ([View Tweet](https://twitter.com/ianzhu_sj/status/1672014165039513600))
+** Here's how quickly teachers can create initial drafts of letter of recommendation when students' achievements and feedback from mentors and other teachers are already centralized in one system (this data is seldom centrally tracked). https://t.co/UDpTIrhWHF ([View Tweet](https://twitter.com/ianzhu_sj/status/1672014166704689152))
+** And we're just getting started! Lots more exciting features in development to give every district and every educator a powerful, personalized, and tireless assistant.
+
+Check out https://t.co/LYkF1426V6 if you're interested in trying the prompts yourself! ([View Tweet](https://twitter.com/ianzhu_sj/status/1672014168692764672))

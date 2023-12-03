@@ -1,0 +1,21 @@
+* ALL TODO
+:PROPERTIES:
+:query-table: true
+:collapsed: true
+:END:
+#+BEGIN_QUERY
+{:title "All TODO"
+:query [:find (pull ?b [*])
+:where
+[?b :block/marker ?marker]
+[(contains? #{"TODO"} ?marker)]
+[?b :block/ref-pages ?p]]
+}
+#+END_QUERY
+* All Unfinished
+:PROPERTIES:
+:query-table: true
+:query-sort-by: page
+:query-sort-desc: false
+:END:
+{{query (task todo doing now later)}}

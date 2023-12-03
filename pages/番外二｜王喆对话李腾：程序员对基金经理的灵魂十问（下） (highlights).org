@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 番外二｜王喆对话李腾：程序员对基金经理的灵魂十问（下） (highlights)
+:author: [[geekbang.org]]
+:full-title: "番外二｜王喆对话李腾：程序员对基金经理的灵魂十问（下）"
+:category: #articles
+:url: https://time.geekbang.org/column/article/419323
+:END:
+tags:: #[[gt/程序员的个人财富课]]
+
+* Highlights first synced by [[Readwise]] [[2023-04-14]]
+** 此外，量化投资领域的头部岗位还是高度内卷的，充斥着大量清北复交藤校的毕业生。要想成为抢手的量化投资从业者，至少要在三个方面比较出众：一是投资的经验和直觉，二是数学建模能力，三是编程能力。 ([View Highlight](https://read.readwise.io/read/01gxzjn2vptbjms010ntz18gtz))
+** 李：关于程序员面对量化投资时的态度，我有两点建议。
+
+第一，不要认为这件事很容易。如果有其他性价比更高的努力方向，我不建议加入到高度内卷的量化投资领域。
+
+第二，也不要认为这件事不可能做到。现在比较优秀的量化私募的合伙人团队，几乎每一家都有一位是程序员出身的。程序员在做量化投资方面，确实有先天的优势。
+
+总结一下，就是承认这件事很难，但同时也要清楚自己的优势，做有章法的长期积累。你可以给自己预留几年的时间用来成长和试错，还是有可能成为靠量化投资养活自己，甚至财富自由的程序员的。 ([View Highlight](https://read.readwise.io/read/01gxzjnkxg3j8cg2mt9c3v7g4e))

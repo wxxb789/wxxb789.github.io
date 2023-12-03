@@ -1,0 +1,43 @@
+* 对象
+
+* There are four different ways to create a object in Java
+
+(I really don't know is there a fifth way to do this)
+
+1. Using =new= keyword This is the most common way to create an object
+   in java. I read somewhere that almost 99% of objects are created in
+   this way.
+
+   =MyObject object = new MyObject();=
+
+2. Using =Class.forName()= If we know the name of the class & if it has
+   a public default constructor we can create an object in this way.
+
+#+begin_src java
+      // newInstance() of Class class
+      MyObject object = (MyObject) Class.forName("com.path.MyObject").newInstance();
+      Employee emp2 = (Employee) Class.forName("com.path.Employee").newInstance();
+
+      // newInstance() of Constructor class
+      Constructor<Employee> constructor = Employee.class.getConstructor();
+      Employee emp3 = constructor.newInstance();
+#+end_src
+
+3. Using =clone()= The clone() can be used to create a copy of an
+   existing object.
+
+#+begin_src java
+      MyObject anotherObject = new MyObject();
+      MyObject object = anotherObject.clone();
+#+end_src
+
+4. Using *object deserialization* Object deserialization is nothing but
+   creating an object from its serialized form.
+
+#+begin_src java
+      ObjectInputStream inStream = new ObjectInputStream(anInputStream );
+      MyObject object = (MyObject) inStream.readObject();
+#+end_src
+
+Now you know how to create an object. But its advised to create objects
+only when it is necessary to do so.

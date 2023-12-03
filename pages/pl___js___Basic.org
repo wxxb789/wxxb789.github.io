@@ -1,0 +1,63 @@
+
+
+* 02-Javascript
+
+** 变量
+
+*** Number
+
+*** String
+
+单引号，双引号都可以，但不要混用。使用=\=转义字符串内引号。
+**** 属性
+
+=length=
+
+=[]=：检索特定字符
+
+=indexOf()=：字串检测
+
+=slice()=
+
+=toUpperCase()=
+
+=toLowerCase()=
+
+=replace()=
+**** 链接字符串
+
+=+=
+**** 转换
+
+字符串->数字：=parseInt();=,=Number();=
+
+数字->字符串：=num.toString();=
+*** Bollean
+
+*** Array
+
+**** 属性
+
+=length=：获取长度。 #### 转换
+
+字符串->数组：=var arr = str.split(",");=
+
+数组->字符串： =var str = arr.join(",");= =var str = arr.toString();=
+**** 添加删除
+
+=push()=,=pop()=：尾部添加删除
+
+=unshift()=,=shift()=：头部添加删除
+*** Object
+
+#+begin_example
+  var dog = { name : 'Spot', breed : 'Dalmatian' };
+  console.log(dog.name);
+#+end_example
+** 运算符
+
+==== =!== 等于，不等于。忽略数据类型
+
+=NaN=不等于任何值。
+
+===== =!=== 严格等于，严格不等于。比较数据类型。

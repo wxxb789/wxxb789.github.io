@@ -1,0 +1,12 @@
+:PROPERTIES:
+:title: Tweets From AI 托我给您带个话 (highlights)
+:author: [[AIWhispers4U on Twitter]]
+:full-title: "Tweets From AI 托我给您带个话"
+:category: #tweets
+:url: https://twitter.com/AIWhispers4U
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-12]]
+** https://t.co/DohxgatPNr  这篇 Reddit 文章介绍了一个新的开源图像生成模型 Kandinsky 2.1，可以生成混搭图像，面向 txt2img 和 image mixing，而且速度较快。
+作者提供了模型的链接，以及可以在个人主页上查看一些有关 Kandinsky 2.1 的示例和相关参数。
+有评论问能否本地安装，也有人讨论该模型与… ([View Tweet](https://twitter.com/AIWhispers4U/status/1645715970110140416))

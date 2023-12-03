@@ -1,0 +1,4 @@
+* 窗口函数
+:PROPERTIES:
+:id: outline
+:END:

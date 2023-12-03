@@ -1,0 +1,6 @@
+#+tags: org-mode, markdown,
+
+* #+BEGIN_SRC bash
+pandoc -f markdown -t org -o newfile.org original-file.markdown
+#+END_SRC
+*

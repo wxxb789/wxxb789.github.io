@@ -1,0 +1,27 @@
+
+
+* [05]测试mapper
+
+** 1. 此处仅以插入方法为例测试
+
+#+begin_src java
+      private SqlSession sqlSession;
+      private StudentMapper mapper;
+      private SimpleDateFormat dateformat;
+      @Before
+      public void setUp() throws Exception {
+          sqlSession = MyBatisSqlSessionFactory.getSqlSession();
+          mapper = sqlSession.getMapper(StudentMapper.class);
+          dateformat = new SimpleDateFormat("yyyy-MM-dd");
+      }
+      @Test
+      public void testInsert() {
+          try {
+              mapper.insert(new Student("xm", "男", dateformat.parse("1995-12-25"), "北京"));
+              sqlSession.commit();
+              sqlSession.close();
+          } catch (ParseException e) {
+              e.printStackTrace();
+          }
+      }
+#+end_src

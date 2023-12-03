@@ -1,0 +1,4 @@
+#+alias: 项目笔记，project-notes, projn,
+
+* 项目笔记 Project Notes。只和特定项目相关，用完就可以存档。
+*

@@ -1,0 +1,72 @@
+:PROPERTIES:
+:title: 看到2023年十佳文字生产视频ai工具，我想和大... (highlights)
+:author: [[sunyangphp on Twitter]]
+:full-title: "看到2023年十佳文字生产视频ai工具，我想和大..."
+:category: #tweets
+:url: https://twitter.com/sunyangphp/status/1645433703567351808
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-11]]
+** 看到2023年十佳文字生产视频AI工具，我想和大家分享一下我的看法。这些工具包括
+
+ #ssynthesia #fliki #movio #runway #invideo #veed #descript #steveai #veed #lumen5 #pictory。
+
+如果你正在寻找一款可以帮助你生产视频的AI工具，那么这些都是不错的选择。 
+
+![](https://pbs.twimg.com/media/FtW-BmmaIAA2o_L.jpg) ([View Tweet](https://twitter.com/sunyangphp/status/1645433703567351808))
+** 💻 软件名：Synthesia 
+
+🎹 特点：使用游戏化界面帮助用户学习弹钢琴或键盘乐器，支持自定义功能和MIDI输入。适用于初学者和有经验的音乐家，可提高肌肉记忆和视奏能力。 
+
+🔗 网址：https://t.co/be7xWMoykj📣 
+
+#Synthesia #钢琴学习软件 ([View Tweet](https://twitter.com/sunyangphp/status/1645436735650942981))
+** 📷 软件名：Fliki
+
+特点：Fliki是一款支持云备份的照片管理软件，可自动整理和分类用户的照片。它还提供了多种滤镜和编辑工具，使用户可以轻松地对照片进行美化和修复。Fliki还支持跨平台同步和分享功能，让用户方便地与家人和朋友分享照片。#Fliki #照片管理
+
+🔗 网址：https://t.co/FHdbWvoUL0 ([View Tweet](https://twitter.com/sunyangphp/status/1645437880356208642))
+** 🎬 软件名：Movio
+
+特点：Movio是一款电影推荐和票务预订应用程序。该应用程序基于用户的电影偏好，向他们提供个性化的电影建议，并可在附近的影院查找电影场次和购买电影票。#Movio #电影推荐
+
+🔗 网址：https://t.co/hp4v4jFS2v ([View Tweet](https://twitter.com/sunyangphp/status/1645438123613245446))
+** 🎥 InVideo
+
+InVideo是一款在线视频编辑软件，提供多个预设的视频模板和库存素材，用户可以轻松制作专业水平的视频。该软件还具有强大的视频编辑功能，如文本动画、音频调整等，以及支持与许多社交媒体平台集成的功能。#InVideo #在线视频编辑
+
+🔗 网址：https://t.co/Kku5WkKi3h ([View Tweet](https://twitter.com/sunyangphp/status/1645438763861164032))
+** 🎬Veed
+
+Veed是一款在线视频编辑软件，可帮助用户对视频进行剪辑、剪裁、添加字幕和音乐等操作。该软件还具有自动字幕生成功能，可以节省用户的时间和精力。#Veed #在线视频编辑
+
+🔗 网址：https://t.co/iS9id8W729 ([View Tweet](https://twitter.com/sunyangphp/status/1645438981927239681))
+** 🎤 Descript
+
+Descript是一款基于AI的音频编辑软件，可以将语音转换为文本并进行编辑。该软件还提供了多种高级编辑功能，如消除“啊”、“嗯”等口头禅等。
+
+Descript还提供了一个协作平台，让用户可以与其他人共同编辑和制作音频文件。#Descript #音频编辑
+
+🔗 网址：https://t.co/kdlrtvI9kY ([View Tweet](https://twitter.com/sunyangphp/status/1645439213410877440))
+** 💬 SteveAI
+
+SteveAI是一款基于AI的语音助手，可以回答用户的问题、提供信息和执行任务。
+
+它使用自然语言处理技术，支持多种语言，并能够通过学习用户的偏好和行为来提供个性化的服务。#SteveAI #语音助手
+
+🔗 网址：https://t.co/2xAMEPY072 ([View Tweet](https://twitter.com/sunyangphp/status/1645439371129282561))
+** 🎬 软件名：Veed
+
+特点：Veed是一款在线视频编辑软件，可帮助用户对视频进行剪辑、剪裁、添加字幕和音乐等操作。该软件还具有自动字幕生成功能，可以节省用户的时间和精力。#Veed #在线视频编辑
+
+🔗 网址：https://t.co/iS9id8W729 ([View Tweet](https://twitter.com/sunyangphp/status/1645439523676114944))
+** 🎬 Lumen5
+
+Lumen5是一款基于AI的在线视频制作工具，可以将文本转换为视频。用户只需在软件中输入文章或博客内容，该软件还提供了多种视频模板和库存素材，使用户可以轻松地创建专业水平的视频。#Lumen5 #在线视频制作
+
+🔗 网址：https://t.co/deb838KnJl ([View Tweet](https://twitter.com/sunyangphp/status/1645439723836682241))
+** 🎨 Pictory
+
+特点：Pictory是一款基于AI的在线设计工具，可以帮助用户轻松创建精美的图形设计。该Pictory还具有智能配色和排版功能，可以根据用户选择的主题自动调整颜色和布局。#Pictory #在线设计
+
+🔗 网址：https://t.co/de5Fg0mCTJ ([View Tweet](https://twitter.com/sunyangphp/status/1645439885946535939))

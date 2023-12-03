@@ -1,0 +1,78 @@
+
+
+* 00-Index
+
+Outline
+** 标准库
+
+** 浏览器 API
+
+** DOM
+
+** let,const
+
+** block scope
+
+** global object
+
+** 顶层对象属性
+
+顶层对象在浏览器环境中指的是 window 对象，在Node环境中指的是 global
+对象。 在 ES5 中，顶层对象的属性与全局变量是等价的。
+** 变量的解构赋值
+
+** 数值扩展
+
+** 字符串扩展
+
+** Iterator 与 for ... of
+
+** 函数扩展
+
+** Generator
+
+*** 语法
+
+*** 异步应用
+
+** 数组扩展
+
+** 对象扩展
+
+** Symbol
+
+** 数据结构
+
+*** Set
+
+*** Map
+
+** 正则扩展
+
+** Proxy
+
+** Reflect
+
+** Promise Object
+
+** asyc
+
+** Class
+
+*** 语法
+
+*** 继承
+
+** 修饰器
+
+** Module
+
+*** 语法
+
+*** 加载实现
+
+** ArrayBuffer
+
+** ECMAScript 规范
+
+** 编程风格

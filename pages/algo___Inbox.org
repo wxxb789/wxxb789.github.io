@@ -1,0 +1,32 @@
+* notes
+
+搜索二叉树没有重复值。
+
+由简单情况到复杂情况分析。 复杂情况可能会重复用到简单情况。
+
+搜索二叉树：理想，左右高度差不超过1。 左旋，右旋。 插入调整，delete调整
+
+四种情况： LL RR LR RL
+
+插入节点时沿途检测并执行旋转维持平衡
+* Morris
+
+一个节点有左子树，遍历两次。 没有左子树，遍历一次。
+* DP Comments
+
+DP: comment
+
+Step 1. ur problem graph better be a dag
+
+Step 2. ur sub problems better overlap
+
+Step 3. time to table dat dag
+
+Step 4. solve ur problems and build ur table graph the way a dag would :
+to-po-lo-gi-cal-ly
+
+akhilcacharya 7 months ago [-]
+
+I think the DAG approach is a good one, but the problem is its not great
+for being applied generally. For me, it's difficult to think of
+something like the "House Robber" problem as a DAG.

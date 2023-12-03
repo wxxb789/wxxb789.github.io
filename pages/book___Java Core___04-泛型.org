@@ -1,0 +1,49 @@
+* 04-泛型
+* 通配符=?=
+
+=ArrayList<?>=代表未知类型，没法使用 =add()= 方法，甚至没法 =add(new Object())=。
+而且不同于 =ArrayList<Object>= 但是可以 ~ArrayList<?> unkonwnList = new ArrayList<Integer>();~ 。
+** 1. =T=与 =?= 的区别
+
+
+- =Class<T>=在实例化的时候，T要替换成具体类
+- =Class<?>=它是个通配泛型，?可以代表任何类型，主要用于声明时的限制情况
+* 上下界
+
+out-> =extends=, in-> =super=
+* 使用准则
+
+
+#+begin_quote
+  PECS (Producer Extends, Consumer Super)
+#+end_quote
+
+- =in=变量： =in= 变量 *提供数据* （data）给代码。（例如， =copy(src,dest)=  , =src= 作为 =in= 变量被复制）
+- =out=变量： =out= 变量 *持有数据* （data）被代码更新。（例如， =copy(src,dest)=  , =dest= 作为 =out= 变量持有被复制的数据）
+
+1. =extends=:Upper bound
+   wildcard， =in= 变量(get)。 =<? extends T>= 表示类型T的任意子类型，包括类型T本身。
+2. =super= :Lower bound wildcard，
+   =out=变量(add)。 =<? super T>= 表示类型T的任意父类型，包括类型T本身。
+3. =?=:Unbounded wildcard,如果变量能通过Object class method访问
+4. =没有通配符=:如果变量既 =in= 类访问，也要 =out= 访问
+
+#+begin_quote
+  当你需要从一个数据结构中获取数据时(get)，那么就使用 =<? extends T>=。
+  如果你需要存储数据(put)到一个数据结构时，那么就使用 =<? super T>=。
+  如果你又想存储数据，又想获取数据，那么就不要使用通配符 ?
+  ，即直接使用具体泛型T。
+#+end_quote
+
+- =List<? extends T> t=可以理解为，具有任何从 =T= 继承的类型的列表，则可以按 =T= 取出。 =t= 提供数据，被取出。
+- =List<? super T> t=逆变指明泛型类持有T的基类，则 =T= 肯定可以放入。 =t= 接受数据，被加入。
+* 限制
+
+
+- 不能把参数化类型声明为静态字段。
+- 不能类型转换，除非是 =?= (Unbounded wildcard)
+- 无法使用 =instanceof= （因为类型擦除，运行时JVM无法区分 =Box<Integer>= 与 =Box<String= ）
+- 没有泛型数组
+- 不能直接或间接的继承 =Throwable= 类（ =java.lang.Throwable= ）。但是 =class Box<T extends Exception>= 可以使用。
+- 不能再 =catch()= 内使用泛型例如 =catch(T t)= 
+- 没法重载，如果在类型擦除后函数签名相同

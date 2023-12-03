@@ -1,0 +1,94 @@
+
+
+* XxxMapper.xml
+:PROPERTIES:
+:id: xxxmapper.xml
+  
+:END:
+
+1. 如果JavaBean对象的属性与字段名称不同，应该使用resultMap,并给出详尽的映射配置
+
+#+begin_example
+        <resultMap id="BaseResultMap" type="entity.Student" >
+          <id column="id" property="id" jdbcType="INTEGER" />
+          <result column="stuName" property="stuname" jdbcType="VARCHAR" />
+          <result column="sex" property="sex" jdbcType="CHAR" />
+          <result column="birthDate" property="birthdate" jdbcType="DATE" />
+          <result column="address" property="address" jdbcType="VARCHAR" />
+        </resultMap>
+#+end_example
+
+2. 增删改查标签的parameterType常用属性类型
+
+   1. 基本数据类型包装类
+
+      1. int：Integer.class
+
+   2. 字符串类型
+
+      2. string/String：String.class
+
+   3. date/Date：Date.class
+   4. 集合
+
+      1. map
+      2. hashmap
+      3. list
+      4. arraylist
+
+   5. 实体bean
+   6. 自定义查询对象
+
+3. 动态查询
+
+   1. 模糊查询
+
+   #+begin_example
+     <select id="selectByAddress" resultMap="BaseResultMap" parameterType="entity.QueryCriteria" >
+     select
+     <include refid="Base_Column_List" />
+     from st_student
+     where address like '%${address}%'
+     </select>
+   #+end_example
+
+   2. 集合查询
+
+   #+begin_example
+     <select id="selectByIdList" resultMap="BaseResultMap" parameterType="list" >
+     select
+     <include refid="Base_Column_List" />
+     from st_student
+     where id in (
+         <foreach collection="list" item="id" index="index" separator=",">
+             #{id}
+         </foreach>
+     );
+     </select>
+   #+end_example
+
+   3. 排序
+
+   #+begin_example
+     <select id="selectOrderByBirthDate" resultMap="BaseResultMap" parameterType="entity.QueryCriteria" >
+         select * from st_student
+         order by
+         ${birthdate}
+         desc
+     </select>
+   #+end_example
+
+4. ={}= 与 =${}= 的区别
+
+   1. =#{}=是占位符，表示sql语句中的"？"，{}内的参数与方法中的参数名保持一致
+
+      1. ~select * from st_student where id=?~
+
+   2. =${}=可以引用自定义查询对象的属性和字符串字面值  1. 以模糊查询为例， =where address like '%${address}%'= 中， =${address}= 表示查询自定义对象的address属性
+
+      2. 通常在bean包下定义持有目标属性的QueryCriteria.java文件，为该属性提供get/set方法
+
+         1. 该目标属性的值将被放置到sql语句中，故均应是String类型
+
+      3. 将目标属性存储到QueryCriteria的实例对象中，将该对象作为实参传递给操作数据库的方法
+*

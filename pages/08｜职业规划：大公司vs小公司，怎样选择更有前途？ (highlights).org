@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: 08｜职业规划：大公司vs小公司，怎样选择更有前途？ (highlights)
+:author: [[geekbang.org]]
+:full-title: "08｜职业规划：大公司vs小公司，怎样选择更有前途？"
+:category: #articles
+:url: https://time.geekbang.org/column/article/400581
+:END:
+tags:: #[[gt/程序员的个人财富课]]
+
+* Highlights first synced by [[Readwise]] [[2023-04-09]]
+** 用我的老本行，机器学习领域的术语来解释，对于职业生涯，我们要优化的目标函数是 n 年职业生涯利益的总和，而不是最近一年的职场收益。这样来看，看似棘手的职业规划问题，一下子转换成了一个财富管理的问题。 ([View Highlight](https://read.readwise.io/read/01gxjcyzde2vcfd3fhmvxrq4sx))
+** ![](https://static001.geekbang.org/resource/image/7b/d9/7bdd0d078c7acfbd2f581e640da69bd9.jpg?wh=8519x3689) ([View Highlight](https://read.readwise.io/read/01gxjczk5wfvxxz5ceg966t5gh))
+** 如果你想尝试加入中小公司，我有三个建议，可以帮助你有效规避潜在的风险：
+
+尽量去 B 轮之后，已经有稳定商业模式的中小公司。如果不是核心创始人，最好不要加入初创公司，成功的概率过低。
+
+即使去中小公司，也要寻求不低于业界平均水平的薪资。你要清楚，一个靠谱创业公司的融资额，一定可以支撑起团队较高的薪资水平。如今，砸锅卖铁搞创业的时代已经过去了，如果现在还有公司只卖情怀不给钱，那只能说明这个公司本身就有问题。
+
+尽量去细分领域的头部中小公司，这样还可以保持技术上的先进性。有很多细分领域的“隐形独角兽”，其实有着比大公司还先进的技术栈。比如我之前所在的 Hulu 北京，在视频流媒体领域的技术积累就非常深厚，人员的素质也远超过大公司的平均水平。这样小而美的团队，毫无疑问是值得加入的。 ([View Highlight](https://read.readwise.io/read/01gxjd5m0hagc5nen52z0pzk7j))
+** ![](https://static001.geekbang.org/resource/image/5b/d8/5b03392e4c6270d7ff716e21222df1d8.jpg?wh=1920x1434) ([View Highlight](https://read.readwise.io/read/01gxjd6xg63dg540w24cvcyvv4))

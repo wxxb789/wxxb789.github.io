@@ -1,0 +1,73 @@
+
+
+* Thread 是什么
+
+
+1. 线程是一可执行路径
+2. 每个线程都在进程（Process）中执行
+
+#+begin_example
+  static void Main()
+  {
+    Thread t = new Thread(WriteSomething);
+    t.Name = "Write Thread ...";
+    // do something on worker thread.
+    t.Start();  
+
+    // do somthing in current main thread.
+    for (int i = 0; i < 1000; i++)
+    {
+      Console.Write("Main thread writing ...\n");
+    }
+  }
+
+  static void WriteSomething()
+  {
+    for (int i = 0; i < 1000; i++)
+    {
+      Console.Write("Worker thread writing...");
+    }
+  }
+#+end_example
+** 线程被抢占
+
+=被抢占=：它的执行与另外一个线程上代码的执行交织的那一点。
+** 线程的属性
+
+
+1. =IsAlive=
+2. 结束条件：线程构造函数传入的委托结束了执行
+3. 线程一旦结束就无法再次重启
+4. 线程有=Name=属性，通常用于调试
+** =Join=与=Sleep=
+
+*** =Thread.Join()=
+
+等待另一个线程结束，或超时。
+
+#+begin_example
+  static void Main()
+  {
+    Thread t = new Thread(Go);
+    t.Start();
+    // waiting for thread t finished.
+    t.Join();
+    Console.WriteLine("Thread t has ended");
+  }
+  static void Go()
+  {
+    for (int i = 0; i <1000; i++)
+    {
+      Console.Write("Worker thread writing...");
+    }
+  }
+#+end_example
+*** =Thread.Sleep()=
+
+暂停当前线程，并等一段时间。
+=Thread.Sleep(0)=会导致线程立即放弃当前时间片，自动将CPU移交给其它线程。
+
+=Thread.Yield()=与=Thread.Sleep(0)=类似，但是只会把执行交给同一个处理器上的其它线程。
+
+当=Sleep()=或=Join()=的时候，线程处于阻塞状态k。
+*

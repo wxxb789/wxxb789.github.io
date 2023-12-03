@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: Let's Try That Again. Da... (highlights)
+:author: [[eatonphil on Twitter]]
+:full-title: "Let's Try That Again. Da..."
+:category: [[tweets]]
+:url: https://twitter.com/eatonphil/status/1659273370825891842
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-19]]
+** Let's try that again. Databases had different methods for atomicity and durability before WALs (such as journal mode in SQLite where it would make a copy of pages before editing them) but this post about WALs matches my intuition anyway.
+
+https://t.co/b0nu5YFSdN 
+
+![](https://pbs.twimg.com/media/FwbsOjsXoBkWSBW.jpg) ([View Tweet](https://twitter.com/eatonphil/status/1659273370825891842))
+** And the SQLite page on WAL mode basically says the same thing, I think.
+
+https://t.co/Oms0yyjCCD 
+
+![](https://pbs.twimg.com/media/FwbsgRbXoAMPS_w.jpg) ([View Tweet](https://twitter.com/eatonphil/status/1659273560043528197))
+** In Postgres, before the WAL was introduced there were just no durability guarantees. (Granted this was 2001.)
+
+https://t.co/ddXXWt3IDX 
+
+![](https://pbs.twimg.com/media/FwbtcjdXoBMmQJf.jpg) ([View Tweet](https://twitter.com/eatonphil/status/1659274791335993370))

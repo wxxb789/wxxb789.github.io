@@ -1,0 +1,59 @@
+:PROPERTIES:
+:title: 林亦LYi的格斗之王 AI着实有趣。作者也将与C... (highlights)
+:author: [[balconychy on Twitter]]
+:full-title: "林亦LYi的格斗之王 AI着实有趣。作者也将与C..."
+:category: #tweets
+:url: https://twitter.com/balconychy/status/1648155227173064706
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-21]]
+** 林亦LYi的格斗之王 AI着实有趣。作者也将与ChatGPT对话的过程公开，这里分享一下启发。
+对于林亦的这个项目我比较好奇的是：
+  他怎么去突破这个未曾搞过的问题？
+  怎么用ChatGPT解决问题的？
+
+https://t.co/cPD16eYY73 ([View Tweet](https://twitter.com/balconychy/status/1648155227173064706))
+** 在分享之前我们思考一个问题：
+在有ChatGPT的时代里，我们碰到比较有挑战的问题，该有什么样的心态？
+做任何事情都会花费我们的时间和精力，所以我们时时刻刻都在评估事情的难度和收益。而ChatGPT的存在，需要我们思考评估问题的难度，以及思考我们该做什么。 ([View Tweet](https://twitter.com/balconychy/status/1648155229815447552))
+** 对话日志，分为study和develop。
+Study相关的问题，林亦主要把他当做一个翻译器。这里面的启发有：
+1，你的信息渠道可以跨域语种，所以不要给自己设语言限制，这里推荐沉浸式翻译，网页浏览直接中英对照，加速阅读。母语仍然是最有效率的阅读方式，而信息可以是跨语种的。 
+
+![](https://pbs.twimg.com/media/Ft9nu80acAA8MWO.jpg) 
+
+![](https://pbs.twimg.com/media/Ft9riwmaAAITMwp.jpg) ([View Tweet](https://twitter.com/balconychy/status/1648155232541761536))
+** 2，但林亦哪里找到这些论文的？这个也很关键，传统的搜索，甄别能力还是很重要。背后的哲学问题是：你要知道你不知道什么？这个在ChatGPT时代尤为重要，这是你提出好问题的前提。 ([View Tweet](https://twitter.com/balconychy/status/1648155236044009472))
+** 另外，ChatGPT的优势更在于解释概念，你要多对他说：我还是不明白，为啥。。。。
+多问几次，ChatGPT会告诉你信息隐藏的假设条件或定理。这个很关键，往往是你与文章之间的容易造成疑惑的信息GAP。 
+
+![](https://pbs.twimg.com/media/Ft9oFkAaMAAbUYI.jpg) ([View Tweet](https://twitter.com/balconychy/status/1648155238736760832))
+** 下图是我尝试理解 NeRF时尝试理解提问时，ChatGPT个回答一下让我豁然开朗。 
+
+![](https://pbs.twimg.com/media/Ft9rwVJaAAIbV91.jpg) ([View Tweet](https://twitter.com/balconychy/status/1648155242062827521))
+** 对于，翻译这个，我推荐用google免费的文档翻译，pdf进pdf出，排版基本保持不变。并采用以下流程消化：
+1，谷歌翻译文档成中文，略读，吸收框架，找出感兴趣的部分
+2，阅读英文部分
+3，不懂的扔给ChatGPT，问最傻的问题（对，就是你最直觉额，感觉不明白的问题），不厌其烦的问题，知道你明白。 
+
+![](https://pbs.twimg.com/media/Ft9r-9BaYAAAju0.jpg) ([View Tweet](https://twitter.com/balconychy/status/1648155245497954304))
+** Develop部分
+这个里面最有趣的是，解决问题过程中的挣扎，从中我们看到林亦碰到几个难题：
+如何控制游戏state存储
+如何从有些截图中获取信息
+训练效果不行，怎么调整，在reward处理上花了不少时间
+如何理解一些概念，碰到难题就得dive in形成自己的思考 ([View Tweet](https://twitter.com/balconychy/status/1648155249784528897))
+** 这个过程中的挣扎是所有人解决问题过程中不可避免的。其中的启发是：
+1，不懂就问，ChatGPT真的很像一个参谋在给你出主意；感觉过程中，林亦真的把ChatGPT当做一个人来商量事情，他把自己的想法和思考说给ChatGPT听，然后不断反馈迭代 ([View Tweet](https://twitter.com/balconychy/status/1648155252951236608))
+** 2，ChatGPT能做很多事情，推荐方案，写代码，bug调试，日志分析（林亦直接把训练日志甩给ChatGPT分析改进），调优，解释概念。
+3，关键的决策还是得自己来做，你还是得有自己的思考，ChatGPT规划能力有限，发现势头不对，该自己上手就自己上手，该给ChatGPT提示就给他提示。 ([View Tweet](https://twitter.com/balconychy/status/1648155255824351232))
+** 4,母语还是最优信息输入方式^_^ 
+
+![](https://pbs.twimg.com/media/Ft9p7yQaAAAGvTJ.jpg) ([View Tweet](https://twitter.com/balconychy/status/1648155258626134016))
+** 最后，发散一下：
+1，始终要站在巨人的肩膀上
+林亦共享出来的代码其实也就几百行，而实现的内容其实不简单。核心是第三方库帮助解决很多问题。其实，年龄越长，发现能力和精力都有限，越早意识到站在巨人的肩膀上，做那薄薄的一层，效果会越好。 ([View Tweet](https://twitter.com/balconychy/status/1648155261981585408))
+** 2，知道自己不知道
+这个哲学问题，在ChatGPT时代，发挥的效力越发明显。当年知道自己不知道什么时，你才有可能向AI提出问题，拓展自己的边界。那一个个你不知道的东西，就像隐藏在地下的兵团，等待你借助AI的力量去唤醒，然后指挥他去战斗。 
+
+![](https://pbs.twimg.com/media/Ft9qvKlakAMd_pI.jpg) ([View Tweet](https://twitter.com/balconychy/status/1648155264552681473))

@@ -1,0 +1,29 @@
+* 1. 常用命令
+** 1. 显示当前登录用户： =show user;=
+** 2. 切换登录用户： =conn[ect] 用户名/密码@实例名 as 身份;=
+*** 1. 如果只有一个实例，那么可以不写。
+*** 2. 如果存在多个实例，必须写。
+*** 3. 非sys用户登录， 可以不写 =as 身份= 默认为 normal 。
+*** 4. 如果是 sys 登录，必须指明 =sysdba= 身份。
+** 3. 推出登录： =disc[onnect];=
+** 4. 执行 =.sql= 脚本文件： =start sql脚本路径= 或 =@ sql脚本路径=
+** 5. 编辑sql文件： =edit=
+** 6. 设置sqlplus环境变量：
+*** 1. =linesize= ：设置窗口一行显示的字符个数，默认是80。
+**** 1. =show linesize= 查看
+**** 2. =set linesize 字符个数= 设置
+*** 2. =pagesize= 设置sqlplus窗口一页可以显示的行数，默认为14.
+**** 1. =show pagesize= 查看
+**** 2. =set pagesize 行数= 设置
+** 7. 交互命令 =&=：
+*** =&=可以用来定义变量，而且变量的值需要在执行sql语句的时候由用户来录入。
+*** 例如： ~select * from student where sno=&no~ 执行时要输入no的值。
+* 2. Oracle 用户管理
+** 1. 新建用户 =create user 用户名 identified by 密码;=
+** 2. 删除用户
+*** 1. =drop user 用户名;= 删除用户，保留数据。
+*** 2. =drop user 用户名 cascade;=
+**** 删除用户，且删除用户所创建的所有数据对象。
+** 3. 赋权：（dba角色用户） =grant 权限 to 用户;=
+*** 在oracle中新建的用户是没有任何权限的,连最基本的登陆(会话)权限(create session)都没有;
+*

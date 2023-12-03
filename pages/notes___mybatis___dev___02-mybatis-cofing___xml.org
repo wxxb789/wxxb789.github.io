@@ -1,0 +1,160 @@
+
+
+* MyBatis框架的配置文件是xml文件，配置了MyBatis框架的平台特性和信息
+
+**  configuration（根标签）
+**  properties 属性
+**  settings 设置
+**  typeAliases 类型别名
+**  typeHandlers 类型处理器
+**  objectFactory 对象工厂
+**  plugins 插件
+**  environments 环境
+
+*** environment 环境变量
+*** transactionManager 事务管理器
+**  dataSource 数据源
+** databaseIdProvider 数据库厂商标识
+** mappers 映射器
+
+* 配置特征
+
+上述配置项有的可以缺省，但顺序不能改变
+* 配置文件中的重点配置项说明
+
+*  proeprties
+
+** 用于引用外部properties文件，比如访问数据库的四大参数
+
+*  settings
+
+** 可以设置MyBatis在控制台输出sql语句和执行的情况
+
+*  typeAliases
+
+** 用于设置JavaBean的别名，有利于在mapper配置中使用方便
+
+*  environment
+
+** 表示MyBatis框架的数据环境即使用的数据库，可以配置多个数据库，但只能指明一个数据库时默认数据库
+** 一个数据库对应一个SqlSessionFactory对象
+
+*  transactionManager事务管理器有2种类型
+
+** [[pl/java/JDBC]]
+需要手动提交或者回滚
+
+** MANAGER
+容器负责事务提交和回滚
+
+** 如果整合Spring框架则没有必要配置，spring会使用自己的事务管理器，即使配置了也会被覆盖
+
+*  dataSource数据源
+
+** POOLED：使用连接池
+** UNPOOLED：不使用连接池
+** JNDI：使用专门的服务器（以前EJB的用法，现在不提倡）
+** 如果整合Spring框架，则没有必要配置，spring会指定自己的数据源。
+
+*  mappers映射器
+
+** mapper文件包含了dao方法所映射的sql语句
+** 通过mappers标签，MyBatis框架找到它们。
+** 4种配置方式
+*** 使用resource属性，特定mapper文件名可以任意命名
+
+#+begin_example
+    <mappers>
+        <mapper resource="org/mybatis/builder/BlogMapper.xml"/>
+    </mappers>
+#+end_example
+*** 使用url形式
+
+#+begin_example
+    <mappers>
+        <mapper url="file：///var/mappers/BlogMapper.xml"/>
+    </mappers>
+#+end_example
+*** 使用接口名称，自动导入mapper文件，要求mapper文件与接口文件相同
+
+#+begin_example
+    <mappers>
+        <mapper class="org.mybatis.builder.BlogMapper"/>
+    </mappers>
+#+end_example
+*** 使用包名自动导入：要求mapper文件名称与接口文件相同
+
+#+begin_example
+    <mappers>
+    <package name="org.mybatis.builder"/>
+    </mappers>
+#+end_example
+
+* mybatis-cofing.xml实例
+
+#+begin_example
+    <?xml version="1.0" encoding="UTF-8"?>
+#+end_example
+
+*  mybatis-cofing.xml文件的约束定义声明
+    =xml     <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"    "http://mybatis.org/dtd/mybatis-3-config.dtd">     <configuration>=
+*  配置、引入存储连接数据库4大参数的Properties文件
+    =xml         <properties resource="db-mysql.properties"/>=
+* 配置在控制台上输出日志
+    =xml     <settings>         <setting name="logImpl" value="STDOUT_LOGGING"/>     </settings>=
+* 定义javabean的别名，有利于简化配置
+
+** 常规方式
+
+#+begin_example
+    <typeAliases>
+        <typeAlias type="entity.Student" alias="Student"/>
+    </typeAliases>
+#+end_example
+
+** 简易方式
+
+#+begin_example
+    <typeAliases>
+        <package name="entity"/>
+    </typeAliases>
+#+end_example
+
+* 配置数据环境，指明访问的数据库
+
+#+BEGIN_SRC xml
+<environments default="mysql">
+  <environment id="mysql">
+    <!--1.配置事务类型为JDBC,sql语句需亲自提交 -->
+    <transactionManager type="JDBC">
+      <property name="autoCommit" value="false" />
+    </transactionManager>
+    <!--2.配置数据源(mybatis的连接池) :org.apache.ibatis.datasource.pooled.PooledDataSource -->
+    <dataSource type="POOLED">
+      <property name="driver" value="${dbDriver}" />
+      <property name="url" value="${dbUrl}" />
+      <property name="username" value="${username}" />
+      <property name="password" value="${password}" />
+    </dataSource>
+  </environment>
+</environments>
+#+END_SRC
+* 配置mapper文件的位置
+
+** 常规方式
+
+#+begin_example
+    <mappers>
+        <mapper resource="dao/StudentMapper.xml"/>
+    </mappers>
+    </configuration>
+#+end_example
+
+** 简易方式
+
+#+begin_example
+    <mappers>
+        <package name="dao"/>
+    </mappers>
+    </configuration>
+#+end_example

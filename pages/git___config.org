@@ -1,0 +1,12 @@
+#+tags: git, dev,
+
+* Caching Credentials in Git
+
+#+begin_src bash
+# try --replace-all if conflict
+git config --global credential.helper manager
+#+end_src
+* #+BEGIN_SRC bash
+git config --global user.name "wxxb"
+git config --global user.email "wxxb789@outlook.com"
+#+END_SRC

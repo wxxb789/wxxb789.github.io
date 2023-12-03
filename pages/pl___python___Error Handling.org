@@ -1,0 +1,11 @@
+*
+* try-except
+
+#+BEGIN_SRC python
+try:
+    body
+except Error:
+    body
+
+raise RuntimeError("A runtime error.")
+#+END_SRC

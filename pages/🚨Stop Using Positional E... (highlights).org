@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: 🚨Stop Using Positional E... (highlights)
+:author: [[a_kazemnejad on Twitter]]
+:full-title: "🚨Stop Using Positional E..."
+:category: [[tweets]]
+:url: https://twitter.com/a_kazemnejad/status/1664277559968927744
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-04]]
+** 🚨Stop using positional encoding (PE) in Transformer decoders (e.g. GPTs). Our work shows 𝗡𝗼𝗣𝗘 (no positional encoding) outperforms all variants like absolute, relative, ALiBi, Rotary. A decoder can learn PE in its representation (see proof). Time for 𝗡𝗼𝗣𝗘 𝗟𝗟𝗠𝘀🧵[1/n] 
+
+![](https://pbs.twimg.com/media/FxiwndLaAAIa4_5.jpg) 
+
+![](https://pbs.twimg.com/media/FxiwwRtaQAkKi_8.png) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277559968927744))
+** Length generalization has become increasingly important because of the instruction finetuning of LLMs: Training on all possible instruction lengths is impractical, and longer sequences have significantly fewer training examples, making a generalizable model very desirable. [2/n] 
+
+![](https://pbs.twimg.com/media/FxixDn8akAAJRQs.jpg) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277564955983875))
+** Moreover, processing longer sequences can enable the model to consume more in-context learning examples, have more dialog turns, or follow longer instructions. However, generalizing to longer sequences from training on short-length data is a challenge for Transformers. [3/n] ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277568089104388))
+** PE seems to be a major factor in the length generalization of Transformers as the model has to systematically encode tokens in all possible positions. But, the exact influence of different PEs on the length generalization at downstream tasks is not clear.[4/n] ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277570773471232))
+** To address this, we conducted a systematic empirical study comparing different PE approaches in decoder-only Transformers. Absolute Position Embedding (APE), T5's Relative PE, ALiBi, Rotary, and even Transformers without PE (NoPE) were evaluated.[5/n] 
+
+![](https://pbs.twimg.com/media/FxixkaDaUAAzpJd.png) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277573311012865))
+** Our findings show that commonly used PE methods like ALiBi, Rotary, and APE are not well-suited for length generalization in downstream tasks. 😲 Surprisingly, NoPE outperforms explicit positional encoding methods while requiring no additional computation. 🚀 [6/n] 
+
+![](https://pbs.twimg.com/media/Fxix19baIAU7GZ_.jpg) 
+
+![](https://pbs.twimg.com/media/Fxix9hRacAIontd.jpg) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277576481910786))
+** But, if NoPE is good at length generalization, how does it represent positions? We show that (1) theoretically, NoPE can represent both absolute and relative PEs. and (2) when trained with SGD, it mostly resembles T5's Relative PE attention patterns.[7/n] 
+
+![](https://pbs.twimg.com/media/FxiyH-SaMAEyKyX.png) 
+
+![](https://pbs.twimg.com/media/FxiyMrSagAMLz4M.jpg) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277579854131200))
+** Recently, scratchpad/CoT has been found to aid length generalization even at small scales. This approach only modifies the model's input/output to store intermediate computations. But, how architectural choices like PE affect len. gen. in the presence of scratchpad? [8/n] 
+
+![](https://pbs.twimg.com/media/FxiyXLIaEAQRR5b.jpg) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277583087931394))
+** We found that scratchpad is not always helpful, and its performance highly depends on the task & format in all PEs. So, having a positional encoding with robust length generalization is crucial since scratchpad/CoT alone may not improve the generalization [9/n] 
+
+![](https://pbs.twimg.com/media/FxiyflVaMAIwxdk.jpg) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277586053300234))
+** When we plot the attentions we find the PEs exhibit different patterns. NoPE & T5's Relative PE show both short-range and long-range attention, ALiBi favors short-range, while Rotary & APE distribute attention more uniformly.🤯 [10/n] 
+
+![](https://pbs.twimg.com/media/FxiyoL-agAMQqqu.jpg) ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277588930621442))
+** 👥Joint work with my awesome collaborators Inkit Padhi, Karthikeyan Natesan, @payel791, and @sivareddyg 
+
+Checkout our
+📄Paper: https://t.co/n9Z5ymz9pL
+🧑‍💻Code: https://t.co/YVOPYU1cfc ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277592466415616))
+** Additionally, if you want to learn more about how these positional encodings work, we have a very detailed background section in our paper. Make sure to check it out.
+
+Thanks for reading! [12/12] 🎉 ([View Tweet](https://twitter.com/a_kazemnejad/status/1664277595234668546))

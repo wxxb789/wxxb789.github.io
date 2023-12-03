@@ -1,0 +1,14 @@
+:PROPERTIES:
+:title: Kubernetes、集群联邦和资源分发 (highlights)
+:author: [[面向信仰编程]]
+:full-title: "Kubernetes、集群联邦和资源分发"
+:category: #articles
+:url: https://draveness.me//kuberentes-federation
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** Kubernetes 从比较早的版本就声称单机群可以支持 5,000 节点，而且也没有计划在短期内提高单个 Kubernetes 集群支撑的节点数，如果需要在 Kubernetes 中支持 5,000 以上的节点，更推荐使用集群联邦（Federation）的方式。 ([View Highlight](https://read.readwise.io/read/01gr2xtp485bcj5a7jxctj2ek9))
+** 联邦集群引入的新的控制面板需要两个比较重要的功能：跨集群的服务发现和跨集群的调度。其中，跨集群服务发现打通了多个集群的网络，让请求可以跨越不同集群的边界；而跨集群调度可以保证服务的稳定性以及可用性。 ([View Highlight](https://read.readwise.io/read/01gr2xvjxh84nd3xm9m35dck8m))
+** [karmada](https://github.com/karmada-io/karmada)
+
+Kubefed 虽然是 Kubernetes 社区早期的集群联邦项目，虽然已经经历了比较长的时间，但是一直都处于实验阶段，到今天项目基本也陷入停止维护的状态。Karmada 是对 Kubefed 项目的延续，它继承了来自 kubefed 中的一些概念，目前也处于积极开发和维护中，这也是目前社区中比较活跃和成熟的集群联邦项目。 ([View Highlight](https://read.readwise.io/read/01gr2xwm38wd4q67wkx3mvv7k5))

@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: Why You Should Try Redis... (highlights)
+:author: [[@mjovanovictech on Twitter]]
+:full-title: "Why You Should Try Redis..."
+:category: #tweets
+:url: https://twitter.com/mjovanovictech/status/1606331748207300621
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-25]]
+** Why you should try Redis for caching 🔥
+
+If you're using ASP .NET Core for your web development, you should consider using Redis for caching.
+
+Redis is a powerful in-memory data structure store that's perfect for improving the performance and scalability of your web app. 
+
+![](https://pbs.twimg.com/media/FkrWKlkXkAE1NAz.png) ([View Tweet](https://twitter.com/mjovanovictech/status/1606331748207300621))
+** One of the key benefits of Redis is its ability to handle large amounts of data with ease.
+
+By storing your data in memory instead of on disk, Redis allows for faster access and retrieval of data, which can greatly improve the performance of your web app. ([View Tweet](https://twitter.com/mjovanovictech/status/1606331752091226122))
+** This is particularly useful for high-traffic websites or applications that require real-time data processing. ([View Tweet](https://twitter.com/mjovanovictech/status/1606331755023044623))
+** Redis is also highly scalable, which makes it well-suited for growing web apps.
+
+As your data and user base grow, Redis can easily handle the increased load without sacrificing performance.
+
+This can save you from having to constantly upgrade your hardware. ([View Tweet](https://twitter.com/mjovanovictech/status/1606331757933969408))
+** Another advantage of Redis is its support for multiple data structures. Redis can store data as:
+• strings,
+• hashes,
+• lists,
+• sets,
+• and more ([View Tweet](https://twitter.com/mjovanovictech/status/1606331761213988866))
+** Giving you flexibility in how you organize and access your data.
+
+This makes it easy to model and query your data in a way that makes sense for your application. ([View Tweet](https://twitter.com/mjovanovictech/status/1606331765093675008))
+** Redis is also popular and widely used in the industry, so there are many resources and support available.
+
+There are official client libraries for various programming languages, including .NET Core.
+
+This makes it easy to integrate Redis into your existing ASP .NET Core code. ([View Tweet](https://twitter.com/mjovanovictech/status/1606331768004415488))
+** In conclusion, Redis is a great choice for caching in ASP .NET Core web applications.
+
+Its in-memory data store, scalability, and support for multiple data structures make it a powerful tool for improving performance and scalability. ([View Tweet](https://twitter.com/mjovanovictech/status/1606331770755878913))
+** If you enjoyed this Tweet thread, you might like my weekly .NET newsletter.
+
+I share 1 actionable tip every Saturday with more than 6000+ .NET engineers.
+
+Join us here:
+https://t.co/zcETFCV26x ([View Tweet](https://twitter.com/mjovanovictech/status/1606331774220374018))

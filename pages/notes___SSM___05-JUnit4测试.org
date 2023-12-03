@@ -1,0 +1,7 @@
+
+
+* 5.JUnit4测试
+
+
+1. 测试UserDao接口中所定义的方法
+2. 测试UserService接口方法

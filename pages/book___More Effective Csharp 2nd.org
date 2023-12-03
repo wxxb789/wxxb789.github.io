@@ -1,0 +1,4 @@
+#+title: book/More Effective Csharp 2nd
+#+tags: dotnet, csharp
+
+* [[../assets/More_Effective_Csharp_2nd_1650459773508_0.pdf][More Effective Csharp 2nd.pdf]]

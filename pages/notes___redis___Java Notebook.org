@@ -1,0 +1,272 @@
+#+tags: redis, java, notebook, sample code,
+
+*
+* properties
+:PROPERTIES:
+:collapsed: true
+:END:
+** 配置redis.properties：
+
+#+begin_example
+  # redis.properties
+  # 配置redis服务器ip地址
+  redis.hostName=123.123.123.123
+  redis.port=6666
+  redis.password=123456
+  #最大连接数
+  redis.maxTotal=100
+  #最大空闲数
+  redis.maxIdle=100
+  #最小空闲数
+  redis.minIdle=10
+  #最大等待时间
+  redis.maxWaitMillis=1000
+  #连接超时时是否阻塞,false时报异常,ture阻塞直到超时, 默认true
+  redis.blockWhenExhausted=true
+  #返回连接时,检测连接是否成功
+  redis.testOnBorrow = true
+#+end_example
+
+** 配置log4j.properties：
+
+#+begin_src java
+  #定义LOG输出级别
+  log4j.rootLogger=INFO,Console  
+  #定义日志输出目的地为控制台
+  log4j.appender.Console=org.apache.log4j.ConsoleAppender  
+  log4j.appender.Console.Target=System.out  
+  #可以灵活地指定日志输出格式，下面一行是指定具体的格式
+  log4j.appender.Console.layout = org.apache.log4j.PatternLayout  
+  log4j.appender.Console.layout.ConversionPattern=[%c] - %m%n  
+#+end_src
+* 使用 JavaConfig 配置 Jedis
+
+** Jedis JavaConfig
+
+#+begin_src java
+  @Configuration
+  @PropertySource(value = "classpath:redis.properties")
+  public class RedisConfig extends CachingConfigurerSupport {
+
+      @Value("${redis.hostName}")
+      private String hostName;
+      @Value("${redis.port}")
+      private int port;
+      @Value("${redis.password}")
+      private String password;
+
+      @Value("${redis.maxTotal}")
+      private int maxTotal;
+      @Value("${redis.maxIdle}")
+      private int maxIdle;
+      @Value("${redis.minIdle}")
+      private int minIdle;
+
+      @Value("${redis.maxWaitMillis}")
+      private int maxWaitMillis;
+      @Value("${redis.blockWhenExhausted}")
+      private boolean blockWhenExhausted;
+      @Value("${redis.testOnBorrow}")
+      private boolean testOnBorrow;
+
+      @Autowired
+      private JedisPoolConfig jedisPoolConfig;
+
+      @Autowired
+      private JedisConnectionFactory jedisConnectionFactory;
+
+      @Bean
+      public JedisPoolConfig jedisPoolConfig(){
+          JedisPoolConfig jedisPoolConfig = new JedisPoolConfig();
+
+          //设置连接池的特性
+          jedisPoolConfig.setMaxTotal(maxTotal);
+          jedisPoolConfig.setMaxIdle(maxIdle);
+          jedisPoolConfig.setMaxIdle(minIdle);
+          jedisPoolConfig.setMaxWaitMillis(maxWaitMillis);
+          jedisPoolConfig.setBlockWhenExhausted(blockWhenExhausted);
+          jedisPoolConfig.setTestOnBorrow(testOnBorrow);
+
+          return jedisPoolConfig;
+      }
+
+      @Bean
+      public JedisConnectionFactory jedisConnectionFactory(){
+
+          RedisStandaloneConfiguration redisStandaloneConfig = new RedisStandaloneConfiguration();
+          //设置连接的特性
+          redisStandaloneConfig.setHostName(hostName);
+          redisStandaloneConfig.setPort(port);
+          redisStandaloneConfig.setPassword(RedisPassword.of(password));//关键
+
+          JedisClientConfiguration.JedisPoolingClientConfigurationBuilder
+                  jedisPoolConfigBuilder = (JedisClientConfiguration.JedisPoolingClientConfigurationBuilder) JedisClientConfiguration.builder();
+
+          jedisPoolConfigBuilder.poolConfig(jedisPoolConfig);
+
+          JedisConnectionFactory jedisConnectionFactory = new JedisConnectionFactory(redisStandaloneConfig,jedisPoolConfigBuilder.build());
+          return jedisConnectionFactory;
+      }
+
+      @Bean
+      public RedisTemplate redisTemplate(){
+          RedisSerializer stringRedisSerializer = new StringRedisSerializer();
+          GenericJackson2JsonRedisSerializer genericJackson2JsonRedisSerializer=new GenericJackson2JsonRedisSerializer();
+
+          RedisTemplate redisTemplate = new RedisTemplate();
+
+          redisTemplate.setConnectionFactory(jedisConnectionFactory);
+
+          redisTemplate.setKeySerializer(stringRedisSerializer);
+          redisTemplate.setValueSerializer(genericJackson2JsonRedisSerializer);
+
+          redisTemplate.setHashKeySerializer(stringRedisSerializer);
+          redisTemplate.setValueSerializer(genericJackson2JsonRedisSerializer);
+          return redisTemplate;
+      }
+  }
+#+end_src
+
+** SpringBeanConfig
+
+#+begin_src java
+  @Configuration
+  @ComponentScan(basePackages = "com.intouch")
+  public class SpringBeanConfig {
+  }
+#+end_src
+
+** RedisCacheManager
+
+#+begin_src java
+  @Component
+  public class RedisCacheManager<T> {
+      @Autowired
+      private RedisTemplate redisTemplate;
+
+      public boolean hasKey(String key){
+          return redisTemplate.hasKey(key);
+      }
+
+      public <T> T get(String key){
+          ValueOperations<String,T> valueOperation = redisTemplate.opsForValue();
+          return valueOperation.get(key);
+      }
+
+      public void set(String key,T value){
+          set(key,value,-1);
+      }
+
+      public void set(String key,T value,long time){
+          redisTemplate.opsForValue().set(key,value);
+          expire(key,time,TimeUnit.SECONDS);
+      }
+
+      public boolean setNX(String key,T value){
+          return setNX(key,value,-1);
+      }
+
+      public boolean setNX(String key,T value,long time){
+        boolean ifAbsent = redisTemplate.opsForValue().setIfAbsent(key,value);
+        if(ifAbsent){
+            expire(key,time,TimeUnit.SECONDS);
+        }
+        return ifAbsent;
+      }
+
+      public long del(String... key){
+          if(StringUtils.isEmpty(key))
+              return 0;
+         return redisTemplate.delete(CollectionUtils.arrayToList(key));
+      }
+
+      public boolean expire(String key,long time,TimeUnit timeUnit){
+       if(time <= 0)
+       return true;
+       return redisTemplate.expire(key,time,timeUnit);
+       }
+
+       /**
+       *
+       * @return 返回0 代表永久有效
+       */
+      public long getExpire(String key){
+          return redisTemplate.getExpire(key,TimeUnit.SECONDS);
+      }
+
+      public void setBit(String key,long id,boolean state){
+          redisTemplate.opsForValue().setBit(key,id,state);
+      }
+
+      public boolean getBit(String key,long id){
+          return redisTemplate.opsForValue().getBit(key,id);
+      }
+  }
+#+end_src
+* Test Code
+
+** SpringBaseTestSuit
+
+#+begin_src java
+  @RunWith(SpringJUnit4ClassRunner.class)
+  @ContextConfiguration(classes = {SpringBeanConfig.class, RedisConfig.class})
+  public class SpringBaseTestSuit {
+  }
+#+end_src
+
+** SpringDataJedisTest
+
+#+begin_src java
+  @RunWith(SpringJUnit4ClassRunner.class)
+  // @ContextConfiguration(locations = {"classpath:applicationContext.xml"})
+  @ContextConfiguration(classes = {SpringBeanConfig.class, RedisConfig.class})
+  public class SpringDataJedisTest {
+      @Autowired
+      private RedisTemplate<String, Object> template;
+      // 定义测试方法
+      @Test
+      public void testSetGet() {
+          template.opsForValue().set("城市", "北京");
+          String value = (String) template.opsForValue().get("城市");
+          System.out.println("value=" + value);
+      }
+
+      @Test // 存
+      public void testObjectSerializer() {
+          User u2 = new User("u2", "p2");
+          template.opsForValue().set("user:2", u2);
+      }
+
+      @Test // 读取
+      public void testObjectDeserializer() {
+          User u2 = (User) template.opsForValue().get("user:2");
+          System.out.println(u2.getUsername() + " " + u2.getPassword());
+      }
+
+      @Test
+      public void testList() {
+          for (int i = 1; i <= 10; i++) {
+              User u = new User(i + "", "p" + i);
+              template.opsForList().rightPush("vip-user-rank", u);
+          }
+          // 反向操作,读取list集合中的数据
+          List users = template.opsForList().range("vip-user-rank", 0, -1);
+          // System.out.println(users.toString());
+          for (Object o : users) {
+              User u = (User) o;
+              System.out.println(u.getUsername() + " " + u.getPassword());
+          }
+      }
+
+      // 清空当前数据库
+      @Test
+      public void testFlushDB() {
+          template.execute(new RedisCallback<Object>() {
+              public Object doInRedis(RedisConnection redisConnection) throws DataAccessException {
+                  redisConnection.flushDb();
+                  return null;
+              }
+          });
+      }
+  }
+#+end_src

@@ -1,0 +1,35 @@
+#+title: pl/Rust/Concepts/Closures
+
+是一个匿名函数，并且可以捕获环境变量。闭包允许捕获调用者作用域中的值。
+#+begin_src rust
+#![allow(unused)]
+fn main() {
+    use std::thread;
+    use std::time::Duration;
+
+    let expensive_closure = |num| {
+        println!("calculating slowly...");
+        thread::sleep(Duration::from_secs(2));
+        num
+    };
+
+    expensive_closure(5);
+}
+
+let expensive_closure_2 = |num: u32| -> u32 {
+    println!("calculating slowly...");
+    thread::sleep(Duration::from_secs(2));
+    num
+};
+
+// function definition and closure
+fn  add_one_v1   (x: u32) -> u32 { x + 1 }
+let add_one_v2 = |x: u32| -> u32 { x + 1 };
+let add_one_v3 = |x|             { x + 1 };
+let add_one_v4 = |x|               x + 1  ;
+
+#+end_src
+
+可以创建一个存放闭包和调用闭包结果的结构体。该结构体只会在需要结果时执行闭包，并会缓存结果值，这样余下的代码就不必再负责保存结果并可以复用该值。你可能见过这种模式被称 memoization 或 lazy evaluation （惰性求值）。
+* 泛型与闭包
+* =Fn trait= 与闭包

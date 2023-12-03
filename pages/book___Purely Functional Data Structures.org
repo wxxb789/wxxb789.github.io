@@ -1,0 +1,4 @@
+#+title: book/Purely Functional Data Structures
+
+* [[../assets/Purely_Functional_Data_Structures_1650460035515_0.pdf][Purely Functional Data Structures.pdf]]
+*

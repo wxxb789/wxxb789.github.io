@@ -1,0 +1,20 @@
+#+title: book/Concurrency In Dotnet
+#+tags: dotnet,
+
+* [[../assets/Concurrency_in_.NET_1648378099714_0.pdf][Concurrency in .NET.pdf]]
+* [[book/Concurrency In Dotnet/01-函数式并发编程基础]]
+* [[book/Concurrency In Dotnet/02-并发函数式编程技术]]
+* [[book/Concurrency In Dotnet/03-函数式数据结构和不可变性]]
+* [[book/Concurrency In Dotnet/04-处理大数据的基础：数据并行]]
+* [[book/Concurrency In Dotnet/05-PLINQ和MapReduce: 数据并行]]
+* [[book/Concurrency In Dotnet/06-实时事件流：函数反应式编程]]
+* [[book/Concurrency In Dotnet/07-基于任务的函数式并行]]
+* [[book/Concurrency In Dotnet/08-最终胜出的任务异步模型]]
+* [[book/Concurrency In Dotnet/09-Fsharp的异步函数编程]]
+* [[book/Concurrency In Dotnet/10-基于流畅式并发编程的函数式组合器]]
+* [[book/Concurrency In Dotnet/11-使用代理应用反应式编程]]
+* [[book/Concurrency In Dotnet/12-使用 TPL Dataflow 的并行工作流与代理编程]]
+* [[book/Concurrency In Dotnet/13-成功的并发编程的配方和设计模式]]
+* [[book/Concurrency In Dotnet/14-使用并发函数式编程构建可扩展的移动应用程序]]
+* [[book/Concurrency In Dotnet/15-附录]]
+*

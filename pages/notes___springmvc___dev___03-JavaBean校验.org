@@ -1,0 +1,69 @@
+
+
+* 3.JavaBean校验
+
+** 1. 控制器针对输入数据的规范
+
+
+1.  类型转换
+
+    1. 日期型数据符合特定的日期格式;
+    2. 数值型数据应是数值型字符串;
+
+2.  符合验证规则(JSR303规范)
+
+    1. JSR303是Java为Bean对象属性数据所提供的一个规范标准，即Bean
+       Validation;
+    2. Bean
+       Validation定义了相应的API和注解，核心接口是：javax.validation.Validator
+    3. HibernateValidator是JSR303规范的一个实现，并进行了更加符合实际的扩展.
+       ## 2. JavaBean属性校验（注解技术）
+
+3.  可在注解后面以 (message="填写时间在今天之前")
+    的形式自定义校验错误信息
+
+4.  @Null：验证对象是否为null
+
+5.  @NotNull：验证基本数据类型，无法检查长度为0的字符串
+
+6.  @AssertTrue：验证Boolean对象是否为true
+
+7.  @AssertFalse：验证Boolean对象是否为false
+
+8.  @Max（value）：验证Number和String对象是否<=指定值
+
+9.  @Min（value）：验证Number和String对象是否>=指定值
+
+10. @Past：验证Date和Calendar对象是否在当前时间之前
+
+11. @future：验证Date和Calendar对象是否在当前时间之后
+
+12. @Pattern(regexp="\w{4,20}")：验证String对象是否符合正则表达式的规则
+
+13. @NotBlank：检查trim后的字符串是不是null
+
+14. @DateTimeFormat(pattern="yyyy-MM-dd")：将接收到的String转换成Date
+
+15. @NumberFormat(style=Style.CURRENCY)
+
+16. @Email：验证是否是合法的邮件地址
+
+17. @URL：验证是否是合法的url
+
+18. @CreditCardNumber：验证是否是合法的信用卡号码
+
+19. @NotEmpty
+
+20. @Length（min，max）：验证字符串长度是否在指定长度之内
+
+21. @Range（min，max）：验证属性值是否在给定范围之内 ## 3.
+    errorMessage.properties
+
+22. 文件位置：resources/errorMessage.properties
+
+23. name属性值：错误信息类型.对象名.属性名
+
+    1. 例：typeMismatch.employee.birthday
+    2. 例：NotNull.employee.birthday
+
+24. value属性值：自定义的错误信息

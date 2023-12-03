@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: 一周过去了，现在是时候公布这题答案了，这道 \#P... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "一周过去了，现在是时候公布这题答案了，这道 \#P..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1677748505476050944
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-09]]
+** 📌
+** #+BEGIN_QUOTE
+** 一周过去了，现在是时候公布这题答案了，这道 #Prompt思考题  基本上是过去几道思考的集大成了。
+
+这道题目来源于我日常的应用场景，因为我经常会翻译一些字幕 https://t.co/WUGw9fJat9… https://t.co/W6PJG5oAgZ 
+
+![](https://pbs.twimg.com/media/F0h8HImXwAE0Cxx.png) 
+
+![](https://pbs.twimg.com/media/F0iO0iFWYAAlCij.png) 
+
+![](https://pbs.twimg.com/media/F0iO15pWcAYzBAt.jpg) 
+
+![](https://pbs.twimg.com/media/F0iO3A8WwAEpfCr.jpg) ([View Tweet](https://twitter.com/dotey/status/1677748505476050944))
+** #+END_QUOTE

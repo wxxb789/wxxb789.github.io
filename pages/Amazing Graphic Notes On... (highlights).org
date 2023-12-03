@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: Amazing Graphic Notes On... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "Amazing Graphic Notes On..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1679150890417025026
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-13]]
+** 📌
+** #+BEGIN_QUOTE
+** Amazing graphic notes on Gilbert Strang's "Linear Algebra for Everyone" book.
+
+I can't imagine the effort that goes into making these. Visual explanations can help us understand concepts a lot easier, especially in areas like ML and math. 
+
+Well done, @hiranabe!… https://t.co/KMu1eO5Fu4 
+
+![](https://pbs.twimg.com/media/F02JkscWcAA8wxS.jpg) 
+
+![](https://pbs.twimg.com/media/F02KuFKXsAATjjL.jpg) 
+
+![](https://pbs.twimg.com/media/F02KwAhXoAEpdth.jpg) ([View Tweet](https://twitter.com/omarsar0/status/1679150890417025026))
+** #+END_QUOTE

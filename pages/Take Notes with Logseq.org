@@ -1,0 +1,13 @@
+* Daily Notes
+** latex, code, table
+** video, whiteboard, mindmap
+* Todo list
+** =/todo=
+** =/date=
+* Advanced
+** =/query=
+** =/template=
+* PDF annotation
+* Zotero integration
+* Daily Report and Weekly Report
+* Naming

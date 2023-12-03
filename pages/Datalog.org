@@ -1,0 +1,4 @@
+*
+* doc
+** [[https://docs.logseq.com/#/page/learn%20datalog%20today][Learn Datalog Today (logseq.com)]]
+**

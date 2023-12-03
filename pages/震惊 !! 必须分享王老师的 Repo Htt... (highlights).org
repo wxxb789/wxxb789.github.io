@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: 震惊 !! 必须分享王老师的 Repo Htt... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "震惊 !! 必须分享王老师的 Repo Htt..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1681215690798424064
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-18]]
+** 📌
+** #+BEGIN_QUOTE
+** 震惊 !! 必须分享王老师的 repo
+
+https://t.co/e2CZjKOepx
+
+前两天用 OpenAI Whisper 语音转文本，代码成了，但极不爽的是，时间 1:1
+
+原音频11分钟，Whisper 也要花同样时间来转换
+
+用 faster-whisper, 时间降到了 1分钟，1分钟啊，相当于你用 1年时间，获取别人10年
+
+同时，CPU 也降到50%, 太赞了 https://t.co/6PogmiFknC 
+
+![](https://pbs.twimg.com/media/F1TfH4RaYAEhtkf.png) 
+
+![](https://pbs.twimg.com/media/F1TgVGGaABM6mUC.png) ([View Tweet](https://twitter.com/huangyun_122/status/1681215690798424064))
+** #+END_QUOTE

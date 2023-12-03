@@ -1,0 +1,18 @@
+* shell
+** [[bash]]
+** [[zsh]]
+** [[fish]]
+** [[nushell]]
+** [[powershell]]
+** other language specific shell
+*** [[pl/clojure]] -> [[babashka]]
+*** [[pl/python]]
+***
+* bash
+** =$= tells you that you are not the root user
+** =:= separate directories in =$PATH=
+** =space= separate the argument
+** =ls=
+*** First, the =d= at the beginning of the line tells us that missing is a directory. Then follow three groups of three characters ( =rwx= ). These indicate what permissions the owner of the file (missing), the owning group (users), and everyone else respectively have on the relevant item. A =-= indicates that the given principal does not have the given permission. Above, only the owner is allowed to modify (w) the missing directory (i.e., add/remove files in it). To enter a directory, a user must have “search” (represented by “execute”: x) permissions on that directory (and its parents). To list its contents, a user must have read (r) permissions on that directory. For files, the permissions are as you would expect.
+*** =< file= and => file= could connecting programs.
+*

@@ -1,0 +1,211 @@
+* 1. 填空
+
+** 1.1. Oracle 的逻辑存储结构种由大到小的顺序？
+
+表空间，段，区，块
+** 1.2. 已创建序列 S1，若当前值为 2，先执行 3 次 S1.NEXTVAL，再执行 3 次
+S1.CURRVAL，最后 S1 的值为
+
+5
+** 1.3. pl/SQL 的循环控制语句
+
+while，loop，for
+** 1.4. 异常分类
+
+预定义异常，非预定义异常，自定义异常
+** 1.5. 对显示游标操作正确的步骤顺序
+
+声明游标，打开游标，提取游标，关闭游标
+** 1.6. 外连接分类
+
+左外连接，右外连接，全外连接
+** 1.7. *角色*是相关权限的命名集合，使用的主要目的是简化权限管理
+
+** 1.8. SELECT 语句中可以使用*distinct*去掉重复记录、
+
+** 1.9. 为查询的结果进行分组使用*group
+by*子句，对分组后的结果进行筛选使用*having*子句
+
+** 1.10. 异常处理部分，匹配异常名称的子句是*when then*
+
+** 1.11. 创建*索引*可以提高读取数据的效率
+
+它的功能类似于书目录，读者可以通过目录很快的在书中找到需要的内容。创建它的
+SQL 命令是*create indes 索引名 on 表明（列明）*
+* 2. 简答题
+
+** 2.1. 描述左外连接和右外连接的查询特征
+
+- 左外连接：以左表为主，左外连接查询时，首先显示左表的所有行然后去匹配右表，左表的行和右表符合条件的行组成新的行。左表不符合条件的行在对应右表部分的列显示为
+  null。
+
+- 右外连接：右表为主，右外连接查询时，首先显示右表的所有行，然后去匹配左表，右表的行和左表符合条件的行组成新的行，右表不符合条件的在左表对应左表部分都为
+  null。
+** 2.2. 什么时事务，事务的特性，Oracle 怎么完成事务的控制？
+
+- 事务：作为一个逻辑单元执行一系列操作，要么完全执行，要么完全不执行，过程出现问题，则失败。
+- 特性：原子性，隔离性，一致性，持久性
+- 事务的控制：
+  - 正常状态：设置一个保存点，执行一个或多个 DML 语句，commit 提交事务。
+  - 异常状态：设置保存点，执行一个或多个 DML 语句，执行 rollback to
+    保存点，回到保存点。
+  - 异常状态：设置保存点，执行一个或多个 DML 语句，执行 rollbak
+    回到上一个 commit
+** 2.3. pl/SQL 块有几个部分组成，各部分作用是什么？
+
+声明部分，执行部分，异常部分
+
+- 声明部分：用来声明变量，常量等内容
+- 执行部分：具体功能的实现部分
+- 异常部分：进行异常处理
+** 2.4. SQL 分几种语言，各自的作用是什么？
+
+- DML：更新操作语言：update，delete，insert
+- DCL：控制操作语言：给用户赋权限，赋角色，撤销权限等
+- DDL：定义操作语言：创建视图，表，函数，创建用户等
+- DQL：查询操作语言：select
+** 2.5. 描述视图的作用和好处
+
+是用来封装在程序中多次执行的 select 语句，封装的是 select
+语句的虚拟表，在第一次执行编译之后就可以直接调用。提高执行性能，提高了复用性和安全性。
+** 2.6. 什么是数据库的索引？使用索引有什么优点和注意事项？
+
+*** 2.6.1. 索引
+
+可以提高检索效率的对象，在表的列上合理定义索引可以降低 I/O
+次数，进而提高检索效率。
+*** 2.6.2. 优点
+
+1. 通过创建唯一性索引，可以保证数据库表中每一行数据的唯一性
+2. 可以大大提高检索速度，
+3. 加速表与表之间的连接
+4. 减少查询中的分组和排序时间
+*** 2.6.3. 注意
+
+出现频繁字段创建索引，跟新频繁字段不适合加索引，唯一性差的字段不适合创建索引
+* 3. 编程题
+
+** 3.1. 根据员工表 emp 和部门表 dept 完成一下 SQL 语句
+
+*** 3.1.1. 编写一 SQL
+语句，将员工号为=7369=的员工的入职日期改为=1997/7/1=，工资提高
+800，其他信息不变
+
+#+begin_src sql
+update emt set
+emp_date = '1-7-1997', sal = sal + 800
+where empno = 7369;
+#+end_src
+*** 3.1.2. 检索员工名和 scott 的员工相同工资的员工信息，但不显示
+scott。显示字段：员工号，员工名，工资。
+
+#+begin_src sql
+select empno, ename, sal
+from emp
+where sal = (select sal
+            from emp
+            where ename = 'scott')
+    and ename != 'scott';
+#+end_src
+*** 3.1.3. 检索出 emp 表中的第三条到第八条的记录
+
+#+begin_src sql
+select *
+from (select rownum rn, *
+        from emp) r
+where r.rn >= 3 and r.rn <= 8;
+#+end_src
+*** 3.1.4. 检索员工和所属上级的姓名
+
+#+begin_src sql
+select e1.ename 上级领导, e2.ename 员工
+from emp e1, emp e2
+where e1.empno = e2.mgr;
+#+end_src
+*** 3.1.5. 显示不带有=R=的雇员姓名
+
+#+begin_src sql
+select ename
+from emp
+where ename not like '%R%';
+#+end_src
+*** 3.1.6. 创建存储过程：输入员工号查阅员工的年薪
+
+#+begin_src sql
+create procedure pro_emp_sss(v_empno in emp.emno%type, v_year out number) is
+select sal *12 into v_year
+from emp
+where empno = v-empno;
+
+declare
+    v_year number(9,1) := 0;
+begin
+    pro_emp_sss(7369,v_year);
+    dbms_output.pub_line(v_year);
+end;
+#+end_src
+** 3.2. 多表操作
+
+- 学生表 stu(sno,sname,age,ssex)
+- 课程表 course(cno,cname)
+- 成绩表 grade(sno,cno,score)
+*** 3.2.1. 写出 SQL 命令，查询平均成绩大于 75
+的所有学生的学号，姓名和平均成绩
+
+#+begin_src sql
+select s.sno, s.name, g.avg
+from stu s
+    left jon (select sno, avg(score) avg
+                from grade
+                group by sno) g
+    on s.sno = g.sno
+where g.avg > 75;
+#+end_src
+*** 3.2.2.
+创建视图*ex_view*，显示学生的姓名，课程名和成绩，并按课程名和成绩降序排序
+
+#+begin_src sql
+create view ex_view as
+    select s.sname, c.cname, g.score
+    from stu s, grade g, course c
+    where s.sno = g.sno and g.cno = c.cno
+    order by c.cname, g.score desc;
+#+end_src
+*** 3.2.3. 查询所有学生的学号，姓名，选秀课程总数和平均分，如果每页显示
+10 条记录，显示第二页信息
+
+ans1:
+
+#+begin_src sql
+select res.sno, res.sname, res.scount, res.savg
+from(
+    select res.*, rownum as rn
+    from (
+        select tb1.sno, tb1.sname, tb2.scount, tb2.savg
+        from stu tb1
+            left join(
+                select count(distinct cno) as scount, avg(score)
+                from grade
+                group by sno
+            ) tb2 on tb1.sno = tb2.sno
+    ) res
+    where rownum <= 20
+)
+where rn >= 11;
+#+end_src
+
+ans2:
+
+#+begin_src sql
+select res.*, rownum as rn
+from (
+    select tb1.sno, tb1.sname, tb2.scount, tb2.savg
+    from stu tb1
+        left join(
+            select count(distinct cno) as scount, avg(score)
+            from grade
+            group by sno
+        ) tb2 on tb1.sno = tb2.sno
+) res
+where rn>=11 and rn <= 20
+#+end_src

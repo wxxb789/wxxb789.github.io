@@ -1,0 +1,9 @@
+#+tags: aks, k8s, kubernetes
+
+* [[AKS/Update TLS Certificate]]
+* [[Kubernetes/memo]]
+*
+* ACR import image from public container reigistry
+#+BEGIN_SRC pwsh
+az acr import --name <acr name> --source <source image> --image <target image>
+#+END_SRC

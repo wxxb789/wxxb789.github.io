@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: When We Interact With La... (highlights)
+:END:
+:PROPERTIES:
+:author: [[cwolferesearch on Twitter]]
+:full-title: "When We Interact With La..."
+:category: [[tweets]]
+:url: https://twitter.com/cwolferesearch/status/1671628210180698112
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023\-06\-23]]
+** When we interact with language model APIs, such as the OpenAI API, we typically have to set a “temperature” parameter when obtaining output from the language model. But, what exactly is this parameter and how does it work?  Let’s take a deeper look…
+
+The decoding process:… 
+
+![](https://pbs.twimg.com/media/FzLQ7G9WAAQ221S.jpg) ([View Tweet](https://twitter.com/cwolferesearch/status/1671628210180698112))
+** Here's my prior tweet, which describes concepts such as logits, greedy decoding, and producing a probability distribution with a language model more in\-depth.
+
+https://t.co/yiGM2fwcRK ([View Tweet](https://twitter.com/cwolferesearch/status/1671628503723175936))
+** I also found this awesome blog post that describes the concept of temperature really well. Check it out for more details and an alternative perspective on this important hyperparameter.
+
+https://t.co/QwU03fkW5d ([View Tweet](https://twitter.com/cwolferesearch/status/1671628981785829378))

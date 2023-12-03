@@ -1,0 +1,7 @@
+#+alias: digital nomad,
+
+* 最先提出构想的是一位名叫Tsugio Makimoto的日本高管。早在1997年，他便出版了一本名叫 [[book/Digital Nomad]] 的书
+* resources
+** podcast
+*** [[https://www.xiaoyuzhoufm.com/podcast/5ebfe0c4418a84a0468b5f1d][数字游民指北]]
+*** [[https://www.xiaoyuzhoufm.com/podcast/626da563bf39836fd02b79ed][数字游民]]

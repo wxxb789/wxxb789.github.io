@@ -1,0 +1,27 @@
+*
+* 投资理财书单
+** [[book/成功目标与动机]]
+** [[book/领导梯队]]
+** [[book/反脆弱]]
+** [[book/穷查理年鉴]]
+** [[book/原则]]
+** [[book/思考快与慢]]
+** [[book/黑天鹅]]
+* [[book/暗时间]]
+* [[book/置身事内]]
+* [[book/可能性的艺术]]
+* [[book/疾病如何改变我们的历史]]
+*
+* 金融类
+** [[book/When Genius Failed]]
+拯救华尔街
+** [[book/Dynamic Hedging]]
+** [[book/Too Big to Fail]]
+大而不倒
+** [[book/The Essays of Warren Buffet]]
+巴菲特致股东的信
+** [[book/Freakonomics]]
+魔鬼经济学
+** [[book/Principles]] Ray Dalio
+原则
+* [[https://man7.org/tlpi/index.html][The Linux Programming Interface (man7.org)]]

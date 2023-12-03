@@ -1,0 +1,134 @@
+
+
+* Advice
+
+** 1. 基于POJO的切面配置
+
+
+1. 使用AOP名称空间
+
+#+begin_example
+  <beans xmlns="http://www.springframework.org/schema/beans"
+         xmlns:aop="http://www.springframework.org/schema/aop"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation=
+         "http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+          http://www.springframework.org/schema/aop
+          http://www.springframework.org/schema/aop/spring-aop-2.5.xsd
+         ">
+#+end_example
+
+2.  注册POJO
+3.  配置切面
+
+    1. 注册Pointcut对象；
+    2. 配置advice对象；
+
+    #+begin_example
+       <!--注册切面对象所依赖的对象pojo -->
+       <bean id="aopBean"  class="service.aop.AopBean" />
+       <!--向Ioc容器提供面向切面编程的配置-->
+       <aop:config>
+           <!-- 1.切入点 -->
+           <aop:pointcut id="servicepointcut" expression="within(service.*)"/>
+           <!-- 2.切面（横切逻辑+切入点）-->
+           <aop:aspect id="aspectbean" ref="aopBean">
+               <!--横切逻辑，前置通知-->
+               <aop:before method="mybefore"  pointcut-ref="servicepointcut"/>
+           </aop:aspect>
+       </aop:config>
+    #+end_example
+
+    ** 2. Adivce类型
+
+
+4.  前置通知
+
+    1. 配置标签：
+    2. 切入时机 ：在目标对象方法执行之前切入
+
+5.  后置通知
+
+    1. 配置标签：
+    2. 切入时机 ：在目标对象方法正常执行完最后一条语句(return语句)时切入
+
+6.  异常通知
+
+    1. 配置标签：
+    2. 切入时机：在目标对象方法执行出现异常时切入
+
+7.  最终通知
+
+    1. 配置标签：
+    2. 切入时机：在目标对象方法执行完finally语句块之后切入
+
+8.  环绕通知：
+
+    1. 配置标签：
+    2. 切入方式：在目标对象方法的执行之前和执行之后切入
+    3. 特殊要求: 封装环绕通知的方法必须含有ProceedingJoinPoint类型的参数
+
+       1. ProceedingJoinPoint位于aspectjrt.jar包中；
+       2. ProceedingJoinPoint继承于JoinPoint，扩展了连接点的概念，包含了多个环绕通知和连接点，并将它们组成了一个链式结构，其中连接点是这个链式结构的最后一个元素。
+       3. ProceedingJoinPoint#proceed()，表示下一个链式元素的执行，下一个链式元素可能是另外一个环绕通知或者是JoinPoint。
+          ## 3. 基于四大通知的代理对象的代理方法的执行时机
+
+       #+begin_src java
+          <aop:before>
+          try{
+            target.oneMethod();//核心代码
+            <aop:after-returning>
+          }catch(Exception ex){
+            <aop:after-throwing>
+          }finally{
+            <aop:after>
+          }
+       #+end_src
+
+       ** 4. 切入点表达式（Pointcut Expression）
+
+
+9.  execution表达式
+
+    1. execution(* *(..))
+
+       1. (..)表示方法中任意个参数；
+       2. 第一个*表示方法的返回值类型；
+       3. 紧跟括号的*表示方法的名称；
+
+    2. execution(* hello*(..)) // void helloSave()
+
+       1. 符合任何以hello开头的方法
+       2. 第一个*表示方法的返回值类型；
+       3. 紧跟括号的*表示方法的名称；
+
+    3. execution(* com.company.IHello.*(..))
+
+       1. 符合IHello接口/类中声明的任何方法
+       2. 第一个*表示方法的返回值类型；
+       3. 紧跟括号的*表示方法的名称；
+
+    4. execution(* com.company.service././(..))
+
+       1. 符合com.company.service包下的所有方法
+       2. 第一个*表示方法的返回值类型；
+       3. 倒数第二个*代表包/其子包下的任意类/接口；
+       4. 紧跟括号的*表示方法的名称；
+
+    5. execution(* com.company.service.././(..))
+
+       1. 符合com.company.service包或者其子包下的任何方法
+       2. 第一个*，表示方法的返回值类型；
+       3. 倒数第二个*代表包/其子包下的任意类/接口；
+       4. 紧跟括号的*表示方法的名称；
+
+10. within表达式：只接受类型声明，表明了符合要求的类或接口中的所有方法
+
+    1. within(com.company.service.*)
+
+       1. 符合com.company.service包下的类和接口所定义的方法
+
+    2. within(com.company.service..*)
+
+       1. 符合com.company.service包下或其子包下类和接口所定义的方法

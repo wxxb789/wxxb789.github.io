@@ -1,0 +1,105 @@
+
+
+* TODO 相干性 coherence
+:PROPERTIES:
+:title: pl/Rust/Concepts/Trait
+:END:
+aka. 孤儿规则 orphan rule
+这条规则确保了其他人编写的代码不会破坏你代码，反之亦然。没有这条规则的话，两个 crate 可以分别对相同类型实现相同的 trait，而 Rust 将无从得知应该使用哪一个实现。
+* Trait 作为参数
+
+#+begin_src rust
+// 方法参数类型的约束
+pub fn notify(item: impl Summary) {
+    println!("Breaking news! {}", item.summarize());
+}
+
+// trait bound, T 是类型约束
+pub fn notify<T: Summary>(item: T) {
+    println!("Breaking news! {}", item.summarize());
+}
+
+// 多个 trait bound
+pub fn notify<T: Summary + Display>(item: T) {
+}
+
+// 简化 trait bound
+fn some_function<T, U>(t: T, u: U) -> i32
+    where T: Display + Clone,
+          U: Clone + Debug
+{
+}
+#+end_src
+
+* Trait 作为返回值
+#+begin_src rust
+// 返回一个实现了特定 trait 的类型的实例
+fn returns_summarizable() -> impl Summary {
+    Tweet {
+        username: String::from("horse_ebooks"),
+        content: String::from("of course, as you probably already know, people"),
+        reply: false,
+        retweet: false,
+    }
+}
+
+#+end_src
+
+* 使用 trait bound 有条件地实现方法
+对任何满足特定 trait bound 的类型实现 trait 被称为 blanket implementations，他们被广泛的用于 Rust 标准库中。
+blanket implementation 会出现在 trait 文档的 “Implementors” 部分。
+#+begin_src rust
+use std::fmt::Display;
+
+struct Pair<T> {
+    x: T,
+    y: T,
+}
+
+impl<T> Pair<T> {
+    fn new(x: T, y: T) -> Self {
+        Self {
+            x,
+            y,
+        }
+    }
+}
+
+impl<T: Display + PartialOrd> Pair<T> {
+    fn cmp_display(&self) {
+        if self.x >= self.y {
+            println!("The largest member is x = {}", self.x);
+        } else {
+            println!("The largest member is y = {}", self.y);
+        }
+    }
+}
+#+end_src
+
+* trait 可以与trait 告诉 Rust 编译器某个特定类型拥有可能与其他类型共享的功能。
+可以通过 trait 以一种抽象的方式定义共享的行为。
+可以使用 trait bounds 指定泛型是任何拥有特定行为的类型。
+泛型结合来将泛型限制为拥有特定行为的类型，而不是任意类型。
+* trait 只有在公有时才可以被其他 crate 实现。
+不能为外部类型实现外部 trait 。
+
+#+begin_quote
+impl <Trait Name> for <Type name> {
+    // implement code
+}
+#+end_quote
+
+#+begin_src rust
+
+// 默认实现
+// 默认实现允许调用相同 trait 中的其他方法
+// 无法从相同方法的重载实现中调用默认方法
+pub trait Summary {
+    fn summarize_author(&self) -> String;
+ fn summarize(&self) -> String {
+        format!("(Read more from {}...)", self.summarize_author())
+    }
+}
+#+end_src
+
+#+RESULTS:

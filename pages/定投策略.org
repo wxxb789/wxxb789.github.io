@@ -1,0 +1,6 @@
+#+alias: finance/定投策略,
+#+tags: finance,
+
+* espp monthly
+** {{embed ((6398adf3-83ed-4f3e-9021-150c16f8a7d8))}}
+*

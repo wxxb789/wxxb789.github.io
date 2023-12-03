@@ -1,0 +1,4 @@
+#+title: book/Pro Dotnet Best Practices
+
+* [[../assets/Pro_.NET_Best_Practices_1649762584515_0.pdf][Pro .NET Best Practices.pdf]]
+*

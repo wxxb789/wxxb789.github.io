@@ -1,0 +1,12 @@
+:PROPERTIES:
+:title: Tweets From AvaloniaUI (highlights)
+:author: [[AvaloniaUI on Twitter]]
+:full-title: "Tweets From AvaloniaUI"
+:category: #tweets
+:url: https://twitter.com/AvaloniaUI
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-10]]
+** 👀 https://t.co/TcH5hpeBUd
+
+![](https://pbs.twimg.com/media/FsmS7xeXwAEjmD2.jpg) ([View Tweet](https://twitter.com/AvaloniaUI/status/1642005099873533952))

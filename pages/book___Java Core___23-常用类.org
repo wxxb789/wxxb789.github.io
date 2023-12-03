@@ -1,0 +1,28 @@
+* 1. 23-常用类
+
+** 1.1. Object类
+
+*** 1.1.1. equal()方法重写
+
+*** 1.1.2. hashCode()方法重写
+
+*** 1.1.3. toString()方法重写
+
+*** 1.1.4. getClass()反射机制
+
+*** 1.1.5. wait()多线程
+
+*** 1.1.6. notify(),notifyAll()多线程
+
+*** 1.1.7. clone()重写
+
+*** 1.1.8. finalize()垃圾回收
+
+** 1.2. String与StringBuilder类
+
+** 1.3. 包装类
+
+** 1.4. Math与Random类
+
+** 1.5. Runtime类
+

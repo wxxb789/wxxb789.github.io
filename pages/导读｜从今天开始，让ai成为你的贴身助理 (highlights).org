@@ -1,0 +1,15 @@
+:PROPERTIES:
+:title: 导读｜从今天开始，让ai成为你的贴身助理 (highlights)
+:author: [[geekbang.org]]
+:full-title: "导读｜从今天开始，让ai成为你的贴身助理"
+:category: #articles
+:url: https://time.geekbang.org/column/article/641726
+:END:
+tags:: #[[gt/ai大模型之美]]
+
+* Highlights first synced by [[Readwise]] [[2023-03-23]]
+** 但是，随着机器翻译的进步，我已经越来越多地使用彩云小译这样的浏览器插件，将我要看的内容变成中英文对照的版本。我会快速先浏览中文翻译，如果觉得翻译得有些看不懂，或者内容特别有价值，才会去看看英文原文。通过这样的方式，在同样的时间内，我的阅读量大增，能够吸收的知识也比之前多了很多。 ([View Highlight](https://read.readwise.io/read/01gw50xxe975kwbvddk6qvc5b2))
+** 好在随着语音识别和文本摘要的成熟，也有很多插件可以快速帮助我们将音频和视频转录成文本，然后通过 ChatGPT 背后的语言模型生成一个摘要。这样，我就可以先快速浏览一遍摘要，决定值不值得把整个视频看一遍。比如，我最近就常常用 Glarity 这个浏览器插件，帮助我快速总结视频内容，再来决定是否要看。 ([View Highlight](https://read.readwise.io/read/01gw50y64dn8mqd6pze9vkvj4m))
+** 而要追上最新的技术进展，去读一读论文也是一个好办法。我之前也在极客时间开过一门专门讲解大数据经典论文的专栏《大数据经典论文解读》，里面我还专门讲过论文应该怎么读。 ([View Highlight](https://read.readwise.io/read/01gw50y9x05yy4hb9nawfpdc7e))
+** 不过现在，随着大语言模型的进展，我们还是让 AI 辅助我们来读论文。我现在，都会通过 scispace 这个网站，把我要读的论文先传上去。然后我们可以直接向 AI 提问题，快速了解论文讲解了什么东西，然后再来决定是不是有必要进行精读。 ([View Highlight](https://read.readwise.io/read/01gw50yd8c9pfkf0xx106ra77m))
+** 而在精读的过程中，针对公式、图表，你也可以框选出来，让 AI 给你做详细的解释。这些工具，都可以大大降低你去学习论文的门槛，提升掌握这些复杂的知识的效率。 ([View Highlight](https://read.readwise.io/read/01gw50yv0460wbc24z1rcp2dk1))

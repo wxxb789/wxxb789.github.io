@@ -1,0 +1,10 @@
+:PROPERTIES:
+:title: Just Released Version 1.... (highlights)
+:author: [[@last0x00 on Twitter]]
+:full-title: "Just Released Version 1...."
+:category: #tweets
+:url: https://twitter.com/last0x00/status/1603709494520709120
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** Just released version 1.8.0 of #PersistenceSniper. It sports 6 new detections: scheduled tasks, AMSI providers, powershell profiles, telemetry commands, RDP WDS startup programs, silent exit monitors. Check it! https://t.co/jAgx9Me9oz ([View Tweet](https://twitter.com/last0x00/status/1603709494520709120))

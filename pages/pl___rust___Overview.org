@@ -1,0 +1,46 @@
+* Rust Language Overview
+** Develop Enviroment
+*** rustup
+**** =rustup update/ self uninstall=
+**** =rustc --version=
+**** =rustup doc=
+*** IDE
+**** VSCode + Rust
+**** Clion + Rust
+* Rust 特性
+** 1. 系统级语言
+** 2. 无 GC
+** 3. 基于 LLVM
+** 4. 内存安全
+** 5. 强类型 and 静态类型
+** 6. 混合编程范式
+** 7. 零成本抽象
+** 8. 线程安全
+** Rust 原则
+*** 1. 程序必须正确
+*** 2. 程序必须可维护，但不能违反第一定律
+*** 3. 程序必须高效，但不能违反前两条定律
+* Rust Language Overview
+** Develop Enviroment
+*** rustup
+**** =rustup update/ self uninstall=
+**** =rustc --version=
+**** =rustup doc=
+*** IDE
+**** VSCode + Rust
+**** Clion + Rust
+* Rust 特性
+
+1. 系统级语言
+2. 无 GC
+3. 基于 LLVM
+4. 内存安全
+5. 强类型 and 静态类型
+6. 混合编程范式
+7. 零成本抽象
+8. 线程安全
+* Rust 原则
+
+1. 程序必须正确
+2. 程序必须可维护，但不能违反第一定律
+3. 程序必须高效，但不能违反前两条定律

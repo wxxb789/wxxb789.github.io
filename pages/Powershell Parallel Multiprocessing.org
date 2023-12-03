@@ -1,0 +1,23 @@
+*
+#+BEGIN_SRC ps1
+
+using namespace System.Collections.Generic
+
+$groups = [List[List[string]]]::new(5)
+0..4 | ForEach-Object { $groups.Add([List[string]]::new()) }
+
+# split to 10 part
+for ($i = 0; $i -lt $parameters.Count; $i++) {
+  $groups[$i % 5].Add($parameters[$i])
+}
+
+Write-Output $groups
+
+Measure-Command {
+  $groups | ForEach-Object -Parallel {
+    foreach ($parameter in $_) {
+      Start-Process -NoNewWindow -Wait .\ChinaLeaderBoardsRecallArticle.exe $parameter
+    }
+  } -ThrottleLimit 5
+}
+#+END_SRC

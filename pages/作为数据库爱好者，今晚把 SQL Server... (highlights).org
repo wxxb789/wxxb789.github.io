@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: 作为数据库爱好者，今晚把 SQL Server... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "作为数据库爱好者，今晚把 SQL Server..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1681691327895949312
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-20]]
+** 📌
+** #+BEGIN_QUOTE
+** 作为数据库爱好者，今晚把 SQL Server  的官方新特性介绍视频，用 faster whisper ， 分别以 tiny, base, large-v2 给转录了出来
+
+通过对比，当然 large-v2 的效果最好。
+
+1/  断句更清晰，一个逗号使得，as 后面成为了新句
+2/  专业名词有保障，Susa  VS SUSE
+
+这些都次要，我要看的是内容，即 xmind 
+
+![](https://pbs.twimg.com/media/F1aQfZlWAAEJJzN.png) 
+
+![](https://pbs.twimg.com/media/F1aRLJaWYAEStCf.jpg)  ([View Tweet](https://twitter.com/huangyun_122/status/1681691327895949312))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 对，搞了那么多工具，我不是来转行做 AI 的，我还是数据库爱好者，我只是为了探索和吃掉更多的数据库视频和论文资料，哈哈哈哈哈  ([View Tweet](https://twitter.com/huangyun_122/status/1681691608373252096))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 把 GPU 烤到 85度C，集成 SQL Server 2022 新特性，心疼电脑。。 
+
+![](https://pbs.twimg.com/media/F1aWXoFWYAEGFGV.jpg) 
+
+![](https://pbs.twimg.com/media/F1aWpD3WIAIlD4S.png)  ([View Tweet](https://twitter.com/huangyun_122/status/1681697199716024322))
+** #+END_QUOTE

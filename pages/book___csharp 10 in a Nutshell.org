@@ -1,0 +1,7 @@
+#+title: book/Csharp 10 in a Nutshell
+
+* [[../assets/Csharp_10_in_a_Nutshell_1650511877569_0.pdf][Csharp 10 in a Nutshell.pdf]]
+*
+* Generics
+** ((6260d188-f0dc-423d-b6d3-baeebba0def8))
+*

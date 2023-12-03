@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: There Is a Guide That Is... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "There Is a Guide That Is..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1684213215817859079
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-27]]
+** 📌
+** #+BEGIN_QUOTE
+** There is a guide that is part of the Llama 2 release but didn't get much attention.
+
+It's a neat resource with guidance and best practices on how to build more responsibly with LLMs. 
+
+It contains tips for fine-tuning the models, data preparation, mitigating risks, evaluation, red teaming,  and a bunch of other resources useful for developers. 
+
+I find this guide extremely useful and it covers a lot of the topics that I find myself covering when teaching on how to build with LLMs. 
+
+The point is not to follow the guide word for word but more or less to get an idea of how big companies are using LLMs to build products. It's not just about designing the optimal prompt but also how to deal with safety issues, hallucinations, adversarial attacks, and so on.
+
+Lots of companies are talking about AI safety but share very little about how to actually implement anything. I expect to see more and more of these types of guides and documentation, especially more technical ones, in future LLM releases. 
+
+It's worth a read!
+
+(find the PDF in the replies)  ([View Tweet](https://twitter.com/omarsar0/status/1684213215817859079))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** the guide: https://t.co/Dygt6WMaJq  ([View Tweet](https://twitter.com/omarsar0/status/1684213285871144961))
+** #+END_QUOTE

@@ -1,0 +1,375 @@
+
+
+* SpringBoot
+** 1. 什么是SpringBoot
+
+Spring
+Boot是由Pivotal团队提供的全新框架，可以认为是一个基于整合的框架，其目的是用来简化Spring应用的开发过程。
+该框架使用了特定的方式来组织项目结构，项目配置，类库管理等，使开发人员避免冗长的、样板化的繁琐配置，
+从而专注于核心功能的开发，提高开发效率。
+
+主要特点如下
+
+1. 嵌入式的Tomcat，不需要专门的部署环节；
+2. 简化Maven配置
+3. 自动配置Spring
+4. 没有代码生成，不需要xml文件配置
+5. 创建独立的Spring应用程序，提供生产就绪型功能(可以封装为一个独立的jar包)。
+** 2. Thymeleaf视图
+
+html页面尽管可以放在static目录下直接访问，但是如果和控制器搭配使用的话，还是要遵循mvc模式，因此应放在template目录下。
+
+注意：
+
+1. 控制器针对放在template目录下的html页面与放在WEB-INF目录下的jsp页面的处理方式是不同的，因为html页面是不能使用el表达式，也不能读取控制器准备的model对象；所以html页面只能采用ajax异步请求
+2. 表单实际上没有用（因为它是传统的同步提交方式，而且也不适用于路径变量的请求方式），因此直接使用表单项。
+
+#+begin_example
+  <!-- 加载 thymeleaf模板依赖 -->
+  <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-thymeleaf</artifactId>
+      <version></version>
+  </dependency>
+#+end_example
+** 3. JSP视图
+
+#+begin_example
+  <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+  <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>4.0.1</version>
+      <scope>provided</scope>
+  </dependency>
+
+  <!-- https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/jstl -->
+  <dependency>
+      <groupId>javax.servlet.jsp.jstl</groupId>
+      <artifactId>jstl</artifactId>
+      <version>1.2</version>
+  </dependency>
+#+end_example
+
+JSP目录结构
+
+#+begin_example
+  src
+      main
+          java
+          resources
+          webapp
+              css
+              images
+              js
+              WEB-INF
+                  jsp
+                  web.xml
+#+end_example
+** 4. SpringBoot 整合数据库
+
+SpringBoot整合MyBatis访问数据库：通过Maven导入所需类库jar包
+
+#+begin_quote
+  mysql-connector
+
+  mybatis-spring
+
+  mybatis-spring-boot-starter-test
+#+end_quote
+
+1. mysql-connector自动添加的是8.015,但不适应与MySQL5.5版本,因此改成下载5.1.46
+2. mybatis-spring整合类库版本调整为1.3.2
+3. 下载mybatis-spring-boot-starter-test,目的是单独测试Mapper对象
+4. 在application.properties文件中配置访问数据库的4大参数
+5. 通过逆向工程生成JavaBean对象和Mapper接口及其xml文件,并拷贝到springboot工程中;
+   其中UserMapper.xml文件需要拷贝到resources/mapper目录下;
+6. 再次修改application.properties文件,添加如下:
+
+#+begin_example
+  mybatis.mapper-locations=classpath:/mapper/*.xml
+  mybatis.configuration.cache-enabled=true
+  logging.level.com.intouch.springboot.mybatis.dao=debug
+#+end_example
+*** 4.1. 编程
+
+
+1. 使用@Respository标注UserMapper接口
+2. 在UserMapper接口中添加方法（dao接口）
+3. 在SpringBoot启动器上使用@MapperScan("包名")进行标注
+*** 4.2. 测试
+
+
+1. 生成测试类 进入UserMapper接口程序,右键点击,选择go to
+   ,再选择test,生成测试类 测试类位于test/java/.../dao包下
+2. 针对测试类,添加如下注解:
+
+#+begin_src java
+  // 测试主程序
+  @RunWith(SpringRunner.class)
+  @SpringBootTest
+
+  // 待测类
+  // 声明测试引擎，默认jUnit4
+  @RunWith(SpringRunner.class)
+  // 只测试项目中MyBatis部分
+  @MyBatisTest
+  // 设置测试时是否使用模拟数据库
+  @AutoConfigureTestDatabase(replace=AutoConfigureTestDatabase.Replace.NONE)
+  // 测试时如果数据变动是否回滚
+  @Rollback(false)
+#+end_src
+*** 4.3. 总结
+
+
+1. mvn与pom配置
+
+   - mysql-connector
+   - mybatis-spring
+   - mybatis-spring-boot-starter-test
+
+2. 逆向工程与配置
+
+   - =mybatis.mapper_locations=classpath:/mapper/*.xml=
+   - =logging.level.com.springboot.mybatis.dao=debug=
+
+3. 编程
+
+   - =@Repository=标注Dao接口
+   - =@MapperScan("dao包名")=标注SpringBoot启动器
+
+4. 测试
+
+   - =@RunWith(SpringRunner.class)=//声明测试引擎
+   - =@MyBatisTest=//只测试MyBatis部分
+   - =@AutoConfigureTestDatabase=//不使用模拟数据库
+   - =@Rollback(false)=//不回滚
+** 5. =JavaConfig=
+*** 5.1. 什么是JavaConfig
+
+JavaConfig是通过Java代码编程的方式，向Spring的IoC容器注册对象。
+
+规则是这样的：
+
+1. 任何POJO类只要标注=@Configuration=注解，就可以为Spring容器提供Bean定义的信息;
+2. 每个标注了@Bean的类方法都相当于提供了一个Bean的定义信息。类的方法处可以标注@Bean注解，Bean的类型由方法的返回值类型决定，Bean的名称默认和方法名称相同；也可以通过参数显示指定Bean的名称，如=@Bean(name="alias")=,此时方法的名称就不是对象的名称，可以随意命名。
+*** 5.2. SpringBoot中的JavaConfig
+
+
+1. SpringBoot支持JavaConfig方式向IoC容器注册对象；
+
+   - 原因:springboot中没有xml配置文件可以实施控制反转;
+   - 实施:
+     在SpringBoot的启动器类上标注@SpringBootApplication；而@SpringBootApplication内部又被标注为@Configuration注解，因此是可以在启动器中，采用JavaConfig的代码形式完成控制反转的.
+
+2. 在SpringBoot中使用JavaConfig创建对象和实施依赖注入
+
+   - @Bean创建对象
+   - @Autowired实施按类型自动装配
+
+3. 使用application.properties为JavaBean实施注入：
+   在SpringBoot中，还可以利用application.propertes文件向Bean对象实施属性值注入，
+4. SpringBoot注册Web三大组件的方式：
+   由于SpringBoot的web应用是以执行主方法或者jar包的方式启动嵌入式Web服务器，因此SpringBoot的web应用没有web.xml文件。那么SpringBoot如何注册和使用web应用的三大组件呢？
+   答案是：采用代码注册和@Bean的形式：
+
+   - ServletRegistrationBean注册Servlet
+   - FilterRegistrationBean注册Filter
+   - ServletListenerRegistrationBean注册Listener
+
+#+begin_src java
+
+  //在当前类中,分别创建FunctionService对象和UseFunctionService对象及其设置它们的依赖关系
+  //并且将对象放入到IoC容器中
+  @Configuration
+  public class ServiceJavaConfig {
+      //定义方法创建对象
+      @Bean
+      public FunctionService functionService(){
+          return new FunctionService();
+      }
+      @Bean
+      public UseFunctionService useFunctionService(){
+          UseFunctionService useFunctionService=new UseFunctionService();
+          // 直接注入functionService()，为单例模式，否则不是
+          useFunctionService.setFunctionService(functionService());
+          return useFunctionService;
+      }
+  }
+#+end_src
+
+#+begin_example
+  # properties for JavaConfig
+  server.servlet.context-path=/demo
+  com.employee.name=wangda
+  com.employee.age=18
+  com.employee.hobby[0]=singing
+  com.employee.hobby[1]=dancing
+  com.employee.hobby[2]=sport
+#+end_example
+
+#+begin_src java
+  // JavaConfig with properties
+  @SpringBootApplication
+  public class ConfigurationprotertiesApplication {
+      @Bean
+      @ConfigurationProperties(prefix = "com.employee")
+      public Employee employee(){ return new Employee(); }
+      public static void main(String[] args) {
+          SpringApplication.run(ConfigurationprotertiesApplication.class, args);
+      }
+  }
+#+end_src
+
+#+begin_src java
+  // integral web application via JavaConifg
+  // 注意
+  @SpringBootApplication
+  public class ServletfilterApplication {
+      // Servlet 注册
+      @Bean
+      public ServletRegistrationBean myServlet(){
+          ServletRegistrationBean registrationBean=
+                  new ServletRegistrationBean(new MyServlet(),"/servlet/myservlet");
+          return registrationBean;
+      }
+      // Filter 注册
+      @Bean
+      public FilterRegistrationBean myFilter(){
+          FilterRegistrationBean registrationBean=new FilterRegistrationBean();
+          registrationBean.setFilter(new MyFilter());
+          registrationBean.addUrlPatterns("/servlet/*");
+          return registrationBean;
+      }
+      public static void main(String[] args) {
+          SpringApplication.run(ServletfilterApplication.class, args);
+      }
+  }
+#+end_src
+*** 5.3. 总结
+
+
+1. JavaConfig:@Configuration@Bean;@Autowired
+2. @ConfigurationProperties实施依赖注入:=@configurationproperties(prefix="属性的前缀名称")=
+3. SpringBoot中创建Servelt与Filter
+
+   1. ServletRegistrationBean
+   2. FilterRegistationBean
+** 6. SpringBoot注解
+
+| 注解 | 作用对象 | 用途 | 例子 |
+|------+----------+------+------|
+|      |          |      |      |
+** 7. 配置样例
+
+#+begin_example
+  # 项目名字
+  server.servlet.context-path=/demo
+
+  # 配置json时区和日期格式
+  spring.jackson.time-zone=GMT+8
+  spring.jackson.date-format=yyyy-MM-dd HH:mm:s
+
+  # thymeleaf
+  # 禁用缓存让静态资源文件自动刷新
+  spring.thymeleaf.cache=false
+
+  # JSP视图解析器配置
+  spring.mvc.view.prefix=/WEB-INF/jsp
+  spring.mvc.vew.suffix=.jsp
+
+  # 数据库配置
+  spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+  spring.datasource.url=jdbc:mysql://localhost:3306/databasename?useUnicode=true&characterEncoding=utf-8
+  spring.datasource.username=root
+  spring.datasource.password=pwd
+  mybatis.type-aliases-package=bean的package路径
+  mybatis.mapper-locations=classpath:/mapper/*.xml
+  mybatis.configuration.cache-enabled=true
+  logging.level.“拼接mapper类包路径”=debug
+#+end_example
+
+#+begin_src java
+  @SpringBootApplication
+  public class SpringBootMainClass {
+      public static void main(String[] args) {
+          SpringApplication.run(SpringBootMainClass.class, args);
+      }
+  }
+#+end_src
+** 8. =Druid=连接池
+*** 8.1. Druid连接池概要
+
+Druid连接池是一个基于JDBC技术的组件，它包括三个部分：
+
+- DruidDataSource这是连接池的核心部分
+- Filter-Chains插件体系 用于监控连接池
+- SQLParser 用于分析SQL语法，提供高性能的SQL监控，有效防范SQL注入
+*** 8.2. xml配置
+*** 8.3. 代码注册（JavaConfig）
+*** 8.4. 配置说明
+
+需要在SpringBoot的application.properties文件中进行配置。
+
+#+begin_example
+  # Druid连接池配置
+  # 修改SpringBoot的默认连接池，SpringBoot的默认连接池是HikariCP
+  spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
+
+  # 指定数据库类型
+  spring.datasource.dbType=mysql
+
+  # 初始化时，创建的连接对象个数
+  spring.datasource.initialSize=5
+
+  # 连接池最多持有的连接对象个数
+  spring.datasource.maxActive=20
+
+  # 空闲状态下最少持有的连接对象个数
+  # 注意：
+  # 1. 连接池在被充分使用的情况下，可能没有空闲对象，这是允许的；
+  # 2. 连接池在不被充分使用的情况下，该配置就是销毁连接对象的条件；即超过5个以上的空闲连接对象就会被销毁；也是创建连接对象的条件，即不足5个空闲，需要创建新的连接对象补齐。
+  spring.datasource.minIdle=5
+
+  # 获取连接对象的最长等待时间是60000毫秒（1分钟）；如果超过这个时间就会报异常。有2种情况需要考虑：
+  # 1. 连接池创建了maxActive所设定数量的连接对象并且都已经分配出去，如果此时还有请求，连接池只能等待应用程序归还用完的连接池，如果超过1分钟仍然没有归还，则报异常。
+  # 2. 连接池还没有达到饱和的情况下，需要创建连接对象，向数据库申请连接；如果超过指定时间还没有连接上数据库，则报异常。
+  spring.datasource.maxWait=60000
+
+  # 间隔多长时间（毫秒，比如1分钟），移除程序检查空闲连接对象是否被清除连接池。清除时需要考虑minIdle条件，只有在满足minIdle设置的情况下，才会被清除。也需要考虑空闲对象在连接池中的最小生存时间。
+  spring.datasource.timeBetweenEvictionRunsMillis=60000
+
+  # 配置一个连接对象在连接池中最小生存的时间，单位是毫秒(5分钟)，这意味着刚创建出来的连接对象不会被移除。
+  spring.datasource.minEvictableIdleTimeMillis=300000
+
+  # 连接池检测空闲连接对象的sql语句；oracle使用：select 1 from dual
+  spring.datasource.validationQuery=SELECT 1
+
+  # 由于网络中断或者数据库有连接超时的限制，连接池中的连接对象可能会失效，因此需要检测。检测的SQL语句在validationQuery属性上设置。
+  spring.datasource.testWhileIdle=true
+
+  # 从连接池中获取连接对象被称为是借出；为了保证性能，借出时一般不需要检测连接对象是否失效。
+  spring.datasource.testOnBorrow=false
+
+  # 程序中关闭连接对象，其实并没有被销毁而是归还给了连接池以备复用；为了保证性能，归还时一般不需要检测连接对象是否失效
+  spring.datasource.testOnReturn=false
+
+  # 连接池会有一块区域专门存储预编译语句对象，被称为PSCache。如果底层数据库是Oracle或者MySQL5.5版本以上，建议设置为true,可以极大提高性能
+  spring.datasource.poolPreparedStatements=true
+
+  # 单个connnection独享一个statement cache，默认值是10；只有设置值大于0，PSCache才会生效
+  spring.datasource.maxPoolPreparedStatementPerConnectionSize=20
+
+  # 配置一组用于监控的过滤器；其中，stat是用于连接池的状态监控，wall用于防火墙，log4j2用于日志记录
+  spring.datasource.filters=stat,wall,log4j2
+
+  # 配置统计慢sql，ture => 统计，false => 不统计
+  spring.datasource.logSlowSql=true
+
+  # 默认情况下，连接池的状态是各自独立的；设置后，可以合并每个连接池的状态，给出一个公共全局的状态
+  spring.datasource.useGlobalDataSourceStat=true
+
+  # sql合并统计,与设置慢sql统计(标准为超过5秒)
+  # 注意：connectionProperties代表的是Properties集合，可以存储一组名值对的设置。
+  spring.datasource.connectionProperties=druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+#+end_example

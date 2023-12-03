@@ -1,0 +1,68 @@
+
+
+* Internationalization
+
+* 国际化
+
+可以根据系统的语言环境改变页面的显示语言
+
+语言环境的设置
+
+1. 通过设置浏览器的语言环境,来改变页面的语言环
+2. 通过超链接改变语言环境,进而改变页面的语言环境: 中文/英文
+* 国际化常用API
+
+** 1. Locale类
+
+语言环境类,其实例表示的就是语言和国家。
+
+1. =zh_CN=:zh表示中文,CN表示中国
+2. =en_US=:en表示英文,US表示美国
+** 2. 创建Locale对象
+
+
+1. 使用构造器 =Locale(String language , String country)=
+
+2. 使用Locale类的静态方法 =Locale getDefault()=:获取当前系统默认语言环境
+
+=Locale request.getLocale()=
+使用request对象的getLocale()方法获取浏览器默认的语言环境;
+
+3>使用Locale类的全局常量
+
+- =Locale.US=:表示美国
+- =Locale.ENGLISH=:表示英语
+- =Locale.CHINA=:表示中国
+- =Locale.CHINESE=:表中中文
+** 3. ResourceBundle类
+
+其实例表示包含特定语言环境的资源包(资源文件),
+当程序需要一个特定语言环境的资源时,就可以从
+适合的语言环境资源包(资源文件)中加载得来。
+*** 3.1. 语言环境资源文件
+
+就是针对不同的语言环境会提供不同的资源文件,不同的资源文件中
+分别是不同的语言环境下的信息内容:
+*** 3.2. 语言环境资源文件的命名
+
+=前缀_语言_国家.properties=,且必须放在类路径下
+
+英文资源文件:=i18n_en_US.properties=
+
+中文资源文件:=i18n_zh_CN.properties=
+*** 3.3. 创建ResourceBundle对象
+
+=ResourceBundle getBundle(String baseName , Locale locale)=
+
+- 参数一是语言资源文件的基本名称
+- 参数二是语言环境实例对象
+
+那么就可以使用参数二Locale对象所表示的语言环境,再结合参数
+一语言资源文件的基本名称,加载对应的语言资源文件。进而可以
+使用=ResourceBundle=对象的=String etString(String key)=方法
+从当前=ResourceBundle=对象所表示的语言资源文件中获取资源数据。
+* 配置语言资源文件
+
+
+1. 语言资源文件的名称格式: =基本名称_语言_国家.properties=
+2. 语言资源文件必须放在项目的src目录下

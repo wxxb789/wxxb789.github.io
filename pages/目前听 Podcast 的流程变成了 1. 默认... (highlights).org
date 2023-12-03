@@ -1,0 +1,15 @@
+:PROPERTIES:
+:title: 目前听 Podcast 的流程变成了 1. 默认... (highlights)
+:author: [[humiaozuzu on Twitter]]\
+:full-title: "目前听 Podcast 的流程变成了 1. 默认..."\
+:category: #tweets\
+:url: https://twitter.com/humiaozuzu/status/1627061132421890048\
+:END:\
+
+* Highlights first synced by [[Readwise]] [[2023-02-20]]
+** 目前听 podcast 的流程变成了
+1. 默认用小宇宙听
+2. 发现一篇信息量比较高有想要笔记的部分，切到 Snipd 听（可以创建 snip 标记重点的位置）
+3. 听完后音频文件同步到飞书妙计并导出带时间的逐字稿
+4. 逐字稿用 Notion AI 提取总结片段
+5. 逐字稿导入 Readwise 并同步 Snipd 笔记和 Notion 总结 https://t.co/nLA1JhVgEQ ([View Tweet](https://twitter.com/humiaozuzu/status/1627061132421890048))

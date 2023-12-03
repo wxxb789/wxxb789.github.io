@@ -1,0 +1,12 @@
+#+title: pl/Rust/Pointer
+
+* =Box<T>=
+* =Rc<T>=
+* Cell Types
+** =Cell<T>=
+** =RefCell<T>=
+* Synchronous types
+** =Arc<T>=
+** =Mutex<T>=
+** =RWLock<T>=
+* =Cow<T>=

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: 之前用 Postman，后来变得越拉越难用，越来... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[laixintao on Twitter]]
+:full-title: "之前用 Postman，后来变得越拉越难用，越来..."
+:category: [[tweets]]
+:url: https://twitter.com/laixintao/status/1723249556325024086
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-11]]
+** 📌
+** #+BEGIN_QUOTE
+** 之前用 postman，后来变得越拉越难用，越来越复杂了。后来用 insomnia，同样变得复杂和难用了，而且 bug 很多，更新弹窗连续弹好几次。
+
+想自己写一个终端版本的了。不过，不知道是否已经存在类似的东西了？
+
+基于 GUI/TUI 的，不能用命令行的，命令行的编辑起来还是不太友好（否则的话 curl 就够了）  ([View Tweet](https://twitter.com/laixintao/status/1723249556325024086))
+** #+END_QUOTE

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:title: Tweets From Ein Verne (highlights)
+:author: [[@einverne on Twitter]]
+:full-title: "Tweets From Ein Verne"
+:category: #tweets
+:url: https://twitter.com/einverne
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** 使用 Rime 的另一个好处是，可以通过词库来反查单词，比如我知道 ご飯，但是不想查字典「晚饭」怎么说，可以直接 rg "ご飯"，发音，输入就搞定了。 https://t.co/2twVOSy3QR
+
+![](https://pbs.twimg.com/media/FjWXKiraMAILnnl.png) ([View Tweet](https://twitter.com/einverne/status/1600351789504925697))

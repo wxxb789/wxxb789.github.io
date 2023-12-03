@@ -1,0 +1,29 @@
+* [01]note
+* User Setting
+
+The default location for the settings file is =~/.m2/settings.xml=
+* 坐标
+
+=groupid=：公司/组织名 + =artifactid=：项目/子项目名 + =version= 版本号
+* 仓库
+
+
+- 本地仓库 Maven项目从本地获取=jar=包
+- 远程仓库
+  私服，本地没有，如果配置了远程仓库，那么从远程仓库下载=jar=包到本地仓库。
+- 中央仓库
+  第三方团队维护的仓库，阿里云等。若远程仓库没有=jar=包则从中央仓库下载到远程仓库，如果没有远程仓库，那么去中央仓库下载=jar=包到本地。
+
+  - =mvnrepository.com=
+  - =maven.aliyun.com= # 常用命令
+
+| =clean=        | 清理                                             |
+|----------------+--------------------------------------------------|
+| =compile=      | 编译，只编译=main=目录，不处理=test=目录         |
+| =test-compile= | 编译=test=目录的代码，=test=用于写测试           |
+| =test=         | 运行=test=里面的代码                             |
+| =package=      | 打包=jar=或=war=                                 |
+| =install=      | 发布项目到本地仓库，打=jar=包可与i被其他项目使用 |
+| =run=          | 运行项目，编译项目到=target=目录（=.class=文件） |
+| =tomcat:run=   | 一键构建项目                                     |
+* Maven插件

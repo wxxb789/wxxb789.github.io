@@ -1,0 +1,14 @@
+#+alias: k8s,
+
+* Tutorials
+** [[Kubernetes/Learn Kubernetes in 3 hours]]
+* Containers
+* Kubernetes
+* Orchestrator
+* Docker
+* Rkt
+* [[lrn/kubernetes]]
+*
+* AKS: Azure Kubernetes Service
+** [[k8s/Azure Kubernetes Service Notes]]
+*

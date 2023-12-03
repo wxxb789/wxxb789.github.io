@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: 过了一遍@madawei2699  MyGPTR... (highlights)
+:author: [[balconychy on Twitter]]
+:full-title: "过了一遍@madawei2699  MyGPTR..."
+:category: #tweets
+:url: https://twitter.com/balconychy/status/1647858564726394882
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-17]]
+** 过了一遍@madawei2699  MyGPTReader开发日志，里面有详细的作者在开发过程中使用ChatGPT的对话过程。有不少启发，记录如下：
+1，未来做好一个应用类的项目，最关键的是想法和产品思维及商业模式。具体的执行ChatGPT可以让你一个人像一个军队。
+2，如果你有详细的需求直接扔给ChatGPT，会有不错的启发 ([View Tweet](https://twitter.com/balconychy/status/1647858564726394882))
+** 3，不用去翻库函数的文档，直接让ChatGPT给你实例，并详细解释给你听
+4，独立的功能可以直接让ChatGPT写
+5，复杂的功能，请提供详细，越详细越好的需求（这是关键），ChatGPT会在连续的几个回答里给你解决方案 ([View Tweet](https://twitter.com/balconychy/status/1647858567603695622))
+** 6，可以直接将代码的错误甩给ChatGPT让他去解决
+如果超过5个来回没有解决，不要浪费时间，请让他全部重写，并且要给出你的观察和思路 ([View Tweet](https://twitter.com/balconychy/status/1647858570342576129))
+** 第5点，作者在开发landing page时给了chatGPT非常详细的要求，然后五六个continue让chatGPT干完这个页面设计，初看非常震惊https://t.co/MyhjHhgxrU ([View Tweet](https://twitter.com/balconychy/status/1647858572968202242))
+** 第6点，个人在使用ChatGPT写代码时也有发现，如果BuG几次反馈没有解决，那么就不要纠结，赶紧换方案。所谓条条大路通罗马，要谨记目标是实现功能，而实现的方式是由很多种的，我们需要是高效的解决问题。所以最好的方法就是告诉ChatGPT:
+请重写代码，按照一下思路。。。。
+基本上能一次解决问题 ([View Tweet](https://twitter.com/balconychy/status/1647858575996502022))
+** 重写，是对思路的重写梳理 
+
+![](https://pbs.twimg.com/media/Ft5hTC1akAIfqSk.jpg) ([View Tweet](https://twitter.com/balconychy/status/1647861664702930944))

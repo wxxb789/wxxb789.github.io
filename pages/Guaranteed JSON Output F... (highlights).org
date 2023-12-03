@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: Guaranteed JSON Output F... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[sergeykarayev on Twitter]]
+:full-title: "Guaranteed JSON Output F..."
+:category: [[tweets]]
+:url: https://twitter.com/sergeykarayev/status/1691173819422257152
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-15]]
+** 📌
+** #+BEGIN_QUOTE
+** Guaranteed JSON output from any local LLM, with very low overhead!
+
+Check out the library and a brief description of the method below the fold.
+
+https://t.co/FDB9wSl2D2
+
+"The basic idea is simple: regular expressions have an equivalent Deterministic-Finite Automaton (DFA) representation. We can transform this DFA into a generative model: in each state we get a list of symbols which correspond to completions that partially match the regular expression. We mask the other symbols in the logits returned by a large language model, sample a new symbol and move to the next state." - @remilouf and co at @normalcomputing  ([View Tweet](https://twitter.com/sergeykarayev/status/1691173819422257152))
+** #+END_QUOTE

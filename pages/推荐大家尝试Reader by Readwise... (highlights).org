@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: 推荐大家尝试Reader by Readwise... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[onenewbite on Twitter]]
+:full-title: "推荐大家尝试Reader by Readwise..."
+:category: [[tweets]]
+:url: https://twitter.com/onenewbite/status/1725350331201028205
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-17]]
+** 📌
+** #+BEGIN_QUOTE
+** 推荐大家尝试Reader by Readwise (两个月试用免费)-affiliate 链接:
+https://t.co/KZyt4rHgNE
+
+经常有观众在视频下留言问我视频中展示的电子阅读APP是什么。它就是Reader by Readwise.
+毫不夸张的讲，它是我的 Dream reading app coming true. 它不仅仅是个Reading APP，它更是一个信息捕捉工具(read it later) ，项目管理和分享工具，而且它还有“文字转语音”的功能。
+**我正在制作一个我是如何使用它的视频**
+
+我现在几乎所有的阅读已经转移到了Reader by Readwise当中。包括：
+
+电子书 (Epub, PDF等)
+
+订阅的Newsletter (Readwise会给你一个专门的邮箱来订阅各种newsletter, 避免自己的邮箱被轰炸);
+
+YouTube 视频(对，收藏视频能显示文本，并且可以对文本进行高亮标注和做笔记), 
+
+Twitter, Podcast 等；
+
+它甚至支持你使用自己的ChatGPT API实现高阶AI功能；
+
+说重点: 我刚刚和Readwise 达成了合作 (老观众都知道，在合作前我已经在推荐它了 )。通过我的专属链接，大家可以获得两个月的免费试用 (比官方多一个月):
+
+https://t.co/KZyt4rHgNE
+
+(Reader 和 Readwise 是同一个账户，也是同一个订阅)。
+
+我必须和大家公开透明:
+
+如果你最后觉得它对你有用，决定付费订阅，作为合作方，Readwise会给我一定的佣金。
+
+感谢！  ([View Tweet](https://twitter.com/onenewbite/status/1725350331201028205))
+** #+END_QUOTE

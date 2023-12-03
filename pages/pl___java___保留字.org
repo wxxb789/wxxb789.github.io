@@ -1,0 +1,106 @@
+* 保留字
+
+* abstract
+
+* assert
+
+* break
+
+* case
+
+* catch
+
+* class
+
+* continue
+
+* deauflt
+
+* do
+
+* else
+
+* enum
+
+* extends
+
+* final
+
+* finally
+
+* for
+
+* if
+
+* implements
+
+* import
+
+* instanceof
+
+* interface
+
+* native
+
+* new
+
+* package
+
+* private
+
+* protected
+
+* public
+
+* return
+
+* static
+
+* strictfp
+
+* switch
+
+* super
+
+* synchronized
+
+* this
+
+* throw
+
+* throws
+
+* transient
+
+* try
+
+* void
+
+* volatile
+
+* while
+
+* 值
+
+
+- false
+- true
+- null
+
+* 基本数据类型
+
+
+- boolean
+- byte
+- char
+- double
+- float
+- int
+- long
+- short
+
+* 保留但不使用
+
+
+- const
+- goto

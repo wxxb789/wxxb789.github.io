@@ -1,0 +1,1 @@
+* [[../assets/Hands-on_Kubernetes_on_Azure_1666181406665_0.pdf][Hands-on Kubernetes on Azure.pdf]]

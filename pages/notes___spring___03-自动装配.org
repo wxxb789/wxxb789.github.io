@@ -1,0 +1,59 @@
+
+
+* 自动装配
+
+
+1. 在XML配置文件中注册一个bean时，通过使用autowire属性告知IoC容器自动为其属性实施依赖注入。
+   =xml     <bean id="" class="" autowire="">=
+2. 如果bean类中属性的类型是基本数据类型、String类型、Class类型以及这些类型的数组，则不能实施自动装配。
+   # 自动装配的形式 ## 1. 按名称自动装配(autowire="byName")
+3. 根据bean类的属性名称，在xml配置文件中查找相同注册名称的bean对象，如果找到，实施自动装配。
+
+   1. bean类的属性名称由setter/getter方法指定；
+   2. xml文件中bean对象的注册名称由bean标签的id属性指定；
+
+   #+begin_src java
+         private String pname;
+         private Company xxx;//company
+         public String getPname() {
+             return pname;
+         }
+         public void setPname(String pname) {
+             this.pname = pname;
+         }
+         public Company getXxx() {
+             return xxx;
+         }
+         public void setXxx(Company cmpy) {
+             this.xxx = cmpy;
+         }
+   #+end_src
+
+   #+begin_example
+     <bean id="xxx" class="autowire1.byname.Company" >
+         <property name="cname" value="IBM" />
+         <property name="address" value="Beijing Dongcheng" />
+     </bean>
+     <bean id="person" class="autowire1.byname.Person" autowire="byName">
+         <property name="pname" value="wangda" />
+     </bean>
+   #+end_example
+
+   ** 2. 按类型自动装配(autowire="byType")
+
+
+4. 根据bean类的属性类型，在xml文件中查找相同类型的bean对象，如果找到，实施自动装配。
+
+   1. bean类的属性类型是set方法中的参数类型(允许是接口类型)；
+   2. xml文件中，注册bean的类型由bean标签的class属性指定(指定的可能是一个接口的具体实现类)。
+
+5. 如果xml文件中注册了多个相同类型的bean对象，不能采用byType自动装配，此时应采用手动装配，明确指明依赖关系
+   ## 3. 构造器自动装配(autowire="constructor")
+6. 根据bean类中构造器的参数类型，在xml文件中查找相同类型的bean对象，如果找到，实施自动装配。
+
+   1. 要求bean类提供有参构造器；
+
+7. bean类中构造器的参数类型实际上是bean类的属性类型，因此构造器自动装配本质上是按类型自动装配；
+   ## 4. 自动探测(autowire="autodetect")
+8. 如果bean类提供了有参的构造器则采用constructor自动装配，如果没有提供有参构造器则采用byType自动装配。
+9. MyEclipse中不支持此形式的自动装配

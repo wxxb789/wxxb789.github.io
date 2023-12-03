@@ -1,0 +1,184 @@
+
+
+* css
+
+** 1. css介绍
+
+CSS(cascading stype sheets)层叠样式表。
+HTML使用标签将数据进行了封装，浏览器通过解析HTML标签以此来展示页面内容，
+并且可通过标签的属性对页面进行特效展示和美化，但是HTML标签属性的功能毕竟是有限的。
+那么css就是用来定义网页的显示效果,可以解决HTML对页面样式定义的重复，
+提高了后期样式的可维护性，增强了网页的显示效果功能。
+css将网页内容和显示样式进行了分离，提高了显示效果。
+** 2. css和HTML的结合
+
+*** 2.1. 方式一
+
+HTML每个标签都有style样式属性
+style属性里面又有多个属性,属性和属性值之间用 : 连接； 属性和属性之间用
+=;= 隔开。
+*** 2.2. 方式二
+
+在HTML的=<head>=标签中使用=<style>=标签。
+=type="text/css"=告诉浏览器=<style>=标签中的内容是css文本。
+*** 2.3. 方式三
+
+#+begin_example
+  在`<style>`标签中导入css文件。(以.css为扩展名的文件,文件中定义的就是css样式代码)
+  还可在css文件中再导入其他css文件。
+#+end_example
+*** 2.4. 方式四
+
+在=<head>=标签中使用=<link>=标签导入css文件。
+=rel=属性告诉浏览器是样式设置,type属性告诉浏览器是css文本内容,=href属性=连接css文件路径
+** 3. css样式的优先级
+
+由上到下,由外到内，的优先级别是由低到高。总之是哪个最后被加载，执行哪个的样式。
+
+css代码格式
+
+#+begin_src css
+  选择器名称{
+  属性名:属性值;
+  属性名:属性值;
+  ......
+  }
+#+end_src
+
+属性和属性值之间用 =:= 相连; 属性和属性之间用 =;= 隔开;
+当一个属性有多个值时,值与值之间用=空格=隔开。
+** 4. 选择器
+
+选择器:就是css要作用的标签。
+
+选择器有3种:
+
+1. HTML标签名选择器。使用的就是HTML的标签名。
+2. class选择器。使用的是标签的class属性。
+3. id选择器。 使用的是标签的id属性。
+
+#+begin_quote
+  #+begin_example
+    1. class选择器用 `.` 标记
+        class选择器比标签选择器优先级高
+    2. id选择器用 `#` 标记
+        id选择器比标签选择器优先级也高
+  #+end_example
+#+end_quote
+
+样式的优先级:
+
+=标签选择器 < class选择器 < id选择器 < 标签style属性=
+** 5. 关系选择器
+
+1>关联选择器:所属关系
+
+#+begin_src css
+  div span{ } /*div 下的span标签 */
+  .haha .ha{ }/*calss值是haha的标签下的class值是ha的标签 */
+  #hehe #he{ }/*id值是hehe的标签下的id值是he的标签 */
+  /*组合选择器: 并列关系*/
+  p,div #s{ }/*所有p标签和div标签下id值是s的标签*/
+
+  /*伪元素选择器:严格说不算是选择器,主要作用是用于对标签的不同状态进行样式设置的。
+  如超链接标签,一旦定义好默认是蓝色、有下划线；一旦链接后成红色。
+  */
+
+  a:link     /*<a>标签未访问的状态*/
+  a:hover /*<a>标签鼠标悬浮的状态*/
+  a:active  /*<a>标签点击状态*/
+  a:visited /*<a>标签访问后状态*/
+#+end_src
+** 6. 综合应用
+
+#+begin_src css
+  /*列表样式*/
+  ul{
+  list-style-type:circle;/*list-style-type属性改变列表的标记*/
+  list-style-image: url(记号.png)/*list-style-image可使用自定义图片做标记*/
+  }
+
+
+  /*表格样式*/
+  table{
+  border-top:#CC0000 double 3px;
+  /*border-top上边框,值分别是颜色、线条样式、粗细，double双线*/
+  border-bottom:#330099  solid 3px;/*border-bottom下边框,solid实线*/
+  border-left:#00FF00 dashed 3px;/*border-left左边框,dashed虚线*/
+  border-right:#000000 groove 3px;/*border-right右边框,groove压线*/
+  width:400px;
+  height:300px;
+  }
+  /*表格的单元格样式*/
+  table td{
+  border:#CC0000 solid 1px;/*border边框，值分别是颜色、线条样式、粗细*/
+  padding:50px;/*padding单元格内间距*/
+   }
+
+  /*div块样式*/
+  div{
+  border: #FF0000 dashed 3px;
+  width:400px;
+  height:300px
+  }
+
+  /*input标签样式*/
+  input{
+  border:#0033FF solid 1px;
+  width:300px;
+  }
+  .ha{/*下划线输入*/
+  border:none;
+  border-bottom:#000066 solid 2px;
+  }
+  .he{/*看起来是空白表格输入*/
+  border:none;
+  }
+#+end_src
+** 7. 盒子模型
+
+盒子模型就是使用div标签将一个页面分成多个区域,就像一个个盒子一样,在使用css样式以不同的效果显示不同的区域
+
+- 边框: =border=
+- 上边框:=border-top=
+- 下边框:=border-bottom=
+- 左边框:=border-left=
+- 右边框:=border-right=
+
+内间距:=padding=
+当指定一个值时表示四周内间距；当指定两个值时，第一个值表示上下内间距，第二个值表示左右内间距。
+当指定三个值时，第一个值表示上内间距，第二个值表示左右内间距，第三个值表示下内间距；
+当指定四个值时，分别表示 上 右 下 左内间距。
+
+=padding=的四个值还可用对应的边距处理:
+
+- 上内间距:=padding-top=
+- 下内间距:=padding-bottom=
+- 左内间距:=padding-left=
+- 右内间距:=padding-right=
+
+外间距:margin
+当指定一个值时表示四周外间距；当指定两个值时，第一个值表示上下外间距，第二个值表示左右外间距；当指定三个值时，第一个值表示上外间距，第二个值表示左右外间距，第三个值表示下外间距；
+当指定四个值时，分别表示 上 右 下 左外间距。
+margin的四个值还可用对应的边距处理:
+
+- 上外间距:=margin-top=
+- 下外间距:=margin-bottom=
+- 左外间距:=margin-left=
+- 右外间距:=margin-right=
+
+注意:当把所有div标签的外间距设为=margin=0px;=时，=div=块跟页面的顶层，左边还有间距，那是因为所有的标签都在=<body>=标签里，
+=<body>=标签默认有间距，只要把=<body>=标签的外间距设为=margin=0px;=那么=div=就跟页面的边边紧挨了。
+** 8. 定位
+
+=position=取值：
+
+=static=:默认值。无特殊定位，对象遵循HTML定位规则
+=absolute=:将对象从文档流中拖出，使用 =left= ， =right= ， =top= ，
+=bottom=
+
+等属性相对于其最接近的一个最有定位设置的父对象进行绝对定位。如果不存在这样的父对象，则依据
+=body= 对象。而其层叠通过 =z-index= 属性定义
+
+=relative=:对象不可层叠，但将依据 =left= ， =right= ， =top= ， =bottom=
+等属性在正常文档流中偏移位置

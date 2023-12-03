@@ -1,0 +1,4 @@
+#+title: plt/naming
+
+* [[lisp-1]] vs [[lisp-2]]
+*

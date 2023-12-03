@@ -1,0 +1,8 @@
+*
+* topic
+** [[lex]] and [[yacc]]
+*** [[https://book.douban.com/subject/1105363/][lex与yacc (豆瓣) (douban.com)]]
+** [[flex]] and [[bison]]
+*** [[https://book.douban.com/subject/6109479/][flex与bison（中文版） (豆瓣) (douban.com)]]
+**
+*

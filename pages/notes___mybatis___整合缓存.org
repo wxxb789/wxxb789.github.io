@@ -1,0 +1,88 @@
+
+
+* MyBatis框架整合第三方缓存
+
+* 整合动机
+
+
+1. MyBatis框架自身的二级缓存的实现方案性能一般；
+2. MyBatis框架自身的二级缓存没有分布式缓存的功能，不适合于分布式系统。
+3. 整合对象：MemCached、EhCashed、Redis，满足高并发，高可靠，分布式系统的需求。
+* MyBatis的缓存机制及其与第三方缓存产品的整合
+
+[[file:_v_images/20190421175839349_30022.png]]
+
+1. MyBatis在创建SqlSession对象时，内部会创建Executor(执行器)对象，及其它的代理对象-CachingExecutor，其中二级缓存由Configuration对象负责管理。
+2. CachingExecutor针对查询请求，首先通过Executor查询一级缓存，如果没有再去查询二级缓存；如果还没有，就再次通过Executor查询数据库。
+3. 从数据库查询出来的数据，首先存入一级缓存，当一级缓存执行事务提交或者关闭操作时，CachingExecutor会将数据存入MyBatis的二级缓存或者是第三方缓存库，如：EhCache。
+* EhCache
+
+
+1. EhCache是一个用Java实现的、线程安全的、且轻便高效的缓存管理类库，EhCache提供了内存管理，磁盘存储，以及分布式存储等多种灵活的缓存方案。
+2. EhCache是用来管理缓存的一个工具，其缓存的数据可以是存放在内存里面的，也可以是存放在硬盘上的。其内部核心对象是CacheManager，它的主要职责是对Cache的创建、移除和访问。（Cache代表一块被管理的缓存区域）
+3. EhCache在创建CacheManager时，首先在class路径下寻找ehcache.xml配置文件并加载解析。ehcache.xml文件配置了缓存的管理方案。
+* EhCache配置文件说明
+
+
+1. 标签：指明溢出数据在磁盘的存储位置
+2. 标签和标签
+
+   1. defaultCache标签设置的是默认的内存管理策略，针对没有命名的缓存区域；
+   2. cache标签专用于指定名称的区域。
+   3. 必备属性
+
+      1. name： Cache的名称，必须是唯一的，适用于标签；标签不需要指定。
+      2. maxElementsInMemory：在内存中缓存对象的最大数目。
+      3. maxElementsOnDisk：在磁盘上缓存对象的最大数目，默认值为0，表示没有限制。
+      4. eternal：设定缓存的对象是否永远不过期。如果为true，则缓存的数据始终有效，如果为false那么还要根据timeToIdleSeconds、timeToLiveSeconds判断。
+      5. overflowToDisk：
+         如果内存中数据超过内存限制，是否要缓存到磁盘上。
+
+   4. 可选属性
+
+      1. timeToIdleSeconds：
+         对象空闲时间，指对象在多长时间没有被访问就会失效。只对eternal为false的有效。默认值0，表示一直可以访问。
+      2. timeToLiveSeconds：
+         对象存活时间，指对象从创建到失效所需要的时间。只对eternal为false的有效。默认值0，表示一直可以访问。
+      3. diskPersistent：
+         是否在磁盘上持久化。指重启jvm后，数据是否有效。默认为false。
+      4. diskExpiryThreadIntervalSeconds：
+         对象检测线程运行时间间隔。标识对象状态的线程多长时间运行一次。
+      5. diskSpoolBufferSizeMB：
+         DiskStore使用的磁盘大小，默认值30MB。每个cache使用各自的DiskStore。
+      6. memoryStoreEvictionPolicy：
+         如果内存中数据超过内存限制，向磁盘缓存时的策略。默认值LRU，可选FIFO、LFU。
+
+3. 缓存的3 种清空策略
+
+   1. FIFO：first in first out (先进先出)。
+   2. LFU：Less Frequently Used
+      (最少使用)。意思是一直以来最少被使用的。缓存的元素有一个hit
+      属性，hit 值最小的将会被清出缓存。
+   3. LRU：Least Recently Used(最近最少使用)，(ehcache
+      默认值)。缓存的元素有一个时间戳，当缓存容量满了，而又需要腾出地方来缓存新的元素的时候，那么现有缓存元素中时间戳离当前时间最远的元素将被清出缓存。
+* 整合的流程
+
+
+1. 加载整合类库，在开发工具中（比如：MyEclipse）设置ehcache.xml的约束定义文件(ehcache.xsd)的位置和标识
+2. 开启全局开关
+
+   1. 在mybatis-config.xml文件中
+
+   #+begin_example
+     <setting name=“cacheEnabled” value=“true”/>
+   #+end_example
+
+3. 开启Mapper分开关
+   =xml     <cache type="org.mybatis.caches.ehcache.EhcacheCache"/>=
+4. 提供ehcache.xml配置文件
+   =xml     <?xml version="1.0" encoding="UTF-8"?>     <ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"              xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd">         <diskStore path="D:/cache" />         <defaultCache             maxElementsInMemory="3000"             eternal="false"             copyOnRead="true"             copyOnWrite="true"             timeToIdleSeconds="3600"             timeToLiveSeconds="3600"             overflowToDisk="true"             diskPersistent="true" />     </ehcache>=
+   # 解决MyBatis框架二级缓存的局限性
+5. 采用spring框架与第三方缓存库整合的方案
+
+   1. 针对不适合于MyBatis二级缓存的应用场景，Spring框架直接在业务层实施缓存处理，这就涉及到了一个新的主题-Spring
+      Cache。
+
+6. 更进一步的，更加完善的解决方案，应该采用Spring整合Redis方案；
+
+   1. Redis不仅可以实现分布式高速缓存，而且还可以作为NoSql数据库使用。

@@ -1,0 +1,103 @@
+
+
+* IoC容器
+
+
+1.  本质是一个实现了BeanFactory接口的工厂类
+2.  BeanFactory的功能
+
+    1. 通过Resource对象，加载对象的配置信息；
+
+       1. 对象的配置信息通常采用xml文件：applicationContext.xml
+       2. 配置文件放在类路径下，即src下的相应包中；
+
+    2. 根据xml文件的配置，创建对象和设置对象的依赖关系
+
+       1. SpringIoC容器通过反射方式创建对象
+
+    3. 管理对象的生命周期并负责提供对象； # 常见IoC容器 ## 1.
+       BeanFactory接口，实现类:XmlBeanFactory
+
+3.  特点
+
+    1. 提供了IoC容器的核心功能，通常被称为"Bean工厂"；
+    2. 创建容器时，需要Resource（资源）对象；
+
+4.  功能
+
+    1. 实例化对象及设置对象的依赖关系；
+    2. 管理对象的生命周期；
+    3. 负责提供对象；
+
+    #+begin_src java
+          Resource resource=new ClassPathResource(LOCATION);
+          BeanFactory factory=new XmlBeanFactory(resource);
+          Date now=(Date)factory.getBean("now");
+    #+end_src
+
+    ** 2. ApplicationContext接口，实现类:ClassPathXmlApplicationContext
+
+
+5.  特点
+
+    1. 继承于BeanFactory接口，实际应用中的标准容器，通常被称为"应用上下文"；
+    2. 不需要资源对象，直接针对XML配置文件的路径创建容器对象；
+
+6.  功能
+
+    1. 拥有BeanFactory的所有功能；
+    2. 支持国际化和事件发布等先进功能
+
+    #+begin_src java
+          ApplicationContext ac = new ClassPathXmlApplicationContext(CONFIG);
+          MyBean myBean=(MyBean)ac.getBean("myBean");
+    #+end_src
+
+    ** 3. WebApplicationContext接口，实现类:XmlWebApplicationContext
+
+
+7.  特点
+
+    1. ApplicationContext接口的子接口，专用于Web应用中的IoC容器
+    2. 通过Web容器监听器(ContextLoaderListener)加载配置文件、创建Spring容器；
+
+8.  功能
+
+    1. 整合时提供组件，有两种情况:
+
+       1. 为控制器提供业务组件；
+       2. 负责提供所有组件(包括控制器); # ApplicationContext容器管理对象
+
+9.  bean对象的创建时机
+
+    1. 默认情况下，容器创建的同时bean也被创建；
+    2. 设置lazy-init属性为true：当向容器索要对象时，容器才创建对象；
+
+10. bean对象的创建模式，即设置scope属性的值
+
+    1. singleton(单例对象)：容器只创建一个对象，当向容器索要对象时，IoC容器每次提供相同的对象
+    2. prototype(原型对象)：容器创建多个对象(多例对象)，当向容器索要对象时，IoC容器每次提供不同的对象
+    3. 针对于Web应用，IoC容器可以将所创建的对象存入
+
+       1. HttpServletRequest对象：request
+       2. HttpSession对象：session
+
+11. bean对象的再次初始化
+
+    1. 执行时机：构造器之后执行的方法
+    2. 配置属性：init-method
+
+12. bean对象销毁之前执行的方法(在单例模式中有效)
+
+    1. 执行时机：关闭容器前，容器首先要销毁容器中所创建的对象
+    2. 配置属性：destroy-method
+
+    #+begin_example
+         <bean id="myBean"
+               lazy-init="true"
+               scope="singleton"
+               init-method="myInit"          ---id为myBean的bean对象内部方法
+               destroy-method="myDestroy"    ---id为myBean的bean对象内部方法
+               class="ioc.demo4.MyBean">
+         </bean>
+    #+end_example

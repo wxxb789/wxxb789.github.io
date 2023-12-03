@@ -1,0 +1,6 @@
+#+tags: rust
+
+* [[Algorithm in Rust]]
+*
+* [[https://fengliang.io/RustWHY/face.html][Rust Why]]
+*

@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: ChatGPT 正在席卷投资界。    上周... (highlights)
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "ChatGPT 正在席卷投资界。    上周..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1658947141044441089
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-18]]
+** ChatGPT 正在席卷投资界。   
+
+上周 CNN 表示“ChatGPT 可以比您的基金经理更好地挑选股票”。   
+
+以下是 ChatGPT和金融行业迅猛结合的 5 个例子： ([View Tweet](https://twitter.com/FinanceYF5/status/1658947141044441089))
+** 1/ CNN 上周报道了 ChatGPT 选择的投资组合如何超越一些最受欢迎的投资基金。
+
+根据金融比较网站 https://t.co/DkcS8FUimw 进行的一项实验，在 3 月 6 日至 4 月 28 日期间，由 38 只股票组成的虚拟投资组合上涨了 4.9%，而 10 只领先的投资基金平均下跌了 0.8 % 。
+https://t.co/k7wyjO39fG ([View Tweet](https://twitter.com/FinanceYF5/status/1658947431151857666))
+** Finder 首席执行官乔恩·奥斯特勒 (Jon Ostler) 表示：“不久之后，大量消费者会尝试使用 ChatGPT 获取经济利益” 
+
+![](https://pbs.twimg.com/media/FwXEI-WaIAAKjRb.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1658947702749798401))
+** 2/ @Chrisjjosephs , 流行的@PelosiTracker_ 创始人, 成立了自己的 ChatGPT 基金。    
+
+ 他们为该基金提供了 5 万美元的启动资金，它的表现已经超过了 $SPY  。
+https://t.co/PlsYfhl29k ([View Tweet](https://twitter.com/FinanceYF5/status/1658948012998299648))
+** 该基金使用 ChatGPT 中的各种提示技术来分析股票并选择最有可能表现良好的股票。 
+
+![](https://pbs.twimg.com/media/FwXEge5aAAAtx7j.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1658948105314918400))
+** 3/ 在最近的一篇研究论文中，ChatGPT 还被用于创建产生 500% 回报的投资组合。
+https://t.co/DMxCqQXcIo ([View Tweet](https://twitter.com/FinanceYF5/status/1658948254883782656))
+** 4/ 现在越来越多的人在尝试这种策略。  这是一个例子
+@iuditg 
+https://t.co/dJaYKh1f2v ([View Tweet](https://twitter.com/FinanceYF5/status/1658948372399521792))
+** 5/@DataChaz 正在使用新的@portfoliopilot ChatGPT 中的插件来构建一个投资组合，看看结果会如何。
+https://t.co/UQ5XCyBism ([View Tweet](https://twitter.com/FinanceYF5/status/1658948621432410112))
+** 这些发展令人兴奋，我期待看到它们的结果如何以及这对投资界意味着什么。
+原作者：@moritzkremb 
+
+我希望你发现这个线程有帮助。     
+关注@financeYF5 获得更多内容。     
+喜欢/转推下面的第一条推文，以帮助与更多人分享：https://t.co/BeusrTJxQV ([View Tweet](https://twitter.com/FinanceYF5/status/1658948856586072065))

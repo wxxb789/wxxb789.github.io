@@ -1,0 +1,11 @@
+:PROPERTIES:
+:title: 终于写完了《如何在 Heptabase 中构建第... (highlights)
+:author: [[lgtwet on Twitter]]\
+:full-title: "终于写完了《如何在 Heptabase 中构建第..."\
+:category: #tweets\
+:url: https://twitter.com/lgtwet/status/1626879930498945027\
+:END:\
+
+* Highlights first synced by [[Readwise]] [[2023-02-21]]
+** 终于写完了《如何在 Heptabase 中构建第二大脑》，看了一眼字数统计，也是万字长文了。这篇文章是我向大家汇报学习第二大脑和使用 Heptabase 的思考与心得。https://t.co/wD2EMeqpi5 ([View Tweet](https://twitter.com/lgtwet/status/1626879930498945027))
+** 该篇文章的新网址为 https://t.co/0Pqp08Wklm ([View Tweet](https://twitter.com/lgtwet/status/1627308370284941313))

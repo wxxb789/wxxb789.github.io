@@ -1,0 +1,4 @@
+#+alias: 房地产, 不动产, real property, real estate,
+
+* 房地产一般也被称为不动产（real property，也写作realty），与之相对应的是私产，即[[动产]]（personal property，也被称作chattel或者personalty）。
+* [[finance/房产/避坑]]

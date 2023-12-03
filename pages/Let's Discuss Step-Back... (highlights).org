@@ -1,0 +1,122 @@
+:PROPERTIES:
+:title: Let's Discuss Step-Back... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[IntuitMachine on Twitter]]
+:full-title: "Let's Discuss Step-Back..."
+:category: [[tweets]]
+:url: https://twitter.com/IntuitMachine/status/1712174264747479233
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-12]]
+** 📌
+** #+BEGIN_QUOTE
+** Let's discuss Step-Back Prompting
+
+Step-Back Prompting is like taking a step back to see the bigger picture before diving into the details.
+
+It's based on the observation that we humans often simplify complex problems by first identifying the key, high-level concepts. We extract the essence before getting lost in the weeds.
+
+Let's take an example:
+
+Original question: "What was the name of the first dog sent into space by the Soviet Union in 1957?"
+
+This requires finding an obscure fact about a specific dog many years ago. Easy to get overwhelmed by the details. 
+
+Instead, we first take a step back and ask - "What were the major milestones in early space exploration history?"
+
+Now we're dealing with summarizing the key events in space travel. Much more manageable. 
+
+The high-level concept here is "space exploration milestones". We'd retrieve key facts like:
+
+\- Yuri Gagarin was the first human in space (1961, Soviet Union) 
+
+- Sputnik was the first artificial satellite (1957, Soviet Union)
+
+- Laika was the first animal in orbit (1957, Soviet Union)
+
+Armed with this knowledge, we can now easily infer that Laika must have been the first dog in space sent by the Soviets in 1957.
+
+So in a nutshell, Step-Back Prompting is like zooming out of Google Maps to first see the bigger picture and main roads before searching for a specific store. Going top-down instead of bottom-up.
+
+We teach the LLMs this strategy of abstraction before reasoning by showing them examples of stepping back and extracting high-level concepts. This grounds their thinking and improves complex reasoning.  ([View Tweet](https://twitter.com/IntuitMachine/status/1712174264747479233))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** BTW, I forgot to mention.  If you want to get a map of the multitude of prompting methods that's been discovered, get my book:  https://t.co/sQXPgWZxIJ  ([View Tweet](https://twitter.com/IntuitMachine/status/1712174645640581217))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** STEP-BACK Prompting compares favorably to other prompting methods like Chain-of-Thought (CoT) and Take-a-Deep-Breathe (TDB) as well as retrieval augmentation:
+
+Chain-of-Thought Prompting
+\- Aims to generate coherent intermediate reasoning steps
+- But still reasons directly on the original complex question
+- STEP-BACK simplifies the question first via abstraction 
+
+- On tasks like MMLU, CoT shows little to no gains (<1%)
+- Whereas STEP-BACK improves by 7-11%
+
+Take-a-Deep-Breathe Prompting  
+- Instructs the model to solve problems step-by-step
+- Does not introduce abstraction before reasoning
+
+- On TimeQA, TDB gains only 0.4% 
+- STEP-BACK improves performance by 27%
+
+Retrieval Augmentation
+- Retrieves relevant facts as context for reasoning 
+- Performance limits if facts about specifics are sparse
+
+- RAG improves TimeQA by 16%
+- STEP-BACK + RAG boosts it further to 68% 
+
+In summary, STEP-BACK consistently outperforms other prompting methods because it shifts the reasoning to a higher conceptual level via abstraction. This makes the task more manageable for the LLM.  ([View Tweet](https://twitter.com/IntuitMachine/status/1712175237930860934))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Step-back prompting and task decomposition are related strategies for improving reasoning in large language models, but have some key differences:
+
+Task Decomposition
+\- Breaks down a complex question into simpler sub-tasks or steps
+- Each sub-task focuses on a narrow part of the full question
+- Helps simplify reasoning through divide-and-conquer
+
+Step-Back Prompting  
+- Asks a more abstract, high-level version of the question 
+- Retrieving facts about general concepts rather than specifics
+- Reasoning is grounded on conceptual knowledge
+
+The key difference is that decomposition divides the reasoning horizontally by splitting the question into granular steps. Step-back works vertically, moving the question up to a higher abstraction level.
+
+Some examples to illustrate:
+
+Original question: What was the most popular TV show in 1985?
+
+Decomposition: 
+1) List all TV shows airing in 1985
+2) Identify viewership numbers for each
+3) Compare numbers to find most popular
+
+Step-back: What were the most influential TV shows in the 1980s?
+
+--
+
+Original question: When was the Brooklyn Bridge constructed? 
+
+Decomposition:
+1) Find the start date for construction 
+2) Find the completion date
+3) Subtract to get total construction time
+
+Step-back: What are some major bridges built in New York in the 19th century?
+
+--
+
+So in summary, decomposition breaks the question down into more bitesized pieces. Step-back reasoning operates at a higher, more conceptual level.  ([View Tweet](https://twitter.com/IntuitMachine/status/1712176970622964135))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** For more details, join our exponentially exploding community! https://t.co/An53B3CjC8  ([View Tweet](https://twitter.com/IntuitMachine/status/1712177386479829485))
+** #+END_QUOTE

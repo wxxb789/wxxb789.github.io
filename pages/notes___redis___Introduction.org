@@ -1,0 +1,113 @@
+#+tags: redis,
+
+* 最小配置
+
+#+begin_src ini
+  daemonize yes
+  # 设置连接端口
+  port 6666
+  # 设置密码
+  requirepass 1234
+  databases 128
+  logfile ./redislog.log
+  # 设置校验和，写入文件名和工作目录
+  # redis5之后校验和使用CRC64以增强抵抗数据损坏，但是会造成10%的性能损失，在写入和加载RDB文件的时候
+  rdbchecksum yes
+  dbfilename dump.rdb
+  dir ./
+  # 设置允许连接的ip为所有
+  bind 0.0.0.0
+#+end_src
+* =Bash=命令
+
+#+begin_src shell
+  tar –xzf filename.tar.gz
+  # -x 解压文件
+  # -z 调用gzip程序来压缩文件，压缩后的文件名称以.gz结尾
+  # -f 要操作的文件名
+  # -v 显示详细的tar处理的文件信息
+
+  # build 工程
+  make
+
+  # 使用指定配置启动redis服务
+  src/redis-server redis.conf
+
+  # 使用redis-cli连接redis服务
+  src/redis-cli -h 连接主机 -p 端口 -a 密码
+
+  # 关闭redis服务
+  src/redis-cli shutdown
+  kill -9 pid 进程号
+#+end_src
+* 常用redis命令
+** 通用命令
+
+| 命令   | 示例                               | 说明                                                   |
+|--------+------------------------------------+--------------------------------------------------------|
+| select | select 0;select 1;                 | 选择第n个数据库                                        |
+| keys   | keys he/; keys he[h-l]/; keys ph?; | 根据Pattern表达式查询符合条件key，不要在生产环境中使用 |
+| dbsize | dbsize                             | 返回key的总数                                          |
+| exists | exists a                           | 检查key=a是否存在                                      |
+| del    | del a                              | 删除key=a的数据                                        |
+| expire | expire hello 20                    | 设置key=hello 20秒后过期                               |
+| ttl    | ttl hello                          | 查看key=a的国企剩余时间                                |
+
+字符串指令;
+
+| 命令           | 示例                              | 说明                       |
+|----------------+-----------------------------------+----------------------------|
+| get            | get hello                         | 获得key=hello结果          |
+| set            | set hello world                   | 设置key=hello，value=hello |
+| mset           | mset hello world java best        | 一次性设置多个KV           |
+| mget           | mget hello java                   | 一次性获得多个KV           |
+| del            | del hello                         | 删除key=hello              |
+| incr/decr      | incr count; decr count;           | key值自增/自减1            |
+| incrbuy/decrby | incrby count 99; decrby count 99; | 自增自减指定步长           |
+** Hash指令
+
+| 命令    | 示例                               | 说明                  |
+|---------+------------------------------------+-----------------------|
+| hget    | hget user:1:info age               | 获取hash中key=age的值 |
+| hset    | hset user:1:info age 23            | 设置hash中age=23      |
+| hmset   | hmset user:2:info age 30 name kaka | 设置hash多个值        |
+| hmget   | hmget user:2:info age name         | 获取hash多个值        |
+| hgetall | hgetall user:2:info                | 获取hash所有值        |
+| hdel    | hdel user:1:info age               | 删除user:1的age       |
+| hexists | hexists user:1:info name           | 检查时否存在          |
+| hlen    | hlen user:1:info                   | 获取指定长度          |
+** List指令
+
+| 命令   | 示例                                     | 说明     |
+|--------+------------------------------------------+----------|
+| rpush  | rpush listkey c b a                      | 右侧插入 |
+| lpush  | lpush listkey f e d                      | 左侧插入 |
+| rpop   | rpop listkey                             | 右侧弹出 |
+| lpop   | lpop listkey                             | 左侧弹出 |
+| llen   | llen listkey                             | 获取长度 |
+| lrange | lrange listkey 0 2; lrange listkey 1 -1; | 获取子集 |
+** Set指令
+
+| 命令        | 示例                        | 说明                       |
+|-------------+-----------------------------+----------------------------|
+| sadd        | sadd key element            | 添加集合中的元素           |
+| srem        | srem key element            | 移除集合中的元素           |
+| scard       | scard user:1:follow         | 计算集合数量               |
+| smembers    | smembers user:1:follow      | 获取所有集合元素（不推荐） |
+| srandmember | srandmember user:1:follow 3 | 随机挑选3个元素            |
+| spop        | spop user:1:follow          | 随机弹出元素               |
+| sdiff       | sdiff set1 set2             | 差集                       |
+| sinter      | sinter set1 set2            | 交集                       |
+| sunion      | sunion set1 set2            | 并集                       |
+** Zset指令
+
+| 命令          | 示例                        | 说明                                                                                          |
+|---------------+-----------------------------+-----------------------------------------------------------------------------------------------|
+| zadd          | zadd key score member       | 将一个或多个 member 元素及其 score 值加入到有序集 key 当中,score 值可以是整数值或双精度浮点数 |
+| zscore        | zscore key element          | 得到分数                                                                                      |
+| zcard         | zcard key                   | 元素总数                                                                                      |
+| zrank         | zrank key element           | 获得排名                                                                                      |
+| zrem          | zrem key element            | 删除数据                                                                                      |
+| zrange        | zrange key scope withscores | 获得排序索引数据                                                                              |
+| zcount        | zcount key scope            | 获得排序数据总量                                                                              |
+| zrangebyscore | zrangebyscore key           | 获得按分数排序元素                                                                            |

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:title: Tweets From 小庞 (highlights)
+:author: [[0xthefool on Twitter]]
+:full-title: "Tweets From 小庞"
+:category: #tweets
+:url: https://twitter.com/0xthefool
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-03-25]]
+** 红杉刚刚发布了AI时代的开发工具mapping，将所有devtool根据使用场景分成了13个赛道，又根据产品的AI原生于创新程度分成了3代产品。
+
+就像我们会判断一个产品是不是crypto native那样，新时代产品也会被打上AI… https://t.co/TDcfYlCel7 
+
+![](https://pbs.twimg.com/media/FsBO2AQaEAAIcmv.jpg) ([View Tweet](https://twitter.com/0xthefool/status/1639397499843792897))

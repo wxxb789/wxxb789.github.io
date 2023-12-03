@@ -1,0 +1,4 @@
+#+alias: Azure Data Explorer,
+
+* [[https://learn.microsoft.com/en-us/azure/data-explorer/engine-v3][Azure Data Explorer Kusto EngineV3 | Microsoft Learn]]
+* [[https://learn.microsoft.com/en-us/azure/data-explorer/kusto-emulator-overview][Azure Data Explorer Kusto emulator overview | Microsoft Learn]]

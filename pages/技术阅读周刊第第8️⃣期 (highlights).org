@@ -1,0 +1,17 @@
+:PROPERTIES:
+:title: 技术阅读周刊第第8️⃣期 (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[crossoverJie's Blog]]
+:full-title: "技术阅读周刊第第8️⃣期"
+:category: [[articles]]
+:url: http://crossoverjie.top/2023/12/01/ob/newsletter/Newsletter08-20231201/
+:image-url: https://s2.loli.net/2023/12/01/AXc16Ty8hoUw3sC.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-02]]
+** 📌
+** #+BEGIN_QUOTE
+** ![](https://s2.loli.net/2023/11/28/1Oqd5Zgxt8R4EQm.png)  ([View Highlight](https://read.readwise.io/read/01hgmnfe28ry8zxh92nysjx90c))
+** #+END_QUOTE

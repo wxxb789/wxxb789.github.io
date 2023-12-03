@@ -1,0 +1,666 @@
+
+
+* Servlet
+
+*网络三要素:*
+
+1. 协议:确定了客户端(浏览器)和服务器端底层传输数据的格式
+2. IP地址:确定了访问的服务器计算机(硬件服务器)
+3. 端口:确定了访问的服务器主机上安装的服务器软件(软件服务器)
+* tomcat 结构
+
+=bin=：二进制文件，启动关闭脚本
+
+=conf=：=server.xml= 用来配置整个tomcat服务器信息。
+
+=tomcat-users.xml= :用来存储=tomcat=用户文件，
+四种权限：=roles="manager-gui,manager-script,manager-jmx,manager-status"=
+
+=lib=：Tomcat的类库，里面是一大堆的jar文件。如果需要添加
+Tomcat依赖的jar文件，就可以把它放在此目录中；当然把部署在
+服务器中的应用程序所依赖的jar文件也可以放到此目录中，这个
+目录中的jar文件所有部署在服务器中的项目都可以共享使用，但
+是这样如果把部署的应用程序部署到其它服务器中时，应用程序就
+无法共享到所需jar文件而出错，所以建议只把Tomcat所需的jar文
+件放到此目录中，项目所需jar文件就放在项目中。
+
+=logs=: 日志文件，启动，关闭，异常，访问信息。
+
+=webapps=:存放web项目的目录，其中的每一个文件夹都是一个项目。
+此目录下已经存在的目录那都是Tomcat自带的项目。如，ROOT项目，
+当我们通过=http://localhost:8080=访问Tomcat时，其实就是在访问此项目。
+
+=web.xml=：部署描述符文件，这个文件中注册了很多MIME类型，即文档类型。
+这些MIME类型是客户端和服务器之间说明文档类型的。
+客户端请求一个html页面，那么服务器就会告诉客户端浏览器响应的文档是=text/html=类型的，
+这就是一个MIME类型。客户端浏览器通过这个MIME类型就知道该如何处理它了，当然是在浏览器中显示这个html文件了。
+所以MIME就是用来说明文档的内容是什么类型，客户端浏览器就会针对不同的类型进行不同的处理。
+在web项目中的=web.xml=文件还继承自服务器conf目录中的=web.xml=文件,
+就是说即使web项目中的=web.xml=文件中一些相关信息没有配置,也默认存在,因为继承自服务器conf目录中的=web.xml=。
+
+=context.xml=：对部署在服务器中的所有应用程序的统一配置，就是
+管理服务器中部署的所有web应用程序。通常我们不会去修改该文件。
+=<WatchedResource>WEB-INF/web.xml</WatchedResource>=
+指定了tomcat服务器中部署的所有web项目的执行入口都是
+=WebRoot/WebContent=下的WEB-INF中的=web.xml=文件;
+* 实现Servlet的方式
+
+实现Servlet有三种方式：
+
+1. 实现=javax.servlet.Servlet=接口,并重写其所有的抽象方法
+2. 继承=javax.servlet.GenericServlet=抽象类,重写其所有的抽象方法
+3. 继承=javax.servlet.http.HttpServlet=抽象类
+* Servlet的生命周期
+
+
+1. =init()=:在servlet对象被创建之后立刻执行,最初执行且只被执行一次。
+2. =service()=:每次访问servlet都被执行,可被执行多次,用于处理请求的。
+3. =destory()=:在servlet对象被销毁之前执行,且只被执行一次。
+* servlet的特点
+
+
+1. =init()=方法是在servlet被第一次访问及创建后立刻执行且只被
+   执行一次,而后期多次再访问servlet,就不再执行=init()=方法,而是
+   多次执行=service()=方法,说明始终访问的是同一个servlet对象。
+2. servlet是线程不安全的:为了提高执行效率。
+
+=init()=方法的参数和=getServletConfig()=方法的返回值都是ServletConfig
+对象,该对象叫Servlet配置对象,其封装的就是servlet的配置信息,即就是
+Servlet在=web.xml=中的=<servlet>=标签中的信息内容。
+
+ServletConfig对象的生命周期和Servlet对象的生命周期一致,
+即在创建了Servlet对象并立刻调用了其=init()=方法之前被创建,
+Servlet对象被销毁其也销毁。说明每个Servlet都有其独立的
+ServletConfig对象。由服务器创建其对象。
+
+方法：
+
+1. =String getServletName()=获取servlet的别名的
+2. =ServletContext getServletContext()=获取ServletContext(上下文对象)
+3. =String paramValue getInitParamter(String paramName)=
+   通过参数名获取servlet的初始化参数值
+4. =Enumeration<String> getInitParameterNames()=获取当前servlet的所有的初始化参数名字的
+* ServletContext - 上下文对象
+
+** 1. ServletContext概述
+
+服务器会为每个web应用创建一个ServletContext对象，即一个项目只有
+一个ServletContext对象。其作用是在整个web应用的动态资源之间共享
+数据，*即可以在N多个servlet中获取这个唯一的ServletContext对象*,多
+个servlet之间可以使用它传递数据。
+
+#+begin_quote
+  如，在A servlet中向ServletContext 对象中保存一个值，在B
+  servlet中就可以通过ServletContext对象获取
+  到这个值。(优点就是大大降低了多个servlet之间的耦合度。)
+#+end_quote
+
+ServletContext对象会在服务器*启动时自动创建*。
+ServletContext对象会在服务器*关闭时自动销毁*。
+
+ServletContext对象称为上下文对象:
+
+1. 在每个web项目中只有唯一的一个ServletContext对象
+2. 该对象的生命周期长,在服务器启动创建,服务器关闭时销毁
+3. 在整个web项目中所有的资源可以共享这同一个ServletContext对象
+** 2. 获取ServletContext对象
+
+
+1. 通过Servlet接口的=init(ServletConfig conf)=方法获取到ServletConfig
+   的对象，再通过ServletConfig对象的=getServletContext()=方法获取到
+   ServletContext的对象
+
+2. 通过GenericServlet类提供的=getServletConfig()=方法先获取到ServletConfig
+   的对象，再通过ServletConfig对象的=getServletContext()=方法获取到
+   ServletContext的对象
+
+3. 通过GenericServlet类提供的=getServletContext()=方法直接获取ServletContext
+   的对象
+
+4. 通过HttpServlet类继承自GenericServlet类的的=getServletContext()=
+   方法也能直接获取到ServletContext的对象
+
+5. 通过*HttpSession接口*的=getServletContext()=方法
+** 3. 域对象
+
+指在一定的作用域中可以被所有动态资源共享的对象,使用其传递数据
+
+ServletContext其实是javaWeb的四大域对象之一：
+
+#+begin_quote
+  PageContext:表示在同一个jsp页面中(作用域)被共享,用于传输数据
+
+  ServletRequest:表示在同一个请求链中(作用域)可以被共享,用于传输数据
+
+  HttpSession:表示在同一会话中(作用域)可以被共享,用于传输数据
+
+  ServletContext:表示在同一项目中(作用域)可以被共享,用于传输数据。
+#+end_quote
+
+所有域对象内部都有一个Map集合，可用于存取数据，其作用就是在web应用的
+动态资源之间传递共享数据的。 =put(k,v); v get(k); void remove(k);=
+
+ServletContext对象用于操作数据的方法:
+
+#+begin_src java
+  void setAttribute(String name，Object value)
+  //往ServletContext对象中存储一个对象，也称之为存储一个域属性，实就是存储了一个键值对。
+
+  Object getAttribute(String name)
+  //从ServletContext对象中获取数据，其实就是通过键获取值。
+
+  void removeAttribute(String name)
+  //从ServletContext对象中移除域属性，即通过键删除映射关系。
+
+  Enumeration getAttributeNames()
+  //获取所有域属性的名称，即获取所有键值对的键
+#+end_src
+
+所以所谓的使用域对象传递数据,就是在动态资源中先拿到域对象,
+再调用域对象对应的方法去取值或赋值。
+** 4. 使用ServletContext获取公共的初始化参数
+
+初始化参数:
+
+1. 局部初始化参数，在web.xml中配置Servlet的servlet标签中使用
+
+#+begin_example
+    <init-param>
+      <param-name></param-name>
+      <param-value></param-value>
+    </init-param>
+#+end_example
+
+是配置给指定的Servlet的,那么只能在指定的Servlet中拿到参数
+通过ServletConfig
+
+2. 全局初始化参数，直接在web.xml中使用:
+
+#+begin_example
+    <context-param>
+      <param-name></param-name>
+      <param-value></param-value>
+    </context-param>
+#+end_example
+
+是配置给整个web项目的,那么任何一个Servlet都能拿到过ServletContext
+
+何时去使用初始化参数?
+当一些数据经常要被用到,且数据的值是固定不变的,那么就可以将其定义为
+初始化参数;如果数据仅限于在某个Servlet中被使用,则定义局部初始化参数,
+如果数据可能会被整个项目的所有资源访问,就定义为全局初始化参数;
+
+前面在web.xml文件中可以为Servlet配置初始化参数，那叫局部参数，
+即只能当前Servlet自己获取并使用。
+
+#+begin_example
+  <servlet>
+    <init-param>
+      <param-name>a</param-name>
+      <param-value>A</param-value>
+    </init-param>
+  </servlet>
+#+end_example
+
+ServletContext可以配置公共的初始化参数，并且所有Servlet都可以
+通过获取ServletContext对象来获取到公共参数并使用。
+* 获取资源(文件)的相关方法
+
+
+1. 获取资源的真实路径。即可以使用ServletContext对象来获取web应用下的资源在磁盘的真实路径。
+
+#+begin_quote
+  例，在应用的根目录下创建a.txt文件，在servlet中就可以使用ServletContext对象来获取其真实路径：
+
+  =ServletContext context = getServletContext();=
+
+  =String realPath1 = context.getRealPath("/a.txt");=
+
+  =System.out.println(realPath1);=
+
+  例，在WEB-INF下创建b.txt，获取其真实路径：
+
+  =String realPath2 = context.getRealPath("/WEB-INF/b.txt");=
+
+  =System.out.println(realPath2);=
+#+end_quote
+
+2. 获取资源流。即可以使用ServletContext对象获取资源，并将资源封装到流中：
+
+#+begin_quote
+  如，获取应用的根目录下的a.txt文件，并将其封装到流中：
+
+  =ServletContext context = getServletContext();=
+
+  =InputStream in1 = context.getResourceAsStream("/a.txt");=
+
+  如，获取WEB-INF下的b.txt，并将其封装到流中：
+
+  =InputStream in2 = context.getResourceAsStream("/WEB-INF/b.txt");=
+#+end_quote
+
+3. 使用ServletContext对象获取指定目录下的所有子资源的路径。
+
+#+begin_quote
+  如，获取WEB-INF下的所有子资源的路径：
+
+  =ServletContext context = getServletContext();=
+
+  =Set<String> paths = context.getResourcePaths("/WEB-INF");=
+
+  =System.out.println(paths);=
+#+end_quote
+
+*注意:以上方法必须以"/"开始，表示资源路径相对于项目目录*
+* 获取类路径下的资源(文件)
+
+获取类路径下的资源，对于JavaWeb项目而言，就是获取=/WEB-INF/classes=
+目录下的资源和=/WEB-INF/lib=下的每个jar包，其实就是在获取Web Project
+项目中=src目录=中的资源。*因为Web Project项目部署到服务器中是没有src
+目录的，=src目录=中的所有内容都会被存储在服务器中的项目目录下的=WEB-INF=
+目录下的=classes目录=中。*
+
+Class类的=getResourceAsStream(String path)=方法
+
+1. 路径以"/"开头，表示资源路径相对于=classes(src)=目录。
+2. 路径不以"/"开头，表示资源路径相对于当前=.class(.java)=文件。
+
+ClassLoader对象:类加载器
+每一个类都有一个类加载器,其作用就是加载(编译)类的
+
+获取某个类的类加载器:
+
+1. 先拿到类的运行时类的对象(Class对象)
+2. 再调用类的运行时类对象,即Class对象getClassLoader()方法获取当前类的类加载器
+
+ClassLoader类的=getResourceAsStream(String path)=方法
+此方法参数路径前不需要加"/"，它只表示资源路径相对于classes(src)目录。
+所以,以后获取src目录下的资源并将其保存到字节输入流中, 绝不能使用new
+InputStream()的方式,因为在web项目中没有
+src目录,所以必须使用ServletContext对象、Class对象、
+ClassLoader对象的=getResourceAsStream(String path)=方法
+
+=path=是相对路径，相对于class对象的路径。
+* 请求响应流程
+
+** 1. ServletRequest
+
+请求对象，简称request。
+该对象封装的就是请求协议的所有内容,通过该对象服务器就可以
+获取到客户端所有的请求内容。
+** 2. ServletResponse
+
+响应对象，简称response。
+该对象封装的就是响应协议的所有内容,通过该对象服务器就可以
+向客户端做出响应。
+** 3. 请求响应流程
+
+当客户端向服务器发送请求，并且服务器接收到客户端请求后，服务器
+会自动创建ServletRequest对象，将所有请求数据封装到ServletRequest
+对象中，并同时还会自动创建ServletResponse对象。然后在调用servlet
+的=service()=方法具体处理请求时，会把ServletRequest对象和ServletResponse
+对象作为参数传递给=service()=方法，在=service()=中就可以通过ServletRequest
+对象获取其封装的所有请求数据，并可以使用ServletResponse对象向客户端完
+成响应。
+
+每次请求服务器都会创建新的ServletRequest对象和ServletResponse对象，
+即每个请求都有自己独有的ServletRequest对象和ServletResponse对象。
+request对象和response对象的生命周期就是一个请求。
+
+1. 服务器每次收到新请求时，都会为新请求开辟一个新的线程。
+2. 服务器会把客户端的请求数据封装到ServletRequest对象中，ServletRequest
+   对象就是请求数据的载体。
+3. 服务器还会创建ServletResponse对象，此对象与客户端连接在一起，
+   可以用于向客户端发送响应。
+* ServletResponse响应对象
+
+注意：这里说的响应对象实质是ServletResponse接口的实现类，跟Http
+协议相关的HttpServletResponse的对象。
+
+#+begin_quote
+  http协议响应协议的规则:
+
+  响应首行(响应协议，状态码，状态码解释)
+
+  响应头信息 (头名称:值)
+
+  空行
+
+  响应正文(就是浏览器真正显示的内容,一般是html)
+#+end_quote
+
+HttpServletResponse对象向客户端响应发送的就是响应协议的内容。
+** 1. 发送状态码
+
+状态码：200表示成功、302重定向、404访问资源不存在(客户端错)、
+500服务端错误、304读取缓存、405没有重写doGet()或doPost()方法
+
+发送状态码的常见方法：
+
+=setStatus(int sc)=发送成功状态码，可发送302 200 304
+
+=sendError(int sc)=发送错误状态码，可发送404 500 405
+
+=sendError(int sc , String msg)=发送错误状态码的同时发送错误信息
+
+#+begin_quote
+  404:
+
+  1. 是资源真的不存在
+
+  2. 是资源存在,但是不想让客户端访问到,就可以通过向客户端响应404实现
+#+end_quote
+
+#+begin_quote
+  302重定向:
+
+  1. 向客户端发送302状态码
+
+  2. 向客户端发送Location响应头,其值是个新的url路径
+
+  3. 浏览器就会自动重定向访问新的url路径
+#+end_quote
+** 2. 发送响应头信息
+
+响应头：
+
+- Content-Type(响应体的文本类型和编码格式)
+- Expirse(页面过期时间)
+- Cache-Contrlo(缓存设置)
+- Pragma(缓存设置)
+- Refresh(自动刷新):也属于重定向,是定时重定向;
+
+注意：响应头信息就是键值对，可能存在一个响应头一个值，也可能存
+在一个响应头多个值。
+
+发送响应头信息的常见方法：
+
+- =setHeader(String name , String value)=适用于单值的响应头(常用)
+- =addHeader(String name , String value)=适用于多值的响应头
+- =setIntHeader(String name , int value)=适用于单值且值是int型的响应头
+- =addIntHeader(String name , int value)=适用于多值且值是int型的响应头
+- =setDateHeader(String name , long value)=适用于单值且值是毫秒值的响应头
+- =addDateHeader(String name , long value)=适用于多值且值是毫秒值的响应头
+
+实现重定向: 当浏览器请求=ServletB_1=时,让其重定向到=ServletB_2=
+
+#+begin_quote
+  重定向的特点:
+
+  1. 两次请求两次响应
+
+  2. 就是两组request和response对象
+
+  3. 浏览器地址栏的url地址改变为了重定向后的资源路径
+#+end_quote
+
+=sendRedirect(String path)=方法重定向：重定向的操作步骤无外乎就是
+
+1. 发送302状态码
+2. 发送Location响应头信息，
+
+而=HttpServletResponse=对象还提供了一个=sendRedirect(String path)=方法
+实现重定向，其实此方法内部就是将这两步封装起来了，我们只需要传递参
+数重定向的url路径即可。
+** 3. 发送响应体
+
+响应体通常是html或者图片，服务端向客户端浏览器响应内容一般使用两个
+输出流：
+
+1. ServletOutputStream 字节输出流，用于向客户端发送字节数据。
+   =ServletOutputStream sos = response.getOutputStream();=
+
+2. PrintWrite
+   字符输出流，用于向客户端发送字符数据。中文字符数据需要处理乱码
+   =PrintWriter pw = response.getWriter();=
+
+注意：两个流绝不能同时使用，会出现异常。
+* ServletRequest请求对象
+
+注意：这里说的请求对象实质是ServletRequest对象的实现类，跟Http
+协议相关的HttpServletRequest的对象。
+
+#+begin_quote
+  http协议请求协议的规则：
+
+  请求首行(请求方式 资源路径 协议及版本)
+
+  请求头信息(头名称:值)
+
+  空行
+
+  请求体(get方式没有请求体，post方式有请求体)
+#+end_quote
+
+HttpServletRequest对象封装的就是客户端的所有请求数据，请求协议
+的数据都可以通过HttpServletRequest对象来获取。
+** 1. 获取常用信息
+
+
+1. 获取客户端IP:=getRemoteAddr()=
+2. 获取请求方式:=getMethod()=->=GET=或=POST=
+** 2. 获取请求头信息
+
+
+1. =String getHeader(String name)=适用于单值的请求头(常用)
+2. =int getIntHeader(String name)=适用于单值且值类型是int的请求头
+3. =long getDateHeader(String name)=适用于单值且类型是毫秒值的请求头
+4. =Enumeration<String> getHeaders(String name)=适用于多值请求头
+
+案例:
+
+1. 通过获取User-Agent请求头判断用户使用的浏览器
+
+#+begin_example
+  谷歌:关键字是Chrome
+  Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+  火狐:关键字是Firefox
+  Mozilla/5.0 (Windows NT 6.1; rv:63.0) Gecko/20100101 Firefox/63.0
+  IE:关键字MSIE
+  Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+#+end_example
+
+2. 通过获取Referer请求头实现请求防盗链:
+   访问ServletB,如果请求来自于a.html页面则允许访问，否则则不允许访问。
+** 3. 获取请求URL
+
+完整的请求URL：
+=http://localhost:8080/ServletTest/servletA?uname=aaa&upass=123=
+
+1. =String getScheme()=获取协议：=http=
+2. =String getServerName()=获取服务器名称：=localhost=
+3. =int getServerPort()=获取服务器端口：8080
+4. =String getContextPath()=获取项目路径：=/ServletTest=
+5. =String getServletPath()=获取Servlet路径：=/servletA=
+6. =String getQueryString()=获取参数部分，即？之后部分：=uname=aaa&upass=123=
+7. =String getRequestURI()=获取请求=URI=， =/项目名/资源路径= ->
+   =/ServletTest/servlet1=是客户端请求的简化路径,表示相对于服务器路径
+8. =StringBuffer getRequestURL()=获取请求URL,不包含参数的整个请求路径：
+   =http://localhost:8080/ServletTest/servletA=
+   请求的完整路径,客户端路径
+** 4. 获取请求参数
+
+请求参数是客户端发送给服务器的，有可能在请求体中(post方式)，
+也可能在请求=URL?=之后(get方式)。get方式和post方式获取请求参
+数的方法一样。
+请求参数有一个参数一个值的，也有一个参数多个值的(如复选框checkbox)。
+
+1. =String getParameter(String name)=获取指定名称的请求参数值，
+   适用于单值请求参数。
+2. =String[] getParameterValues(String name)=获取指定名称的请求
+   参数值，适用于多值请求参数。
+3. =Enumeration<String> getParameterNames()=获取所有的请求参数名称
+4. =Map<String , String[]> getParameterMap()=获取所有请求参数。返回
+   值为Map集合，key为参数名，value为参数值。
+* 请求转发和请求包含
+
+前面学习的重定向是客户端请求AServlet，然后AServlet会给客户端响应一
+个302状态码和一个包含新URL的Location响应头，那么客户端又会重新访问
+Location响应头包含的新的URL。在整个过程中客户端其实执行了两次请求，
+在浏览器的URL地址栏中也能看到URL请求的变化，那么是两次请求也就会产
+生两个HttpServletRequest请求对象和两个HttpServletResponse响应对象。
+
+#+begin_quote
+  请求转发/包含：客户端向服务器发送的请求一个Servlet不能完成处理，而是需要多
+  个Servlet之间协作才能完成，那么就需要由一个Servlet跳转到另一个Servlet
+  进行操作，这就叫请求转发或请求包含。
+  在请求转发或请求包含中客户端只知道它直接请求的Servlet，而不知道请
+  求转发或请求包含到的Servlet。所以在请求转发或请求包含中始终是一个请求，
+  浏览器的URL地址栏也是不会改变的，而且始终也是一个request对象和一个
+  response对象。
+#+end_quote
+
+#+begin_quote
+  重定向：是多次请求多次响应，那么也就会有多个request对象和多个response对象产生。
+#+end_quote
+
+*请求转发：* 当前Servlet可以设置响应头，下一个Servlet既能设置响应头
+也能设置响应体。*核心任务在被转发的Servlet,因为被转发的Servlet才可以
+给浏览器响应正文。*
+
+*请求包含：* 当前Servlet可以设置响应头也可以设置响应体，下一个Servlet
+只能设置响应体，且最终的响应体由两个Servlet共同完成。
+*核心在于包含,是由当前Servlet和被包含的Servlet共同完成响应。*
+
+使用request对象的=getRequestDispatcher()=方法获取RequestDispatcher
+=RequestDispatcher rd = request.getRequestDispatcher(String servletPath);=
+
+- 请求转发: =rd.forward(request , response);=
+- 请求包含: =rd.include(request , response);=
+
+请求转发和包含,当前Servlet都必须将request和response对象传递给
+被转发或包含的Servlet,因为请求转发和包含始终是一个请求,所以两个
+Servlet必须使用的是同一组request和resposne对象
+
+#+begin_example
+  HTTP/1.1 200 OK
+  Server: Apache-Coyote/1.1
+  a: A
+  b: B
+  Content-Length: 31
+  Date: Thu, 15 Jun 2017 03:54:13 GMT
+
+  <center><h1>ok!!!</h1></center>
+
+  HTTP/1.1 200 OK
+  Server: Apache-Coyote/1.1
+  a: A
+  Content-Length: 94
+  Date: Thu, 15 Jun 2017 04:01:56 GMT
+
+  <center><h1>ServletE_1  is  ok!!!</h1></center><center><h1>ServletE_2  is  ok!!!</h1></center>
+#+end_example
+** 1. =request=域对象
+
+其作用域是在同一个请求链中可以被多个动态资源共享传递数据;
+同一个请求链其实就是同一个请求,只不过是由请求转发和包含构成的链式 请求;
+就是说request域对象可以在请求转发或包含中的多个动态资源之间被共享
+传递数据;
+
+在请求转发和请求包含中还可以由当前Servlet向请求转发或请求包含到的
+Servlet传递数据，使用request域对象。request是servlet的三大域对象：
+
+- javaWeb是四大域对象:=pageContext=,=request=,=session=,=servletContext=
+- Servlet是三大域对象:=request=,=session=,=servletContext=
+- JSP也是四大域对象:=pageContext=,=request=,=session=,=servletContext=
+
+=request=,=session=,=application=，它们都有如下方法：
+
+- =void setAttribute(String name，Object value)=向域对象中存储数据(键，值对)。
+- =Object getAttribute(String name)=获取域对象中参数名称的键值对的值。
+- =void removeAttribute(String name)=移除域对象中参数名称的键值对。
+
+request域对象的作用域在同一个请求链中,是一个请求,而且是链式请求,
+所谓的链式请求就是请求转发或请求包含。
+在请求转发或请求包含中当前Servlet使用setAttribute()方法保存数据，
+请求转发或请求包含到的Servlet使用getAttribute()方法获取数据。
+* 编码问题
+
+客户端和服务端在进行数据交互时,尤其是中文数据存在一个编码问题。
+
+*数据的形式:*
+
+1. 字符:我们可识别=.java=:字符形式的代码
+2. 字节:计算机识别=.class=:字节形式的代码
+
+任何形式的数据底层都是字节形式，字符、字符串形式只是给我们显示看的。
+因为计算机底层对数据的处理使用的是二进制，而英文字母、特殊符号、
+中文不能直接处理。所以使用字符编码表，在字符编码表中每个英文字母、
+特殊符号、中文都有一个对应的数值，再使用对应数值的二进制进行对应
+的处理。
+
+*unicode码:*
+
+是标准,为了使英文字母，特殊符号，中文被计算机可识别,为英文字母 特殊符号
+中文都提供了一个2字节的数值。0~65535
+
+常见的字符编码表:决定了每个英文字母 符合
+中文对应的整数在内存中具体分配的字节空间大小
+
+- ASCII码：每个英文字母、特殊符号都有对应的数值，不支持中文。
+
+- iso-8859-1：对ASCII码表的扩展，仍不支持中文。
+  都是一个英文字母或特殊符号对应的数值分配一个字节 0~255
+
+- gbk、gb2312、gb18030：系统默认编码，中国的国标码，支持中文。
+  一个中文所对应数值分配的是两个字节 0~65535
+
+- utf-8：万国码，支持全世界所有文字。
+  一个中文所对应的数值最少分配三个字节(还可能有四个字节)
+  三字节存储0~65535更没有问题
+
+- 编码：是使用某个编码格式将字符数据转成字节。
+
+- 解码：是使用对应的编码格式将字节数据转成字符。
+
+客户端和服务器请求
+响应数据会乱码的原因就是编码和解码的编码格式不一致。所谓解决浏览器和服务器请求响应数据的乱码
+问题就是解决编码格式一致的问题。
+** 1. 响应编码问题
+
+本质的操作就是在服务器向浏览器响应正文之前,先向浏览器响应一个
+叫Content-Type的响应头,其实是="text/xxx;charset=编码格式"=,其目的:
+
+1. 服务器告知了浏览器其发送的正文类型:=text/xxx=
+2. 服务器还会使用charset指定的编码格式对正文进行编码(=charset=编码格式=)
+3. 服务器还会告知浏览器其发送的正文使用的编码格式(=charset=编码格式=),那么
+   浏览器就会自动使用该编码格式对接收到服务器响应的正文进行解码,就绝不会乱码;
+
+之后都是使用response对象的封装方法=setContentType()=来处理响应的乱码问题,其
+底层就是在向浏览器发送=Content-Type=响应头,其参数值就是=Content-Type=响应头
+的值;那么只要在向浏览器发送正文之前先调用response对象的=setContentType()=方法,
+就能保证响应正文不乱码;
+** 2. 请求编码问题
+
+
+1. 服务使用的默认的编码格式是iso-8859-1
+2. 客户端使用的编码格式:
+
+   1. 请求是直接从url地址栏发出的,那么编码格式默认就是gbk
+   2. 如果请求是从具体的某个页面发出的,那么就是页面指定的编码格式:
+      =<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">=
+
+=GET=和=POST=通用的方式
+
+1. 就先去使用request对象的=getParameter()=方法获取客户端的请求参数,
+   那么服务器肯定是使用默认的iso-8859-1解码,那么拿到的数据肯定是 乱码的
+2. 再将服务器拿到的以默认的iso-8859-1解码的乱码的请求数据,又以iso-8859-1
+   反编码回去拿到原始的字节数据
+3. 再把原始字节数据以和客户端对应的编码格式重新解码,就是没有乱码的数据的
+
+=POST=特有的方式
+就是在使用request对象的=getParameter()=方法获取客户端的请求参数之前,先调用
+request对象的=setCharacterEncoding()=,参数传递个客户端一致的编码格式,目的是
+将request对象的编码格式设置成和客户端一致;然后再使用request对象的=getParameter()=
+方法获取客户端的请求参数,request就会自动以给其设置的和客户端一致的编码格式
+对请求参数进行解码。
+* 登录注册案例
+
+视图层(表述层): html页面:用于录入数据和发起请求
+Servlet:处理请求,依赖于service
+
+dao模式: service层:进行业务操作,依赖于dao层
+dao层:进行数据库操作,实现jdbc操作数据
+
+登陆:验证用户名和密码是否合法,如果合法允许登陆,非法不允许登陆
+注册:添加新用户

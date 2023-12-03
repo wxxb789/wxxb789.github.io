@@ -1,0 +1,51 @@
+* =event= is a keyword in csharp. it's used to declare an event in a publisher class.
+Built-in events mechanism allows to implement push and pull notification strategies
+Events are a special kind of multicast delegate that can only be invoked from within the class (or derived classes) or struct where they are declared (the publisher class).
+* =EventHandler=
+:PROPERTIES:
+:id: 6274d913-363a-4b14-bcfb-ba879800b0d3
+:END:
+* #+BEGIN_SRC csharp
+event EventHandler handler += (sender, eventArgs) =>
+{
+    // do sth here
+}
+
+// property of a class
+event EventHandler<EventArgs> handlerGeneric += (sender, eventArgs) =>
+{
+    // do sth here
+}
+
+// trigger of a event. invoke the event handler
+public void OnClick(Arg arg)
+{
+    handlerGeneric?.Invoke(this, new EventArgs(arg));
+}
+
+// one of the handler, recevie and handle the events
+public void Handler1(object? sender, EventArgs eventArgs)
+{
+    // do sth here.
+}
+#+END_SRC
+*
+* compare
+** observe pattern
+** mediator
+** reactive
+* bad side
+** =void= everywhere and it's breaks the type system
+*
+* =mediator=
+** =mediator= is a good choice alternative to =event=
+** In-process messaging with no dependencies.
+** 两种消息调度方式
+*** request/response: 消息由单个处理程序处理
+*** notification: 消息可以由多个程序处理
+** 当有多个请求以及多个多个相应的时候可以简化调用
+** #+BEGIN_QUOTE
+中介者模式(Mediator)：用一个中介对象来封装一系列的对象交互。中介者使各对象不需要显示地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互
+#+END_QUOTE
+** 实现间接调用。（直接调用是高耦合）
+*

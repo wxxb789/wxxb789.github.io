@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: 💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐... (highlights)
+:author: [[scruelt on Twitter]]
+:full-title: "💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..."
+:category: [[tweets]]
+:url: https://twitter.com/scruelt/status/1661332639922683907
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-25]]
+** 💯 让你拥有随叫随到的专家级 AI 助教！
+🌐 想怎么学就能怎么学，定制私人学习计划！
+🍺从小学到博士，一路伴你学习成长！🍻🍻
+
+🛠️用法：复制粘贴 prompt 全文即可
+
+🌀支持 GPT-3.5，配合 GPT-4 效果更佳！
+
+做这个的大神属实是把 prompt 玩明白了，一起站在巨人的肩膀上吧！ 
+
+![](https://pbs.twimg.com/media/Fw48lNZaAAAw6n1.jpg) 
+
+![](https://pbs.twimg.com/media/Fw48n7RaYAATkUX.png) 
+
+![](https://pbs.twimg.com/media/Fw48rXIaIAAzKqg.png) 
+
+![](https://pbs.twimg.com/media/Fw48sy1aMAEPFjd.png) ([View Tweet](https://twitter.com/scruelt/status/1661332639922683907))
+** 👉私人 AI 助教直达：
+https://t.co/fJuEOcDDBO
+
+关于 @dotey 大哥提出的 prompt 太长容易遗忘问题，给出一个个人的解决办法：
+🧰可以通过自带的改写和历史功能，在使用 /plan 命令列出学习列表后，来分章节进行学习，来回切换所有的追问也会保留，这样还能更像一本书了~
+⚙️API 也可以类似处理~ 
+
+![](https://pbs.twimg.com/media/Fw8hnwSaEAA14-S.png) 
+
+![](https://pbs.twimg.com/media/Fw8h-_HaMAEjPjB.jpg) ([View Tweet](https://twitter.com/scruelt/status/1661585358138793985))
+** 简单来说，就是不使用 /continue 命令，而是使用 /start 命令+小节名，让 ChatGPT 从给定的小节开始，个人认为很适合在网页版中用。
+由于 OpenAI 的 API 目前仍不支持持续对话，tokens 的消耗对于这个 prompt 来说确实有点高，期待继续优化
+另外也可以看看 @blackanger 大佬在尝试的一些有意思的优化 ([View Tweet](https://twitter.com/scruelt/status/1661590988568272902))
+** @blackanger 又想到其实完全可以简化 prompt，只摘取 instructions 部分和配置选项来自己定制，因为实际上只需要让 GPT 知道自己的回复风格，并指定计划要学习内容的计划，剩下的分章节学习用法都是一样的。
+当然了，这个 prompt 项目最有意思的点在于，通过 JSON 的结构化表达，让 ChatGPT “活起来了”，很有启发。 ([View Tweet](https://twitter.com/scruelt/status/1661608327602921473))

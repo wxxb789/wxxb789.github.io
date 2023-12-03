@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: 今天Midjourney中国开放了测试的申请，很... (highlights)
+:author: [[op7418 on Twitter]]
+:full-title: "今天Midjourney中国开放了测试的申请，很..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1658134116465016834
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-16]]
+** 今天Midjourney中国开放了测试的申请，很多朋友也加入了，也有很多问题需要解答，所以就想着写一个使用指南帮助大家了解和国际版的不同。详细的文章内容在这里：https://t.co/J2JOCqr7WC 
+
+![](https://pbs.twimg.com/media/FwLgMIQaQAMDAKH.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134116465016834))
+** 首先是如何加入测试只需要打开QQ扫描下面二维码就行，会在每周一和周五晚上六点开启，人数达到上限以后就会关闭申请。今天的已经达到上限了，可以等这周五的六点。 
+
+![](https://pbs.twimg.com/media/FwLgMihagAEhOM4.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134127797993472))
+** 其实海辛也写了一个官方的新手指引也可以看这个，我这里面补充了一些官方没说的。
+
+官方新手指引：https://t.co/xaxu8CiUEg
+
+官方的内测开放公告：https://t.co/aN4P7h7V6v ([View Tweet](https://twitter.com/op7418/status/1658134131258327041))
+** 首先免费用户会有25张图片的生成额度，目前用完是无法补充的，Variation 变化、定向修改都会消耗次数。
+
+接下来就到了生成图像的部分，进入QQ频道后可以选择任何一个想象创作和主题创作分类下的分区生成图像。 
+
+![](https://pbs.twimg.com/media/FwLgNWaagAAGnq8.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134139185537025))
+** 生成图像的流程于Discord类似也是使用 / 命令不过不同的是QQ没有自动补全需要你自己手打或者复制，输入@Midjourney-测试中 /想象 加你的提示词会调用Midjourney模型，输入@Midjourney-测试中 /漫画 加你的提示词会调用Nijijourney模型。
+一些比如改变比例和更换模型的操作也打 --ar 16:9 或者 --v 5 
+
+![](https://pbs.twimg.com/media/FwLgN06aYAE8EzE.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134147200864256))
+** 生成图片后机器人也会@你，找到你生成的图片就可以进行后续操作了。生成变体和放大图片的操作与Discord略有不同，由于QQ频道没办法给消息增加附加的按钮操作，所以需要你右键对应的消息选择回复，然后手打U4或者V4这种文字来放大或者生成变体。 
+
+![](https://pbs.twimg.com/media/FwLgOSmacAItc5D.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134155945984001))
+** 付费功能
+这里我做了一张Midjourney中国各个等级权益的对比图，加上了价格和对应的国际版价格。大概的额度价格和功能都跟国际版差不错，有所区别的是小程序生成图像的权限和图生图的权限。 
+
+![](https://pbs.twimg.com/media/FwLgOz7aMAAMh6q.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134164095500291))
+** 如何订阅
+
+接下来就是如何订阅，频道里输入 /订阅 之后机器人会私信你一个订阅的二维码，手机端扫码之后会拉起用来支付的小程序，选择需要支付的会员付款就行。 
+
+![](https://pbs.twimg.com/media/FwLgPSgaIAAk3Z0.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134172119240705))
+** 如何使用小程序
+找到机器人私信它 /画廊 他就会发你小程序的二维码，长按扫码就可以拉起小程序了。 
+
+![](https://pbs.twimg.com/media/FwLgPvVaIAYIK7W.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134181950676993))
+** 小程序首页包括两个部分上面是你以往生成的所有图片点进去有大图和对应的提示词，下面是生成台语片的功能输入框里面输入提示词，点击帆船图标就可以开始生成了。如果你是68的基础版你是看不到下面的输入框的。 
+
+![](https://pbs.twimg.com/media/FwLgQVRacAEmut8.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134193677946880))
+** 点击加号可以上传图片用来图生图。 
+
+![](https://pbs.twimg.com/media/FwLgRAFakAQRpkN.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134203886874626))
+** 点击三个点的图标会有三个选项，第一个是切换Mid还是Niji模型，第二个切换模型版本，第三个切换生成图片的比例。 
+
+![](https://pbs.twimg.com/media/FwLgRmSaIAEhrgL.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134212082532352))
+** 图片生成以后会出现在画廊里，点击U4或者V4就可以继续操作了，生成的图片也会展示在画廊里。以上就是指引的全部内容了，祝大家用的开心。 
+
+![](https://pbs.twimg.com/media/FwLgSEOagAIFsGD.jpg) ([View Tweet](https://twitter.com/op7418/status/1658134222882873344))

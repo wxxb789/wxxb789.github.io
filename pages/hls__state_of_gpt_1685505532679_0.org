@@ -1,0 +1,4 @@
+:PROPERTIES:
+:file: [[../assets/state_of_gpt_1685505532679_0.pdf][state_of_gpt_1685505532679_0.pdf]]
+:file-path: ../assets/state_of_gpt_1685505532679_0.pdf
+:END:

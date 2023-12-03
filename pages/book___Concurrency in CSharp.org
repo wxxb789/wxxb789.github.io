@@ -1,0 +1,8 @@
+
+
+* [[../assets/Concurrency_in_CSharp_1648379630571_0.pdf][Concurrency in CSharp.pdf]]
+:PROPERTIES:
+:title: book/Concurrency in CSharp
+:END:
+*
+*

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: The Famous "Chihuahua Or... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[xwang_lk on Twitter]]
+:full-title: "The Famous "Chihuahua Or..."
+:category: [[tweets]]
+:url: https://twitter.com/xwang_lk/status/1723389615254774122
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-12]]
+** 📌
+** #+BEGIN_QUOTE
+** The famous "Chihuahua or Muffin" problem in computer vision is considered solved by GPT-4V on social media. But really? The answer is NO. GPT-4V cannot reason well about the same images in the original "Chihuahua or Muffin" grid when they are in a different layout. 
+
+I experimented by rearranging the same images from the classic 4x4 grid into a different layout. First, GPT-4V does not directly recognize the content in details and miscounts the number of images. Then, when being asked about the third image on the top row, GPT-4V misrecognizes a Chihuahua as a muffin.
+
+So the "Chihuahua or Muffin" has not been solved yet. But how can GPT-4V work so well on the original image? My guess is that since that image is everywhere, GPT-4V was very likely to be trained on it and memorize its labels.<img src='https://pbs.twimg.com/media/F-qulcYaMAAF_r0.jpg'/>  ([View Tweet](https://twitter.com/xwang_lk/status/1723389615254774122))
+** #+END_QUOTE

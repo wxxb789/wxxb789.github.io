@@ -1,0 +1,103 @@
+:PROPERTIES:
+:title: Reddit上有很多免费的AI学习资源！ 可惜... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[OxPanda_ on Twitter]]
+:full-title: "Reddit上有很多免费的AI学习资源！ 可惜..."
+:category: [[tweets]]
+:url: https://twitter.com/OxPanda_/status/1676856801780977664
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-06]]
+** 📌
+** #+BEGIN_QUOTE
+** Reddit上有很多免费的AI学习资源！
+
+可惜99%的人都不知道在哪里找到
+
+这里汇总了9⃣个顶级的Reddits论坛可以让你更快地掌握AI知识
+
+快来看看吧！👇👇👇 
+
+![](https://pbs.twimg.com/media/F0VYvaSaYAAfjb_.jpg) ([View Tweet](https://twitter.com/OxPanda_/status/1676856801780977664))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 1/ ChatGPT
+
+有关CHATGPT提示，工作流和用例的深入讨论
+https://t.co/PTlNqZ5F7w ([View Tweet](https://twitter.com/OxPanda_/status/1676856805480337409))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 2/ Midjourney
+
+Midjourney的Ai Image Generation工具创建的艺术（以及所使用的提示）的令人难以置信的例子
+
+https://t.co/vHovqIeCjC ([View Tweet](https://twitter.com/OxPanda_/status/1676856807451688961))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 3/ ChatGPTPromptGenius
+
+一个人们制作高级，精心制作的社区，促使人们充分利用Chatgpt
+
+https://t.co/CCfGh3elYh ([View Tweet](https://twitter.com/OxPanda_/status/1676856809691418624))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 4/ StableDiffusion
+
+令人印象深刻的照片，视频和教程在稳定扩散的文本到图像AI模型中创建
+
+https://t.co/dMl5d8Lj4r ([View Tweet](https://twitter.com/OxPanda_/status/1676856811616616448))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 5/ Singularity
+
+当AI超过人类智能时，关于未来的令人着迷的讨论
+
+https://t.co/9IOTZHsdkM ([View Tweet](https://twitter.com/OxPanda_/status/1676856813621493764))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 6/ MachineLearning
+
+了解AI中技术主题的最佳社区
+
+https://t.co/nSiDNMh5KY ([View Tweet](https://twitter.com/OxPanda_/status/1676856815630565376))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 7/ Artificial
+
+Reddit关于AI新闻，工具和创作的一般讨论的主要枢纽
+
+https://t.co/tbDts8Rrhc ([View Tweet](https://twitter.com/OxPanda_/status/1676856817543180288))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 8/ Dalle2
+
+使用Openai的Dalle•2工具创建的AI生成图像和提示的画廊
+
+https://t.co/CUMcMg9EJ8 ([View Tweet](https://twitter.com/OxPanda_/status/1676856819468337154))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 9/ OpenAI
+
+社区致力于讨论有关AI领先公司的新闻和更新：OpenAI
+
+https://t.co/kidSoK1Tmb ([View Tweet](https://twitter.com/OxPanda_/status/1676856821380956160))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 原推文来自 @_alexbrogan 大神 💕
+
+希望这条推文对你也有帮助
+
+关注我 （ @OxPanda_ )  拥抱AI时代 🤗 ([View Tweet](https://twitter.com/OxPanda_/status/1676856823515877376))
+** #+END_QUOTE

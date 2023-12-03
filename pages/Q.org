@@ -1,0 +1,3 @@
+*
+* record my questions while reading and thinking
+* #Q and #TODO / #DONE should combined using

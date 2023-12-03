@@ -1,0 +1,12 @@
+:PROPERTIES:
+:title: 🎉大语言模型的安卓时刻真的来了啊!? (highlights)
+:END:
+:PROPERTIES:
+:author: [[Jeffery Kaneda　金田達也]]
+:full-title: "🎉大语言模型的安卓时刻真的来了啊!?"
+:category: [[articles]]
+:url: https://twitter.com/JefferyTatsuya/status/1667748018899279872
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-12]]
+** #Orca模型 ([View Highlight](https://read.readwise.io/read/01h2nkvk1aq0srs6z0mz2j0r8w))

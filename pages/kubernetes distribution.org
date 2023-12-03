@@ -1,0 +1,13 @@
+#+tags: k8s,
+
+* [[k0s]]
+* [[k3s]]
+* [[k6s]]
+* [[microk8s]]
+* [[minikube]]
+* [[sealos]]
+** [[https://github.com/labring/sealos][labring/sealos: Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. (github.com)]]
+* [[colima]]
+* [[k8s/kind]]
+** [[https://kind.sigs.k8s.io/][kind (k8s.io)]]
+*

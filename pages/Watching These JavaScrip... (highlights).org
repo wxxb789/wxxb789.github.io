@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: Watching These JavaScrip... (highlights)
+:author: [[@davidfowl on Twitter]]
+:full-title: "Watching These JavaScrip..."
+:category: #tweets
+:url: https://twitter.com/davidfowl/status/1606441818304172032
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-24]]
+** Watching these JavaScript tutorials, I did learn about this site https://t.co/zpy1EQ01cG. It's used in many JS tutorials instead of a database to get and display fake data. ([View Tweet](https://twitter.com/davidfowl/status/1606441818304172032))
+** https://t.co/4PmXMR5h75 Core + HttpClient +  https://t.co/vGycmonWBv #dotnet #aspnetcore 
+
+![](https://pbs.twimg.com/media/FktfThzaAAABeE1.jpg) ([View Tweet](https://twitter.com/davidfowl/status/1606482866015473665))
+** Using typed clients to abstract the HTTP calls. 
+
+![](https://pbs.twimg.com/media/FktfwYjagAYkv54.jpg) ([View Tweet](https://twitter.com/davidfowl/status/1606483159755153410))
+** Showing some controller love 
+
+![](https://pbs.twimg.com/media/FktigrWaEAARXGr.jpg) ([View Tweet](https://twitter.com/davidfowl/status/1606486040126296066))

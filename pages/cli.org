@@ -1,0 +1,27 @@
+#+tags: dev, command line, command line interface
+
+* Command-Line Interface
+* Tools for cli app building
+** awesome list
+*** [[https://github.com/shadawck/awesome-cli-frameworks][shadawck/awesome-cli-frameworks: Collection of tools to build beautiful command line interface in different languages (github.com)]]
+** [[cli/python]]
+*** [[https://github.com/tiangolo/typer][tiangolo/typer: Typer, build great CLIs. Easy to code. Based on Python type hints. (github.com)]]
+*** [[https://github.com/sarugaku/shellingham][sarugaku/shellingham: Tool to Detect Surrounding Shell (github.com)]]
+*** [[https://github.com/Textualize/rich][Textualize/rich: Rich is a Python library for rich text and beautiful formatting in the terminal. (github.com)]]
+** [[cli/fsharp]]
+*** [[https://github.com/fsprojects/Argu][CliApplication]]
+** [[cli/csharp]]
+*** [[https://github.com/spectreconsole/spectre.console][spectreconsole/spectre.console: A .NET library that makes it easier to create beautiful console applications. (github.com)]]
+*** [[https://github.com/natemcmaster/CommandLineUtils][natemcmaster/CommandLineUtils: Command line parsing and utilities for .NET (github.com)]]
+**** Relationship to ~Microsoft.Extensions.CommandLineUtils~ This project is a fork of [[https://github.com/aspnet/Common][Microsoft.Extensions.CommandLineUtils]], which is no longer under [[https://github.com/aspnet/Common/issues/257][active development]]. This project, on the other hand, will continue release updates and take contributions.
+*** [[https://github.com/gui-cs/Terminal.Gui][gui-cs/Terminal.Gui: Cross Platform Terminal UI toolkit for .NET (github.com)]]
+*** [[https://github.com/Tyrrrz/CliWrap][Tyrrrz/CliWrap: Library for running command-line processes (github.com)]]
+start new processing, and interaction
+*** [[https://github.com/Tyrrrz/CliFx][Tyrrrz/CliFx: Class-first framework for building command-line interfaces (github.com)]]
+*** [[https://github.com/fclp/fluent-command-line-parser][fclp/fluent-command-line-parser: A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface (github.com)]]
+*** [[https://github.com/adamabdelhamed/PowerArgs][adamabdelhamed/PowerArgs: The ultimate .NET Standard command line argument parser (github.com)]]
+*** [[https://github.com/bilal-fazlani/commanddotnet][bilal-fazlani/commanddotnet: A modern framework for building modern CLI apps (github.com)]]
+*** [[https://github.com/mayuki/Cocona][mayuki/Cocona: Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET. (github.com)]]
+*** [[https://github.com/adambajguz/Typin][adambajguz/Typin: Declarative framework for interactive CLI applications (github.com)]]
+***
+*

@@ -1,0 +1,2 @@
+*
+* it should be the same with combination of learning and todo

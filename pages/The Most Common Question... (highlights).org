@@ -1,0 +1,15 @@
+:PROPERTIES:
+:title: The Most Common Question... (highlights)
+:author: [[AiEleuther on Twitter]]
+:full-title: "The Most Common Question..."
+:category: #tweets
+:url: https://twitter.com/AiEleuther/status/1648782486736969728
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-21]]
+** The most common question we get about our models is "will X fit on Y GPU?" This, and many more questions about training and inferring with LLMs, can be answered with some relatively easy math.
+
+By @QuentinAnthon15, @BlancheMinerva, and @haileysch__ 
+
+https://t.co/3PqbxSAKEB ([View Tweet](https://twitter.com/AiEleuther/status/1648782486736969728))
+** @QuentinAnthon15 @BlancheMinerva @haileysch__ This is the first in a series of blog posts on implementation details for large scale distributed DL that are far too often skimmed over in papers and articles. Stay tuned for more, including how to choose your parallelization and a deeper dive on FLOPs, latency, and perf metrics ([View Tweet](https://twitter.com/AiEleuther/status/1648787803122040837))

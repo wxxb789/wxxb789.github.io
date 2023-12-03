@@ -1,0 +1,3 @@
+#+tags: person/John Carmack, interview, person/Lex Fridman, video,
+
+* {{video https://www.youtube.com/watch?v=I845O57ZSy4}}

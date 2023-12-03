@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: 受 @Madawei2699  开源的 myGP... (highlights)
+:author: [[iguangzhengli on Twitter]]
+:full-title: "受 @Madawei2699  开源的 myGP..."
+:category: #tweets
+:url: https://twitter.com/iguangzhengli/status/1643788451689697280
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-06]]
+** 受 @madawei2699  开源的 myGPTReader 项目启发，我也基于 llama_index 项目创建了一个 Chatfiles 项目，页面比较友好，上传你的文件，然后对之对话！构建自己的语料库！
+项目地址：https://t.co/ArmF2xXI5g 
+
+![](https://pbs.twimg.com/media/Fs_ozzUaUAIRHPo.jpg) ([View Tweet](https://twitter.com/iguangzhengli/status/1643788451689697280))
+** 该项目受https://t.co/0vVVzx0vPt 启发。基于 https://t.co/Ek9bLhzRX8 构建前端，后端核心使用 https://t.co/jpr391ANn6。 ([View Tweet](https://twitter.com/iguangzhengli/status/1643789153031823360))
+** 项目主打构建预料库，下一步是基于多个文件构建同一个 Index，这样就可以同时与多个文件对话。并且继续思考如何更好的构建 index。
+https://t.co/ArmF2xXI5g ([View Tweet](https://twitter.com/iguangzhengli/status/1643790297493798913))

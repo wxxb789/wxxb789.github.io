@@ -1,0 +1,7 @@
+* Get a shell to the running container
+
+#+BEGIN_SRC shell
+kubectl exec --stdin --tty shell-demo -- /bin/bash
+#+END_SRC
+[[https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/][get shell]]
+*

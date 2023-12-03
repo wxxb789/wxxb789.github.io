@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: 🚀 SOON on https:__t.co_E... (highlights)
+:author: [[poorlybatched on Twitter]]
+:full-title: "🚀 SOON on https://t.co/E..."
+:category: [[tweets]]
+:url: https://twitter.com/poorlybatched/status/1643303072230440962
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-15]]
+** 🚀 SOON on https://t.co/ELrxUSNOaK
+
+browse internet / google search / more tools 
+
+inspired by langchain
+
+without GPT-4 
+
+![](https://pbs.twimg.com/media/Fs4vG_OaYAE5_YE.jpg) ([View Tweet](https://twitter.com/poorlybatched/status/1643303072230440962))
+** Motivation: I can't wait for gpt-4 with plugins api to be  available, so I made my own
+
+Let me know what tools I should add before launching this new feature in a couple days, currently it includes:
+
+- search
+- request_get: get url content
+- request_post: post data to a url
+-… ([View Tweet](https://twitter.com/poorlybatched/status/1643307811743633410))
+** a useless addtion 
+
+![](https://pbs.twimg.com/media/Fs9L2_nXsAMIlGR.jpg) ([View Tweet](https://twitter.com/poorlybatched/status/1643615931275395076))
+:PROPERTIES:
+:title: 🚀 SOON on https://t.co/E... (highlights)
+:author: [[poorlybatched on Twitter]]
+:full-title: "🚀 SOON on https://t.co/E..."
+:category: #tweets
+:url: https://twitter.com/poorlybatched/status/1643303072230440962
+:END:
+* Highlights first synced by [[Readwise]] [[2023-04-07]]
+** 🚀 SOON on https://t.co/ELrxUSNOaK
+
+browse internet / google search / more tools 
+
+inspired by langchain
+
+without GPT-4 
+
+![](https://pbs.twimg.com/media/Fs4vG_OaYAE5_YE.jpg) ([View Tweet](https://twitter.com/poorlybatched/status/1643303072230440962))
+** Motivation: I can't wait for gpt-4 with plugins api to be  available, so I made my own
+
+Let me know what tools I should add before launching this new feature in a couple days, currently it includes:
+
+- search
+- request_get: get url content
+- request_post: post data to a url
+-… ([View Tweet](https://twitter.com/poorlybatched/status/1643307811743633410))
+** a useless addtion 
+
+![](https://pbs.twimg.com/media/Fs9L2_nXsAMIlGR.jpg) ([View Tweet](https://twitter.com/poorlybatched/status/1643615931275395076))

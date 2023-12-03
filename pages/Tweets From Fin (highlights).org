@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: Tweets From Fin (highlights)
+:author: [[fi56622380 on Twitter]]
+:full-title: "Tweets From Fin"
+:category: [[tweets]]
+:url: https://twitter.com/fi56622380
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-05]]
+** 这是一篇打破GPT“涌现”概念神话的论文，终于说出了我一直以来的一个直觉，这才是比较符合事物发展规律的
+
+一句话总结，所谓GPT“涌现”能力，是因为人为修改了“达标”的评价标准，给人"涌现"的错觉
+
+一旦使用更合理的评价指标，就会发现GPT能力值随着模型增大是线性增长的，从评价指标上直接解构了“涌现”… 
+
+![](https://pbs.twimg.com/media/FvV9ip3acAAO9Xt.jpg) 
+
+![](https://pbs.twimg.com/media/FvWOTscaYAA1YOw.jpg) ([View Tweet](https://twitter.com/fi56622380/status/1654386086746132481))

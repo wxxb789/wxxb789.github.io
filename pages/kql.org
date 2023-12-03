@@ -1,0 +1,3 @@
+#+alias: Kusto Query Language,
+
+* [[https://learn.microsoft.com/en-us/azure/data-explorer/kql-quick-reference][KQL quick reference | Microsoft Learn]]

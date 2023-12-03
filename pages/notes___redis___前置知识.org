@@ -1,0 +1,37 @@
+
+
+* 前置知识
+** linux文件系统简介
+
+1. 如果以root用户登录,登录后的目录是 =/root=
+2. 在根目录下,执行ll命令,可以查看linux文件系统
+3. =usr= Unix Sytem resources，相当于windows系统的 =c:\windows=
+4. =usr/local= 对应windows的 =c:\Programm Files=
+5. =usr/src= 目录通常放置源码信息
+6. =root= 目录代表是跟用户,跟用户相当于windows中的管理员用户
+7. =home= 目录放置普通用户,比如:johnny
+** 常用命令
+
+#+begin_src shell
+  # 切换工作目录，切换到上级目录 cd ..
+  cd
+  # 列出当前目录信息
+  ls
+  # 列出当前目录详细信息
+  ll
+  # 查看文本信息
+  cat
+  # 帮助手册，例如 man grep
+  man
+  # 查看ip地址
+  ifconfig
+  # 查看当前路径
+  pwd
+  # 解 .tar.gz 包
+  tar -xzf
+  # 查看端口
+  netstat -tulpon
+#+end_src
+
+** 发布端口号
+=lo= 是环回接口（loopback）， =virbr= 是虚拟网桥（Virtual Bridge）， =virbr0= 是虚拟网桥网卡。一般CentOS6.5默认网卡为 =eth0= ，CentOS7后的默认网卡为 =ensxx= （其中xx为数字）。

@@ -1,0 +1,78 @@
+
+
+* 逆向工程生成bean与dao层
+
+
+1. 导入逆向工程生成javabean的项目
+
+   1. 项目位置：[[file:///G:/JAVA游戏/4.框架/3.MyBatis/MyBatis逆向工程][mybatis_reverse_engineering]]
+   2. 更改项目的jdk：导入适配所用编辑器的jdk
+
+2. 编辑config/generatorConfig.xml文件
+
+#+begin_example
+  <?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE generatorConfiguration
+    PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+    "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+  <generatorConfiguration>
+      <context id="testTables" targetRuntime="MyBatis3">
+          <commentGenerator>
+              <!-- 是否去除自动生成的注释 true：是 ;false:否 -->
+              <property name="suppressAllComments" value="true" />
+          </commentGenerator>
+
+          <!--1.数据库连接的信息：驱动类、连接地址、用户名、密码 -->
+          <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+              connectionURL="jdbc:mysql://localhost:3306/jsd18105"
+              userId="root"
+              password="123">
+          </jdbcConnection>
+          <!-- oracle数据库的连接
+          <jdbcConnection driverClass="oracle.jdbc.OracleDriver"
+              connectionURL="jdbc:oracle:thin:@127.0.0.1:1521:yycg"
+              userId="yycg"
+              password="yycg">
+          </jdbcConnection> -->
+
+          <!-- 默认false，把JDBC DECIMAL 和 NUMERIC 类型解析为 Integer，
+                为 true时，把JDBC DECIMAL 和 NUMERIC 类型解析为java.math.BigDecimal -->
+          <javaTypeResolver>
+              <property name="forceBigDecimals" value="false" />
+          </javaTypeResolver>
+
+          <!-- 2.targetProject:生成PO类的位置 -->
+          <javaModelGenerator targetPackage="entity" targetProject=".\src">
+              <!-- enableSubPackages:是否让schema作为包的后缀 -->
+              <property name="enableSubPackages" value="false" />
+              <!-- 从数据库返回的值被清理前后的空格 -->
+              <property name="trimStrings" value="true" />
+          </javaModelGenerator>
+          <!-- 3.targetProject:mapper映射文件生成的位置 -->
+          <sqlMapGenerator targetPackage="dao" targetProject=".\src">
+              <!-- enableSubPackages:是否让schema作为包的后缀 -->
+              <property name="enableSubPackages" value="false" />
+          </sqlMapGenerator>
+          <!-- 4.targetPackage：mapper接口生成的位置(通常与mapper映射文件的位置相同) -->
+          <javaClientGenerator type="XMLMAPPER" targetPackage="dao" targetProject=".\src">
+              <!-- enableSubPackages:是否让schema作为包的后缀 -->
+              <property name="enableSubPackages" value="false" />
+          </javaClientGenerator>
+
+          <!-- 5.指定数据库表 -->
+          <table schema="" tableName="st_student" domainObjectName="Student"
+              enableCountByExample="false" enableUpdateByExample="false"
+              enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
+
+          <!-- 有些表的字段需要指定java类型
+           <table schema="" tableName="">
+              <columnOverride column="" javaType="" />
+          </table> -->
+      </context>
+  </generatorConfiguration>
+#+end_example
+
+3. 运行MapperGenerator.java 主程序
+4. 刷新(refresh)mybatis_reverse_engineering项目
+5. 将生成的bean与dao层复制到目标项目中，让bean层对象实现序列化(implements
+   Serializable)，配置关联属性

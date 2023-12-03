@@ -1,0 +1,18 @@
+
+
+* 整合要点
+
+
+1. 使用Spring框架替代MyBatis连接数据库
+
+|                       | spring                          | mybatis                                |
+|-----------------------+---------------------------------+----------------------------------------|
+| SqlSessionFactory对象 | 提供SqlSessionFactoryBean       | 手动编写MyBatisSqlSessionFactory工具类 |
+| 连接池选择            | dbcp                            |                                        |
+| Mapper对象            | 提供MapperScannerConfigurer对象 |                                        |
+
+2. Spring框架针对业务组件和dao组件创建IoC容器
+
+   1. Web类型的IoC容器(WebApplicationContext)
+   2. 由监听器(ContextLoaderListener)在web服务器启动时创建；
+   3. IoC容器与SpringMVC创建的表现层IoC容器无缝整合，是表现层IoC容器的根容器(父容器)，负责提供控制器所依赖的业务组件.

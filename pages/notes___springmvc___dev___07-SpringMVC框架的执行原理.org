@@ -1,0 +1,72 @@
+
+
+* 注解
+
+
+1. 注解接口
+
+   1. 直接继承java.lang.annotation.Annotation接口
+   2. public @interface Xxx
+   3. 接口的实现由JVM在运行时动态生成代理类及对象
+
+无参、返回值类型存在且不为void、default子句表明默认返回值
+
+标注注解的注解，以阐明如何使用
+** 1. SpringMVC框架的执行原理
+
+#+begin_example
+  SpringMVC工作流程示意图
+#+end_example
+
+
+
+1. Web服务器（Tomcat）在启动时加载、解析web.xml文件,找到SpringMVC的前端总控制器DispatcherServlet；
+2. 通过DispatcherServlet加载相关的配置文件
+   (默认是mvc-dispatcher-servlet.xml，案例中是springmvc-config.xml)，并创建表现层的IoC容器。
+3. DispatcherServlet接收到客户端请求，根据映射规则(注解请求/静态资源请求)，通过HandlerMapping和HandlerAdapter，找到对应的处理器（Handler）。
+4. DispatcherServlet通过HandlerAdapter调用处理器(Handler)中的执行方法，Handler处理请求后返回一个ModelAndView对象。
+5. DispatcherServlet根据配置文件选择恰当的视图解析器（ViewResolver），针对得到的ModelAndView对象进行解析，拆分成数据模型（Model）和具体的视图(View)，将要显示的数据交给对应的视图，并渲染视图。
+6. （渲染视图的含义是：通过解析视图中的el表达式，特定标签，特定转换等，产生html页面/片段或者JSON字符串，甚至是图片、PDF文档等不同的媒体形式的过程）
+7. Web服务器最终将视图结果发送给前端（浏览器）用户。
+** 2. 关键环节剖析
+
+
+1. DispatcherServlet
+   SpringMVC框架的总控制器（请求分发器），它的功能是创建表现层的IoC容器，并将客户端请求分发给具体的控制器Handler。
+2. InternalResourceViewResolver 内部资源视图解析器，用来匹配jsp页面。
+3. 内置对象（SpringMVC框架内部对象）
+
+   1. HandlerMapping类型（处理器映射对象）
+
+      1. SimpleUrlHandlerMapping对象：匹配静态资源请求
+      2. RequestMappingHandlerMapping对象：匹配注解请求
+
+   2. HandlerAdapter类型（处理器适配器）
+
+      1. HttpRequestHandlerAdapter匹配ResourceHttpRequestHandler对象，处理静态资源请求；
+      2. RequestMappingHandlerAdapter匹配具体的Handler对象，处理注解请求
+
+4. 编程对象（需要程序员编程创建的对象）
+
+   1. 处理器（具体的控制器）
+      采用注解技术实施具体的请求处理(接收请求数据，为视图准备数据，实施转发、重定向或者直接向浏览器发送数据等)
+   2. ModelAndView对象或者Model对象
+      控制器缓存数据，指定视图资源（例如jsp页面的前缀名称）等，它内部封装了一个map集合；如果将数据存入到Model中也相当于将数据存到了request域中
+
+5. DispatcherServlet为什么要加载springmvc-config.xml配置文件？
+
+   1. 目的：创建表现层的IoC容器（WebApplicationContext）来管理框架中的重要对象，例如：HandlerMapping（处理器映射）、HandlerAdapter(处理器适配器)、Handler（控制器）、ViewResolver（视图解析器）、MessageSource（消息解析器）等。
+   2. 注意：这是表现层的子容器。当web服务器启动时，ContextLoaderListener监听器首先创建针对Service和Dao组件的IoC容器，它是表现层子容器的父容器也被称为根容器。它们二者的关系是双亲型委派模式，参考下图：
+
+      所谓双亲型委派模式是指：每当DispatcherServlet需要调用对象时（比如Service对象），Spring框架首先查找根容器，如果根容器没有再查找子容器。所以说Spring框架和SpringMVC框架是无缝的自然整合。
+
+6. 标签与标签的作用：
+
+   1. 标签将请求视为注解请求，并按照注解匹配控制器的执行方法；
+      框架的内部原理是通过RequestMappingHandlerMapping对象匹配注解请求，然后通过RequestMappingHandlerAdapter匹配控制器的执行方法。
+   2. 标签指明哪些请求是属于静态资源的请求，它有如下2个属性：
+
+      1. location：设置静态资源的真正位置
+      2. mapping：设置静态资源的请求路径（采用ant风格的形式）
+         标签在SpringMVC框架的内部是通过SimpleUrlHandlerMapping对象匹配静态资源请求,
+         然后再通过HttpRequestHandlerAdapter匹配ResourceHttpRequestHandler对象处理静态资源请求。

@@ -1,0 +1,4 @@
+#+alias: dev/ut, 单元测试,
+
+* [[https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest][Unit testing C# with MSTest and .NET - .NET | Microsoft Learn]]
+* [[Unit Testing in dotnet]]

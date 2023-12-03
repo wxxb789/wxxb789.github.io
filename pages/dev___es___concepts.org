@@ -1,0 +1,65 @@
+#+tags: elasticsearch
+
+* Lucene
+* Cluster
+包含一个或多个 Node .
+* Node
+Node 有一个名字, cluster.name 。
+* Index
+包含一组相似的 document
+* Document
+包含多个 Field .
+* Filed
+一个数据字段
+* Type
+:PROPERTIES:
+:collapsed: true
+:END:
+是 Index 中的，逻辑分类。 一个 type 下的 document 都有相同的 Field。
+* Shard
+
+将一个 Index 中的数据切分为多个 shard ，分布在多台服务器上存储。
+每一个 shard 都是一个 lucene index 。
+
+Elasticsearch中的每个分片其实都是Lucene中的一个索引文件，因此每个分片必须有一个主分片和零到多个副本分片
+* Replica
+是 shard 的副本，可以为 shard 提供故障备份，保证数据不丢失，提高性能和吞吐。
+** primary shard: 创建 index 时设置，默认为5，不能修改。
+** replica shard: 随时修改，默认为1。
+* Settings
+Cluster 中 Index 的定义信息。
+* Mapping
+保存 Index 中 Field 的存储类型，分词方式，是否存储等，类似 RDBMS 中的表结构信息。
+* Analyzer
+分词方式的定义。包含一个 Tokenizer 和0个或多个 Filter 组成。
+** 默认 Filter
+1. Standard Token Filter
+2. Lower Case Token Filter
+3. Stop Token Filter
+* Compare with RDBMS
+
+** Index -> DataBase
+** Type -> Table
+** Document -> Row
+* CRUD
+** =GET=: Read
+** =PUT=: Add
+** =POST=: Update
+** =DELETE=: Delete
+* Search
+** full-text search
+** phrase search
+* Aggregation Analysis
+** =aggs=: 聚合函数
+** =AGG_TYPE=: 聚合类新
+** =NAME=: 给操作取的名字
+* 节点对等
+** master 节点
+1. 创建删除 Index
+2. 增加删除 Node
+
+维护 Cluster/Index Meta Data
+Master 在所有节点中选举得到
+** 每个节点都能接收到所有的请求
+** 自动请求路由
+** 相应收集

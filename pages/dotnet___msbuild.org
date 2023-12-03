@@ -1,0 +1,21 @@
+* Copy Task
+** [[https://docs.microsoft.com/en-us/visualstudio/msbuild/copy-task][docs]]
+** #+BEGIN_SRC xml
+<Target Name="CopyCustomContent" AfterTargets="AfterBuild">
+  <Copy SourceFiles="foo.txt" DestinationFolder="$(OutDir)" />
+</Target>
+
+<Target Name="CopyCustomContentOnPublish" AfterTargets="Publish">
+  <Copy SourceFiles="foo.txt" DestinationFolder="$(PublishDir)" />
+</Target>
+
+<Target Name="CopyCustomContentOnPublish" AfterTargets="Publish">
+  <ItemGroup>
+    <MyFiles Include ="..\myfolder\foo\**\*.*"/>
+   </ItemGroup>
+  <Copy SourceFiles="@(MyFiles)" 
+        DestinationFiles="@(MyFiles -> '$(PublishDir)\destFolder\%(RecursiveDir)%(Filename)%(Extension)')" />
+</Target>
+#+END_SRC
+**
+*

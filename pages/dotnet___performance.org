@@ -1,0 +1,4 @@
+#+title: dotnet/performance
+
+* [[https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/][Performance Improvements in .NET 7 - .NET Blog (microsoft.com)]]
+*

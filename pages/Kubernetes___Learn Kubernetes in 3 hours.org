@@ -1,0 +1,95 @@
+#+title: Kubernetes/Learn Kubernetes in 3 hours
+#+tags: k8s, kubernetes
+
+* https://k8s.easydoc.net/
+* Kubernetes 的特性
+** 部署
+*** 传统部署
+*** 虚拟据部署
+*** 容器部署
+* master worker 架构
+* Pod
+k8s 调度管理的最小单位，一个 Pod 可以有一个或多个容器，每个 Pod 都有自己的虚拟 IP。
+一个 Node 可以有多个 Pod，主节点会考量负载，自动调度 Pod 到合理的 Node 上运行。
+* kubernetes 的构成与架构
+** Node
+** Control Plane
+** API Server
+* 工作负载分类
+** deployment
+无状态应用，所有 pod 等价
+** StatefulSet
+有状态应用，db 等
+** DaemonSet
+每个 node 上一个 pod，通常用来做监控，节点日志收集
+** Job & CronJob
+一次性任务 以及 定时任务
+* install
+[[k8s/minikube]] 是 k8s 的集群模拟器，只有一个节点，master 与 worker 在一起
+* Deploy Applicationg to k8s Cluster
+** 运行一个 pod
+#+BEGIN_SRC bash
+kubectl run testapp --image=ccr.ccs.tencentyun.com/k8s-tutorial/test-k8s:v1
+kubectl apply -f yaml-file.yaml
+
+# 部署应用
+kubectl apply -f app.yaml
+# 查看 deployment
+kubectl get deployment
+# 查看 pod
+kubectl get pod -o wide
+# 查看 pod 详情
+kubectl describe pod pod-name
+# 查看 log
+kubectl logs pod-name
+# 进入 Pod 容器终端， -c container-name 可以指定进入哪个容器。
+kubectl exec -it pod-name -- bash
+# 伸缩扩展副本
+kubectl scale deployment test-k8s --replicas=5
+# 把集群内端口映射到节点
+kubectl port-forward pod-name 8090:8080
+# 查看历史
+kubectl rollout history deployment test-k8s
+# 回到上个版本
+kubectl rollout undo deployment test-k8s
+# 回到指定版本
+kubectl rollout undo deployment test-k8s --to-revision=2
+# 删除部署
+kubectl delete deployment test-k8s
+
+# 查看全部
+kubectl get all
+# 重新部署
+kubectl rollout restart deployment test-k8s
+# 命令修改镜像，--record 表示把这个命令记录到操作历史中
+kubectl set image deployment test-k8s test-k8s=ccr.ccs.tencentyun.com/k8s-tutorial/test-k8s:v2-with-error --record
+# 暂停运行，暂停后，对 deployment 的修改不会立刻生效，恢复后才应用设置
+kubectl rollout pause deployment test-k8s
+# 恢复
+kubectl rollout resume deployment test-k8s
+# 输出到文件
+kubectl get deployment test-k8s -o yaml >> app2.yaml
+# 删除全部资源
+kubectl delete all --all
+#+END_SRC
+** Deployment 可以通过 label 关联起来 pods
+q: deployment 与 pod 的关系
+
+#+BEGIN_SRC bash
+# 进入到 pod 的 bash 中
+kubectl exec -t pod-name -- bash
+#+END_SRC
+* Service
+* StatefulSet
+* Storage
+* ConfigMap
+* Secret
+* Helm
+* Namespace
+* Ingress
+*
+*
+*
+*
+*
+*

@@ -1,0 +1,5 @@
+#+title: sspai/cubox
+
+* [[https://sspai.com/series/219][Cubox 6.0 工具升值包]]
+* [[https://mp.weixin.qq.com/s/tlSrZrfLTH3rMzEh7bOxIA][cubox 转发邮件自动收藏]]
+*

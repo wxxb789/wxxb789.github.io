@@ -1,0 +1,300 @@
+#+title: ChatGPT Prompt Engineering for Developers
+#+tags: deeplearning.ai, prompt, chatgpt, llm,
+
+* [[https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction][DLAI - Learning Platform Beta (deeplearning.ai)]]
+* [[https://www.bilibili.com/video/BV1Z14y1Z7LJ/][ChatGPT提示工程师&AI大神吴恩达教你写提示词｜prompt engineering【完整中字九集全】_哔哩哔哩_bilibili]]
+* 2 types of llm
+** base llm
+predicts next words, based on text training data
+** instruction tuned llm
+*** Tries to follow instructions
+*** Fine-tune on instructions and good attempts at following those instructions.
+*** RLHF: Reinforcement Learning with Human Feedback
+* Guideline
+** Principles of prompting
+*** write clear and specific instrucitons
+prompt should clear and specific which is an important principle of prompting llms
+*** give model enough time to think
+** Tactic
+*** Use Delimiters
+**** triple quotes ="""=
+**** triple backticks =```=
+**** triple dashes =---=
+**** angle brackets =<>=
+**** xml tag =<tag>=, =</tag>=
+**** to avoiding prompt injections
+[[../assets/image_1685983841662_0.png]]
+*** Ask for structured output
+**** HTML, Json
+*** Check whether conditions are satisfied. Check assumptions required to do the task
+if not, stop the incomplete task.
+to fit more edge cases and avoid errors.
+*** Few-shot prompting
+Give successful examples of completing tasks
+Then ask model to perform the task
+*** Specify the steps to complete a task
+**** example
+
+#+BEGIN_QUOTE
+step 1: ...
+step 2: ...
+...
+step N: ...
+#+END_QUOTE
+*** Instruct the model to work out its own solution before rushing to a conclusion
+**** Determine if the ... solution is correct or not (give model the question and a solution)
+***** Steps
+1. Querstion
+2. a possible solution
+3. actual solution
+4. is the possible solution same with correct solution? jsut yes or no
+5. grade: correct or incorrect
+**** TODO paste an example here
+** Model Limitations
+model has seen huge of info, but can'r remember all and don't know the boundary of the knowlage very well
+*** Hallucination
+**** Reducing hallucinations
+First, find relevant info, then answer the question based on the relevant infomation.
+*** Makes statements that sound plausible but are not ture
+* Iterative
+Prompt Development
+** ML dev
+Idea -> Implementation(code/data) -> Experimental result -> Error Analysis -> Loop
+** Prompt guidenlines
+*** Be clear and specific
+*** Analyze why result doesn't give desired output
+*** Refine the idea and the prompt
+*** Repeat
+** Iterative Porcess
+*** Try something
+*** Analyze where the result does not give what you wnat
+*** Clarify instructions, give more time to think
+*** Refine prompts with a batch of examples
+** Prompt Example
+*** Your task is ...
+*** Do something 1, 2, 3, ...
+*** Use at most 50 words. Use at most 3 sentences. Use at most 200 characters.
+*** Infomation / Technical specifications
+* Summarizing
+
+#+begin_quote
+Summarize the review below, delimited by triple
+backticks, in at most 30 words.
+Rev iew : ```{prod_review}```
+#+end_quote
+* Inferring
+extract label, extract names, analysis emotion, sentiment
+** Prompt Example for sentiment analysis
+#+begin_quote
+What is the sentiment of the following product review,
+which is delimited with triple backticks?
+Review text:
+```{lamp_review}```
+#+end_quote
+
+#+begin_quote
+What is the sentiment of the following product review,
+which is delimited with triple backticks?
+Give your answer as a single word, either "positive" or "negative"
+Review text:
+```{lamp_review}```
+#+end_quote
+
+#+begin_quote
+Identify a list of emotions that the writer of the
+following review is expressing. Include no more than
+five items in the list. Format your answer as a list of
+lower—case words separated by corunas .
+
+Review text:
+```{lamp_review}```
+#+end_quote
+** TODO prompts example for extract name, label
+** TODO attach the jupyter notes
+* Transforming
+LLMs are good at transforming it's input to a different format.
+Such as,
+1. input a piece of text may not be fully grammatical and helping you to fix that up a bit.
+2. HTML to JSON
+** Translation
+#+begin_src python
+prompt = f"""
+Translate the following English text to Spanish: \
+formal or informal
+```Hi, I would like to order a blender```
+"""
+response = get_completion(prompt)
+print(response)
+#+end_src
+** Tone Transformation
+#+begin_src python
+prompt = f"""
+Translate the following from slang to a business letter:
+'Dude, This is Joe, check out this spec on this standing lamp.'
+"""
+response = get_completion(prompt)
+print(response)
+#+end_src
+** Format Conversion
+#+begin_src python
+data_json = { "resturant employees" :[
+    {"name":"Shyam", "email":"shyamjaiswal@gmail.com"},
+    {"name":"Bob", "email":"bob32@gmail.com"},
+    {"name":"Jai", "email":"jai87@gmail.com"}
+]}
+
+prompt = f"""
+Translate the following python dictionary from JSON to an HTML \
+table with column headers and title: {data_json}
+"""
+response = get_completion(prompt)
+print(response)
+
+from IPython.display import display, Markdown, Latex, HTML, JSON
+display(HTML(response))
+
+#+end_src
+** Spellcheck/Grammer check
+#+begin_src python
+text = [
+  "The girl with the black and white puppies have a ball.",  # The girl has a ball.
+  "Yolanda has her notebook.", # ok
+  "Its going to be a long day. Does the car need it’s oil changed?",  # Homonyms
+  "Their goes my freedom. There going to bring they’re suitcases.",  # Homonyms
+  "Your going to need you’re notebook.",  # Homonyms
+  "That medicine effects my ability to sleep. Have you heard of the butterfly affect?", # Homonyms
+  "This phrase is to cherck chatGPT for speling abilitty"  # spelling
+]
+for t in text:
+    prompt = f"""Proofread and correct the following text
+    and rewrite the corrected version. If you don't find
+    and errors, just say "No errors found". Don't use
+    any punctuation around the text:
+    ```{t}```"""
+    response = get_completion(prompt)
+    print(response)
+
+text = f"""
+Got this for my daughter for her birthday cuz she keeps taking \
+mine from my room.  Yes, adults also like pandas too.  She takes \
+it everywhere with her, and it's super soft and cute.  One of the \
+ears is a bit lower than the other, and I don't think that was \
+designed to be asymmetrical. It's a bit small for what I paid for it \
+though. I think there might be other options that are bigger for \
+the same price.  It arrived a day earlier than expected, so I got \
+to play with it myself before I gave it to my daughter.
+"""
+prompt = f"proofread and correct this review: ```{text}```"
+response = get_completion(prompt)
+print(response)
+
+from redlines import Redlines
+
+diff = Redlines(text,response)
+display(Markdown(diff.output_markdown))
+
+prompt = f"""
+proofread and correct this review. Make it more compelling.
+Ensure it follows APA style guide and targets an advanced reader.
+Output in markdown format.
+Text: ```{text}```
+"""
+response = get_completion(prompt)
+display(Markdown(response))
+#+end_src
+* Expanding
+** Customize the automated reply to a customer
+#+begin_src python
+# given the sentiment from the lesson on "inferring",
+# and the original customer message, customize the email
+sentiment = "negative"
+
+# review for a blender
+review = f"""
+So, they still had the 17 piece system on seasonal \
+sale for around $49 in the month of November, about \
+half off, but for some reason (call it price gouging) \
+around the second week of December the prices all went \
+up to about anywhere from between $70-$89 for the same \
+system. And the 11 piece system went up around $10 or \
+so in price also from the earlier sale price of $29. \
+So it looks okay, but if you look at the base, the part \
+where the blade locks into place doesn't look as good \
+as in previous editions from a few years ago, but I \
+plan to be very gentle with it (example, I crush \
+very hard items like beans, ice, rice, etc. in the \
+blender first then pulverize them in the serving size \
+I want in the blender then switch to the whipping \
+blade for a finer flour, and use the cross cutting blade \
+first when making smoothies, then use the flat blade \
+if I need them finer/less pulpy). Special tip when making \
+smoothies, finely cut and freeze the fruits and \
+vegetables (if using spinach-lightly stew soften the \
+spinach then freeze until ready for use-and if making \
+sorbet, use a small to medium sized food processor) \
+that you plan to use that way you can avoid adding so \
+much ice if at all-when making your smoothie. \
+After about a year, the motor was making a funny noise. \
+I called customer service but the warranty expired \
+already, so I had to buy another one. FYI: The overall \
+quality has gone done in these types of products, so \
+they are kind of counting on brand recognition and \
+consumer loyalty to maintain sales. Got it in about \
+two days.
+"""
+prompt = f"""
+You are a customer service AI assistant.
+Your task is to send an email reply to a valued customer.
+Given the customer email delimited by ```, \
+Generate a reply to thank the customer for their review.
+If the sentiment is positive or neutral, thank them for \
+their review.
+If the sentiment is negative, apologize and suggest that \
+they can reach out to customer service.
+Make sure to use specific details from the review.
+Write in a concise and professional tone.
+Sign the email as `AI customer agent`.
+Customer review: ```{review}```
+Review sentiment: {sentiment}
+"""
+response = get_completion(prompt)
+print(response)
+
+prompt = f"""
+You are a customer service AI assistant.
+Your task is to send an email reply to a valued customer.
+Given the customer email delimited by ```, \
+Generate a reply to thank the customer for their review.
+If the sentiment is positive or neutral, thank them for \
+their review.
+If the sentiment is negative, apologize and suggest that \
+they can reach out to customer service.
+Make sure to use specific details from the review.
+Write in a concise and professional tone.
+Sign the email as `AI customer agent`.
+Customer review: ```{review}```
+Review sentiment: {sentiment}
+"""
+response = get_completion(prompt, temperature=0.7)
+print(response)
+#+end_src
+* Chatbot
+:PROPERTIES:
+:id: 649efaf7-f64e-4bac-bcf1-ed7c264b003f
+:END:
+** TODO complete this section ((649efaf7-f64e-4bac-bcf1-ed7c264b003f))
+SCHEDULED: <2023-07-07 Fri>
+* Conclusion
+** Principles:
+*** Write clear and specific instructions
+*** Give the model time to "think"
+** Iterative prompt development
+** Capabilities
+*** Summarizing
+*** Inferring
+*** Transforming
+*** Expanding
+** Building a chatbot
+* What's the Temperature
+Temperature is a parameter of LLM. It will allow us to change the kind of variety of the model's responses.
+So you can kind of think of temperature as the degree of exploration or kind of randomness of the model.

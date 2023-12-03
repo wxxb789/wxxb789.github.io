@@ -1,0 +1,62 @@
+
+
+* 9.SpringMvc之Controller
+
+
+1. 针对JavaBean实施注解校验，非空，email格式等校验
+2. 针对成功的登录用户，记录最新的登录时间和ip地址，同步到数据库中，并将用户存入到HttpSession对象中；
+3. 转发到jsp输出页面，输出登录用户的信息
+4. 对于非法用户，返回登录页面，产生错误信息
+
+#+begin_src java
+  @Controller
+  @RequestMapping("/user")
+  public class UserController {
+      @Autowired
+      private UserService service;
+
+      @RequestMapping("/form")
+      public String showForm(Model model){
+          model.addAttribute("user", new User());
+          return "LoginForm";
+      }
+
+      @RequestMapping(value="/action",method=RequestMethod.POST)
+      public String login(@PathVariable("email")String email,Model model){
+          User u = service.login(email);
+          model.addAttribute("u", u);
+          return "ShowList";
+      }
+
+      @RequestMapping("/login")
+      public String handleLogin(@Valid@ModelAttribute("user")User user,BindingResult result,
+              Model model,HttpServletRequest request){
+          if(result.hasErrors()){
+              return "LoginForm";
+          }
+          User u = service.login(user.getEmail());
+          if((u==null)||(!u.getPassword().equals(user.getPassword()))){
+              model.addAttribute("errorMessage", "用户名或密码错误");
+              return "LoginForm";
+          }
+          u.setLastLoginTime(System.currentTimeMillis());
+          //记录用户登录时ip地址
+          String remoteId = request.getRemoteAddr();
+          u.setLastLoginIp(remoteId);
+          service.modify(u);
+          HttpSession session = request.getSession();
+          session.setAttribute("u", u);
+          return "UserInfo";
+      }
+
+      @RequestMapping("/logout")
+      public String handleLogout(HttpServletRequest request){
+          //1.session中移出登录用户
+          HttpSession session = request.getSession();
+          session.removeAttribute("u");
+          //2.销毁当前session对象
+          session.invalidate();
+          return "redirect:/user/form";
+      }
+  }
+#+end_src

@@ -1,0 +1,8 @@
+*
+* [[https://opentelemetry.io/][OpenTelemetry]]
+* [[https://docs.honeycomb.io/getting-data-in/opentelemetry/dotnet-distro/][OpenTelemetry for .NET | Honeycomb]]
+* topic
+** traces
+** metrics
+** logs
+** instrument, generate, collect, export and analyze

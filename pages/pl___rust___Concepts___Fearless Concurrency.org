@@ -1,0 +1,7 @@
+#+title: pl/Rust/Concepts/Fearless Concurrency
+
+* multi-thread
+* mesage passing
+channel
+* shared state
+* =Sync= and =Send= trait

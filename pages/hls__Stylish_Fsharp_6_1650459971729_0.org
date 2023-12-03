@@ -1,0 +1,57 @@
+* #+file-path: ../assets/Stylish_Fsharp_6_1650459971729_0.pdf
+#+file: [[../assets/Stylish_Fsharp_6_1650459971729_0.pdf][Stylish_Fsharp_6_1650459971729_0.pdf]]
+#+title: hls__Stylish_Fsharp_6_1650459971729_0
+* Regardless of the era or technology involved, hard-to-work-with code bases tend to have the following characteristics in common.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 6273b859-fbd6-4d83-899e-5df392045c7e
+:END:
+* Characteristic 1: It’s hard to work out what’s going on when looking closely at any particular piece of code.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 6273b85e-f8cd-48dc-8c3e-e0e3509df519
+:END:
+* Characteristic 2: It’s hard to be sure that any change will have the effects one wants, and only those effects.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 6273b91d-1c50-47e2-8568-89ac1a0d7c14
+:END:
+* Characteristic 3: It’s hard to be certain of the author’s intent.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 6273b98b-473d-4762-8e7c-2871eedeb648
+:END:
+* Characteristic 4: It's hard to tell without experimentation whether the code will be efficient.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 6273bbc1-8c41-4e66-84dc-7d24fd8392e3
+:END:
+* Generally, the term “[[mechanical sympathy]]” means the ability to get the best out of a machine by having some insight into how the machine operates. In a world of perfect abstractions (such as perfect automatic gearboxes or perfect computer languages), we wouldn’t need mechanical sympathy. But we do not yet live in such a world. Incidentally, the term is sometimes attributed to racing driver Jackie Stewart, but although he used it, a quick glance at Google Ngrams suggests it predates him as a well-used phrase.
+:PROPERTIES:
+:hl-page: 26
+:ls-type: annotation
+:id: 6273bc75-1892-4f2b-96b3-75c79466d516
+:END:
+*
+*
+* The reason is that these sources of uncertainty exert an inexorable pressure toward a complexity explosion. A complexity explosion occurs when developers, under all sorts of time and commercial pressures, give up trying to fully reason about existing code and start to commit sins such as the following
+:PROPERTIES:
+:hl-page: 26
+:ls-type: annotation
+:id: 6273bd16-d0ea-4a43-8925-535664330788
+:END:
+** Duplicating code, because that feels safer then generalizing existing code to handle both old and new cases
+** Programming by coincidence, in which one keeps changing code until it “seems to work,” because the code is just too hard to reason about comprehensively
+** Avoiding refactoring, because it seems too risky or time consuming in the short term to be worth doing
+*
+* The great news is that the F# language makes it easier than ever to avoid writing bad code, by making it easy to write programs that are [[semantically focused]], revisable, [[motivationally transparent]], and [[mechanically sympathetic]].
+:PROPERTIES:
+:hl-page: 27
+:ls-type: annotation
+:id: 6273bf05-5671-4f47-8962-3edd70bf7cff
+:END:

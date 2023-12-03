@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: 他媽的天才，這項目叫做 "華駝" (因為基於 L... (highlights)
+:author: [[pirrer on Twitter]]
+:full-title: "他媽的天才，這項目叫做 "華駝" (因為基於 L..."
+:category: [[tweets]]
+:url: https://twitter.com/pirrer/status/1654525102837600256
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-07]]
+** 他媽的天才，這項目叫做 "華駝" (因為基於 LLaMA) 。 
+
+華駝(HuaTuo): 基於中文醫學知識的LLaMA微調模型
+
+本項目開源了經過中文醫學指令精調/指令微調(Instruct-tuning)的LLaMA-7B模型。我們通過醫學知識圖譜和GPT3.5… 
+
+![](https://pbs.twimg.com/media/FvYNzoqaYAIbsu2.jpg) ([View Tweet](https://twitter.com/pirrer/status/1654525102837600256))

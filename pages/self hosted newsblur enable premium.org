@@ -1,0 +1,7 @@
+#+tags: rss, newsblur, self-hosted,
+
+* #+BEGIN_SRC bash
+make shell
+>>> u = User.objects.get(username='YOUR_USERNAME')
+>>> u.profile.activate_archive()
+#+END_SRC

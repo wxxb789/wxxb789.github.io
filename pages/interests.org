@@ -1,0 +1,9 @@
+* my interests
+* finance
+* web3, web programming
+** block chain
+** defi
+** smart contract
+* wasm, web assembly
+* system programming
+* learning, reading, productivity

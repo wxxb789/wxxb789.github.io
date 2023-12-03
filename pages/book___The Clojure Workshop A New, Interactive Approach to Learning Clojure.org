@@ -1,0 +1,3 @@
+#+title: book/The Clojure Workshop A New, Interactive Approach to Learning Clojure
+
+* [[../assets/The_Clojure_Workshop_A_New,_Interactive_Approach_to_Learning_Clojure_1650459924972_0.pdf][The Clojure Workshop A New, Interactive Approach to Learning Clojure.pdf]]

@@ -1,0 +1,4 @@
+* [13]使用BIND提供域名解析服务
+:PROPERTIES:
+:id: 使用bind提供域名解析服务
+:END:

@@ -1,0 +1,206 @@
+
+
+* Filter
+
+* 过滤器是 Java Web 三大组件之一
+
+
+1. Servlet/JSP: 最重要(struts2 SpringMVC底层仅仅就是对Servlet的封装)
+2. Listener
+3. Filter
+
+它们的共同特点是都需要在web.xml中进行配置
+(除了Listener的两个感知监听器不需要在web.xml中配置以外)
+* 过滤器的作用
+
+Filter会在"一组多个资源请求"(如请求jsp、Servlet、css、html等)的前面执行,
+它可以让请求通过得到目标资源,也可以不允许请求通过去得到目标资源;而当请
+求通过并且执行完请求后,还会执行Filter后面的代码内容。
+
+^^总之Filter有拦截请求的能力^^
+* 应用举例( Filter 实现访问限制)
+
+如有Aservlet,Bservlet,Cservlet三个Servlet,只有当登录成功后才允许对这三个
+Servlet进行访问,那么可以在每个Servlet中在访问每个Servlet之前都进行判断,
+如果登录成功则允许访问Servlet,否则不允许访问。这样能够实现限制访问的目的,
+但是每个servlet在处理请求之前都要去处理判断是否登录成功的工作,这样效率和
+代码的复用性明显都不高。
+
+所以可以在请求这三个Servlet之前写一个Filter,Filter把这三个Servlet任意
+Servlet的请求都可以拦截到,并判断登录是否成功,只要登录成功这三个Servlet就
+都允许被访问,否则这三个Servlet就都不允许被访问。这样也能实现访问限制,而且
+提高了执行效率和代码的复用性。
+* 编写过滤器
+
+** 1. 定义实现类实现=javax.servlet.Filter=接口
+
+生命周期方法:
+
+1. =void init(FilterConfig)=
+   初始化方法,在过滤器被创建之后就执行,最初执行且只被执行一次。
+   过滤器会在服务器启动时就被创建。
+2. =void destory()= 销毁方法,在过滤器被销毁之前执行,也只被执行一次。
+   过滤器和Servlet一样也是单例的,只被创建一次且始终是同一个对象,
+   一旦创建就被存储在缓存中,只有当服务器关闭时过滤器才从缓存中被销毁。
+3. =void doFilter(ServletRequest, ServletResponse, FiterChain)=
+   只要过滤器拦截到目标请求,就会执行该方法,多次拦截多次执行,所以
+   该方法会被多次执行;
+** 2. 在web.xml中进行配置
+
+和Servlet在web.xml中的配置一样。
+
+#+begin_src xml
+  <filter>  <!--过滤器的配置标签-->
+      <filter-name></filter-name>   <!--(过滤器名称)-->
+      <filter-class></filter-class> <!--(过滤器完整类路径)-->
+  </filter>
+  <filter-mapping>  <!--过滤器的映射标签-->
+      <filter-name></filter-name>   <!--(过滤器名称)-->
+      <url-pattern></url-pattern>   <!--(指定过滤器拦截的请求的请求路径)-->
+  </filter-mapping>
+#+end_src
+* Filter API
+:PROPERTIES:
+:id: filterconfigfilter配置对象
+:END:
+1. =FilterConfig=: Filter配置对象:
+
+1. String getFilterName()
+   获取过滤器名称,=<filter-name></filter-name>=的值。
+
+2. String getInitParameter(String name) 获取指定初始化参数的值
+
+#+begin_src xml
+  <filter>
+    <filter-name>filterB</filter-name>
+    <filter-class>com.mmy.filter.FilterB</filter-class>
+   "<init-param>
+      <param-name>a</param-name>
+      <param-value>AAA</param-value>
+    </init-param>"
+  </filter>
+#+end_src
+
+3. =Enumeration<String> getInitParameterNames()=
+   获取所有初始化参数的名称
+
+#+begin_src xml
+  <filter>
+    <filter-name>filterB</filter-name>
+    <filter-class>com.mmy.filter.FilterB</filter-class>
+   "<init-param>
+      <param-name>a</param-name>
+      <param-value>AAA</param-value>
+    </init-param>
+    <init-param>
+      <param-name>b</param-name>
+      <param-value>BBB</param-value>
+    </init-param>"
+  </filter>
+#+end_src
+
+4. =ServletContext getServletContext()= 获取上下文 =ServletContext= 对象
+** 2. =FilterChain=:过滤器链类,=doFilter()=方法的参数。
+
+该对象只有一个方法:
+=void doFilter(ServletRequest,ServletResponse)=:放行。
+
+1. 当请求被过滤器拦截时,会调用过滤器的 =doFiler()= 方法,在过滤器的 =doFiler()= 方法中
+   如果没有调用 =FilterChain= 对象的 =doFilter()= 方法,表示不允许请求,那么请求也就得不
+   到目标资源。
+
+2. 当请求被过滤器拦截时,调用了过滤器的 =doFilter()= 方法,并且在过滤器的 =doFilter()=
+   方法中调用了 =FilterChain= 对象的 =doFiler()= 方法,表示给请求放行,那么就会处理请求;
+   当请求处理完后如果在调用了 =FilterChain= 对象的 =doFilter()= 方法之后如果还有内容,
+   那么就会接着执行其之后的内容。
+** 3. 细说=FilterChain=的=doFilter()=方法
+
+过滤器和请求的关系:
+
+1. 一个过滤器可以拦截多个请求
+2. 一个请求上可以部署多个过滤器(就构成了*过滤器链*)
+
+如果当前过滤器不是过滤器链的最后一个过滤器,那么调用其 =doFilter()= 方法参数
+=FilterChain= 对象的 =doFiler()= 方法表示是放行,将请求交给了下一个过滤器,如果当
+前过滤器是过滤器链中的最后一个过滤器是,那么调用其 =doFilter()= 方法参数 =FilterChain= 对象的 =doFiler()= 方法表示是释放请求给目标资源;
+
+同时过滤器链中的每个过滤器都是之后内容,那么目标资源处理完请求之后,会逆向
+的执行过滤器链中的每个过滤器的之后内容;
+
+前面说 =FilterChain= 对象的 =doFilter()= 方法是放行,允许请求访问其目标资源,但
+这么说不严谨。
+因为一个请求上有可能会部署多个过滤器,当当前过滤器不是最后一个过滤器时,
+调用 =FilterChain= 对象的 =doFilter()= 方法时,表示给下一个过滤器放行,即执行
+下一个过滤器的 =doFilter()= 方法;当当前过滤器是最后一个过滤器时,调用
+=FilterChain= 对象的 =doFilter()= 方法时,表示是给请求放行,允许请求访问目标资源。
+
+而在同一请求上部署的多个过滤器的执行顺序就是过滤器在 =web.xml= 中配置的顺序,
+严格来说是多个过滤器在 =web.xml= 中的配置的 =<filter-mapping></filter-mapping>=
+标签的顺序;
+而多个过滤器的 =chain.doFilter()= 方法之后内容的执行顺序却是多个过滤器执行
+顺序的倒序。
+* 四种拦截方式
+
+我们说过滤器的作用是拦截请求,而这个请求指的是直接请求,并不能拦截请求转
+发和请求包含。其实过滤器的拦截方式有4种,*"拦截直接请求"*、*"拦截转发请求"*、
+*"拦截包含请求"*、*"拦截错误"*。而只是过滤器默认是拦截直接请求所以不包含请
+求转发和请求包含。而要拦截其它内容,在web.xml中的标签中
+使用是可以设置的。
+
+1. 拦截直接请求:(为主) =<dispatcher>REQUEST</dispatcher>= (默认的)
+2. 拦截转发请求: =<dispatcher>FORWARD</dispatcher>=
+3. 拦截包含请求: =<dispatcher>INCLUDE</dispatcher>=
+4. 拦截错误(错误转发请求): =<dispatcher>ERROR</dispatcher>=
+* 设置过滤器拦截目标资源
+
+
+1. 过滤器所要拦截的目标资源可以在=<filter-mapping></filter-mapping>=标签中
+   使用=<url-pattern></url-pattern>=标签,通过指定请求路径指定拦截的请求资源
+
+#+begin_src xml
+  <!--表示拦截所有请求-->
+  <filter-mapping>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+#+end_src
+
+#+begin_src xml
+  <!--表示拦截请求路径包含/servlet/servletA的请求-->
+  <filter-mapping>
+    <url-pattern>/servlet/servletA</url-pattern>
+  </filter-mapping>
+#+end_src
+
+2. 还可以在=<filter-mapping></filter-mapping>=标签中使用=<servlet-name></servlet-name>=
+   标签,通过指定servlet的名称拦截具体名称的servlet请求:
+
+#+begin_src xml
+       <servlet>
+         <servlet-name>servlet1</servlet-name>
+         <servlet-class>com.mmy.servlet.ServletA</servlet-class>
+       </servlet>
+       <servlet-mapping>
+         <servlet-name>servlet1</servlet-name>
+         <url-pattern>/abc</url-pattern>
+       </servlet-mapping>
+
+       <servlet>
+         <servlet-name>servlet2</servlet-name>
+         <servlet-class>com.mmy.servlet.ServletB</servlet-class>
+       </servlet>
+       <servlet-mapping>
+         <servlet-name>servlet2</servlet-name>
+         <url-pattern>/xyz</url-pattern>
+       </servlet-mapping>
+
+       <filter>
+         <filter-name>myfilter</filter-name>
+         <filter-class>com.mmy.filter.MyFilter</filter-class>
+       </filter>
+       <filter-mapping>
+         <filter-name>myfilter</filter-name>
+         <!--表示拦截名称叫servlet1和servlet2的servlet请求-->
+         <servlet-name>servlet1</servlet-name>
+         <servlet-name>servlet2</servlet-name>
+       </filter-mapping>
+#+end_src

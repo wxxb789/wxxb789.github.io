@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: ✨ 做了一个 爬虫(Selenium) GPTs... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[lyson_ober on Twitter]]
+:full-title: "✨ 做了一个 爬虫(Selenium) GPTs..."
+:category: [[tweets]]
+:url: https://twitter.com/lyson_ober/status/1723821023601250401
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-13]]
+** 📌
+** #+BEGIN_QUOTE
+** ✨ 做了一个 爬虫(Selenium) GPTs 助手（1.0 版本）
+
+🤔 有时候科研人需要爬取一些网站的数据，但奈何没有花太多时间系统深入学习过爬虫技术，这个时候如果你直接问 GPT-4，他其实很难很快给到你一个满意的回复。
+
+🤷 首先 GPT-4 不一定会主动用 selenium 框架；其次，就算你让他使用，中间也需要大量的沟通防止 GPT-4 不要跑题（例如改着改着就不用 selenium 框架了）；再者，也有人可能并不知道如何解决 ChromeDriver 的版本匹配问题，而 GPT-4 似乎很难清晰地提出这个问题的解决方案。所以我干脆就写好了 Documents 和 Prompts 方便你直接跳过很多和 GPT-4 不必要的沟通……从而迅速根据你的需求定制爬虫代码。
+
+🐍 我把她命名为 Cyber Scraper: Seraphina。在这里可以联系她：https://t.co/FxrAThHBS6。她也是我制作的另一个 GPTs：「Carpe Diem 教授」的朋友。https://t.co/CfWFB7BctF
+
+🤨 那么 Seraphina 和 Carpe Diem 教授是如何认识的呢？让我们一起看看 Carpe Diem 教授是怎么说的吧 😆：<img src='https://pbs.twimg.com/media/F-w9CEhb0AAmyMC.jpg'/><img src='https://pbs.twimg.com/media/F-w9-CAaoAAxymv.jpg'/>  ([View Tweet](https://twitter.com/lyson_ober/status/1723821023601250401))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 👉 GPTs 的初次亮相https://t.co/aonnLkNfR7  ([View Tweet](https://twitter.com/lyson_ober/status/1723821419962724586))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 对了，使用的方法大致就是只要你会审查元素，然后把它们 copy 给 Seraphina，让她清楚地知道你的目标元素是啥就行。如果她没明白的话你还可以保存一下当前页面 html 文件（mac 是 cmd shift s）然后上传上去，配合着你 copy 的 element 代码，这样大致上没问题了。相比之下，直接问 GPT-4 需要花费更多的时间达成共识。  ([View Tweet](https://twitter.com/lyson_ober/status/1723838050365825199))
+** #+END_QUOTE

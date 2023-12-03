@@ -1,0 +1,9 @@
+*
+* add todo items with schedule while daily using
+* setup new page [[工作表]]，agenda plugin
+** list all-day items
+*
+* benefits
+** log all processing while you complete the work item
+** possible to reproduce
+** extract as a workflow easily

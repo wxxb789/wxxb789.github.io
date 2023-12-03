@@ -1,0 +1,3 @@
+#+tags: distributed system, algo,
+
+* [[https://book.douban.com/subject/30218049/][Distributed Algorithms: An Intuitive Approach (豆瓣) (douban.com)]]

@@ -1,0 +1,45 @@
+
+
+* 5.form表单
+
+
+1. 导入Spring_MVC框架声明的form表达标签库
+
+#+begin_example
+  <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
+#+end_example
+
+2. commandName属性指定映射的Model对象的 成员javabean
+
+#+begin_example
+      <form:form commandName="employee" action="save" method="post">
+#+end_example
+
+3. fieldset：对表单进行分组，一个表单可以有多个fieldset
+4. legend：说明每组的内容描述
+
+#+begin_example
+       <fieldset>
+          <legend>职工</legend>
+#+end_example
+
+5. form:errors：获取校验错误信息，默认使用系统内置错误信息，可通过在resources静态资源下配置errorMessage.properties，从而替换为自定义错误信息，一旦使用此方案，所有默认错误信息均不再启用
+
+   1. path：指明校验的属性
+   2. cssClass：指明错误信息的css样式
+
+   #+begin_example
+          <p>
+              <div><form:errors path="empName" cssClass="redColor"/></div>
+              职员姓名:<form:input path="empName"/>
+          </p>
+          <p>
+              <div><form:errors path="birthday" cssClass="redColor"/></div>
+              职员生日:<form:input path="birthday"/>
+          </p>
+          <p>
+              <input type="reset" value="重置"><button >提交</button>
+          </p>
+       </fieldset>
+      </form:form>
+   #+end_example

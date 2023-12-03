@@ -1,0 +1,6 @@
+* [[https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli][EFCore Migrations Reference]]
+*
+* #+BEGIN_SRC 
+dotnet ef migrations add <sth you changes>
+dotnet ef database update
+#+END_SRC

@@ -1,0 +1,82 @@
+* DP template
+
+#+begin_src python
+
+  @lru_cache(None)
+  def canstop(runway, speed, pos=0):
+      "Can stop if on the runway and on a non-spike, and either are stopped
+       or can stop after a move."
+      return (0 <= pos < len(runway) and runway[pos] and
+              (speed == 0 or any(canstop(runway, s, pos + s)
+                                 for s in (speed - 1, speed, speed + 1))))
+#+end_src
+
+Why would recursive be faster than iterative?
+
+Another approach to solving this problem is to use simple graph theory
+with a search. Each coordinate is effectively a node with a set of
+neighbors which are the other nodes that can be traveled to.
+
+Thinking about this as a graph problem is useful because now we don't
+limit ourselves to doing a depth first search over the problem space.
+
+For example, your implementation is rather slow since you test adjusted
+speed in this order: [initSpeed, initSpeed -- 1, initSpeed + 1]. If you
+tested in the order of [initSpeed -- 1, initSpeed, initSpeed + 1], then
+in more cases your algorithm would finish faster.
+
+Its important to remember best case as much as worst case runtime,
+especially in situations like this problem where most scenarios have a
+better best case. In an interview I would look for candidates who can
+articulate the difference in runtime scenarios for both breadth first
+and depth first searches.
+
+In this example problem I would look for candidates who recognize that
+checking n-1 first is critical for large data sets.
+
+The approach that I would expect good candidates to take would be to
+implement A* (for the heuristic we use (speed/(speed+1))/2 [trying to
+reach 0 speed], and for the distance traveled variable we would use
+position (or number of hops). A great candidate would explain why those
+chose A/ : 1) A* is a proven optimized method for which they can rely on
+a well tested library. 2) An A* solution can easily be expanded to find
+the fewest bounces or shortest distance instead of just a true/false
+boolean. Experienced candidates would expect this to be the second half
+of the question.
+
+A great candidate would also exit much earlier in the program than your
+example solution. If we have speed 5 then we know we need at least 15
+steps of runway to stop (5+4+3+2+1). So instead of having to visit every
+runway spot, a great candidate would exit early with the following
+condition if ( pos+ speed*(speed-1)/2 > len(runway) { we know we can't
+possibly stop in time. }
+
+A great candidate would also question why the input is an array and
+would discuss whether we should be using a data structure that stores
+sparse data more efficiently such as a hash map.
+
+However a stellar candidate would recognize that the boolean array could
+be instead a bitmask (smaller since bools are actually bytes) and then
+recognize that we could measure multiple steps simultaneously using xor.
+Specifically within the scope of a byte. i would expect this if I was
+dealing with a front end engineer who is responsible for optimizing code
+close to the metal.
+
+Even more optimization! I would expect the following from a stellar
+candidate. Since we can predict the minimum number of steps to solve the
+problem there is another interesting way of thinking about it. Instead
+of starting from where the ball starts, we can start from where the ball
+lands. Specifically we can predict the very first spot down the runway
+where the ball might land, which is at pos+speed*(speed+1)/2. We can
+iterate down the spots starting at that one until we find on which is
+not a spike. From there we can test the path from the landed location
+backwards. This is advantages because it severely narrows the range of
+the steps that need to be compared. For any given spot we know the exact
+distance traveled to reach that spot, and this allows us to constrain
+the number of choices for reaching that spot. Once the number of choices
+is constrained to 0 we can use a single bitwise function to check the
+whole remaining path with a single operation.
+
+This method is useful because it allows us to implement a similar
+pattern that A* would implement without having to do any sorting. And
+most importantly, this solution can be more easily parallelized!

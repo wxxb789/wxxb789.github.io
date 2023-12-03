@@ -1,0 +1,18 @@
+* features
+** end with a semicolon =;=
+** =todo!=
+** Variable shadowing
+* [[book/Rust 程序设计语言]]
+* [[book/Rust 编程之道]]
+* [[pl/Rust/Trait]]
+* [[pl/Rust/Macro]]
+[[pl/Rust/Pointer]]
+* TODO [[pl/Rust/Statement and Expression]]
+:LOGBOOK:
+CLOCK: [2022-07-22 Fri 20:22:28]--[2022-07-22 Fri 20:22:29] =>  00:00:01
+CLOCK: [2022-07-22 Fri 20:22:29]--[2022-07-22 Fri 20:22:30] =>  00:00:01
+:END:
+*
+* Reference 还是 Pointer ？
+* Rust 的问题
+如何同时面对，可变性，所有权，移动，生命周期这些特性。

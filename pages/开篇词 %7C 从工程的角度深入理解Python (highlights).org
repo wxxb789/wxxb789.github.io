@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: 开篇词 | 从工程的角度深入理解Python (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "开篇词 | 从工程的角度深入理解Python"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/94972
+:tags:[[gt/python核心技术与实战]],
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-15]]
+** 📌
+** #+BEGIN_QUOTE
+** 列表是动态的，长度大小不固定，可以随意地增加、删减或者改变元素（mutable）。
+
+而元组是静态的，长度大小固定，无法增加删减或者改变（immutable）。 ([View Highlight](https://read.readwise.io/read/01h5aymhtvj499z8mj10egehh9))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 当然，两者也可以通过 list() 和 tuple() 函数相互转换： ([View Highlight](https://read.readwise.io/read/01h5aynfyqt2dypyqtxzczjqmj))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** python3 -m timeit -s 'x=[1,2,3,4,5,6]' 'y=x[3]'
+
+10000000 loops, best of 5: 22.2 nsec per loop
+
+python3 -m timeit -s 'x=(1,2,3,4,5,6)' 'y=x[3]'
+
+10000000 loops, best of 5: 21.9 nsec per loop ([View Highlight](https://read.readwise.io/read/01h5ayqn2wzzz3mj650428684a))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 1. list和tuple的内部实现都是array的形式，list因为可变，所以是一个over-allocate的array，tuple因为不可变，所以长度大小固定。具体可以参照源码list: https://github.com/python/cpython/blob/master/Objects/listobject.c. tuple: https://github.com/python/cpython/blob/master/Objects/tupleobject.c ([View Highlight](https://read.readwise.io/read/01h5ayrjaxd9g2d7xnbk8b10ty))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 区别主要在于list()是一个function call，Python的function call会创建stack，并且进行一系列参数检查的操作，比较expensive，反观[]是一个内置的C函数，可以直接被调用，因此效率高。 ([View Highlight](https://read.readwise.io/read/01h5ayrw3tcq0exm8eeptstybg))
+** #+END_QUOTE

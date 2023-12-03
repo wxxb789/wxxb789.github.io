@@ -1,0 +1,72 @@
+:PROPERTIES:
+:title: AIGC Weekly \#17更新了，本期主要介... (highlights)
+:author: [[op7418 on Twitter]]
+:full-title: "AIGC Weekly \#17更新了，本期主要介..."
+:category: #tweets
+:url: https://twitter.com/op7418/status/1647969610216644609
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-21]]
+** AIGC Weekly #17更新了，本期主要介绍了AutoGPT的相关内容、SDXL模型的测试以及ContorlNet的更新等一堆非常值得阅读的内容，这周开源社区疯狂发力，好多开源项目。下面是上周一些行业动态和产品推荐，更多详细的内容可以去图里的竹白查看：https://t.co/KQxW8HwS2B 
+
+![](https://pbs.twimg.com/media/Ft7DfBaacAE41yC.jpg) ([View Tweet](https://twitter.com/op7418/status/1647969610216644609))
+** 🥰本周精选（1）：
+
+AutoGPT：AI自动执行命令完成任务，这部分有点长早上单独发了一条，可以来这里看：https://t.co/lngEpX7myK
+
+Stable Diffusion XL模型扩大测试范围，下面是Stability AI说的一些模型特点：
+
+更强的的照片逼真度能力
+增强的图像合成和面部生成… ([View Tweet](https://twitter.com/op7418/status/1647969758938284033))
+** 🥰本周精选（2）：
+Stable Diffusion插件ContorlNet更新1.1版本：https://t.co/XS7vnXxAGb
+
+还新增了几个模型，目前模型总数达到了14个，新增了4个模型。可能会给SD带来新的玩法主要新增模型介绍：
+Openpose增加了对面部和手部的支持，可以选择只针对身体生效，还是对身体+面部+手部生效
+新增Content… 
+
+![](https://pbs.twimg.com/media/Ft7D-33aYAAMvQ8.jpg) ([View Tweet](https://twitter.com/op7418/status/1647970040120238081))
+** ⚒️产品推荐（1）：
+
+特赞发布自己的 AI 资产管理产品 DAM.GPT：https://t.co/EHM2PzfJsz
+SnackPrompt：提示词共享社区：https://t.co/S3SbD6Kmvg
+HeroPage：提示词分享社区：https://t.co/BOCYxsqSqa
+https://t.co/iqAHxRjRSF：用AI生成设计，并输出为代码：https://t.co/8LWtO9nu5s
+X… 
+
+![](https://pbs.twimg.com/media/Ft7EIijaEAA57Uq.jpg) 
+
+![](https://pbs.twimg.com/media/Ft7EJ4KaUAUXxJE.jpg) 
+
+![](https://pbs.twimg.com/media/Ft7ELIKaUAMvtZz.jpg) 
+
+![](https://pbs.twimg.com/media/Ft7EMNEakAA3Zu_.jpg) ([View Tweet](https://twitter.com/op7418/status/1647970323936194560))
+** ⚒️产品推荐（2）：
+
+Tripnotes：AI帮你指定旅行计划：https://t.co/wzQ0sxb3RE
+RASK：快速将你的视频本地化翻译为60种语言：https://t.co/zTZmRijo5e
+AI Assist™ ：AI帮助生成合同：https://t.co/Sjr8RAaW1w
+Gradio Web UI：支持数十种开源语言模型的Web UI：https://t.co/xkXL1pXAHD… 
+
+![](https://pbs.twimg.com/media/Ft7EWgtaQAAAirs.jpg) ([View Tweet](https://twitter.com/op7418/status/1647970437832540162))
+** 🧑‍🎓学习资源：
+
+使用ChatGPT创建一个公司的完整提示词模板：https://t.co/Pe9Y4LKNMk
+如何利用AI和ChatGPT创建网页：https://t.co/7Q1PJYvoEx
+我试着卖了30天的AI艺术品--现实的结果：https://t.co/Ynwl5wBin5 ([View Tweet](https://twitter.com/op7418/status/1647970505033682946))
+** 🔬精选文章（1）：
+
+代理化的LLM将改变对齐（alignment）领域的格局：https://t.co/DQwYK5A4fT
+开源语言模型现状：https://t.co/uh0VvLkNEn
+Open AI发布了一个叫一致性模型的东西：https://t.co/CBR8pA7PES
+福布斯-2023的50家AI公司：https://t.co/khJmDdbYQD
+GPT-4… 
+
+![](https://pbs.twimg.com/media/Ft7EjaJacAAZX4O.jpg) ([View Tweet](https://twitter.com/op7418/status/1647970653503631361))
+** 🔬精选文章（2）：
+
+如何使用ChatGPT创建调查问卷 [应用案例]：https://t.co/RjlD3iyCoa
+生成代理人：人类行为的交互式模拟：https://t.co/VaFdu8Yyvc
+ChemCrow：使用大型语言模型增强化学工具：https://t.co/27IoCLH3Li… 
+
+![](https://pbs.twimg.com/media/Ft7Hc7wakAAo8eH.jpg) ([View Tweet](https://twitter.com/op7418/status/1647973840600072192))

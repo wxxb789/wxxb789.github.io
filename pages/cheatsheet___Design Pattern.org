@@ -1,0 +1,3 @@
+* #+title: Cheat Sheet/Design Pattern
+* [[../assets/designpatternscard_1651895220758_0.pdf][designpatternscard.pdf]]
+*

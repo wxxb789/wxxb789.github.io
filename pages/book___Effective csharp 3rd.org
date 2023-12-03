@@ -1,0 +1,4 @@
+#+title: book/Effective Csharp 3rd
+
+* [[../assets/Effective_Csharp_3rd_1650458967673_0.pdf][Effective Csharp 3rd.pdf]]
+*

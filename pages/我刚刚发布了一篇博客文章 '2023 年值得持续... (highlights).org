@@ -1,0 +1,76 @@
+:PROPERTIES:
+:title: 我刚刚发布了一篇博客文章 '2023 年值得持续... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[lgtwet on Twitter]]
+:full-title: "我刚刚发布了一篇博客文章 '2023 年值得持续..."
+:category: [[tweets]]
+:url: https://twitter.com/lgtwet/status/1727251490144931994
+:image-url: https://pbs.twimg.com/profile_images/1622225659304222730/Nc7nbTRR.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-23]]
+** 📌
+** #+BEGIN_QUOTE
+** 我刚刚发布了一篇博客文章 '2023 年值得持续阅读的内容平台' https://t.co/KoRo6EYY0t
+
+2023 年我持续阅读和关注的创作者有很多，以下 39 个是我在文中列举的。
+
+一、新闻类
+
+\- 财新网: 现阶段，财新网不仅是我认为的国内最好的财经类媒体，也是最好的新闻类媒体。
+- Semafor: <a href="https://twitter.com/semafor">@semafor</a> 采编的新闻内容平静且克制，观点说不上有多客观至少不偏激。这对于现在的英文媒体而言，属实难得。
+- Buzzing: 网站汇总了多个全球知名新闻网站和社交媒体的内容，并将标题翻译为中文，以便中文读者可以快速浏览和挑选自己感兴趣的内容去深度阅读原文。
+- NextDraft: 由硅谷投资人 <a href="https://twitter.com/davepell">@davepell</a> 主理的电子报，他每天会阅读75个新闻网站，然后从海量信息中挑选出当天 10 则最重要、最优质的新闻，并撰写推荐语和评论。
+- News Minimailist: 一个通过 GPT-4 筛选每日新闻的项目.
+- TheMessenger: 一份报道深度观点和新闻的电子报。
+
+二、文章聚合类
+
+- 积薪: <a href="https://twitter.com/darmaulee">@darmaulee</a> 运营的独立博客聚合平台，已经接入了 183 个博客网站，收录了 6000 余篇文章，不仅有着稳定的内容输入，而且还有着赏心悦目的颜值。
+- xLog: <a href="https://twitter.com/_xLog">@_xLog</a> 不仅仅是区块链博客托管平台，同样也是内容平台。
+- Ness Labs: 它的目标是赋予知识工作者在保持理智的同时做出最好的工作。
+- Heptabase Public Wiki: 网站中的许多文章是值得玩味的。虽然所说的是如何使用 <a href="https://twitter.com/Heptabase">@Heptabase</a> ，但实际上可以将其中所蕴含的方法论推而广之，运用在学习、生活和工作中。
+- Collider: <a href="https://twitter.com/ColliderSpace">@ColliderSpace</a> 作为一份新兴的电子杂志，目标是成为一个探索高效思考者蓝图的空间，为重视思考的群体带去更多的协作、想法和工具。
+- Aeon: 内容偏向学术、思想的解读，文章有深度而不枯燥，话题重要而又往往十分有趣。除了文字内容之外，还提供质量很高的短视频。
+- Longreads: 由 Mark Armstrong 于 2009 年创办，致力于帮助人们发现和分享网络上最好的长篇非虚构故事。
+- Medium: 如果说 𝕏 是现在互联网上最好的短文聚合平台，那么 Medium 就是互联网上最好的长文聚合平台。
+
+三、独立博客
+
+- 刘未鹏 | Mind Hacks: 虽然已经非常久没有更新博客，但他的文章依然有价值，并且随着时间的推移，价值会越来越高。因为他不仅仅是在传术，更是在布道。
+- Owen 的博客: <a href="https://twitter.com/OwenYoungZh">@OwenYoungZh</a> 的价值需要慢慢去发现，更新的不勤，非常适合考古。
+- Pin 起来: 如果说有谁能够深入浅出地让读者了解什么是知识管理，什么是工作流，<a href="https://twitter.com/WuPingJu">@WuPingJu</a> 绝对是其中一位。
+- Steph Ango: Obsidian 现任 CEO <a href="https://twitter.com/kepano">@kepano</a> 的博客，除了能学到很多 Obsidian 和知识管理的技巧，还有很多有趣话题。
+- 虹线: 提起评论尸 <a href="https://twitter.com/JeffreyCalm">@JeffreyCalm</a> 的大名，想必都如雷贯耳。对于中国社会的观察之深，在年轻一代中是佼佼者。
+- 潮流周刊: <a href="https://twitter.com/HiTw93">@HiTw93</a> 主理的周更电子报，每期都会推荐一些有趣的网站和工具。
+- 太隐: 作者是一名九五后，其涉猎的知识，思想深度与文化底蕴时常让我惊叹。
+- Pseudoyu: 从 <a href="https://twitter.com/pseudo_yu">@pseudo_yu</a> 更新的周报可以看出是一位阳光开朗，感情丰富的大男孩。
+- hyuanverse: <a href="https://twitter.com/firewin15">@firewin15</a> 在博客中更新了许多关于知识管理、个人成长、自我剖析的内容。马上就要去英国和欧洲旅居的他，想必会呈现出更多精彩的内容。
+
+四、电子报
+
+- 生活奇旅: <a href="https://twitter.com/itsweichen">@itsweichen</a> 的文风真诚质朴，看似平淡的叙述中蕴藏着经过深思熟虑后的智慧。
+- 新闻实验室: 由新闻传播学者方可成从 2016 年 9 月开始运营的会员计划，内容涵盖全球传媒业和数字科技产业最新热点、学术研究成果等。
+- AIGC Weekly: <a href="https://twitter.com/op7418">@op7418</a> 大佬主理的免费版电子报，每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果。
+- Dailyio: <a href="https://twitter.com/bluebird0605">@bluebird0605</a> 主理的电子杂志，主题围绕人机关系展开，涉及生产力、知识管理、AI、科技与人文等多种话题。
+
+五、𝕏 账号
+
+- Prof. Feynman: <a href="https://twitter.com/ProfFeynman">@ProfFeynman</a> 关于科学与智慧的推文。
+- Naval: 刷推特怎么能不关注由 <a href="https://twitter.com/naval">@naval</a> 创建的各种列表呢。
+- Andy Matuschak:  <a href="https://twitter.com/andy_matuschak">@andy_matuschak</a> 目前正在探索增强人类记忆力和注意力的工具。他提出的常青笔记的理念影响了很多人。
+- Adam Grant: 近期很火的畅销书《隐藏潜能》的作者 <a href="https://twitter.com/AdamMGrant">@AdamMGrant</a>，组织心理学家。
+- yihong0618: <a href="https://twitter.com/yihong0618">@yihong0618</a> 是一个把跑步和代码融为一体的「少年」。
+- 宝玉: 了解 AGI，从 <a href="https://twitter.com/dotey">@dotey</a> 开始。
+- Nick St. Pierre: 公开探索 AI 并分享学习成果，每日玩转 Midjourney 和 NeRFs 的 <a href="https://twitter.com/nickfloats">@nickfloats</a>。
+
+六、Telegram Channel
+
+- 404 [[ ]] KIDS SEE GHOSTS
+- Reorx’s Footprints
+- Laisky‘s Notes
+- AI Copilot
+- Newlearnerの自留地  ([View Tweet](https://twitter.com/lgtwet/status/1727251490144931994))
+** #+END_QUOTE

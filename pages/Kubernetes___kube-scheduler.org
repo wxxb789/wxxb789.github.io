@@ -1,0 +1,23 @@
+#+title: Kubernetes/kube-scheduler
+
+* 职责
+=kube-scheduler= 负责分配调度=Pod= 到集群内的节点上。
+监听 =kube-apiserver=, 查询未分配 Node 的 Pod, 读取这些 Pod 的配置信息,然后根据调度策略为这些 Pod 分配 Node （更新 Pod 的 =NodeName= 字段）
+
+
+* 需要考虑的问题
+** 公平调度
+** 资源高效利用
+** QoS
+** =affinity= 和 =anti-affinity=
+** 数据本地化 data locality
+** 内部负载干扰 (inter-workload interference)
+** deadlines
+
+* =kube-scheduler= 调度分为两个阶段
+** predicate 策略
+filter 阶段
+过滤不符合条件的节点
+** priority
+ranke 阶段
+优先级排序

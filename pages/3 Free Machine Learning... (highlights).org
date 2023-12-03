@@ -1,0 +1,65 @@
+:PROPERTIES:
+:title: 3 Free Machine Learning... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[TheTuringPost on Twitter]]
+:full-title: "3 Free Machine Learning..."
+:category: [[tweets]]
+:url: https://twitter.com/TheTuringPost/status/1685612713979101184
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-31]]
+** 📌
+** #+BEGIN_QUOTE
+** 3 free machine learning courses
+
+▪️ Introduction to Algorithms @eig @UMichCSE
+▪️ Machine Learning @Al_Grigor @DataTalksClub
+▪️ Reinforcement Learning @paulabartabajo_
+
+Details 👇🏼 
+
+![](https://pbs.twimg.com/media/F2R_01qaoAATwJA.jpg) 
+
+![](https://pbs.twimg.com/media/F2R_1GuaAAA2Vs0.png)  ([View Tweet](https://twitter.com/TheTuringPost/status/1685612713979101184))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Introduction to Algorithms @eig, @UMichCSE
+
+The course covers
+
+▪️ Dynamic graph algorithms
+▪️ Divide & Conquer algorithms
+▪️ Hashing
+▪️ Streaming
+& more!
+
+https://t.co/Yzn4djEIei  ([View Tweet](https://twitter.com/TheTuringPost/status/1685612717015793664))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Reinforcement Learning @paulabartabajo_
+
+Starting from the fundamentals to cutting-edge deep reinforcement learning, the course will teach you how to work with RL.
+
+https://t.co/X3e8irF4e7 
+
+![](https://pbs.twimg.com/media/F2R_1i-bEAAG0NE.jpg)  ([View Tweet](https://twitter.com/TheTuringPost/status/1685612723760242688))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Machine Learning @Al_Grigor @DataTalksClub
+
+▪️ Linear Regression
+▪️ Classification
+▪️ Decision Trees and Ensemble Learning
+▪️ Neural Networks and Deep Learning
+▪️ Deploying ML Models
+& more!
+
+https://t.co/bzI52v9KiI 
+
+![](https://pbs.twimg.com/media/F2R_1-AbgAYHIFJ.png)  ([View Tweet](https://twitter.com/TheTuringPost/status/1685612730492014592))
+** #+END_QUOTE

@@ -1,0 +1,19 @@
+#+tags: ssl, letsencrypt, certbot,
+
+* docker pull certbot/dns-cloudflare
+docker pull certbot/dns-cloudflare:latest
+* issue certificates
+#+BEGIN_SRC bash
+sudo certbot certonly \
+  --dns-cloudflare \
+  --dns-cloudflare-credentials ./credentials \
+  --dns-cloudflare-propagation-seconds 60 \
+  --rsa-key-size 2048 \
+  -d 550w.xyz -d '*.550w.xyz' \
+#+END_SRC
+* credentials file
+for 550w.xyz
+#+BEGIN_SRC 
+dns_cloudflare_api_token=aF-JbU7MiaC7-vza9DQKqvDq6Rjio5SR2-f7Q8pv
+#+END_SRC
+*

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: 1_ I’ll Be Attending \#IC... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[JaydeepBorkar on Twitter]]
+:full-title: "1/ I’ll Be Attending \#IC..."
+:category: [[tweets]]
+:url: https://twitter.com/JaydeepBorkar/status/1682515989299077125
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-22]]
+** 📌
+** #+BEGIN_QUOTE
+** 1/ I’ll be attending #ICML & presenting my poster on memorization + unlearning in fine-tuned LLMs on July 29th at the GenLaw workshop (https://t.co/UrUBD8G9yn). 
+
+Please reach out if you’d like to talk memorization, hangout 🌴🍹, or have any advice for a first-timer :) 
+
+![](https://pbs.twimg.com/media/F1l6zGIXwAATKm6.jpg)  ([View Tweet](https://twitter.com/JaydeepBorkar/status/1682515989299077125))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 2/ Paper: https://t.co/AYqyhMHoIw
+
+arxiv: https://t.co/jzHZ6e2scl
+
+The main takeaways are: 1) Unlearning highly vulnerable points from training data can put the remaining points at risk of extraction.  ([View Tweet](https://twitter.com/JaydeepBorkar/status/1682515992482570240))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 3/ 2) Fine-tuned models can still leak the training data memorized during the pre-training phase. We prompt GPT-2 L fine-tuned on WikiText-103 with a few tokens from Common Crawl and it leaked stuff that didn't belong to fine-tuning set (like phone no, URLs, PMID, tracking no)  ([View Tweet](https://twitter.com/JaydeepBorkar/status/1682515994126823424))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 4/ This poster is inspired by and builds on some of the previous works on memorization such as: https://t.co/u7BFMCyZjk and https://t.co/FF52bMvOFg.  ([View Tweet](https://twitter.com/JaydeepBorkar/status/1682515995850670081))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 5/ These are still very preliminary results and I’d love to discuss more at the conference/workshop and get some feedback from both CS and Law folks :)
+
+and super excited to meet old and new friends!!!  ([View Tweet](https://twitter.com/JaydeepBorkar/status/1682515997566148613))
+** #+END_QUOTE

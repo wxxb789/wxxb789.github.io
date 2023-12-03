@@ -1,0 +1,17 @@
+#+tags: elasticsearch
+
+* [[dev/es/concepts]]
+* [[dev/es/Document Metadata]]
+* Create or Update User
+** [[https://www.elastic.co/guide/en/elasticsearch/reference/current/security-api-put-user.html][elastic api]]
+** #+BEGIN_SRC rest
+POST /_security/user/visitor1
+
+{
+  "password" : "NewsFeedsVisitor1+1",
+  "roles" : [ "viewer" ],
+  "full_name" : "visitor1",
+  "email" : "",
+}
+#+END_SRC
+*

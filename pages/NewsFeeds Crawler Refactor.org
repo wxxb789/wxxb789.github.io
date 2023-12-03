@@ -1,0 +1,36 @@
+* Discuss
+
+** Logging
+*** ElasticSearch Schema
+** [[NewsFeeds Crawler Output Schema]]
+
+** Azure Storage
+*** Azure Cosmos Db 
+**** Api Decision
+*** Azure Table Storage
+
+** Azure functions app
+** Refactor universal selector
+*** xpath
+*** jsonpath
+*** css selector
+*** html parser
+** Encoder/Decoder
+*** xml/html
+*** utf-8
+** Add rank field present order
+** Monitor
+*** alert if failed
+** Polly
+#+BEGIN_QUOTE 
+retry policy
+#+END_QUOTE
+
+** Add puppeteer pages object pool
+** Add proxy to puppeteer
+
+* Issue
+
+** One Global Scheduler
+** Hide All Exceptions
+** Remove legacy html parser crawler

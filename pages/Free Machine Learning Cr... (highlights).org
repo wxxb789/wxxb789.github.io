@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: Free Machine Learning Cr... (highlights)
+:author: [[@abacusai on Twitter]]
+:full-title: "Free Machine Learning Cr..."
+:category: #tweets
+:url: https://twitter.com/abacusai/status/1606318746783535105
+:END:
+
+* Highlights first synced by [[Readwise]] [[2022-12-25]]
+** Free machine learning crash course from @BerkeleyML.
+
+Highly recommended for anyone looking to start!
+
+https://t.co/ygHNkWxU9X 
+
+![](https://pbs.twimg.com/media/FkrKYs2UEAE9Yfg.jpg) ([View Tweet](https://twitter.com/abacusai/status/1606318746783535105))

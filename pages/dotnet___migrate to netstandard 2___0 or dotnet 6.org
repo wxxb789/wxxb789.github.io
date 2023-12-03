@@ -1,0 +1,12 @@
+#+title: dotnet/migrate to netstandard 2.0 or dotnet 6
+#+tags: dotnet,
+
+* Pre-requirement
+:LOGBOOK:
+CLOCK: [2022-08-16 Tue 14:12:05]--[2022-08-16 Tue 14:12:05] =>  00:00:00
+:END:
+** LATER
+**
+* Migrate .csproj file to SDK style
+** ~dotnet-migrate-2019 wizard <item>~
+*

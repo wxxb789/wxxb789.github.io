@@ -1,0 +1,24 @@
+#+alias: online judge, online-judge,
+
+* related
+** [[ACM]]
+** [[ACM-ICPC]]
+** [[OI]],NOI
+* #glossary
+** AC
+Accepted
+** PE
+Presentation Error
+Answer is right, but some format error here
+** WA
+Wrong Answer
+** TLE
+Time Limit Exceeded
+** MLE
+Memory Limit Exceeded
+** OLE
+Output Limit Exceeded
+** RE
+Runtime Error
+** CE
+Compile Error

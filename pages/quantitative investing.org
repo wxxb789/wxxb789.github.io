@@ -1,0 +1,13 @@
+#+alias: 量化投资, quant, invest,
+#+tags: investment,
+
+* website
+** 聚宽 [[https://www.joinquant.com/][JoinQuant聚宽量化投研平台]]
+**
+* [[links]], [[quantitative investing]]
+** [[https://github.com/microsoft/qlib][microsoft/qlib: Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib. (github.com)]]
+** [[https://github.com/akfamily/akshare][akfamily/akshare: AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 (github.com)]]
+** [[https://github.com/akfamily/awesome-data][akfamily/awesome-data: Awesome-data shows most interesting data-source around the financial world! (github.com)]]
+** [[https://github.com/refraction-ray/xalpha][refraction-ray/xalpha: 基金投资管理回测引擎 (github.com)]]
+** [[https://xalpha.readthedocs.io/en/latest/][Welcome to xalpha’s documentation! — xalpha documentation]]
+**

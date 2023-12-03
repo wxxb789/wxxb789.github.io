@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: Free MLOps Course. Lear... (highlights)
+:author: [[abacusai on Twitter]]
+:full-title: "Free MLOps Course. Lear..."
+:category: #tweets
+:url: https://twitter.com/abacusai/status/1647253476185976835
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-16]]
+** Free MLOps course.
+
+Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications.
+
+https://t.co/UjEb6JzqmB 
+
+![](https://pbs.twimg.com/media/Ftw4TbqaEAAF9E_.jpg) ([View Tweet](https://twitter.com/abacusai/status/1647253476185976835))

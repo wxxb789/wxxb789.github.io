@@ -1,0 +1,24 @@
+* [[classification]]
+** accuracy
+** precision
+** recall
+** [[F1 score]]
+* #+BEGIN_QUOTE
+True Positive (TP) — a class is predicted true and is true in reality (patients that are sick and diagnosed sick);
+True Negative (TN) — a class is predicted false and is false in reality (patients that are healthy and diagnosed healthy);
+False Positive (FP) — a class is predicted true but is false in reality (patients that are healthy but diagnosed sick); and
+False Negative (FN) — a class is predicted false but is true in reality (patients that are sick but diagnosed healthy).
+#+END_QUOTE
+*
+* [[regression]]
+** [[MSE]] mean squared error
+** [[RMSE]] root mean squared error
+** [[MAE]] mean absolute error
+* links
+** [[https://www.altexsoft.com/blog/machine-learning-metrics/][Key Machine Learning Metrics to Evaluate Model Performance | AltexSoft]]
+** [[https://medium.com/mlearning-ai/key-machine-learning-metrics-explained-27d857e53b1b][Machine Learning Metrics Explained | by Melisa Bardhi | MLearning.ai | Medium]]
+** [[https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce][20 Popular Machine Learning Metrics. Part 1: Classification & Regression Evaluation Metrics | by Shervin Minaee | Towards Data Science]]
+** [[https://towardsdatascience.com/20-popular-machine-learning-metrics-part-2-ranking-statistical-metrics-22c3e5a937b6][20 Popular Machine Learning Metrics. Part 2: Ranking, & Statistical Metrics | by Shervin Minaee | Towards Data Science]]
+** [[https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide][Performance Metrics in Machine Learning [Complete Guide] - neptune.ai]]
+** [[https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/][Evaluation Metrics Machine Learning (analyticsvidhya.com)]]
+** [[https://machine-learning.paperspace.com/wiki/metrics-in-machine-learning][Metrics in Machine Learning - AI Wiki (paperspace.com)]]

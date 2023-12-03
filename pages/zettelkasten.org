@@ -1,0 +1,16 @@
+#+tags: zettelkasten, slip-box, 卡片笔记,
+#+alias: 卡片笔记, zk,
+
+* Basic Notes Structure
+** [[Fleeting Notes]]
+:PROPERTIES:
+:id: 635025b0-6e0e-489a-8f0c-62e468d59c3c
+:END:
+** [[Literature Notes]]
+** [[Permanent Notes]]
+** [[Project Notes]]
+*
+* Notes as a Brain / Mindset
+* references
+** TODO roam research workflow [[https://roambrain.com/academic-workflow/][ACADEMIC WORKFLOW]]
+**

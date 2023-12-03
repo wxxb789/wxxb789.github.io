@@ -1,0 +1,20 @@
+
+
+* [01]FSharp & Visual Studio
+
+* #+BEGIN_QUOTE
+AssemblyInfo.fs—This file sets properties of the assembly and fulfills the same function as AssemblyInfo files in C# or VB projects. It’s not particularly interesting, so let’s leave it for now.
+
+Program.fs—This is the launch point of your application, and is worth looking into in more depth.
+#+END_QUOTE
+* =[<EntryPoint>]=
+* =printfn=
+** %d—int
+** %f—float
+** %b—Boolean
+** %s—string
+** %O—The .ToString() representation of the argument
+** %A—An F# pretty-print representation of the argument that falls back to %O if none exists
+* [[pl/fsharp/FSI]]
+*
+*

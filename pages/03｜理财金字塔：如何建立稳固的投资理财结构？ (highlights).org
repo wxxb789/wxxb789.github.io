@@ -1,0 +1,50 @@
+:PROPERTIES:
+:title: 03｜理财金字塔：如何建立稳固的投资理财结构？ (highlights)
+:author: [[geekbang.org]]
+:full-title: "03｜理财金字塔：如何建立稳固的投资理财结构？"
+:category: #articles
+:url: https://time.geekbang.org/column/article/395874
+:END:
+tags:: #[[gt/程序员的个人财富课]]
+
+* Highlights first synced by [[Readwise]] [[2023-04-08]]
+** 在我的观念中，有两件事情是值得做一辈子的，一是在自己的专业方向上精益求精，二是持续提高自己投资理财的能力。只有这样，我们才能让自己的家庭财富，以及它带来的幸福感最大化。 ([View Highlight](https://read.readwise.io/read/01gxg62phhnsdkzdcw3bqz83n9))
+** 固收类投资标的
+
+股票类投资标的
+
+实物类投资标的
+
+新兴投资标的
+
+固收类投资标的，指的是预期收益率固定，或者波动较小的投资标的。最典型的就是国债、企业债等各类债券。此外，还有一些保险、银行理财产品。它们的特点就是风险相对较小，收益率相对较低但稳定。
+
+股票类投资标的，指的是 A 股、美股、港股等各大证券市场的股票。这是我们普通投资者讨论最多的投资标的，你身边应该也有不少人期望通过“炒股”来实现财富自由，它的特点你肯定也比较清楚了，就是波动大、收益高、风险高。
+
+实物类投资标的，最典型的代表就是房产。买房是我们每个人都绕不开的话题，也是和家庭、人生密切相关的重大投资。所以，房产往往是对我们普通人来说最重要的实物类投资标的。广义来说，实物类投资标的还包括原油、铁矿石等大宗商品，以及黄金白银、艺术收藏等等。这一类投资标的，总体特点是投资金额较大，流动性较差。
+
+最后一类是新兴投资标的。当前最典型的新兴投资标的就是数字货币。由于数字货币这个概念本身就源于技术圈，相关的区块链、GPU 挖矿等话题又是程序员们非常感兴趣的领域，所以数字货币的投资在程序员圈也非常火热。它的特点是未来不确定性强，收益和波动都极大。 ([View Highlight](https://read.readwise.io/read/01gxg64dhh37m66bc98eqnmy10))
+** 在这里，我就介绍一种财富管理行业中非常著名的资产配置方案，永久组合。
+
+“永久组合”是 1973 年由美国专业投资人哈利·布朗提出的。顾名思义，他提出这个组合的初衷就是让投资人只要“永远”保持这个组合比例，就能获得不错的稳定收益。
+
+这个组合非常简单，用一句话就能说清楚它的配置方案，即“25% 美国标普 500 指数基金，25% 的美国十年期国债指数基金，25% 的黄金指数基金，25% 货币基金”。
+
+当然，中国市场的具体投资标的肯定是不同的，把这个方案套用到中国市场就是“25% 沪深 300 指数基金，25% 的五年期中国国债，25% 的黄金指数基金，25% 货币基金”。
+
+![](https://static001.geekbang.org/resource/image/84/28/84c14122a188cdb80a9b029d5b00b028.jpg?wh=2248x1265)
+
+图2 永久组合和配置比例 ([View Highlight](https://read.readwise.io/read/01gxg7a6ctvbfckhtcxstq4n2r))
+** 关于资产配置，我还想提醒你一件重要的事：要时刻关注自己的资产配置是不是平衡。 ([View Highlight](https://read.readwise.io/read/01gxg7byzdagdab8qzxam4pjvf))
+** 站在 2017 年这个时间点上，我们且不论房价未来会怎样，单就这个家庭的资产配置而言，房产的占比显然已经过高了。这样的严重失衡状态，可能会带来两个后果：
+
+单一资产的风险敞口过大。房地产市场的波动将严重影响整个家庭的资产价值。
+
+房产占用了过多的资金，这会导致我丧失其他领域的很多投资机会。我通俗地称其为 miss value。
+
+既然意识到了问题，我们就要去解决，解决办法就是“资产的再平衡”，也就是把你的资产配置从失衡的状态纠正回来。 ([View Highlight](https://read.readwise.io/read/01gxg7cynw04gatc0k0z1s4xe3))
+** 最后在家庭资产平衡上我吃过亏，分享下。在家人投资理财知识薄弱的情况下，一定要慢慢来，以指导，教学为主，不要激进再平衡导致家庭矛盾。比如可以给媳妇开个小账户，慢慢感受。最近在教为啥定投银行和保险，定投就是为啥是不止损而止盈等等知识，并在真是市场上感受。经过两个牛熊，家人都会成为理财高手哈哈 ([View Highlight](https://read.readwise.io/read/01gxg7fkjsreqcy93m2axgt0kv))
+** 房产资产全部算进你的资产里去规划，还贷影响的是你的现金流，也就是财富增量。 ([View Highlight](https://read.readwise.io/read/01gxg7k6qecrm9sdrkh2q9hz1k))
+** 保险属于固收类的一种，具体情况要具体分析，个人不是非常建议买投资类保险产品。 ([View Highlight](https://read.readwise.io/read/01gxg7kgy1t1v0b5asapvedxg5))
+** ![](https://static001.geekbang.org/resource/image/56/a1/56a60ecc596f401f08d56be7b68baaa1.jpg?wh=2248x1305) ([View Highlight](https://read.readwise.io/read/01gxg65033wypf9yabvta824fy))
+** 货币基金几乎可以当作一个活期利率比较高的现金储蓄 ([View Highlight](https://read.readwise.io/read/01gxg7mw3xpsne0975r6pzqf3s))

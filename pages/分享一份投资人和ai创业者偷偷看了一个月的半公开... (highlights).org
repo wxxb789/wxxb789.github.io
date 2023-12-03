@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: 分享一份投资人和ai创业者偷偷看了一个月的半公开... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Danielw19410 on Twitter]]
+:full-title: "分享一份投资人和ai创业者偷偷看了一个月的半公开..."
+:category: [[tweets]]
+:url: https://twitter.com/Danielw19410/status/1714953161314808062
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-20]]
+** 📌
+** #+BEGIN_QUOTE
+** 分享一份投资人和AI创业者偷偷看了一个月的半公开数据文档。
+文档链接：https://t.co/GtzlQy1ZBc
+文档内部的产品非常齐全，基本国内、出海、全球各类榜单都有涉及，而且还有细分类目，同样的数据看板基本都是收费几十美金一个月。
+我下面聊聊我怎么用这个榜单的。  ([View Tweet](https://twitter.com/Danielw19410/status/1714953161314808062))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 这个文档我目前有几个用途：
+1.发现大热的新产品调研
+如何调研？
+这个表单我最看重访问量和使用时长及其变化，因为前者代表热度和“泛粉”的数量，后者代表精准度和粘性。
+比如ChatGPT的7分钟就是一个“金线”。超过7分钟的bot类产品每超过一分钟都值得注意。 
+
+![](https://pbs.twimg.com/media/F8y7IxAa8AACAcv.png)  ([View Tweet](https://twitter.com/Danielw19410/status/1714953163697242181))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 2.发现主流的垂直产品自用（比如绘画或者文章生成需求）
+比如这个视频生成领域，很明显“数字人”的heygen在8月份发布那个震惊的演示之后就火炸了，很多视频的评论区完全看不出是数字人带货，这个实用价值就很高而且不贵。 
+
+![](https://pbs.twimg.com/media/F8y8SVEbMAAUmBX.png)  ([View Tweet](https://twitter.com/Danielw19410/status/1714953166427701732))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 当然要是反馈好我可以再写一期怎么用这个文档，欢迎欢迎点赞本条Thread,并且：
+1.关注我@Danielw19410发现更多有料内容。
+2.转发（Retweet ）推文分享给他人。
+3.你有哪些有料的资料欢迎在评论区交流。  ([View Tweet](https://twitter.com/Danielw19410/status/1714953169174945831))
+** #+END_QUOTE

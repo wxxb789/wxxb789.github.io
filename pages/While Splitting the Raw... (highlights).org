@@ -1,0 +1,109 @@
+:PROPERTIES:
+:title: While Splitting the Raw... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[clusteredbytes on Twitter]]
+:full-title: "While Splitting the Raw..."
+:category: [[tweets]]
+:url: https://twitter.com/clusteredbytes/status/1691143792831639556
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-15]]
+** 📌
+** #+BEGIN_QUOTE
+** While splitting the raw text for Retrieval Augmented Generation (RAG), what should be the ideal length of each chunk? What’s the sweet spot?
+
+Strike a balance between small vs large chunks using @LangChainAI ParentDocumentRetriever
+
+Let's see how to use it 👇🧵 
+
+![](https://pbs.twimg.com/media/F3gmULRXAAAFAls.jpg)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143792831639556))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** The issue:
+
+\- smaller chunks reflect more accurate semantic meaning after creating embedding
+
+- but they sometimes might lose the bigger picture and might sound out of context, making it difficult for the LLM to properly answer user's query with limited context per chunk.  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143800809205771))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @LangChainAI  ParentDocumentRetriever addresses this issue by creating embedding from the  smaller chunks only as they capture better semantic meaning.
+
+But while plugging into the LLM input, it uses the larger chunks with better context.  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143802814423040))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Let’s walk through the example code from LangChain’s website on ParentDocumentRetriever 🧑‍💻 👇  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143805268086784))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** We're gonna need two splitters instead of one.
+
+\- One for creating the larger chunks
+
+- Another one for creating the smaller chunks 
+
+![](https://pbs.twimg.com/media/F3gmVVRWMAIjkiW.png)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143810426773504))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Storing the chunks
+
+\- As we're creating embedding for the small chunks only, we'll use a vectorstore to store those.
+
+- Whereas the larger chunks are stored in an InMemoryStore, a KEY-VALUE pair data structure, that stays in the memory while the program is running. 
+
+![](https://pbs.twimg.com/media/F3gmVpXWMAkACGk.png)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143816261021697))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Create the ParentDocumentRetriever object
+
+We pass the vectorstore, docstore, parent and child splitters to the Constructor. 
+
+![](https://pbs.twimg.com/media/F3gmWDyWMAc1qBa.jpg)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143823257120772))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Adding the documents using retriever.add_documents() method 
+
+![](https://pbs.twimg.com/media/F3gmWZXWMGAXmCZ.jpg)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143829574057984))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** After adding, we can see there are 66 keys in the store. That means 66 large chunks have been added.
+
+Also, if we apply similarity search on the vectorstore itself, we’ll get the small chunks only. 
+
+![](https://pbs.twimg.com/media/F3gmXEEWAAEz8L7.jpg)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143840361492489))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Now let's use the retriever for retrieving relevant documents using retriever.get_relevant_documents() method 
+
+![](https://pbs.twimg.com/media/F3gmXYaWMAsiKVq.jpg)  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143846267072518))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Thus we use small chunks (with better semantic meaning) for vector similarity matching and return their corresponding larger chunks that have the bigger picture and more context.  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143849333108743))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Hopefully the ParentDocumentRetriever will help you to retrieve better relevant documents while using LangChain for Retrieval Augmented Generation (RAG).  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143855377137664))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Detailed blog post on ParentDocumentRetriever with more explanation and code snippets
+https://t.co/26eIF2nYWa  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143857088454656))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Thanks for reading.
+
+I write about AI, ChatGPT, LangChain etc. and try to make complex topics as easy as possible. 
+
+Stay tuned for more ! 🔥 #ChatGPT #LangChain https://t.co/qzXONWESnr  ([View Tweet](https://twitter.com/clusteredbytes/status/1691143858845790225))
+** #+END_QUOTE

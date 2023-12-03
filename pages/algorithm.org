@@ -1,0 +1,11 @@
+#+alias: algo, algorithm,
+
+* [[algo/算法分类]]
+* [[algo/ml]]
+* [[algo/dp]]
+*
+* resources
+** [[https://space.bilibili.com/525438321][~代码随想录的个人空间_哔哩哔哩_bilibili~]]
+** [[https://space.bilibili.com/236935093][~liweiwei1419的个人空间_哔哩哔哩_bilibili~]]
+**
+*

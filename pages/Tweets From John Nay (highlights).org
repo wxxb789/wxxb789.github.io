@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: Tweets From John Nay (highlights)
+:author: [[johnjnay on Twitter]]
+:full-title: "Tweets From John Nay"
+:category: [[tweets]]
+:url: https://twitter.com/johnjnay
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-19]]
+** LLM Agents Can Autonomously Improve in Negotiation from AI Criticism
+
+-2 LLMs negotiate as buyer/seller bargain
+-3rd LLM provides feedback to improve negotiation strategies
+
+-Previous negotiation history + AI feedback for in-context learning improves perf
+
+https://t.co/VYeo0ifuYF 
+
+![](https://pbs.twimg.com/media/FwYExzhXsAEDKjE.jpg) ([View Tweet](https://twitter.com/johnjnay/status/1659020056120946688))

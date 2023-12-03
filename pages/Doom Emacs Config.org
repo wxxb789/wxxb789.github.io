@@ -1,0 +1,12 @@
+#+tags: emacs, doomemacs,
+
+* auto-save
+* org-roam template
+* auto-sync obsidian with org-roam
+* quick switch treemacs workspace
+* treemacs bookmark, quick jump
+* emacs manage buffers, better than ibuffer
+* emacs function first, shortcut later
+* organize notes
+** move block/headline to new/exist note.
+* setup and learn evil plugins

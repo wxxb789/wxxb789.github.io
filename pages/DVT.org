@@ -1,0 +1,7 @@
+#+tags: whatis, glossary,
+
+* DVTs (development verification testing): A set or subset of build verification test cases that exercise core functionality of the target product or component.
+* [[https://microsoft.sharepoint.com/:p:/r/teams/productivityintelligence/Shared%20Documents/Microsoft%20Graph%20Data%20Connect/Brownbag/DVT_Validation_Service_Brownbag.pptx?d=w23eb40328fe24917a64417130a62e1f2&csf=1&web=1&e=egG1en][~DVT_Validation_Service_Brownbag.pptx~]]
+* [[https://microsoft.sharepoint.com/sites/knowledgecenter/_layouts/15/TopicPagePreview.aspx?topicId=AL_Q6OZgARwXAs6PmR4QxlBAg&topicName=Deployment%20Verification%20Test&lang=en&ls=Ans_Office][Deployment Verification Test (sharepoint.com)]]
+*
+*

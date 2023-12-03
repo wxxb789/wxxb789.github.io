@@ -1,0 +1,74 @@
+
+
+* 二级缓存
+
+* 开启二级缓存
+
+
+1. 全局总开关
+
+   1. 在MyBatis的总体配置文件中(mybatis-config.xml)
+
+   #+begin_example
+     <settings>
+         <setting name="cacheEnabled" value="true"/>
+     </settings>
+   #+end_example
+
+   2. 默认是开启状态.
+
+2. Mapper分开关
+
+   1. 在Mapper的xml配置文件中，需要明确的在mapper标签下使用cache子标签，并且位置居于首位；
+   2. 默认情况下，cache子标签使用的是MyBatis框架实现二级缓存的类(PerpetualCache)
+
+      1. 可以通过type属性指明第三方的缓存机制(例：EhCache)
+
+      #+begin_example
+          <catch type="org.mybatis.caches.ehcache.EhcacheCache"/>
+      #+end_example
+
+3. JavaBean必须序列化
+* 二级缓存中的一些重要概念
+
+
+1. MyBatis框架通过定义一个二级缓存的接口Cache，并给出了自己的实现类
+
+   1. org.apache.ibatis.cache.impl.PerpetualCache
+
+2. 二级缓存的原理是对象的序列化(写入时)和反序列化(读取时)，因此要求JavaBean必须实现Serializable接口.
+3. cache标签可以定制二级缓存，属性如下
+
+   1. type：用于指定缓存的实现类型， 默认是PERPETUAL，对应的是
+      MyBatis框架自身的缓存实现类 ，也可以指定第三方实现类；
+   2. eviction：回收策略， 默认为（LRU）
+
+      1. LRU：最近/最少使用，移除最长时间不被使用的对象；
+      2. FIFO：先进先出，按对象进入缓存的顺序来移除对象；
+      3. SOFT：软引用，移除基于垃圾回收器状态和软引用规则的对象；
+      4. WEAK：弱引用，移除基于垃圾回收器状态和弱引用规则的对象.
+
+   3. flushInterval：自动刷新间隔，单位毫秒；如果不设置(默认)代表没有自动刷新间隔，
+      缓存仅仅在刷新语句时刷新.
+   4. size：缓存对象的数量，默认为 1024.
+   5. readOnly：只读属性，默认为
+      false，表示可读写；如果设置为true，表明缓存是只读的而不能实现对象的修改.
+   6. blocking：代表是否阻塞，默认值为 false；当指定为 true时，将采用
+      BlockingCache进行封装。
+
+4. 二级缓存以Mapper为单位
+
+   1. 二级缓存可以在不同的SqlSession之间共享数据，但是不能跨越Mapper.
+   2. 每个独立的mapper对象只能使用自己名称空间下的二级缓存.
+* 二级缓存的局限性
+
+
+1. 由于更新时，会刷新二级缓存，因此二级缓存适合
+
+   1. 查询频率很高、使用insert，update，delete几率很小的情况下
+
+2. 二级缓存只适合于单表操作，在多表操作中是不安全的
+
+   1. 因为二级缓存是以mapper为单位的，而多表查询需要跨mapper操作；
+
+      1. 例：mapper1已经修改了对象ob（改），而对象ob（名）是mapper2在其关联查询中曾经使用过的对象ob（原），但mapper2使用的还是陈旧的缓存数据

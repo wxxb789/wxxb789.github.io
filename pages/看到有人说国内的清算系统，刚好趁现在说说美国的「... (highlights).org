@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 看到有人说国内的清算系统，刚好趁现在说说美国的「... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[FledgeXu on Twitter]]
+:full-title: "看到有人说国内的清算系统，刚好趁现在说说美国的「..."
+:category: [[tweets]]
+:url: https://twitter.com/FledgeXu/status/1726477473632956716
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-20]]
+** 📌
+** #+BEGIN_QUOTE
+** 看到有人说国内的清算系统，刚好趁现在说说美国的「清算系统」。
+这里的「清算系统」用引号是因为，在美国「银联」对于的清算服务其实有三个或者说四个不同的层级来组成。
+当然这件事有趣的地方是，中美之间用完全不同的方式实现了同样的目标。  ([View Tweet](https://twitter.com/FledgeXu/status/1726477473632956716))
+** #+END_QUOTE

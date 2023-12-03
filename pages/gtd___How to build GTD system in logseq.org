@@ -1,0 +1,7 @@
+*
+* TODO setup a routine list template for journal pages
+** sth like reading 30 mins everyday to build my habits
+** check list
+*** email
+*** schedule
+*** read it later

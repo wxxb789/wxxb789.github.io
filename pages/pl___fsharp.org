@@ -1,0 +1,17 @@
+#+alias: fsharp,
+
+* [[Fsharp Jumpstart]]
+* [[pl/fsharp/Concepts]]
+* [[https://fsharp.org/learn/][Learning F# | The F# Software Foundation (fsharp.org)]]
+*
+* Advanced Topic in fsharp
+** Exception Handling
+** Resource management
+** Casting
+** Active pattern
+** Computation expressions
+** Code quotations
+** Units of measure
+** Lazy computations
+** Recursion
+** Type provider

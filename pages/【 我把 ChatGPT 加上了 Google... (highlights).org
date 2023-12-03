@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: 【 我把 ChatGPT 加上了 Google... (highlights)
+:author: [[circleghost0723 on Twitter]]
+:full-title: "【 我把 ChatGPT 加上了 Google..."
+:category: [[tweets]]
+:url: https://twitter.com/circleghost0723/status/1661040347181613058
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-24]]
+** 【 我把 ChatGPT 加上了 Google 瀏覽的功能！！！】
+
+一開始我原本是要介紹 Perfect 這個 Plugin，它能將人們輸入的 Prompt 補充足夠的脈絡及背景資訊，讓回應結果變的更好。
+
+然後我發現 Perfect + WebPilot(讀取網址用的 Plugin)太厲害，我可以只用一句話：『perfect 給我過去一天內3則重要的 AI… 
+
+![](https://pbs.twimg.com/media/Fw0zXVLaQAIdHOj.jpg) ([View Tweet](https://twitter.com/circleghost0723/status/1661040347181613058))
+** 用 perfect 來優化 prompt 
+
+![](https://pbs.twimg.com/media/Fw0zdGCaUAE3jEn.jpg) ([View Tweet](https://twitter.com/circleghost0723/status/1661040498935762944))
+** 未指定搜尋資源時，WebPilot不一定會上Google搜尋
+但某些時候它找來的資源是不錯的，因此這一步也能找自己覺得不錯的資訊來源，然後請 ChatGPT 從裡面找新聞 
+
+![](https://pbs.twimg.com/media/Fw0znX5aQAIENCg.jpg) ([View Tweet](https://twitter.com/circleghost0723/status/1661040686945423361))

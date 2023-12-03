@@ -1,0 +1,15 @@
+* 尴尬并行
+** [[Fork Join 模式]]
+** 并行聚合
+** MapReduce
+**
+* csharp
+** 循环
+1. 迭代没有依赖关系
+2. 聚合归约操作使用 =MapReduce= 处理
+3. 显示依赖关系使用 =Fork/Join=模式
+*** =Parallel.For=
+*** =Parallel.ForEach=
+*** =PLINQ=
+*
+*

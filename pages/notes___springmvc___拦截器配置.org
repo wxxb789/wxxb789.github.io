@@ -1,0 +1,39 @@
+
+
+* 拦截器配置
+
+
+1. SpringMVC框架的拦截器和处理器的调用关系采用了责任链模式
+
+   1. 在SpringMVC框架的内部有一个HandlerExecutionChain对象，由它负责创建符合责任模式的调用链式结构；
+   2. 调用链式结构的特点
+
+      1. 可以有多个拦截器，但只能有一个处理器；
+      2. 处理器位于链式结构的最后一环；
+      3. 当请求处理器执行时，先执行拦截器pre方法，如返回值为true，再执行处理器，最后还可以执行拦截器的post方法和after方法；
+
+2. springmvc-config.xml中配置和注册拦截器
+
+#+begin_example
+      <!-- 配置拦截器 -->
+      <mvc:interceptors>
+          <!-- 配置拦截器1 -->
+          <mvc:interceptor>
+              <mvc:mapping path="/handler/**" />
+              <!-- 注册拦截器 -->
+              <bean class="interceptor.FirstInterceptor" />
+          </mvc:interceptor>
+
+          <!-- 配置拦截器2 -->
+          <mvc:interceptor>
+              <mvc:mapping path="/handler/**" />
+              <bean class="interceptor.SecondInterceptor" />
+          </mvc:interceptor>
+      </mvc:interceptors>
+#+end_example
+
+3. path属性值
+
+   1. /handler/**：只适用于以/handler/开头的请求
+   2. /*/handler/**：在这个名称的前面加其他的一个名称时
+   3. =/**/handler/**=：前面有多个名称

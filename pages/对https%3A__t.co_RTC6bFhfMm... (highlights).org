@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: 对https:__t.co_RTC6bFhfMm... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[goldengrape on Twitter]]
+:full-title: "对https://t.co/RTC6bFhfMm..."
+:category: [[tweets]]
+:url: https://twitter.com/goldengrape/status/1684021933237755904
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-26]]
+** 📌
+** #+BEGIN_QUOTE
+** 对https://t.co/RTC6bFhfMm说：
+请参考ChatGPT（你的竞争对手）所整理和重写的笔记:
+{ChatGPT的整理内容}
+结合你自己重写的笔记与ChatGPT重写的笔记，请为我再写一个更好更详细的笔记，不小于1000字，我相信你会比ChatGPT做得更好
+
+#人类在挑事儿上的本领是天生的  ([View Tweet](https://twitter.com/goldengrape/status/1684021933237755904))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 现在复制了Claude的答案给ChatGPT  ([View Tweet](https://twitter.com/goldengrape/status/1684028840576958466))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 这是你的竞争对手https://t.co/RTC6bFhfMm根据我提供的原始记录整理改写后的笔记。我觉得他写得比你写得要更有条理，更细致，更详细。 你能重写一份新的，写得比他更好么？你不需要使用noteable笔记本，直接输出即可，内容不应少于1500字。
+
+#AI卷起来  ([View Tweet](https://twitter.com/goldengrape/status/1684068979810377728))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 我让ChatGPT（你的竞争对手）重新写了一遍，这次的水平高了很多。你能从中受到启发写出一篇文笔更优雅，逻辑更清晰，比它写得更好的新版本么？内容不应少于2000字。
+#AI卷起来  ([View Tweet](https://twitter.com/goldengrape/status/1684068980984786945))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 以下是Claude看到你的作品后又努力写出的一篇。我觉得它的文字有些浮夸了，我希望得到一篇文风朴实，文笔优雅，逻辑清晰，说服有力的好文章，你有信心写得比它更好么？据说Claude的水平已经快要超过GPT4了。希望你能够加油，写出一篇不少于2500字的新文章。 
+
+#AI卷起来  ([View Tweet](https://twitter.com/goldengrape/status/1684070638087213056))
+** #+END_QUOTE

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: GPT Implemented in NumPy... (highlights)
+:author: [[itsafiz on Twitter]]\
+:full-title: "GPT Implemented in NumPy..."\
+:category: #tweets\
+:url: https://twitter.com/itsafiz/status/1628384403700477952\
+:END:\
+
+* Highlights first synced by [[Readwise]] [[2023-02-22]]
+** GPT implemented in NumPy in 60 lines of Python code.
+
+A Thread 🧵👇 
+
+![](https://pbs.twimg.com/media/Fpksk8uaYAEAqTm.jpg) ([View Tweet](https://twitter.com/itsafiz/status/1628384403700477952))
+** Find the full source code along with other information about the GPT implementation in NumPy👇
+
+https://t.co/kQXqrddXoV ([View Tweet](https://twitter.com/itsafiz/status/1628384409199198209))
+** Thanks to @akshay_pachaar for introducing picoGPT to me. ([View Tweet](https://twitter.com/itsafiz/status/1628384411531239425))
+** I hope you like this content!
+
+I create content around Python, NLP and ML. 
+
+Follow me at @itsafiz, if you don't want to miss anything. 
+
+RT 🔁 and Like ❤️ the first tweet for better reach! 
+
+Cheers 🎉
+
+https://t.co/p0Z0KT0PsE ([View Tweet](https://twitter.com/itsafiz/status/1628384562886893575))

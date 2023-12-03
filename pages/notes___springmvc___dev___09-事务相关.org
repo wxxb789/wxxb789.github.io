@@ -1,0 +1,23 @@
+
+
+* 事务相关
+
+** 1. 事务的传播行为配置
+
+| @Transactional(propagation=Propagation_ ) | 当前存在事务                           | 当前没有事务               |
+|-------------------------------------------+----------------------------------------+----------------------------|
+| propagation=Propagation_REQUIRED          | 加入                                   | 创建新事物                 |
+| propagation=Propagation_REQUIRES_NEW      | 挂起，创建新事务                       | 创建新事物                 |
+| propagation=Propagation_SUPPORTS          | 加入                                   | 以非事务方式运行           |
+| propagation=Propagation_NOT_SUPPORTED     | 挂起，以非事务方式运行                 | 以非事务方式运行           |
+| propagation=Propagation_NEVER             | 抛出异常，以非事务方式运行             | 以非事务方式运行           |
+| propagation=Propagation_MANDATORY         | 加入                                   | 抛出异常                   |
+| propagation=Propagation_NESTED            | 创建新事务作为当前事务的嵌套事务来运行 | 等价于Propagation_REQUIRED |
+** 2. 事务隔离级别
+
+
+1. TransactionDefinition.ISOLATION_DEFAULT：这是默认值，表示使用底层数据库的默认隔离级别。对大部分数据库而言，通常这值就是TransactionDefinition.ISOLATION_READ_COMMITTED。
+2. TransactionDefinition.ISOLATION_READ_UNCOMMITTED：该隔离级别表示一个事务可以读取另一个事务修改但还没有提交的数据。该级别不能防止脏读，不可重复读和幻读，因此很少使用该隔离级别。比如PostgreSQL实际上并没有此级别。
+3. TransactionDefinition.ISOLATION_READ_COMMITTED：该隔离级别表示一个事务只能读取另一个事务已经提交的数据。该级别可以防止脏读，这也是大多数情况下的推荐值。
+4. TransactionDefinition.ISOLATION_REPEATABLE_READ：该隔离级别表示一个事务在整个过程中可以多次重复执行某个查询，并且每次返回的记录都相同。该级别可以防止脏读和不可重复读。
+5. TransactionDefinition.ISOLATION_SERIALIZABLE：所有的事务依次逐个执行，这样事务之间就完全不可能产生干扰，也就是说，该级别可以防止脏读、不可重复读以及幻读。但是这将严重影响程序的性能。通常情况下也不会用到该级别。

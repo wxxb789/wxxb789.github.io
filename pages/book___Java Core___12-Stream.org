@@ -1,0 +1,188 @@
+* 12-Stream
+
+"Stream 是要说明要做什么，而不是如何做"
+
+* 从迭代到Stream
+
+** 1. Stream 与集合的不同
+
+
+- Stream 并不存储元素。（元素可以来自集合或是按需生成）
+- Stream 不会修改原数据，通常是生成一个新的 Stream
+- Stream 尽可能惰性执行（按需运行，得以实现操作无限 Stream）
+
+#+begin_src java
+  // 产生一个Stream，其中包含满足p的所有元素
+  Stream<T> filter(Predicate<? super T> p)
+  // 产生当前Stream中的元素数量。这是一个终止操作
+  long count()
+  // 产生当前集合中所有元素的顺序Steram或并行Stream
+  default Stream<E> stream()
+  default Stream<E> parallelStream()
+#+end_src
+
+* Stream 的创建
+
+** 1. 两种创建无限Stream的方法
+
+
+- =static <T> Stream<T> generate(Supplier<T> s)=
+- =static <T> Stream<T> iterate(T seed,UnaryOperator<T> f)=
+
+#+begin_src java
+  // java.util.stream.Stream
+  // 创建一个元素为给定值的Stream
+  static <T> Stream<T> of(T.. values)
+
+  // 创建一个空的Stream
+  static <T> Stream<T> empty()
+
+  // java.util.Arrays
+  // 创建Stream，元素由数组中指定范围内的元素构成
+  static <T> Stream<T> stream(T[] array,int startInclusive,int endExclusive)
+
+  // java.util.regex.pattern
+  // 创建一个Stream，元素由输入中由该模式界定的部分
+  Stream<String> splitAsStream(CharSequence input)
+
+  // java.nio.file.Files
+  // 创建一个Stream，元素由指定文件中的行（字符集为utf-8，或指定字符集）
+  static Stream<String> lines(Path path)
+  static stream<String> lines(Path path, Charset cs)
+
+  // java.util.function.Supplier<T>
+  // 提供一个值
+  T get()
+#+end_src
+
+* filter,map,flatMap
+
+Stream 的转换会产生一个新的 Stream，它的元素派生自另一个Stream的元素。
+
+#+begin_src java
+  // java.util.stream.Stream
+  // 产生一个Stream，包含当前Stream中所有满足条件的元素
+  Stream<T> filter(Predicate<? super T> predicate)
+
+  // 产生一个Stream，包含将mapper应用与当前Stream中所有元素所产生的结果
+  <R> Stream<R> map(Function<? superT, ? extends R> mapper)
+
+  // 产生一个Stream，通过将mapper应用与当前流中所有的元素所产生的结果连接到一起而获得的。
+  <R> Stream<R> flatMfap(Function<? super T, ? extends Stream<? extends R>> mapper)
+#+end_src
+
+* 抽取子流和连接流
+
+"Stream 的裁剪，去除，拼接"
+
+#+begin_src java
+  // 产生一个Stream，包含了当前Stream最初的maxSize个元素
+  Stream<T> limit(long maxSize)
+  // 产生一个Stream，包含了当前Stream，但除去了前n个元素
+  Stream<T> skip(long n)
+  // 产生一个Stream，由a和b拼接得到
+  static <T> Stream<T> concat(Stream<? extends T> a, Stream<? extends T> b )
+#+end_src
+
+* 流转换
+
+#+begin_src java
+  // 产生一个Stream，包含当前Stream中所有不同的元素
+  Stream<T> distinct()
+  // 产生一个Stream，根据Comparator或Comparable得到有序Stream
+  Stream<T> sorted()
+  Stream<T> sorted(Comparator<? super T> comparator)
+  // 产生一个Stream，与当前Stream的元素相同，在获取每个元素的时候会传递给action
+  Stream<T> peek(Consumer<? super T> action)
+#+end_src
+
+* Optional 类型
+
+=Optional<T>=是一种包装器对象，要么包装了类型=T=的对象，要么没有包装任何对象。
+
+#+begin_src java
+  // java.util.Optional 的常用方法
+  // 返回这个Optional的值，或者在该Optional为空时返回other
+  T orElse(T other)
+  // 返回这个Optional的值，或者在该Optional为空的时候，返回调用other的结果
+  T orEleseGet(Supplier<? extends T> other)
+  // 返回这个Optional的值，或者在盖Optional为空的时候，抛出调用execeptionSupplier的结果
+  <X extends Throwable> T orElseThrow(Supplier<? extends X> exceptionSupplier)
+  // 如果该Optional不为空，那么就将它的值传递给consumer
+  void ifPresent(Consumer<? super T> consumer)
+  // 传递当前Optional给mapper并产生一个Optional作为结果返回，如果当前Optioanl不为空且结果不为null，否则返回一个空Optional
+  <U> Optional<U> map(Function<? super T,? extends U> mapper)
+
+  // 返回当前Optional的值，或者在Optional为空的时候抛出NoSuchElementException对象
+  T get()
+  // 如果当前Optional不为空，返回true
+  boolean isPresent()
+#+end_src
+
+** 1. 策略
+
+
+1. 在没由任何匹配时，使用某种默认值（返回值，或作为参数传递给方法）
+
+** 2. 不适合使用Optional值的方式
+
+直接使用Optioanl的=get()=与=isPresent()=并不比=val != null=更优秀。
+
+#+begin_src java
+  // 安全做法
+  if( optionalValue.isPresent() ) { optionalValue.get().someMethod();}
+  if( value != null ) { value.someMothed(); }
+#+end_src
+
+** 3. 创建Optional
+
+#+begin_src java
+  // java.util.Optional
+  // 返回一个给定值的Optioanl<T>，如果value为null，of(value)抛出一个NullPointerException对象，ofNullable(value)会产生一个空的Optional
+  static <T> Optional<T> of(T value)
+  static <T> Optioanl<T> ofNullable(T value)
+
+  // 返回一个空的Optional
+  static <T> Optional<T> empty()
+#+end_src
+
+** 4. 用=flatmap=构建Optioanl值的函数
+
+* 收集
+
+** 1. 收集结果
+
+** 2. 收集结果到映射表中
+
+* 群组和分区
+
+* 下游收集器
+
+* 约简操作
+
+=约简=是一种终结操作（=terminal operation=）：可以将Stream约简为可以在程序中使用的非Stream值。
+
+** 1. 简单约简
+
+常见约简：
+
+#+begin_src java
+  // 产生当前Stream中的元素数量。这是一个终止操作
+  long count()
+  // 产生最大值，最小值，使用给定的Comparator，若Stream为空，则返回空的Optional对象
+  Optional<T> max(Comparator <? super T> comparator)
+  Optional<T> min(Comparator <? super T> comparator)
+  // 产生这个Stream的第一个元素或任意一个元素，如果为空，则产生一个空的Optional
+  Optional<T> findFirst()
+  Optional<T> findAny()
+
+  // 全匹配到，任一匹配到，全没有匹配到，常配合filter()使用
+  boolean anyMatch(Predicate<? super T> predicate)
+  boolean allMatch(Predicate<? super T> predicate)
+  boolean noneMatch(Predicate<? super T> predicate)
+#+end_src
+
+* 基本类型Stream
+
+* 并行Stream
+

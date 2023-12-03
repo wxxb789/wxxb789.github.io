@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: Released Version 3.0.0 O... (highlights)
+:author: [[@KStrubeG on Twitter]]
+:full-title: "Released Version 3.0.0 O..."
+:category: #tweets
+:url: https://twitter.com/KStrubeG/status/1613427247704072193
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-17]]
+** Released version 3.0.0 of my File System Access API Blazor wrapper. This was a really nice update. No new features and 516 deleted lines of code by using Blazor.FileSystem.
+Mapping out my future plans for Blazor projects.
+🧵(1/11)
+#dotnet #blazor #csharp
+https://t.co/9BGol77RsW 
+
+![](https://pbs.twimg.com/media/FmQKRHWWYAQcxm_.jpg) ([View Tweet](https://twitter.com/KStrubeG/status/1613427247704072193))
+** The map above is a dependency map of existing projects and planned ones. If a project is connected with a line to a project above it, it means it depends on it. Black/white boxes and lines are existing projects/dependencies and yellow are planned projects/dependencies.
+🧵(2/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427250623291392))
+** The FileSystemHandles that were previously part of the File System Access API moved their home to be in the new File System API specs. The File System API has a much broader adoption across browsers. So we can even use this on smartphones, which is cool.
+🧵(3/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427252842184704))
+** The File System API defines a new Synchronous Access Handle which I haven't implemented yet since it can only be used in the context of a Dedicated Worker. But my Blazor.ServiceWorker project works with a dedicated worker so using it in this context will be applicable.
+🧵(4/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427255115669508))
+** We have not implemented all parts of the File System Access API as I have mentioned before. We are missing the extensions to DataTransferItem. So I plan to create a wrapper for the Drag & Drop API so that I can extend that.
+🧵(5/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427257455874048))
+** Blazor.DragAndDrop will focus on making a counterpart to the existing DragEvent from the Blazor standard library which will be more extendable and open to interop. I will also create some razor components for ease of use as a part of this project.
+🧵(6/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427259544666113))
+** The Drag & Drop API uses the File API for which I can use Blazor.FileAPI. Apart from that the DragEvent extends some types from the UI Event specs, so I also plan to wrap that partially. I don't want to cover all of it as some of it is already covered well in Blazor.
+🧵(7/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427261809782786))
+** But we are not stopping here. The UIEvent type from the UI Event specs extends the more general Event defined in the DOM specs. The DOM Event specifies common methods that most have used like preventDefault and stopPropagation().
+🧵(8/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427264171180032))
+** A happy side effect is that my Blazor.Streams project which wraps the Streams API also uses a type from the DOM specs which is AbortSignal. So we will create a wrapper class for AbortSignal as well. We will potentially wrap up other parts of the DOM API in the future.
+🧵(9/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427266339364866))
+** And I haven't covered all yet on the map! I'm thinking that I will also take up some of my device sensor projects again. These likewise use the DOM Event type a lot.
+🧵(10/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427268533080068))
+** It is nice to have projects that rely on each other in a big hierarchy as I then naturally get hands-on experience but also because of the general experience with managing packages and dependencies.
+A fun side note: The map was made in my Blazor SVG Editor. 😁
+🧵(11/11) ([View Tweet](https://twitter.com/KStrubeG/status/1613427270777176065))

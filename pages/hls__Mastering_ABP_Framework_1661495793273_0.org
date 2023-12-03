@@ -1,0 +1,244 @@
+#+file-path: ../assets/Mastering_ABP_Framework_1661495793273_0.pdf
+#+file: [[../assets/Mastering_ABP_Framework_1661495793273_0.pdf][Mastering_ABP_Framework_1661495793273_0.pdf]]
+#+title: hls__Mastering_ABP_Framework_1661495793273_0
+
+* Command and Query Responsibility Segregation (CQRS), Domain-Driven Design(DDD), Layered Architecture, and Clean Architecture 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 63086aa2-a2db-4a04-b635-725a44efd7df
+:END:
+* The second challenge of modularity is dealing with how these isolated modules communicate and become a single, unified application at runtime. ABP offers concrete models for common requirements of a modular system, such as sharing a database among modules, communicating between the modules via events or API calls, and installing a module in an application.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 63086e6a-74a9-4b30-a757-639033a9f259
+:END:
+* ABP Framework simplifies exception handling, validation, authorization, caching, audit logging, and database transaction management by automating them by conventions and allowing you to fine-control when you need to. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 63087101-181d-4412-930a-28e0c2df07c3
+:END:
+* ABP is well integrated with IdentityServer for cookie and token-based authentication, as well as single-sign-on. It also provides a detailed, permission-based authorization system to help you control the privileges of the users and clients of the application.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 63087120-74a2-49ea-9a5b-ca820d3b77c1
+:END:
+* Besides the basics, background jobs, BLOB storage, text templating, audit logging, and localization components provide built-in solutions for common business requirements.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 63087129-42c7-4c9c-ae63-d8c70bc0529d
+:END:
+* Finally, the Tiered option can be checked if you want to separate your UI application from the HTTP API physically. In this case, the UI application won't have a direct database connection and perform all operations through the HTTP API. You can deploy the UI and HTTP API applications to separate servers. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 6308718a-4bfa-4889-ba6e-271241954065
+:END:
+* Category is a class is derived from AuditedAggregateRoot<Guid>. Here, Guid is the primary key (Id) type of the entity. You can use any type of primary key (such as int, long, or string) as long as your database management system supports it.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 6308ae5f-62d4-477f-a78d-e80365d24c70
+:END:
+* AggregateRoot is a special type of entity that is used to create the root entity type of an aggregate. An aggregate is a Domain-Driven Design (DDD) concept that we will discuss in greater detail in the upcoming chapters. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 6308ae73-fe80-4923-ac51-daeefd8fe467
+:END:
+* FullAuditedAggregateRoot implements the ISoftDelete interface, which makes the entity Soft-Delete. That means it is never deleted from the database but just marked as deleted. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:id: 6308af2c-3d1b-4f21-bab2-97abe35a69a1
+:END:
+* dotnet tool install -g Volo.Abp.Cli
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 630df91f-db1a-466a-ae33-7fbc0fa29009
+:END:
+* dotnet tool update -g Volo.Abp.Cli
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 630df929-3b67-432e-b461-92df2bd7d698
+:END:
+* ProductManagement.Domain is used to define your entities, value objects, domain services, repository interfaces, and other core domain-related classes.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:id: 630df9c4-db48-4904-a1ca-7d5df25a0b4b
+:END:
+* ProductManagement.Domain.Shared is used to define some primitive shared types. The types defined in this project are available to all other layers. Typically, we define enums and some constants here.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:id: 630df9cf-6af4-4590-bce4-60b2497b3664
+:END:
+* The AuditedAggregateRoot class adds some more properties to the AggregateRoot class: CreationTime as DateTime, CreatorId as Guid, LastModificationTime as DateTime, and LastModifierId as Guid.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 630df9ed-1e70-432c-b430-a16bd0f8064c
+:END:
+* ABP automatically sets these properties. For example, when you insert an entity into the database, CreationTime is set to the current time, and CreatorId is automatically set to the Id property of the current user.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 630df9ff-8241-4c3b-84bd-391811c9709e
+:END:
+* We define this enum in the ProductManagement.Domain.Shared project since we will reuse it in the Data Transfer Objects (DTOs) and the UI layer.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:id: 630dfa38-2252-4bba-b200-fbb46c55d0a9
+:END:
+* This time, I inherited from FullAuditedAggregateRoot, which adds IsDeleted as bool, DeletionTime as DateTime, and DeleterId as Guid properties in addition to the AuditedAggregateRoot class used for the Category class.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:id: 630dfa57-c10f-40d3-9299-46677402846a
+:END:
+* First, we will add entities to the DbContext class and define the mappings between entities and database tables. Then, we will use EF Core's Code First Migration approach to build the necessary code that creates the database tables. Following this, we will look at ABP's Data Seeding system to insert some initial data into the database. Finally, we will apply the migrations and seed data to the database to prepare it for the application.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:id: 630dfb7b-a924-493d-ab22-2bef8ea48e0f
+:END:
+* If you want to customize the default mapping configuration or perform additional configurations, you have two options: Data Annotations (attributes) and Fluent API.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:id: 630dfba2-e803-4e9e-b8b5-0d2c2b130960
+:END:
+* One problem with the data annotation attributes is that they are limited (compared to the Fluent API) and make your domain layer dependant on the EF Core NuGet package when you need to use EF Core's custom attributes, such as [Index] and [Owned].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:id: 630dfbd1-22e9-4c8f-b282-bf3184833f14
+:END:
+* EF Core's Code First Migration system is a perfect way to keep the database schema aligned with the application code. Typically, you generate migrations and apply them to the database. A migration is an incremental schema change for the database. When you update the database, all the migrations are applied since the last update, and the database becomes aligned with the application code.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 630dfc7f-135e-41d7-be3f-91b70324e6dd
+:END:
+* dotnet tool install --global dotnet-ef
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 630dfdb0-7061-4e2a-bc00-4161e4802c6d
+:END:
+* dotnet ef migrations add "Added_Categories_And_Products"
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 630dfdb4-8f0d-4bcc-8225-5b1b922dc482
+:END:
+* When you run it, all pending migrations are applied in the database, and the data seeder classes are executed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 630dfe4c-5199-413e-8fb9-28009f0f2544
+:END:
+* This application can be deployed and executed in the production environment, typically, as a stage of your Continuous Deployment(CD) pipeline. Separating the migration from the main application is a good approach, as the main application doesn't require permission to alter the database schema in such cases. Also, you can get rid of any concurrency issues you might have if you apply migrations in your main application and run multiple instances of the application.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 630dfe7f-972f-46bb-b32c-96d8d7a1a0dc
+:END:
+* We will begin by defining a DTO, ProductDto, for the Product entity. Then, we will create an application service method that returns a list of products to the presentation layer. Additionally, we will learn how to map the Product entity to ProductDto automatically.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 630e004d-9b28-4274-a264-11bbb16649d6
+:END:
+* DTOs are used to transfer data between the application and presentation layers. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 630e0069-2c3d-4917-84dd-6f8278e733e5
+:END:
+* DTOs allow you to expose data in a controlled way and abstract your entities from the presentation layer. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 630e0088-717d-4084-ba8c-19adf42c1fea
+:END:
+* Directly exposing entities to the presentation layer might cause serialization and security problems, too. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 630e0097-515b-4a77-b805-54809fcc916b
+:END:
+* DTOs are defined in the Application.Contracts project to make them available within the UI layer. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 630e00ae-dbe2-4e0c-938c-2bf0ae85aa8a
+:END:
+* It is derived from AuditedEntityDto<Guid>, which defines the Id, CreationTime, CreatorId, LastModificationTime, and LastModifierId properties (we don't need to delete auditing properties, such as DeletionTime, since the deleted entities are not read from the database).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 630e00de-88ba-4285-8e1d-5204afad4d7f
+:END:
+* Instead of adding a navigation property to the Category entity, we used a string CategoryName property, which is enough to show on the UI.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 630e00e4-64db-4aac-929a-479cef5b6110
+:END:
+* You could compare application services with API controllers in an ASP. NET Core MVC application. While they have similarities for some use cases, application services are plain classes that better fit into DDD.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 630e013e-d9ab-4321-9c70-1ef0d8f818e7
+:END:
+* They don't depend on a particular UI technology. In addition, ABP can automatically expose your application services as HTTP APIs, as we will discover in the Auto API Controllers and the Swagger UI section of this chapter.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 630e0153-bdcc-4026-88ca-1701ddedc7f2
+:END:
+* IProductAppService is derived from the IApplicationService interface. In this way, ABP can recognize the application services.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 630e025d-5905-4fb0-9a7b-e8bf3a7f7e1c
+:END:
+* The GetListAsync method gets PagedAndSortedResultRequestDto, which is a standard DTO class of ABP Framework that defines the MaxResultCount (int), SkipCount (int), and Sorting (string) properties.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 630e027d-b1e5-4975-83bc-11ff0ee8d914
+:END:
+* The GetListAsync method returns PagedResultDto<ProductDto>, which contains a TotalCount (long) property and an Items collection of ProductDto objects. That is a convenient way of returning paged results with ABP Framework.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 630e028b-1ef7-4861-b3ba-1e0ce5f826c5
+:END:
+* The ProductAppService class is derived from ProductManagementAppService, which was defined in the startup template, and can be used as the base class for your application services. It implements the IProductAppService interface that was previously defined. It injects the IRepository<Product, Guid> service. This is called a Default Repository. A repository is a collection-like interface that allows you to perform operations on the database. ABP automatically provides default repository implementations for all aggregate root entities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 630e0322-6d02-45fe-8548-db04b92b2cc2
+:END:
+* The AsyncExecuter service (which is pre-injected in the base class) is used to execute the IQueryable object to perform a database query asynchronously. This makes it possible to use the async LINQ extension methods without depending on the EF Core package in the application layer.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 630e038e-bc1c-4808-a203-0db37776759d
+:END:
+* Finally, we are using the ObjectMapper service (pre-injected in the base class) to map a list of Product (entity) objects to a ProductDto (DTO) object list. In the next section, we will explain how the object mapping is configured.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 630e03a3-c51f-4563-b5f8-b2663006c7bc
+:END:

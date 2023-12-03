@@ -1,0 +1,53 @@
+#+tags: redis, java,
+
+* spring-data-redis
+
+通过Spring编程远程连接Redis服务器,进而实施缓存的操作
+
+1. 创建的是Maven工程
+2. 导入相应的依赖jar包
+
+- Spring Data Redis
+- Jedis
+- Spring Test
+- Jackson
+- Junit
+- Commons BeanUtils
+
+* 创建IoC容器的xml配置文件
+声明=p名称空间=;方便与我们设置bean对象的属性;(由于版本的原因,如果使用标签而不是p属性设置的话,可能会出现删除线.)
+
+- 配置Jedis连接池的配置对象-JedisPoolConfig
+- 配置Jedis连接工厂-JedisConnectionFactory
+- 配置redis模板-RedisTemplate
+* 编程
+
+** 创建JavaBean-User
+** 创建测试类-SpringJedisTestor
+
+- 依赖RedisTemplate 按类型自动装配
+- 向Redis服务器存入字符串
+~RedisTemplate.opsForValue().set("key","value")~
+
+** 缓存JavaBean的问题:
+
+- User对象默认是二进制的存储形式,不是很直观.那么如何改变?
+- 需要在配置文件中针对value引入Jackson处理器,它会将JavaBean以json格式进行缓存
+
+** 测试list结构的缓存
+** redis缓存中一些底层命令如何在程序中使用?
+
+- 例如:flushDB,底层命令通常被定义在RedisConnection对象中
+
+#+begin_quote
+最为重要的解析器是 GenericJackson2JsonRedisSerializer
+#+end_quote
+
+* 总结
+
+SpringJava程序远程访问redis服务器(spring-data-redis)，Jedis对象，
+连接池技术
+
+1. 配置JedisPoolConfig
+2. 配置JedisConnectionFactory
+3. 配置RedisTemplate

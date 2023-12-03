@@ -1,0 +1,66 @@
+#+tags: fp, python,
+
+* 函数是对象
+* Function
+#+BEGIN_QUOTE
+def <name>(<formal parameters>):
+    return <expression>
+#+END_QUOTE
+
+Tips:
+1. 不能在函数内随意改变全局变量
+   如果一定要需要： ~global~
+2. 同名的局部变量会覆盖全局变量
+3. nested function 可以访问外部函数的变量，但不能修改
+   如果一定要修改： ~nonlocal~
+** Closure 闭包
+得到一个带有 context 的函数。
+#+BEGIN_SRC python
+def nth_power(exponent):
+    def exponent_of(base):
+        return base ** exponent
+    return exponent_of # 返回值是exponent_of函数
+
+square = nth_power(2) # 计算一个数的平方
+cube = nth_power(3) # 计算一个数的立方
+square
+# 输出
+<function __main__.nth_power.<locals>.exponent(base)>
+
+cube
+# 输出
+<function __main__.nth_power.<locals>.exponent(base)>
+
+print(square(2))  # 计算2的平方
+print(cube(2)) # 计算2的立方
+# 输出
+4 # 2^2
+8 # 2^3
+#+END_SRC
+* Anonymous Function
+python 中，匿名函数被限制为只有一行。
+#+BEGIN_SRC python
+lambda arg1, arg2, args : exp
+# example
+
+l = [(1, 20), (3, 0), (9, 10), (2, -1)]
+l.sort(key=lambda x: x[1]) # 按列表中元组的第二个元素排序
+print(l)
+# result [(2, -1), (3, 0), (9, 10), (1, 20)]
+
+squared = map(lambda x: x**2, [1, 2, 3, 4, 5])
+# result [2， 4， 6， 8， 10]
+#+END_SRC
+* Map
+#+BEGIN_SRC python
+map(func, iterable)
+#+END_SRC
+* Filter
+#+BEGIN_SRC python
+filter(func, iterable)
+#+END_SRC
+* Reduce
+#+BEGIN_SRC python
+reduce(func, seq)
+#+END_SRC
+* Zip

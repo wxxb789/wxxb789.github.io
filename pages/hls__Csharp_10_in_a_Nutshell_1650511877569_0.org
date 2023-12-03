@@ -1,0 +1,10 @@
+#+file-path: ../assets/Csharp_10_in_a_Nutshell_1650511877569_0.pdf
+#+file: [[../assets/Csharp_10_in_a_Nutshell_1650511877569_0.pdf][Csharp_10_in_a_Nutshell_1650511877569_0.pdf]]
+#+title: hls__Csharp_10_in_a_Nutshell_1650511877569_0
+
+* However, with C# generics, producer types (i.e., opentypes such as List<T>) can be compiled into a library (such as mscorlib.dll). is works because thesynthesis between the producer and the consumer that produces closed types doesn’t actually happenuntil runtime. With C++ templates, this synthesis is performed at compile time. is means that inC++ you don’t deploy template libraries as .dlls—they exist only as source code. It also makes itdifficult to dynamically inspect, let alone create, parameterized types on the fly.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 167
+:id: 6260d188-f0dc-423d-b6d3-baeebba0def8
+:END:

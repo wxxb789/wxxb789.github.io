@@ -1,0 +1,43 @@
+#+title: editor
+
+* File
+** New File
+** Open File
+** Save and Save As
+** Workspace
+* Edit
+** Undo and Redo
+** Copy, Cut and Paste
+** Find and Replace
+** Comment and Uncomment
+* Navigation and Selection
+** Multi-Cursor
+** Column Edit
+** Cursor: Go Forward, Go Back
+** Next/Previous Pair Symbol
+** Go To
+*** Line
+*** Symbol
+*** Mark
+*** Definition(Implement, Class, Interface, Declaration, Reference)
+*** File ** Next/Previous Issue(Error)
+** Selection
+*** Current: Statement, Block, Function, Class
+* Window
+* Coding
+** Refactor
+*** Rename
+*** Extract Method
+** Debug
+* inbox
+
+- File ** New File ** Open File ** Save and Save As ** Workspace
+- Edit ** Undo and Redo ** Copy, Cut and Paste ** Find and Replace **
+  Comment and Uncomment
+- Navigation and Selection ** Multi-Cursor ** Column Edit ** Cursor: Go
+  Forward, Go Back ** Next/Previous Pair Symbol ** Go To *** Line ***
+  Symbol *** Mark *** Definition(Implement, Class, Interface,
+  Declaration, Reference) *** File ** Next/Previous Issue(Error) **
+  Selection *** Curent: Statement, Block, Function, Calss
+- Window
+- Coding ** Refactor *** Rename *** Extract Method

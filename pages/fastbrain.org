@@ -1,0 +1,6 @@
+#+tags: ms-work,
+
+* location
+#+BEGIN_SRC 
+https://www.cosmos09.osdinfra.net/cosmos/relevance/projects/FastBrain/InjectPipeline/Head/Backup/ToBeInjected_CJK_backup.tsv?property=info
+#+END_SRC

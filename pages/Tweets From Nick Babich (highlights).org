@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: Tweets From Nick Babich (highlights)
+:END:
+:PROPERTIES:
+:author: [[101babich on Twitter]]
+:full-title: "Tweets From Nick Babich"
+:category: [[tweets]]
+:url: https://twitter.com/101babich
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-05]]
+** Product Design Cheatsheet
+
+Guide for early-stage product teams on how to rapidly experiment, learn and build new products
+
+https://t.co/C0RBOJNWVh 
+
+![](https://pbs.twimg.com/media/Fxw-J7hWYAIRm5m.jpg) ([View Tweet](https://twitter.com/101babich/status/1665274579961389056))

@@ -1,0 +1,232 @@
+
+
+* [05]Mybatis
+** 1. 01
+
+(一)什么是MyBatis框架？
+MyBatis是一个位于持久化层的框架，负责数据库的访问，实施持久化数据的增删改查及其关联关系的处理等操作。
+
+(二)MyBatis框架与Hibernate框架的比较： 1.优势：
+(1)MyBatis配置简单，Hibernate配置繁琐；因此MyBatis更易上手；
+(2)MyBatis执行性能强于Hibernate框架（比Hibernate快）；
+(3)MyBatis框架更加灵活，可以直接针对sql语句进行定制和优化；
+(4)MyBatis通过动态代理模式，可以直接产生dao对象，避免dao编程。 2.弱势：
+(1)Hibernate框架是一个完善的O/R
+Mapping框架，因此通过配置可以使程序员回避sql语句；
+MyBatis框架只满足于基本的O/R
+Mapping映射，强调使用sql语句，因此对于程序员掌握sql语句有较高的要求。
+(2)MyBatis框架的兼容性不如Hibernate框架；因为它依赖于底层数据库的sql语句；
+(3)关联关系的处理不如hibernate框架简洁方便；比如：级联更新，级联查询等。
+
+(三)MyBatis框架的学习刚要： 1.数据库的连接： 2.单表操作（增删改查）；
+动态sql; 3.逆向工程（反向工程） 4.多表操作 (1)一对多，多对一（一对一）；
+(2)多对多 5.缓存（一级缓存，二级缓存，分布式缓存(整合第3方缓存产品)等）
+
+(四)MyBatis开发流程 1.前期准备： (1)建库，建表，准备测试数据；
+(2)创建Java工程，添加类库，在MyEclipse中设置约束定义(编写配置文件时标签弹出提示)
+2.针对数据库表，编写JavaBean；
+3.创建db-mysql.properties文件，配置连接数据库的4大参数（整合时还有连接池的参数）；
+4.编写mybatis-cofing.xml配置文件
+5.编写连接数据库的工具类获得SqlSession对象并测试； 6.定义Dao接口方法；
+7.编写针对dao接口方法的mapper.xml文件，给出sql语句的方案；
+8.编写测试类，测试mapper方案。
+
+(五)数据库的连接与交互
+1.MyBatis框架通过SqlSession封装了jdbc的Connection对象，用于完成与数据库的交互访问。
+因此一旦获得SqlSession对象，就意味着MyBatis框架和数据库建立起了有效的连接。
+2.SqlSession是采用工厂方法模式创建的；因此要想获得SqlSession对象，首先要创建SqlSessionFactory对象；
+3.MyBatis框架提供了2种方式创建SqlSessionFactory对象：
+(1)xml配置文件（要求掌握） (2)Java编程模式（了解即可）
+
+(六)MyBatis框架的配置文件
+MyBatis框架的配置文件是xml文件，配置了MyBatis框架的平台特性和信息：
+configuration（根标签） properties 属性 settings 设置 typeAliases
+类型别名 typeHandlers 类型处理器 objectFactory 对象工厂 plugins 插件
+environments 环境 environment 环境变量 transactionManager 事务管理器
+dataSource 数据源 databaseIdProvider 数据库厂商标识 mappers 映射器
+配置特征：上述配置项有的可以缺省，但顺序不能改变。
+
+(七)配置文件中的重点配置项说明：
+1.proeprties属性用于引用外部properties文件，比如访问数据库的四大参数；
+2.settings属性可以设置MyBatis在控制台输出sql语句和执行的情况；
+3.typeAliases用于设置JavaBean的别名，有利于在mapper配置中使用方便；
+4.environment表示MyBatis框架的数据环境即使用的数据库，可以配置多个数据库，但只能指明一个数据库时默认数据库；
+而且一个数据库对应一个SqlSessionFactory对象；
+5.transactionManager事务管理器有2种类型：
+(1)JDBC：需要手动提交或者回滚； (2)MANAGER:容器负责事务提交和回滚；
+如果整合Spring框架则没有必要配置，spring会使用自己的事务管理器，即使配置了也会被覆盖。
+6.dataSource数据源： (1)POOLED:使用连接池 (2)UNPOOLED:不使用连接池
+(3)JNDI：使用专门的服务器（以前EJB的用法，现在不提倡）
+如果整合Spring框架，则没有必要配置，spring会指定自己的数据源。
+7.mappers映射器：
+mapper文件包含了dao方法所映射的sql语句；通过mappers标签，MyBatis框架找到它们。
+有如下4种配置方式：
+
+#+begin_example
+  <!-- 使用resource属性，特定mapper文件名可以任意命名 -->
+  <mappers>
+      <mapper resource="org/mybatis/builder/BlogMapper.xml"/>
+  </mappers>
+  <!-- 使用url形式 -->
+  <mappers>
+      <mapper url="file:///var/mappers/BlogMapper.xml"/>
+  </mappers>
+  <!-- 使用接口名称，自动导入mapper文件，要求mapper文件与接口文件相同 -->
+  <mappers>
+      <mapper class="org.mybatis.builder.BlogMapper"/>
+  </mappers>
+  <!-- 使用包名自动导入：要求mapper文件名称与接口文件相同 -->
+  <mappers>
+      <package name="org.mybatis.builder"/>
+  </mappers>
+#+end_example
+
+(八)编写工具类，实施数据库的连接
+1.要求：SqlSessionFactory是单例对象（创建SqlSession的工厂）；
+编程：采用懒汉式单例模式
+2.测试SqlSession是针对JDBC的Connection对象的封装。
+** 2. Mapper配置
+*** 2.1. MyBatis Generator
+*** 2.2. 配置
+
+1.批量别名定义
+
+#+begin_example
+  <typeAliases>
+      <!--
+      <typeAlias type="entity.Student" alias="Student" />
+      -->
+      <package name="domain"/>
+  </typeAliases>
+#+end_example
+
+批量别名定义后，JavaBean的别名是去掉包名的类名，且首字母大小写都可以。
+
+2.parameterType有哪些常用类型？ (1)基本数据类型包装类
+例如：int代表Integer.class (2)字符串类型
+例如：string/String代表String.class (3)date/Date代表Date.class (3)集合
+map,hashmap,list,arraylist (4)实体bean (5)自定义查询对象
+
+3.如果JavaBean对象的属性与字段名称不同，应该使用resultMap,并给出详尽的映射配置
+
+4.动态查询详见案例： (1)模糊查询 (2)集合查询 (3)排序
+
+5.#{}与${}的区别（难点：详见案例）：  (1)#{}是占位符，表示sql语句中的“？”，例如：  select * from st_student where id=?  (2)${}可以引用自定义查询对象的属性和字符串字面值
+** 3. 关联关系
+
+关联关系 （1）一对一 *（2）一对多 ①从一方角度配置
+（a）关联对象采用select抓取方式 （b）加载策略？eager代表立即加载
+lazy代表延迟加载 关联属性的配置标签是 ②从多方角度配置
+(a)分布方式获取一方对象 (b)join方式获取一方对象 关联属性的标签是
+（3）多对多 拆分成2个一对多。 ## 4. 缓存
+
+#+begin_example
+  <!-- ehcache 配置 -->
+  <ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd">
+   
+  </ehcache>
+#+end_example
+*** 4.1. 一级缓存
+
+1.SqlSession（一级缓存）的隔离性：
+SqlSession的缓存是SqlSession独立拥有的内部缓存，是以SqlSession为单位进行管理的，不能相互访问和使用。
+2.控制SqlSession缓存的清空开关是：
+=<select>=标签中flushCache属性。默认是false，表明使用缓存；设置为true,表明不使用缓存（详见案例测试）。
+3.任何的 UPDATE, INSERT, DELETE
+语句都会清空缓存,事务的commit语句也会清空缓存。
+*** 4.2. 二级缓存
+
+(一)开启二级缓存： 1.全局总开关
+(1)在MyBatis的总体配置文件中(mybatis-config.xml),通过标签设置.
+(2)默认是开启状态. 2.Mapper分开关
+(1)在Mapper的xml配置文件中,需要明确的使用子标签,并且位置居于首位;
+(2)默认情况下,子标签使用的是MyBatis框架实现二级缓存的类(PerpetualCache),
+也可以通过type属性指明第三方的缓存机制(比如:EhCache).
+3.JavaBean必须序列化,要求实现Serializable
+注意:逆向工程生成的JavaBean并没有实现Serializable,需要程序员自己添加.
+
+(二)二级缓存中的一些重要概念
+1.MyBatis框架通过定义一个二级缓存的接口Cache,并给出了自己的实现类:
+org.apache.ibatis.cache.impl.PerpetualCache
+2.二级缓存的原理是对象的序列化(写入时)和反序列化(读取时),因此要求JavaBean必须实现Serializable接口.
+3.标签可以定制二级缓存,标签的属性如下: (1)type:用于指定缓存的实现类型,
+默认是PERPETUAL,对应的是 MyBatis框架自身的缓存实现类
+,也可以指定第三方实现类; *(2)eviction:是回收策略， 默认为
+LRU.内存管理策略还有其它算法,说明如下:
+(2-1)LRU:最近最少使用,移除最长时间不被使用的对象;
+(2-2)FIFO:先进先出,按对象进入缓存的顺序来移除对象;
+(2-3)SOFT:软引用,移除基于垃圾回收器状态和软引用规则的对象;
+(2-4)WEAK:弱引用,移除基于垃圾回收器状态和弱引用规则的对象.
+(3)flushInterval:自动刷新间隔,单位毫秒;如果不设置(默认)代表没有自动刷新间隔,
+缓存仅仅在刷新语句时刷新. (4)size:缓存对象的数量,默认为 1024.
+(5)readOnly:只读属性,默认为
+false,表示可读写;如果设置为true,表明缓存是只读的而不能实现对象的修改.
+(6)blocking:代表是否阻塞,默认值为 false;当指定为 true时,将采用
+BlockingCache进行封装。 4.二级缓存是以Mapper为单位的:
+二级缓存可以在不同的SqlSession之间共享数据,但是不能跨越Mapper.每个独立的mapper对象只能使用自己名称空间下的二级缓存.
+
+(三)二级缓存的局限性:
+1.由于更新时,会刷新二级缓存;因此二级缓存适合的应用场景是:
+查询频率很高,而使用insert,update,delete几率很小的情况下,才会发挥出二级缓存的性能.
+2.二级缓存只适合于单表操作,在多表操作中是不安全的.
+因为二级缓存是以mapper为单位的,而多表查询需要跨mapper操作;可能会出现这种情况:
+当前的mapper已经修改了对象,而这个对象是另外一个mapper在其关联查询中曾经使用过的对象,但那个mapper使用的还是陈旧的缓存数据.
+*** 4.3. 整合ehcache
+
+MyBatis框架整合第三方缓存 (一) 为什么需要整合第三方缓存产品？ 1.
+MyBatis框架自身的二级缓存的实现方案性能一般； 2.
+MyBatis框架自身的二级缓存没有分布式缓存的功能，不适合于分布式系统。
+因此MyBatis框架通常整合第三方缓存产品，例如：MemCached、EhCashed甚至是Redis,以满足高并发，高可靠，分布式系统的需求。
+
+(二) MyBatis的缓存机制及其与第三方缓存产品的整合示意图如下：
+
+
+1. MyBatis在创建SqlSession对象时，内部会创建Executor(执行器)对象，及其它的代理对象-CachingExecutor，其中二级缓存由Configuration对象负责管理。
+2. CachingExecutor针对查询请求，首先通过Executor查询一级缓存，如果没有再去查询二级缓存；如果还没有，就再次通过Executor查询数据库。
+3. 从数据库查询出来的数据，首先存入一级缓存，当一级缓存执行事务提交或者关闭操作时，CachingExecutor会将数据存入MyBatis的二级缓存或者是第三方缓存库，如：EhCache。
+
+(三) EhCache介绍 1.
+EhCache是一个用Java实现的、线程安全的、且轻便高效的缓存管理类库，EhCache提供了内存管理，磁盘存储，以及分布式存储等多种灵活的缓存方案。
+2.
+EhCache是用来管理缓存的一个工具，其缓存的数据可以是存放在内存里面的，也可以是存放在硬盘上的。其内部核心对象是CacheManager，它的主要职责是对Cache的创建、移除和访问。（Cache代表一块被管理的缓存区域）
+3.
+EhCache在创建CacheManager时，首先在class路径下寻找ehcache.xml配置文件并加载解析。ehcache.xml文件配置了缓存的管理方案。
+
+(四) EhCache配置文件说明： 1. 标签：指明溢出数据在磁盘的存储位置 2.
+标签和标签：defaultCache标签设置的是默认的内存管理策略，针对那些没有命名的缓存区域；标签专用于指定名称的区域。
+1) 必须使用的属性： i. name：
+Cache的名称，必须是唯一的，适用于标签；标签不需要指定。 ii.
+maxElementsInMemory：在内存中缓存对象的最大数目。 iii.
+maxElementsOnDisk：在磁盘上缓存对象的最大数目，默认值为0，表示没有限制。
+iv.
+eternal：设定缓存的对象是否永远不过期。如果为true，则缓存的数据始终有效，如果为false那么还要根据timeToIdleSeconds、timeToLiveSeconds判断。
+v. overflowToDisk： 如果内存中数据超过内存限制，是否要缓存到磁盘上。 2)
+以下属性是可选的： i. timeToIdleSeconds：
+对象空闲时间，指对象在多长时间没有被访问就会失效。只对eternal为false的有效。默认值0，表示一直可以访问。
+ii. timeToLiveSeconds：
+对象存活时间，指对象从创建到失效所需要的时间。只对eternal为false的有效。默认值0，表示一直可以访问。
+iii. diskPersistent：
+是否在磁盘上持久化。指重启jvm后，数据是否有效。默认为false。 iv.
+diskExpiryThreadIntervalSeconds：
+对象检测线程运行时间间隔。标识对象状态的线程多长时间运行一次。 v.
+diskSpoolBufferSizeMB：
+DiskStore使用的磁盘大小，默认值30MB。每个cache使用各自的DiskStore。 vi.
+memoryStoreEvictionPolicy：
+如果内存中数据超过内存限制，向磁盘缓存时的策略。默认值LRU，可选FIFO、LFU。
+3) 缓存的3 种清空策略 ： i. FIFO：first in first out (先进先出)。 ii.
+LFU：Less Frequently Used
+(最少使用)。意思是一直以来最少被使用的。缓存的元素有一个hit 属性，hit
+值最小的将会被清出缓存。 iii. LRU：Least Recently
+Used(最近最少使用)，(ehcache
+默认值)。缓存的元素有一个时间戳，当缓存容量满了，而又需要腾出地方来缓存新的元素的时候，那么现有缓存元素中时间戳离当前时间最远的元素将被清出缓存。
+
+(五) 整合的流程： 1.
+加载整合类库，在开发工具中（比如：MyEclipse）设置ehcache.xml的约束定义文件(ehcache.xsd)的位置和标识
+2. 开启全局开关： 在mybatis-config.xml文件中，通过标签设置 3.
+开启Mapper分开关: 4. 提供ehcache.xml配置文件 配置信息参考上述(四)
+
+(六) 如何解决MyBatis框架二级缓存的局限性？ 1.
+采用spring框架与第三方缓存库整合的方案;针对那些不适合于MyBatis二级缓存的应用场景，Spring框架直接在业务层实施缓存处理，这就涉及到了一个新的主题-Spring
+Cache。 2.
+更进一步的，更加完善的解决方案，应该采用Spring整合Redis方案；因为Redis不仅可以实现分布式高速缓存，而且还可以作为NoSql数据库使用。

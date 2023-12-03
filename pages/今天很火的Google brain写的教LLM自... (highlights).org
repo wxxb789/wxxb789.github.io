@@ -1,0 +1,16 @@
+:PROPERTIES:
+:title: 今天很火的Google brain写的教LLM自... (highlights)
+:author: [[fi56622380 on Twitter]]
+:full-title: "今天很火的Google brain写的教LLM自..."
+:category: #tweets
+:url: https://twitter.com/fi56622380/status/1646412754482528257
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-13]]
+** 今天很火的Google brain写的教LLM自己debug，细看了一下，整篇大概只是在做一个prompt调教
+
+大概思路是小黄鸭debug大法，prompt要求写出详细步骤，自己写code之后，自己去解释这个代码从而推测这个结果对不对，如果不对再自己改了再来自己解释，如此循环直到正确
+
+这个过程不需要任何error message… 
+
+![](https://pbs.twimg.com/media/Ftk0ycTagAAcI62.png) ([View Tweet](https://twitter.com/fi56622380/status/1646412754482528257))

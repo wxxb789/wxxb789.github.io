@@ -1,0 +1,14 @@
+*
+* [[https://capnproto.org/][Cap'n Proto: Introduction (capnproto.org)]]
+* [[https://msgpack.org/][MessagePack: It's like JSON. but fast and small. (msgpack.org)]]
+* [[https://github.com/RainwayApp/bebop][RainwayApp/bebop: An extremely simple, fast, efficient, cross-platform serialization format (github.com)]]
+* [[https://github.com/google/flatbuffers][google/flatbuffers: FlatBuffers: Memory Efficient Serialization Library (github.com)]]
+*
+* taxology
+** tagged
+** untagged
+** dom-based
+** self-explanatory or not
+** boundary or not
+* comparision
+** [[https://www.eprosima.com/index.php/resources-all/performance/apache-thrift-vs-protocol-buffers-vs-fast-buffers][Apache Thrift vs Protocol Buffers vs Fast Buffers (eprosima.com)]]

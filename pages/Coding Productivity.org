@@ -1,0 +1,6 @@
+* Combine CLI and GUI
+* Editing
+** column edit
+** fuzzy match
+* OOP
+** Extract Base Class

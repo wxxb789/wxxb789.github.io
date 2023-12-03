@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: 最近发现一个巧妙的思路： 找一个做得好的产品，... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[LuoSays on Twitter]]
+:full-title: "最近发现一个巧妙的思路： 找一个做得好的产品，..."
+:category: [[tweets]]
+:url: https://twitter.com/LuoSays/status/1697036537299644729
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-31]]
+** 📌
+** #+BEGIN_QUOTE
+** 最近发现一个巧妙的思路：
+
+找一个做得好的产品，然后打着开源的旗号去抄袭，然后提供
+SaaS 和 On-Premise 两种方案，美其名曰 Best open-source alternative to XXX，快速圈粉赚得盆满钵满。
+
+已经看到好几个这样的案例了。  ([View Tweet](https://twitter.com/LuoSays/status/1697036537299644729))
+** #+END_QUOTE

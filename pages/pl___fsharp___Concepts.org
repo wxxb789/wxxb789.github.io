@@ -1,0 +1,15 @@
+#+title: pl/fsharp/Concepts
+
+* Computation Expression
+* Pattern Match
+* Active Pattern
+* Type Provider
+*
+* Difference with csharp
+** immutable is default
+** currying
+*** no overload
+*** no =params= (variable arguments)
+*** named parameters
+*
+*

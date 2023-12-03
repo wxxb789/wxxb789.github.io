@@ -1,0 +1,6 @@
+#+tags: algo, rust,
+* https://github.com/TheAlgorithms/Rust
+* https://github.com/weihanglo/rust-algorithm-club
+* https://github.com/EbTech/rust-algorithms
+* https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust
+* https://github.com/QMHTMY/RustBook

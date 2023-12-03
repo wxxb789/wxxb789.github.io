@@ -1,0 +1,9 @@
+* 基本特性
+** Case sensitive
+** indent hierarchy and no tab
+** ~#~ for comment
+** Data Structure
+*** ~dict~: key value pair
+*** ~array~: sequence, list
+*** ~scalars~: single value
+

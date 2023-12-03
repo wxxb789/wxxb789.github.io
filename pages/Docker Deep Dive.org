@@ -1,0 +1,45 @@
+* Install Docker on Windows Server
+
+#+BEGIN_SRC powershell
+Install-Module DckerProvider -Force
+Install-package Docker -ProviderName DockerProvider -Force
+
+#+END_SRC
+* Docker Architecture
+** Kernel Primitives and Internals
+** Docker Engine
+*** Daemon
+*** containerd
+*** OCI
+** Windows Spotlight
+* Container
+shared kernel
+** Namespaces
+isolation
+each container gets its own virtual or containerized root file system.
+file system
+process tree
+eth0 interface
+root user
+*** Linux
+- pid process id, has its own process ID table with PID 1
+- net network NICs
+- mnt file system/mount
+- ipc inter-proc comms
+- uts UTS host name
+- user User
+*** Windows
+- objects -> pid in linux
+- proc table
+- networking
+
+
+
+** cgroups aka Control Groups
+grouping objects and setting limits
+
+*** Windows
+Job Objects -> cgroups in Linux
+
+** changeroot
+** Union fs/mount & CoW

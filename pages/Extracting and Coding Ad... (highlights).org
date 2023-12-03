@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: Extracting and Coding Ad... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[KarelDoostrlnck on Twitter]]
+:full-title: "Extracting and Coding Ad..."
+:category: [[tweets]]
+:url: https://twitter.com/KarelDoostrlnck/status/1724991014207930696
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-21]]
+** 📌
+** #+BEGIN_QUOTE
+** Extracting and coding adverse drug reactions in biomedical literature is vital for drug safety, but not easy to automate. 
+
+This DSPy program combines in-context learning and retrieval to set SOTA on BioDEX (~35% Recall@10), using ~100 samples. 
+
+Notebook: https://t.co/A1Hj46rfFZ 
+
+![](https://pbs.twimg.com/media/F_BjZKoboAA3lob.jpg)  ([View Tweet](https://twitter.com/KarelDoostrlnck/status/1724991014207930696))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Previous fine-tuned and in-context attempts struggled on BioDEX because of long contexts, the biomedical domain, and extreme classification (~26k classes).
+
+Combining grounding and in-context learning is a great first step, but many pipelines are possible!  ([View Tweet](https://twitter.com/KarelDoostrlnck/status/1724991016128958771))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Crucially, we apply discrete prompt optimization to the in-context module, with the grounding in-the-loop. 
+
+No human-expert prompting work required! 
+
+Easy, intuitive, reproducible, and modular; this is how in-context learning should be done. 
+
+![](https://pbs.twimg.com/media/F_BkwVeaAAAsdFE.jpg)  ([View Tweet](https://twitter.com/KarelDoostrlnck/status/1724991017445966111))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** We’re working on a more rigorous study; in the meantime enjoy our notebook and feel free to build your own state-of-the-art reaction-extraction systems for biomedical literature!
+
+Get some more information on the BioDEX dataset: https://t.co/OuHrnyY95y  ([View Tweet](https://twitter.com/KarelDoostrlnck/status/1724991019123687431))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Or, learn more about DSPy (<a href="https://twitter.com/lateinteraction">@lateinteraction</a> ). It's really fun.
+https://t.co/QNU7jHRcmo  ([View Tweet](https://twitter.com/KarelDoostrlnck/status/1724991020482568565))
+** #+END_QUOTE

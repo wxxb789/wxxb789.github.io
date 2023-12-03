@@ -1,0 +1,41 @@
+*
+* 目的是听明白，讲清楚
+** 能讲出来说明听明白了
+** 对方能讲出来说明讲清楚了
+* 背单词
+** 发音正确。按音节记忆
+** 中英快速反应
+** 高频多次
+* 练听力
+** 精听，提升能力
+** 泛听，磨耳朵，培养语感
+* 如何精听
+** 材料
+*** A voa, learning english
+51voa.com
+learningenglish.voanews.com
+*** B BBC Learning English
+bbc.co.uk/learningenglish/chinese
+*** C TED Talk
+ted.com
+** 听写
+TODO 如何听写
+
+** 复述 retell
+TODO 如何复述
+
+*** 主干信息不能遗漏
+*** 细节信息越丰富越好
+
+** resources
+*** CGTN
+*** BBC worldnews
+*** TED
+*** 每日英语听力 FM section app
+
+* 如何练习口语
+先输入后输出，先听后说
+
+** talk with native speaker
+
+

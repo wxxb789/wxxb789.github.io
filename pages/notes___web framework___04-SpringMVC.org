@@ -1,0 +1,233 @@
+
+
+* [04]SpringMVC
+:PROPERTIES:
+:id: springmvc
+  
+:END:
+(一)案例: 需求:请求Web服务器在浏览器中显示一些国家的主要城市.
+要求:表格居中显示并使用外部样式表设置表格样式
+
+(二)思考:
+1.按照MVC模式,请求应该发给控制器;那么SpringMVC框架的控制器是什么?
+2.控制器接收请求后,如何封装数据和指派视图?
+3.控制器处理完毕后,如何将执行权移交给视图?
+默认情况下由DispatcherServlet转发给jsp页面.
+
+(三)Spring框架开发前的准备工作: 1.将类库拷贝到WEB-INF/lib目录下;
+2.在WebRoot下创建静态资源目录: -css -js -images
+3.在WebRoot/WEB-INF目录下创建如下目录: -config
+//存储创建表现层IoC容器的配置文件// -jsp //存储jsp页面// -resources
+//存储消息资源文件//
+
+(四)开发流程: 1.在web.xml文件中注册DispatcherServlet;
+2.在config目录下,编写springmvc-config.xml配置文件
+3.在src目录下,编写控制器(Handler):CityController\\
+4.在jsp目录下,编写CityList.jsp页面
+
+SpringMVC框架的技术特征 1.
+经典的MVC框架,其特征是:使用Servlet作为总控制器;
+SpringMVC的总控制器:DispatcherServlet. 具体的作用:
+请求分发;它可以接收多个请求,并且通过注解指定具体的控制器来处理相应的请求!
+2. 请求路径"/"的含义: (处理基于当前web应用的任何请求,但优先级低于/*;
+(1)处理静态资源; (2)不处理jsp的请求;
+
+3. 具体控制器的方案: (1)pojo类
+   一个普通的Java类可以作为请求处理器,它是单例对象,数据成员需要保证线程安全.
+   例如:案例中使用ConcurrentHashMap作为处理器的数据结构.
+   (2)请求匹配与请求处理是基于注解技术的: @Controller @RequestMapping
+   @RequestParam @PathVariable ...
+
+4. SpringMVC框架中的数据模型:Model对象(是SpringMVC的数据结构)
+   (1)Model对象是一个map集合,用来存储Controller的数据,供jsp使用;
+   (2)凡是存入Model中的对象,也会存入reqeust域中. 传统的做法是:
+   Model与View共同封装成一个ModelAndView对象中;其中View对象
+   由视图解析器负责实例化;View对象可以找到资源(jsp页面)并执行;
+   现在更加推荐的方法是:
+   ①直接使用Model对象存储数据②方法的返回值是jsp页面的前缀名称.
+
+5. SpringMVC框架中的视图组件
+   (1)支持丰富的视图组件技术,例如:jsp,veloctiy,freemarker等;
+   (2)需要在xml文件中注册视图解析器
+   支持jsp视图技术的解析器是:InternalResourceViewResolver
+
+SpringMVC框架下的请求URI 1.SpringMVC框架处理的请求有2种形式:
+(1)注解请求 (2)静态请求(静态资源包括css,js,image,html等)
+
+2.注解请求的形式要求尽可能REST风格(RestfulURI) (1)什么是REST风格的请求?
+REST是Representational State
+Transfer的首字母缩写,中文翻译为"表现层状态转移",
+是针对互联网资源请求形式的一个规范.遵循这个规范,前台请求的语义更加清楚,后台的请求处理更加明确.
+(2)REST规范简介(只要求了解即可):
+(2.1)将互联网的一切请求,视为是互联网资源的请求,因此建议请求URI中使用名词;
+(2.2)不用使用带有后缀的请求,比如:/.do,/.action是不建议使用的;
+(2.3)请求URI中使用小写字母; (2.4)请求URI中应该表明清楚的语义;
+(2.5)在HTTP协议里面四个表示操做命令的动词:GET、POST、PUT、DELETE,要求分别对应服务器端的4种处理:
+GET用来获取资源,POST用来新建资源,PUT用来更新资源,DELETE用来删除资源.例如: -
+/order/1 HTTP GET ：得到 id = 1 的 order - /order/1 HTTP DELETE：删除 id
+= 1的 order - /order/1 HTTP PUT：更新id = 1的 order - /order HTTP
+POST：新增 order 注意:浏览器 form表单只支持 GET与
+POST请求，而DELETE、PUT等 method并不支持.
+
+3.@PathVariable("占位符参数")
+(1)在SpringMVC框架下,请求URI中可以使用路径变量(PathVariabl);
+(2)请求URI中的路径变量又被称为占位符参数,是可以传入到控制器处理方法的入参之中的：
+例如:URI中
+{country}占位符可以通过@PathVariable("country")绑定到操作方法的入参中,参照案例.
+(3)使用带占位符的 URI是SpringMVC支持REST风格请求的一个重要体现.
+
+(一)控制器如何接收请求数据?
+1.使用变量接收请求数据(适合于单一或者少量的请求数据)
+在控制器的处理方法中使用如下注解标注形参. @RequestParam("请求参数")
+String var 参考案例:QuestionController
+2.使用JavaBean接收请求数据(参照案例:EmployeeController)
+(1)使用JavaBean封装表单数据;
+JavaBean属性通过注解校验确保表单提交数据的规范性
+(2)使用Spring框架提供的表单标签,目的是将JavaBean的属性与表单项映射;
+需要控制器的Model对象与之配合.
+
+(二)案例:职员管理系统(增删改查)
+1.请求URI采用REST风格(或者说是尽可能接近)
+2.EmployeeController的开发流程: (1)先开发职员列表的功能
+(2)增加职员的功能(重点) (2.1)JavaBean封装表单数据
+(2.2)JavaBean注解校验数据规范性规范(强调)
+(2.3)@ModelAttribute注解使用的特点:紧跟BindingResult
+(2.4)日志(springMVC默认使用的是common-logging类库) (a)Apache
+Common-Logging是广泛使用的Java日志门面库,底层使用的是log4J的日志实现技术
+(b)通过日志对方法中的重要执行步骤进行跟踪.需要强调的是:
+其跟踪的粒度要精密于AOP中对目标类的业务方法的跟踪.但两者的用途不一样:
+AOP主要是针对业务模型运行性能的跟踪统计;而Log是为调试程序,记录程序bug.
+(c)采用工厂模式创建日志记录器: Log
+logger=LogFactory.getLog(EmployeeController.class);
+(d)日志记录器的日志级别: trace<debug<info<warn<error<fatal (3)删除功能
+@PathVariable注解的应用 (4)编辑功能 (a)单条记录的查询;
+(b)编辑表单需要显示id号,但要设置为只读 (5)修改功能
+与增加功能的区别:不需要产生新的的id号 3.控制器如何实施重定向? return
+"redirct:/xxx/yyy"
+
+(三)职员增删改查的案例为了突出控制器的重点,没有依赖Service组件,没有涉及到Dao的数据库访问,
+但可以进一步完善成这种情形,进一步的完善作为课后练习和作业.
+
+(一)针对Controller(控制器)执行方法参数的@Valid注解(JavaEE-7定义)需要:
+classmate.jar jboss-logging.jar vaiddation-api.jar
+hibernate-validator.jar hibernate-validator-annotation-processor.jar
+hibernate-validator-cdi.jar
+(二)针对Controller(控制器)执行方法参数的@Validated注解(Spring3.1定义)只需要:
+hibernate-validator.jar hibernate-validator-annotation-processor.jar
+hibernate-validator-cdi.jar
+
+ps:如果mybatis.jar包是3.4以上,则整合jar包mybatis-spring.jar应该是1.3.1以上
+
+1.控制器针对输入数据的规范包括2个方面: (1)类型转换
+①日期型数据符合特定的日期格式; ②数值型数据应是数值型字符串;
+(2)符合验证规则(JSR303规范)
+①JSR303是Java为Bean对象属性数据所提供的一个规范标准,
+2009年12月随JavaEE6发布,被称为Bean Validation;
+②BeanValidation定义了相应的API和注解,核心接口是:
+javax.validation.Validator
+③HibernateValidator是JSR303规范的一个实现,并进行了 更加符合实际的扩展.
+
+2.控制器校验数据的错误信息,应该存入消息资源文件中,因此应该注册
+ReloadableResourceBoundleMessageSource对象,其类位于
+spring-context.jar包下.
+
+3.校验测试应该在Tomcat7以上版本测试;Tomcat6版本由于el表达式jar包
+的版本较低而在运行时出现异常.
+
+4.针对非字符串类型的属性,比如:Double salary;实施非空校验时,采用
+@NotNull而不是@NotBlank.
+注意:@NotNull所在的包应是:javax.validation.constraints.
+
+(一)问题:如何向浏览器直接发送字符串,比如HelloWorld?
+@ResponseBody标注方法且该方法返回值是字符串类型 测试:HelloWorld
+
+(二)问题:控制器如何向浏览器发送json格式的字符串?
+(1)需要专门的类库:导入jacson的Jar包(2个): ①jacson-core-asl-1.9.13.jar
+②jacson-mapper-asl-1.9.13.jar
+(2)需要使用@ResponseBody标注一个方法的返回值:
+如果该方法的返回值是Java对象的话,则@ResponseBody注解自动将其转化为json格式的字符串,
+并直接写入HTTP响应协议的报文主体中;然后由web服务器返回给客户端,方便ajax对象接收和处理.
+
+文件上传 1.文件上传一般需要Apache所提供的文件上传jar包:
+(1)commons-fileupload-x.y.jar (2)commons-io-x.y.jar
+
+2.上传文件要使用专门的文件表单
+(1)表单的enctype属性必须设置为:multipart/form-data
+普通表单的类型是:application/x-www-form-urlencoded,这个类型也是表达的默认类型常被省略
+(2)使用文件表单项:
+
+3.服务器端IoC容器需要注册Spring框架的文件解析器:
+(1)配置文件解析器时,还可以指定文件上传的规模和缓存空间及其编码等;\\
+(2)配置说明:
+
+4.文件上传处理:
+(1)文件上传到web服务器的指定目录下,本案例中是webroot下的images目录;
+(2)控制器使用MultipartFile类型的变量接收和引用上传的文件,并使用@RequestParam注解标注该变量;
+(3)通过MultipartFile,将上传文件放到指定的位置.
+参加案例(File01UploadController):上传图片并且显示上传的图片
+
+5.MultipartFile
+(1)是apache开发的处理上传文件的class,Spring框架处理上传文件时创建该类对象,并作为控制器方法的入参;
+(2)在案例中的3个功能:
+(2-1)作为控制器处理方法中接收上传文件的形参变量的类型;
+(2-2)获得上传文件的原始名称: Stirng
+name=MultipartFile#getOriginalFileName();
+(2-3)将接收到的文件放到指定的目录下 MultpartFile#transferTo("指定目录");
+
+文件下载 (一)文件下载处理时需要的一些类和对象: 1.ResponseEntity
+(1)ResponseEntity是针对Http协议的响应报文的封装,它是一个对象,
+用来封装响应主体,响应报头,响应状态码;
+(2)ResponseEntity是泛型类型,可以使用任何类型作为响应主体,
+在本案例中使用的是字节数组即ResponseEntity<byte[]>,
+用于作为http协议的响应主体; 2.HttpHeaders
+HttpHeaders对象是专门用来设置响应报头和请求报头的.本案例中设置响应报头如下:
+(1)Content-Disposition: name="attachment";
+filename="SpringMVC的执行原理.docx" (2)Content-Type:
+application/octet-stream 3.MediaType
+MediaType代表的是InternetMediaType(互联网媒体类型,也叫MIME类型),用来表示网络通讯时的内容形式.
+本案例中通讯的内容是字节流,因此表示为:MediaType.APPLICATION_OCTET_STREAM(应用八位流).
+4.HttpStatus
+HttpStatus是一个枚举类,用来封装Http协议中的响应状态码.其中,HttpStatus.OK代表状态码如下:
+Status Code: 200 OK 5.FileUtils
+FileUtils是apache组织开发的一个工具类,用来将任意文件转换为字节数组.
+
+(二)含有中文名称的文件下载需要注意如下环节:
+1.在下载页面中通过点击超链接提交下载文件的名称时,这种提交是get提交,
+服务器端的字符集过滤器不起作用,所以控制器获得filename参数的值最初是乱码,
+需要重新合成字符串改正乱码(File对象需要含有正确字符编码的文件名称).
+2.服务器发送文件以及浏览器接收文件默认都是以iso-8859-1作为字符集的,
+因此含有中文名称的文件在下载时需要将其文件名转换为iso-8859-1字符集的编码(Http响应协议报头Content-Disposition需要).
+
+1.SpringMVC框架的拦截器和处理器的调用关系还是采用了责任链模式
+(1)在SpringMVC框架的内部有一个HandlerExecutionChain对象，由它负责创建符合责任模式的调用链式结构；
+(2)调用链式结构的特点： (2-1)可以有多个拦截器，但只能有一个处理器；
+(2-2)处理器位于链式结构的最后一环；
+(2-3)当请求处理器执行时，先执行拦截器pre方法，再执行处理器，最后还可以执行拦截器的post方法和after方法；
+上述执行顺序的前提是pre方法返回值是true.
+
+2.配置和注册拦截器： (1)使用和标签配置拦截器； (2)使用标签注册拦截器；
+(3)配置拦截路径
+
+3.拦截器执行测试： (1)测试一：
+第一个拦截器和第二个拦截器的pre方法返回值都是true，因而正常执行；
+(2)测试二：
+第一个拦截器的pre方法返回值是true,但第二个拦截器的pre方法的返回值是false，观察执行结果是否与文档中示意图相符。
+
+(一)应用说明：
+1.使用2个拦截器针对EmployeeController的请求进行拦截，实施性能监控和登录检查；
+2.TimerInterceptor拦截器是性能跟踪拦截器，用于统计用户请求的处理时间。比如：如果处理时间超过1秒钟，则是慢请求。
+3.UserAccessInterceptor拦截器是权限管理拦截器，要求针对重要的操作(增，删，改)，用户必须首先登录。
+
+(二)TimeInterceptor拦截器
+1.拦截器也是单例对象，如果使用成员变量，需要考虑线程安全的问题：
+在TimerInterceptor拦截器中，起始时间用的是long型变量来存储，为了保证线程安全，使用了ThreadLocal机制！
+复习：如果是Map集合，应该使用ConcurrentHashMap来确保线程安全。
+2.结束时间的统计时机应该选择after方法的执行时段，而不是post方法。
+
+(三)UserAccessInterceptor拦截器 1.用户有2种操作情况：
+(1)先登录，再操作； (2)先操作，然后被迫登录；
+因此应该在登录页面有所体现：针对第一种情况是"欢迎登录"，针对第二种情况是"请先登录"
+
+2.contextPath与servletPath的区别： requestURI=contextPath+servletPath
+
+requestURL

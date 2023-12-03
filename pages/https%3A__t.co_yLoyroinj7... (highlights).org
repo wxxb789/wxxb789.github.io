@@ -1,0 +1,59 @@
+:PROPERTIES:
+:title: https:__t.co_yLoyroinj7... (highlights)
+:END:
+:PROPERTIES:
+:author: [[xinzhi on Twitter]]
+:full-title: "https://t.co/yLoyroinj7..."
+:category: [[tweets]]
+:url: https://twitter.com/xinzhi/status/1666368249502527489
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-08]]
+** https://t.co/yLoyroinj7 发布 AI 快讯突破 2000+了，从开始的发布过程半小时缩减到 3 分钟，每天 5～10 分钟全弄完，流程简化到只要按下快捷键就完成。
+
+Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没大的变化，不足 100 刀，当前正在验证收款地址。
+
+长帖分享一下当前发稿流水线： 
+
+![](https://pbs.twimg.com/media/FyAXpAUXgAEU4j6.jpg) ([View Tweet](https://twitter.com/xinzhi/status/1666368249502527489))
+** 一、抓取内容（花费 1 秒钟，等待 1 分钟左右）：
+
+1. fn + arrow right 启动瓢虫，开始下载信息源获取更新；
+2. 开始抓取新内容并提示完成进度；
+3. 完成抓取，自动打开 Finder 显示本地更新。 
+
+![](https://pbs.twimg.com/media/FyAYwmaWYAAjbAO.png) ([View Tweet](https://twitter.com/xinzhi/status/1666368253805965313))
+** 二、内容筛选（花费 1 分钟）：
+
+目前手动筛选，根据你审稿的速度，我基本上 1s 一个。
+
+1. space QuickView 查看内容；
+2.  cmd+backspace 删除不符合要求的内容，Finder 会自动切换下一个；
+3. 保留草稿，Arrow down 切换到下一个。
+
+因为是本地操作，如果搞错了随时 undo，非常方便。 
+
+![](https://pbs.twimg.com/media/FyAaCYYWIAAEpZD.jpg) ([View Tweet](https://twitter.com/xinzhi/status/1666368257878622209))
+** 三、全自动写稿（花费 1 秒钟，等待 5 分钟左右）
+
+通过捷径跑 bash，再通过 bash 跑捷径，完美实现内循环，全自动写稿直至全部完成，这个过程撒手不管，没啥说的了。
+
+完成时会有声音提示。 
+
+![](https://pbs.twimg.com/media/FyAdYdDXgAASbmj.jpg) ([View Tweet](https://twitter.com/xinzhi/status/1666368261796032512))
+** 四、完成发布（花费 1 分钟，自动发布过程 10 分钟）
+
+一次更新 20 篇左右，得稿率还是比较高的，基本上每篇最后看 1s 就过，commit 打完收工。
+
+爬虫已经做了重复处理，Git 发布时 U 为新增，M 为可能重复的内容。稿子重复不影响线上，只会展示最新内容。
+
+线上编译完成直接发布，无需任何操作。 
+
+![](https://pbs.twimg.com/media/FyAeYW7WwAE5mtd.jpg) ([View Tweet](https://twitter.com/xinzhi/status/1666368266179100675))
+** 阶段总结：
+
+同步希望做到全程 1 分钟，每天 3 分钟全搞定，最大化提升发布效率。
+
+随着收录内容增加，希望进一步优化一下页面访问，增加广告转化率。
+
+下一次 3000/5000+/100美金收入时再见～ ([View Tweet](https://twitter.com/xinzhi/status/1666368269970731009))

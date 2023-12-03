@@ -1,0 +1,158 @@
+:PROPERTIES:
+:title: Portal：一天就获取1kstar的项目，他的... (highlights)
+:author: [[lxfater on Twitter]]
+:full-title: "Portal：一天就获取1kstar的项目，他的..."
+:category: [[tweets]]
+:url: https://twitter.com/lxfater/status/1658136199838703617
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-16]]
+** Portal：一天就获取1kstar的项目，他的诞生，爆发，然后沉寂。
+
+这是我迄今为止获得最多用户的项目，因为上线第一天就有1k star。
+
+项目地址：https://t.co/vN57aCvEaW
+
+下面是我的故事，希望对你有所启发。
+
+1.  前情提要
+2. 灵感来源
+3. 代码实现
+4. 宣传
+5. 后续开发
+6. 总结和反思 
+
+![](https://pbs.twimg.com/media/FwLOXaOXoAAnUSq.jpg) ([View Tweet](https://twitter.com/lxfater/status/1658136199838703617))
+** 1/n 前情提要：
+
+BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其他的想法。
+
+比如说做一个能将任何视频，音频和字幕，进行翻译和总结的工具。
+
+但是GTP4的发布和微软的办公软件的Copilot的发布让我又燃起了做一款新工具。 ([View Tweet](https://twitter.com/lxfater/status/1658136205433921536))
+** 2/n 灵感来源
+
+3月15号的时候，不知道大家有没有熬夜看GPT4的发布会。
+
+当时当主持人宣布GTP4的api将不会直接放开给普通用户的时候，我知道我的机会来了。我很清楚我自己能通过比较安全的方式获得web端的GTP4的api。
+
+立刻能获取大家都用不上的GTP4 API，我感觉吸引力还不足够，让大家使用我的软件。 
+
+![](https://pbs.twimg.com/media/FwLSlu-WcAQiI82.jpg) ([View Tweet](https://twitter.com/lxfater/status/1658136211733770240))
+** 3/n 灵感来源
+
+3月16号，微软宣布发布Microsoft 365 Copilot ，让用户能在其软件Microsoft 365使用 Copilot的功能。
+
+同样的，不是所有用户能使用上这个功能。我心想我能不能做这个功能的平替，让用户在微信，word，都用上GTP4. 
+
+![](https://pbs.twimg.com/media/FwLSp18XwAILV0Y.jpg) ([View Tweet](https://twitter.com/lxfater/status/1658136220097187840))
+** 4/n 灵感来源
+
+最后，为了能让用户更好用上在任何软件上用上GTP4，我还需要开发提示语模板的功能。 
+
+![](https://pbs.twimg.com/media/FwLSfrQXoAMm2KJ.jpg) ([View Tweet](https://twitter.com/lxfater/status/1658136224643829761))
+** 5/n 灵感来源
+
+最后我将我的软件定位为能够接入用户工作流的客户端。用户可以通过快捷键，获取高亮的文字，发送到软件中，让chatgpt处理，如果愿意，还能在光标出写会来。 
+
+![](https://pbs.twimg.com/media/FwLS2LtWAAQgmZ7.jpg) ([View Tweet](https://twitter.com/lxfater/status/1658136231333724160))
+** 6/n 灵感来源
+
+我感觉这个是我所有技术的结晶。
+1.  获取免费的api，和提前获取GTP4 api
+2. 类似Microsoft 365使用 Copilot的平替功能
+3.  通过提示语模板提供多种能力
+
+当时，你很难不去下载这个软件试试 ([View Tweet](https://twitter.com/lxfater/status/1658136242364600323))
+** 7/n 代码实现
+
+这里面基本就没有什么技术秘密可言了，但当时我就的组合出了大家都想要的东西。
+
+是的技术上我就没啥能教大家的了。
+
+我通宵一周就实现了这个软件。 ([View Tweet](https://twitter.com/lxfater/status/1658136246206750720))
+** 8/n 宣传工作
+
+我将软件发出来的时候，起初立刻获得了@BaibanbaoNet 的询问，我给他解释了我的软件为什么可以使用GTP4，贴出了一个视频如何配置我的软件。
+
+白板报老师对我的软件赞不绝口，当时发推说是Copilot的末日，掘墓人。现在看来挺羞耻。
+
+哈哈哈，我就不去翻推特了。 ([View Tweet](https://twitter.com/lxfater/status/1658136250828873729))
+** 9/n 宣传工作
+你没看错，我的软件配置需要出一个20分钟的视频来教学，就算如此还是又很多人，不断地问如何使用。
+
+当然这一切都归功于 @BaibanbaoNet的宣传。
+学习如何使用这个软件的视频多人看，导致我的B站账号还涨粉500粉丝。 
+
+![](https://pbs.twimg.com/media/FwLVgA4WcAEUgMh.png) ([View Tweet](https://twitter.com/lxfater/status/1658136255518105602))
+** 10/n 宣传工作
+
+当时@dote 宝玉老师看到，他给我转发了我的应用。他还提示我应该录制几个短视频来说明如何使用工具。
+
+猫娘嘴替，就是将你说过的话转化为猫娘的口气。本应该是一个输入法级别的应用。
+
+实际上在任何可以码字的对话框都是使用，这样其实在编辑器中也能生成文章
+
+https://t.co/DHzbaarGWY ([View Tweet](https://twitter.com/lxfater/status/1658136262124130304))
+** 11/n 宣传工作
+
+为了教会大家使用软件，我还拉了tg群。很快就突破了1000人了。 
+
+![](https://pbs.twimg.com/media/FwLYDRKXwAMXPtC.png) ([View Tweet](https://twitter.com/lxfater/status/1658136269246058496))
+** 11/n 后续开发
+
+由于长期熬夜，我停止了软件的开发一周。
+
+后续我继续开发如下功能：
+1. 自动更新
+2. agent功能，联网功能
+3. 桥接api到本地服务器
+
+https://t.co/wqv0png3rG
+
+大部分用户都没能看到这些功能。因为某些原因，我开始将我的B站视频全部删除了，项目换成了英文。 ([View Tweet](https://twitter.com/lxfater/status/1658136274077892614))
+** 12/n 后续开发
+
+在听@tinyfool 的space后，我彻底下定决心将我的应用去除中文，变成全英文。
+
+并决定将软件的服务客户变成英文客户。
+
+我开始意识到有些东西不是我一个能做好的了。我就放弃了开发。。。
+
+是的我又放弃了。。。 ([View Tweet](https://twitter.com/lxfater/status/1658136278628700160))
+** 13/n 总结
+如何获取灵感：
+
+尝试做某些收费软件的开源替代是一个十分不错的项目点子。不过要求你看得项目很多。
+
+我开始尝试做出大公司软件得平替了，多亏我看的代码足够多。有时候，你确实能做某些东西的开源替代，应该能爆发式的增长。因为这个点子有大公司背书说明有价值。 ([View Tweet](https://twitter.com/lxfater/status/1658136283108245510))
+** 14/n 总结
+如何宣传：
+
+分享有价值的信息，提高自己的人气。当产品发布的时候，他们就会主动帮你宣传。不仅仅是我提到了前面的两位老师，我微信上还认识了不少朋友，包括汇聚众多独立开发者的微信群的群主，@vista8。 ([View Tweet](https://twitter.com/lxfater/status/1658136288334323712))
+** 15/n 反思：
+应该使用成功的ui设计方案：
+
+进入了@vista8的群后，很多朋友和我反应我的软件特别难用。哈哈哈。
+
+后来我仔细看了看，几乎没有人的软件的交互设计和我的一样，大家都和某款界面类似。根本原因是用户需要学习新界面的使用，而用户是不想学习的。
+
+使用成熟的设计是一个永远不会出错的选择 ([View Tweet](https://twitter.com/lxfater/status/1658136294265081856))
+** 15/n 反思：
+不要做没有前景的项目：
+
+随着openai和其他不可抗力对这类应用的打击。我预判我的应用其实没有存在的必要了，因为我一直做免费应用，根本资金没办法对抗风险。
+
+我删除了B站的宣传视频，项目进入封档状态。当时tg群到了1000人后就不能删除了。 ([View Tweet](https://twitter.com/lxfater/status/1658136301458309121))
+** 故事结束了吗？
+         我的故事还没有结束，我几乎尝试了所有的应用类型，浏览器插件，桌面应用，网站。
+         我还么没介绍我的网站类型的应用，但是我觉分享得够多了，是时候认真工作，认真生活了，保持健康。
+         
+https://t.co/yxpvWTo4bZ ([View Tweet](https://twitter.com/lxfater/status/1658136305442885634))
+** 我几乎没有拒绝过别人的分享的邀请，某些不合情理的除外。
+
+我几乎都分享了我对产品，代码的核心看法，但是这些知识会在一两周内过时。
+
+大家经常认为只有成功的人才值得分享他们的经验，其实错了，失败往往比成功更加值得分享。
+
+在社区里面学习，然后分享给社区。respect！ ([View Tweet](https://twitter.com/lxfater/status/1658136309519745024))

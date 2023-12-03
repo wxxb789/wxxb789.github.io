@@ -1,0 +1,11 @@
+* 25-Guava
+
+Features:
+
+- collection
+- caching
+- primitives support
+- concurrency libraries
+- common annotations
+- string processing
+- I/O

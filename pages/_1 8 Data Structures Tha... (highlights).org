@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: _1 8 Data Structures Tha... (highlights)
+:author: [[alexxubyte on Twitter]]
+:full-title: "/1 8 Data Structures Tha..."
+:category: [[tweets]]
+:url: https://twitter.com/alexxubyte/status/1617564098820182018
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-15]]
+** /1 8 Data Structures That Power Your Databases. Which one should we pick? 
+
+![](https://pbs.twimg.com/media/FnK99jjakAAyo6l.jpg) ([View Tweet](https://twitter.com/alexxubyte/status/1617564098820182018))
+** /2 The answer will vary depending on your use case. Data can be indexed in memory or on disk. Similarly, data formats vary, such as numbers, strings, geographic coordinates, etc. The system might be write-heavy or read-heavy. ([View Tweet](https://twitter.com/alexxubyte/status/1617564105900163072))
+** /3 All of these factors affect your choice of database index format.
+
+The following are some of the most popular data structures used for indexing data:
+
+🔹Skiplist: a common in-memory index type. Used in Redis 
+
+![](https://pbs.twimg.com/media/FnK9_WlaAAAvYiQ.jpg) ([View Tweet](https://twitter.com/alexxubyte/status/1617564132798271488))
+** /4 🔹Hash index: a very common implementation of the “Map” data structure (or “Collection”)
+🔹SSTable: immutable on-disk “Map” implementation
+🔹LSM tree: Skiplist + SSTable. High write throughput
+🔹B-tree: disk-based solution. Consistent read/write performance 
+
+![](https://pbs.twimg.com/media/FnK-BE6aEAAvTHl.jpg) ([View Tweet](https://twitter.com/alexxubyte/status/1617564159947968512))
+** /5 🔹Inverted index: used for document indexing. Used in Lucene
+🔹Suffix tree: for string pattern search
+🔹R-tree: multi-dimension search, such as finding the nearest neighbor 
+
+![](https://pbs.twimg.com/media/FnK-CfAacAE6lAI.jpg) ([View Tweet](https://twitter.com/alexxubyte/status/1617564186619547650))
+** /6 This is not an exhaustive list of all database index types. Over to you:
+
+1). Which one have you used and for what purpose?
+2). There is another one called “reverse index”. Do you know the difference between “reverse index” and “inverted index”? ([View Tweet](https://twitter.com/alexxubyte/status/1617564194215464961))
+** /7 I will provide a more in-depth analysis of this topic. Subscribe to our newsletter to get the latest update: https://t.co/9nVvzXEN3s 
+
+![](https://pbs.twimg.com/media/FnK-EWcacAAzDMZ.jpg) ([View Tweet](https://twitter.com/alexxubyte/status/1617564207591096320))
+** /8 I hope you've found this thread helpful.
+
+Follow me @alexxubyte for more.
+
+Like/Retweet the first tweet below if you can: https://t.co/KXJDJwai8N ([View Tweet](https://twitter.com/alexxubyte/status/1617564212917841921))

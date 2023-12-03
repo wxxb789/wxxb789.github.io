@@ -1,0 +1,6 @@
+* HTTP辩证
+
+** GET vs POST
+- GET 中的总字符数是有限的。
+- GET 发送的数据会追加到URL后面。
+** URL vs URI

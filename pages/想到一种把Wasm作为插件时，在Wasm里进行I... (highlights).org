@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: 想到一种把Wasm作为插件时，在Wasm里进行I... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[spacewanderlzx on Twitter]]
+:full-title: "想到一种把Wasm作为插件时，在Wasm里进行I..."
+:category: [[tweets]]
+:url: https://twitter.com/spacewanderlzx/status/1681298182993760257
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-06]]
+** 📌
+** #+BEGIN_QUOTE
+** 想到一种把Wasm作为插件时，在Wasm里进行IO的思路。Wasi不是支持创建non-blocking fd嘛，将创建出的fd通过host function传给host来epoll wait，有读事件后执行Wasm回调函数。不过这样做需要修改Wasm侧的IO方法，不如直接由host function来完成IO工作。  ([View Tweet](https://twitter.com/spacewanderlzx/status/1681298182993760257))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 一个变种是Wasi创建epoll fd，然后走同样的host function流程，毕竟epoll wait是支持嵌套fd。这样应该只用修改封装了epoll的调度器（比如tokio）。改动量明显变小。  ([View Tweet](https://twitter.com/spacewanderlzx/status/1681299283713359873))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 如果将来wasm支持thread了，原理也是差不多的。只是有thread之后就能由wasm自己的event loop在后台来处理IO了，只需借助host function来通知host去执行回调函数  ([View Tweet](https://twitter.com/spacewanderlzx/status/1681299780809662465))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 啊不对，一旦有thread了就不需要让host执行回调函数了，反正自己都有常驻的后台线程，用rpc call的方式跟host交互难道不香嘛😜如果精力许可，也可以提供直接访问host数据的方法（可能要加锁）  ([View Tweet](https://twitter.com/spacewanderlzx/status/1681302940961898498))
+** #+END_QUOTE

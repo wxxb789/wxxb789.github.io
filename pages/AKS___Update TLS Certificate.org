@@ -1,0 +1,50 @@
+#+tags: k8s,
+
+* 1. List all certificates and secrets.
+
+#+BEGIN_SRC bash
+kubectl get certificate -A
+kubectl get certificate -n <namespace>
+
+kubectl get secrets -A
+kubectl get secrets -n <namespace>
+#+END_SRC
+* 2. Review metadata
+
+#+BEGIN_SRC bash
+kubectl describe certificates <cert name> -n <namespace>
+kubectl describe secret <secret name> -n <namespace>
+#+END_SRC
+* 3. Delete certifcate and secret
+
+#+BEGIN_SRC bash
+kubectl delete certificates <cert name> -n <namespace>
+kubectl delete secret <secret name> -n <namespace>
+#+END_SRC
+* 4. Apply a new one
+
+
+#+BEGIN_SRC bash
+kubectl apply -f <yaml file>
+#+END_SRC
+
+#+BEGIN_SRC yaml
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: <certificate-name>
+  # cert-manager will put the resulting Secret in the same Kubernetes 
+  # namespace as the Certificate. You should create the certificate in 
+  # whichever namespace you want to configure a Host.
+  namespace: elastic-system
+spec:
+  secretName: <secret-name>
+  issuerRef:
+    name: <issuer-name> #letsencrypt
+    kind: ClusterIssuer
+  dnsNames:
+  # Replace this with the FQDN or DNS value
+  - <FQDN or DNS name>
+#+END_SRC
+* kubectl describe certificates <cert name> -n <namespace>
+kubectl describe secret <secret name> -n <namespace>

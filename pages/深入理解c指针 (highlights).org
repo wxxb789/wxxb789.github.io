@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: 深入理解c指针 (highlights)
+:author: [[Geekinney's Blog]]
+:full-title: "深入理解c指针"
+:category: #articles
+:url: https://geekinney.com/post/summary-of-c-pointer/
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-31]]
+** 指针的用法
+
+通常我们用`*`定义的指针叫做：**指向非常量的指针**。就像我们前面使用的那样，“指向非常量的指针”可以修改指针的指向(地址)，也可以通过解引来修改指针指向的数据。但在一些特殊情况下，我们可能需要控制指针这两种操作的权限。这就需要引入"常量"的概念。C语言中，用`const`关键字定义一个常量。
+
+下面介绍三种和常量相关的指针:
+
+•   **指向常量的指针**: 可以修改指针的指向，但是不能修改指向的数据。
+•   **指向非常量的常量指针**:不可以修改指针的指向，但可以修改指向的数据。
+•   **指向常量的常量指针**:即不可以修改指针的指向，也不可以修改指向的数据。 ([View Highlight](https://read.readwise.io/read/01gmcwe2vdy66m4vfm0evkjgyk))

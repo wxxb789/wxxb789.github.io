@@ -1,0 +1,11 @@
+
+* =Get-Command=
+#+begin_src pwsh
+Get-Command -CommandType Alias
+#+end_src
+- =%=: =ForEach-Object=
+- =?=: =Where-Object=
+- =ac=: =Add-Content=
+- =gcm=: =Get-Command=
+
+*

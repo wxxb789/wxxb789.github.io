@@ -1,0 +1,7 @@
+#+title: Web Reading/Go Does Not Needs a Java Style GC
+
+* Link
+** [[https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60][Raw Link]]
+** [[https://news.ycombinator.com/item?id=29319160][Hacker News Link]]
+** [[https://lobste.rs/s/olllvs/go_does_not_need_java_style_gc][Lobsters]]
+*

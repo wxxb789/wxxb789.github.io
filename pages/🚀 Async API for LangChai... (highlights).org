@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: 🚀 Async API for LangChai... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[rohanpaul_ai on Twitter]]
+:full-title: "🚀 Async API for LangChai..."
+:category: [[tweets]]
+:url: https://twitter.com/rohanpaul_ai/status/1679399433547423749
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-13]]
+** 📌
+** #+BEGIN_QUOTE
+** 🚀 Async API for LangChain for Scalable Application building🚀🚀
+
+The main reason that has come in the way of using LangChain for building scalable apps out of the box, is that some components of LangChain are not asynchronous by nature.
+
+Meaning, those components can not really… https://t.co/j1t6rGxKCf 
+
+![](https://pbs.twimg.com/media/F05r-cYX0AESI-5.jpg) ([View Tweet](https://twitter.com/rohanpaul_ai/status/1679399433547423749))
+** #+END_QUOTE

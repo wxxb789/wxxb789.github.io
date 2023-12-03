@@ -1,0 +1,14 @@
+*
+* links
+** [[https://github.com/lorien/awesome-web-scraping][lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing. (github.com)]]
+** [[https://news.ycombinator.com/item?id=32788010][Show HN: Extract Markdown, HTML or text from content-heavy websites | Hacker News (ycombinator.com)]]
+** [[https://content-parser.com/][Content Parser Website (content-parser.com)]]
+** [[https://github.com/benprew/clippy][benprew/clippy: Opensource commandline webclipper. (github.com)]]
+** [[https://github.com/mozilla/readability][mozilla/readability: A standalone version of the readability lib (github.com)]]
+** [[https://github.com/mixmark-io/turndown][mixmark-io/turndown: 🛏 An HTML to Markdown converter written in JavaScript (github.com)]]
+** [[https://github.com/amerkurev/scrapper][amerkurev/scrapper: Web scraper with a simple REST API living in Docker and using a Headless browser and Readability.js for parsing. (github.com)]]
+*** headless browser, use [[https://github.com/microsoft/playwright][microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. (github.com)]]
+*** =Readability.js=
+***
+***
+*

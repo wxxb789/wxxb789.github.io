@@ -1,0 +1,76 @@
+
+
+* 7.重构POJO类
+
+
+1. 采用注解的方式，重构POJO类为AOP的切面
+
+#+begin_src java
+  //普通POJO类
+  @Component("serviceLogger")
+  @Aspect
+  public class ServiceLogger {
+      private static SimpleDateFormat dataFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss:SSS");
+
+      @Pointcut("within(service..*)")
+      private void servicePointcut(){
+          //满足使用@Pointcut的硬性要求，定义支撑使用此注解的方法
+      }
+
+      //定义环绕通知
+      @Around(value="servicePointcut()")
+      public Object aroundAdvice(ProceedingJoinPoint pjoint) throws Throwable{
+          //记录起始时间点
+          long start = System.currentTimeMillis();
+          //链式调用
+          Object obj = pjoint.proceed();
+          //记录结束时间点
+          long end = System.currentTimeMillis();
+
+          //将结束时间点封装为日期对象
+          Date date =new Date(end);
+
+          //获得目标对象的类名
+          String className = pjoint.getTarget().getClass().getName();
+          //获得目标对象的执行方法的名称
+          String methodName=pjoint.getSignature().getName();
+          //拼接key
+          String key =className+"."+methodName;
+          String value =PropertiesUtil.getPropertyValue(key);
+          System.out.println("AOP环绕通知:"+dataFormat.format(date)+value+"执行消耗时间为:"+(end-start));
+          return obj;
+      }
+  }
+#+end_src
+
+2. PropertiesUtil工具类
+
+#+begin_src java
+  //提取properties文件中的属性值
+  public class PropertiesUtil {
+      //将properties文件的位置封装到一个静态的常量中
+      private static final String LOCATION="serviceMethods.properties";
+      //创建一个空的Properties对象
+      private static Properties pros = new Properties();
+      //定义一个静态语句块，使用Properties文件填充Properties对象
+      static{
+          //使用类加载器，加载Properties文件进入内存成为输入流
+          ClassLoader loader= PropertiesUtil.class.getClassLoader();
+          InputStream in = loader.getResourceAsStream(LOCATION);
+          //使用输入流填充Properties对象
+          try {
+              pros.load(in);
+          } catch (IOException e) {
+              System.out.println("填充Properties对象时异常");
+              e.printStackTrace();
+          }
+      }
+      //私有化构造器，目的是不创建本类对象
+      private PropertiesUtil(){
+      }
+      //定义一个静态的工具方法，获得属性值
+      public static String getPropertyValue(String key){
+          return pros.getProperty(key);
+      }
+  }
+#+end_src

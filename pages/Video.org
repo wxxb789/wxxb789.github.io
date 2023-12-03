@@ -1,0 +1,7 @@
+* y2b
+:PROPERTIES:
+:query-sort-by: block
+:query-table: true
+:query-sort-desc: true
+:END:
+{{query [[y2b]] }}

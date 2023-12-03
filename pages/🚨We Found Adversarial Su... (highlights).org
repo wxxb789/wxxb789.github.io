@@ -1,0 +1,77 @@
+:PROPERTIES:
+:title: 🚨We Found Adversarial Su... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[andyzou_jiaming on Twitter]]
+:full-title: "🚨We Found Adversarial Su..."
+:category: [[tweets]]
+:url: https://twitter.com/andyzou_jiaming/status/1684766170766004224
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-28]]
+** 📌
+** #+BEGIN_QUOTE
+** 🚨We found adversarial suffixes that completely circumvent the alignment of open source LLMs. More concerningly, the same prompts transfer to ChatGPT, Claude, Bard, and LLaMA-2…🧵
+
+Website: https://t.co/ja2FPw9aad
+Paper: https://t.co/1q4fzjJSyZ 
+
+![](https://pbs.twimg.com/media/F2F7ooRaUAEu05s.jpg)  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766170766004224))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Claude-2 has an additional layer of safety filter. After we bypassed it with a word trick, the generation model was willing to give us the answer as well. 
+
+![](https://pbs.twimg.com/media/F2F7yLoaAAAYbxx.jpg)  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766173437771776))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** With only four adversarial suffixes, some of these best models followed harmful instructions over 60% of the time. 
+
+![](https://pbs.twimg.com/media/F2F71-YaEAAN0vQ.png)  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766176084377600))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Manual jailbreaks are rare, often unreliable as demonstrated by the “sure, here’s” jailbreak (see previous figure). But we find an automated way (GCG) of constructing essentially an infinite number of such jailbreaks with high reliability, even for novel instructions and models.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766178374475776))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Aligned models are not adversarially aligned! Even though the models were explicitly trained to refuse harmful instructions, our suffixes can make them provide instructions on building a bomb, which is a canonical example that was likely directly trained on in their training set.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766179855089665))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Can't we just patch them?
+
+Companies like OpenAI have just patched the suffixes in the paper, but numerous other prompts acquired during training remain effective. Moreover, if the model weights are updated, repeating the same procedure on the new model would likely still work. 
+
+![](https://pbs.twimg.com/media/F2F8DjGakAA9R9s.jpg)  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766181381812225))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** This alarming finding suggests short-term risks of bad actors exploiting these systems for spreading misinformation and manipulating people and politics. Projecting the models’ capabilities and autonomy, they may lower barriers to weapon production or aid in criminal activities.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766183369986049))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** So why did we publish it?
+
+Despite the risks, we believe it to be proper to disclose in full. The attacks presented here are simple to implement, have appeared in similar forms before, and ultimately would be discoverable by any dedicated team intent on misusing LLMs.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766184871546881))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Through publishing this attack as a research group, our aim is to sound the alarm early 🚨 and help facilitate the discussion. Addressing this issue before deploying more advanced and autonomous agents with substantially higher risks than these chatbots seems crucial.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766186285019137))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** So can we fix this?
+
+It's uncertain. Adversarial examples in vision have persisted for over a decade without a satisfactory solution. It's unclear if this will fundamentally restrict the applicability of LLMs. We hope our work can spur future research in these directions.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766187853582336))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** If you’re interested in our work, please check out our website: https://t.co/ja2FPw9aad and paper: https://t.co/1q4fzjJSyZ or drop me an email.  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766189443227648))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Thanks to my coauthor @_zifan_wang and advisors @zicokolter and Matt Fredrikson. Also to Nicholas Carlini and Milad Nasr for many helpful discussions throughout the project. Shout out to @CadeMetz at the New York Times for the well-written article https://t.co/ncsFAywK1n  ([View Tweet](https://twitter.com/andyzou_jiaming/status/1684766191024521216))
+** #+END_QUOTE

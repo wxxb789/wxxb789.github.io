@@ -1,0 +1,37 @@
+* vim vs neovim
+* vim keybinding emulator
+** vsvim
+** ideavim
+** vim in vscode
+** vim in browser
+*
+* tips
+* 跳转
+
+
+=daw= : delete the word under the cursor
+
+=caw= : delete the word under the cursor and put you in insert mode
+* 选取
+
+
+=vib / vab= : select content in parenthesis (round brackets)
+
+=viB / vaB= : select content in braces (curly brackets)
+
+=Vap= : 选取当前段落
+
+#+BEGIN_QUOTE
+  "[]" : Square brackets or simply brackets
+#+END_QUOTE
+* 缩进
+
+=>}= will indent all of the lines until the end of the paragraph
+(i.e. to the first empty line, see :help object-motions)
+
+=>ap= will indent all of the lines for a p-aragraph (see :help
+text-objects), even if your cursor isn't on the first line.
+* 概念
+
+
+=:help text-objects= => letters, words, sentences, paragraphs, blocks

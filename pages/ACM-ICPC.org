@@ -1,0 +1,7 @@
+#+alias: International Collegiate Programming Contest, ACM International Collegiate Programming Contest,
+
+* 国际大学生程序设计竞赛（英文全称：International Collegiate Programming Contest，简称ICPC）是由[[https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A/1896077?fromModule=lemma_inlink][美国计算机协会]]（[[https://baike.baidu.com/item/ACM/64774?fromModule=lemma_inlink][ACM]]）主办的年度竞赛，旨在展示大学生创新能力、团队精神和在压力下编写程序、分析和解决问题能力。
+* 经过近40年的发展，ACM国际大学生程序设计竞赛已经发展成为全球最具影响力的大学生程序设计竞赛，赛事由AWS、[[https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BA/298705?fromModule=lemma_inlink][华为]]和[[https://baike.baidu.com/item/Jetbrains/7502758?fromModule=lemma_inlink][Jetbrains]]赞助，在北京大学设有ICPC北京总部，用于组织东亚区域赛
+*
+*
+*

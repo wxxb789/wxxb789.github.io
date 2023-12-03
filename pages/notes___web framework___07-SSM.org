@@ -1,0 +1,96 @@
+
+
+* [07]ssm
+
+SSM 整合(SpringMVC+Spring+MyBatis)
+** 1. 整合的要点
+
+
+1. 使用 Spring 框架连接数据库,而不是 MyBatis;
+
+   1. Spring 框架提供了 SqlSessionFactoryBean,来创建 SqlSessionFactory
+      对象; (MyBatis 框架需要手工编写一个单例模式的
+      MyBatisSqlSessionFactory 工具类来创建 SqlSessionFactory 对象);
+   2. Spring 框架使用自己指定的连接池技术(dbcp).
+   3. Spring 框架提供一个 MapperScannerConfigurer 对象来创建 Mapper 对象
+
+2. Spring 框架针对业务组件和 dao 组件创建 IoC 容器，Spring
+   框架通常针对业务组件和 dao 组件创建一个单独的 IoC 容器
+
+   1. 这个 IoC 容器是 Web 类型的 IoC 容器(WebApplicationContext);
+   2. 由监听器(ContextLoaderListener)在 web 服务器启动时创建;
+   3. 这个 IoC 容器与 SpringMVC 创建的表现层 IoC 容器无缝整合,是表现层
+      IoC 容器的根容器(父容器),负责提供控制器所依赖的业务组件.
+** 2. 整合的流程
+
+
+1.  创建 Web 工程,加载整合类库,设置 xml 编写的弹出机制;
+2.  利用 MyBatis 的逆向工程,生成 JavaBean、Dao 接口及其 mapper.xml
+    文件；
+3.  创建连接数据库的 properties 文件:db-mysql.properties
+
+    1. 配置连接数据库的 4 大参数;
+    2. 配置连接池的伸缩性;
+
+4.  创建 MyBatis 框架级配置文件:mybatis-config.xml
+
+    1. 配置 MyBatis 的日志的输出形式
+
+       2. 配置 JavaBean 的别名,方便在 mapper 文件中使用;
+       3. 配置 Mapper 文件的引用.
+
+5.  创建 Spring 与 MyBatis 框架的整合配置文件:spring-mybatis.xml
+
+    1. 使用 Spring 框架代替 MyBatis 框架连接数据库
+
+       1. 解析 db-mysql.properties 文件;
+       2. 使用 dbcp 连接池
+       3. 通过配置 SqlSessionFactoryBean,采用工厂模式创建 SqlSession
+          对象, SqlSession 的 id 属性也被称为 beanname(对象的引用名称).
+
+    2. 注册 Spring 框架的内置对象(MapperScannerConfigure),用来创建
+       Mapper 对象
+    3. 使用 Spring 框架创建和管理 Service 对象(业务组件)
+
+       1. 普通切面(针对 Service 对象的业务方法实施跟踪和记录执行时间)
+       2. 事务切面,对业务组件实施事务管理.
+
+6.  在 spring-mybatis.xml 文件中,配置创建 mapper
+    对象的类------MapperScannerConfigurer,它有 2 个属性需要配置:
+
+    1. dao 包的位置;
+    2. SqlSessionFactory 对象的 BeanName;
+
+7.  使用 JUnit4,测试 UserDao 接口中所定义的方法.
+8.  定义 UserService 接口
+9.  定义 UserService 接口的实现类,并实施注解方式的控制反转和依赖注入;
+10. 在 spring-mybatis.xml
+    配置文件中,实施注解扫描业务组件和注解驱动的事务管理(相应的配置);
+11. 采用注解的方式,重构 POJO 类为 AOP 的切面,并在 spring-mybatis
+    配置文件中,实施 aspectj 注解驱动的切面配置.
+12. 使用 JUnit4,测试 UserService 接口方法.
+13. SpringMVC 的表现层的开发:
+
+    1. 准备 spring mvc 的 web 结构:
+
+       1. 在 webroot 下创建静态资源目录:css,js,images
+       2. 在 WEB-INF 目录下,创建目录:config,jsp,resources
+
+    2. 在 web.xml 文件中:
+
+       1. 注册总控制器-DispatcherServlet(请求分发器)
+       2. 注册编码过滤器
+       3. 注册监听器,创建 web 类型的 IoC 容器(管理
+          Service,Dao,连接池,事务管理器....);
+
+    3. 编写控制器 UserController
+
+       1. 针对 JavaBean 实施注解校验,非空,email 格式等校验
+       2. 针对成功的登录用户,记录最新的登录时间和 ip
+          地址,并同步到数据库中,并且将用户存入到 HttpSession 对象中;
+       3. 转发到 jsp
+          输出页面,输出登录用户的信息.对于非法用户,返回登录页面,产生错误信息.
+
+    4. 编写 LoginForm.jsp 页面(输入页面)
+    5. 编写 UserInfo.jsp 页面(输出页面)
+    6. 开发登出功能,实施重定向返回到登录页面.

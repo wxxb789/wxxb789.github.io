@@ -1,0 +1,62 @@
+:PROPERTIES:
+:title: Today We Release LLaMA,... (highlights)
+:author: [[GuillaumeLample on Twitter]]
+:full-title: "Today We Release LLaMA,..."
+:category: #tweets
+:url: https://twitter.com/GuillaumeLample/status/1629151231800115202
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-02-26]]
+** Today we release LLaMA, 4 foundation models ranging from 7B to 65B parameters.
+LLaMA-13B outperforms OPT and GPT-3 175B on most benchmarks. LLaMA-65B is competitive with Chinchilla 70B and PaLM 540B.
+The weights for all models are open and available at https://t.co/q51f2oPZlE
+1/n 
+
+![](https://pbs.twimg.com/media/FpvTWxDX0AUOi-m.jpg) 
+
+![](https://pbs.twimg.com/media/FpvTXeJXwAAGmDU.png) 
+
+![](https://pbs.twimg.com/media/FpvTaD1XgAAp9hI.png) 
+
+![](https://pbs.twimg.com/media/FpvTcVtWYAEx6CD.png) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151231800115202))
+** Unlike Chinchilla, PaLM, or GPT-3, we only use datasets publicly available, making our work compatible with open-sourcing and reproducible, while most existing models rely on data which is either not publicly available or undocumented.
+2/n 
+
+![](https://pbs.twimg.com/media/FpvTkckWYAAroWL.png) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151234597740550))
+** All our models were trained on at least 1T tokens, much more than what is typically used at this scale.
+Interestingly, even after 1T tokens the 7B model was still improving.
+3/n 
+
+![](https://pbs.twimg.com/media/FpvTrDXWYAA_g2J.png) 
+
+![](https://pbs.twimg.com/media/FpvTtLRWIAYI05s.jpg) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151236640448512))
+** On Common Sense Reasoning, Closed-book Question Answering, and Reading Comprehension, LLaMA-65B outperforms Chinchilla 70B and PaLM 540B on almost all benchmarks.
+4/n 
+
+![](https://pbs.twimg.com/media/FpvTz5bX0AEEtE2.png) 
+
+![](https://pbs.twimg.com/media/FpvT1ccXwAQ6ZQp.png) 
+
+![](https://pbs.twimg.com/media/FpvT3hTWIAIJMnN.png) 
+
+![](https://pbs.twimg.com/media/FpvT5FVX0AIFMOU.png) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151239043702784))
+** LLaMA-65B outperforms Minerva-62B on GSM8k, even though it has not been fine-tuned on any mathematical dataset. On the MATH benchmark, it outperforms PaLM-62B (but is quite below Minerva-62B)
+5/n 
+
+![](https://pbs.twimg.com/media/FpvoYpEWYAAuBtn.png) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151241245798400))
+** On code generation benchmarks, LLaMA-62B outperforms cont-PaLM (62B) as well as PaLM-540B. 
+
+![](https://pbs.twimg.com/media/FpvUIxQWcAA_cVw.png) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151243548385280))
+** We also briefly tried instruction finetuning using the approach of Chung et al. (2022).
+The resulting model, LLaMA-I, outperforms Flan-PaLM-cont (62B) on MMLU and showcases some interesting instruct capabilities.
+7/n 
+
+![](https://pbs.twimg.com/media/FpvUOIgWIAE2Z9c.png) 
+
+![](https://pbs.twimg.com/media/FpvUa3gXsAMZVm-.jpg) 
+
+![](https://pbs.twimg.com/media/FpvUebDWIAQPmDn.png) 
+
+![](https://pbs.twimg.com/media/FpvobSMXgAIFMvG.png) ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151258119479431))
+** With @HugoTouvron, @LavrilThibaut, @gizacard, @javier_m, @MaLachaux, @tlacroix6, @b_roziere, @NamanGoyal21, Eric Hambro, Faisal Azhar, @AurR0d, @armandjoulin, @EXGRV
+8/8 ([View Tweet](https://twitter.com/GuillaumeLample/status/1629151261474844672))

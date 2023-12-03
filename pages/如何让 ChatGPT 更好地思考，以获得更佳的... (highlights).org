@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: 如何让 ChatGPT 更好地思考，以获得更佳的... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "如何让 ChatGPT 更好地思考，以获得更佳的..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1714578115580833858
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-10-18]]
+** 📌
+** #+BEGIN_QUOTE
+** 如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。
+
+1） CoT，思维链提示，https://t.co/j5x4KhSEsY，将思考过程打印出来或者提供 one-shot/few-shot，输出的准确性会更高；例如你可以在提示词后追加：“Let's think step by step”，效果就要好一些。
+
+对于决策推理性的问题，CoT 的效果都比较不错，事实上这个涌现效果是被发现而不是被设计出来的，后来它的有效性在这篇论文（https://t.co/j5x4KhSEsY）中得到了证明。
+
+2）Self-Consistency，自洽性，https://t.co/mxcrP48gwD，在多次输出中找到投票最高的那条，例如你可以这么跟 ChatGPT 说：
+
+“对于每一个问题，你会思考 5 种不同的思路，然后将它们结合起来，输出最佳的措辞、最全面和最准确的答案。”
+
+3）Least to Most prompting，本质是规划+逐步执行，https://t.co/j5x4KhSEsY，对于复杂的任务，单纯使用 CoT + SC 效果依然不会太好，可以让 ChatGPT 先自己去拆解问题再回答：
+
+"对于每一个问题，你首先需要回答是否将问题分解为子问题，若否，直接给出答案；若是，则将问题拆解为子问题，然后将它们结合起来，输出最佳的措辞、最全面和最准确的答案。"
+
+“To solve {problem}, we need to……”，让大模型开启这种思维模式，不断细化问题，结果会更好。
+
+4）Multi-Persona Self-Collaboration，多角色扮演，https://t.co/6owPiEclKO，这个有点类似之前提到的 AutoGen，让多个代理相互对话来解决问题，只不过 AutoGen 是从工程层面真正做到了多 Agents 交互，而这里提到的，是让 ChatGPT 扮演多重人格/角色，例如：
+
+“你可以扮演任何角色，针对我给出的问题，请提供三个最相关的角色，对问题进行两轮讨论，然后你综合讨论结果总结最佳方案。请打印三个角色的讨论过程以及最后的方案。”
+以上，这些技巧的运用并不复杂，但是思想比较重要，掌握了之后，稍微修改下 Prompt，便可以得到更加符合预期的结果。  ([View Tweet](https://twitter.com/Barret_China/status/1714578115580833858))
+** #+END_QUOTE

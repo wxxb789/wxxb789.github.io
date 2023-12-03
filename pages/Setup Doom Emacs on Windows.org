@@ -1,0 +1,6 @@
+#+tags: emacs, doomemacs,
+
+* gow
+* msys2
+** ~mingw64/mingw-w64-x86_64-fontconfig~
+**

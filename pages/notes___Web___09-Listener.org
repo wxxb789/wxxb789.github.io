@@ -1,0 +1,264 @@
+
+
+* Listener
+
+监听器就是观察者模式
+
+1. 事件源：在指定的事件源上给其设置了指定的事件
+2. 事件：给事件绑定指定的监听器
+3. 监听器：事件源上只要触发了相应的事件就是自动执行对应的监听器
+* 监听器使用过的地方
+
+
+1. oracle的触发器
+
+#+begin_quote
+  事件源:表，行，列等
+
+  事件:增， 删， 改， 查等
+
+  监听器:触发器
+#+end_quote
+
+2. js的事件机制: >事件源:html标签 > >事件:点击 鼠标悬浮 鼠标移开 选中
+   改变等 > >监听器:事件处理函数
+
+3. XML的SAX解析器: >事件源:xml文档 > >事件:读 >
+   >监听器:事件驱动器DefaultHandler
+* JavaWeb中的监听器(8个监听器)
+
+
+1. JavaWeb三个域对象的生死监听器和属性监听器
+
+   - request:生死监听器，属性监听器
+   - session:生死监听器，属性监听器
+   - application:生死监听器，属性监听器
+
+2. session的感知监听器:=HttpSessionBindingListener=与=HttpSessionActivationListener=
+* JavaWeb中编写监听器
+
+
+1. 编写一个监听器类:
+   要求必须去实现某个监听器接口,并重写其所有的抽象方法。
+   相应的监听器需要去实现相应的监听器接口并重写其所有的抽象方法,那么该
+   实现类对象就是监听器;
+
+2. 注册监听器: 将监听器和事件源进行绑定。在web.xml中配置完成注册。
+
+3. 事件源:
+   就是JavaWeb的三大域ServletContext、HttpSession、ServletRequest
+
+4. 事件:
+   对于三大域对象的生死监听器而言,事件就是三大域对象的创建(生)和销毁(死);
+   对于三大域对象的属性监听器而言,事件就是给三大域对象存储 修改
+   删除属性;
+* 事件源
+
+JavaWeb的监听器的事件源是三大域ServletContext、HttpSession、ServletRequest,
+而这三大域各有两个监听器,生命周期监听器和属性监听器:
+** 1. ServletContext
+
+
+1. 生死(生命周期)监听器:ServletContextListener(接口)
+
+#+begin_src java
+  //该方法是在服务器创建ServletContext对象之后,即服务器启动之后,触发监听器被调用;
+  viod contextInitialized(ServletContextEvent)
+  //该方法是在服务器销毁ServletContext对象之前,即服务器关闭之前,触发监听器被调用;
+  void contextDestroyed(ServletContextEvent)
+#+end_src
+
+2. 属性监听器:ServletContextAttributeListener(接口)
+
+#+begin_src java
+  //该方法是在给ServletContext域对象添加属性时,触发监听器被调用;
+  void attributeAdded(ServletContextAttributeEvent)
+  //该方法是在给ServletContext域对象替换属性时,触发监听器被调用;
+  void attributeReplaced(ServletContextAttributeEvent)
+  //该方法是在移除ServletContext域对象属性时,触发监听器被调用;
+  void | attributeRemoved(ServletContextAttributeEvent)
+#+end_src
+** 2. HttpSession
+
+
+1. 生死(生命周期)监听器:HttpSessionListener(接口)
+
+#+begin_src java
+  //该方法是在服务器创建HttpSession对象之后,即开启一个新的会话
+  //并第一次使用request.getSession()方法获取session对象时,触发监听器被调用;
+  viod sessionCreated(HttpSessionEvent)
+
+  //该方法是在服务器销毁HttpSession对象之前,即调用了session.invalidate()方法时,
+  //触发监听器被调用;注意,并不是关闭浏览器时触发监听器,因为关闭浏览器只是结束会话,
+  //并不是销毁HttpSession对象。
+  void sessionDestroyed(HttpSessionEvent)
+#+end_src
+
+2. 属性监听器:HttpSessionAttributeListener(接口)
+
+#+begin_src java
+  //该方法是在给HttpSession域对象添加属性时,触发监听器被调用;
+  void attributeAdded(HttpSessionBindingEvent)
+  //该方法是在给HttpSession域对象替换属性时,触发监听器被调用;
+  void attributeReplaced(HttpSessionBindingEvent)
+  //该方法是在移除HttpSession域对象属性时,触发监听器被调用;
+  void attributeRemoved(HttpSessionBindingEvent)
+#+end_src
+** 3. ServletRequest
+
+
+1. 生死(生命周期)监听器:ServletRequestListener(接口):
+
+#+begin_src java
+  //该方法是在服务器创建ServletRequest对象之后,即发起一个新的请求时,触发监听器被调用;
+  viod requestInitialized(ServletRequestEvent)
+  //该方法是在服务器销毁ServletRequest对象之前,即一个请求结束时,触发监听器被调用;
+  void requestDestroyed(ServletRequestEvent)
+#+end_src
+
+2. 属性监听器:ServletRequestAttributeListener(接口):
+
+#+begin_src java
+  //该方法是在给ServletRequest域对象添加属性时,触发监听器被调用;
+  void attributeAdded(ServletRequestAttributeEvent)
+  //该方法是在给ServletRequest域对象替换属性时,触发监听器被调用;
+  void attributeReplaced(ServletRequestAttributeEvent)
+  //该方法是在移除ServletRequest域对象属性时,触发监听器被调用;
+  void attributeRemoved(ServletRequestAttributeEvent)
+#+end_src
+* 事件对象
+
+** 1. 生命周期事件对象
+
+三大域对象的*生命周期监听器*的方法中都有对应的参数,叫事件对象
+*** 1.1. ServletContextListener监听器的事件对象
+
+=ServletContextEvent=
+
+获取servletContext域对象 =ServletContext getServletContext()=
+*** 1.2. HttpSessionListener监听器的事件对象
+
+=HttpSessionEvent=
+
+获取session域对象 =HttpSession getSession()=
+*** 1.3. ServletRequestListener监听器的事件对象
+
+=ServletRequestEvent=
+
+获取servletContext域对象 =ServletContext getServletContext()=
+
+获取request域对象 =ServletRequest getServletRequest()=
+** 2. 属性事件对象
+
+三大域对象的*属性监听器*的方法中也有其对应的事件对象:
+*** 2.1. ServletContextAttributeListener监听器的事件对象
+
+=ServletContextAttributeEvent=
+
+获取ServletContext域对象 =ServletContext getServletContext()=
+
+获取ServletContext域对象中的属性名 =String getName()=
+
+获取ServletContext域对象中的属性值 =Object getValue(=)
+*** 2.2. HttpSessionAttributeListener监听器的事件对象
+
+=HttpSessionBindingEvent=
+
+获取session域对象 =HttpSession getSession()=
+
+获取session域对象中的属性名 =String getName()=
+
+获取session域对象中的属性值 =Object getValue()=
+*** 2.3. ServletRequestAttributeListener监听器的事件对象
+
+=ServletRequestAttributeEvent=
+
+获取ServletContext域对象 =ServletContext getServletContext()=
+
+获取request域对象 =ServletRequest getServletRequest()=
+
+获取request域对象中的属性名 =String getName()=
+
+获取request域对象中的属性值 =Object getValue()=
+* session感知监听器
+
+
+1. HttpSessionBindingListener
+2. HttpSessionActivationListener
+
+感知监听器的特点
+
+1. 它们都与session相关
+2. 但是它们不是用于监听session的,而是用于监听添加到session域中的javaBean对象的。
+3. 都不需要在web.xml中注册
+** 1. =HttpSessionBindingListener=监听器
+
+用于监听session域对象中的javaBean对象的*添加移除*的,所以添加到
+session域中的javaBean对象所属类必须需要实现=HttpSessionBindingListener=
+接口,并重写。
+
+1. 当javaBean对象添加到session域中自动调用该方法
+   =void valueBound(HttpSessionBindingEvent)=
+
+2. 当javaBean对象从session域中移除自动调用该方法
+   =void valueUnbound(HttpSessionBindingEvent)=
+** 2. =HttpSessionActivationListener=监听器
+
+用于监听session域对象中存储的javaBean对象是否被序列化的,进而可以监听
+session对象钝化、活化。
+
+要求session域对象中存储的javaBean对象所属类必须实现HttpSessionActivationListener
+接口并重写以下方法,而序列化对象还要求javaBean对象所属类必须实现Serializable
+接口才能被序列化。
+
+1. 当session对象被钝化,即session对象被序列化,那么session对象中存储的
+   javaBean对象也就会被序列化,则自动调用该方法。
+   =void | sessionWillPassivate(HttpSessionEvent)=
+
+2. 当session对象被活化,即session对象被反序列化,那么session对象中存储的
+   javaBean对象也就会被反序列化,则自动调用该方法。
+   =void | sessionDidActivate(HttpSessionEvent)=
+* session的序列化和反序列化
+
+当关闭服务器,而不关闭浏览器时,当前会话的session对象就会被序列化
+存储到服务器的 =\work\Catalina\localhost\ListenerTest1=当前项目下的
+SESSIONS.ser文件中并保存在磁盘;而当再次重启服务器时,又会将磁盘中
+SESSIONS.ser文件中序列化的session对象反序列话到内存中,所以在浏览
+器中再次访问b.jsp仍然能够拿到session对象,也就能够拿到其属性。
+
+session对象的序列化和反序列话解决的问题就是重启服务器,不需要用户下线。
+
+想要禁止session对象的序列化和反序列化,只需在服务器的 =conf\context.xml=
+配置文件中加上=<Manager pathname=""/>=即可
+
+#+begin_example
+  <Context>
+      <Manager pathname=""/>
+  </Context>
+#+end_example
+* session的钝化和活化
+
+当访问用户过多时,服务器中的session对象就会暴增,那么服务器和内存的压力
+也就会暴增。所以为了解决这个问题,就将那些会话保持而不活动的session对象
+从内存中清除,然后序列化写入文件中保存在磁盘,这就叫session的钝化;而当要
+重新访问session对象时,就将序列化到文件中的session对象重新反序列化到内存
+中,这就叫session的活化。
+
+实现session的钝化和活化,在服务器的 =conf\context.xml=文件中配置
+
+#+begin_example
+  <Context>
+      <!--
+      表示session对象1分钟不活动就进行钝化,单位是分钟,
+      最小值就是1分钟,maxIdleSwap="1"
+      -->
+      <Manager className="org.apache.catalina.session.PersistentManager"
+           maxIdleSwap="1">
+      <!--
+      指定序列化session对象的存储文件的存储目录 directory="mysession",
+      路径相对于服务器 work\Catalina\localhost\ListenerTest1当前项目路径
+      -->
+      <Store className="org.apache.catalina.session.FileStore" directory="mysession"/>
+      </Manager>
+  </Context>
+#+end_example

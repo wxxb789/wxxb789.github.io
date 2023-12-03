@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: 🦜🔗Code Interpreter API... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[hwchase17 on Twitter]]
+:full-title: "🦜🔗Code Interpreter API..."
+:category: [[tweets]]
+:url: https://twitter.com/hwchase17/status/1680620252433117184
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-17]]
+** 📌
+** #+BEGIN_QUOTE
+** 🦜🔗Code Interpreter API
+
+ChatGPT's code interpreter is the hottest thing in the streets. A new project by @Shroominic takes a stab at recreating that functionality locally using OpenAI's apis
+
+Uses CodeBox - a sandboxed env with simple fileIO functionality
+
+Blog & GitHub 👇 
+
+![](https://pbs.twimg.com/media/F1LDB1hakAEBIpA.jpg) 
+
+![](https://pbs.twimg.com/media/F1LDFGUaEAAl_b9.jpg) ([View Tweet](https://twitter.com/hwchase17/status/1680620252433117184))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Excited to share a guest blog post by @Shroominic walking through how he built it and some example use cases:
+
+https://t.co/zTJcurA2S7 ([View Tweet](https://twitter.com/hwchase17/status/1680620255016816640))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Find the underlying GitHub repo here: https://t.co/yovVn8Nr12 ([View Tweet](https://twitter.com/hwchase17/status/1680620256107311105))
+** #+END_QUOTE

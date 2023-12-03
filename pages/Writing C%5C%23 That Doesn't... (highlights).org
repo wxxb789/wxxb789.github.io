@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: Writing C\# That Doesn't... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[davidfowl on Twitter]]
+:full-title: "Writing C\# That Doesn't..."
+:category: [[tweets]]
+:url: https://twitter.com/davidfowl/status/1686515549637955584
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-02]]
+** 📌
+** #+BEGIN_QUOTE
+** Writing C# that doesn't look like typical C# to parse JSON avoiding heap allocations (or using pooled allocs in some cases) (SpanAllocator is my own type). #dotnet #csharp 
+
+![](https://pbs.twimg.com/media/F2e0sPjbQAUHsnH.jpg)  ([View Tweet](https://twitter.com/davidfowl/status/1686515549637955584))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Comparing the property name to a utf8 string literal means you don't need to materialize the string at all to understand which property is being parsed. The values are going to be using a stack allocated buffer if < 256 bytes, and will fall back to pooled arrays otherwise.  ([View Tweet](https://twitter.com/davidfowl/status/1686518516457877505))
+** #+END_QUOTE

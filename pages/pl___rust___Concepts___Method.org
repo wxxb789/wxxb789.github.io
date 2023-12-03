@@ -1,0 +1,19 @@
+#+title: pl/Rust/Concepts/Method
+
+
+#+begin_src rust
+impl Rectangle {
+    fn area(&self) -> u32 {
+        self.width * self.height
+    }
+}
+#+end_src
+
+
+* auto dereference
+* =self=, =&self= and =&mut self=
+* associated function
+:PROPERTIES:
+:collapsed: true
+:END:
+** static method

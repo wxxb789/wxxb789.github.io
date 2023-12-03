@@ -1,0 +1,17 @@
+* 1. toolbox
+
+map()
+
+#+begin_example
+  def any(iterable):
+      for element in iterable:
+          if element:
+              return True
+      return False
+#+end_example
+
+filter()
+
+zip()
+
+any()

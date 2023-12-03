@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: 这哥们，凭一己之力，硬把 Stable Diff... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "这哥们，凭一己之力，硬把 Stable Diff..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1727360100283896056
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-23]]
+** 📌
+** #+BEGIN_QUOTE
+** 这哥们，凭一己之力，硬把 Stable Diffusion 的玩法，都开源了出来
+
+https://t.co/HKELmOpwT1
+
+实在心疼自己的笔记本，烧到 86°后，最终还是移到 Google Colab 上玩
+
+但，如果不是 G-Colab Pro, 时不时会被 G-Colab 掐掉，导致每次都要重连。
+
+还是付费香，办了会员，把 runtime 拉到最大，效率起来了 
+
+![](https://pbs.twimg.com/media/F_jP-U_XAAAESk1.png) 
+
+![](https://pbs.twimg.com/media/F_jQzh8XoAAiop8.jpg)  ([View Tweet](https://twitter.com/huangyun_122/status/1727360100283896056))
+** #+END_QUOTE

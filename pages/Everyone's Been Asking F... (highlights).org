@@ -1,0 +1,68 @@
+:PROPERTIES:
+:title: Everyone's Been Asking F... (highlights)
+:author: [[pwang_szn on Twitter]]
+:full-title: "Everyone's Been Asking F..."
+:category: [[tweets]]
+:url: https://twitter.com/pwang_szn/status/1657324830478446592
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-13]]
+** Everyone's been asking for it.
+
+Here it is. I've broken it down @LangChainAI Agents into bite-size chunks.
+
+• Agents Basics
+• Tools
+• Agent Executor
+• AutoGPT
+• BabyAGI
+
+Save this ↓ 
+
+![](https://pbs.twimg.com/media/FwAAJb9aYAEsB6w.jpg) ([View Tweet](https://twitter.com/pwang_szn/status/1657324830478446592))
+** Agents explained: 
+
+![](https://pbs.twimg.com/media/FwAAJ56aIAAsgKp.png) ([View Tweet](https://twitter.com/pwang_szn/status/1657324837642317824))
+** Let's define what is an agent: 
+
+![](https://pbs.twimg.com/media/FwAAKQvaAAMJTGG.jpg) ([View Tweet](https://twitter.com/pwang_szn/status/1657324843644387330))
+** Agent can use Tools (possible to use many at once..)
+
+Here's a quick breakdown of Tools: 
+
+![](https://pbs.twimg.com/media/FwAAKn9aQAE9Gca.png) ([View Tweet](https://twitter.com/pwang_szn/status/1657324850304946179))
+** Why does an agent need memory? 
+
+![](https://pbs.twimg.com/media/FwAALAcacAIYPgd.jpg) ([View Tweet](https://twitter.com/pwang_szn/status/1657324856445390848))
+** Agent Executor explained: 
+
+![](https://pbs.twimg.com/media/FwAALXeaUAEB-zd.png) ([View Tweet](https://twitter.com/pwang_szn/status/1657324863059787776))
+** P.S - ✨ I'm dropping a FREE step-by-step mini-course guide to start coding with A.I
+
+(Free for now, but not free forever)
+
+Check it out: https://t.co/pmDsYC74tK 
+
+![](https://pbs.twimg.com/media/FwAALwGaEAAfGJJ.png) ([View Tweet](https://twitter.com/pwang_szn/status/1657324869930074113))
+** AutoGPT is one type of Agent..
+
+Explained: 
+
+![](https://pbs.twimg.com/media/FwAAMKsakAEBYoR.jpg) ([View Tweet](https://twitter.com/pwang_szn/status/1657324877651779584))
+** BabyAGI is another type of Agent..
+
+Explained: 
+
+![](https://pbs.twimg.com/media/FwAAMnIacAcdhKD.png) ([View Tweet](https://twitter.com/pwang_szn/status/1657324884417208322))
+** You've may also heard about ReAct (Reasoning and Acting) Agent..
+
+Explained: 
+
+![](https://pbs.twimg.com/media/FwAAM_tagAI59vE.jpg) ([View Tweet](https://twitter.com/pwang_szn/status/1657324891329404928))
+** That's a wrap!
+
+ Chains and Prompts breakdowns are coming next.
+
+(After I finish my bowl of Curry Udon) 👀 
+
+![](https://pbs.twimg.com/media/FwAANasaIAAZGFt.png) ([View Tweet](https://twitter.com/pwang_szn/status/1657324899466375168))

@@ -1,0 +1,2936 @@
+
+* [03]SQL and PLSQL
+SQL: 结构化查询语句,是所有的关系型数据库通用的一套命令语句。
+
+1. SQL标准:才是真正意义上适用于操作所有关系型数据库的通用命令语句;
+
+   - DDL语句:定义操作语句,创建表 视图 函数...创建用户等
+   - DCL语句:控制操作语句,给用户赋权 赋予角色 撤销权限等
+   - DML语句:更新操作语句,insert update delete
+   - DQL语句:查询操作语句,select
+
+2. SQL方言:各大数据库厂商在SQL标准的基础上针对于各自数据库提供的操作语句;
+3. 对null值的处理:oracle: nvl(列名,默认值) mySQL: isnull(列名,默认值)
+
+分页查询语句:
+
+Oracle: rownum限定起始行和结束行的范围
+=select * from ( select a.* ,rownum rn from (被分页的select语句) a) where rn>=起始行 and rn<=结束行;=
+
+MYSQL:limit限定每页的起始行和每页的行数
+=select * from 表 ... limit 当前页的起始行,每页的行数;=
+** 1. Oracle 数据类型
+
+*** 1.1. 字符型
+
+**** 1.1.1. 变长字符
+
+
+- *varchar2*
+  在指定了字符数据的长度后,它给字符数据分配的长度会根据真正存储的字符数据的有效字符长度在指定的长度范围内灵活的分配;
+- *varchar2(10)*
+  表示一个长度为10的变长字符,那么接下来它所存储的字符数据会根据真正存储的数据的有效长度在10个字符的长度范围灵活的分配空间；'你好':你好两个字占用的是6个有效字符,在10个字符长度范围内,并且就给数据分配6个字符空间;
+
+最大长度：4000字符 优点: 节省空间 缺点: 效率较低
+**** 1.1.2. 定长字符
+
+
+- *char:*
+  在指定了字符数据的长度后,只要存储的字符数据的有效长度在指定的长度范围内,都给字符数据分配我们所指定的长读空间;
+- *char(10):*
+  表示一个长度为10的定长字符,那么接下来它所存储的字符数据的长度只要是在10个字符长度范围内,给数据分配的都是10个字符空间;'你好':你好两个中文字符占用6个有效字符,在10个字符长度为,那么仍然分配10个字符空间;
+  '你好'
+
+最大长度：2000字符 优点: 效率较高 缺点: 浪费空间
+
+定长字符和变长字符的选择依据:
+
+1. 如果存储的字符数据的长度是不确定就选择变长: 姓名:张三 李狗蛋 西门吹雪
+2. 如果存储的字符数据的长度是明确(固定)的选择定长: 性别:男 女
+**** 1.1.3. 大字符(文本)
+
+clob:4G
+*** 1.2. 数值型
+
+**** 1.2.1. number
+
+
+1. 整数: number(3):表示三位整数 -999 ~ 9999
+2. 浮点数: number(5,2):表示总长度是5为,小数部分是2位,整数部分是3为
+   -999.99 ~ 999.99
+**** 1.2.2. 日期型
+
+
+1. date:表示年月日时分秒
+2. timestamp:表示年月日时分秒以及毫秒
+**** 1.2.3. 字节型
+
+
+1. blob:存储的二进制数据(一般存储视频 音频 图片等的二进制数据) 4G
+** 2. 表
+
+所有的关系型数据库对数据的存储和管理使用的都是有行有列的二维表。ORM(O:object
+R:relation
+M:mapping):对象关系映射思想将对象存储的数据转换成关系型的二维表来存储。
+*** 2.1. 表管理
+
+**** 2.1.1. 创建表
+
+#+begin_src sql
+  create table 表名(
+    列1名 数据类型(长度),
+    列2名 数据类型(长度),
+    ... ...
+    列N名 数据类型(长度)
+  );
+#+end_src
+
+1. 表名建议以=t _=或 =tab_= 为前缀 =t_employee tab_emp=
+2. 列名建议使用 表名首字母_ 为前缀 =e_name=
+
+PL/SQL developer的使用:
+
+1. 命令窗口：就是SQLplus命令窗口,既能执行SQLplus命令也能执行SQL命令;
+2. SQL窗口：只能执行SQL命令以及pl/SQL的编写;
+**** 2.1.2. 修改表
+
+**SQL*PLUS命令:**
+
+=desc 表名;= 查看表结构,构成表的所有的列名字 数据类型 约束等信息;
+
+1. 追加列: =alter table 表名 add(列名 数据类型 长度);=
+2. 删除列: =alter table 表名 drop column 列名;=
+3. 修改列名: =alter table 表名 rename column 原列名 to 新列名;=
+4. 修改列的数据类型和长度:
+   =alter table 表名 modify(列名 新的数据类型(新的长度));=
+5. 修改表名: =rename 原表名 to 新表名;=
+
+#+begin_src sql
+  --创建学生表:
+  create table student(
+    sno number(10),
+    sname varchar2(20),
+    gender char(3),
+    birthday date,
+    age number(3),
+    sal number(7,2),
+    cno number(6)
+  );
+
+  select * from student;
+
+  --创建班级表:
+  create table t_class(
+    cno number(6),
+    cname varchar2(20)
+  );
+
+  select * from t_class;
+
+  --删除student表的cno列
+  alter table student drop column cno;
+  --给student表追加cno列
+  alter table student add(cno number(6));
+  --将student表的birthday列改为birth列
+  alter table student rename column birthday to birth;
+  --将student表的sname列改为定长字符长度改为15
+  alter table student modify(sname char(15));
+  --将student表名改为stu
+  rename student to stu;
+#+end_src
+*** 2.2. 表数据更新
+
+**** 2.2.1. 添加数据：
+
+*insert语句* (一般是每执行一次就向表中添加一行)
+
+1. 全列添加: =insert into 表名 values(列1值,列2值...列n值);=
+
+   1. values之后给列添加的数据,数据的顺序必须和表中列的顺序一致(数据类型
+      数据的长度等问题)
+   2. 字符型数据和日期型数据都需要使用''标识;
+   3. 日期型数据的默认格式'dd-mm月-yyyy'; 修改当前会话的日期格式:
+
+      - =alter session set nls_date_format='yyyy-mm-dd';=
+      - =alter session set nls_date_format='yyyy/mm/dd';=
+
+2. 部分列添加 =insert into 表名(列1名,列2名...) values(列1值,列2值...);=
+
+   1. values之后给列添加的值必须和values之前指定的列的顺序一致,没有添加的列默认值为null,而且前提是这些列的值允许为null,否则就会报错。
+   2. 部分列添加也能实现全列添加,无非就是指定所有的列,而且它实现全列添加的效率要比全列添加高,因为部分列添加实现的全列添加添加的列是明确的直接给列赋值,而全列添加列是不明确得先拿到所有列再去给列赋值。
+
+3. 添加null值:
+   oracle表中的列允许添加null值的,其实就是使用关键字null或者''起一个占位的效果,前提是这些列也允许为null,否则报错。
+
+*update语句* 修改数据:
+
+1. 修改所有行:(不建议操作)
+
+   - 修改所有行单列的数据 =update 表名 set 列名 = 值;=
+     就会将整张表中所有行的该列值修改了;
+   - 修改所有行多列的数据 =update 表名 set 列1名 = 值,列2名=值...;=
+     就会将整张表中所有行的这些列值修改了;
+
+2. 修改部分行
+
+   - 修改部分行单列的数据 =update 表名 set 列名 = 值 where 条件;=
+     将符合where条件的行的指定单列值进行修改; 修改部分行多列的数据
+     =update 表名 set 列1名 = 值,列2名=值... where 条件;=
+     将符合where条件的行指定的多列的值进行修改;
+
+3. 删除数据:delete语句 删除表中指定行: =delete from 表名 where 条件;=
+   表示将表中符合where条件的记录行删除了
+4. 清空表中数据:
+
+   1. =delete from 表名;=
+      将表中所有行删除了,即清空了表;有日志记录,可恢复;
+   2. =truncate table 表名;= 清空表;没有日志记录,一旦删除无法恢复;
+
+5. 删除表:
+
+   - 是将表结构和表中数据都清除了; =drop table 表名;=
+
+#+begin_src sql
+  --向stu表中全列插入一行数据
+  insert into stu values(10101,'张三','男','1-1月-1991',27,500,10);
+  --将当前会话的日期格式进行修改
+  alter session set nls_date_format='yyyy-mm-dd';
+  --向stu表中全列插入一行数据
+  insert into stu values(10102,'李四','女','1992-2-2',26,300,20);
+  --向stu表中部分列插入一行数据(只知道学生的学号 姓名 性别 所在班号)
+  insert into stu(sno,sname,gender,cno) values(10103,'王五','男',30);
+  --部分列添加实现的全列添加
+  insert into stu(sno,sname,gender,birth,age,sal,cno) 
+  values(10104,'赵六','女','1993-3-3',25,800,10);
+  --添加一条学生记录,给学生的学号 姓名 生日 年龄 所在班号赋值,
+  --但是学生生日和年龄未知
+  insert into stu(sno,sname,birth,age,cno) values(10105,'田七',null,'',20);
+  --将所有学生的性别都改为男
+  update stu set gender='男';
+  --将所有学生的性别改为男,班号都改为10 
+  update stu set gender='男',cno=10;
+  --将10班的所有学生的性别都该男
+  update stu set gender='男' where cno=10;
+  --将年龄大于25的所有学生的性别改为男 所在班号改为10
+  update stu set gender='男',cno=10 where age>25;
+  --将男生都干掉
+  delete from stu where gender='男';
+  --清空表数据
+  delete from stu;
+  truncate table stu;
+  commit; rollback; select * from stu;
+#+end_src
+** 3. 约束
+
+*** 3.1. not null (非空)约束
+
+如果在列上定义了not null约束，那么当添加数据时，必须为列提供数据。
+
+=alter table 表名 modify 列名 not null ;=
+*** 3.2. 约束
+
+用于强制列数据必须满足的检查条件。
+=alter table 表名 add constraint 约束名 check(列约束条件);=
+*** 3.3. unique(唯一)约束
+
+当定义了列的唯一约束后，该列值是不能重复的，但是可以为null。
+=alter table 表名 add constraint 约束名 unique(列名) ;=
+*** 3.4. primary key(主键)约束
+
+
+1. 用于唯一的标识表行的数据，及一张表中不能有完全相同的两行数据。两行记录其他列的值都相同只要主键约束的列的值不同也属于不完全相同的两行。
+2. 当定义主键约束后，该列不但不能重复而且不能为null。
+3. 一张表最多只能有一个主键。
+4. 加了unique约束的列不能再加主键约束，同样的加了主键约束的列不能再加唯一约束。
+5. 一般主键约束都是加给表的第一列编号列的 alter table 表名 add
+   constraint 约束名primary key(列名);
+*** 3.5. foreign key(外键)约束
+
+
+1. 用于建立表与表之间的关联关系。
+2. 外键约束要定义在从表上，主表必须具有主键约束。确定主从表:
+   谁属于谁,前面就是从表后面就是主表;以从表外键列依附主表主键列来建立主从表的关联关系;
+3. 当定义外键约束后，要求从表的外键列数据必须在主表的主键列存在或
+   是为null。
+
+#+begin_src sql
+  alter table 从表名 add constraint 约束名 foreign key(从表外键列名)
+  references  主表名 (主表主键列名) ;
+
+  --给stu表的birth列添加not null约束
+  alter table stu modify birth not null;
+
+  --给stu表的gender列添加check约束,条件是性别不是男就是女
+  alter table stu add constraint check_gender check(gender='男' or gender='女');
+  alter table stu add constraint check_gender check(gender in('男','女'));
+  --失败
+  insert into stu values(10103,'王五','妖','1994-4-4',24,null,30);
+
+  --给stu表的sname列添加unique约束
+  alter table stu add constraint unique_name unique(sname);
+  --失败
+  insert into stu values(10103,'李四','男','1994-4-4',24,null,30);
+  --可以的
+  insert into stu values(10103,'','男','1994-4-4',24,null,30);
+
+  --给stu表的sno列添加主键约束
+  alter table stu add constraint pk_sno primary key(sno);
+  --失败
+  insert into stu values(10101,'王五','女','1995-5-5',23,200,20);
+  --失败
+  insert into stu values(null,'王五','女','1995-5-5',23,200,20);
+  --给t_class表的cno列添加主键约束
+  alter table t_class add constraint pk_cno primary key(cno);
+
+  insert into t_class values(10,'java');
+  insert into t_class values(20,'php');
+  insert into t_class values(30,'c#');
+  --给stu表的cno列添加外键约束且cno列依附于主表t_class的主键列cno列
+  alter table stu add constraint fk_cno foreign key(cno)
+  references t_class(cno);
+  --失败
+  insert into stu values(105,'王五','男','1995-5-5',23,null,40);
+  --正常
+  insert into stu values(105,'王五','男','1995-5-5',23,null,30);
+  --正常
+  insert into stu values(106,'田七','女','1996-6-6',22,600,null);
+#+end_src
+*** 3.6. 删除约束
+
+
+1. 删除not null: =alter table 表名 modify 列名 null;=
+2. 删除其他四个约束: =alter table 表名 drop constraint 约束名;=
+3. 因为一张表只有一个主键约束,所以主键约束还可以这么删:
+   =alter table 表名 drop primary key;=
+*** 3.7. 建表的同时添加约束
+
+
+1. 列级定义:在定义列的同时定义约束。
+
+#+begin_src sql
+  create table student(
+    stuId number(10) primary key,--主键约束
+    sName vharchar2(20) not null,--非空约束
+    sex char(2) default ‘男’ check(sex in (‘男’,’女’)),--检查约束
+    cardNum char(18) unique,--唯一约束
+    classNo number(10) references class(classNo)--外键约束
+  );
+#+end_src
+
+1. 表级定义：定义了所有列后在定义约束。
+
+not null约束只能列级定义
+
+#+begin_src sql
+  create table student(
+  sId number(10),
+  sName varchar2(10) not null,
+  sex char(2),
+  cId number(5),
+  constraint pk_1 primary key(sId),--主键约束
+  constraint fk_1 foreign key(cId) references class(cId)–-外键约束
+  );
+#+end_src
+** 4. 查询
+
+*** 4.1. 简单查询
+
+进表 ----> 行 ----> 列
+**** 4.1.1. 全查
+
+=select * from 表名;=
+
+指查询表中所有行的所有列 1)from 表名
+之后没有跟任何条件就表示是整张表的所有行 2)*表示所有列
+
+#+begin_src sql
+  select * from dept;
+  select * from emp;
+#+end_src
+**** 4.1.2. 查询表中所有行的指定列
+
+=select 列1名,列2名... from 表名;= 1)from 表名
+之后没有任何条件表示所有行 2)select 列1名,列2名...
+获取所有行这些指定列的值
+
+--查询所有员工的工号 姓名 职位
+
+=select empno,ename,job from emp;=
+**** 4.1.3. 查询表中指定行的指定列
+
+=select 列1名,列2名... from 表 where 条件;=
+
+1. from 表:进表
+2. where 条件:从表中拿到符合条件的行
+3. select 列1名,列2名...:获取符合条件的行的这些列的值
+
+--查询工资大于2500的所有员工的姓名 职位 和工资
+
+=select ename,job,sal from emp where sal>2500;=
+**** 4.1.4. 去重查询
+
+在查询的列之前加关键字 =distinct=
+
+--查询所有员工的职位和所在部门编号
+
+=select job,deptno from emp;=
+
+=select distinct job,deptno from emp;=
+**** 4.1.5. 算术表达式
+
+--查询所有员工的年薪 =年薪=月薪*12=
+
+=select ename,sal,sal*12 from emp;=
+
+--查询年薪大于35000的所有员工
+
+=select ename,sal*12 from emp where sal*12>35000;=
+**** 4.1.6. 使用列的别名
+
+在列名之后使用as起别名,或者as都不需要直接起别名
+
+=select ename as 姓名,sal as 工资,sal*12 年薪 from emp;=
+**** 4.1.7. null值处理
+
+oracle中null是不能参加运算的,一旦参加运算结果还是null;
+
+=nvl()= 函数:
+
+1. 指定的列
+2. 指定的默认值
+
+参数一列值如果不为null,则就使用其值,如果为null,则使用参数二指定的默认值;
+
+--查询所有员工的年薪
+=年薪=(月薪+奖金)*12 select ename 姓名,(sal+comm)*12= 年薪 from emp;
+
+=select ename 姓名,(sal+nvl(comm,0))*12 年薪 from emp;=
+**** 4.1.8. 拼接字符串
+
+在oracle中可以拼接字符串,拼接方式和java一样的,只是拼接表示+而是||;
+
+=sal = 3000= =ename = 张三=
+
+姓名叫张三的员工的工资是3000
+
+"姓名叫"+ename+"的员工的工资是"+sal
+
+='姓名叫'||ename||'的员工的工资是'||sal=
+
+--查询所有员工的姓名 职位 工资 (名字叫xxx的职位是xxx的工资是xxx)
+
+=select '名字叫'||ename||'的职位是'||job||'的工资是'||sal from emp;=
+
+=select ename,job,sal from emp;=
+**** 4.1.9. 模糊查询
+
+=select 列 from 表 where 列 like '???';= --查询列像什么什么样子的行
+
+1. =%=:表示任意的多个字符
+2. =_=:表示任意的单个字符
+
+--查询姓名以首字母S开始的所有员工
+
+=select * from emp where ename like 'S%';=
+
+--查询姓名第二个字母是a的所有员工
+
+=select * from emp where ename like '_a%';=
+
+--查询姓名倒数第二个字母是a的员工
+
+=select * from emp where ename like '%a_';=
+**** 4.1.10. 逻辑运算
+
+
+1. 与或：AND OR
+
+2. =in=:列的取值范围在指定的值之内,就有或的意思,所以可以和or互换。=not in=:列的值不在指定的值之内,in的对立面
+
+3. =between and=:表示值在between和and之间的范围的意思,只适用于*数值型数据*和*日期型数据*,因为只有数值和日期才有范围;
+
+#+begin_src sql
+  --查询部门编号是10且工资大于2500的员工
+  select * from emp where deptno=10 and sal>2500;
+  --查询部门编号是10或者工资大于2500的员工
+  select * from emp where deptno=10 or sal>2500;
+  --查询工号是7566或者是7698或者是7782的员工
+  select * from emp where empno=7566 or empno=7698 or empno=7782;
+  select * from emp where empno in(7566,7698,7782);
+  --查询工号不是7566或7698或7782的员工
+  select * from emp where empno!=7566 and empno!=7698 and empno!=7782;
+  select * from emp where empno not in(7566,7698,7782);
+  --查询工资大于等于500且小于等于3000的所有员工
+  select * from emp where sal>=1500 and sal<=3000;
+  select * from emp where sal between 1500 and 3000;
+  --查询入职日期在1981-6-6到1981-12-12之间的所有员工
+  select * from emp where hiredate>='6-6月-1981' and hiredate<='12-12月-1981';
+  select * from emp where hiredate between '6-6月-1981' and '12-12月-1981';
+#+end_src
+
+1. is null:
+
+使用值为null的列做where条件,不能是:
+
++select 列 from 表 where 列 = null;+
+
++select 列 from 表 where 列 = '';+
+
+必须是:
+
+=select 列 from 表 where 列 is null;=
+
+#+begin_example
+  select * from emp where comm = null;
+  select * from emp where comm = '';
+  --正确
+  select * from emp where comm is null;
+#+end_example
+
+2. order by子句: 对查询结果按照指定的要求去排序,order
+   by之后是排序依据,如果
+   是升序最后加asc(不写,默认就是asc),如果是降序最后加desc;
+
+#+begin_src sql
+  --查询所有员工并按照员工工资降序排序
+  select * from emp order by sal desc;
+  --查询所有员工按照员工工号升序排序
+  select * from emp order by empno [asc];
+#+end_src
+
+查询所有员工并按照部门编号升序排序工资降序排序:
+其实是指先将所有员工按照部门编号升序排序,再将每个部门的员工 按照工资降序
+
+=select * from emp order by deptno,sal desc;=
+*** 4.2. 分组查询
+
+对查询结果先进行分组,然后从分组后的各组数据中获取所需内容
+
+1. 分组(聚合函数)函数:
+
+只能在=select列=、=having子句=、=order by=子句中使用, where子句和group
+by子句中不能使用;
+
+| 函数    | 作用       |
+|---------+------------|
+| max()   | 获取最大值 |
+| min()   | 获取最小值 |
+| avg()   | 获取平均值 |
+| count() | 获取总个数 |
+| sum()   | 获取总和   |
+
+2. 分组子句: 1>group by 分组依据; 对查询结果进行分组 2>having 子句;
+   是group by子句的筛选条件,筛选符合条件的组;
+
+查询所有员工的工资总和和平均工资: 1>将整张表所有行视为一组(没有用到group
+by) 2>求(一组)所有行=sal=列的总和和=sal=列的平局值
+
+=select sum(sal) 工资总和,avg(sal) 平局工资 from emp;=
+
+#+begin_src sql
+  --查询所有员工的最大工资和最小工资
+  select max(sal) 最大工资,min(sal) 最小工资 from emp;
+  --查询员工总个数(总行数,每行都有每个列,只要计算出任何一列的总个数即总行数)
+  select count(sal) from emp;
+  select count(job) from emp;
+  select count(*) from emp;
+  --查询工资最高的员工姓名和工资
+  select ename 姓名,sal 工资 from emp where sal=最高工资;
+  --错误,where子句不能把使用分组函数
+  select ename 姓名,sal 工资 from emp where sal=max(sal);
+#+end_src
+
+#+begin_src sql
+  --获取最大工资
+  select max(sal) from emp;
+  select ename 姓名,sal 工资 from emp where sal=(select max(sal) from emp)
+  --给工资大低于平均工资的员工的工资加上100
+  update emp set sal=sal+100 where sal<平均工资;
+  --错误,where子句不能把使用分组函数
+  update emp set sal=sal+100 where sal<avg(sal);
+  --获取平均工资
+  select avg(sal) from emp;
+  update emp set sal=sal+100 where sal<(select avg(sal) from emp);
+#+end_src
+
+查询每个部门的平均工资和最高工资：
+说明:将表中的记录行按照一定的依据分组后,应该是每组有多行,在最终
+的虚拟表中一组就是一行,所以不能去查询每组不确定的信息,只能
+查询每组的唯一值或者被共用的值。
+
+group by 分组依据：
+
+---
+分组依据肯定是共用值,所以一般=group by=什么就能查什么,而且分组后肯定也能使用分组函数
+(唯一值)。
+
+=select deptno 部门号,avg(sal) 平均工资,max(sal) 最高工资 from emp group by deptno;=
+
+查询每个部门的每种岗位的最低工资
+=group by deptno,job=：--不是说将所有员工按照部门号和职位同时分组,是指先将所有员工按照部门号分成多个部门组,再将每个部门按照职位分成多个职位组,最终就会有多个部门、职位组。
+
+唯一值:分组函数可以用 共用值:deptno job
+
+=select deptno 部门号,job 职位,min(sal) 最低工资 from emp group by deptno,job;=
+
+查询平均工资对于2000的部门的平均工资
+1>先将所有员工按照部门分成多个部门组 2>再查询平均工资对于2000的部门组
+
+=select deptno 部门号,avg(sal) 平均工资 from emp group by deptno having avg(sal)<2000;=
+
+数据分组总结：
+
+1. 如果在select语句中同时出现where子句、group by子句、having子句、order
+   by子句，那么它们的顺序是:select 列表 from 表名 where条件 + group by +
+   having + order by;
+
+2. select语句的执行顺序:
+   一个复杂的select语句由很多子句组成，每个子句都有其相应的执行顺序。
+   在整个过程中每个顺序步骤都会生成一个虚拟表，该虚拟表被用作下一
+   个步骤的操作。这些虚拟表对调用者是不可用的，只有最后一步生成的
+   表才会返回给调用者,我们才能从最终的虚拟表中查询所需数据,而且我们
+   select的内容必须在最终的虚拟表中存在否则报错。
+   如果在查询语句中没有某一子句，将跳过相应的步骤。
+
+流程：
+
+1. from 表:组装数据源
+2. where 子句:筛选符合条件的记录行
+3. group by子句:对where子句筛选的结果进行分组
+4. 分组函数
+5. having子句:对group by分组后的结果进行筛选,即拿到符合条件的组
+6. 表达式
+7. order by子句:对最终结果进行排序
+8. select 列:从最终虚拟表中获取所需的数据
+*** 4.3. 子查询
+
+一个select语句嵌套另一个select语句,被嵌套的select语句被称为=子查询语句=。
+**** 4.3.1. 子查询语句作为外层select语句的where条件
+
+
+- 单行单列子查询
+- 单行多列子查询
+- 多行单列子查询
+
+--查询和Smith在同一部门的所有员工
+
+1.select * 2.from emp 3.where deptno = Smith的deptno
+
+--1>查询Smith所在部门的deptno select deptno from emp where
+ename='Smith'; --2>查询和Smith在同一部门的所有员工 select /from emp
+where deptno=(select deptno from emp where ename='Smith') and
+ename!='Smith'; select/ from emp where deptno=(select deptno from emp
+where ename='Smith') and ename<>'Smith';
+
+--查询和30号部门的员工岗位相同的员工姓名 岗位 工资和所在部门号
+
+1>select ename,job,sal,deptno 2>from emp 3>where job
+in(30部门的所有岗位);
+
+--1>查询30号部门的所有岗位 select distinct job from emp where deptno=30;
+--2>查询和30号部门的员工岗位相同的员工姓名 岗位 工资和所在部门号 select
+ename,job,sal,deptno from emp where job in(select distinct job from emp
+where deptno=30) and deptno<>30;
+
+select ename,job,sal,deptno from emp where job=any(select distinct job
+from emp where deptno=30) and deptno!=30;
+**** 4.3.2. all:表示所有值 any:表示任意值
+
+--查询工资比30号部门所有员工的工资都高的员工的姓名 工资和部门号
+
+1>select ename,sal,deptno 2>from emp 3>where sal>all(30号部门员工工资)
+
+--1>查询出30部门的工资 select sal from emp where deptno=30;
+-->查询工资比30号部门所有员工的工资都高的员工的姓名 工资和部门号 select
+ename,sal,deptno from emp where sal>all(select sal from emp where
+deptno=30);
+
+大于所有就是大于最大值: 查询工资比30号部门最大工资都高的员工的姓名
+工资和部门号 1>select ename,sal,deptno 2>from emp 3>where
+sal>30部门最大工资
+
+--1>30部门最大工资 select max(sal) from emp where deptno=30; select
+max(sal) from emp group by deptno having deptno=30;
+--2>查询工资比30号部门最大工资都高的员工的姓名 工资和部门号 select
+ename,sal,deptno from emp where sal>(select max(sal) from emp where
+deptno=30);
+
+--查询工资比30号部门任意一个员工工资高的员工的姓名 工资和所在部门号
+
+1>select ename,sal,deptno 2>from emp 3>where sal>any(30号部门所有工资)
+
+--1>30号部门所有员工工资 select sal from emp where deptno=30;
+--2>查询工资比30号部门任意一个员工工资高的员工的姓名 工资和所在部门号
+select ename,sal,deptno from emp where sal>any(select sal from emp where
+deptno=30) and deptno!=30;
+
+大于最小就是大于任意 查询工资比30号部门最小工资高的员工的姓名
+工资和所在部门号 1>select ename,sal,deptno 2>from emp 3>where
+sal>30部门最小工资
+
+--1>查询出30部门最小工资 select min(sal) from emp where deptno=30;
+--2>查询工资比30号部门最小工资高的员工的姓名 工资和所在部门号 select
+ename,sal,deptno from emp where sal>(select min(sal) from emp where
+deptno=30) and deptno!=30;
+
+--查询和Smith所在部门和岗位都相同的员工
+
+1>select * 2>from emp 3>where job=Smith的job and deptno=Smith的deptno;
+where (deptno,job)=(Smith的deptno和job)
+
+select * from emp where job=(select job from emp where ename='Smith')
+and deptno=(select deptno from emp where ename='Smith') and
+ename<>'Smith';
+
+select * from emp where (deptno,job)=(select deptno,job from emp where
+ename='Smith') and ename<>'Smith';
+**** 4.3.3. 子查询语句作为外层select语句的from数据源(多表查询)
+
+将子查询select语句执行结束后得到的虚拟表视为一张表去作为数据源再去
+查询,还可能会和其他表一起联查;
+
+查询工资高于自己所在的部门的平局工资的所有员工(姓名 工资 所在部门号
+部门平均工资) 1>select emp.* 2>from emp,(每个部门的平均工资的虚拟表)
+3>where sal>(自己所在部门的平均)
+
+--1>得到每个部门平均工资的虚拟表
+=select deptno,avg(sal) from emp group by deptno;=
+
+2>直接使emp表和每个部门平均工资的虚拟表联查:
+生成了一张8+2=10列(是两张表的列组合而来,无非是哪张表在前其列在前),
+14*3=42行(是emp表的每个员工行对应部门平均工资表的3行各自都生成3行)
+的新的虚拟表;
+
+=select * from emp,(select deptno,avg(sal) from emp group by deptno);=
+
+3>筛选有效行:每个员工对应自己部门平均工资行 细节:
+1)如果表中出现同名的列可以使用表名为前缀或表的别名为前缀进行区分
+2)给表起别名是直接在表之后放别名,决不能用as
+
+=select * from emp e,(select deptno,avg(sal) vsal from emp group by deptno) x where e.deptno=x.deptno;=
+
+4>从最终的虚拟表中获取所需数据:
+获取工资高于自己所在的部门的平局工资的所有员工(姓名 工资 所在部门号
+部门平均工资)
+
+*细节*:
+通过函数或者表达式计算得来的列称为虚拟列,虚拟列是不能直接引用的,必须给
+虚拟列起别名方可引用;
+
+=select e.ename,e.sal,e.deptno,x.vsal from emp e,(select deptno,avg(sal) vsal from emp group by deptno) x where e.deptno=x.deptno and e.sal>x.vsal;=
+**** 4.3.4. 多表查询的总结
+
+1>数据源需要哪几张表(如果是物理表直接用,如果是虚拟表自己去查)
+2>多张表直接联查(是混乱的) 3>筛选有效(合法)的行 4>获取你所需的数据
+
+--使用子查询建表 create table emp2 as select * from emp; create table
+emp3 as select ename,sal,job from emp where deptno=30; create table
+emp4(ename2,sal2,job2) as select ename,sal,job from emp where deptno=30;
+--使用子查询去插入数据(看课件)
+
+--使用子查询修改数据 --将员工Scott的岗位 工资和奖金修改成和Smith一样
+
+=update emp set job=(select job from emp where ename='Smith'), sal=(select sal from emp where ename='Smith'), comm=(select comm from emp where ename='Smith') where ename='Scott';=
+
+=update emp set (job,sal,comm)=(select job,sal,comm from emp where ename='Smith') where ename='Scott';=
+*** 4.4. 合并查询
+
+将两个查询结果进行合并：
+
+并集: 1>union:并集并自动去重 2>union all:并集不去重。
+
+交集: 3>intersect:两个结果集相同的部分。
+
+差集: 4>minus:第一个结果有的第二个结果集没有的部分。
+
+#+begin_src sql
+  select ename,job from emp where sal>2000;--6
+  select ename,job from emp where deptno=20;--5
+  --8
+  select ename,job from emp where sal>2000
+  union
+  select ename,job from emp where deptno=20;
+  --11
+  select ename,job from emp where sal>2000
+  union all
+  select ename,job from emp where deptno=20;
+  --3
+  select ename,job from emp where sal>2000
+  intersect
+  select ename,job from emp where deptno=20;
+  --3
+  select ename,job from emp where sal>2000
+  minus
+  select ename,job from emp where deptno=20;
+#+end_src
+*** 4.5. 分页查询
+
+五、 ​ 第N页/共M页 ​ 首页 上一页 1 2 3 4 5 6 7 8 9 下一页 尾页 ​
+分页查询就是将查询到的总行数平均到各个页面显示,如查询结果是 ​
+45行,每页显示10行,第一页就是1_{10,第二页就是11}20,第三页就是 ​
+21_{30,第四页是31}40,第五页就是41~45: ​
+思路1:每页的起始行和每页显示的行数(mySQL) ​
+思路2:每页的起始行和结束行(oracle)
+
+--对查询到的所有员工分页 共14行,每页3行,可分5页 1~3 4~6 7~9 10~12 13~14
+select _from emp; --oracle给每张都提供了一个隐藏列rownum表示行号
+=select e._,rownum rn from emp e;=
+
+--获取第三页 4~6 --rn标识符无效 因为emp表中没有rn列,是执行了select
+e._,rownum rn from emp e生成的虚拟表的列
+=select e._,rownum rn from emp e where rn>=4 and rn<=6;=
+--没有数据(rownum只能小于等于某个值不能大于等于某个值)=select e.*,rownum rn from emp e where rownum>=4 and rownum<=6;=
+
+=select e._,rownum rn from emp e where rownum<=4; select e._,rownum rn from emp e where rownum<4; select e.*,rownum rn from emp e where rownum>=4; select e.*,rownum rn from emp e where rownum>4;=
+
+--既然rownum只能小于等于某个值,先拿前6行,再将前6行的虚拟表视为数据源,获取第四行之后的部分
+=select e.*,rownum rn from emp e where rownum<=6;=
+
+=select _from (select e._,rownum rn from emp e where rownum<=6) x where rn>=4;=
+
+--这个select语句生成的虚拟表中有rn列了,那么将它作为数据源整体查询,再使用rn列一次性限定起始和结束行
+select e.*,rownum rn from emp e;
+
+=select _from (select e._,rownum rn from emp e) x where rn>=7 and rn<=9;=
+
+--两个死记硬背的公式:
+=select _from (select a._,rownum rn from (被分页的select语句) a where rownum<=结束行) where rn>=起始行;=
+
+=select _from (select a._,rownum rn from (select * from emp) a where rownum<=6) where rn>=4;=
+
+=select _from (select a._,rownum rn from (被分页的select语句) a ) where rn>=起始行 and rn<=结束行;=
+
+=select _from (select a._,rownum rn from (select * from emp) a ) where rn>=4 and rn<=6;=
+*** 4.6. 多表查询
+
+多表查询是基于两个或两个以上的表或试图(虚拟表)的查询，查询的内容
+在一张表上已经无法满足了。
+
+*多表查询的总结:* （N表联查筛选条件至少是N-1个）
+
+1. 数据源需要哪几张表(如果是物理表直接用,如果是虚拟表自己去查)
+
+2. 多张表直接联查(是混乱的)
+
+3. 筛选有效(合法)的行 4>获取你所需的数据
+
+查询所有员工的姓名 工资和所在部门名
+
+1. =select ename,sal,dname=
+2. =from emp,dept=
+
+#+begin_src sql
+  --8+3=11列 14*4=56行(每个员工行对应4个部门行各生成新的4行)  
+  select * from emp e,dept d;
+  --筛选有效行(员工对应自己的部门的行,即emp的deptno等于dept的deptno)
+  select * from emp e,dept d where e.deptno=d.deptno;
+  --获取所需数据
+  select e.ename,e.sal,d.dname from emp e,dept d where e.deptno=d.deptno;
+#+end_src
+
+创建一张工资级别表:
+
+#+begin_src sql
+  create table salgrade(
+    grade number(1) primary key,
+    losal number(7,2),
+    hisal number(7,2)
+  );
+  insert into salgrade values(1,700,1200);
+  insert into salgrade values(2,1201,1400);
+  insert into salgrade values(3,1401,2000);
+  insert into salgrade values(4,2001,3000);
+  insert into salgrade values(5,3001,9999);
+
+  --查询每个员工的姓名 工资和工资级别
+  --8+3=11列 14*5=70行(每个员工对应5个工资级别各生成5行)
+  select * from emp e,salgrade s;
+  --筛选有效行
+  select * from emp e,salgrade s where e.sal>=s.losal and e.sal<=s.hisal;
+  --获取所需数据
+  select e.ename,e.sal,s.grade from emp e,salgrade s 
+  where e.sal>=s.losal and e.sal<=s.hisal;
+
+  --查询所有员工的姓名 工资 所在部门名 工资级别
+  --8+3+3=14列 14*4*5=280行(每个员工对应4个部门生成4行,然后每个员工对应的每个
+  --部门行再和5个工资级别各生成5行)
+  select * from emp e,dept d,salgrade s;
+  --筛选有效行
+  select * from emp e,dept d,salgrade s
+  where e.deptno=d.deptno and e.sal>=s.losal and e.sal<=s.hisal;
+  --获取所需数据
+  select e.ename,e.sal,d.dname,s.grade from emp e,dept d,salgrade s
+  where e.deptno=d.deptno and e.sal>=s.losal and e.sal<=s.hisal;
+
+  --查询每个员工的姓名和其所在部门名 部门平均工资 及部门平均工资的级别
+  select m.ename,x.dname,x.vsal,s.grade from emp m,
+  (select d.deptno deptno,d.dname dname,avg(e.sal) vsal from emp e,dept d 
+  where e.deptno=d.deptno group by d.deptno,d.dname) x,
+  salgrade s where m.deptno=x.deptno and x.vsal>=s.losal and x.vsal<=s.hisal;
+#+end_src
+*** 4.7. 链接（join）查询
+
+**** 4.7.1. 自连接查询
+
+其时是一种特殊的多表查询,就是将一张表视为了多张表去进行联查;
+
+--查询所有员工的姓名和其所属上级领导的名字 1>select
+员工.ename,领导.ename
+2>查询的是两个ename列的值,所以认为from的数据源就是一张emp表,但是在emp
+表中不存在一行有两个ename的情况,必须是最终生成的表中的每一行都是两个
+emp列而且一个是员工.ename列一个是领导.ename列,才能获取到员工.ename和
+领导.ename;
+
+所以将emp表视为两张表去联查,将一张emp表认为是员工emp表,一张是领导emp表;
+from emp e1,emp e2;
+
+--这只是将ename列查询了两次而已 select ename,ename from emp;
+
+直接让两张emp表联查,会生成一张8+8=16列,14*14=196行(即员工emp表的每个员工行
+对应领导emp表的14个领导行个生成新的14行)的虚拟表;
+
+=select * from emp e1,emp e2;=
+
+筛选有效行:
+员工emp表的mgr列(员工所属上级领导工号列)的值等于领导emp表的empno列(领导工号
+)的值;最终的虚拟表中的每一行都有两个ename列了,左表是员工ename列,右边是领导
+ename列;
+
+#+begin_quote
+  细节:
+  一张表能够作为多张表去进行自连接查询,那么这张表中的*某些列之间*必然存在*关联关系*;
+#+end_quote
+
+=select * from emp e1,emp e2 where e1.mgr = e2.empno;=
+--从最终的虚拟表中获取所有列
+
+=select e1.ename 员工姓名,e2.ename 领导姓名 from emp e1,emp e2 where e1.mgr = e2.empno;=
+**** 4.7.2. 内外连接查询
+
+格式都是固定的
+
+1.内连接查询 ​ =select 列 from 表1 inner join 表2 on 条件;=
+
+2.外链接查询:
+
+1. 左外连接查询: ​ =select 列 from 表1 left join 表2 on 条件;=
+
+2. 右外连接查询: ​ =select 列 from 表1 right join 表2 on 条件;=
+
+3. 全外连接查询: ​ =select 列 from 表1 full join 表2 on 条件;=
+
+无论是内连接还是外链接,都可以将=表1 inner/left/right/full join 表2 on 条件;=
+​ 生成的虚拟表整体视为数据源:
+
+=select 列 from ​ 表1 inner/left/right/full join 表2 on 条件 ​ where 条件;=
+***** 4.7.2.1. 内连接查询
+
+内连接查询其实就是对直接多表查询的变形;
+
+--查询所有员工的姓名 工资 和所在部门名称
+
+=select e.ename,e.sal,d.dname from emp e,dept d where e.deptno=d.deptno;=
+
+=select e.ename,e.sal,d.dname from emp e inner join dept d on e.deptno=d.deptno;=
+
+=select e.ename,e.sal,d.dname from emp e inner join dept d on 1=1 where e.deptno=d.deptno;=
+
+--查询所有员工的姓名 工资和工资级别
+
+=select e.ename,e.sal,s.grade from emp e,salgrade s where e.sal>=s.losal and e.sal<=s.hisal;=
+
+=select e.ename,e.sal,s.grade from emp e inner join salgrade s on e.sal>=s.losal and e.sal<=s.hisal;=
+
+=select e.ename,e.sal,s.grade from emp e inner join salgrade s on 1=1 where e.sal>=s.losal and e.sal<=s.hisal;=
+
+--查询所有员工的姓名 工资 所在部门名 工资级别
+
+=select e.ename,e.sal,d.dname,s.grade from emp e,dept d,salgrade s where e.deptno=d.deptno and e.sal>=s.losal and e.sal<=s.hisal;=
+
+=select e.ename,e.sal,d.dname,s.grade from emp e inner join dept d on e.deptno=d.deptno inner join salgrade s on e.sal>=s.losal and e.sal<=s.hisal;=
+***** 4.7.2.2. 外链接查询
+
+内连接查询是多表直接查询的变形,内连接查询和多表直接查询只查询
+符合条件的数据;
+而外链接查询是用于来进行统计的,可以查询到符合条件的数据也可以
+查询到不符合条件的数据;
+
+*左外连接查询:*部分统计
+以左表为主,先将左表的所有行展示,再根据条件去匹配右表的行,将右表
+符合条件的行和左表的行组成新的行,左表不符合条件的行在左表对应右
+表的部分全部是null;
+
+*右外连接查询:*部分统计
+以右表为主,先将右表的所有行展示,再根据条件去匹配左表的行,将左表
+符合条件的行和右表的行组成新的行,右表不符合条件的行在右表对应左
+表的部分全部是null;
+
+*全外连接查询:*完全统计
+全外连接查询部分主副表,只不过是哪张表在左边哪张表的列在最终的虚拟表的
+前半部分显示而已; 1>先根据条件组合左 右表符合条件的行生成新的行
+2>左表对应右表不符合条件的部分全部用null
+3>右表对应左表不符合条件的部分也全部用null
+
+筛选不符合条件的部分(查询出没有所属部门的员工显示临时工)
+=select e.ename 姓名,nvl(d.dname,'临时工') 备注 from emp e left join dept d on e.deptno=d.deptno where d.dname is null;=
+
+--既查询出了有所属部门的员工,也查询出了没有所属部门的员工 select * from
+emp e left join dept d on e.deptno=d.deptno;
+--筛选不符合条件的部分(查询出没有所属部门的员工显示临时工) select
+e.ename 姓名,nvl(d.dname,'临时工') 备注 from emp e left join dept d on
+e.deptno=d.deptno where d.dname is null;
+
+--既查询出了有员工的部门也查询出了没有员工的部分
+=select * from emp e right join dept d on e.deptno=d.deptno;=
+--筛选出没有员工部门,显示特殊部门
+=select d.dname 部门名,nvl(e.ename,'特殊部门') 备注 from emp e right join dept d on e.deptno=d.deptno where e.job is null;=
+
+--完全统计:统计出了有对应部门的员工,也统计出了没有所属部门的员工,还统计
+--出了没有员工的部门
+=select * from emp e full join dept d on e.deptno=d.deptno;=
+
+--查询出没有所属部门的员工显示临时工
+=select e.ename 姓名,nvl(d.dname,'临时工') 备注 from emp e full join dept d on e.deptno=d.deptno where d.dname is null;=
+
+--没有员工部门,显示'特殊部门' select d.dname 姓名,nvl(e.job,'特殊部门')
+备注
+=from emp e full join dept d on e.deptno=d.deptno where e.job is null;=
+
+*强调：*内连接查询和多表直接查询都只查询*符合条件的数据*,如果仅仅需要查询符合条件的数据就只能使用内连接查询或多表直接查询，
+除非在进行数据统计的情况下才去使用外连接查询。
+** 5. 序列 （Sequence）
+
+Sequence 在oracle中用于产生唯一值的数据对象
+
+1. 可以使用序列生成数值而且数值是唯一性不会重复的
+2. 同一个序列可以被多个数据对象共享(如：A、B 两表使用同一个序列)
+3. 序列主要用于生成表的主键(主键一般就是表的第一列且是编号列即数值,值要求*唯一不可重复*)
+
+对于主键的生成MYSQL和SQL
+Server数据库都是带有主键自增特性的，而oracle不具备*主键自增特性依靠的是序列*
+创建序列：
+=create sequence 序列名 start with 起始值 increment by 步长 minvalue 最小值 maxvalue 最大值;=
+步长是正数表示序列值是递增的，如果是负数表示是递减的，默认值是*1*。
+
+序列操作的属性:
+
+1. currval:获取序列的当前值
+2. nextval:生成序列的下一个值
+
+序列使用的注意事项：容易造成数据的裂缝,生成的两个数值之间的间隔值不是步长,而是步长的倍数值。
+
+1. 回滚操作
+2. 同一个序列被多数据对象共享(建议一张表就使用一个序列)
+
+删除序列: drop sequence 序列名;
+
+*dual表*称为哑表(伪表),其实就是oracle提供的一张测试表,表中是没有任何数据的
+
+#+begin_src sql
+  --创建一个序列,起始值从10001开始,步长为1,最大值是10100,最小值自然是10001
+  create sequence mysequence start with 10001 increment by 1 minvalue 10001 maxvalue 10100;
+
+  --目的不是为了查询dual表,目的是通过这个select语句去执行序列的nextval属性
+  select mysequence.nextval from dual; 
+  select mysequence.currval from dual;
+
+  --创建一张测试表
+  create table stu( sno number(10) primary key, sname varchar2(20) not null );
+
+  --给stu表添加数据
+  insert into stu values(10001,'AA'); select * from stu; 
+  insert into stu values(10002,'BB');
+
+  insert into stu values(mysequence.nextval,'XX'||mysequence.currval);
+
+  --再创建一张测试表
+  create table stu2( sno number(10) primary key, sname varchar2(20) not null );
+
+  insert into stu2 values(mysequence.nextval,'YY'||mysequence.currval);
+
+  select * from stu2;
+
+  --删除序列
+  drop sequence mysequence;
+#+end_src
+** 6. 索引
+
+Index 是可以提高数据检索(查询)效率的数据对象,在表的列上合理定义
+索引就可以降低数据的I/O次数,进而可以大大的提高数据的检索效率;
+
+创建索引: =create index 索引名 on 表名(列名);=
+创建索引作用在指定表的指定列上
+
+索引的分类:
+
+- 单列索引:作用在单个列
+
+- 复合索引:作用在多列上,但是根据列的排列顺序不同需要去创建不同的索引
+*** 6.1. 单列索引
+
+如,经常根据工号(empno列)为条件去查询员工
+=select * from emp where empno=?;= 执行流程: 1)进表 2)拿到所有列
+3)再从所有列中拿到empno整列 4)在从emp整列中找到对应值的empno
+5)筛选出对应的行 6)从筛选的行中获取所需的数据
+
+在empno列上建立索引: =create index empno_index on emp(empno);=
+
+=select * from emp where empno=?;= 执行流程: 1)进表
+2)直接去empno_index的索引中找到对应的empno 3)筛选出对应的行
+4)从筛选的行中获取所需的数据
+*** 6.2. 复合索引
+
+如,经常根据姓名(ename)和职位(job)去查询员工
+=select * from emp where ename=? and job=?;= 执行流程: 1)进表 2)拿所有列
+3)先拿所有job列 4)再拿对应的job 5)拿所有的ename列 6)再拿对应的ename
+7)筛选出对应的行 8)从筛选的行中获取所需数据
+
+针对先job后ename创建一个索引:
+=create index job_ename_index on emp(job,ename);=
+
+=select * from emp where ename=? and job=?;= 执行流程: 1)进表
+2)进入到索引job_ename_index中找到对应的先job后ename的组合列
+3)筛选出对应的行 4)从筛选的行中获取所需数据
+
+=select * from emp where job=? and ename=?;= 执行流程: 1)进表 2)拿所有列
+3)先拿所有ename列 4)再拿对应的ename 5)拿所有的job列 6)再拿对应的job
+7)筛选出对应的行 8)从筛选的行中获取所需数据
+
+针对先ename后job创建一个索引:
+=create index ename_job_index on emp(ename,job);=
+
+=select * from emp where job=? and ename=?;= 执行流程: 1)进表
+2)进入到索引ename_job_index中找到对应的先ename后job的组合列
+3)筛选出对应的行 4)从筛选的行中获取所需数据
+** 7. 事务
+
+Oracle事务的处理:
+
+1. 事务:
+   一个事务一般对应就是一个业务(这个业务的完成背后就是通过数据库的一个
+   事务实现的);
+   一个事务是由一组DML语句组成,那么这一组多条DML语句要么是全部正常都执行
+   了,要么是只要其中有一条DML语句执行失败,那么其他的DML语句也就不被执行了,
+   为了保证数据的一致性;
+
+   如,一个银行转账业务其背后对应的事务其实由两个update语句组成:
+
+   =update account set balance=balance+1000 where name='B';=
+
+   =update account set balance=balance-1000 where name='A';=
+
+2. 所有的关系型数据库对事务的操作: 1.正常: 1>开启事务 2>一组多个DML语句
+   3>提交事务 2.异常: 1>开启事务 2>一组多个DML语句 3>回滚事务
+
+3. Oracle对事务的处理: 1.正常: 1>设置保存点:savepoint 保存点名称; ​
+   1)一个事务开启了 ​ 2)保存点就记录设置保存点时刻的数据状态
+   2>执行一组DML语句 3>commit;提交事务 ​ 1)事务结束了 ​
+   2)这一组DML语句操作的数据就被持久化到数据库中 ​ 3)清除所有的保存点
+
+4. 异常: 1>设置保存点:savepoint 保存点名称; 2>执行一组DML语句 3> ​
+   1)rollback to 保存点; ​ 1]事务结束 ​ 2]数据恢复到指定保存点的数据状态
+   ​ 3]指定的保存点之后的保存点都会被清除 ​ 2)rollback; ​ 1]事务结束 ​
+   2]数据恢复到上次commit提交时的数据状态 ​ 3]清除所有保存点
+
+正常
+
+=savepoint a; savepoint b; savepoint c;=
+
+#+begin_src sql
+  update stu set sname='aaa' where sno=10001;
+  insert into stu values(10011,'CC');
+  delete from stu where sno=10002;
+  commit;
+#+end_src
+
+保存点无效
+
+=rollback to a; rollback to b; rollback to c;=
+
+异常1:
+
+=savepoint a; savepoint b; savepoint c;=
+
+#+begin_src sql
+  update stu set sname='AAA' where sno=10001;
+  insert into stu values(10012,'BB');
+  delete from stu where sno=10011;
+  rollback to a;
+#+end_src
+
+保存点无效 rollback to b; rollback to c;
+
+异常2: savepoint a; savepoint b; savepoint c;
+
+#+begin_src sql
+  update stu set sname='AAA' where sno=10001;
+  insert into stu values(10012,'BB');
+  delete from stu where sno=10011;
+  rollback;
+#+end_src
+
+保存点无效
+
+=rollback to a; rollback to b; rollback to c;=
+
+select语句执行流程: 1>编写select 2>向数据库服务器发送select
+
+3>接收select 4>select进行语法检查 5>编译select 6>执行select 7>返回结果
+** 8. 视图
+
+*View*
+在实际的开发中一个复杂的select语句可能会被经常执行，那么我们反复的去编写select语句反复的执行编译会大大的降低执行效率。
+那么我们就可以将一个select语句执行之后生成的虚拟表封装到视图中(*视图的本质就是虚拟表*)，之后就无需在多次的编写执行编译
+select
+语句了，直接去操作封装了select语句执行后生成的虚拟表的视图即可，进而就可以提高开发效率以及程序的运行性能。
+
+视图的优点: 1>提高了代码的复用性 2>提高了程序的执行性能
+3>安全(在视图中隐藏了直接操作的表和列)
+*** 8.1. 创建视图
+
+=create view 视图名 as select 语句;=
+
+视图的操作:（就将视图当做表进行操作)
+
+1. 对视图可以进行增删改查
+2. 可以使用视图和其他表及视图联查
+3. 可以使用视图再建视图
+
+视图的使用细节:
+
+1. 如果对视图进行了更新,那么创建视图的物理表中的相应数据也会被更新。
+2. 如果视图中存在虚拟列(通过函数或者表达式计算得来的列),则视图不能进行更新,因为对视图的更新,在其对应的物理表中的更新存在不确定性。
+*** 8.2. 删除视图
+
+=drop view 视图名;=
+
+#+begin_src sql
+
+  --创建视图,封装查询到的每个部门的平均工资的虚拟表
+  create view dvsal_view as select d.deptno deptno,d.dname dname,avg(e.sal) vsal from emp e,dept d where e.deptno=d.deptno group by d.deptno,d.dname;
+
+  --使用视图dvsal_view和emp表联查,工资大于自己所在部门的平均工资的员工
+  select * from emp e,dvsal_view v where e.deptno=v.deptno and e.sal>v.vsal;
+
+  --将上面的结果再封装视图
+  create view myview as select e.ename ename,e.sal sal,v.deptno deptno,v.dname dname,v.vsal vsal from emp e,dvsal_view v where e.deptno=v.deptno and e.sal>v.vsal;
+
+  --创建单表视图
+  create view emp_view as select _from emp;
+  --更新视图
+  update emp_view set sal=sal+100 where ename='Smith';
+  --创建视图的物理表的数据也被更新了
+  select _ from emp_view;
+  select * from emp;
+#+end_src
+** 9. 常用函数
+
+*** 9.1. 字符函数
+
+#+begin_src sql
+  select ename,lower(ename) from emp;
+  select ename,upper(ename) from emp;
+  select * from emp where length(ename) = 5;
+  select ename,substr(ename,1,3) from emp;
+  select ename,replace(ename,'a','A') from emp;
+  select ename,lower(substr(ename,1,1))||upper(substr(ename,2,length(ename)-1)) from emp;
+#+end_src
+*** 9.2. 数值函数
+
+round(num)：直接四舍五入到整数部分
+=select ename 姓名,round(sal) 工资 from emp where empno=8888;= --3457
+round(num,n)
+=select ename 姓名,round(sal,2) 工资 from emp where empno=8888;=--3456.79
+=select ename 姓名,round(sal,-2) 工资 from emp where empno=8888;= --3500
+
+trunc(num)：直接小数部分
+
+=select ename 姓名,trunc(sal) 工资 from emp where empno=8888;=--3456
+
+=trunc(num,n) select ename 姓名,trunc(sal,2) 工资 from emp where empno=8888;=--3456.78
+
+=select ename 姓名,trunc(sal,-2) 工资 from emp where empno=8888;=--3400
+
+floor():
+
+=select ename 姓名,floor(sal) 工资 from emp where empno=8888;=--3456
+
+ceil():
+
+=select ename 姓名,ceil(sal) 工资 from emp where empno=8888;=--3457
+
+abs() 与 mod()
+
+=select abs(-100) from dual;--100 select mod(9,2) from dual;=--1
+
+power()
+
+=select power(2,3) from dual;=--8
+*** 9.3. 日期函数
+
+=insert into emp values(9999,'zl','经理',7839,sysdate,3456.789,null,10);=
+
+--查询入职36年以上的员工
+
+=select * from emp where add_months(hiredate,36*12)<sysdate;=
+
+--查询每个员工的入职天数
+
+=select ename,floor(sysdate-hiredate) from emp;=
+
+--查询入职日期是他入职的当月倒数第3天的员工
+
+=select * from emp where last_day(hiredate)-2 = hiredate;=
+**** 9.3.1. to_date
+
+to_date(日期型字符串,日期模板)
+
+可以将参数一日期型字符串以参数二日期模板转成date型数据
+以后添加日期型数据:
+
+1)默认格式'dd-mm月-yyyy'
+
+2)=alter session set nls_date_format='yyyy-mm-dd'=
+
+3)to_date('1988-6-24','yyyy-mm-dd')`
+
+=insert into emp values(8899,'mmy','经理',7839,to_date('1988-6-24','yyyy-mm-dd'),5000,1000,40);=
+**** 9.3.2. to_char
+
+to_char(date/number,模板):
+
+将参数一date型或number型数据以参数二模板转成字符串(就是对date型和number型
+数据进行格式化)
+
+=select ename,to_char(hiredate,'yyyy-mm-dd') from emp;=
+
+--查询12月入职的所有员工
+
+=select * from emp where to_char(hiredate,'mm')=12;=
+
+=select ename,to_char(sal,'$99,999.99') from emp; select ename,to_char(sal,'L00,000.00') from emp;=
+*** 9.4. 其他函数
+
+**** 9.4.1. 提取 extract()
+
+可以提取日期型数据的指定日历字段
+=extract(日历字段名 from date数据或timestamp数据)=
+
+日历字段名:*year month day hour minute second*
+
+1.如果日期型数据是date类型,只能获取年月日:
+
+=extract(year from birth)=
+
+=extract(month from birth)=
+
+=extract(day from birth)=
+
+2.如果日期型数据是timestamp类型,才可以获取时分秒
+
+=extract(hour from birth)=
+
+=extract(minute from birth)=
+
+=extract(second from birth)=
+
+--查询1981年入职的所有员工
+
+=select _from emp where to_char(hiredate,'yyyy')=1981;=
+
+=select_ from emp where extract(year from hiredate)=1981;=
+**** 9.4.2. sign()
+
+作用是判断数值的正负与0 当参数值是正数时,返回1; 当参数是负数时,返回-1;
+当参数是0时,返回0.
+
+select sign(10),sign(-10),sign(0) from dual; ​ 1 -1 0
+**** 9.4.3. docode()
+
+进行if then else的逻辑判断
+
+=decode(value,if1,then1,if2,then2,...else)=
+
+对*value*的值就行判断,当值是*if1*的值时,函数返回*then1*值;
+当*value*值时b值时,函数返回*then2*值; 以此类推
+当以上的if值都不符合时,函数返回*else*的值
+
+--查询员工的职位,当职位是总经理时,显示ZJL;当职位值经理时,显示
+--JL;当职位是销售员时,显示XSL;其他都显示ZY
+=select ename,decode(job,'总经理','ZJL','经理','JL','销售员','XSY','ZY') from emp;=
+
+一般sign函数和decode函数是搭配使用
+
+#+begin_src sql
+  decode(sign(sal-5000),
+          -1,'小于5000',
+          0,'等于5000',
+          decode(sign(sal-8000),
+              -1,'小于8000大于5000',
+              0,'等于8000',
+              '大于8000')
+      )
+#+end_src
+** 10. PL/SQL 编程
+
+*PL/SQL编程:*
+
+1. PL/SQL中可以执行SQL语句,还能定义变量、常量，执行流程控制语句，还能进行异常的处理已经趋近于编程了，所以叫PL/SQL编程。
+
+2. 使用PL/SQL编程最终的目的是去创建*函数*、*存储过程* 、*触发器*
+   、*包*等数据对象的。
+*** 10.1. PL/SQL块
+
+是PL/SQL编程中的最小执行单位,之后所创建的函数存储过程等数据对象都是由一个或多个PL/SQL块组成的。
+
+*declare *定义部分：
+
+负责定义常量、变量等内容begin执行部分，具体的功能实现部分*exception*异常部分，进行异常的处理*end*。
+
+#+begin_src java
+  public void test(){ //定义部分
+      int a = 10;
+      int b = 0;
+      try{ //执行部分
+          int c = a/b;
+          System.out.println(c);
+      }catch(Exception e){//异常处理部分
+          System.out.println("出现异常了");
+      }
+      }
+#+end_src
+
+*定义部分*和*异常处理*部分是可选的，*执行部分*是必须存在的。
+
+只有行部分的PL/SQL块:
+
+打印语句=dbms_output.put_line();=输出并换行，=dbms_output.put();=输出不做换行。
+
+#+begin_src sql
+  begin
+      dbms_output.put_line('Hello World');
+  end;
+#+end_src
+
+*dbms_output*是个包名,*put_line()*是*dbms_output包*中的一个存储过程名,=dbms_output.put_line();=在调用*dbms_output包*的存储过程*put_line()*将
+其参数内容对外输出。
+
+#+begin_src sql
+  --有定义部分和执行部分的pl/SQL块 根据工号查询员工的姓名和职位
+  declare
+  v_no number(10):=&no;
+  --v_no接收通过交互命令录入的变量no的值,表示工号
+  v_name varchar2(20);
+  --v_name接收查询到的ename列的值
+  v_job varchar2(20);
+  --v_job接收查询到job列的值
+  begin
+  --根据变量v_no的工号查询员工的ename和job列的值,并分别赋值给变量v_name和v_job
+  select ename,job into v_name,v_job from emp where empno=v_no;
+  dbms_output.put_line('您查询的员工姓名是:'||v_name||',职位是:'||v_job);
+  end;
+#+end_src
+
+--具有定义部分 执行部分 异常处理部分的PL/SQL块
+
+#+begin_src sql
+  declare
+    v_no number(10):=&no;
+    v_name varchar2(20);
+    v_job varchar2(20);
+  begin
+    select ename,job into v_name,v_job from emp where empno=v_no;
+    dbms_output.put_line('您查询的员工姓名是:'||v_name||',职位是:'||v_job);
+  exception when no_data_found then
+    dbms_output.put_line('您查询的员工不存在');
+  end;
+#+end_src
+*** 10.2. PL/SQL的变量
+
+在PL/SQL中 *=* 是恒等比较， *:=* 是赋值
+**** 10.2.1. 标量类型
+
+
+1. *普通类型*：
+
+   1. =变量名 数据类型(长度);=
+   2. =变量名 数据类型(长度):=初始化值;=
+   3. =变量名 数据类型(长度) not null default 默认值;=
+   4. *常量*：常量是必须初始化值的,且值不可变
+      =变量名 constant 数据类型(长度):=初始化值;=
+      =变量名 constant 数据类型(长度) not null default 默认值;=
+
+2. *%type类型:* =变量名 表名.列名%type;=
+   表示定义的变量的数据类型和长度和指定的变表的指定列的数据类型和长度一致;一般是在定义变量接收查询到的列的值的时候,在未知列的数据类型的长度的情况下使用;
+
+3. *%rowtype类型*： =变量名 表名%rowtype;=
+   表示定义的变量用于接收查询到的指定表的一行所有列的值,那么指定表的所有列都将作为了%rowtype类型的变量的成员了,然后就可以使用*%rowtype
+   类型*的=变量.列名=获取一行中各个列的值，解决接收查询到的一行所有列的值而定义过多变量的问题。
+
+#+begin_src sql
+  --录入员工的工号查询该员工的姓名 工资和个税 个税=工资_税率 税率为0.04
+  declare
+      v_name varchar2(20);
+      v_sal number(8,3);
+      v_rate number(8,3);
+      --接收计算的个税
+      c_rate constant number(3,2):=0.04;
+      --常量,税率
+  begin
+      select ename,sal into v_name,v_sal from emp where empno=&no;
+      --计算个税
+      v_rate:=v_sal_c_rate;
+      dbms_output.put_line('姓名:'||v_name||'的员工工资是:'||v_sal||',个税是:'||v_rate);
+  end;
+
+  declare
+      v_name emp.ename%type;
+      v_sal emp.sal%type;
+      v_rate number(8,3);
+      --接收计算的个税
+      c_rate constant number(3,2):=0.04;
+      --常量,税率
+  begin
+      select ename,sal into v_name,v_sal from emp where empno=&no;
+      --计算个税
+      v_rate:=v_sal*c_rate; dbms_output.put_line('姓名:'||v_name||'的员工工资是:'||v_sal||',个税是:'||v_rate);
+  end;
+
+  --根据工号查询员工的所有信息
+  declare
+      emprow emp%rowtype;
+  begin
+      select * into emprow from emp where empno=&no;
+      dbms_output.put_line(emprow.empno);
+      dbms_output.put_line(emprow.ename);
+      dbms_output.put_line(emprow.job);
+      dbms_output.put_line(emprow.mgr);
+      dbms_output.put_line(emprow.hiredate);
+      dbms_output.put_line(emprow.sal);
+      dbms_output.put_line(emprow.comm);
+      dbms_output.put_line(emprow.deptno);
+  end;
+
+  --根据工号查询员工姓名和职位
+  declare
+      emprow emp%rowtype;
+  begin
+      select ename,job into emprow.ename,emprow.job from emp where empno=&no;
+      dbms_output.put_line(emprow.ename);
+      dbms_output.put_line(emprow.job);
+  end;
+#+end_src
+
+*细节:*
+%rowtype类型的变量是不能直接去接收查询到的一行部分列的值,只能去接收查询到一行所有列的值，如果要去接收查询到一行部分列的值,需要标记出列名，用指定的成员列去接收对应列的值。
+**** 10.2.2. 复合类型
+
+
+1. 记录类型:其使用就类似于java类和对象的操作
+
+   1. 自定义记录类型并指定成员:
+      =type 自定义记录类型名称 is record(  变量1 数据类型(长度),  变量2 数据类型(长度),  ... ...  );=
+   2. 定义自定义记录类型的变量,那么其变量就持有所定义所有成员:
+      =变量名 自定义记录类型名称;=
+   3. 提取记录类型成员变量的值: =变量.成员=
+
+2. 表类型:其使用就类似于java的数组,区别在于它没有长度和角标的限制,还可以放任意类型数据。
+
+   1. 自定义表类型,并指定元素的数据类型和角标类型=type 自定义表类型名称 is table of 元素的数据类型 index by binary_integer;=
+   2. =of 元素的数据类型=:指定表类型中的元素的数据类型,一般使用varchar2类型,因为字符串可以接收任意类型的数，=index by binary_integer=:指定表类型变量角标类型的,=binary_integer=表示有序整数
+   3. 定义自定义的表类型变量,其本质就是一个数组。=变量名 自定义表类型;=
+   4. 操作表类型变量,跟操作数组方式一样(操作角标) 变量(角标)
+
+3. 游标:
+
+#+begin_src sql
+  --录入工号查询员工姓名 工资 职位
+  declare
+  --1>自定义记录类型并指定成员
+      type emp_record_type is
+      record( v_name emp.ename%type, v_sal emp.sal%type, v_job emp.job%type );
+      --2>定义自定义记录类型变量
+      emp_record emp_record_type;
+  begin
+      select ename,sal,job into emp_record from emp where empno=&no;
+      dbms_output.put_line(emp_record.v_name);
+      dbms_output.put_line(emp_record.v_sal);
+      dbms_output.put_line(emp_record.v_job);
+  end;
+  --录入工号查询员工姓名 工资 职位
+  declare
+  --1>自定义表类型
+      type emp_table_type is table of varchar2(20) index by binary_integer;
+  --2>定义表类型变量
+  emp_table emp_table_type;
+  begin
+      select ename,sal,job into emp_table(-1),emp_table(0),emp_table(1) from emp where empno=&no;
+      dbms_output.put_line(emp_table(-1)); dbms_output.put_line(emp_table(0)); dbms_output.put_line(emp_table(1));
+  end;
+#+end_src
+*** 10.3. PL/SQL的流程控制语句
+
+**** 10.3.1. 判断结构
+
+1>if 条件表达式 then ​ 执行语句; end if; 2>if 条件表达式 then ​
+执行语句; else ​ 执行语句; end if; 3>if 条件表达式 then ​ 执行语句;
+elsif 条件表达式 then ​ 执行语句; ... ... else ​ 执行语句; end if;
+
+#+begin_src sql
+  --录入一个整数,判断其是否是正数
+  declare
+      v_num number(3):=&n;
+  begin
+      if v_num>=0 then
+      dbms_output.put_line(v_num||'是个正数');
+      end if;
+  end;
+  --录入一个整数,判断其正负
+  declare
+      v_num number(3):=&n;
+  begin
+      if v_num>=0 then
+          dbms_output.put_line(v_num||'是个正数');
+      else
+          dbms_output.put_line(v_num||'是个负数');
+      end if;
+  end;
+
+  --录入一个整数判断其对应的星期
+  declare
+      v_num number(3):=&n;
+      v_week number(3);
+
+  begin
+      v_week:=mod(v_num,7);
+      if v_week=1 then
+          dbms_output.put_line('星期一');
+      elsif v_week=2 then
+          dbms_output.put_line('星期二');
+      elsif v_week=3 then
+          dbms_output.put_line('星期三');
+      elsif v_week=4 then
+          dbms_output.put_line('星期四');
+      elsif v_week=5 then
+          dbms_output.put_line('星期五');
+      elsif v_week=6 then
+          dbms_output.put_line('星期六');
+      else
+          dbms_output.put_line('星期日');
+      end if;
+  end;
+#+end_src
+**** 10.3.2. 选择结构
+
+#+begin_src sql
+  case 表达式
+      when 值1 then 执行语句;
+      when 值2 then 执行语句;
+      ... ...
+      else 执行语句;
+  end [case];
+#+end_src
+
+1. 就是选择结构的操作,对表达式的值进行选择然后执行对应的执行语句;
+2. 替代判断结构:
+
+#+begin_src sql
+  case
+      when 条件表达式1 then 执行语句;
+      when 条件表达式2 then 执行语句;
+      ... ...
+      else 执行语句;
+      end [case];
+#+end_src
+
+3. 在SQL语句中嵌套case语句;
+
+#+begin_src sql
+  --A优秀 B良好 C及格 D不及格 录入英文级别显示对应的中文级别
+
+  declare
+      v_grade char(1):='&c';
+  begin
+      case v_grade
+          when 'A' then dbms_output.put_line('优秀');
+          when 'B' then dbms_output.put_line('良好');
+          when 'C' then dbms_output.put_line('及格');
+          else
+              dbms_output.put_line('不及格');
+      end case;
+  end;
+
+  --录入一个整数判断其对应的星期
+  declare
+      v_num number(3):=&n;
+      v_week number(3);
+  begin
+      v_week:=mod(v_num,7);
+      case
+          when v_week=1 then dbms_output.put_line('星期一');
+          when v_week=2 then dbms_output.put_line('星期二');
+          when v_week=3 then dbms_output.put_line('星期三');
+          when v_week=4 then dbms_output.put_line('星期四');
+          when v_week=5 then dbms_output.put_line('星期五');
+          when v_week=6 then dbms_output.put_line('星期六');
+          else dbms_output.put_line('星期日');
+      end case;
+  end;
+
+  --录入工号查询员工的职位,如果职位是总经理给其加工资1000,经理加工资800 --分析师加工资500,其他加工资300
+  declare
+      v_no number(10):=&no;
+      v_job emp.job%type;
+  begin
+      select job into v_job from emp where empno=v_no;
+
+      if v_job='总经理' then
+          update emp set sal=sal+1000 where empno=v_no;
+      elsif v_job='经理' then
+          update emp set sal=sal+800 where empno=v_no;
+      elsif v_job='分析师' then
+          update emp set sal=sal+500 where empno=v_no;
+      else
+          update emp set sal=sal+300 where empno=v_no;
+      end if;
+  end;
+
+  declare
+      v_no number(10):=&no;
+      v_job emp.job%type;
+  begin
+      select job into v_job from emp where empno=v_no;
+
+      update emp set sal=sal+
+          case v_job
+              when '总经理' then 1000
+              when '经理' then 800
+              when '分析师' then 500
+              else 300
+              end 
+          where empno=v_no;
+  end;
+#+end_src
+**** 10.3.3. 循环结构
+
+
+1. loop
+
+#+begin_src sql
+  --无限死循环执行循环体
+  loop
+  do something;
+  end loop;
+
+  --常规循环
+  loop
+  循环体;
+      if 条件表达式 then
+          exit;
+      end if;
+  end loop;
+#+end_src
+
+2. while
+
+#+begin_src sql
+  while 循环条件 loop
+      循环体;
+  end loop;
+#+end_src
+
+3. for
+
+#+begin_src sql
+  --循环变量i从1到10递增控制10次循环;
+  for i in 1..10 loop
+      循环体;
+  end loop;
+
+  --循环变量i从10到1递减控制10次循环;
+  for i in reverse 1..10 loop
+   循环体;
+  end loop;
+#+end_src
+
+例子：
+
+#+begin_src sql
+  --loop
+  declare
+    v_num number(2):=1;
+  begin
+      loop
+          dbms_output.put_line('你好');
+          v_num:=v_num+1;
+          if v_num>10 then
+              exit;
+          end if;
+      end loop;
+  end;
+
+  --计算1~100所有整数累加和
+  declare
+   v_num number(3):=1;--参加运算的数,也是循环变量
+   v_sum number(4):=0;--累加和
+  begin
+    loop
+      v_sum:=v_num+v_sum;
+      v_num:=v_num+1;
+      if v_num>100 then
+          exit;
+      end if;
+    end loop;
+    dbms_output.put_line(v_sum);
+  end;
+
+  --while
+  declare
+   v_sum number(4):=0;
+   v_num number(3):=1;
+  begin
+    while v_num<=100 loop
+      v_sum:=v_sum+v_num;
+      v_num:=v_num+1;
+    end loop;
+    dbms_output.put_line(v_sum);
+  end;
+
+  --for
+  declare
+   v_sum number(4):=0;
+  begin
+    for i in 1..100 loop
+      v_sum:=v_sum+i;
+    end loop;
+    dbms_output.put_line(v_sum);
+  end;
+
+  declare
+   v_sum number(4):=0;
+  begin
+    for i in reverse 1..100 loop
+      v_sum:=v_sum+i;
+    end loop;
+    dbms_output.put_line(v_sum);
+  end;
+#+end_src
+*** 10.4. 游标
+
+1.标量类型:一般是变量一次性只接收一个数值
+2.复合类型变量:一般是变量一次性可以接收多个值
+
+记录类型和表类型变量虽然能够一次性接收多个值,但是这多个值
+是查询到的一行多列的多个值,不能接收查询到的多行多列的多个 值:
+
+1>记录类型: 2>表类型: 3>游标:
+
+游标一次性接收查询到的多行多列的值。
+因为游标的内部维护的就是一个select语句执行之后生成的多行
+多列虚拟表,而且虚拟表的行就是游标的元素,然后就可以通过游
+标的指针的指向获取到每一行,最后再获取每一行各个列的值。
+游标就类似于java的集合,游标的执行原理就类似于转门遍历集合 的迭代器。
+**** 10.4.1. 操作步骤
+
+
+1. 声明游标:
+
+   就是将select语句和游标进行绑定,那么select语句生成的虚拟表就会自动封装到游标中。
+   =cursor 游标名 is selelct语句;=
+
+2. 开启游标:
+
+   =open 游标名;=
+
+3. 提取数据:
+
+   =fetch关键字=
+
+4. 关闭游标:
+
+   =close 游标名;=
+**** 10.4.2. 游标常用的属性
+
+
+1. =%rowcount=:获取游标的元素个数(长度),其实就是游标维护的虚拟表的行数;
+2. =%isopen=:判断游标是否开启的,true开启,false关闭;
+3. =%found=:判断fetch的当前行是否存在,true存在,false不存在;
+4. =%notfound=:判断fetch的当前行是否不存在,true不存在,false存在;
+**** 10.4.3. 循环下的游标
+
+#+begin_src sql
+  --录入部门号,查询指定部门的所有员工的姓名 职位 工资
+  --记录类型变量不行
+  declare
+    type dept_record_type is record(
+      v_name emp.ename%type,
+      v_job emp.job%type,
+      v_sal emp.sal%type
+    );
+
+    dept_record dept_record_type;
+  begin
+    select ename,job,sal into dept_record from emp where deptno=&no;
+  end;
+
+  --表类型变量也不行
+  declare
+   type dept_table_type is table of varchar2(20) index by binary_integer;
+   dept_table dept_table_type;
+  begin
+    select ename,job,sal into dept_table(0),dept_table(1),dept_table(2)
+    from emp where deptno=&no;
+  end;
+
+  --游标
+  declare
+
+   --1>声明游标:就是将游标和指定的Select语句绑定
+   cursor emp_cursor is select ename,job,sal from emp where deptno=&no;
+   --接收从fetch行中拿到的ename列的值
+   v_job emp.job%type;
+   --接收从fetch行中拿到的job列的值
+   v_sal emp.sal%type;
+   --接收从fetch行中拿到的sal列的值
+  begin
+    --2>开启游标
+    open emp_cursor;
+    /*
+     3.提取数据:
+      fetch emp_cursor into v_name,v_job,v_sal;
+      表示将fetch的当前行ename job sal列的值分别赋值给变量v_name v_job v_sal
+    */
+    fetch emp_cursor into v_name,v_job,v_sal;
+    dbms_output.put_line(v_name||'   '||v_job||'  '||v_sal);
+
+    fetch emp_cursor into v_name,v_job,v_sal;
+    dbms_output.put_line(v_name||'   '||v_job||'  '||v_sal);
+
+    fetch emp_cursor into v_name,v_job,v_sal;
+    dbms_output.put_line(v_name||'   '||v_job||'  '||v_sal);
+
+    fetch emp_cursor into v_name,v_job,v_sal;
+    dbms_output.put_line(v_name||'   '||v_job||'  '||v_sal);
+
+    fetch emp_cursor into v_name,v_job,v_sal;
+    dbms_output.put_line(v_name||'   '||v_job||'  '||v_sal);
+
+    --4>关闭游标
+    close emp_cursor;
+  end;
+
+  --loop
+  declare
+   --1>声明游标:就是将游标和指定的Select语句绑定
+   cursor emp_cursor is select ename,job,sal from emp where deptno=&no;
+   v_name emp.ename%type;
+   --接收从fetch行中拿到的ename列的值
+   v_job emp.job%type;
+   --接收从fetch行中拿到的job列的值
+   v_sal emp.sal%type;
+   --接收从fetch行中拿到的sal列的值
+  begin
+    --2>开启游标
+    open emp_cursor;
+    /*
+     3.提取数据:
+  ​     循环提取游标数据
+    */
+    loop
+  ​    fetch emp_cursor into v_name,v_job,v_sal;
+  ​    exit when emp_cursor%notfound;
+  ​    /*
+  ​    if emp_cursor%notfound then
+  ​      exit;
+  ​    end if;
+  ​    */
+  ​    dbms_output.put_line(v_name||'  '||v_job||'  '||v_sal);
+    end loop;
+    --4>关闭游标
+    close emp_cursor;
+  end;
+
+  --while
+  declare
+   --1>声明游标:就是将游标和指定的Select语句绑定
+   cursor emp_cursor is select ename,job,sal from emp where deptno=&no;
+   v_name emp.ename%type;
+   --接收从fetch行中拿到的ename列的值
+   v_job emp.job%type;
+   --接收从fetch行中拿到的job列的值
+   v_sal emp.sal%type;
+   --接收从fetch行中拿到的sal列的值
+  begin
+    --2>开启游标
+    open emp_cursor;
+    /*
+     3.提取数据:
+    */
+    fetch emp_cursor into v_name,v_job,v_sal;
+    while emp_cursor%found loop
+      dbms_output.put_line(v_name||'  '||v_job||'  '||v_sal);
+      fetch emp_cursor into v_name,v_job,v_sal;
+    end loop;
+    --4>关闭游标
+    close emp_cursor;
+  end;
+#+end_src
+
+loop循环和while循环可以操作游标,但是一般使用的是for循环
+
+1. 使用for循环游标不需要我们手动开启和关闭,会自动开启和关闭
+2. 使用for循环遍历的方式类似于java的forEach循环
+
+#+begin_src sql
+  declare
+   cursor emp_cursor is select ename,job,sal from emp where deptno=&no;
+   v_name emp.ename%type;
+   v_job emp.job%type;
+   v_sal emp.sal%type;
+  begin
+    /*
+      for循环遍历游标:
+      每循环一次循环变量ec就表示游标emp_cursor中的一个元素,
+      即游标emp_cursor维护的虚拟表的一行;
+    */
+    for ec in emp_cursor loop
+  --提取当前行ename列的值赋值给变量v_name
+      v_name:=ec.ename;
+      v_job:=ec.job;
+      v_sal:=ec.sal;
+      dbms_output.put_line(v_name||'   '||v_job||'   '||v_sal);
+    end loop;
+  end;
+#+end_src
+*** 10.5. 异常的处理
+
+**** 10.5.1. 分类
+
+
+1. 预定义异常:
+
+   1. 预定义异常
+
+      由oracle定义好的异常,已经指定了异常的名称编号异常内容。
+
+   2. 非预定义异常
+
+      由oracle定义好的异常,只指定了异常的编号和内容,没有异常名。
+
+2. 自定义异常
+
+由我们去定义异常,并给异常指定名称编内容。
+**** 10.5.2. 异常常用属性
+
+
+1. SQLcode:异常编号
+2. SQLerrm:异常内容
+**** 10.5.3. 预定义异常的处理
+
+
+1. 固定格式:
+
+#+begin_src sql
+  exception
+      when 异常名 then
+          异常处理代码;
+#+end_src
+
+2. 未知异常名:others表示任意的异常
+
+#+begin_src sql
+  exception
+      when others then
+          异常处理代码;
+#+end_src
+**** 10.5.4. 非预定义异常的处理
+
+
+1. others表示任意的异常
+
+   #+begin_src sql
+     exception
+         when others then
+         异常处理代码;
+   #+end_src
+
+2. 没有异常名,给异常命名:
+
+   1. 定义=exception=类型的变量,变量名就是异常名
+
+      =变量 exception;=
+
+   2. 使用pragma关键字调用exception_init()方法,参数一就是自定义
+      异常变量(即异常名),参数二是非预定义异常的编号,将非预定义异常
+      的编号和自定义的异常变量进行绑定,即就给非预定义命名;
+
+      =pragma exception_init(异常变量,-2292);=
+
+   3. 处理
+
+   #+begin_src sql
+     exception
+         when 异常名(异常变量) then
+      异常处理代码;
+   #+end_src
+
+自定义异常:
+一般并不是指处理异常,而是使用异常的处理方式去解决一些特定的问题;
+
+#+begin_src sql
+  --录入员工的工号查询员工的姓名和职位
+  declare
+      v_no emp.empno%type:=&no;
+      v_name emp.ename%type;
+      v_job emp.job%type;
+  begin
+      select ename,job into v_name,v_job from emp where empno=v_no;
+      dbms_output.put_line(v_name||'   '||v_job);
+  exception
+      when no_data_found then
+          dbms_output.put_line('您查询的员工不存在!!!');
+  end;
+
+  declare
+      v_no emp.empno%type:=&no;
+      v_name emp.ename%type;
+      v_job emp.job%type;
+  begin
+      select ename,job into v_name,v_job from emp where empno=v_no;
+      dbms_output.put_line(v_name||'   '||v_job);
+      exception
+          when others then
+              dbms_output.put_line('您查询的员工不存在!!!');
+  end;
+#+end_src
+
+典型的非预定义异常:删除具有主外建关联关系的主表的记录行
+
+#+begin_src sql
+  begin
+      delete from dept where deptno=10;
+  exception
+      when others then
+          dbms_output.put_line('有主外建约束,不能删除'||SQLcode);
+  end;
+#+end_src
+
+#+begin_src sql
+  -- 非预定义异常的异常编号-2292
+  declare
+    --1>定义exception类型的变量,变量名就是异常名
+      e_dept exception;
+    /*
+      使用pragma关键字调用exception_init()方法,参数一就是自定义
+      异常变量(即异常名),参数二是非预定义异常的编号,将非预定义异常
+      的编号和自定义的异常变量进行绑定,即就给非预定义命名;
+    */
+      pragma exception_init(e_dept,-2292);
+  begin
+      delete from dept where deptno=10;
+  exception
+      when e_dept then
+          dbms_output.put_line('有主外建约束,不能删除');
+  end;
+
+  --自定义异常解决库存不足问题:
+  declare
+    --1>自定义异常变量
+      e_kc exception;
+    --2>使用pragma关键字调用exception_init()方法给异常指定编号(小于-20000)
+      pragma exception_init(e_kc,-20001);
+
+      v_kc number(3):=&kc;
+
+  begin
+    --库存充足正常卖出
+      if v_kc>10 then
+          dbms_output.put_line('卖出倒数第:'||(v_kc-10)||'件商品');
+      else--库存不足抛异常
+      --3.触发异常
+          raise e_kc;
+      end if;
+  exception
+      when e_kc then
+          dbms_output.put_line('库存不足');
+  end;
+
+
+  declare
+    --1>自定义异常变量
+      e_kc exception;
+    --2>使用pragma关键字调用exception_init()方法给异常指定编号(小于-20000)
+      pragma exception_init(e_kc,-20001);
+
+      v_kc number(3):=&kc;
+
+  begin
+    --库存充足正常卖出
+      if v_kc>10 then
+          dbms_output.put_line('卖出倒数第:'||(v_kc-10)||'件商品');
+      else--库存不足,给异常指定内容,再抛异常
+          raise_application_error(-20001,'库存不足');
+      end if;
+  exception
+      when e_kc then
+          dbms_output.put_line(SQLerrm);
+  end;
+#+end_src
+*** 10.6. 函数与存储过程
+
+之前的PL/SQL块属于匿名代码块,那么只要是匿名代码其复用性以及执行性能都较差。
+函数和存储过程是具有特定功能的代码块,其实就是对pl/SQL块的封装。 优点:
+
+1. 可以提高代码的复用性(以后再执行其代码只需要调用对应的函数和存储过程即可,无需再次编写代码内容)
+
+2. 提高程序的执行效率(函数和存储过程在第一次执行的时候是需要进行编译的,之后是作为数据对象被存储在oracle中,然后就只需要调用并传递对应的参数就可以直接执行)
+
+区别: 1. 存储过程其侧重点在于功能的实现过程,无需返回值。 2.
+函数其侧重点是功能实现后的结果,必须有返回值的。
+**** 10.6.1. 格式
+
+过程:
+
+#+begin_src sql
+   create procedure 过程名[(参数列表)] is
+  ​    定义内容
+     begin
+  ​    执行内容
+     exception
+  ​     异常处理内容
+     end;
+#+end_src
+
+函数:
+
+#+begin_src sql
+   create function 函数名[(参数列表)] return 返回值类型 is
+     定义部分
+    begin
+     执行部分
+     return 返回值;
+    exception
+  ​    异常处理部分
+    end;
+#+end_src
+**** 10.6.2. 参数的特点
+
+
+1. 参数有则()写并传参,参数没有()不写
+2. 参数只需要指定数据类型和名称,不能指定长度 =参数名 数据类型=
+3. 参数的类型:
+4. 输入参数in:由程序外部传入到程序内部的数据,默认 =参数名 in 数据类型=
+   =参数名 数据类型=
+5. 输出参数out:由程序内部传递到程序外部的数据 =参数名 out 数据类型=
+6. 输入输出参数in out:既能做输入参数也能做输出参数
+   =参数名 in out 数据类型=
+
+定义存储过程,打印矩形:行数、列数 、(输入参数)
+
+#+begin_src sql
+  create procedure print(r in number,c number) is
+    begin
+      for i in 1..r loop
+        for j in 1..c loop
+          dbms_output.put('* ');
+        end loop;
+          dbms_output.put_line('');
+      end loop;
+    exception
+      when others then
+        dbms_output.put_line('出错了');
+  end;
+#+end_src
+**** 10.6.3. 测试、调用存储过程
+
+
+1. 使用call命令去调用
+
+   =call print(5,5);=
+
+2. 在其他程序中直接调用
+
+   #+begin_src sql
+     begin
+       print(4,5);
+     end;
+   #+end_src
+
+   例子：
+
+创建存储过程,输入员工的工号查询员工的职位,如果职位是总经理
+
+#+begin_src sql
+  --则加工资1000,经理加工资800,分析师加工资500,其他加工资300   (输入参数)
+  create procedure editSal(n in number) is
+      v_job emp.job%type;
+  begin
+      select job into v_job from emp where empno=n;
+      update emp set sal=sal+
+          case v_job
+              when '总经理' then 1000
+              when '经理' then 800
+              when '分析师' then 500
+              else 300
+          end
+      where empno=n;
+  end;
+
+  --测试
+  call editSal(8899);
+#+end_src
+
+#+begin_src sql
+  --创建存储过程,录入员工的姓名查询员工的职位  (输出参数)
+  create procedure getJob(v_name varchar2,v_job out varchar2) is
+      begin
+          select job into v_job from emp where ename=v_name;
+      end;
+
+  --测试
+  declare
+      v_j emp.job%type;
+  begin
+      getJob('Smith',v_j);
+      dbms_output.put_line(v_j);
+  end;
+
+  --创建存储过程,录入员工的姓名查询员工的职位  (输入输出参数)
+  create procedure getEmpJob(v_char in out varchar2) is
+      begin
+          --job into v_char将查询到的job列的值赋值给输出参数v_char
+          --where ename=v_char条件是查询的员工姓名是输入参数v_char
+          select job into v_char from emp where ename=v_char;
+      end;
+
+  --测试
+  declare
+      v_c varchar2(20):='Smith';
+  begin
+      --参数变量v_c的初始化值就是输入参数
+      --参数变量v_c后接收的值就是输出参数
+      getEmpJob(v_c);
+      dbms_output.put_line(v_c);
+  end;
+
+  --创建函数,录入员工的工号查询员工的个税
+  create function getRate(n in number) return number is
+      v_sal emp.sal%type;
+      --接收查询到的sal列的值
+      c_rate constant number(3,2):=0.03;
+      --常量税率
+      v_rate number(7,2);
+  --接收计算得来的个税
+  begin
+      select sal into v_sal from emp where empno=n;
+      v_rate:=v_sal*c_rate;
+      return v_rate;
+  end;
+
+  --测试
+  --1)直接在SQL语句中可以调用
+
+  select getRate(8899) from dual;
+
+  --2)在其他程序中调用函数
+  declare
+      v_r number(7,2);
+  begin
+      v_r:=getRate(8899);
+      dbms_output.put_line(v_r);
+  end;
+#+end_src
+*** 10.7. 包
+
+是对存储过程和函数的封装,包中包含存储过程和函数
+
+1. 包规范:只是对包中所封装的函数和存储过程的声明
+2. 包体:是对包中所封装的函数和存储过程的实现
+
+=包名.函数名=
+
+=包名.存储过程名=
+**** 10.7.1. 创建包规范
+
+#+begin_src sql
+  create package pk is
+      --声明函数
+      function getYearSal(v_no in number) return number;
+      --声明存储过程
+      procedure editSalByJob(v_no in number);
+  end;
+#+end_src
+**** 10.7.2. 创建包体
+
+#+begin_src sql
+  create package body pk is
+    --实现函数
+    function getYearSal(v_no in number) return number is
+       v_year number(9,3);
+      begin
+       select (sal+nvl(comm,0))*12 into v_year from emp where empno=v_no;
+       return v_year;
+     end;
+    --实现存储过程
+    procedure editSalByJob(v_no in number) is
+      v_job emp.job%type;
+     begin
+      select job into v_job from emp where empno=v_no;
+      update emp set sal=sal+
+       case v_job
+        when '总经理' then 1000
+        when '经理' then 800
+        when '分析师' then 500
+        else 300
+      end
+      where empno=v_no;
+    end;
+  end;
+#+end_src
+
+--测试
+
+=select pk.getYearSal(8899) from dual;=
+
+=call pk.editSalByJob(7788);=
+*** 10.8. 触发器（trigger）
+
+在指定的事件源上绑定了指定的触发器,然后执行了相应的事件之后就出触发事件源上所绑定的触发器,然后就执行触发器的内容。
+
+- 触发事件:=insert= =delete= =update=等
+- 事件源:主要针对=表=、=行=、=列=等
+- 触发时机:=before= =after=
+**** 10.8.1. 分类
+
+
+1. 语句级触发器:
+
+   DML语句执行前后语句本身所触发的触发器。如,针对在emp表上执行insert语句定义了一个触发器,那么只要执行了insert语句就会触发一次触发器
+
+2. 行级触发器
+
+   DML语句执行后所影响的行所触发的触发器。如,针对在emp表上进行delete
+   update
+   insert操作定义了一个行级触发器,那么只要执行了一个DML语句,这个DMK语句执行后会影响几行,就会触发几次触发器。
+
+#+begin_quote
+  属性操作
+
+  - :new.列:列被修改之后的值
+  - :old.列:列被修改之前的值
+#+end_quote
+**** 10.8.2. 观察者设计模式
+
+
+1. 事件源
+2. 事件
+3. 监听器
+
+在指定事件源上绑定了指定的事件,然后又给事件绑定了监听器,之后在指定的事件源上触发了事件就会自动指定事件所绑定的监听器。
+
+定义一个语句级触发器,对=stu表=的=DML操作=进行判断:
+
+在=stu表=上进行增删改只有就会触发触发器=tg_1=,然后执行其内容
+
+#+begin_src sql
+  create trigger tg_1
+    after
+    delete or update or insert
+    on stu
+   begin
+     if inserting then
+       dbms_output.put_line('stu...insert');
+     elsif updating then
+       dbms_output.put_line('stu...update');
+     else
+       dbms_output.put_line('stu...delete');
+     end if;
+   end;
+
+  --测试
+  insert into stu values(1012,'XXX');
+  update stu set sname='xxx' where sno=1012;
+  delete from stu where sno=1012;
+#+end_src
+
+#+begin_src sql
+  --定义一个行级触发器,对stu表的操作进行日志记录
+  --针对stu表进行操作的日志表
+  create table stuLog(
+    logId number(10) primary key,
+    logContent varchar2(20) not null,
+    logDate date
+  );
+
+  --给日志表生成主键的序列
+  create sequence logSequence
+    start with 1
+    increment by 1
+    minvalue 1
+    maxvalue 100;
+
+  --创建触发器
+  create trigger tg_2
+    before
+    insert or delete or update
+    on stu for each row 
+   begin
+     if inserting then
+       insert into stuLog values(logSequence.nextval,'insert',sysdate);
+     elsif updating then
+       insert into stuLog values(logSequence.nextval,'update',sysdate);
+     else
+       insert into stuLog values(logSequence.nextval,'delete',sysdate);
+     end if;
+  end;
+
+  --测试
+  insert into stu values(1012,'xxx');
+  update stu set sname='yyy' where sno=10011 or sno=1012 or sno=10010;
+  delete from stu where sno=1012 or sno=10011;
+
+  select * from stuLog;
+#+end_src
+
+emp表的外键列员工的部门号deptno都依附于dept表的主键列deptno。
+那么如果将dept表的deptno列的值修改了,emp表员工的deptno列的值也应该相应的
+被修改。
+
+#+begin_src sql
+  create trigger tg_3
+    after
+    update
+    on dept for each row
+   begin
+     update emp set deptno=:new.deptno where deptno=:old.deptno;
+   end;
+
+  --测试
+  update dept set deptno=100 where deptno=10;
+  select * from dept;
+  select * from emp;
+#+end_src
+*** 10.9. 触发器补充
+
+**** 10.9.1. 触发器的介绍
+
+trigger：触发器绑定在指定的事件源上,在事件源上执行了指定的事件前后触发触发器,执行相应的内容。
+**** 10.9.2. 事件
+
+
+1. 在表或视图上进行DML操作的相关事件:
+
+   1. insert
+   2. update
+   3. dalete
+
+2. 进行DDL操作的相关事件:
+
+   1. create
+   2. alter
+   3. drop
+   4. grant
+   5. rename
+   6. revoke
+   7. truncate
+
+3. 数据库操作的相关事件:
+
+   1. logon 用户登录
+   2. logoff 用户注销
+   3. startup 开启数据库
+   4. shutsown 关闭数据库
+   5. servererror 错误消息出现
+**** 10.9.3. 触发器的分类
+
+
+1. 按照触发器的影响内容:
+
+   1. 语句级触发器:
+
+      就是执行语句执行前后本身所触发的触发器,触发器只触发一次。
+
+      =insert= =update= =delete=
+
+   2. 行级触发器:
+
+      就是执行语句执行前后所影响的行触发的触发器,影响几行就触发几次。
+
+      =update= -- 修改了三行记录 ---触发3次触发器
+
+      =delete= -- 删除了两行激励 ---触发两次触发器
+
+2. 按照事件类型:
+
+   1. DML触发器
+   2. DDL触发器
+   3. 复合触发器
+   4. instead of触发器
+   5. 数据库触发器
+**** 10.9.4. 创建触发器
+
+***** 10.9.4.1. DML触发器
+
+触发时机:
+
+=before=表示事件触发前触发触发器,=after=表示事件触发后触发触发器,
+=instead of=表示触发器是替换类型触发器
+
+#+begin_src sql
+  create trigger 触发器名
+      before | after | instead of
+      --触发器的触发事件,还可以指定具体的作用列上
+      delete |insert | update] [of 列名 [,列名]...] 
+      [or delete | insert | update [of 列名 [,列名]...]]
+      --触发器作用的表或视图
+      on 表名 | 视图名
+      --表示行级触发器,不写则是语句级触发器
+      [for each row]
+      --指定该触发器执行在哪些触发器之后
+      [follows 触发器名 [,触发器名]...]
+      --触发器是否可用,默认不写是enable
+      [enable | disable]
+      --触发触发器的条件
+      [when 条件]
+
+  declare
+      定义部分
+  begin
+      执行部分
+  end;
+#+end_src
+***** 10.9.4.2. DDL触发器
+
+#+begin_src sql
+  create trigger 触发器名
+      --before表示事件触发前触发触发器,after表示事件触发后触发触发器
+      before | after
+      --触发器的触发事件
+      DDL事件 [or DDL事件]...
+      --触发器作用的数据库
+      on 数据库实例名
+      --指定该触发器执行在哪些触发器之后
+      [follows 触发器名[,触发器名]...]
+      --触发器是否可用
+      [enable | disable]
+      --触发触发器的条件
+      [when 条件]
+
+  declare 
+      定义部分
+  begin
+      执行部分
+  end;
+#+end_src
+***** 10.9.4.3. 数据库触发器
+
+#+begin_src sql
+  create trigger 触发器名
+      --before表示事件触发前触发触发器,after表示事件触发后触发触发器
+      before | after
+      --触发器的触发事件
+      数据库事件 [or 数据库事件]...
+      --触发器作用的数据库
+      on 数据库实例名
+      --指定该触发器执行在哪些触发器之后
+      [follows 触发器名[,触发器名]...]
+      --触发器是否可用
+      [enable | disable]
+      --触发触发器的条件
+      [when 条件]
+
+  declare  
+      定义部分
+  begin
+      执行部分
+  end;
+#+end_src
+***** 10.9.4.4. 复合触发器
+
+#+begin_src sql
+  create trigger 触发器名 for
+      insert | update | delete [of 列名[,列名]...]
+      [or insert | update | delete [of 列名[,列名]...]]
+      ......
+      on 表名 | 视图名
+      --表示为复合触发器
+      compound trigger
+      --前语句级触发
+      before statement is 具体语句或程序 end before statement |
+      --前行级触发
+      before each row is 具体语句或程序 end before each row |
+      --后语句级触发
+      after statement is 具体语句或程序 end after statement |
+      --后行级触发
+      after each row is 具体语句或程序 end after each row
+#+end_src
+**** 10.9.5. 案例演示
+
+
+1. 对测试表执行DML操作,显示操作内容
+2. 对测试表执行DML操作,向日志表中添加日志记录
+3. 将dept表中的deptno
+
+#+begin_src sql
+   --班级测试表
+  create table classes(
+      cid number(10) primary key,
+      cname varchar2(20)
+
+
+  insert into classes values(10,'java');
+  insert into classes values(20,'oracle');
+  insert into classes values(30,'web');
+  insert into classes values(40,'js');
+
+  --学生测试表
+  create table stu(
+   sid number(10) primary key,
+   sname varchar2(20),
+   cid number(10) references classes(cid)
+  );
+  insert into stu values(101,'aaa',10);
+  insert into stu values(102,'bbb',10);
+  insert into stu values(103,'ccc',10);
+  insert into stu values(104,'ddd',20);
+  insert into stu values(105,'eee',20);
+  insert into stu values(106,'fff',20);
+  insert into stu values(107,'ggg',30);
+  insert into stu values(108,'hhh',30);
+  insert into stu values(109,'jjj',30);
+  insert into stu values(110,'AAA',40);
+  insert into stu values(111,'BBB',40);
+  insert into stu values(112,'CCC',40);
+
+  --示例1
+  create trigger tg1
+      after 
+      insert or update or delete  
+      on stu
+
+  begin
+      if inserting then
+          dbms_output.put_line('添加操作');
+      elsif updating then
+          dbms_output.put_line('修改操作');
+      else
+          dbms_output.put_line('删除操作'); 
+      end if;
+  end;
+
+  insert into stu values(111,'mmm',30);
+  update stu set cid=10 where sid=111;
+  delete from stu where sid=111;
+
+  --示例2
+  create table stu_log(
+      logid number(10) primary key,
+      logcontent varchar2(20),
+      logdate date 
+  );
+
+  create sequence logseq
+      start with 1
+      increment by 1
+      minvalue 1
+      maxvalue 100;
+
+  create trigger tg2
+      before
+      delete or insert or update
+      on stu
+      for each row
+
+  begin
+      if inserting then
+          insert into stu_log values(logseq.nextval,'insert',sysdate);
+      elsif updating then
+          insert into stu_log values(logseq.nextval,'update',sysdate);
+      else
+          insert into stu_log values(logseq.nextval,'delete',sysdate);
+      end if;
+  end;
+
+  insert into stu values(112,'nnn',30);
+  update stu set cid=30 where cid=40;
+  delete from stu where sid=110 or sid=111;
+  select * from stu_log;
+
+  --示例3
+  create trigger tg3
+      before
+      update of cid
+      on classes
+      for each row
+
+  begin
+      update stu set cid=:new.cid where cid=:old.cid;
+  end;
+
+  update classes set cid=30 where cid=50;
+
+  select * from stu;
+  select * from classes;
+#+end_src
+**** 10.9.6. 触发器的执行顺序
+
+在同一个对象上可以同时作用多个触发器,所以触发器的执行存在先后关系的:
+
+1. 首先被执行的是前(before)语句级触发器,该触发器会被执行一次。
+2. 如果有行级触发器,接下来执行的是前(before)行级触发器,DML语句影响几行,该触发器就被你执行几次。
+3. 接着执行后(after)行级触发器,同样是DML语句影响几行,该触发器就被执行几次。
+4. 最后执行的是后(after)语句级触发器,该触发器也只被执行一次。
+
+如果是多个类型相同,事件相同的触发器作用在同一对象上,可以使用follows控制触发器的执行顺序。如果被设置follows,是谁后被定义,谁先执行。
+
+#+begin_src sql
+   --示例4
+  create trigger tg4
+      after
+      update of sname
+      on stu
+  begin
+      dbms_output.put_line('stu表被修改了');
+  end;
+
+  --tg5触发器默认先执行
+  create trigger tg5
+      after
+      update of sname
+      on stu
+  begin
+      dbms_output.put_line('stu表被编辑了');
+  end;
+
+
+  create trigger tg4
+      after
+      update of sname
+      on stu
+  begin
+      dbms_output.put_line('stu表被修改了');
+  end;
+  --tg5触发器在触发器tg4之后执行
+  create trigger tg5
+      after
+      update of sname
+      on stu
+      follows tg4
+  begin
+      dbms_output.put_line('stu表被编辑了');
+  end;
+
+  update stu set sname='haha' where sid=109;
+#+end_src
+**** 10.9.7. 复合类型触发器
+
+复合类型触发器相当于在一个触发器中包含了4种不同类型的触发器。
+目的是可以对变量的各个状态进行操作。
+
+如,在emp表上注册一个触发器，当对sal字段执行update操作时触发
+该触发器，在触发器中查询员工的平均工资，然后再判断当员工修改
+后的工资减去员工修改前的工资大于平均的20%,则报错不让其修改
+员工工资，否则正常修改:
+
+#+begin_src sql
+  create trigger tg6
+      after
+      update of sal
+      on emp
+      for each row
+  declare
+      v_avg number(7,2):=0.0;
+  begin
+      select avg(sal) into v_avg from emp;
+      if :new.sal-:old.sal>v_avg*0.2 then
+          raise_application_error(-20001,'数据修改失败');
+      end if;
+  end; 
+#+end_src
+
+=update emp set sal=sal+500 where sal<2000;=
+执行update出错,因为在执行update语句时对emp表中的sal
+字段正在进行修改中,此时再触发触发器查询员工的平均工资
+结果存在冲突,此时将emp表称之为变异表。 所以使用复合触发器:
+
+#+begin_src sql
+  create trigger tg7
+      for update of sal on emp compound trigger
+      v_avg number(7,2):=0.0;
+  --此部分是前语句状态的操作:
+  before statement is
+  begin
+      select avg(sal) into v_avg from emp;
+  end before statement;
+  --此部分是后行状态的操作:
+  after each row is
+  begin
+      if :new.sal-:old.sal>v_avg*0.2 then
+          raise_application_error('-20001','数据修改失败');
+      end if;
+  end after each row;
+  end;
+#+end_src
+
+在前语句状态和后行状态对sal字段的操作不冲突。
+**** 10.9.8. instead of触发器
+
+在对象上执行=DML=操作时,如果触发了=instead of触发器=,那么该
+触发器的操作内容就会替代=DML=的操作内容。
+=instead of触发器=一般用在视图上,解决视图更新异常的问题。
+
+#+begin_src sql
+  create view emp_view as 
+      select deptno,avg(sal) asal from emp group by deptno;
+
+  insert into emp_view values(60,5000);
+  update emp_view set asal=10000 where deptno=20;
+  delete from emp_view where deptno=10;
+
+  create trigger tg8
+      instead of 
+      insert or update or delete 
+      on emp_view
+  begin
+      if insertint then
+          dbms_output.put_line('视图添加失败');
+      elsif updating then
+          dbms_output.put_line('视图修改失败');
+      else
+          dbms_output.put_line('视图删除失败');
+  e   nd if;
+  end;
+#+end_src
+**** 10.9.9. DDL触发器
+
+=create alter drop= 创建触发器,显示对当前数据库的数据对象的操作内容
+
+#+begin_src sql
+  create or replace trigger tg9
+      before
+      create or alter or drop
+      on schema--当前数据库
+  begin
+      if sysevent='CREATE' then
+          dbms_output.put_line('创建了'||dictionary_obj_name);
+      elsif sysevent='ALTER' then
+          dbms_output.put_line('对'||dictionary_obj_name||'进行了修改');
+      elsif sysevent='DROP' then
+          dbms_output.put_line('删除了'||dictionary_obj_name);
+      end if;
+  end;
+#+end_src
+**** 10.9.10. 数据库触发器
+
+创建触发器,记录登陆数据库的用户: create table user_log( loginUser
+varchar2(30), loginDate date );
+
+#+begin_src sql
+  create trigger tg10
+      after
+      logon
+      on schema
+  begin
+      insert into user_log values(sys.login_user,sysdate);
+  end;
+#+end_src

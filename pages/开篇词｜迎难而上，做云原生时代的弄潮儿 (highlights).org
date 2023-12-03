@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: 开篇词｜迎难而上，做云原生时代的弄潮儿 (highlights)
+:author: [[geekbang.org]]
+:full-title: "开篇词｜迎难而上，做云原生时代的弄潮儿"
+:category: #articles
+:url: https://time.geekbang.org/column/article/528554?cid=100114501
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-14]]
+** 我觉得学习 Kubernetes 最好的方式是尽快建立一个全局观和大局观，等到你对这个陌生领域的全貌有了粗略但完整的认识之后，再挑选一个自己感兴趣的方向去研究，才是性价比最高的做法。 ([View Highlight](https://read.readwise.io/read/01gp8xtvc0v5s1rxz1tsmfhm57))
+* New highlights added [[2023\-07\-01]] at 3:17 AM
+** 📌
+** #+BEGIN_QUOTE
+** ![](https://static001.geekbang.org/resource/image/06/9d/0663d692b33c1dee5b08e486d271b69d.jpg?wh=1920x1661) ([View Highlight](https://read.readwise.io/read/01h46tr7c0n2vg9agredk9jyb2))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Kubernetes 里的 4 个重要概念：Deployment、DaemonSet、Service、Ingress ([View Highlight](https://read.readwise.io/read/01h46ts5sgsad8x9scgpcxtp60))
+** #+END_QUOTE

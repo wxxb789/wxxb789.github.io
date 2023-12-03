@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: 🚨 New Instruction Data A... (highlights)
+:author: [[seungonekim on Twitter]]
+:full-title: "🚨 New Instruction Data A..."
+:category: [[tweets]]
+:url: https://twitter.com/seungonekim/status/1660971862468485120
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-24]]
+** 🚨 New Instruction Data Alert!   
+
+We introduce 🌟CoT Collection🌟, an instruction dataset including 52 times more CoT rationales and 177 times more tasks compared to previously available CoT datasets. 
+
+https://t.co/1iZp8sbqfr ([View Tweet](https://twitter.com/seungonekim/status/1660971862468485120))
+** Recent works showed that CoT Fine-tuning enables smaller LMs to solve new novel tasks more effectively.
+
+But, up to date, there exists only 9 CoT datasets available, which FLAN-T5 used for training, namely AQuA, Creak, ECQA, eSNLI, GSM8K, QASC, QED, SenseMaking and StrategyQA. ([View Tweet](https://twitter.com/seungonekim/status/1660972367546310658))
+** To resolve this issue, we augment CoT rationales using LLMs. 
+
+Using FLAN Collection as a source, we use ICL and make LLMs generate high quality CoT rationales across 1,060 NLP tasks. 
+
+![](https://pbs.twimg.com/media/Fwz10P1akAEaXU0.jpg) ([View Tweet](https://twitter.com/seungonekim/status/1660972676465430530))
+** So how could one use this dataset? 
+
+To explore the benefits of CoT fine-tuning on massive amount of instruction data, we continually train FLAN-T5 with CoT Collection, resulting in our model C2F2.
+
+Then, we test our model in zero-shot and few-shot settings. 
+
+![](https://pbs.twimg.com/media/Fwz2BUwaUAAbZPy.png) ([View Tweet](https://twitter.com/seungonekim/status/1660972899434639360))
+** On the Big Bench Hard (BBH) benchmark, we observe +4.34%, +2.44% improvement across 3B and 11B model scale, respectively.
+
+Also, naively training T5 on CoT Collection works effectively, considering that CoT Collection is 8 times smaller than FLAN Collection! 
+
+![](https://pbs.twimg.com/media/Fwz2V75acAERuGN.png) ([View Tweet](https://twitter.com/seungonekim/status/1660973264720760833))
+** Also, we show that a C2F2 could adapt to new tasks with few instances. 
+
+On a 64 shot setting, C2F2 + LoRA outperforms FLAN-T5 + Full fine-tuning by +2.97% and +2.37% across 4 legal & medical datasets while updating 2,352x fewer parameters. 
+
+![](https://pbs.twimg.com/media/Fwz2utRaAAEP_kE.jpg) ([View Tweet](https://twitter.com/seungonekim/status/1660973664920305669))
+** To learn more about our work, please check out our draft & code😃
+
+📝 https://t.co/1iZp8sbqfr 
+👨‍💻 https://t.co/MKBd4gjpgY
+
+Joint work w/ @joocjun , @Doe_Young_Kim , @jang_yoel , @SeonghyeonYe , @jshin491 , @seo_minjoon ([View Tweet](https://twitter.com/seungonekim/status/1660974225098936320))

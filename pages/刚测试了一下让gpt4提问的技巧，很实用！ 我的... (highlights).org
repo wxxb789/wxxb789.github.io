@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: 刚测试了一下让gpt4提问的技巧，很实用！ 我的... (highlights)
+:author: [[dotey on Twitter]]
+:full-title: "刚测试了一下让gpt4提问的技巧，很实用！ 我的..."
+:category: #tweets
+:url: https://twitter.com/dotey/status/1647786431010467840
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-17]]
+** 刚测试了一下让GPT4提问的技巧，很实用！
+我的prompt：
+
+“请帮我写一篇有关AI对软件工程影响的文章，你在写之前可以先思考怎么写，有需要我补充信息的地方，把问题列出来，我会回答你的问题。” 
+
+![](https://pbs.twimg.com/media/Ft4dBqwWYAIPdlE.jpg) ([View Tweet](https://twitter.com/dotey/status/1647786431010467840))
+** 然后GPT-4就给我提了5个问题：
+“
+在开始撰写这篇文章之前，请允许我提出一些问题，以便更好地了解您的需求和期望：
+
+1. 您希望这篇文章的主题重点是什么？例如，是否关注AI如何改变软件开发过程，还是如何提高软件工程的效率和质量？
+3. 您希望这篇文章的长度是多少？有没有篇幅限制？ ([View Tweet](https://twitter.com/dotey/status/1647786433346777088))
+** 3. 有没有特定的技术、工具或案例，您希望我在文章中包含？
+4. 您希望文章中包含关于AI对软件工程师的未来影响的讨论吗？
+5. 您希望文章的目标读者是谁？比如说是软件工程师、企业决策者还是广泛的受众？
+
+请随时向我提供您的建议和期望，我将尽力满足您的要求。” ([View Tweet](https://twitter.com/dotey/status/1647786434919559170))
+** 这几个问题都很在点子上，而且还给出了示例，让我很容易对问题进行解答。
+
+于是我对GPT-4提出的问题一一进行了解答，GPT-4根据我的回复，写了一篇包含所有我回复的要点的文章。 
+
+![](https://pbs.twimg.com/media/Ft4dCIeWwAA2ieg.jpg) ([View Tweet](https://twitter.com/dotey/status/1647786440212791296))

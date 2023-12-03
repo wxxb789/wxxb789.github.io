@@ -1,0 +1,27 @@
+
+
+* [00]Outline
+
+* SSH
+
+
+- struts2
+- spring
+- hibernate # SSM
+- springmvc
+- spring
+- mybatis
+* 五大框架
+
+
+1. struts2
+2. hibernate
+3. spring
+4. springmvc
+5. mybatis
+
+*工具：*
+
+1. maven:构建工具
+2. svn:版本控制软件
+3. springboot:运行环境 平台 集成

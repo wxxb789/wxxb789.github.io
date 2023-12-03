@@ -1,0 +1,17 @@
+* 历史上的今天
+
+#+BEGIN_QUERY
+{:title [:b "历史上的今天"]
+ :query [:find (pull ?j [*])
+         :in $ ?today
+         :where 
+         [?j :block/journal-day ?jd]
+         [(- ?today ?jd) ?days]
+         [(mod ?days 10000) ?r]
+         [(= 0 ?r)]
+         [(> ?days 0)]
+         ]
+ :inputs [:today]
+ }
+#+END_QUERY
+*

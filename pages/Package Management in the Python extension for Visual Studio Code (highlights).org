@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: Package Management in the Python extension for Visual Studio Code (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Courtney Webster]]
+:full-title: "Package Management in the Python extension for Visual Studio Code"
+:category: [[articles]]
+:url: https://devblogs.microsoft.com/python/python-package-management-proposal/
+:image-url: https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_552953/pythonfeature.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-20]]
+** 📌
+** #+BEGIN_QUOTE
+** There are several popular dependency and package management tools available. For this research, I compared [Pip](https://pip.pypa.io/), [Poetry](https://python-poetry.org/), [Hatch](https://hatch.pypa.io/), [conda](https://docs.conda.io/), [PDM](https://pdm.fming.dev/), and [Pipenv](https://pipenv.pypa.io/) CLI commands to find the intersection of functionality they provide for package management and where `pip` and `venv` do not offer direct support that these other tools have.  ([View Highlight](https://read.readwise.io/read/01h5s43xd4a98ymw3nn5hw7r4y))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Initially, we believe the default should be to write to a `requirements.txt` file, including the package version that was installed. Opting to write the version, by default, supports the users’ need for reproducibility and ease of collaborating on work. Given the nature of the work done by the target audience and our target usage, a `pyproject.toml` is out of scope as the target user typically does not build their project nor is there a direct way to only install dependencies listed in a `pyproject.toml` file.  ([View Highlight](https://read.readwise.io/read/01h5s44j8gasqbwa1xacdvn2c9))
+** #+END_QUOTE

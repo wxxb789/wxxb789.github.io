@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: Tweets From McKay Wrigley (highlights)
+:author: [[mckaywrigley on Twitter]]
+:full-title: "Tweets From McKay Wrigley"
+:category: [[tweets]]
+:url: https://twitter.com/mckaywrigley
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-18]]
+** LangChain 101: Indexes is up!
+
+You’ll learn about:
+- creating indexes
+- using document loaders
+- splitting/chunking text
+- vector stores
+
+Full @Replit project with 50min video that covers @LangChainAI indexes.
+
+Take course: https://t.co/Ql5fSdQz0o 
+
+![](https://pbs.twimg.com/media/FwWabClaEAAnVCl.jpg) ([View Tweet](https://twitter.com/mckaywrigley/status/1658901830313861120))

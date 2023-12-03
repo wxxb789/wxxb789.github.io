@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: GitHub Trending Is One O... (highlights)
+:author: [[dair_ai on Twitter]]
+:full-title: "GitHub Trending Is One O..."
+:category: #tweets
+:url: https://twitter.com/dair_ai/status/1644023068698746898
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-07]]
+** GitHub Trending is one of the best places to learn what's trending in AI. 
+
+Both our Prompt Engineering Guide & ML Papers of the Week are trending today! 
+
+We are excited to continue with our efforts to make ML more accessible.
+
+https://t.co/K5aaTs5nCL
+
+https://t.co/Ca6rrJMPpX 
+
+![](https://pbs.twimg.com/media/FtC9HwpWIBM7KTv.jpg) ([View Tweet](https://twitter.com/dair_ai/status/1644023068698746898))
+** Important to call out how important the community is with these efforts. 
+
+We are always looking for contributors, supporters, and partners. Reach out if you are interested.
+
+Discord: https://t.co/QhTuqbh7wl ([View Tweet](https://twitter.com/dair_ai/status/1644023790848835584))

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: 推荐 Flomo 创始人少楠的一篇学习 Jim... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[XDash on Twitter]]
+:full-title: "推荐 Flomo 创始人少楠的一篇学习 Jim..."
+:category: [[tweets]]
+:url: https://twitter.com/XDash/status/1729294134866022547
+:image-url: https://pbs.twimg.com/profile_images/1699588709891608576/6M9I_5oH.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-28]]
+** 📌
+** #+BEGIN_QUOTE
+** 推荐 flomo 创始人少楠的一篇学习 jim collins 的付费笔记，经授权转载分享：
+
+\- 少做决定，最重要的决定。每个决定都会耗费精力，所以尽量做出一些通用决策框架，这样才能留出精力做出更重要的决策。比如巴菲特就把大多数投资分为，投、不投、看不懂。看不懂这个筐让其节省了大量时间。
+
+- 找到并发挥你的独特影响。一个思考框架是，如果没有你，在某些事情上不会发生的关键决定是什么，那就是你的独特影响。
+
+- 停止不会开始做的事情。有一个不断扩张的待办清单，而没有一个强大的停止做事列表，是缺乏纪律的表现。所以核心问题是：如果你今天才要从事业已从事的事情，你还会选择么？如果不是，那你在坚持什么？
+
+- 精益运行。保持小规模运营，因为随着增长内部的事情会超过外部，这就导致注意力转移到内部管理，而不是给外部世界做贡献。找到更好的人，让他们做真正的大事，扩大他们的责任。人越少、规模越小、内部活动越少，组织管理成本就低。
+
+- 有用。不要去思考如何成功（这是结果），而是思考如何对别人有用（useful，这才是成功的原因）
+
+more: https://t.co/xRibynLm73  ([View Tweet](https://twitter.com/XDash/status/1729294134866022547))
+** #+END_QUOTE

@@ -1,0 +1,287 @@
+
+
+* [01]基本概念与结构
+
+** 1. 用户/账号
+
+*** 1.1. sys 用户·
+
+
+1. 是整个oracle中权限最大的用户,该用户只此一个；
+   因为sys用户持有sysdba身份权限和sysoper身份权限,是sysdba和sysoper身份的权限非常大才决定了sys用户的权限非常大;
+   而且sysdba和sysoper身份也只被sys用户持有;
+   而且sys用户登陆必须指明sysdba身份,否则无法登陆;
+2. 该用户内部存储了支持oracle运行的数据字典和动态视图:
+   数据字典和动态视图其实本质都是表,不过表里面存储的数据都是支持
+   oracle运行的内置数据,所以将这些特殊的表称为数据字典,只不过动
+   态视图是动态生成的;而且数据字典和动态视图中的数据只供于我们去
+   使用不能去修改;
+*** 1.2. system 用户
+
+
+1. Oracle 中的管理员用户，持有 dba
+   角色权限；类似于system一样的用户后期还是可再建的,只需要将dba角色赋予给用户就行;system用户登陆仅仅是持有普通的normal身份;
+2. 内部存储的是oracle次一级的数据
+*** 1.3. scott 用户
+
+普通的示例用户，没有任何权限。持有 normal 身份。
+** 2. 身份权限
+
+oracle的用户登陆必须指明身份,而且不用的身份所持有的权限不同: ### 2.1.
+normal:
+
+1. 普通身份
+2. 没有任何权限
+3. 除了sys用户以外其他用户都是normal身份,也是oracle用户的默认身份
+*** 2.2. sysdba
+
+
+1. 是oracle中权限最大的身份
+2. 只能被sys用户持有
+3. 任何用户如果持sysdba身份登录其实都是sys用户了
+*** 2.3. sysoper
+
+
+1. 是oracle中权限仅次于sysdba的身份
+2. 也只能被sys用户持有
+3. 但是sys用户持sysoper身份登录后并不是sys而是PUBLIC
+** 3. 权限划分
+
+*** 3.1. 系统权限：
+
+是指操作oracle数据库的相关权限,如"登陆"，"建表"，"建视图"等赋予单个系统权限。
+
+=grant create session to zs;=表示给zs用户赋予了会话权限同时赋予多个系统权限。
+
+=grant create session,create table to zs;=
+表示同时给zs用户赋予了会话权限和建表的权限。
+*** 3.2. 对象权限
+
+是指一个用户去操作另一个用户创建的数据对象的相关权限,
+如zs用户对ls用户的a表进行查询 添加 删除 修饰等权限;
+
+1. 赋予单个对象权限:
+
+   =grant select on zs.A to ls;= grant 权限 on A用户.数据对象 to B用户;
+   将作用在A用户的某个数据对象上的某个权限赋予给了B用户;
+
+2. 赋予多个权限:
+
+   =grant select,insert,delete on zs.A to ls;= grant 权限1,权限2... on
+   A用户.数据对象 to B用户;
+   将作用在A用户的某个数据对象上的多个权限同时赋予给了B用户;
+
+3. 赋予多个对象权限:
+
+4. 数据对象:
+
+   oracle中已经多多少少引入了对象的概念了,它将用户所创建表、视图、
+   函数、存储过程等都称为用户的数据对象;
+*** 3.3. 角色
+
+角色就是多个权限的集合体,将多个权限赋予给角色,然后再将角色赋予给用户,就相当于将角色持有的所有权限赋予给了用户;
+
+1>预定义角色: oracle已经定义好且赋予了权限的角色,这种角色只能用;
+
+1. 常用的三个预定义角色:
+
+   1. dba:管理员角色,集oracle所有的系统权限于一身,只赋予给管理员用户,不能轻易给其他用户;
+   2. connect:只持有会话权限,等同于create session;
+   3. resource:持有能够操作SYSTEM表空间以及创建一些数据对象的相关权限;
+
+2. 赋予单个角色:
+
+   =grant 角色 to 用户;=
+
+   =rant connect to zs;=
+
+3. 赋予多个角色:
+
+   =grant 角色1,角色2... to 用户;=
+
+   =grant connect,resource to zs;=
+
+4. 自定义角色:
+
+由我们自己创建的角色并给角色赋权:
+
+#+begin_example
+  A)创建角色:
+
+      create role 角色名;
+
+      create role myrole;
+
+  B)给自定义角色赋权:
+
+      grant 权限 to 自定义角色;
+
+      grant select,insert,delete,update on zs.A to myrole;
+
+  C)使用自定义角色:
+
+      grant 自定义的角色 to 用户;
+
+      grant myrole to ww;
+
+  D)删除角色:
+
+      drop role 角色名;
+
+      drop role myrole;
+#+end_example
+*** 3.4. 权限的传递
+
+将权限赋予给某个用户的同时并允许该用户再将权限赋予个其他用户;
+
+1. 系统权限和角色:
+
+   =grant 系统权限/角色 to 用户 with admin option;=
+
+   =grant connect,resource to ls with admin option;=
+
+   =conn ls/222;=
+
+   =grant connect,resource to ww;=
+
+2. 对象权限:
+
+   =grant 对象权限 to 用户 with grant option;=
+
+   =grant select,delete on zs.A to ls with grant option;=
+
+   =conn ls/222;=
+
+   =grant select,delete on zs.A to ww;=
+*** 3.5. 撤销权限
+
+=revoke 权限 from 用户;=
+**** 3.5.1. 级联回收
+
+从某个用户身上撤销了相关权限,那么该用户传递给其他用户的相关权限会不会也被
+撤销;
+
+1. 对象权限存在级联回收:
+
+   =revoke select,delete on zs.A from ls;=
+
+   =conn ls/222;=
+
+   =select * from zs.A;= 表或视图不存在
+
+   =conn ww/333=
+
+   =select * from zs.A;=表或视图不存在
+
+2. 系统权限和角色不存在级联回收:
+
+   =revoke connect,resource from ls;=
+
+   =conn ls/222;=
+
+   =user LS lacks CREATE SESSION privilege; logon denied=
+
+   =conn ww/333;=已连接
+*** 3.6. 修改用户密码
+
+
+1. 修改自己密码:
+
+   =passw[ord];= 原密码: 新密码: 确认密码:
+
+2. 修改其他用户的密码:(dba角色用户):
+
+   - passw[ord] 被修改的用户名;新密码:确认密码:
+   - alter user 用户名 identified by
+     新密码;=alter user zs identified by 111;=
+** 4. 表空间（tablespace）
+
+
+1. 从逻辑上讲，Oracle的结构包括*表空间*、*段*、*区*和*块*。数据库由一个或多个表空间组成，表空间又由段组成，段又由区构成，区又由块构成。
+2. 从物理上讲，数据库的数据是存放在数据文件中的。表空间的物理表现形式就是数据文件。一个表空间由一个或数据文件组成。一个数据的空间大小由其所对应的表空间所绑定的所有数据文件的总大小决定;
+*** 4.1. 操作表空间
+
+
+1. 创建表空间(dba用户):
+
+   - =create tablespace 表空间名 datafile '数据文件路径.dbf' size 单位是M;=
+   - =create tablespace myspace datafile 'F:\class_105\oracle\day02\a.dbf' size 10M;=
+
+2. 使用表空间:
+
+就是在创建用户的同时给用户指定一个默认的表空间,那么之后该用户所创建的所有数据
+对象都是存在该表空间中。
+
+如果不给用户指定默认表空间,那么默认是oracle的SYSTEM表空 间。
+
+- =create user 用户名 identified by 密码 default tablespace 表空间名;=
+- =create user zs identified by 111 default tablespace myspace;=
+*** 4.2. 设置表空间的状态
+
+
+1. 使脱机状态：
+
+   - =alter tablespace  表空间名  offline ;=
+   - 表示表空间和数据库断开连接,那么就不能对表空间中的数据做任何操作了;
+   - =alter tablespace myspace offline;=
+
+2. 使联机状态：
+
+   - =alter tablespace  表空间名   online ;=
+   - 表示表空间和数据库连接了,那么就能对表空间中的数据正常操作;
+   - =alter tablespace myspace online;=
+
+3. 只读状态：
+
+   - =alter  tablespace  表空间名  read  only ;=
+   - 表示只能对表空间中的数据进行查询不能更新;
+   - =alter tablespace myspace read only;=
+
+4. 读、写状态：
+
+   - =alter tablespace  表空间名  read  write ;=
+   - 表示将只读状态又恢复到可读可写(即又能增删改查);
+   - =alter tablespace myspace read write;=
+*** 4.3. 扩展表空间
+
+
+1. 追加数据文件:
+
+   - =alter tablespace 表空间名 add datafile '数据文件路径' size 大小;=
+   - =alter tablespace myspace add datafile 'F:\class_105\oracle\day02\b.dbf' size 50M;=
+
+2. 扩大数据文件的空间
+
+   - =alter database datafile '数据文件的路径' resize 新的大小;=
+   - =alter database datafile 'F:\class_105\oracle\day02\a.dbf' resize 100M;=
+
+3. 设置数据文件自增:
+
+   - =alter database datafile '数据文件路径' autoextend on next 步长 maxsize 最大值;=
+   - =alter database datafile 'F:\class_105\oracle\day02\a.dbf' autoextend on next 50M maxsize 500M;=
+*** 4.4. 数据文件的移动
+
+
+1. 表空间脱机:
+
+   - =alter tablespace 表空间名 offline;=
+
+2. 移动数据文件:DOS命令
+
+   - =host move 数据文件原路径 数据文件新路径;=
+   - =host move F:\class_105\oracle\day02\a.dbf D:\datafiles\a.dbf;=
+
+3. 给表空间和数据文件重新进行绑定:
+
+   - =alter tablespace 表空间名 rename datafile '数据文件原路径' to '数据文件新路径';=
+   - =alter tablespace myspace rename datafile 'F:\class_105\oracle\day02\a.dbf' to 'D:\datafiles\a.dbf';=
+
+4. 联机:
+
+   - =alter tablespace 表空间名 online;=
+*** 4.5. 删除表空间:(彻底删除)
+
+=drop tablespace 表空间名 including contents and datafiles;=
+** 5. 数据字典
+
+** 6. 动态视图

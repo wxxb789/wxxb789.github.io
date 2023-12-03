@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: 𝗗𝗼 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗔𝗹𝗹... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[milan_milanovic on Twitter]]
+:full-title: "𝗗𝗼 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗔𝗹𝗹..."
+:category: [[tweets]]
+:url: https://twitter.com/milan_milanovic/status/1681184239629266944
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-19]]
+** 📌
+** #+BEGIN_QUOTE
+** 𝗗𝗼 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗔𝗹𝗹 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀?
+
+The answer is no. Even though we have 23 design patterns, around ten are mostly used in everyday development. Knowing which patterns exist overall is good, but you need to know these very well.
+
+Design… https://t.co/0OMS3g6HAe 
+
+![](https://pbs.twimg.com/media/F1TEHJ4WwAAtT3K.jpg) ([View Tweet](https://twitter.com/milan_milanovic/status/1681184239629266944))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** If you want to learn more about design patterns, subscribe to my newsletter: https://t.co/q02IQfGGH8 ([View Tweet](https://twitter.com/milan_milanovic/status/1681241871786319872))
+** #+END_QUOTE

@@ -1,0 +1,2 @@
+* [[https://github.com/book-searcher-org/book-searcher][book-searcher-org/book-searcher: Create and search books index, create your private library. (github.com)]]
+* [[https://lib.zuyang.wtf/][zlib searcher (zuyang.wtf)]]

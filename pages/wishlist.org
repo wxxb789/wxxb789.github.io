@@ -1,0 +1,5 @@
+#+alias: buylist, buy,
+
+* [[buylist/2022/双十一]]
+* [[buylist/2023/618]]
+* [[buylist/2023/双十一]]

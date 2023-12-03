@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: Tweets From Goku Mohandas (highlights)
+:author: [[GokuMohandas on Twitter]]
+:full-title: "Tweets From Goku Mohandas"
+:category: [[tweets]]
+:url: https://twitter.com/GokuMohandas
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** 🦜 The @raydistributed team released Project Aviary today and besides the really fun way to explore LLM outputs (alongside latency, cost, etc.), I was more interested in how they’re serving this LLM model registry (+ evaluation, batch inference, etc.) 🤯 It took me ~30 minutes to… 
+
+![](https://pbs.twimg.com/media/FxfaOp5acAETPl5.jpg) 
+
+![](https://pbs.twimg.com/media/FxfaOp5aAAArbIr.jpg) 
+
+![](https://pbs.twimg.com/media/FxfaOp5aMAE4gCi.jpg) 
+
+![](https://pbs.twimg.com/media/FxfaOp5akAAWX4U.jpg) ([View Tweet](https://twitter.com/GokuMohandas/status/1664112657484611584))

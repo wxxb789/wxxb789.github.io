@@ -1,0 +1,8 @@
+#+title: Research/Workflow
+
+* Thinking in Research Workflow
+* [[https://blog.logseq.com/newsletter-10-how-to-use-logseq-for-research/][Newsletter #10: How to Use Logseq for Research]]
+* DONE positive point vs negative point
+:LOGBOOK:
+CLOCK: [2022-08-29 Mon 14:47:26]--[2022-08-29 Mon 14:47:28] =>  00:00:02
+:END:

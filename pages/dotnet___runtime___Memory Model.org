@@ -1,0 +1,8 @@
+#+title: dotnet/runtime/Memory Model
+
+* [[https://github.com/dotnet/runtime/issues/63474][Document the memory model guaranteed by dotnet/runtime runtimes · Issue #63474 · dotnet/runtime (github.com)]]
+* [[https://github.com/VSadov/runtime/blob/memModel/docs/design/coreclr/botr/memory-model.md][runtime/memory-model.md at memModel · VSadov/runtime (github.com)]]
+* [[https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr][runtime/docs/design at main · dotnet/runtime (github.com)]]
+* [[https://docs.microsoft.com/en-us/archive/msdn-magazine/2012/december/csharp-the-csharp-memory-model-in-theory-and-practice][C# - The C# Memory Model in Theory and Practice | Microsoft Docs]]
+* [[https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/january/csharp-the-csharp-memory-model-in-theory-and-practice-part-2][C# - The C# Memory Model in Theory and Practice, Part 2 | Microsoft Docs]]
+* [[http://joeduffyblog.com/2007/11/10/clr-20-memory-model/][Joe Duffy - CLR 2.0 memory model (joeduffyblog.com)]]

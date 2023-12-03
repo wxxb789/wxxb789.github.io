@@ -1,0 +1,18 @@
+#+alias: pl/oop,
+
+* 基本原则
+** open close
+** [[oop/LSP]] 里氏替换
+Liskov Subsitution Principle
+** [[oop/DIP]] 依赖倒置
+Dependence Inversion Principle
+** [[oop/SRP]] 单一职责
+Single Responsibility Principle
+** [[oop/ISP]] 接口隔离
+Interface Segregation Principle
+** [[oop/LoD]] 迪米特法则
+Law of Demeter
+** [[oop/CRP]] 合成复用
+Composite Reuse Principle
+**
+**

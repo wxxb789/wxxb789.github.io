@@ -1,0 +1,29 @@
+
+
+* 6.service接口
+
+
+1. 定义UserService接口及其实现类，并实施注解方式的控制反转和依赖注入；
+
+#+begin_src java
+  @Service
+  @Transactional
+  public class UserServiceImpl implements UserService {
+      //定义依赖属性,按类型自动装配注解
+      @Autowired
+      private UserMapper mapper;
+
+      @Override
+      @Transactional(propagation=Propagation.SUPPORTS,readOnly=true)
+      public User login(String email) {
+          User user = mapper.selectByEmail(email);
+          return user;
+      }
+
+      @Override
+      @Transactional(propagation=Propagation.REQUIRED)
+      public void modify(User user) {
+          mapper.updateByPrimaryKey(user);
+      }
+  }
+#+end_src

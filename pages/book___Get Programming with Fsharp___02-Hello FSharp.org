@@ -1,0 +1,89 @@
+* Binding
+#+begin_example
+  let age = 18
+  let website = System.Uri "http://fsharp.org"
+  let add (first, second) = first + second
+#+end_example
+** Peculiarity
+
+- No types
+- No new keyword
+In fsharp, the =new= keyword is optional, and generally *not used except
+when constructing objects that implement IDisposable* . Instead, fsharp
+views a constructor as a function, like any other "normal" function
+that you might define.
+
+- No semicolons
+- No brackets
+- Shadowing: Allow repurpse a symbol multiple times within the same
+  scope.
+** =let= vs =var=
+
+- =let= binds an immutable value to a symbol. The closest thin in csharp
+  would be to declare every variable with the =readonly= keyword(but not
+  entirely equivalent).
+- =let= like =copy-and-paste=
+
+** Scoping values
+
+- =whitesapce-significant language=: =indent code= rather than curly
+  braces.
+
+  - indent 1 space to 10 space, as long as consistent within the scope.
+
+- No =return= keyword
+- No =accessibility modifier=: =public= is the default for top-level
+  values. Use nested scopes to hide values effectively.
+- No =static modifier=: =static= is the default.
+
+** Nested scopes
+
+#+begin_src fsharp
+  let estimatedAge =
+      let age =
+          let year = DateTime.Now.Year
+          year - 1979
+
+     // Can't access "year" value.
+     sprintf "You are about %d years old!" age
+#+end_src
+
+*** Nested Functions(Inner Functions)
+
+The ability to create nested functions means that you can start to think
+of functions and classes that have a single public method as
+interchangeable.
+
+| Class                            | Function                         |
+|----------------------------------+----------------------------------|
+| Constructor/Single public method | Arguments passed to the function |
+| Private fields                   | Local values                     |
+| Private methods                  | Local functions                  |
+
+**** Capturing values in fsharp
+
+Within the body of a nested function (or any nested value), code can
+access any values defined in its containing (parent) scope without you
+having to explicitly supply them as arguments to the nested function.
+You can think of this as similar to a lambda function in csharp "capturing"
+a value declared in its parents' scope. When you return such a code
+block, this is known as a closure; it's common to do this in
+fsharp, without even realizing it.
+
+**** Cyclical dependencies in fsharp
+
+In fsharp, the order in which types are defined matters . Type A can't
+reference Type B if Type A is declared before Type B, and the same
+applies to values.
+
+Even more surprising is that this applies to all the files in a
+project---so file order in a project matters! Files at the bottom of
+the project can access types and values defined above them, but not the
+other way around. You can manually move files up and down in VS by
+selecting the file and pressing Alt-up arrow or Alt-down arrow (or
+right-clicking a file and choosing the appropriate option).
+
+As it turns out, though, this "restriction" turns into a feature. By
+forcing you to avoid cyclic dependencies, the design of your solutions
+will naturally become easier to reason about, because all dependencies
+will always face "upward."

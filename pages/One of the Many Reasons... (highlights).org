@@ -1,0 +1,106 @@
+:PROPERTIES:
+:title: One of the Many Reasons... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[mdancho84 on Twitter]]
+:full-title: "One of the Many Reasons..."
+:category: [[tweets]]
+:url: https://twitter.com/mdancho84/status/1687798317458083840
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-08-06]]
+** 📌
+** #+BEGIN_QUOTE
+** One of the many reasons I chose R. 
+
+True story. 🧵
+
+#datascience #rstats 
+
+![](https://pbs.twimg.com/media/F2xCtsrXYAASi2O.jpg)  ([View Tweet](https://twitter.com/mdancho84/status/1687798317458083840))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** By 2022, I’ve written 10+ R packages. 
+
+Timetk, tidyquant & modeltime alone have 2,500,000+ downloads.
+
+People see me now and think my success with R happened overnight. 
+
+It didn’t.  ([View Tweet](https://twitter.com/mdancho84/status/1687798319131586560))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** I actually started my data science journey in Python.
+
+It was miserable.
+
+I was coming from an Excel background.
+
+3 months in I quit.  ([View Tweet](https://twitter.com/mdancho84/status/1687798320431808513))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** I remember thinking, if this is what data science is like, then I don’t think I can do this.
+
+Python was too much like coding.
+
+I was trapped in classes, methods & object-oriented programming.
+
+And I quit.  ([View Tweet](https://twitter.com/mdancho84/status/1687798321702731776))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** But then something happened.
+
+A friend of mine recommended that I give R a try.
+
+That was the day things changed.
+
+Within a week I had become obsessed with R.  ([View Tweet](https://twitter.com/mdancho84/status/1687798323179032576))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** It still wasn’t easy but I could do things like basic data analysis, linear regression, and I could make (crappy) plots.
+
+ I was learning. And it felt good.
+
+Things started to pick up.
+
+My confidence grew.
+
+And I kept going.  ([View Tweet](https://twitter.com/mdancho84/status/1687798324475158528))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** Over the course of the next 2 years, I received 3 job promotions.
+
+I went from managing a team of 4 (including me) to managing 60+ people.
+
+My salary doubled.
+
+And it was largely due to R.
+
+The tools gave me so much power.  ([View Tweet](https://twitter.com/mdancho84/status/1687798325787967488))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** I eventually found my passion for teaching.
+
+And I made a career shift. To helping others.
+
+Which is why I want to share something with you.  ([View Tweet](https://twitter.com/mdancho84/status/1687798327344025600))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** If you are feeling lost trying to figure out things for yourself, then I’d like to help.
+
+I have a 40-minute webinar on the 10 skills that helped me become a data scientist using R.
+
+Enjoy!
+
+👉Watch Here: https://t.co/IHmfSfuWF8 
+
+![](https://pbs.twimg.com/media/F2xDi4HX0AA_Xjl.jpg)  ([View Tweet](https://twitter.com/mdancho84/status/1687798328619040774))
+** #+END_QUOTE

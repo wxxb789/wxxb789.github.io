@@ -1,0 +1,4 @@
+#+tags: video, ml, diffusion model, cv,
+
+* {{video https://www.bilibili.com/video/BV1PY411Z74Z}}
+**

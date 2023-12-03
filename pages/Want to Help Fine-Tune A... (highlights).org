@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: Want to Help Fine-Tune A... (highlights)
+:author: [[reedbndr on Twitter]]
+:full-title: "Want to Help Fine-Tune A..."
+:category: [[tweets]]
+:url: https://twitter.com/reedbndr/status/1664078493972348928
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** Want to help fine-tune an open source LLM that naturally formats as a @LangChainAI agent chain? 
+
+No more wasting tokens on formatting instructions in the prompt, and reliable output parsing baked into the model weights!
+
+We’re building 🛠
+
+https://t.co/Qqq1NBQqC6 ([View Tweet](https://twitter.com/reedbndr/status/1664078493972348928))
+** Join us in Discord 🚀
+
+https://t.co/oRjlwt1kZa ([View Tweet](https://twitter.com/reedbndr/status/1664078495893401603))

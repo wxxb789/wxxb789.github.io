@@ -1,0 +1,5 @@
+#+tags: ai, deep learning, machine learning,
+
+* machine learning
+* deep learning
+** [[https://dataflowr.github.io/website/][Dataflowr - Deep Learning DIY]]

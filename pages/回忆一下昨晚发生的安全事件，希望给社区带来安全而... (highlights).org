@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: 回忆一下昨晚发生的安全事件，希望给社区带来安全而... (highlights)
+:author: [[greysign1 on Twitter]]
+:full-title: "回忆一下昨晚发生的安全事件，希望给社区带来安全而..."
+:category: [[tweets]]
+:url: https://twitter.com/greysign1/status/1664109943149174787
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** 回忆一下昨晚发生的安全事件，希望给社区带来安全而不是恐慌（昨天生病了😷，快速响应后😴）。
+事件的主角是@unsheth_xyz，项目核心开发者大约是北京时间21:20左右在github上提交了一大批代码更新（https://t.co/NyMgtFfffj，现在已经被github紧急撤下项目）。 ([View Tweet](https://twitter.com/greysign1/status/1664109943149174787))
+** 在这批更新的代码中，有一个包含了合约管理员私钥的注释，被我的好朋友、一位老年科学家偶然发现，然后打电话给正在躺着的我。经过简单的确认后，我考虑先联系开发者紧急关闭提现，因为如果我把私钥泄露的事件第一时间曝光，将引起更多有能力的黑客来抢占金库。 ([View Tweet](https://twitter.com/greysign1/status/1664109945548328960))
+** 我第一时间联系了 @0xVeryBigOrange 和其他在交易所的好朋友，没有成功找到项目方，同时我在unsheth的discord里向开发者请求好友，很幸运在40分钟后，wagmi上线并取得联系。 
+
+![](https://pbs.twimg.com/media/FxgYqEjaIAEAYp1.jpg) ([View Tweet](https://twitter.com/greysign1/status/1664109947758743552))
+** 我和朋友在链上观察了一会，怀疑有其他人开始利用这个私钥，并且发现转移owner的操作（https://t.co/vVypyjWmis），我估计开发者应该很难立即解决这个问题，因此决定通知社区，与黑客抢跑，@0xVeryBigOrange和@evilcos在第一时间对社区发出公开警告。 ([View Tweet](https://twitter.com/greysign1/status/1664109950577291264))
+** 其他掌握私钥的黑客还需要一些时间研究如何掏空金库、开发和调试代码，在开发者和社区的响应下，他们的时间窗和节奏已经被打破。幸运的是，项目仅遭受了很小的损失，3000多万美元的金库目前冻结了（黑客没有及时接管最大的admin权限，从而让项目方可以管理）。 
+
+![](https://pbs.twimg.com/media/FxgabWQaYAEyCM2.jpg) ([View Tweet](https://twitter.com/greysign1/status/1664109953291001858))
+** 留下这个记录，纪念一次负责任的披露，以及我身边那些不愿意暴露身份的扫地僧。 ([View Tweet](https://twitter.com/greysign1/status/1664109956256395264))

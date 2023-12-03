@@ -1,0 +1,58 @@
+#+tags: video, soft skill,
+
+* {{video https://www.bilibili.com/video/BV1tq4y1X7dj}}
+* 为什么 [[Influence Without Authority]] 很重要
+** 让自己的想法被听到，来产生 impact
+* 用逻辑和数据去 [[说服]] persuasion 往往并没有好的效果
+** 人们想听的并不是你懂的更多。相反，人们在意你是否在意他的目标，他本人。
+** 我们需要他人用行动来回应我们的观点，而非表面认同
+* 同理心 -> 谈话 -> 了解对方的问题
+* how to
+** 倾听 listening
+一边听，一遍 rephrase
+*** 欣赏 listen for appreciation
+*** 理解 comprehension
+*** 共鸣，同理心 listening for empathy
+感同身受
+*** 评估 listening for evaluation
+提供帮助是在最后，避免给人 superior 的感受
+不要有意或无意表现自己的智慧，经验，结果更重要
+用提问来引导
+*** solution 应该是双方通过相互讨论一起完成的
+*** sense of ownership, autonomy,
+** 好奇心 curiosity，抱着好奇心与对方谈话，好奇你的方案
+*** 最好的说服是启发
+*** 带着好奇心，假设自己并不知道对方是如何想的，内容，原因，以及动机
+*** 你为什么这么想 tell me more about it
+*** 摩擦是使我们前进必不可少的元素
+** #quotes
+leader 应该带来更多的 perspective 而不是要求他人该如何如何做。
+** 表达时候的畏惧往往来自于自身的潜意识里想证明自己很聪明，有能力
+be egoless
+既不需要向他人证明自己的能力，也不需要得到自己的认可
+** #quotes
+在担心未来的时候，你当下很难有一个自信并且有说服力的一场对话
+** make it conversational
+* 讲故事 storytelling
+从故事中让人产生 feeling, emotion
+通常，人们很难记得你的演讲内容
+留下的，是他们心里的感受
+*
+* [[STAR]]
+** 可以在使用 =STAR= 之前加一个 =hook=
+** 抛出一个有趣的观点，问题，然后用 =STAR= 去解释
+* [[negotiation]]
+negotiation starts with no
+** 谈判的基石是，我们可以共赢
+** 谈判中不去强调自己的立场，把精力和注意力放在结果上
+** 了解双方最想实现的目标
+** 太坚定的立场会影响双方达成一致
+** 用好奇心去了解回应no
+** 脸皮厚
+*** 是面对 conflict 最好的方案之一
+*** 有信心
+*** 有 best alternative
+** 有转身离开谈判桌的勇气
+walk away from the negotiation
+* leon's blog: http://realsy.medium.com/
+*

@@ -1,0 +1,5 @@
+#+alias: Personal Knowledge Manage,
+
+* [[TOC]] means Table of Content
+* [[MOC]] means Map of Content
+*

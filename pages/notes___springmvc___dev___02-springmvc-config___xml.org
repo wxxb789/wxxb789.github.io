@@ -1,0 +1,79 @@
+
+
+* 2.springmvc-config.xml
+
+#+begin_example
+  <?xml version="1.0" encoding="UTF-8"?>
+  <beans xmlns="http://www.springframework.org/schema/beans"
+     xmlns:mvc="http://www.springframework.org/schema/mvc"
+     xmlns:context="http://www.springframework.org/schema/context"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=
+     "http://www.springframework.org/schema/beans
+      http://www.springframework.org/schema/beans/spring-beans.xsd
+      http://www.springframework.org/schema/mvc
+      http://www.springframework.org/schema/mvc/spring-mvc.xsd
+      http://www.springframework.org/schema/context
+      http://www.springframework.org/schema/context/spring-context.xsd">
+#+end_example
+** 1. 配置注解请求
+
+#+begin_example
+  <mvc:annotation-driven/>
+#+end_example
+** 2. 配置静态资源的请求
+
+#+begin_example
+  <mvc:resources location="/css/" mapping="/css/**"/>
+  <mvc:resources location="/js/" mapping="/js/**"/>
+  <mvc:resources location="/images/" mapping="/images/**"/>
+  <mvc:resources location="/" mapping="*.html"/>
+#+end_example
+** 3. 配置jsp视图解析器
+
+#+begin_example
+  <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+      <property name="prefix" value="/WEB-INF/jsp/"/>
+      <property name="suffix" value=".jsp"/>
+  </bean>
+#+end_example
+** 4. 配置组件扫描
+
+#+begin_example
+  <context:component-scan base-package="controller"/>
+#+end_example
+** 5. 配置消息源对象（针对自定义异常信息）
+
+
+1. bindingResult对象(用于获取校验失败情况下的反馈信息)通过消息源对象读取errorMessage.properties文件中的自定义错误信息
+
+#+begin_example
+  <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+      <property name="basename" value="/WEB-INF/resources/errorMessage"></property>
+  </bean>
+  </beans>
+#+end_example
+** 6. 配置文件解析器（针对文件上传/下载）
+
+#+begin_example
+  <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+#+end_example
+
+1. 设置文件规模（1亿多字节）
+
+#+begin_example
+      <property name="maxUploadSize" value="104857600" />
+#+end_example
+
+2. 设置缓存空间（2k字节缓存）
+
+#+begin_example
+      <property name="maxInMemorySize" value="4096" />
+#+end_example
+
+3. 设置编码格式
+
+#+begin_example
+      <property name="defaultEncoding" value="UTF-8"/>
+  </bean>
+#+end_example

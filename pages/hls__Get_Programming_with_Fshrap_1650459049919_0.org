@@ -1,0 +1,113 @@
+* FSI maintains state across each command, and you can bind the value of a particular expression to a value by using the let keyword that you can then access in subsequent calls.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 6274e873-466d-41d5-831b-c0ce0fa5b09b
+:END:
+* Note the two semicolons (;;) at the end of each command. This tells FSI to execute the text currently in the buffer. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 6274e885-5474-4f76-9a8f-294708dd0e90
+:END:
+*
+* Before you dive in, let me reiterate one point: in F#, the overall emphasis is to enable you to solve complex problems with simple code. You want to focus on solving the problem at hand without necessarily having to first think about design patterns within which you can put your code, or complex syntax. All the features you’re going to see now are geared toward helping to achieve that. F# does have some common “design-patternish” features, but in my experience, they’re few and far between, with less emphasis on them.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:id: 6274eda5-e804-4792-8ad6-8c92d77cd959
+:END:
+* The let keyword is the single most important keyword in the F# language. You use it to bind values to symbols. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f01f-1c13-4f9b-ad94-7fdb682cb705
+:END:
+* In the context of F#, a value can range from a simple value type such as an integer or a Plain Old C# Object (POCO), to a complex value such as an object with fields and methods or even a function.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f032-b223-40fb-b08c-a36fd244d7ea
+:END:
+* =_= (underscores)
+:PROPERTIES:
+:hl-page: 566
+:ls-type: annotation
+:id: 6274f1da-11f2-4837-afee-fd5435a9627f
+:END:
+=;= (semicolons)
+=::= operator
+=:?= operator
+=:>= operator
+=?= operator
+=()= object
+=[<CLIEvent>]= attribute
+=@= operator
+=``= (double backtick) member
+=<-= operator
+~<@~ quotation block ~@>~
+=<<= operator
+~==~ operator
+~==>~ operator
+~>=>~ operator
+=>>= operator
+* No types—You’ll notice that we haven’t bothered with specifying any types. The F# compiler will figure these out for you, so if you mouse over age or website, you’ll see int and System.Uri (although you can—and occasionally must—specify them). This type inference is scattered throughout the language, and is so funda-mental to how we work in F# that lesson 5 is entirely dedicated to it (and will explain how the compiler understands that the add function takes in two num-bers—it’s not magic!).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f655-77f4-442b-8c73-e66be8833c0a
+:END:
+* No new keyword—In F#, the new keyword is optional, and generally not used except when constructing objects that implement IDisposable. Instead, F# views a con-structor as a function, like any other “normal” function that you might define.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f65c-4fbf-4888-b018-54a23d3a8ecf
+:END:
+* No semicolons—In F#, they’re optional; the newline is enough for the compiler to figure out you’ve finished an expression. You can use semicolons, but they’re completely unnecessary (unless you want to include multiple expressions on a single line). Generally, you can forget they ever existed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f660-769e-4867-b7cb-631c44351b7b
+:END:
+* No brackets for function arguments
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f66a-0ed5-4aeb-a48f-c7b272939f5e
+:END:
+* F# has two ways to define function arguments, known as tupled formand curried form. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6274f685-323d-4775-9bad-f1dcd9dfd2d0
+:END:
+* It’s bet-ter to think of let bindings as copy-and-paste directives; wherever you see the symbol, replace it with the value that was originally assigned during the declaration.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6274f70e-4802-41cc-a848-3c3e53eaf830
+:END:
+* You may have noticed that you can execute the same let binding multiple times in FSI. This is because F# allows you to repurpose a symbol multiple times within the same scope. This is known as shadowing, and is shown in the following listing.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6274f73c-bd8a-4284-b5d5-3e13ba79b365
+:END:
+* No return keyword—The return keyword is unnecessary and not valid F# syntax (except in one case, which you’ll see that in the second half of this book). Instead, F# assumes that the final expression of a scope is the result of that scope. In this case it’s the value of doubled.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6274feee-bed1-4c00-8af0-2367913e811c
+:END:
+* No accessibility modifier—In F#, public is the default for top-level values. There are several reasons for this, but it makes perfect sense in F#, because with nested scopes (described in detail in the following section), you can hide values effec-tively without resorting to accessibility modifiers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6274feff-e24f-409e-9929-7213c42320ee
+:END:
+* No static modifier—Again, static is the default way of working in F#. This is dif-ferent from what you’re used to, but it fits with how you’ll design most solutions in F#.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6274ff03-c235-452d-a56c-5bc9ab89be1b
+:END:

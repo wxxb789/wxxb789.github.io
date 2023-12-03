@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: 最棒的AutoGPT工具 https://t.c... (highlights)
+:author: [[vista8 on Twitter]]
+:full-title: "最棒的AutoGPT工具 https://t.c..."
+:category: #tweets
+:url: https://twitter.com/vista8/status/1647189070190366720
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-16]]
+** 最棒的AutoGPT工具 https://t.co/WliYepcsbO，完全免费，不用key。
+
+1. Name： 给bot起个名（随便取不影响）
+2. Objective： 给AI定个目标。比如：找出中文Twitter圈最值得关注的人。
+
+可定义子任务，也可以勾选Automatic tasks（懒人福音）。支持中文，但结果英文。
+网站：https://t.co/I6xlBN7SLf 
+
+![](https://pbs.twimg.com/media/Ftv9NqZaQAIQkJ8.jpg) ([View Tweet](https://twitter.com/vista8/status/1647189070190366720))
+** 我的问题是：“如何过上幸福的生活”
+发现Bot的问题拆解能力完全碾压自己，相比我就是弱鸡。
+即使不能马上提升生产力，跟AI学思考方式也很赞。
+
+现在AI还在运行，正在找冥想和幸福关系的论文。。。 
+
+![](https://pbs.twimg.com/media/FtwAEdqacAE9oqz.jpg) 
+
+![](https://pbs.twimg.com/media/FtwAKZ2aYAATKCu.jpg) 
+
+![](https://pbs.twimg.com/media/FtwARcoakAAUhbD.jpg) ([View Tweet](https://twitter.com/vista8/status/1647192617992728576))

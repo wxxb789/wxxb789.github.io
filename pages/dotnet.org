@@ -1,0 +1,5 @@
+#+alias: .NET, .net,
+
+* [[pl/csharp]]
+* [[pl/fsharp]]
+*

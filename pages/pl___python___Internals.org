@@ -1,0 +1,95 @@
+#+title: pl/python/Internals
+#+tags: python,
+
+*
+* Python 类型模型
+** 所有的 Python 的用户定义类，都是 type 这个类的实例
+** 用户定义类，只不过是 type 类的 ~__call__~ 运算符重载
+#+BEGIN_SRC python
+# 定义一个类时
+class MyClass:
+  data = 1
+# 真正执行的是
+class = type(classname, superclasses, attributedict) # 这是一个 __call__ 的重载，会进一步调用 __new__ 和 __init__
+#+END_SRC
+** metacalss 是 type 的子类，通过替换 type 的 ~__call__~ 运算符重载机制，“超越变形”正常的类
+#+BEGIN_SRC python
+# 一旦把一个类 MyClass 的 metaclass 设置成 MyMeta ，MyClass 就不再由原生的 type 创建，而是会调用 MyMeta 的 __call__ 重载
+
+class = type(classname, superclasses, attributedict)
+# 变为了
+class = MyMeta(classname, superclasses, attributedict)
+
+#+END_SRC
+* metaclass
+元类，超越类，变形类。（超越，变形）
+** ~YAMLObject~
+只要简单地继承 ~yaml.YAMLObject~ 就可以让 python object 具有序列化和反序列化能力。
+#+BEGIN_SRC python
+import yaml
+
+
+class Monster(yaml.YAMLObject):
+    yaml_tag = '!Monster'
+
+    def __init__(self, name, hp, ac, attacks):
+        self.name = name
+        self.hp = hp
+        self.ac = ac
+        self.attacks = attacks
+
+    def __repr__(self):
+        return "%s(name=%r, hp=%r, ac=%r, attacks=%r)" % (
+            self.__class__.__name__, self.name, self.hp, self.ac,
+            self.attacks)
+
+
+load_yaml = yaml.load("""
+--- !Monster
+name: Cave spider
+hp: [2,6]    # 2d6
+ac: 16
+attacks: [BITE, HURT]
+""", Loader=yaml.FullLoader)
+
+Monster(name='Cave spider', hp=[2, 6], ac=16, attacks=['BITE', 'HURT'])
+
+print(yaml.dump(Monster(
+    name='Cave lizard', hp=[3, 6], ac=16, attacks=['BITE', 'HURT'])))
+print(f"load yaml: {load_yaml}")
+#+END_SRC
+** MyMeta
+#+BEGIN_SRC python
+class Mymeta(type):
+    def __init__(self, name, bases, dic):
+        super().__init__(name, bases, dic)
+        print('===>Mymeta.__init__')
+        print(self.__name__)
+        print(dic)
+        print(self.yaml_tag)
+
+    def __new__(cls, *args, **kwargs):
+        print('===>Mymeta.__new__')
+        print(cls.__name__)
+        return type.__new__(cls, *args, **kwargs)
+
+    def __call__(cls, *args, **kwargs):
+        print('===>Mymeta.__call__')
+        obj = cls.__new__(cls)
+        cls.__init__(cls, *args, **kwargs)
+        return obj
+
+class Foo(metaclass=Mymeta):
+    yaml_tag = '!Foo'
+
+    def __init__(self, name):
+        print('Foo.__init__')
+        self.name = name
+
+    def __new__(cls, *args, **kwargs):
+        print('Foo.__new__')
+        return object.__new__(cls)
+
+foo = Foo('foo')
+#+END_SRC
+* GIL

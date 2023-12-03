@@ -1,0 +1,4 @@
+#+title: book/Code Complete, Second Edition
+
+* [[../assets/Code_Complete,_Second_Edition_1650458775226_0.pdf][Code Complete, Second Edition.pdf]]
+*

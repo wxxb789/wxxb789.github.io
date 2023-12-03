@@ -1,0 +1,5 @@
+* [[plt/naming]]
+* lisp-1
+^^same name for both function and variable^^ is not allowed
+* lisp-2 
+that allow you to have the ^^same name for both function and variable^^

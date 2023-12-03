@@ -1,0 +1,67 @@
+
+
+* [03]SqlSession对象
+
+* 数据库的连接与交互
+
+
+1. MyBatis框架通过SqlSession封装了jdbc的Connection对象，用于完成与数据库的交互访问。
+
+   1. 即获得SqlSession对象，就意味着MyBatis框架和数据库建立起了有效的连接。
+
+2. SqlSession是采用工厂方法模式创建的
+
+   1. 即通过创建SqlSessionFactory对象获取SqlSession对象
+
+3. MyBatis框架提供了2种方式创建SqlSessionFactory对象
+
+   1. xml配置文件
+   2. Java编程模式（了解）
+** 1. 获取SqlSession对象
+
+#+begin_src java
+  //模拟SqlSessionFactory的代码
+  public class MyBatisSqlSessionFactory {
+      //1.MyBatis框架的总体配置文件
+      private static final String LOCATION = "mybatis-config.xml";
+      //2.懒汉式单例模式
+      private static SqlSessionFactory sqlSessionFactory = null;
+      //3.提供默认无参构造器
+      private MyBatisSqlSessionFactory(){}
+      //4.初始化SqlSessionFactory对象
+      private static void init(){
+          //1.加载配置文件(将配置文件加载到内存，成为输入流)
+          InputStream is = null;
+          try {
+          //2.利用Mybatis的工具类Resources，其内部仍旧是通过类加载器来将配置文件加载到内存
+              is = Resources.getResourceAsStream(LOCATION);
+          } catch (IOException e) {
+              e.printStackTrace();
+          }
+          //3.建造sqlSessionFactory工厂对象
+          SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
+          sqlSessionFactory = builder.build(is);
+      }
+      //5.synchronized确保init()的执行原子化
+      public static synchronized SqlSessionFactory getSessionFactory(){
+          if(sqlSessionFactory==null){
+              init();
+          }
+          return sqlSessionFactory;
+      }
+      //提供获取SqlSession对象的方法
+      public static SqlSession getSqlSession(){
+          return getSessionFactory().openSession();
+      }
+  }
+#+end_src
+** 2. 测试SqlSession对象
+
+#+begin_src java
+  //JUnit4测试类中方法
+  public void testGetSqlSession() {
+          SqlSession sqlSession = MyBatisSqlSessionFactory.getSqlSession();
+          //sqlSession封装了Connectiion对象:com.mysql.jdbc.JDBC4Connection@92dcdb
+          System.out.println(sqlSession.getConnection());
+      }
+#+end_src

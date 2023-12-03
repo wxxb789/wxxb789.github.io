@@ -1,0 +1,5 @@
+* FSI maintains state across each command, and you can bind the value of a particular expression to a value by using the let keyword that you can then access in subsequent calls. (It's possible to reset interactive session if needed.)
+* =;;= at the end of each command. Means FSI should execute the text currently in the buffer.
+*
+*
+*

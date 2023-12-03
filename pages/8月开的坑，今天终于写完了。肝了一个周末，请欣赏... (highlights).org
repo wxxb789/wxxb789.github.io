@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: 8月开的坑，今天终于写完了。肝了一个周末，请欣赏... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[laixintao on Twitter]]
+:full-title: "8月开的坑，今天终于写完了。肝了一个周末，请欣赏..."
+:category: [[tweets]]
+:url: https://twitter.com/laixintao/status/1731221636689678568
+:image-url: https://pbs.twimg.com/profile_images/1255811231195164673/ENduaKK4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-03]]
+** 📌
+** #+BEGIN_QUOTE
+** 8月开的坑，今天终于写完了。肝了一个周末，请欣赏：
+《四层负载均衡漫谈》
+
+https://t.co/YgvNtreQeR  ([View Tweet](https://twitter.com/laixintao/status/1731221636689678568))
+** #+END_QUOTE

@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: 🦜 LLM Lit Review 🦜 Toda... (highlights)
+:author: [[full_stack_dl on Twitter]]
+:full-title: "🦜 LLM Lit Review 🦜 Toda..."
+:category: #tweets
+:url: https://twitter.com/full_stack_dl/status/1643999513923960833
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-04-07]]
+** 🦜 LLM Lit Review 🦜
+
+Today's paper is a UX/HCI study on using LMs to improve the design of online communities -- using LMs as "Social Simulacra".
+
+It presents an interactive Reddit simulator as a design tool for online social spaces!
+
+https://t.co/sY6Ava8awA 
+
+![](https://pbs.twimg.com/media/FtCo1_AaIAIdbzw.png) ([View Tweet](https://twitter.com/full_stack_dl/status/1643999513923960833))
+** Along with @jacobandreas's "LMs as Agent Models" (see linked thread) this paper is part of a small body of academic work taking seriously the idea that LMs can be used as _simulators_ of agents -- as creators of _simulacra_. ([View Tweet](https://twitter.com/full_stack_dl/status/1643999518290247680))
+** (@charles_irl, manager of this account, wants to here interject that he "no longer regrets trying to understand Baudrillard in college") 
+
+![](https://pbs.twimg.com/media/FtCo2nsagAE74PW.jpg) ([View Tweet](https://twitter.com/full_stack_dl/status/1643999525403774978))
+** The authors describe and analyze an LM-assisted design process for online social spaces.
+
+tl;dr: come up with some user personas, have an LM generate more personas, and populate a forum with posts where those personas interact.
+
+This concrete example is helpful: 
+
+![](https://pbs.twimg.com/media/FtCo3BYaMAUZ6gc.png) ([View Tweet](https://twitter.com/full_stack_dl/status/1643999533310033922))
+** The authors are clear that the "Social Simulacra" are not a silver bullet for the design of online social spaces, nor are they "predictions of the future", nor do they capture the full range of human interactions.
+
+But they're still useful, for two reasons: ([View Tweet](https://twitter.com/full_stack_dl/status/1643999537084923911))
+** 1) As the authors point out repeatedly, the bar here is low. Social spaces are designed via mid-flight repair, with a lot of "testing in production", aka failing in public, and the stakes involve actual human communities. Lots of folks are dissatisfied with this! 
+
+![](https://pbs.twimg.com/media/FtCo3sAagAA3Chz.png) ([View Tweet](https://twitter.com/full_stack_dl/status/1643999545318334465))
+** And the low barrier to utility is doubly true of the prototyping phase, which is where they put their focus in this paper. 
+
+![](https://pbs.twimg.com/media/FtCo4NgaYAEdfKX.png) ([View Tweet](https://twitter.com/full_stack_dl/status/1643999552989728769))
+** 2) It's not directly mentioned in the paper, but the vast majority of content on the internet is "low effort". It's not expert humans at their best, it's distracted humans faffing around. The latter is an easier target for LMs to simulate and has more abundant data. ([View Tweet](https://twitter.com/full_stack_dl/status/1643999556210937857))
+** Which is to say: maybe we can come together from across the spectrum of positions on capabilities to agree that an LM makes for a solid artificial troll? ([View Tweet](https://twitter.com/full_stack_dl/status/1643999558861750279))
+** There's a lot more to the paper, including a demonstration that annotators perform near random chance when trying to distinguish simulated from real Reddit threads (left) and an interview study on test users of their system (right). 
+
+![](https://pbs.twimg.com/media/FtCo49CacAAvTu9.png) 
+
+![](https://pbs.twimg.com/media/FtCo5PMaAAIYJgx.png) ([View Tweet](https://twitter.com/full_stack_dl/status/1643999571662733312))
+** If you want to learn more about LMs, follow us here on Twitter, subscribe to our mailing list, or join our upcoming bootcamp in SF at the end of April!
+
+https://t.co/tNJpxX8iEe ([View Tweet](https://twitter.com/full_stack_dl/status/1643999574900744194))
+** Author @carryveggies is doing some of the best work on UX and LMs right now.
+
+Check out some more of it:
+https://t.co/STxIrqDb4c
+https://t.co/le5tBQtYPN
+
+You can also find the other authors here on Twitter! @joon_s_park, @lindsaypopowski, @merrierm, @percyliang, @msbernst ([View Tweet](https://twitter.com/full_stack_dl/status/1643999577673175040))

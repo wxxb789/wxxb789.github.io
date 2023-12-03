@@ -1,0 +1,6 @@
+
+
+* [[../assets/Patterns_of_Parallel_Programming_CSharp_1648378392405_0.pdf][Patterns of Parallel Programming CSharp.pdf]]
+:PROPERTIES:
+:title: book/Patterns of Parallel Programming CSharp
+:END:

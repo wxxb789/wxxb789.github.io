@@ -1,0 +1,7 @@
+#+alias: 财富, 理财,
+
+* some related topics
+* [[finance/个人理财]]
+* [[https://btcdayu.gitbook.io/rich123/][《聪明的投资者》目录 - 聪明的投资者——币圈小白一本通 (gitbook.io)]]
+币圈
+*

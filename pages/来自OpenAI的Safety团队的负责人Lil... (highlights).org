@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: 来自OpenAI的Safety团队的负责人Lil... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "来自OpenAI的Safety团队的负责人Lil..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1722090586730041807
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-08]]
+** 📌
+** #+BEGIN_QUOTE
+** 来自OpenAI的Safety团队的负责人Lilian Weng发表的新文章：《Adversarial Attacks on LLMs | 大语言模型遭受的对抗性攻击》
+
+现在随着大语言模型的流行，针对大语言模型的攻击也日渐增多。她在文章中将针对大语言模型的攻击分成了5类：
+
+1. Token 操纵
+微调输入文本的少量 Token，引发模型失效，同时保留原文的含义。
+
+2. 梯度攻击
+利用梯度信息来制定出有效的攻击策略。
+
+3. 越狱式提示
+
+黑盒常用一些基于直觉的提示来绕过模型内建的安全机制。
+
+4. 人工红队攻击
+人工对模型进行攻击，可能会借助其他模型的协助。
+
+5. 模型红队攻击
+一个模型对另一个模型进行攻击，攻击者模型可以根据需要进行调整。
+
+写的相当专业 ，很多内容直接用数学公式表达的，有兴趣的可以去看看。
+
+原文：https://t.co/pDRdVRBxdi
+翻译版：https://t.co/uv5SowsuaI<img src='https://pbs.twimg.com/media/F-YYGHVX0AArBQ-.jpg'/><img src='https://pbs.twimg.com/media/F-YYIXSXsAAzkuE.png'/><img src='https://pbs.twimg.com/media/F-YYJaiXsAEwfBr.jpg'/><img src='https://pbs.twimg.com/media/F-YYNmtXcAAIHQy.jpg'/>  ([View Tweet](https://twitter.com/dotey/status/1722090586730041807))
+** #+END_QUOTE

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: VanillaNet: The Power Of... (highlights)
+:author: [[ducha_aiki on Twitter]]
+:full-title: "VanillaNet: The Power Of..."
+:category: [[tweets]]
+:url: https://twitter.com/ducha_aiki/status/1660976837181206531
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-24]]
+** VanillaNet: the Power of Minimalism in Deep Learning
+
+Hanting Chen, Yunhe Wang, Jianyuan Guo, Dacheng Tao
+tl;dr:  4x4conv/4->n x {1x1conv->{seriesAct}->MaxPool2x2}.
+seriesAct = stack of BN(ReLU(BN(ReLU)))
+
+https://t.co/XagNt0jNLx 
+
+![](https://pbs.twimg.com/media/Fwz4Vw7XoAEZA4C.jpg) 
+
+![](https://pbs.twimg.com/media/Fwz5W7TWcAEB6mQ.png) 
+
+![](https://pbs.twimg.com/media/Fwz5gyvXsAIYtE-.jpg) 
+
+![](https://pbs.twimg.com/media/Fwz5kisXoAAEMbU.png) ([View Tweet](https://twitter.com/ducha_aiki/status/1660976837181206531))
+** @wightmanr ([View Tweet](https://twitter.com/ducha_aiki/status/1660993789802995712))
+** At @oliver_batch pointed out, seriesAct is stack of BN(Conv2d 7x7(ReLU))) ([View Tweet](https://twitter.com/ducha_aiki/status/1661038531794403329))

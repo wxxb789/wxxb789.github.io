@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: Prompt Engineer 刚入职即失业？... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "Prompt Engineer 刚入职即失业？..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1699977952363192475
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-09-08]]
+** 📌
+** #+BEGIN_QUOTE
+** Prompt Engineer 刚入职即失业？
+
+Google DeepMind 刚刚发表了一篇新的论文，介绍了如何使用 LLM 来优化 prompt，优化过的 prompt 在 PaLm 2-L / GPT-3.5 / GPT-4 模型中测试，benchmark 的指标都提升了。
+
+优化的方法：
+1. 创建一个 meta prompt（如何创建 meta prompt 可以参考论文）
+2. 在每一个优化的步骤生成新的 prompt
+3. 评估 & 迭代
+
+当然，并不是所有的 prompt 都可以用这种方法来优化，在某些场景上（例如 high-dimensional and complex problems）这种方法的效果还不是特别好。
+
+从长期上来看，让 LLM 来写 & 优化 prompt 应该是一个必然的过程。
+
+详细的论文分析 👇
+https://t.co/IC1SbHTGoC  ([View Tweet](https://twitter.com/Tisoga/status/1699977952363192475))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** 如何设计一个 Meta Prompt 
+
+![](https://pbs.twimg.com/media/F5eJEvLa4AAr0_Q.jpg)  ([View Tweet](https://twitter.com/Tisoga/status/1699978134018564184))
+** #+END_QUOTE

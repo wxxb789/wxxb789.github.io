@@ -1,0 +1,7 @@
+*
+* [[playground/k8s]]
+** [[https://killercoda.com/playgrounds/scenario/kubernetes][Killercoda Interactive Environments]]
+:PROPERTIES:
+:id: 64c8cb9e-b218-4446-8ac8-ac1c36a6a584
+:END:
+*

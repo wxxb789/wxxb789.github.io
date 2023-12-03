@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: Ai 辅助阅读并自动总结网页概要的工具多如牛毛，... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "Ai 辅助阅读并自动总结网页概要的工具多如牛毛，..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1729889136520335606
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-11-30]]
+** 📌
+** #+BEGIN_QUOTE
+** AI 辅助阅读并自动总结网页概要的工具多如牛毛，但把这件事情做好却并不容易，因为网页上存在太多乱七八糟的 DOM，包括导航菜单、广告和推荐模块等等，如果不抓核心内容直接无脑扔给 AI 处理，那效果一定是不佳的，尤其是杂乱内容占比过高时。
+
+做了一些技术调研，找到如下几个工具/库，它们均可以辅助提取网页概要，不过各自的思路存在一些差异：
+
+1）Readability，https://t.co/VWWknDfbKU，是一种基于规则的方法，被 Mozilla Firefox 浏览器的阅读模式使用，它通过检查 HTML 元素的标签名称、文本数量、链接密度以及满足主要内容标准的文本模式来提取主要内容
+
+2）DOM Distiller，https://t.co/GaJKj3y728，是 Google Chrome 浏览器的阅读模式，它是一种混合方法，使用了 Boilerpipe 分类器和一些规则，有点类似于 Readability
+
+3）Web2Text，https://t.co/upG7pDSXmZ，是基于深度神经网络的分类器，使用了 CNN 模型和包括单词计数、标点符号存在和停用词数量等 128 个结构和文本特征来确定每个文本块是否属于主要内容
+
+4）Boilernet，https://t.co/GXMQB3ubXv，是基于深度神经网络的分类器，使用 LSTM 将网页的文本节点视为由单词和 DOM 树根路径组成的文本块序列
+
+这些方法在不同的数据集和语言环境下会表现出不同的性能。https://t.co/hmD3KApuxp，这篇论文给出了一个新的思路：通过使用视觉特征从网页中提取主要内容，算法分为三个步骤：网格化、居中和扩展：
+
+1）首先，算法创建一个类似棋盘的网格，用于近似用户首次浏览网页的区域
+2）然后，从浏览器窗口、网页文档和网格的中心点确定三个中心点；这些中心点被认为与主要内容接近，它们最近的文本节点很可能是主要内容的后代叶节点
+3）最后，算法通过从叶节点开始沿着 DOM 树向上遍历来提取主要内容
+
+通过使用这些通用的特征，该算法在多语言环境下表现都还不错，并在实验中优于现有的主要内容提取方法：在最长公共子序列（LCS）F1 得分方面，该方法的平均性能比现有方法提高了 14%；特别是在英语数据集中，性能提高了 25%，在非英语数据集中提高了 16%。
+
+这篇论文没有找到对应的代码实现，感兴趣的同学可以撸一个出来，价值还挺大的。<img src='https://pbs.twimg.com/media/GAHLgKRbAAEG-UO.jpg'/><img src='https://pbs.twimg.com/media/GAHLgkubgAAqYGT.jpg'/><img src='https://pbs.twimg.com/media/GAHM67XagAAqh5Z.jpg'/>  ([View Tweet](https://twitter.com/Barret_China/status/1729889136520335606))
+** #+END_QUOTE

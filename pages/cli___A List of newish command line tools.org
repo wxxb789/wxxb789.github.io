@@ -1,0 +1,4 @@
+#+title: CLI/A List of newish command line tools
+
+* Link
+** [[https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/?utm_campaign=%E9%87%8E%E7%94%9F%E6%9E%B6%E6%9E%84%E5%B8%88][A list of new(ish) command line tools]]

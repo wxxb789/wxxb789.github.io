@@ -1,0 +1,15 @@
+
+
+* ALL DONE
+:PROPERTIES:
+:query-table: true
+:END:
+#+BEGIN_QUERY
+{:title "All Done"
+:query [:find (pull ?b [*])
+:where
+[?b :block/marker ?marker]
+[(contains? #{"DONE"} ?marker)]
+[?b :block/ref-pages ?p]]
+}
+#+END_QUERY

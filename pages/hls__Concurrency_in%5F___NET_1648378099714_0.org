@@ -1,0 +1,50 @@
+* #+file-path: ../assets/Concurrency_in_.NET_1648378099714_0.pdf
+#+file: [[../assets/Concurrency_in_.NET_1648378099714_0.pdf][Concurrency_in_.NET_1648378099714_0.pdf]]
+#+title: hls__Concurrency_in_.NET_1648378099714_0
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 401
+:id: 627cde66-13f4-4835-b95b-a636ad47f766
+:hl-type: area
+:hl-stamp: 1652350575375
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 401
+:id: 627e24ff-62c0-4b2e-9fd6-baa2daaede5b
+:hl-type: area
+:hl-stamp: 1652434174438
+:END:
+*
+* Here’s a high-level view of how TDF blocks operate: 1 Each block receives and buffers data from one or more sources, including other blocks, in the form of messages. When a message is received, the block reacts by applying its behavior to the input, which then can be transformed and/or used to perform side effects. 2 The output from the component (block) is then passed to the next linked block, and to the next one, if any, and so on, creating a pipeline structure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 402
+:id: 627e2a1e-b835-40f2-ad96-829735f2da4e
+:END:
+* The term reactive programming has been used for a long time to describe dataflow because the reaction is generated from receiving a piece of data.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 402
+:id: 627e2aaa-2a88-44e2-b2a0-e4c0788c962c
+:END:
+* There are three main types of dataflow blocks:¡ Source —Operates as producer of data.  It can also be read from. ¡ Target —Acts as a consumer, which receives the data and can be written to. ¡ Propagator —Acts as both a Source and a Target block.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 402
+:id: 627e2c50-5d8e-40f3-accf-381cb1e38ad1
+:END:
+* For each of these dataflow blocks, TDF provides a set of subblocks, each with a differ-ent  purpose.  
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 402
+:id: 627e2c65-0211-4549-81f0-1a32be747d32
+:END:
+* most  commonly  used  blocks  are  the  standard  Buffer-Block, ActionBlock, and TransformBlock.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 402
+:id: 627e2c71-5d81-4bb0-882e-e6cd51bf3138
+:END:

@@ -1,0 +1,64 @@
+#+title: pl/Rust/Concepts/Testing
+
+test attribute, macro, should_panic attribute
+Rust 中的测试就是一个带有 test 属性标注的函数。属性（attribute）是关于 Rust 代码片段的元数据。
+当使用 Cargo 新建一个库项目时，它会自动为我们生成一个测试模块和一个测试函数。
+~cargo test~ 可以运行项目中的所有测试。
+
+Unit Test 与src 在用一个文件中并用 =#[cfg(test)]= 来标注，这意味着，Rust 只在执行 cargo test 时才编译和运行测试代码，而在运行 cargo build 时不这么做。
+* TODO 性能测试
+* TODO 文档注释作为测试
+* attributes
+** =#[test]=
+test function
+** =#[should_panic]=
+=#[should_panic(expected = "")]=
+* macro
+** =assert!= panic if expr is false
+** =assert_eq!=
+** =assert_ne!=
+** =panic!=
+* 使用 =Result<T, E>=
+* cargo test
+#+begin_src bash
+cargo test --help
+cargo test <test name>
+cargo test <prefix of test name>
+
+# run ignored test only
+cargo test -- --ignored
+
+cargo test -- --test-threads=1
+cargo test -- --show-output
+
+#+end_src
+* 测试私有函数
+
+#+begin_src rust
+fn main() {}
+
+pub fn add_two(a: i32) -> i32 {
+    internal_adder(a, 2)
+}
+
+fn internal_adder(a: i32, b: i32) -> i32 {
+    a + b
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn internal() {
+        assert_eq!(4, internal_adder(2, 2));
+    }
+}
+#+end_src
+* 集成测试
+在与 src 同级的 tests 目录中。每个文件是一个单独 crate。
+** 二进制 crate 的集成测试
+
+如果项目是二进制 crate 并且只包含 src/main.rs 而没有 src/lib.rs，这样就不可能在 tests 目录创建集成测试并使用 use 语句导入 src/main.rs 中定义的函数。只有库 crate 才会向其他 crate 暴露了可供调用和使用的函数；二进制 crate 只意在单独运行。
+
+这就是 Rust 二进制项目明确采用 src/main.rs 调用 src/lib.rs 中的逻辑的原因之一。通过这种结构，集成测试就可以通过 use 测试库 crate 中的主要功能了，而如果这些重要的功能没有问题的话，src/main.rs 中的少量代码也就会正常工作且不需要测试。

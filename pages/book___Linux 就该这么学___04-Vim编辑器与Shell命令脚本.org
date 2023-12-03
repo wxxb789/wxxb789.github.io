@@ -1,0 +1,4 @@
+* [04]Vim编辑器与Shell命令脚本
+:PROPERTIES:
+:custom_id: vim编辑器与shell命令脚本
+:END:

@@ -1,0 +1,59 @@
+#+tags: certificate, letsencrypt, ssl,
+
+* Issue
+#+begin_src bash
+
+#use dns mode
+docker run --rm -it \
+    -v "$(pwd)/out":/acme.sh \
+    neilpang/acme.sh --issue --dns \
+    -d 550w.xyz -d *.550w.xyz \
+    --keylength 2048 \
+    --yes-I-know-dns-manual-mode-enough-go-ahead-please \
+    --server letsencrypt \
+#+end_src
+
+output
+#+begin_quote
+[Thu Feb  2 13:02:04 UTC 2023] Using CA: https://acme-v02.api.letsencrypt.org/directory
+[Thu Feb  2 13:02:04 UTC 2023] Create account key ok.
+[Thu Feb  2 13:02:04 UTC 2023] Registering account: https://acme-v02.api.letsencrypt.org/directory
+[Thu Feb  2 13:02:06 UTC 2023] Registered
+[Thu Feb  2 13:02:06 UTC 2023] ACCOUNT_THUMBPRINT='IC0AM3Z76j9U4onUZfeq9X7Zd7dPU0LClxruYVM-voE'
+[Thu Feb  2 13:02:06 UTC 2023] Creating domain key
+[Thu Feb  2 13:02:06 UTC 2023] The domain key is here: /acme.sh/550w.xyz/550w.xyz.key
+[Thu Feb  2 13:02:06 UTC 2023] Multi domain='DNS:550w.xyz,DNS:*.550w.xyz'
+[Thu Feb  2 13:02:06 UTC 2023] Getting domain auth token for each domain
+[Thu Feb  2 13:02:09 UTC 2023] Getting webroot for domain='550w.xyz'
+[Thu Feb  2 13:02:09 UTC 2023] Getting webroot for domain='*.550w.xyz'
+[Thu Feb  2 13:02:09 UTC 2023] Add the following TXT record:
+[Thu Feb  2 13:02:09 UTC 2023] Domain: '_acme-challenge.550w.xyz'
+[Thu Feb  2 13:02:09 UTC 2023] TXT value: 'Q-kC7OiopbzLWzMQZF81JdEVqdC82rE2sscBibmmrWc'
+[Thu Feb  2 13:02:09 UTC 2023] Please be aware that you prepend _acme-challenge. before your domain
+[Thu Feb  2 13:02:09 UTC 2023] so the resulting subdomain will be: _acme-challenge.550w.xyz
+[Thu Feb  2 13:02:09 UTC 2023] Add the following TXT record:
+[Thu Feb  2 13:02:09 UTC 2023] Domain: '_acme-challenge.550w.xyz'
+[Thu Feb  2 13:02:09 UTC 2023] TXT value: 'XrMPv0SJGdw-6tOAZwCsilx7C2aDK4bQRMWfYUfTrM8'
+[Thu Feb  2 13:02:09 UTC 2023] Please be aware that you prepend _acme-challenge. before your domain
+[Thu Feb  2 13:02:09 UTC 2023] so the resulting subdomain will be: _acme-challenge.550w.xyz
+[Thu Feb  2 13:02:09 UTC 2023] Please add the TXT records to the domains, and re-run with --renew.
+[Thu Feb  2 13:02:09 UTC 2023] Please add '--debug' or '--log' to check more details.
+[Thu Feb  2 13:02:09 UTC 2023] See: https://github.com/acmesh-official/acme.sh/wiki/How-to-debug-acme.sh
+#+end_quote
+* Renew
+#+begin_src bash
+docker run --rm -it \
+    -v "$(pwd)/out":/acme.sh  \
+    neilpang/acme.sh --renew -d 550w.xyz -d *.550w.xyz \
+    --yes-I-know-dns-manual-mode-enough-go-ahead-please
+#+end_src
+* Install Certificate
+#+begin_src bash
+docker run --rm -it \
+    -v "$(pwd)/out":/acme.sh  \
+    neilpang/acme.sh \
+    --install-cert -d 550w.xyz -d *.550w.xyz \
+    --cert-file      /acme.sh/install/cert.pem  \
+    --key-file       /acme.sh/install/key.pem  \
+    --fullchain-file /acme.sh/install/fullchain.pem
+#+end_src

@@ -1,0 +1,14 @@
+* [00]Outline
+
+
+- Python Tutorial
+- Library Reference
+- Language Reference
+- Extending and Embedding
+- Python/C API for C/C++
+
+** 1. 重要文档
+
+
+- Built-in Type：bool值检验标准
+- Data Model：特殊方法

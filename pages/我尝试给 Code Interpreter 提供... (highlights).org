@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: 我尝试给 Code Interpreter 提供... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "我尝试给 Code Interpreter 提供..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1677601625488396291
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-07-30]]
+** 📌
+** #+BEGIN_QUOTE
+** 我尝试给 code interpreter 提供一份长达 800多页的 pdf. 
+
+要求它把相关术语，按照引用频次，做出一个柱状图。并提取 transaction 的相关讨论
+
+我感觉，code interpreter 在定量分析上，绝对是把好手。在定性分析上，就取决于它本身对专业的理解程度，稍逊，但从它的分析中，看得出它的推理已经很惊艳 
+
+![](https://pbs.twimg.com/media/F0gJFCOaEAEb2NB.png) 
+
+![](https://pbs.twimg.com/media/F0gJIq0akAEt5GB.png) 
+
+![](https://pbs.twimg.com/media/F0gJd9maMAEcx3v.jpg)  ([View Tweet](https://twitter.com/huangyun_122/status/1677601625488396291))
+** #+END_QUOTE

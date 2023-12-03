@@ -1,0 +1,380 @@
+* 09-集合与Map
+
+** 1. Summary
+所有集合都位于 *java.util* 包中。
+
+接口结构：
+
+- Collection(根接口)
+
+  - List：*有索引* *有序* *可以重复*
+  - Set：*无序* *不重复*
+  - Queue：*FIFO* *尾入头出* *可以重复*
+  - Deuqe：*头尾都可以添加删除*
+
+- Map：*<K,V>* *key不重复* *value可以重复*
+
+  - SortedMap
+
+#+begin_src dot
+  digraph CollectionInterface{
+      rankdir=BT;
+      node [shape = octagon]
+      //Title
+      subgraph clusterTitle {
+          {rank = same;Title;Collection}
+          margin=0
+          style="invis"
+          Title [shape="box" label="集合接口结构"];
+          Collection -> Title[style=invis];
+      }
+      //relationship
+      {List;Set;Queue;} -> Collection;
+      Navigable -> SetSortedSet -> Set;
+      Deque -> Queue [constraint = false];
+      BlockingQueue ->Queue;
+      {BlockingDeque;TransferQueue}->BlockingQueue;
+
+      //adjust
+      {rank = same;BlockingQueue; Deque; }
+  }
+#+end_src
+
+#+begin_src dot
+  digraph MapInterface {
+      rankdir = BT;
+      node [shape = octagon]
+      //Title
+      subgraph clusterTitle {
+          {rank = same;Title;Map}
+          margin=0
+          style="invis"
+          Title [shape="box" label="Map接口结构"];
+          Title -> Map[style=invis];
+      }
+      //relationship
+      {SortedMap;ConcurrentMap} -> Map;
+      {
+          edge [constraint = false;];
+          ConcurrentNavigableMap -> ConcurrentMap;
+          ConcurrentNavigableMap -> NavigableMap;
+          NavigableMap -> SortedMap;
+      }
+      //adjust
+      {
+          edge [style = invis;];
+          ConcurrentNavigableMap -> NavigableMap -> SortedMap;
+      }
+  }
+#+end_src
+
+其他常见接口：
+
+- Iterable
+- Cloneable
+- Serializable
+- RandomAccess
+
+接口与实现：
+
+| Interface | Hash Table | Resizable Array | Tree    | Linked List | Hash Table + Linked List |
+|-----------+------------+-----------------+---------+-------------+--------------------------|
+| Set       | HashSet    |                 | TreeSet |             | LinkedHashSet            |
+| List      |            | ArrayList       |         | LinkedList  |                          |
+| Queue     |            |                 |         |             |                          |
+| Deque     |            | ArrayDeque      |         | LinkedList  |                          |
+| Map       | HashMap    |                 | TreeMap |             | LinkedHashMap            |
+
+类实现结构：
+
+#+begin_src dot
+  digraph CollectionClass{
+      rankdir = RL;
+      node [shape=box;]
+      //relationship
+      {
+          edge [constraint = false;]
+          { ArrayDeque;ConcurrentLinkedDeque;} -> AbstractCollection;
+      }
+      {AbstractList;AbstractSet; AbstractQueue; }->AbstractCollection;
+
+      {ArrayList;Vector;AbstractSequentialList;} -> AbstractList;
+      {PriorityQueue;PriorityBlockingQueue;DelayQueue;ArrayBlockingQueue;LinkedBlockingQueue;LinkedTransferQueue;LinkedBlockingDeque;SynchronousQueue;ConcurrentLinkedQueue;} ->AbstractQueue;
+      {LinkedList;} -> AbstractSequentialList;
+      {HashSet;TreeSet;EnumSet;CopyOnWriteArraySet;ConcurrentSkipListSet;} -> AbstractSet;
+      {LinkedHashSet;JobStateReasons;}-> HashSet;
+
+      //adjust
+      {rank = sink;AbstractCollection; ArrayDeque; ConcurrentLinkedDeque;}
+      {rank = same;AbstractList; AbstractSet; AbstractQueue;}
+      {rank = same; HashSet}
+      {
+          edge [style = invis]
+          AbstractCollection -> ArrayDeque -> ConcurrentLinkedDeque;
+          AbstractQueue -> AbstractCollection;
+
+      }
+  }
+#+end_src
+
+#+begin_src dot
+
+  digraph MapClass{
+      rankdir = BT;
+      node [shape=box];
+      //Title
+      subgraph clusterTitle {
+          {rank = min;Title;};
+          margin=0
+          style="invis"
+          Title [shape="box" label="Map实现类结构"];
+      }
+      //relationship
+      {
+          Title -> LinkedHashMap [style=invis];
+          AbstractMap;
+          HashMap -> AbstractMap;
+              LinkedHashMap -> HashMap;
+              PrinterstateReasons -> HashMap;
+          TreeMap -> AbstractMap;
+          EnumMap -> AbstractMap;
+          WeakHashMap -> AbstractMap;
+          IdentityHashMap -> AbstractMap;
+          ConcurrentHashMap -> AbstractMap;
+          ConcurrentSkipListMap -> AbstractMap;
+      }
+      //adjust
+      {
+          rank = same;
+          HashMap ->TreeMap -> EnumMap  [style=invis]
+      }
+      //adjust
+      {
+          IdentityHashMap -> ConcurrentHashMap -> ConcurrentSkipListMap->WeakHashMap [style=invis]
+      }
+  }
+#+end_src
+** 2. Collection Interface
+
+集合接口方法:
+
+#+begin_src java
+  boolean  add(Object o); //自动装箱
+  void clear();
+  boolean contains(Object o);
+  boolean isEmpty();
+  Iterator iterator();
+  boolean remove(Object o);
+  int size();
+  Object[] toArray();
+  <T>T[] toArray(T[] a);
+#+end_src
+** 3. Iterator Interface
+
+#+begin_src java
+  Iterator<? estends Object> it = c.iterator();
+  //遍历
+  while(it.hasNext()){  
+      Object e = it.next();
+      //do something;
+      //如果集合元素没有排序，Iterator遍历集合的顺序时任意的
+  }
+
+  print(collection); //遍历打印
+  print(map.entrySet()); //entrySet() 返回一个集合，存放着Map.Entry元素
+#+end_src
+
+当通过=Collection=集合的=iterator()=方法得到一个=Iterator=对象后，如果当前线程或其他线程接着又通过=Collection=集合的一些方法对集合进行了修改操作（调用当前=Iterator=对象的=remove()=方法来修改集合除外），接下来访问这个=Iterator=对象的=next()=方法会导致=java.util.ConcurrentModificationException=运行时异常。
+
+Iterator对象运用了快速失败机制（fail-fast），一旦监测到集合已被修改（有可能有可能是被其他线程修改的），就抛出=ConcurrentModificationException=运行时异常，而不是显示修改后的集合的当前内容，这可以避免潜在的由于共享资源竞争而导致的并发问题。
+
+迭代器接口方法:
+
+#+begin_src java
+  void forEachREmaining(Consumer<? superE>);
+  boolean hasNext();
+  E next();
+  void remove(); // : 从集合中删除由next()返回的当前元素
+#+end_src
+** 4. List Interface
+
+List接口方法：增删改查
+
+#+begin_src java
+  //增
+  boolean addAll(Collection<? extends e> e); //末尾添加
+  boolean addAll(int index, Collection<? extends E> c); //下标位置插入
+  void add(int index, E element);
+  boolean add(E e); //添加到末尾
+  //删
+  void clear(); //清空
+  boolean remove(Object o); //remove first
+  E remove(int index); //删除并返回
+  boolean removeAll(Collection<?> c);
+  boolean retainAll(Collection<?> c); //删除当前list中所有不在集合c中的元素，即得list与c的交集
+  //改
+  /*
+      equivalent to:
+      final ListIterator<E> li = list.listIterator)();
+      while(li.hasNext()){
+          li.set(operator.apply(li.next()));
+      }
+   */
+  default void replaceAll(UnaryOperator<E> operator);
+  E set(int index,E element); //替换特定位置的元素
+
+  //查
+  boolean contains(Object o); //查一个元素
+  boolean containsAll(collection<?> c);
+  E get(int index);
+  int indexOf(Object o); //正向搜索第一次出现
+  boolean isEmpty();
+  int lastIndexOf(Object o); //逆向搜索第一次出现
+  //其他
+  boolean equals(Object o); //Objects.equals(e1,e2) 包含相同且顺序相同的元素的两个list返回true。
+  /*
+      int hashCode = 1;
+      for(E e : list)
+          hashCode = 31*hashCode + (e==null? 0 : e.hashCode());
+   */
+  int hashCode();
+  Iterator<E> iterator();
+  ListIterator<E> listIterator(int index);
+  int size();
+  default void sort(Comparator<? super E> c);
+  default Spliterator<E> spliterator(); //并行迭代器
+  List<E> subList(int fromIndex,int toIndex); //左闭右开
+  <T> T[] toArray(T[] a);
+  Object[] toArray();
+#+end_src
+
+遍历：
+
+#+begin_src java
+  for(int i = 0; i<list.size();i++){
+      print(list.get(i));
+  }
+
+  Iterator<Integer> it = list.iterator();
+  while(it.hasNext()){
+      print(it.next());
+  }
+
+  for(Integer i : list){  
+      print(i);
+  }
+#+end_src
+
+列表排序:
+使用=comparator=接口和=Collections=类，=Collections=类时Java类库中的辅助类，提供了=sort()=方法，对=List=中的对象进行排序。
+
+#+begin_src java
+  sort(List list); //对list进行自然排序
+  sort(List list,Comparator comparator); //进行特定排序
+#+end_src
+
+ListIterator接口：继承自Iterator，listIterator()方法返回一个ListIterator对象。
+Listerator接口的方法：
+
+#+begin_src java
+  add(); //添加元素
+  hasNext(); //判断是否存在下一个元素
+  hasPrevious(); //判断是否存在上一个元素
+  next(); //返回下一个元素
+  previous(); //返回列表的上一个元素
+  nextIndex();
+  previousIndex();
+  remove(); //删除被next()或previous()返回的元素
+  set(E); //替换被next()或previous()返回的元素
+#+end_src
+
+Arrays类：位于=java.util.Arrays=，有=asList()=方法可以将一个Java数组包装成List对象，且有固定长度，也就是不能调用=add()=,=remove()=等方法，否则会抛出=java.lang.UnsupportdOperationException=运行时异常。
+*** 4.1. ArrayList
+
+ArrayList ->
+可变长数组的实现，允许元素的随机访问，插入删除元素速度较慢。
+
+#+begin_src java
+  //构造器
+  ArrayList();
+  ArrayList(int initialCapacity);
+  ArrayList(Collection<? extends E> c);
+  Collection c = new ArrayList();
+  //特有方法
+  public void forEach(Consumer<? super E> action); //对每个来自 Iterable 的元素执行 action 直到都处理完或抛出异常
+  public boolean removeIf(Predicate<? super E> filter);//满足filter则移除
+  pretected void removeRange(int fromIndex,int toIndex); //toIndex==fromIndex 则没有效果，左闭右开
+  public void trimToSize(); //裁剪没用到的空间
+#+end_src
+
+访问实例：
+
+#+begin_src java
+  ArrayList stuList = new ArrayList();
+
+
+      for (Object obj : stuList) {
+          if(obj instanceof Stu){
+              Stu s = (Stu) obj;
+              System.out.println(s.getSno()+"  "+s.getName()+"  "+s.getAge());
+          }
+      }
+#+end_src
+*** 4.2. LinkedList
+
+LinkedList ->
+使用链表数据结构实现，对顺序访问进行了优化，插入删除速度较快，随机访问速度较慢。
+
+#+begin_src java
+  //特有方法
+  addFirst()
+  addLast()
+  getFirst()
+  getLast()
+  removeFirst()
+  removeLast()
+#+end_src
+*** 4.3. Vector
+
+遍历：
+
+#+begin_src java
+  /*
+      Enumeration:枚举，用来遍历Vector容器
+   */
+  Vector v = new Vector();
+  Enumeration en = v.elemennts();
+  while(en.hasMoreElements()){
+      System.out.print(en.nextElement()+" ");
+  }
+#+end_src
+** 5. Set Interface
+
+Set时最简单的一种集合，集合对象不按照特定方式排序且没有重复对象。\\
+Set使用equals()方法来判断对象，而不是==。
+
+#+begin_src java
+  Set<String> set = new HashSet<String>(); //创建
+  set.add(); //添加
+  set.remove();//删除
+#+end_src
+*** 5.1. HashSet
+
+HashSet使用哈希表数据结构，并使用hashCode()和equals()方法判断是否为同一对象。
+*** 5.2. TreeSet
+
+*** 5.3. LinkedHashSet
+
+** 6. Queue Interface
+
+** 7. Deque Interface
+
+** 8. Map Interface
+
+*** 8.1. Hash Map
+
+**** 8.1.1. LinkedHashMap
+
+*** 8.2. TreeMap
+
+*** 8.3. EnumMap

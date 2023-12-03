@@ -1,0 +1,9 @@
+#+alias: How To Ask Questions The Smart Way,
+
+* links
+** [[http://www.catb.org/~esr/faqs/smart-questions.html][How To Ask Questions The Smart Way (catb.org)]]
+** [[https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md][~How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at main · ryanhanwu/How-To-Ask-Questions-The-Smart-Way · GitHub~]]
+**
+* STFW -> search the fxxking web
+* RTFM -> read the fxxking manual
+*

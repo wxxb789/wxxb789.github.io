@@ -1,0 +1,7 @@
+#+tags: elasticsearch
+
+* =_index=
+* =_type=
+* =_id=
+* =_version=: 乐观锁
+* =_shard=: 分片信息

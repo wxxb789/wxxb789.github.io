@@ -1,0 +1,3 @@
+#+tags: DLAI, AI, Course,
+
+* [[https://learn.deeplearning.ai/langchain/lesson/1/introduction][LangChain for LLM Application Development]]

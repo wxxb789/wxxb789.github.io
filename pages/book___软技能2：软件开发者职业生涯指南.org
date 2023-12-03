@@ -1,0 +1,51 @@
+*
+* 推荐阅读
+** [[book/代码大全-2nd]]
+Code Complete: A Practical Handbook of Software Contruction
+** [[book/代码整洁之道]]
+Clean Code: A Handbook of Agile Software Craftsmanship
+** [[book/敏捷软件开发：原则、模式与实践]]
+Agile Software Development, Principles, Patterns, and Practices
+** [[book/设计模式]]
+Design Patterns: Elements of Reusable Object-Oriented Software
+** [[book/计算机软件测试]]
+Testing Computer Software
+** [[book/算法导论]]
+Introduction to Algorithms
+** [[book/企业应用架构模式]]
+Patterns of Enterprise Application Architecture
+** [[book/重构：改善既有代码的设计]]
+Refactoring: Improving the Design of Existing Code
+** [[book/修改代码的艺术]]
+Working Effectively With Legacy Code
+** [[book/重构与模式]]
+Refactoring to Patterns
+** [[book/程序员修炼之道：从小工到专家]]
+The Pragmatic Programmer: From Journeyman to Master
+** [[book/我编程，我快乐：程序员职业规划之道]]
+The Passionate Programmer: Creating a Remarkable Career in Software Development
+** [[book/如何赢得朋友及影响他人]]
+How To Win Friends & Influence People
+** [[book/As a Man Thinketh]]
+这本书中呈现的心态就是在生活中取得成功必需的心态。这本书集中描述了你的思想，以及你如何选择去感知这个世界，而你对世界的感知又最终决定了你的生活和世界会是什么样子以及它又会变成什么样子。
+** [[book/Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Powers to Succeed]]
+** [[book/我的人生样样稀松照样赢：“呆伯特”的逆袭人生]]
+How to Fail at Almost Everything and Still Win Big
+** [[book/编码的奥秘]]
+Code: The Hidden Language of Computer Hardware and Software
+** [[book/计算机程序的构造和解释]]
+Structure and Interpretation of Computer Programs
+** [[book/程序员面试金典]]
+Cracking the Coding Interview: 150 Programming Questions and Solutions
+** [[book/计算机程序设计艺术]]
+The Art of Computer Programming
+** [[book/编译原理]]
+Compilers: Principles, Techniques, and Tools, 2nd
+龙书，虎叔，鲸书
+** [[book/哥德尔、艾舍尔、巴赫——集异璧之大成]]
+Gödel, Escher, Bach: An Eternal Golden Braid
+** [[book/反障碍：如何从障碍中获益]]
+The Obstacle is the Way
+** [[book/The 10X Rule]]
+** [[book/The War of Art]]
+*

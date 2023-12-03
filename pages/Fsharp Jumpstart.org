@@ -1,0 +1,189 @@
+#+tags: pluralsight, fsharp
+
+* [[https://app.pluralsight.com/library/courses/fsharp-jumpstart][link:Fsharp Jumpstart]]
+* Introduction
+** ~[EntryPoint]~
+** ~|> ignore~
+** =Module=
+** =namespace=
+** No overload
+** Retrun Unit rather than void
+* Basics
+
+#+begin_src fsharp
+printfn "Hi, %s %i" "hello" 42
+#+end_src
+** Branching
+** Looping
+** Nesting Function
+define a funtion in a function definition
+* Type
+** Product Type
+#+begin_quote
+val intTuple: int * int  = (1,2)
+#+end_quote
+** Sum type
+*** Discriminated Unions
+#+begin_src fsharp
+type Shape =
+    | Square of float
+    | Rectangle of float * float
+    | Circle of float
+#+end_src
+*** Option
+#+begin_src fsharp
+type Company = {
+    Name : string
+    SalesTaxNumber : int option
+}
+
+let company1 = { Name = "C1"; SalesTaxNumber = Some 123}
+
+match company1.SalesTaxNumber with
+    | Some n -> sprintf "%i" n
+    | None -> ""
+#+end_src
+** Record
+Record is immutable
+support =with= expression
+TODO: equality?
+TODO: is it ducky type?
+#+begin_src fsharp
+type Person = {
+    FirstName : string
+    LastName : string
+}
+
+#+end_src
+* Data Sturcture
+** Array
+1. mutable collection
+2. fixed-size
+3. zero-based
+#+begin_src fshrap
+let arr = [|1; 2; 4;|]
+Array.init count
+#+end_src
+*** clamps
+#+begin_src fsharp
+let arr1 = [|0..99|]
+let arr2 = [| for i in 0..99 do yield  i * i|]
+#+end_src
+** List
+1. immutable collection
+2. ordered
+3. linked list
+
+#+begin_src fsharp
+let aList = []
+#+end_src
+** Seq
+1. anything implementing =IEnumerable=
+2. =seq<'T>= is equal to =IEnumerable<T>=
+
+#+begin_src fsharp
+let aSeq =
+    seq {
+        for i in 0..99 do
+            yield i
+    }
+#+end_src
+** Map
+1. immutable dictionary
+** Set
+1. immutable set
+2. =System.IComparable=
+* Symbols
+** =|>=
+Forward pipe operator, takes output from preceding function.
+* Pattern Matching
+** Math type
+*** constant
+*** type, identifier
+*** list, array
+*** tuple, record
+*** wildcard
+*** =nameof=
+*** type test pattern
+* Functional
+** iterator
+** filter
+** map
+* Active Pattern
+[[https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/active-patterns][docs active pattern]]
+* Computation Expression
+** Async
+** Task
+** Lazy
+** Seq
+* Immutable
+** =let= immutalbe
+=== means bind
+"Referential transparency"
+#+begin_src fsharp
+let x = ref 42
+x := 43
+printfn "%i" !x
+#+end_src
+** =let mutable= mutable
+=<-= means assignment
+** shadowing
+#+begin_src fsharp
+let x = 1
+let x = 2
+#+end_src
+* OOP
+1. =class=
+2. Constructor
+3. Method
+4. Interface
+5. csharp interop
+** class
+#+begin_src fsharp
+// immutable
+type Person(forename : string, surname : string) =
+    member this.Forename = forename
+    member __.Surname = surname
+
+type MutablePerson(forename : string, surname : string) =
+    let mutable _forename = forename
+    let mutable _surname = surname
+
+    member this.Forename
+        with get () = _forename
+        and set value = _forename <- value
+
+    member this.Surname
+        with get () = _surname
+        and set value = _surname <- value
+
+type MutablePerson2(forename : string, surname : string) =
+    member val Forename = forename with get, set
+    member val Surname = surname with get, set
+
+#+end_src
+*** =do= in constructor
+** Interface
+#+begin_src fsharp
+type IPerson =
+    abstract member Forename : string
+    abstract member Surname : string
+    abstract member Fullname : string
+
+type PersonForInterface(forename : string, surname : string) =
+    let validateString str =
+        if String.IsNullOrWhiteSpace str then
+            raise (ArgumentException())
+
+    do
+        validateString forename
+        validateString surname
+
+    interface IPerson with
+        member __.Forename = forename
+        member __.Surname = surname
+        member __.Fullname = sprintf "%s %s" forename surname
+#+end_src
+*** =:>= cast to Interface Type
+* Code Organization
+* Type Provider

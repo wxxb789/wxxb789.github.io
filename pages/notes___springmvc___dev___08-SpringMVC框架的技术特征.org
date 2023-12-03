@@ -1,0 +1,50 @@
+
+
+* SpringMVC框架的技术特征
+
+
+1. 经典的MVC框架
+
+   1. 特征：使用Servlet作为总控制器
+   2. 作用
+
+      1. 请求分发：接收多个请求，通过注解指定具体的控制器来处理相应的请求
+
+2. 请求路径"/"的含义：(处理基于当前web应用的任何请求，但优先级低于/*；
+
+   1. 处理静态资源；
+   2. 不处理jsp的请求；
+
+3. 具体控制器的方案：
+
+   1. pojo类
+
+      1. 一个普通的Java类可以作为请求处理器，它是单例对象，数据成员需要保证线程安全.
+      2. 【例】案例中使用ConcurrentHashMap作为处理器的数据结构.
+
+   2. 请求匹配与请求处理是基于注解技术的
+
+      1. @Controller：具体的控制器，对应url请求的 根路径
+      2. @RequestMapping：对应url请求的
+         根路径下的分支路径（例：value="answer-handler"
+         ，method=RequestMethod.POST）
+      3. @RequestParam("参数")：接收表单对应的name属性值为参数的组件的值
+      4. @ModelAttribute：Model对象中存储的属性、form表单的commandName属性值、.properties文件中的类，三者需保持一致性
+      5. @PathVariable；通过路径变量来接收请求数据
+      6. @Valid：对数据进行校验，并将错误信息存储到消息源文件中 ...
+
+4. SpringMVC框架中的数据模型：Model对象(是SpringMVC的数据结构)
+
+   1. Model对象是一个map集合，用来存储Controller的数据，供jsp使用，每个Model对象的作用范围仅在其所处方法及jsp页面中
+   2. 凡是存入Model中的对象，也会存入reqeust域中.
+
+      1. 传统的做法是：
+         Model与View共同封装成一个ModelAndView对象中；其中View对象由视图解析器负责实例化；View对象可以找到资源(jsp页面)并执行；
+      2. 现在更加推荐的方法是： ①直接使用Model对象存储数据
+         ②方法的返回值是jsp页面的前缀名称.
+
+5. SpringMVC框架中的视图组件
+
+   1. 支持丰富的视图组件技术，例如：jsp，veloctiy，freemarker等；
+   2. 需要在xml文件中注册视图解析器
+      支持jsp视图技术的解析器是：InternalResourceViewResolver

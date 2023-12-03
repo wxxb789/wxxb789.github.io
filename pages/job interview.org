@@ -1,0 +1,5 @@
+* [[job interview/Algorithm/Questions]]
+:PROPERTIES:
+:title: job interview
+:END:
+*

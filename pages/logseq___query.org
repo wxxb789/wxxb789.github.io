@@ -1,0 +1,4 @@
+* doc
+** [[https://docs.logseq.com/#/page/queries][Queries (logseq.com)]]
+** [[https://docs.logseq.com/#/page/advanced%20queries][Advanced Queries (logseq.com)]]
+* [[Datalog]]

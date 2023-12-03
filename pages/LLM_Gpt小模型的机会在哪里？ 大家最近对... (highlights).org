@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: LLM_Gpt小模型的机会在哪里？ 大家最近对... (highlights)
+:author: [[fi56622380 on Twitter]]
+:full-title: "LLM/Gpt小模型的机会在哪里？ 大家最近对..."
+:category: [[tweets]]
+:url: https://twitter.com/fi56622380/status/1655453326102917130
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-08]]
+** LLM/GPT小模型的机会在哪里？
+
+大家最近对处于大爆发期的各种开源小模型能力有些失望，大模型一些能力在小模型上达不到可用程度，比如Vicuna在泛化能力和长对话测试集上表现差很多
+
+但我仍然觉得这是机会，小模型不需要很全面，低成本训练特定领域的小模型就能干很多事情，这是完全不同的商业模式… 
+
+![](https://pbs.twimg.com/media/FvlX4snaEAEFbYG.png) 
+
+![](https://pbs.twimg.com/media/FvlYiP_aAAA2sPn.png) 
+
+![](https://pbs.twimg.com/media/FvlZErEacAEWELN.png) ([View Tweet](https://twitter.com/fi56622380/status/1655453326102917130))
+** 再补充一个
+
+就算不在edge端设备用小模型，而是在云端用，小模型的低成本优势和针对特定领域的表现，一定能有非常多的商业机会
+
+不管在哪个领域，使用门槛的大幅降低，无论是成本上还是流程上，都会打开应用范围的想象力
+
+https://t.co/8YdOgKHFXO ([View Tweet](https://twitter.com/fi56622380/status/1655458441727725568))
+** 评论区卧虎藏龙，真的有大佬在做这方面的工作
+
+https://t.co/7x0xbusMm6 ([View Tweet](https://twitter.com/fi56622380/status/1655462614921781248))

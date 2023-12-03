@@ -1,0 +1,6 @@
+* DNS issue
+#+BEGIN_SRC 
+ipconfig /flushdns 
+ipconfig /registerdns
+#+END_SRC
+*

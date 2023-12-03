@@ -1,0 +1,13 @@
+#+tags: video, coffee, unread
+
+* DONE complete?
+* brief
+* {{video https://www.bilibili.com/video/BV1C8411h7xm}}
+** timestamp
+* 家庭咖啡分类
+** 冷翠
+用水和时间把咖啡豆里面的有效成分浸泡出来
+** 手冲
+用热水冲泡
+** 意式咖啡
+使用高压蒸汽

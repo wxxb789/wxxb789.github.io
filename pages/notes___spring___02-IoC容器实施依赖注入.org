@@ -1,0 +1,113 @@
+
+
+* IoC容器实施依赖注入
+1. Setter注入
+
+   1. 要求：bean类定义了属性的set方法；
+   2. 特点：先创建对象，再设置属性；
+
+   #+begin_example
+     <bean id=" " class=" ">
+       <property name="b" ref="b" />
+       <property name="name" value="李芬" />
+     </bean>
+   #+end_example
+
+2. 构造器注入
+
+   1. 要求：bean类同时定义有参与无参构造器，有参构造器参数按照数组形式配置
+   2. 特点：创建对象的同时设置了属性，构造器注入比setter注入及时
+
+   #+begin_example
+     <bean id=" " class=" ">
+       <constructor-arg index="0" ref="b" />
+       <constructor-arg index="1" value="李芬" />
+     </bean>
+   #+end_example
+
+3. 接口注入
+
+   1. 要求：bean类实现IoC容器中所定义的接口，该接口中提供了属性的set方法；
+   2. 特点：先创建对象，再设置属性；
+   3. 【例】在Struts2框架中，向Action注入HttpSession对象的Map结构
+
+      1. 方案一：在封装Action时实现SessionAware接口，从而使Action具有如下方法
+
+         1. void setSession(Map<String,Object> session)
+
+      2. 方案二：实现ServletRequestAware接口，拥有如下方法
+
+         1. void setServletRequest(HttpServletRequest request) ## 1.
+            bean对象的属性继承
+
+4. 子bean对象的配置
+
+   1. 通过parent属性指定父bean对象id，从而继承父bean对象
+   2. 子bean对象可以重新配置继承下来的属性/添加自己特有的属性
+
+5. 父bean对象可以设置abstract属性为true，表明IoC容器不必创建父bean对象
+
+   1. 注册的抽象bean，不能通过IoC容器获得，强行获得会产生异常。 ## 2.
+      bean类中集合属性的依赖注入（重点）
+
+6. Array/List/Set
+
+   1. forEach直接遍历即可
+
+7. Map
+
+   1. 先取键存在set集合中
+   2. Set keys=books.keySet();
+
+8. Properties
+
+   1. 先获得属性名称的Set集合
+   2. Set ids=params.stringPropertyNames();
+
+   #+begin_example
+      <bean id="collectionBean"  class="di.demo6.CollectionBean">
+            <!--1.1注入数组对象，【注意】使用list子标记  -->
+            <property name="strArry">
+              <list>
+                  <value>welcome</value>
+                  <value>beijing</value>
+              </list>
+            </property>
+            <!--1.2注入List对象  -->
+            <property name="city">
+              <list>
+                  <value>北京</value>
+                  <value>上海</value>
+                  <value>深圳</value>
+              </list>
+            </property>
+            <!--1.3注入Set对象  -->
+            <property name="name">
+              <set>
+                  <value>王大</value>
+                  <value>钱贵</value>
+                  <value>李芬</value>
+              </set>
+            </property>
+
+            <!--2.注入Map对象  -->
+            <property name="books">
+              <map>
+                  <entry key="ISBN001" value="天龙八部" />
+                  <entry key="ISBN002" value="射雕英雄传" />
+                  <entry key="ISBN003" value="白发魔女" />
+              </map>
+            </property>
+
+            <!--3.注入Properties对象  -->
+            <property name="params">
+              <props>
+                  <prop key="driver">com.mysql.jdbc.Driver</prop>
+                  <prop key="url">jdbc:mysql://localhost:3306/test</prop>
+                  <prop key="username" >root</prop>
+                  <prop key="password">pwd</prop>
+              </props>
+            </property>
+      </bean>
+   #+end_example
+*

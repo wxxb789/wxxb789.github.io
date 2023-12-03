@@ -1,0 +1,9 @@
+* 14-注解 Annotation
+
+- 名字
+- 作用类型
+- 用途 =ElementType=
+* 元注解
+* QnA
+
+- 只有定义没有body的接口

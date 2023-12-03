@@ -1,0 +1,17 @@
+#+title: Video/TMSOYCSE
+#+alias: The Missing Semester of Your CS Education
+
+* source
+** [[https://missing-semester-cn.github.io/][计算机教育中缺失的一课 · the missing semester of your cs education (missing-semester-cn.github.io)]]
+* video #.ol
+** [[video/TMSOYCSE/Shell]]
+** [[video/TMSOYCSE/Shell Tools and Scripting]]
+** [[video/TMSOYCSE/vim]]
+** [[video/TMSOYCSE/cli Environment]]
+** [[video/TMSOYCSE/git]]
+** [[video/TMSOYCSE/Debugging and Profiling]]
+** [[video/TMSOYCSE/Metaprogramming]]
+** [[video/TMSOYCSE/Security and Cryptography]]
+** [[video/TMSOYCSE/Potpourri]]
+** [[Video/TMSOYCSE/qna]]
+*

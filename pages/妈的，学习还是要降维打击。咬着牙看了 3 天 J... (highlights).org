@@ -1,0 +1,13 @@
+:PROPERTIES:
+:title: 妈的，学习还是要降维打击。咬着牙看了 3 天 J... (highlights)
+:END:
+:PROPERTIES:
+:author: [[amehochan on Twitter]]
+:full-title: "妈的，学习还是要降维打击。咬着牙看了 3 天 J..."
+:category: [[tweets]]
+:url: https://twitter.com/amehochan/status/1666353682764685312
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-08]]
+** 妈的，学习还是要降维打击。咬着牙看了 3 天 JLS 上的 JMM 之后，重温那些 Java 领域的并发知识就毫无理解难度了。 ([View Tweet](https://twitter.com/amehochan/status/1666353682764685312))
+** 妈的，学习还是要学习元知识。国内那些并发的书翻烂了也没有看完 JMM 的收获大。 ([View Tweet](https://twitter.com/amehochan/status/1666356574728880129))

@@ -1,0 +1,16 @@
+*
+* [[book reading template]]
+** author
+** topic
+** tag
+** related book
+** inspired
+** key takeaways
+* [[project template]]
+* [[template/monthly review]]
+* [[template/weekly review]]
+* [[template/evergreen notes]]
+** #P notes template
+* [[template/opinions on a topic]]
+*
+*

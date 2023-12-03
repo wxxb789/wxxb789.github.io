@@ -1,0 +1,10 @@
+#+tags: todo, en, sspai,
+#+alias: 英语自学手册，
+
+* [[https://sspai.com/series/77/list][英语自学手册]]
+* No pain, no gain
+* 辅助精读法
+[[https://sspai.com/post/61267][3.11 完整的辅助精读法 - 少数派 (sspai.com)]]
+* action
+** 精读 100 篇，一篇读 7 遍
+** 词汇书，词根，词缀，词源

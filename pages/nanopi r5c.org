@@ -1,0 +1,15 @@
+#+alias: openwrt/r5c,
+#+tags: nanopi,
+
+* [[http://nanopi.io/][FriendlyARM (nanopi.io)]]
+* wiki
+[[https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5C][NanoPi R5C - FriendlyELEC WiKi]]
+* file transfer
+** winscp
+* install openclash to friendlywrt
+** [[https://github.com/vernesong/OpenClash/wiki/%E5%AE%89%E8%A3%85][安装 · vernesong/OpenClash Wiki (github.com)]]
+* firmware
+** [[https://github.com/DHDAXCW/NanoPi-R5S-R5C][GitHub - DHDAXCW/NanoPi-R5S-R5C]]
+*** portal: http://192.168.11.1/
+**
+**

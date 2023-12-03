@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: 一段神奇的prompt，粘贴到你的GPT4后，即... (highlights)
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "一段神奇的prompt，粘贴到你的GPT4后，即..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1661186736637059072
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-05-24]]
+** 一段神奇的prompt，粘贴到你的GPT4后，即可拥有自己的学习/兴趣探索的AI教练。
+
+可根据Github说明调整Prompt配置，比如如何生成课程，如何给反馈，辅导风格和语气等等。
+
+项目名称叫 Mr. Ranedeer 作者@yupiop12 还在持续维护，值得关注 ([View Tweet](https://twitter.com/FinanceYF5/status/1661186736637059072))
+** 效果展示1，来自 @jesselaunz https://t.co/i91nSeYovh ([View Tweet](https://twitter.com/FinanceYF5/status/1661186953105010688))
+** 效果展示2，来自 @xiaokedada https://t.co/iU8QJRGajq ([View Tweet](https://twitter.com/FinanceYF5/status/1661187145581703169))
+** 如何使用：
+打开jason文件，将内容完全复制到gpt4聊天窗口里
+jason文件地址：https://t.co/aXl0kYLoUO 
+
+![](https://pbs.twimg.com/media/Fw25ZMDaQAAxqyi.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1661187746298208256))
+** 作者信息：
+推特：@yupiop12
+github：https://t.co/WFtKHsIBkt
+目前更新到2.5版本， ([View Tweet](https://twitter.com/FinanceYF5/status/1661188014985314305))
+** 选项：不同的学习深度，学习方法（可以和插件结合）
+沟通方式，音调风格，推理方式，语言等
+支持多种语言！ 
+
+![](https://pbs.twimg.com/media/Fw25yUuaUAAoGD7.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1661188207793274880))
+** AI Tutor 支持以下命令：
+
+/test：请求测试以评估您的知识和理解。
+/config：更新您的 AI Tutor 配置/首选项。
+/plan：根据您的喜好制定课程计划。
+/search：搜索特定信息（ 需要插件 ）。
+/start：开始课程计划。
+/language：更改AI Tutor语言
+/visualize：使用插件（例如 Wolfram）可视化内容 
+
+![](https://pbs.twimg.com/media/Fw256dTaUAIgfNV.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1661188352962379777))
+** 中文作为语言，学习英语语法作为例子 
+
+![](https://pbs.twimg.com/media/Fw26Dr7akAIuAAZ.png) 
+
+![](https://pbs.twimg.com/media/Fw26FnLaIAI0Wx9.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1661188596022358018))
+** 与数理框架 wolframe 结合https://t.co/TzXaRracE1 ([View Tweet](https://twitter.com/FinanceYF5/status/1661188850297741312))
+** 项目logo 非常可爱 
+
+![](https://pbs.twimg.com/media/Fw267WCaAAEwNCu.jpg) ([View Tweet](https://twitter.com/FinanceYF5/status/1661189400649146370))
+** 我希望你发现这个线程有帮助。     
+
+如果您这样做了，我将不胜感激：   
+ 1.关注我@Financeyf5 获取更多内容。   
+2. Like/Retweet 下面的推文分享给他人：https://t.co/KJuarkXEYw ([View Tweet](https://twitter.com/FinanceYF5/status/1661189555704217603))

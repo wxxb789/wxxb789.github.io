@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: Netflix's Tech Stack. T... (highlights)
+:END:
+
+:PROPERTIES:
+:author: [[alexxubyte on Twitter]]
+:full-title: "Netflix's Tech Stack. T..."
+:category: [[tweets]]
+:url: https://twitter.com/alexxubyte/status/1699078784480354634
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-09-07]]
+** 📌
+** #+BEGIN_QUOTE
+** Netflix's Tech Stack.
+
+This post is based on research from many Netflix engineering blogs and open-source projects. If you come across any inaccuracies, please feel free to inform us.
+
+Mobile and web: Netflix has adopted Swift and Kotlin to build native mobile apps. For its web application, it uses React.
+
+Frontend/server communication: GraphQL.
+
+Backend services: Netflix relies on ZUUL, Eureka, the Spring Boot framework, and other technologies.
+
+Databases: Netflix utilizes EV cache, Cassandra, CockroachDB, and other databases.
+
+Messaging/streaming: Netflix employs Apache Kafka and Fink for messaging and streaming purposes.
+
+Video storage: Netflix uses S3 and Open Connect for video storage.
+
+Data processing: Netflix utilizes Flink and Spark for data processing, which is then visualized using Tableau. Redshift is used for processing structured data warehouse information.
+
+CI/CD: Netflix employs various tools such as JIRA, Confluence, PagerDuty, Jenkins, Gradle, Chaos Monkey, Spinnaker, Altas, and more for CI/CD processes.
+
+–-
+Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://t.co/uc5M7CdXXC  ([View Tweet](https://twitter.com/alexxubyte/status/1699078784480354634))
+** #+END_QUOTE
+** 📌
+** #+BEGIN_QUOTE
+** @Zonito87 wrote a blog post about it. Read more details here: https://t.co/VZdIflQryn  ([View Tweet](https://twitter.com/alexxubyte/status/1699079645457686851))
+** #+END_QUOTE

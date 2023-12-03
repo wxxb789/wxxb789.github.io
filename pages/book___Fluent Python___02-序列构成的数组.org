@@ -1,0 +1,114 @@
+* [02]序列构成的数组
+
+python有一套对数据的统一的操作：迭代，切片，排序，拼接。（序列类型：List，str，bytes，元组，数组，队列）
+
+** 1. 内置序列类型概览
+
+
+- 容器序列：=list=,=tuple=,=collections.deque=能存放不同类型的数据，存放对象的引用。
+- 扁平序列：=str=,=bytes=,=bytearray=,=memoryview=,=array.array=只能存放相同类型的数据，存放值（连续的内存空间）。
+- 可变序列：=list=,=bytearray=,=array.array=,=collections.deque=,=memoryview=
+- 不可变序列：=tuple=,=str=,=bytes=
+
+#+caption: 容器
+[[file:20190421012448589_3462.png]]
+
+** 2. 列表推导和生成器表达式
+
+*List Comprehension(listcomps)*是一种构建列表的方法。*Generator
+Expression(genexps)*能生成各种类型的元素，并用它们来填充任何类型的序列。
+
+#+begin_src python
+  # 把字符串变成Unicode码
+  symbols = '!@#$%^&*()_+'
+  codes = [ord(symbol) for symbol in symbols]
+  print(codes)
+#+end_src
+
+#+begin_quote
+  python
+  会忽略=[]=,={}=,=()=中的换行。推导在python3以后使用自己的局部作用域，不会对外部产生影响。
+#+end_quote
+
+*** 2.1. 列表推导同filter和map比较
+
+
+#+begin_quote
+  filter，map合起来能做的事情，列表推导也可以，并且不需要借助于lambda
+#+end_quote
+
+#+begin_src python
+  symbols = '!@#$%^&*()_+'
+  #listcomps
+  beyond_ascii = [ord(s) for s in symbols if ord(s) > 127]
+  beyond_ascii = list(filter(lambda c: c > 127),map(ord,symbols))
+#+end_src
+
+*** 2.2. 笛卡尔积
+
+#+begin_src python
+  colors = ['black','white']
+  sizes = ['S','M','L']
+  # 嵌套关系：左侧外层，右侧内层
+  tshirts = [(color,size) for color in colors for size in sizes]
+#+end_src
+
+*** 2.3. 生成器表达式
+
+生成器表达式会逐个的生成元素而不像列表表达式一次性生成所有。
+
+** 3. 元组不仅仅是不可变的列表
+
+
+- 元组的用途：不可变的列表，没有字段名的记录。元组即保留值的信息也保留了位置信息。
+- 元组拆包（unpacking）时可以用=_=作占位符，当其中变量无用时。
+- 可以使用=*=来处理多余元素=a,b,*rest = rang(5)=
+- =*=运算符可以把一个可迭代对象拆开来，作为函数参数使用
+- 平行赋值中，=*=只能作用于一个变量名之前，但可以出现在任何位置
+
+*** 3.1. 具名元组（namedtuple）
+
+=City = nametuple('City','name country pupulation corrdinates')=第一个参数时类名，第二个参数是类的各个字段的名字，可以是由数个字符串组成的可迭代对象，或者是由空格分开的字段名组成的字符串。
+
+** 4. 切片
+
+Python中：=list=，=tuple=，=str=这类序列类型都支持切片操作。
+
+- =s[a:b:c]=对s在a到b的区间里，以c为间隔取值，c可以为负数。
+- 使用=slice(a,b,c)=可以返回一个切片对象
+
+*** 4.1. 多维切片和省略表示法
+
+
+- 一个二维切片=a[m:n,k:l]=
+- 省略（Ellipsis）是=...=，实际上是Ellipsis对象的别名，而Ellipsis又是ellipsis类的单一实例。
+- 例如NumPy中对于四维数组x而言=x[i, ...]=是=x[i, :, :, :]=的缩写 ###
+  4.2. 给切片赋值
+
+只能将可迭代对象赋值给切片。
+
+#+begin_src python
+  # 正确
+  l[2:5] = [100]
+  # 报错
+  l[2:5] = 100
+#+end_src
+
+** 5. 对序列使用=+=和=*=
+
+=+=和=*=都不会修改原有操作对象，取而代之的是会构建一个新的对象。
+
+** 6. 序列的增量赋值
+
+增量赋值运算符=+==和=*==
+
+** 7. =list.sort=方法和内置函数=sorted=
+
+** 8. 用=bisect=来管理已排序的序列
+
+** 9. 当列表不是首选时
+
+** 10. 小结
+
+** 11. 延伸阅读
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: If You Think You Know Re... (highlights)
+:author: [[eatonphil on Twitter]]
+:full-title: "If You Think You Know Re..."
+:category: [[tweets]]
+:url: https://twitter.com/eatonphil/status/1659639054135074821
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-05]]
+** If you think you know relatively little about databases/SQL/indexes, check out Use The Index Luke. Super useful resource.
+
+(Then, when you're good there, read Designing Data Intensive Applications and try writing a database with indexes yourself!)
+
+https://t.co/ohQV99Mrz1 
+
+![](https://pbs.twimg.com/media/Fwg4gxwXgAMlAgL.jpg) ([View Tweet](https://twitter.com/eatonphil/status/1659639054135074821))
+** Brought to you by HN-ers asking about pagination without offset.
+
+https://t.co/3WZGvDcb3G 
+
+![](https://pbs.twimg.com/media/Fwg5FcRWwAACVvU.jpg) ([View Tweet](https://twitter.com/eatonphil/status/1659639252320174081))

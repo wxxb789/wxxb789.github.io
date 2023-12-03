@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: How to Become a Data Eng... (highlights)
+:author: [[@thoughtsondata on Twitter]]
+:full-title: "How to Become a Data Eng..."
+:category: #tweets
+:url: https://twitter.com/thoughtsondata/status/1609657585153589249
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-01-04]]
+** How to become a Data Engineer in 2023.
+
+Tips on job searching, networking, and building the right skills:
+
+👇 ([View Tweet](https://twitter.com/thoughtsondata/status/1609657585153589249))
+** Most threads hammer away about the skills you need to break into data, but being good in a technical sense is only half of the battle. 
+
+Let's start with what you should know and discuss what you need to do after you build the right skills. ([View Tweet](https://twitter.com/thoughtsondata/status/1609657974477279234))
+** The skills you'll need and where to learn them: 
+
+1. SQL: W3 and Mode's interactive tutorials
+
+2. Python: Watch some FreeCodeCamp YT videos
+
+3. Cloud: Stephane Maarek's Courses (AWS CCF > Databases > Data Analytics)
+
+4. DB, Data Warehouses: snowflake/guides ([View Tweet](https://twitter.com/thoughtsondata/status/1609658226831679490))
+** You can dig into some extra skill building (like airflow), but being privy to how these tools work is a good baseline.
+
+You should try to build a project that utilizes all 4. Ask ChatGPT for project suggestions ;) ([View Tweet](https://twitter.com/thoughtsondata/status/1609658481962885120))
+** Networking: 
+
+- Document your progress on Linkedin and Twitter
+
+- Interact with other learners and people who already DE's
+
+It's not guaranteed, but there are fair odds that your first job will come as a recommendation from someone you've networked with. ([View Tweet](https://twitter.com/thoughtsondata/status/1609658984369213440))
+** Job Search: 
+
+- AWS certs will help if you don't have professional experience with it
+
+- Message hiring recruiters and engineers of hiring companies (don't just send your resume out into the job board void)
+
+- Share your project(s) with your network to get recommendations ([View Tweet](https://twitter.com/thoughtsondata/status/1609659238921502723))
+** This is a very broad overview, but it should give you an idea of a solid path to becoming a data engineer this year. 
+
+If you want some more detailed guidance; my DMs are always open and I send out longing form advice on my newsletter (https://t.co/z346pRJ1DY) 🙂👍 ([View Tweet](https://twitter.com/thoughtsondata/status/1609659742661611525))

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:title: 1_13 🧵💡 Ever Wondered Ho... (highlights)
+:END:
+:PROPERTIES:
+:author: [[EdenEmarco177 on Twitter]]
+:full-title: "1/13 🧵💡 Ever Wondered Ho..."
+:category: [[tweets]]
+:url: https://twitter.com/EdenEmarco177/status/1667555367314751488
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-11]]
+** 1/13 🧵💡 Ever wondered how to handle token limitations of LLMs? Here's one strategy of the "map-reduce" technique implemented in @LangChainAI  🦜🔗
+Let's deep dive!  @hwchase17 's your PR is under review again😎 https://t.co/grcDjKSE0v ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555367314751488))
+** 2/13 MapReduce is not new. Famously introduced by @Google , it's a programming model that allows for the processing and generation of large data sets with a parallel, distributed algorithm. ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555373543194624))
+** 3/13 In essence, it divides work into small parts that can be done simultaneously (the “mapping”) and then merge the intermediate results back to a one final result (“reducing”). 
+
+![](https://pbs.twimg.com/media/FyRUPqJWYAU8T4l.png) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555376034611206))
+** 4/13 Let’s take a real world example. You want your LLM to summarize a very very long document- Which obviously surpasses the LLM’s token limit- so sending the entire document in the context will result in a “too many tokens” error. 
+
+![](https://pbs.twimg.com/media/FyRXIulXsAAmWWg.png) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555388160454657))
+** 5/13  So, how does @LangChainAI 🦜🔗 help with this? When dealing with a large piece of text,  @LangChainAI  can seamlessly break it down into manageable parts- 'chunks'. This forms our data set for the 'map' operation. 
+
+![](https://pbs.twimg.com/media/FyRU-8MXoAAkQru.jpg) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555393390690305))
+** 6/13 Each 'chunk' is then processed independently by an LLM, generating a separate summary (LLM call per chunk). This is our 'map' operation, creating a set of summaries. 
+
+![](https://pbs.twimg.com/media/FyRVFwvWAAE6VYY.png) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555396905574400))
+** 7/13 Here is the prompt template from @LangChainAI  🦜🔗source code written by @hwchase17 
+
+![](https://pbs.twimg.com/media/FyRVUSGWIAENtoz.jpg) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555401028567040))
+** 8/13 After the 'map' step, all the independent summaries are combined using the 'reduce' step. This is another call to the LLM, asking it to synthesize the separate summaries into a final, unified one. 
+
+![](https://pbs.twimg.com/media/FyRVcI8XgAEB9wg.png) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555412932022274))
+** 9/13 The cool thing about “map-reduce” is that the “map” steps can be done in parallel😎 greatly speeding up the process of large volumes of text. This makes it an excellent fit for distributed computing environments☁️ ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555421538639873))
+** 10/13  Keep in mind, however, that ‘map-reduce’ works best when the individual parts don’t have much interdependence . This means that this method may be less effective if the text chunks need to be understood in context with each other. ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555424369885185))
+** 11/13  Despite this, by cleverly applying the 'map-reduce' concept, @LangChainAI 🦜🔗 is able to efficiently generate meaningful summaries from large-scale texts, showcasing the power of combining distributed computing techniques with LLMs. ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555432171184129))
+** 12/13 So how does this entire process look in code? It's actually pretty short since @LangChainAI 🦜🔗 does all the heavy lifting for us. 
+
+![](https://pbs.twimg.com/media/FyRVz3uX0AA_k-Q.jpg) ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555447253991425))
+** 13/13 If you are interested in learning  @LangChainAI 🦜🔗 by building cool stuff-
+Get me a virtual coffee and have acess my best-selling @udemy  course (read the reviews 😎)
+https://t.co/rGxs9pMW0t
+
+ Coupon code for exclusive twitter discount:
+TWITTER9DCC71C67A9AA ([View Tweet](https://twitter.com/EdenEmarco177/status/1667555459073540097))

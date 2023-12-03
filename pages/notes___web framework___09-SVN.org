@@ -1,0 +1,130 @@
+
+
+* [09]SVN
+
+SVN版本管理
+
+
+1.什么是版本管理?
+(1)版本管理最初来源于工程设计领域，是维护工程蓝图的标准做法，能追踪工程蓝图从诞生到定案的全过程。
+(2)版本管理现在也广泛用于软件开发领域,是一种记录开发过程中的文件内容变化，并且可以查阅特定版本修订情况的系统。
+(3)版本管理的具体功能如下: ①代码备份; ②代码还原; ③协同修改 ④读写权限控制
+⑤追溯问题代码的编写人和编写时间 (4)版本管理有哪些软件?(svn和git)
+svn是Apache组织开发的一个版本管理软件,常用于Window系统中;
+git是另外一个关于版本管理的软件产品,在linux系统中一般使用git;
+
+2.什么是svn?
+(1)svn是Subversion的简写,是一个版本管理的软件,包括服务器软件和客户端插件(如:MyEclipse插件等)与客户端应用(如:tortoise等);
+(2)svn服务器通常由项目经理安装和维护,是项目组各级程序员开发的备案;
+(3)程序员或者开发者通常使用svn的客户端插件或者应用,因此需要安装MyEclipse插件或者专门客户端产品tortoise.
+要求:掌握MyEclipse插件,了解tortoise.
+
+3.svn服务器端的安装与启动服务
+(1)安装时,路径最好没有空格和中文,例如:D:\DevInstall\Subversion是符合要求的路径;
+安装成功后路径会自动打通,在cmd窗口中,使用如下命令测试: svn --version
+
+(2)创建版本库 版本库是存放开发者提交文件的地方\\
+① 首先创建版本库的根目录,例如: d:\DevRepository\SvnRepository
+其中SvnRepository是所有项目的根目录 ②
+然后在根目录下建立项目目录(例如：OA),完整路径如下:
+d:\DevRepository\SvnRepository\OA ③
+创建完项目目录后,需要使用如下命令将项目目录升级为版本库目录 svnadmin
+create d:\DevRepository\SvnRepository\OA
+
+#+begin_example
+  (3)启动svn服务器
+       ①命令:
+        svnserve -d -r d:\DevRepository\SvnRepository
+         其中: -d参数表示是后台执行;
+                  -r参数表示是根目录;
+         使用端口号默认是:3690
+      ②局限性:cmd窗口必须保持开启;
+#+end_example
+
+(4)为了克服局限性，需要将svn的启动注册为windows服务 ①命令形式: sc create
+服务名 binpath= "启动服务的命令" start= auto depen= Tcpip 其中:
+-sc是service control的意思； -服务名是自定义的,例如:SVNService\\
+②举例说明(注意是自动换行而不是人为换行): sc create SVNService binpath=
+"D:\DevInstall\Subversion\bin\svnserve.exe --service -r
+D:\DevRepository\SvnRepository" start= auto depend= Tcpip
+注意:I.--service表示以服务的方式启动svn; II.
+start=后面有空格;depend=后面有空格;
+III.执行命令的cmd窗口需要有管理员权限;
+
+4.svn常用命令介绍:
+这些命令常用于客户端用户访问svn服务器,只要求了解;因为在实际中主要使用插件和工具.
+(1)客户端的工作目录如下,代表2个开发者 d:\svnspace\jerry d:\svnspace\tom
+(2)Jerry使用检出命令将svn服务器上的OA项目检出到自己的目录下 svn checkout
+svn://localhost/OA MyOA 注意:MyOA目录下有隐含文件, 该隐含文件不能被删除;
+(3)Jerry创建了一个记事本文件:HelloSVN.txt,如何提交给SVN服务器呢?
+①对于新文件,需要先加入版本库 svn add HelloSVN.txt
+②提交之前,需要修改服务器端OA下config目录下的svnserve.config文件:
+anon-access = write ③提交命令 svn commit -m "日志信息" HelloSVN.txt
+④当本地的文件版本陈旧时,需要更新版本 svn update HelloSVN.txt
+
+5.开发者常用操作总结: ①检出(checkout):
+将一个服务器端创建好的项目整个下载到本地,这是到项目组后参与开发的第一步,只需执行一次;
+②更新(update):
+将本地文件更新为服务器端的最新版本,通常为每天上班时或修改公共文件之前执行一次;
+③提交(commit):
+将本地修改提交到服务器端,通常每天下班前或每实现一个功能或者完成一个模块时执行一次;
+
+客户端用户结合MyEclipse插件使用SVN
+
+1.svn插件1.8.x版适合于64位的MyEclipse10
+解压插件,查看是否有features和plugins目录
+
+2.在MyEclipse安装目录下(例如C:\Program Files\MyEclipse\MyEclipse 10),找到dropins目录;然后:
+①创建子目录svn; ②将解压插件的features和plugins目录拷贝到svn目录下.
+
+3.启动MyEclipse 通过window->prefence->team 在Team下查看是否有svn插件.
+
+4.SVN插件操作: (一)项目经理分享
+(1)由项目经理分享项目(Team->Share)到指定的版本库(服务器端的版本库)
+地址例如: svn://localhost/OA
+(2)分享后,启用synchronize视图,右键点击工程然后提交;
+
+(二)组员检出 (1)在项目视图中,右键点击,选择import导入;
+(2)注意:从svn服务器中导入项目
+(3)先更新版本,再修改文件,最后提交所修改的文件.
+
+(三)解决提交冲突:
+(1)即使都是最新的版本,但是如果2个用户同时修改一个文件并提交,仍然会有一方产生版本陈旧异常;
+(2)由于版本陈旧,因此首先更新版本;在更新时,可能会出现版本冲突:
+①编辑冲突(合并,或者选择适当版本等) ②标记为解决; ③再次提交
+
+(四)权限设置 (1)svnserve.config设置如下(去掉注释): anno = none
+auth-access = write
+
+#+begin_example
+        password-db = passwd
+        authz-db = authz
+   (2)passwd文件设置如下:
+       tom = 123456
+       jerry = 123456
+       ceshi = 123456
+
+   (3) authz文件设置如下:
+       [groups]
+        kaifa = tom,jerry
+        [/]
+        @kaifa = rw
+        ceshi = r
+        * = 
+#+end_example
+
+(五)时光机-历史版本的选择: (1)team->显示历史记录
+(2)选择版本,然后右键"获取内容"; (3)提交.
+
+工作副本中文件的几种状态 ①没有修改，现行版本
+该文件在本地工作目录中没有被修改，其他终端也没有任何该文件的修改被提交到服务器，即当前工作副本的版本和服务器端最新版本是一致的。此时,对它执行svn
+commit和svn update都不会发生任何事。 ②没有修改，过时版本
+这个文件在本地没有修改，但是服务器版本库中有其他终端提交的修改。此时当前工作副本的版本比服务器端的版本落后了，我们称之为"过时"。对当前文件的
+svn commit 不会发生任何事，而 svn update 会让本地文件更新至最新版本。
+
+③本地修改, 现行版本
+该文件在本地修改过，但还没有提交到服务器，其他终端也没有针对该文件的修改提交到服务器上，所以当前工作副本的版本和服务器端最新版本仍然是一致的。此时执行svn
+commit会将本地修改同步到服务器并提升版本. ④本地修改，过时版本
+服务器端存在比本地文件更高的版本，导致本地当前版本过时。如果这个本地文件也有修改，则无法提交成功，因为对它执行svn
+commit时 会产生"out-of-date"错误。 此时应该先尝试更新本地文件(svn
+update);更新时SVN会尝试将服务器端的更新与本地文件进行合并，合并的结果有两种可能：①一个是服务器端和本地修改位于文件的不同位置，合并成功；②另一个是服务器端的修改正好和本地修改位于同一个位置，发生冲突。发生冲突后,首先要解决冲突。

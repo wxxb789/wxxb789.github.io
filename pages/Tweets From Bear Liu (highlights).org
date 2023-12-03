@@ -1,0 +1,14 @@
+:PROPERTIES:
+:title: Tweets From Bear Liu (highlights)
+:author: [[bearbig on Twitter]]
+:full-title: "Tweets From Bear Liu"
+:category: [[tweets]]
+:url: https://twitter.com/bearbig
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-06-01]]
+** 吴恩达又推出了三门新的AI课程，适合开发者看看，目前全部免费。
+
+最后一个用Diffusion做游戏的感觉不错：） 
+
+![](https://pbs.twimg.com/media/Fxe8BP9aQAE8gqE.jpg) ([View Tweet](https://twitter.com/bearbig/status/1664005323542401024))

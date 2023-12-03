@@ -1,0 +1,89 @@
+* 4.创建Spring与MyBatis框架的整合配置文件
+
+
+1. spring-mybatis.xml
+
+   1. 使用Spring框架代替MyBatis框架连接数据库
+
+      1. 解析db-mysql.properties文件；
+      2. 使用dbcp连接池
+      3. 通过配置SqlSessionFactoryBean，采用工厂模式创建SqlSession对象，SqlSession的id属性也被称为beanname(对象的引用名称).
+
+   2. 注册Spring框架的内置对象(MapperScannerConfigure)，用来创建Mapper对象
+
+      1. 配置dao包的位置；
+      2. 配置SqlSessionFactory对象的BeanName；
+
+   3. 实施注解扫描业务组件和注解驱动的事务管理(相应的配置)
+
+      1. 普通切面(针对Service对象的业务方法实施跟踪和记录执行时间)
+      2. 事务切面，对业务组件实施事务管理.
+
+#+begin_example
+  <?xml version="1.0" encoding="UTF-8"?>
+  <beans xmlns="http://www.springframework.org/schema/beans"
+         xmlns:context="http://www.springframework.org/schema/context"
+         xmlns:aop="http://www.springframework.org/schema/aop"
+         xmlns:tx="http://www.springframework.org/schema/tx"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.springframework.org/schema/beans
+                             http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+                             http://www.springframework.org/schema/context
+                             http://www.springframework.org/schema/context/spring-context-3.2.xsd
+                             http://www.springframework.org/schema/aop
+                             http://www.springframework.org/schema/aop/spring-aop-3.2.xsd
+                             http://www.springframework.org/schema/tx
+                             http://www.springframework.org/schema/tx/spring-tx-3.2.xsd">
+      <!--一、配置数据库的连接  -->
+      <!--1.配置properties文件解析器  -->
+          <!--propertyPlaceholder:属性占位符  -->
+      <bean id="propertyPlaceholder" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+          <property name="location" value="classpath:db-mysql.properties"/>
+      </bean>
+      <!--2.配置dbcp连接池  -->
+      <bean id="dbcppool" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+          <!--访问数据库的四大参数  -->
+          <property name="driverClassName" value="${dbDriver}"/>
+          <property name="url" value="${dbUrl}"/>
+          <property name="username" value="${username}"/>
+          <property name="password" value="${password}"/>
+          <!--配置连接池的伸缩性  -->
+          <!--连接池初始化时连接对象的数量  -->
+          <property name="initialSize" value="${initialSize}"/>
+          <!--连接池最多有20个连接对象  -->
+          <property name="maxActive" value="${maxActive}"/>
+          <!--连接池最多运行10个连接对象无人使用  -->
+          <property name="maxIdle" value="${maxIdle}"/>
+          <!--连接池最少有两个处于空闲状态的连接对象  -->
+          <property name="minIdle" value="${minIdle}"/>
+          <!--等待获得连接对象的时间，超时报异常  -->
+          <property name="maxWait" value="${maxWait}"/>
+      </bean>
+      <!--3.配置SqlSessionFactoryBean,以工厂模式创建一个符合Mybatis框架需要的SqlSessionFactory对象  -->
+      <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+          <property name="dataSource" ref="dbcppool"/>
+          <property name="configLocation" value="classpath:mybatis-config.xml"/>
+      </bean>
+  <!--二、创建Mapper对象  -->
+      <!--配置创建Mapper对象的类 ：MapperScannerConfigurer-->
+          <!--不设置id属性，按类型自动装配  -->
+      <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+          <!--指明存放Mapper接口的位置  -->
+          <property name="basePackage" value="dao"/>
+          <!--获得SqlSessionFactory对象，需提供其名称(beanname)  -->
+          <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
+      </bean>
+  <!--三、创建service配置及实施AOP配置  -->
+      <!-- 实施注解扫描业务组件-->
+      <context:component-scan base-package="service"/>
+      <context:component-scan base-package="aop"/>
+      <!--实施aspectj注解驱动的切面配置-->
+      <aop:aspectj-autoproxy/>
+      <!--注册一个事物管理器  -->
+      <bean id="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+          <property name="dataSource" ref="dbcppool"/>
+      </bean>
+      <!-- 告知IoC容器本项目是基于注解驱动的事务管理 -->
+      <tx:annotation-driven transaction-manager="txManager"/>
+  </beans>
+#+end_example

@@ -1,0 +1,6 @@
+#+title: book/Rust 程序设计语言
+#+tags: rust
+
+* [[https://rustwiki.org/zh-CN/book/][Rust 程序设计语言]]
+*
+*

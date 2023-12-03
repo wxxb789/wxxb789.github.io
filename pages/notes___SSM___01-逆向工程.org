@@ -1,0 +1,6 @@
+
+
+* 1.逆向工程
+
+
+1. 利用MyBatis的逆向工程，生成JavaBean、Dao接口及其mapper.xml文件；

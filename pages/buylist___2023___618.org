@@ -1,0 +1,17 @@
+#+tags: 06.18,
+
+* 键盘，客制化，alice，
+** 套件
+** 键帽
+** 轴
+* 软路由
+* 运动T恤
+* 书
+** 鸢尾花数学
+** check my likes
+* DONE complete this page
+:LOGBOOK:
+CLOCK: [2023-07-04 Tue 12:00:09]
+CLOCK: [2023-07-04 Tue 12:00:13]--[2023-10-09 Mon 15:52:22] =>  2331:52:09
+:END:
+*

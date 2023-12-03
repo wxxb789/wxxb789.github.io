@@ -1,0 +1,5 @@
+#+tags: container, windows
+
+* [[https://docs.microsoft.com/en-us/virtualization/windowscontainers/][Containers on Windows Reference]]
+* support Hyper-V isolate and Process isolate
+*
