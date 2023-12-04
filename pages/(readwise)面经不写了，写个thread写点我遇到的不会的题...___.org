@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: (readwise)面经不写了，写个thread写点我遇到的不会的题...
+:END:
+
+:PROPERTIES:
+:author: [[wulianwen1 on Twitter]]
+:full-title: "面经不写了，写个thread写点我遇到的不会的题..."
+:category: [[tweets]]
+:url: https://twitter.com/wulianwen1/status/1726793525956862125
+:image-url: https://pbs.twimg.com/profile_images/1564857389803008001/rU45-vsF.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+面经不写了，写个thread写点我遇到的不会的题目吧
+
+1. 同时发起1w个请求，http1.0/1.1/2.0分别需要建立多少个tcp连接（抖音电商二面）
+
+\- http1.0 应该是1w个，因为连接会立即断开
+- http1.1 应该是浏览器支持的并发数量，因为是长连接
+- http2.0 应该是1个，多路复用支持在一个连接上并发多个请求 
+#+END_QUOTE
+    date:: [[2023-11-21]]
+*** from _面经不写了，写个thread写点我遇到的不会的题..._ by @wulianwen1 on Twitter
+*** [View Tweet](https://twitter.com/wulianwen1/status/1726793525956862125)
+** 📌
+#+BEGIN_QUOTE
+2. React和Vue更新视图的区别？为什么React上粗粒度更新，Vue是细粒度更新？(B站一面)
+
+\- 响应式可以看https://t.co/jihf96vaLW这个，很全面。
+- 简单来说,React是比较渲染树新旧DOM的差异,并且可能会重新渲染整个组件树，而Vue是精确的更新受影响的部份。
+- React+Mobx的效果和Vue差不多 
+#+END_QUOTE
+    date:: [[2023-11-21]]
+*** from _面经不写了，写个thread写点我遇到的不会的题..._ by @wulianwen1 on Twitter
+*** [View Tweet](https://twitter.com/wulianwen1/status/1726796090727616567)
+** 📌
+#+BEGIN_QUOTE
+3. chatgpt等平台为什么使用SSE的方式进行流式打字？(蚂蚁一面)
+
+\- 看这个https://t.co/cZ81fIbTyS吧，确实没想过 
+#+END_QUOTE
+    date:: [[2023-11-21]]
+*** from _面经不写了，写个thread写点我遇到的不会的题..._ by @wulianwen1 on Twitter
+*** [View Tweet](https://twitter.com/wulianwen1/status/1726797986351759465)

@@ -1,0 +1,47 @@
+:PROPERTIES:
+:title: (readwise)Docker是如何工作的？ 下图展示了Dock...
+:END:
+
+:PROPERTIES:
+:author: [[ProgramerJohann on Twitter]]
+:full-title: "Docker是如何工作的？ 下图展示了Dock..."
+:category: [[tweets]]
+:url: https://twitter.com/ProgramerJohann/status/1681691106172633088
+:image-url: https://pbs.twimg.com/profile_images/1633481920737574916/V3q0IxC3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Docker是如何工作的？
+
+下图展示了Docker的架构以及在执行“docker build”、“docker pull”和“docker run”时的工作原理。
+
+Docker架构中有3个组件：
+
+🔹 Docker客户端
+Docker客户端与Docker守护程序进行通信。
+
+🔹 Docker主机
+Docker守护程序监听Docker API请求，并管理Docker对象，例如镜像、容器、网络和卷。
+
+🔹 Docker仓库
+Docker仓库用于存储Docker镜像。Docker Hub是一个公共仓库，任何人都可以使用。
+
+以“docker run”命令为例，它的执行过程如下：
+1. Docker从仓库拉取镜像。
+2. Docker创建一个新的容器。
+3. Docker为容器分配一个可读写的文件系统。
+4. Docker创建一个网络接口，将容器连接到默认网络。
+5. Docker启动容器。 
+#+END_QUOTE
+    date:: [[2023-07-20]]
+*** from _Docker是如何工作的？ 下图展示了Dock..._ by @ProgramerJohann on Twitter
+*** [View Tweet](https://twitter.com/ProgramerJohann/status/1681691106172633088)
+** 📌
+#+BEGIN_QUOTE
+上面的内容来自于 @alexxubyte 的 bytebyteGo，订阅了他的newsletter，每一期的架构图都非常棒，非常推荐，感觉学画图都值。 
+#+END_QUOTE
+    date:: [[2023-07-20]]
+*** from _Docker是如何工作的？ 下图展示了Dock..._ by @ProgramerJohann on Twitter
+*** [View Tweet](https://twitter.com/ProgramerJohann/status/1681691144709865474)

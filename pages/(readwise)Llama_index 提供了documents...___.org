@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: (readwise)Llama_index 提供了documents...
+:END:
+
+:PROPERTIES:
+:author: [[balconychy on Twitter]]
+:full-title: "Llama_index 提供了documents..."
+:category: [[tweets]]
+:url: https://twitter.com/balconychy/status/1647882621714849793
+:image-url: https://pbs.twimg.com/profile_images/1642760288406769665/YsX3blNL.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+llama_index 提供了documents+question到answer的全环节实现：
+自动文本拆分；
+创建index；
+解析question并查找相近似文本；
+将question和相似文本扔给LLM获取答案。
+非常适合用来快速验证方案。
+https://t.co/yT5n6A5JXg 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _Llama_index 提供了documents..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1647882621714849793)
+** 📌
+#+BEGIN_QUOTE
+好处是：
+方便的一条龙的解决方案；
+支持众多文件格式和来源（PDF，docx, notion,google docs,slack discord）,更多见https://t.co/DaGyAnHwLf 
+
+![](https://pbs.twimg.com/media/Ft50BJXaYAYtgaW.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _Llama_index 提供了documents..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1647882624306913282)
+** 📌
+#+BEGIN_QUOTE
+略微的劣势大规模部署前要仔细分析一下index和query 成本。 
+
+![](https://pbs.twimg.com/media/Ft5zmAOaUAAh6sY.png) 
+
+![](https://pbs.twimg.com/media/Ft5zoORaYAAwjlU.png) 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _Llama_index 提供了documents..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1647882627683344384)

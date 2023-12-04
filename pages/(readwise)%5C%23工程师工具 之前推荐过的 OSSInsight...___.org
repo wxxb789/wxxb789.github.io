@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: (readwise)\#工程师工具 之前推荐过的 OSSInsight...
+:END:
+
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#工程师工具 之前推荐过的 OSSInsight..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1615137322965635076
+:image-url: https://pbs.twimg.com/profile_images/1540397753586528256/SFkyn7LD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+#工程师工具 之前推荐过的 OSSInsight 最近又出了一个好玩的工具，叫做「Data Explorer」，底层使用 OpenAI 的能力，类似于用 ChatGPT 的提问的方式来帮你对 Github 感兴趣的洞察写 SQL，我试了几个，比如说 2022 年增长最快的 Rust 项目，有兴趣的同学可以去折腾玩玩。
+🤖 https://t.co/A1gJrMMQIw 
+
+![](https://pbs.twimg.com/media/FmlUHHQaMAAGJeD.jpg) 
+
+![](https://pbs.twimg.com/media/FmlUMqHaEAELn8G.jpg) 
+
+![](https://pbs.twimg.com/media/FmlUMqHaEAMwmkh.jpg) 
+
+![](https://pbs.twimg.com/media/FmlUQHraYAAhZRD.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-01]]
+*** from _#工程师工具 之前推荐过的 OSSInsight..._ by @HiTw93 on Twitter
+*** [View Tweet](https://twitter.com/HiTw93/status/1615137322965635076)
+** 📌
+#+BEGIN_QUOTE
+中国开发者和印度开发者最感兴趣的项目区别，哎，很神奇。 
+
+![](https://pbs.twimg.com/media/FmoxM_aaEAA9dro.jpg) 
+
+![](https://pbs.twimg.com/media/FmoxN-WakAEq8GY.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-01]]
+*** from _#工程师工具 之前推荐过的 OSSInsight..._ by @HiTw93 on Twitter
+*** [View Tweet](https://twitter.com/HiTw93/status/1615157547773890560)

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:title: Purely Functional Data Structures (highlights)
-:END:
-New highlights added [[2023-02-01]] at 2:40 PM
-
--

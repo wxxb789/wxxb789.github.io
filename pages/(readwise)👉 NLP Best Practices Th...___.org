@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: (readwise)👉 NLP Best Practices Th...
+:END:
+
+:PROPERTIES:
+:author: [[DanKornas on Twitter]]
+:full-title: "👉 NLP Best Practices Th..."
+:category: [[tweets]]
+:url: https://twitter.com/DanKornas/status/1709810714544672851
+:image-url: https://pbs.twimg.com/profile_images/1569690950447910914/5dUfOdEi.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+👉 NLP Best Practices
+
+This repository contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions. 
+
+🔗 https://t.co/Oi130dId8V 
+
+![](https://pbs.twimg.com/media/F7p3yJVWgAAz0sy.png) 
+#+END_QUOTE
+    date:: [[2023-10-06]]
+*** from _👉 NLP Best Practices Th..._ by @DanKornas on Twitter
+*** [View Tweet](https://twitter.com/DanKornas/status/1709810714544672851)

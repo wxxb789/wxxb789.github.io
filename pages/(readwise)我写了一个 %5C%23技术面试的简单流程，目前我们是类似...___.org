@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: (readwise)我写了一个 \#技术面试的简单流程，目前我们是类似...
+:END:
+
+:PROPERTIES:
+:author: [[ThaddeusJiang on Twitter]]
+:full-title: "我写了一个 \#技术面试的简单流程，目前我们是类似..."
+:category: [[tweets]]
+:url: https://twitter.com/ThaddeusJiang/status/1607263439625551872
+:image-url: https://pbs.twimg.com/profile_images/1635805945732415488/hDe8Tg3k.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+我写了一个 #技术面试的简单流程，目前我们是类似的流程，对这个流程有任何疑问的话，欢迎来交流
+
+https://t.co/1FcSfDQPWE 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _我写了一个 #技术面试的简单流程，目前我们是类似..._ by @ThaddeusJiang on Twitter
+*** [View Tweet](https://twitter.com/ThaddeusJiang/status/1607263439625551872)
+** 📌
+#+BEGIN_QUOTE
+添加了算法挑战，
+
+简单算法，不需要白板 bug free。
+
+https://t.co/2Ao0YudRaL 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _我写了一个 #技术面试的简单流程，目前我们是类似..._ by @ThaddeusJiang on Twitter
+*** [View Tweet](https://twitter.com/ThaddeusJiang/status/1607266300845527042)

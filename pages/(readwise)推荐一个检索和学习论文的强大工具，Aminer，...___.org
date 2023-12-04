@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: (readwise)推荐一个检索和学习论文的强大工具，Aminer，...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "推荐一个检索和学习论文的强大工具，Aminer，..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1725160515922526517
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+推荐一个检索和学习论文的强大工具，Aminer，https://t.co/IC8AQwDvHD，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。
+
+如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集，这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。
+你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文，在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤。
+如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级，分级信息可以让我们一眼看出论文的含金量。
+Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。
+
+Aminer 还提供了一个 ChatBot 工具，支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。
+另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://t.co/8j7AcJKlEZ，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<img src='https://pbs.twimg.com/media/F_D52FHW8AEF6NK.jpg'/><img src='https://pbs.twimg.com/media/F_D5_C1WQAAcz22.jpg'/><img src='https://pbs.twimg.com/media/F_D7Gr6XUAAeGmm.jpg'/><img src='https://pbs.twimg.com/media/F_D87iuWsAAQWpb.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-17]]
+*** from _推荐一个检索和学习论文的强大工具，Aminer，..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1725160515922526517)

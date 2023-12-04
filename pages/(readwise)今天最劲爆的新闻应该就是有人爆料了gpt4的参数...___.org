@@ -1,0 +1,137 @@
+:PROPERTIES:
+:title: (readwise)今天最劲爆的新闻应该就是有人爆料了gpt4的参数...
+:END:
+
+:PROPERTIES:
+:author: [[Danielw19410 on Twitter]]
+:full-title: "今天最劲爆的新闻应该就是有人爆料了gpt4的参数..."
+:category: [[tweets]]
+:url: https://twitter.com/Danielw19410/status/1671530648308183041
+:image-url: https://pbs.twimg.com/profile_images/1645991676526342145/VYiNTYG4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+今天最劲爆的新闻应该就是有人爆料了GPT4的参数和架构设计。我根据推友@fi56622380提供的线索稍微深挖了一下，找到了这个消息的原始出处一档叫Latent Space的播客，听了涉及消息的最新一期播客真是信息量爆炸，下面是我梳理出的相关信息和播客的精彩内容。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530648308183041)
+** 📌
+#+BEGIN_QUOTE
+一、播客、主持人、嘉宾的背景分别是什么？
+     播客名称叫Latent Space，是今年2月底刚起号的播客，4个月更新了18期内容。是一档关于AI 工程师的播客（AI圈内人），主要采访对象是战斗在一线的创始人、建设者和思想家。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530651164483584)
+** 📌
+#+BEGIN_QUOTE
+并且内容及其硬核，大概涉及专业背景名词的强度和技术内部分享会差不多，比高校教授做业内前沿报告稍低。
+主持人有两位一位是swyx，是开发人员（ Airbyte 的 开发者主管）/PM/天使投资人，还有丰富的写作和演讲经历，最近出版了一本 《The Coding Career Handbook》。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530654188576769)
+** 📌
+#+BEGIN_QUOTE
+一位是Alessio Fanelli，是开源项目fanahova的作者和一家口号是Founders help  founders的独立VC的合伙人。两位主理人都是既能冲锋也能演讲写作属于“六边形战士”。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530657195913216)
+** 📌
+#+BEGIN_QUOTE
+嘉宾George Hotz也是硅谷大红人，第一个解锁 iPhone、越狱 PS3的少年极客，也在马斯克经营的 Twitter 短暂“实习”过，还是自动驾驶解决方案https://t.co/NychW9DEAR 的创始人。当然最近新创立了一家提供“个人计算集群”的小公司Tinycorp （深度学习框架 tinygrad 以及最近发布的 tinybox 背后的公司）。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530660152897536)
+** 📌
+#+BEGIN_QUOTE
+二、播客有哪些锐利的观点？
+George Hotz真是毒舌之王，硬要类比堪称硅谷的戈登▪拉姆齐。他有如下的观点： 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530663290318849)
+** 📌
+#+BEGIN_QUOTE
+1.首先就是GPT-4是8个一模一样的220B模型连起来做的，只是训练数据不同，8个专家模型mixture expert model，一共1.76T参数，每次推理要做16次循环推理。
+2. George非常不喜欢OpenAI高超的工程技巧并认为这是惨痛的教训，并认为OpenAI是深度学习领域的绝对领导者。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530666515746816)
+** 📌
+#+BEGIN_QUOTE
+3. George认为 transformer 的良好效果奥秘不在于注意力机制而是它是半权重共享。因为权重矩阵是动态生成的，所以你可以压缩权重矩阵。（因为George14年尝试构建维基百科的压缩模型，用了一些贝叶斯和循环神经网络技巧但效果一般般。） 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530669460037632)
+** 📌
+#+BEGIN_QUOTE
+4.为了进一步说明，George举了高通公司的 SNPE 由于这个原因不能运行 transformer。因为神经网络中的大多数矩阵乘法器都是权重乘以值。（Matrix is all your need是吧） 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530672572309507)
+** 📌
+#+BEGIN_QUOTE
+5.然后说起了的架构细节，想象一下你有 256 个（隐藏层维度）权重组，然后根据某些情况选择要加载的权重集。该上下文可以来自另一个神经网络，然后我有另一个神经网络，它投影 256 宽，进行矩阵乘法后做一个 softmax分类输出，然后我实际加载权重。我可以在测试时间和训练时间都做这个操作。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530675688669184)
+** 📌
+#+BEGIN_QUOTE
+三、George如何锐评OpenAI和剖析马斯克和自己
+1. OpenAI 是迈阿密热火队。（我只记得三巨头抱团了，有篮球迷可以科普一下。）
+2. OpenAI 可以留住理论家，因为他们相信意识形态的东西，而 Facebook 可以留住每个研究人员，因为研究员只想构建人工智能并发布它。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530678851186689)
+** 📌
+#+BEGIN_QUOTE
+3. 最狠的观点来了，George认为模型生成内容的幻觉或者说重复输出内容的崩溃情况就像说唱歌手一直说呦呦呦，yesyesyes一样。
+4. 谈到了山姆奥特曼是一个真正的好人，他对自己追求权力不感兴趣。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530681841713155)
+** 📌
+#+BEGIN_QUOTE
+5. 他还谈到了马斯克的学科底色是物理学，而自己是信息论。并且也是由于这样的底色，自己最终目的是做出AI机器人而马斯克想要去火星。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530684878315520)
+** 📌
+#+BEGIN_QUOTE
+（他有基于物理学的抱负，而我有基于信息的抱负。真是热血。）
+（嘉宾的路线图是第一家公司构建硬件基础设施。 第二家TinyCorp 构建软件基础架构。第三家公司是第一家要制造真正产品的公司。那个产品就是AI Girlfriend。） 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530687994769419)
+** 📌
+#+BEGIN_QUOTE
+四、一些彩蛋
+虽然嘉宾暴论频出，专业输出密度极高，但他自己也承认自己的数学水平相对一般只学了大部分本科数学和一些研究生数学。（最简单的度量其实就是解常微分方程和偏微分方程的难度啦，说明本科的数学教育其实对于AI实践是够用了，科学家肯定还不够用。） 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530691090055170)
+** 📌
+#+BEGIN_QUOTE
+感谢看到这里,欢迎点赞本条Thread,并且：
+1.关注我@Danielw19410发现更多有料内容。
+2.转发（Retweet ）推文分享给他人。
+3.你有哪些有趣的信息欢迎在评论区交流。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _今天最劲爆的新闻应该就是有人爆料了gpt4的参数..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671530694009401344)

@@ -1,0 +1,87 @@
+:PROPERTIES:
+:title: (readwise)Do You Know the Differen...
+:END:
+
+:PROPERTIES:
+:author: [[mwaseemzakir on Twitter]]
+:full-title: "Do You Know the Differen..."
+:category: [[tweets]]
+:url: https://twitter.com/mwaseemzakir/status/1643871867617280000
+:image-url: https://pbs.twimg.com/profile_images/1604162937828040706/v1EqKyRK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Do you know the difference b/w Controller and ControllerBase in C#
+ 
+ To create a controller class in C#, we need to inherit it from either the Controller or ControllerBase.
+
+Let's see the difference 🧵⏬
+#dotnet 
+
+![](https://pbs.twimg.com/media/FtA0vyMaMAAY7Wj.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871867617280000)
+** 📌
+#+BEGIN_QUOTE
+Controller:
+ 1) Abstract class that inherits from ControllerBase
+
+ 2) It has access to all methods of ControllerBase with addition
+
+ 3) Comes with facility of action filters e.g. OnActionExecuting and OnActionExecuted
+
+#dotnet 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871870599458816)
+** 📌
+#+BEGIN_QUOTE
+4) Don’t use this for Web API but  if you want to use same controller for views and API’s then fine
+
+ 5) If you want action filter, json helpers, data passing b/w actions or rendering methods then then use it over other
+
+#dotnet 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871874919661569)
+** 📌
+#+BEGIN_QUOTE
+ControllerBase:
+ 1) It implements IController
+
+ 2) For Web API you should use this because we don’t need methods related to views
+
+ 3) It provides properties and methods that are useful for handling HTTP requests
+
+#dotnet 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871878992240640)
+** 📌
+#+BEGIN_QUOTE
+4) Let me remind you some methods of ControllerBase e.g., BadRequest and NotFound
+
+ 5) If you are only concerned about HTTP Requests or Model States then this should ne the choice
+
+#dotnet 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871883824119809)
+** 📌
+#+BEGIN_QUOTE
+If you enjoy my posts , consider subscribing my .NET Newsletter which has  now crossed 1000+ milestone.
+ 
+ Subscribe here : https://t.co/K5hhbgfgEP
+ #dotnet 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871888593100801)

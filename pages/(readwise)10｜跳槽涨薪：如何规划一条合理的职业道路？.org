@@ -1,0 +1,77 @@
+:PROPERTIES:
+:title: (readwise)10｜跳槽涨薪：如何规划一条合理的职业道路？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "10｜跳槽涨薪：如何规划一条合理的职业道路？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/402957
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/77/4a/77cbd22e68593a88feddbd5d1480534a.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+那么问题就来了：为什么在互联网行业，内部涨薪的幅度总没有跳槽涨薪大呢？简要来讲，主要有三个原因：
+
+第一，互联网行业发展过快，行业每年的薪资水平都在快速上涨，而大多数公司的内部涨薪制度跟不上行业的发展速度。
+
+第二，公司内部涨薪受多种因素牵制。比如说，如果单独为你涨薪，难免引起平级同事的心态不平衡，而集体涨薪又会导致薪资支出的大幅上涨，不现实。
+
+第三，需要外部招聘的职位，本身就有稀缺性和紧迫性。能跳槽成功的同学，对于新公司来说肯定是难得的人才，那么自然就容易拿到更高的薪水。 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbq5qxgrfhyryw810bmrkn)
+** 📌
+#+BEGIN_QUOTE
+如果不谈对公司的忠诚问题，只站在自己的角度考虑，我的答案非常简单明了：当一家公司阻碍了你职场价值的提升，或者说职场财富的积累，那么就可以离开这家公司了。 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbqj19ta6qkbx1vxtx54f2)
+** 📌
+#+BEGIN_QUOTE
+第一种情况：你加入这家公司的时候，就是把它当跳板的。 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbqms2dkv6qrbxe9tdspyp)
+** 📌
+#+BEGIN_QUOTE
+第二种情况：整个行业出现了不可逆转的问题。 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbqpyttpfbejne965gv002)
+** 📌
+#+BEGIN_QUOTE
+第三种情况：当前公司已经无法给你提供任何技术财富和人脉财富。 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbqt28bgbbjqg7j314wn1c)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/1d/3a/1d3da0a21c8d512eb7761fc691e1dd3a.jpg?wh=2248x1656) 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbs62j2cht7h690wkz89pt)
+** 📌
+#+BEGIN_QUOTE
+要加入新公司了，如何谈 offer？
+
+这一讲结束前，我们再聊一个实用的话题，就是如何谈 offer。对于这个问题，你掌握下面三个关键点就可以了：
+
+第一，永远不要离职后再去找工作。否则，在谈 offer 的时候，很容易会被新东家的 HR 压薪资和职级，在遇到挫折的时候，你的求职心态也更容易崩溃。
+
+第二，如果你心目中有一家目标公司，那么最好先面试两到三家非首选的公司，拿到保底 offer 或竞争 offer 之后，再去面目标公司。这样做，一是可以让你逐渐进入面试的最佳状态，二是可以防止被目标公司的 HR 压职级和薪资。
+
+第三，不要被 offer 的总价迷惑。你需要好好捋一遍 offer 薪酬相关的细节，搞清楚哪些是一定能拿到的基本薪酬，哪些是奖金甚至加班费。在总价一样的情况下，当然选基本薪酬给得多的公司，这样才能更好地保障你的收入水平。 
+#+END_QUOTE
+    date:: [[2023-04-09]]
+*** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkbsfmdkd21rr7hsxrdxckg)

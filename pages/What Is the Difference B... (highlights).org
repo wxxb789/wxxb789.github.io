@@ -1,9 +1,0 @@
-*
-* Highlights first synced by [[Readwise]] [[2023-05-04]]
-** What is the difference between 𝗟𝗮𝗺𝗯𝗱𝗮 𝗮𝗻𝗱 𝗞𝗮𝗽𝗽𝗮 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀?
- 
-Lambda and Kappa are both Data architectures proposed to solve movement of large amounts of data for reliable Online access.
- 
-The most popular architecture has been and continues to be… 
-
-![](https://pbs.twimg.com/media/FvMYXXqXoAI2YQT.jpg) ([View Tweet](https://twitter.com/Aurimas_Gr/status/1653692318921138179))

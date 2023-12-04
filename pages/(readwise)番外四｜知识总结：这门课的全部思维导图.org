@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: (readwise)番外四｜知识总结：这门课的全部思维导图
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "番外四｜知识总结：这门课的全部思维导图"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/421568
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/94/fb/94dbe632539416a6170cf3b0e644yyfb.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/a8/1f/a802c83b5093bd06365ab67fc2903a1f.jpg?wh=2248x1260) 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _番外四｜知识总结：这门课的全部思维导图_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjtcjq8dq8fz20mbq56n3k)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/9f/b6/9f0fb700a72e3f30f6545a496bf44cb6.jpg?wh=2248x1115) 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _番外四｜知识总结：这门课的全部思维导图_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjtgqvww63a9zstmjjx4ss)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/02/36/029f5872af9d118f1a44c3810cf4dd36.jpg?wh=2247x913) 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _番外四｜知识总结：这门课的全部思维导图_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjtk9y1ss1gpxgrbh6vj56)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/e8/bd/e81797d1e31c2260622b42713ef9b0bd.jpg?wh=2248x3915) 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _番外四｜知识总结：这门课的全部思维导图_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjtmwh52w0vse6te6feffs)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/b7/87/b7b1b445375002caf93f904c0ca02a87.jpg?wh=2248x7130) 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _番外四｜知识总结：这门课的全部思维导图_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjtqbee9t397v2g0mtz6ab)

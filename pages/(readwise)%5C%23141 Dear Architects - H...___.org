@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: (readwise)\#141 Dear Architects - H...
+:END:
+
+:PROPERTIES:
+:author: [[deararchitects on Twitter]]
+:full-title: "\#141 Dear Architects - H..."
+:category: [[tweets]]
+:url: https://twitter.com/deararchitects/status/1672718683133673472
+:image-url: https://pbs.twimg.com/profile_images/1298894389176078337/thki2YhI.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+#141 Dear Architects - https://t.co/BTUitbhroY
+
+This week:
+1. #DDD and #architecture modernization
+2. Practical #DDD
+3. #api vs messaging
+4. Event sourcing introduction
+5. Http streaming for the win!
+
+#web #designpatterns #cloud #microservices #softwaredesign 
+
+![](https://pbs.twimg.com/media/Fzawx0EXgAUgEG0.png) 
+#+END_QUOTE
+    date:: [[2023-06-25]]
+*** from _#141 Dear Architects - H..._ by @deararchitects on Twitter
+*** [View Tweet](https://twitter.com/deararchitects/status/1672718683133673472)

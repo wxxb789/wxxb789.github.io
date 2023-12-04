@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: (readwise)Tweets from Avalonia UI
+:END:
+
+:PROPERTIES:
+:author: [[AvaloniaUI on Twitter]]
+:full-title: "Tweets from Avalonia UI"
+:category: [[tweets]]
+:url: https://twitter.com/AvaloniaUI
+:image-url: https://pbs.twimg.com/profile_images/1585561047708192768/1Vvfiix-.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+👀 https://t.co/TcH5hpeBUd
+
+![](https://pbs.twimg.com/media/FsmS7xeXwAEjmD2.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _Tweets from Avalonia UI_ by @AvaloniaUI on Twitter
+*** [View Tweet](https://twitter.com/AvaloniaUI/status/1642005099873533952)

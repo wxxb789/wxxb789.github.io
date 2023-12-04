@@ -1,0 +1,95 @@
+:PROPERTIES:
+:title: (readwise)Introducing the Long-Awa...
+:END:
+
+:PROPERTIES:
+:author: [[_jzhao on Twitter]]
+:full-title: "Introducing the Long-Awa..."
+:category: [[tweets]]
+:url: https://twitter.com/_jzhao/status/1693407629153067193
+:image-url: https://pbs.twimg.com/profile_images/1687201665118785539/lNhZrWnt.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Introducing the long-awaited Quartz 4: a new static site generator for digital gardens :)
+
+Docs: https://t.co/fznFxcR6tQ 
+
+![](https://pbs.twimg.com/media/F4AtT6JakAAf7CI.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407629153067193)
+** 📌
+#+BEGIN_QUOTE
+Now, I can finally fit the setup instructions into a single tweet with room to spare :)
+
+git clone https://t.co/deTHaJKb5n
+cd quartz
+git checkout v4
+npm i
+npx quartz create 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407631665406331)
+** 📌
+#+BEGIN_QUOTE
+Quartz is designed first and foremost as a tool for publishing digital gardens to the web. To me, digital gardening is not just passive knowledge collection. It’s a form of expression and sharing. 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407633120870887)
+** 📌
+#+BEGIN_QUOTE
+I wasn’t happy with how difficult Quartz 3 was to setup -- especially for non-developers -- so I set out to make something easy to use enough for non-technical people to get going but also powerful enough that senior developers can tweak it to work how they’d like it to work. 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407634798620835)
+** 📌
+#+BEGIN_QUOTE
+Quartz 4 basically scraps all of the code and starts from scratch. Instead of Hugo, it now uses Node.js under the hood which JSX support which should lead to a much more helpful error messages and an overall smoother user experience. 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407636287529362)
+** 📌
+#+BEGIN_QUOTE
+The core insight of Quartz 4 is that static site generation can be though of as a map-filter-reduce over Markdown files. This was the base for a really powerful abstraction of the three types of plugins:
+1. Transformers (transform files)
+2. Filters
+3. Emitters (produce new files) 
+
+![](https://pbs.twimg.com/media/F4AusxabEAApoLX.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407637768122814)
+** 📌
+#+BEGIN_QUOTE
+As a result, I was able to create an extensible configuration and plugin system for Quartz. It's fully type-safe and designed to be extended by users while making updating to new versions of super easy. 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407639898837454)
+** 📌
+#+BEGIN_QUOTE
+I won't dive too deep into the technical weeds here but if you _do_ care about that stuff, check out the architecture page for more details:
+
+https://t.co/ZdJ9eiQaLy 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407642478383265)
+** 📌
+#+BEGIN_QUOTE
+Lastly, this work is the culmination of almost 3 months of coding which totals just under 7000 lines. I'm really grateful to the Quartz community and my GitHub sponsors for the continued support. It's been a great two years and I can't wait to see what else lies ahead :) 
+
+![](https://pbs.twimg.com/media/F4Av78ZasAAkHYD.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-22]]
+*** from _Introducing the Long-Awa..._ by @_jzhao on Twitter
+*** [View Tweet](https://twitter.com/_jzhao/status/1693407644093157768)

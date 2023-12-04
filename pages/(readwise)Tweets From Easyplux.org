@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: (readwise)Tweets From Easyplux
+:END:
+
+:PROPERTIES:
+:author: [[easyplux on Twitter]]
+:full-title: "Tweets From Easyplux"
+:category: [[tweets]]
+:url: https://twitter.com/easyplux
+:image-url: https://pbs.twimg.com/profile_images/1503274747622162439/6hHPNhAu.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+微软开源了贾维斯（JARVIS）就是钢铁侠那个贾维斯。
+
+人人都可以自己部署一个贾维斯成为自己的私人Ai管家，而这一切你只需要一张3090的显卡。
+
+系统要求：
+Ubuntu 16.04 LTS
+NVIDIA GeForce RTX 3090 * 1
+RAM > 24GB 
+
+![](https://pbs.twimg.com/media/FsyyrMWXsAAZPvp.jpg) 
+
+![](https://pbs.twimg.com/media/FsyyrcBWwAYCujZ.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-04]]
+*** from _Tweets From Easyplux_ by @easyplux on Twitter
+*** [View Tweet](https://twitter.com/easyplux/status/1642884426769088517)

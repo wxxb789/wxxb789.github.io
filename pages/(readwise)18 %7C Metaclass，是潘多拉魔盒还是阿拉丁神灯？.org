@@ -1,0 +1,177 @@
+:PROPERTIES:
+:title: (readwise)18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/101288
+:tags:[[gt/python核心技术与实战]],
+:image-url: https://static001.geekbang.org/resource/image/11/c3/110770f3c6a193ebdac124ca171a73c3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+事实上，meta-class 的 meta 这个词根，起源于希腊语词汇 meta，包含下面两种意思：
+
+“Beyond”，例如技术词汇 metadata，意思是描述数据的超越数据；
+
+“Change”，例如技术词汇 metamorphosis，意思是改变的形态。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t1y284k6e42kkfn3z4cvwm)
+** 📌
+#+BEGIN_QUOTE
+metaclass，一如其名，实际上同时包含了“超越类”和“变形类”的含义，完全不是“基本类”的意思。所以，要深入理解 metaclass，我们就要围绕它的超越变形特性。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t1yd3pzspqmg5dm90wyxgb)
+** 📌
+#+BEGIN_QUOTE
+对于 YAML 的使用者，这一点也很方便，你只要简单地继承 yaml.YAMLObject，就能让你的 Python Object 具有序列化和逆序列化能力。是不是相比普通 Python 类，有一点“变态”，有一点“超越”？ 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t233s1h2pehyr0ek40p78y)
+** 📌
+#+BEGIN_QUOTE
+因为篇幅原因，我们这里只看 YAMLObject 的 load() 功能。简单来说，我们需要一个全局的注册器，让 YAML 知道，序列化文本中的 !Monster 需要载入成 Monster 这个 Python 类型。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t21z0gkrt64d8jj994r8jp)
+** 📌
+#+BEGIN_QUOTE
+这一点。
+
+那么，更优的实现方式是什 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2jbz3zrsh62mtzvk4549v)
+** 📌
+#+BEGIN_QUOTE
+# Python 2/3 相同部分
+
+class YAMLObjectMetaclass(type):
+
+def __init__(cls, name, bases, kwds):
+
+super(YAMLObjectMetaclass, cls).__init__(name, bases, kwds)
+
+if 'yaml_tag' in kwds and kwds['yaml_tag'] is not None:
+
+cls.yaml_loader.add_constructor(cls.yaml_tag, cls.from_yaml)
+
+# 省略其余定义 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t28fhwxeytj2bvye1z2h5j)
+** 📌
+#+BEGIN_QUOTE
+Python 2/3 相同部分
+
+class YAMLObjectMetaclass(type):
+
+def __init__(cls, name, bases, kwds):
+
+super(YAMLObjectMetaclass, cls).__init__(name, bases, kwds)
+
+if 'yaml_tag' in kwds and kwds['yaml_tag'] is not None:
+
+cls.yaml_loader.add_constructor(cls.yaml_tag, cls.from_yaml)
+
+# 省略其余定义 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t255gztd7bp8zrgqfadpf1)
+** 📌
+#+BEGIN_QUOTE
+# Python 3
+
+class YAMLObject(metaclass=YAMLObjectMetaclass):
+
+yaml_loader = Loader
+
+# 省略其余定义 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t258epxk703e2jg4z2t6h5)
+** 📌
+#+BEGIN_QUOTE
+# Python 3
+
+class YAMLObject(metaclass=YAMLObjectMetaclass):
+
+yaml_loader = Loader
+
+# 省略其余定义 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t28mgqemr00vsa4y43qqwy)
+** 📌
+#+BEGIN_QUOTE
+在 YAMLObjectMetaclass 中， 下面这行代码就是魔法发生的地方：
+
+cls.yaml_loader.add_constructor(cls.yaml_tag, cls.from_yaml) 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t29qv4a5wex3aq5byhsw3t)
+** 📌
+#+BEGIN_QUOTE
+YAML 应用 metaclass，拦截了所有 YAMLObject 子类的定义。也就说说，在你定义任何 YAMLObject 子类时，Python 会强行插入运行下面这段代码，把我们之前想要的add_constructor(Foo)给自动加上。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2at3qsrcr1wr8gz91psb2)
+** 📌
+#+BEGIN_QUOTE
+第一，所有的 Python 的用户定义类，都是 type 这个类的实例。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2cwapt0pq92205hehtn8a)
+** 📌
+#+BEGIN_QUOTE
+第二，用户自定义类，只不过是 type 类的__call__运算符重载。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2dprhz01jjrp77xvnrq09)
+** 📌
+#+BEGIN_QUOTE
+当我们定义一个类的语句结束时，真正发生的情况，是 Python 调用 type 的__call__运算符。简单来说，当你定义一个类时，写成下面这样时： 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2dx698sa4vn8ngzks56q0)
+** 📌
+#+BEGIN_QUOTE
+第三，metaclass 是 type 的子类，通过替换 type 的__call__运算符重载机制，“超越变形”正常的类。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2evkxma4y2p97yervxq1n)
+** 📌
+#+BEGIN_QUOTE
+一旦你把一个类型 MyClass 的 metaclass 设置成 MyMeta，MyClass 就不再由原生的 type 创建，而是会调用 MyMeta 的__call__运算符重载。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2ffx6gnqrdvrpqag2f638)
+** 📌
+#+BEGIN_QUOTE
+所以，我们才能在上面 YAML 的例子中，利用 YAMLObjectMetaclass 的__init__方法，为所有 YAMLObject 子类偷偷执行add_constructor()。 
+#+END_QUOTE
+    date:: [[2023-07-21]]
+*** from _18 | Metaclass，是潘多拉魔盒还是阿拉丁神灯？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01h5t2fzhb3gjd0pb0q9ckgfqv)

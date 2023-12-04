@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: (readwise)\#Maple 很顺手的浏览器书签工具，第二个版本...
+:END:
+
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#Maple 很顺手的浏览器书签工具，第二个版本..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1687835899269382144
+:image-url: https://pbs.twimg.com/profile_images/1540397753586528256/SFkyn7LD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+#Maple 很顺手的浏览器书签工具，第二个版本，大大大更新来咯
+👺对于很多书签的朋友，支持顺手输入立马搜索
+🐌使用潮流周刊的封面图作为新标签页，强迫症也可设置成空白页
+🍓 Command 点击文件夹，一键打开下面所有的链接
+🐣修改 Windows 下快捷键为 Ctrl+B，修复些 Bug
+🤖️https://t.co/ZSnW9L21w4 https://t.co/y3yK8EmogU https://t.co/oL6xk7rCeE 
+#+END_QUOTE
+    date:: [[2023-08-06]]
+*** from _#Maple 很顺手的浏览器书签工具，第二个版本..._ by @HiTw93 on Twitter
+*** [View Tweet](https://twitter.com/HiTw93/status/1687835899269382144)

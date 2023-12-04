@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: (readwise)VanillaNet: The Power Of...
+:END:
+
+:PROPERTIES:
+:author: [[ducha_aiki on Twitter]]
+:full-title: "VanillaNet: The Power Of..."
+:category: [[tweets]]
+:url: https://twitter.com/ducha_aiki/status/1660976837181206531
+:image-url: https://pbs.twimg.com/profile_images/898858078770266114/g3kgFgkG.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+VanillaNet: the Power of Minimalism in Deep Learning
+
+Hanting Chen, Yunhe Wang, Jianyuan Guo, Dacheng Tao
+tl;dr:  4x4conv/4->n x {1x1conv->{seriesAct}->MaxPool2x2}.
+seriesAct = stack of BN(ReLU(BN(ReLU)))
+
+https://t.co/XagNt0jNLx 
+
+![](https://pbs.twimg.com/media/Fwz4Vw7XoAEZA4C.jpg) 
+
+![](https://pbs.twimg.com/media/Fwz5W7TWcAEB6mQ.png) 
+
+![](https://pbs.twimg.com/media/Fwz5gyvXsAIYtE-.jpg) 
+
+![](https://pbs.twimg.com/media/Fwz5kisXoAAEMbU.png) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
+*** [View Tweet](https://twitter.com/ducha_aiki/status/1660976837181206531)
+** 📌
+#+BEGIN_QUOTE
+@wightmanr 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
+*** [View Tweet](https://twitter.com/ducha_aiki/status/1660993789802995712)
+** 📌
+#+BEGIN_QUOTE
+At @oliver_batch pointed out, seriesAct is stack of BN(Conv2d 7x7(ReLU))) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
+*** [View Tweet](https://twitter.com/ducha_aiki/status/1661038531794403329)

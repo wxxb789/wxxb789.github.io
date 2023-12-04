@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: (readwise)我刚开始用 Pg 写后端，并不是老手，从初创团队...
+:END:
+
+:PROPERTIES:
+:author: [[Thearas_ on Twitter]]
+:full-title: "我刚开始用 Pg 写后端，并不是老手，从初创团队..."
+:category: [[tweets]]
+:url: https://twitter.com/Thearas_/status/1681313978629369864
+:image-url: https://pbs.twimg.com/profile_images/1253382150545485824/LbxI726b.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+我刚开始用 PG 写后端，并不是老手，从初创团队的角度看：
+\- 对 JSON 支持非常完善，JSON 一把梭
+- GIN Index 特好用，支持搜索 Array、JSON 等，比如 tag/label 等 Array 或 KV 搜索不用分另一张表了
+- 团队前期可以直接用 PG 做模糊搜索，比如 GitLab
+- 接下 https://t.co/4EjjzVt690 
+#+END_QUOTE
+    date:: [[2023-07-19]]
+*** from _我刚开始用 Pg 写后端，并不是老手，从初创团队..._ by @Thearas_ on Twitter
+*** [View Tweet](https://twitter.com/Thearas_/status/1681313978629369864)
+** 📌
+#+BEGIN_QUOTE
+\- 非常多的扩展，比如 btree_gin、pgvector、citus
+- 很好的生态，比如 https://t.co/JlnzHn8cQG 这种直接从数据库生成 RESTful 的，泰酷啦！ 
+#+END_QUOTE
+    date:: [[2023-07-19]]
+*** from _我刚开始用 Pg 写后端，并不是老手，从初创团队..._ by @Thearas_ on Twitter
+*** [View Tweet](https://twitter.com/Thearas_/status/1681315018800001028)
+** 📌
+#+BEGIN_QUOTE
+刚接触就忍不住疯狂看 PG 的生态，就像从 MySQL 过来的乡下人进城 
+#+END_QUOTE
+    date:: [[2023-07-19]]
+*** from _我刚开始用 Pg 写后端，并不是老手，从初创团队..._ by @Thearas_ on Twitter
+*** [View Tweet](https://twitter.com/Thearas_/status/1681315403505766403)

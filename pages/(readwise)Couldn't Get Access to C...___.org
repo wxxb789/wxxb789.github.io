@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: (readwise)Couldn't Get Access to C...
+:END:
+
+:PROPERTIES:
+:author: [[RickLamers on Twitter]]
+:full-title: "Couldn't Get Access to C..."
+:category: [[tweets]]
+:url: https://twitter.com/RickLamers/status/1659195480197459969
+:image-url: https://pbs.twimg.com/profile_images/1658212441367379968/j-Y4Ejhn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Couldn't get access to ChatGPT Code Interpreter so I wrote my own! And Open Sourced it of course 🕺
+
+https://t.co/cxHIFRb1FO 
+#+END_QUOTE
+    date:: [[2023-05-19]]
+*** from _Couldn't Get Access to C..._ by @RickLamers on Twitter
+*** [View Tweet](https://twitter.com/RickLamers/status/1659195480197459969)
+** 📌
+#+BEGIN_QUOTE
+Soooo many ideas to try. It's addictive. 
+
+![](https://pbs.twimg.com/media/Fwaxcr7aMAAr8-u.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-19]]
+*** from _Couldn't Get Access to C..._ by @RickLamers on Twitter
+*** [View Tweet](https://twitter.com/RickLamers/status/1659208663847030785)

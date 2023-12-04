@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: (readwise)Tweets from goldengrape @goldengrape@mathstodon.xyz
+:END:
+
+:PROPERTIES:
+:author: [[goldengrape on Twitter]]
+:full-title: "Tweets from goldengrape @goldengrape@mathstodon.xyz"
+:category: [[tweets]]
+:url: https://twitter.com/goldengrape
+:image-url: https://pbs.twimg.com/profile_images/1348266678430302210/dKh2ImrQ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+GPT4协作编程要点：
+0.建立一个markdown文件记录prompt
+1.写明程序目的
+2.写明程序实现目的的方法/流程
+3.注明编程风格，要求GPT4写出函数的作用描述、输入、输出，但不必列出函数的具体实现。
+4.由GPT4生成函数设计
+5.注明需要使用的库，列出库中的几个典型示例，复制之上所有部分交GPT4生成代码 
+#+END_QUOTE
+    date:: [[2023-03-22]]
+*** from _Tweets from goldengrape @goldengrape@mathstodon.xyz_ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1638049866604777472)
+** 📌
+#+BEGIN_QUOTE
+1. 用上Link Reader, Video Insights两个插件，然后再根据内容选第三个插件：理工：wolfram，编程 noteable，英语：speak……
+2. 贴上prompt
+3. 去Youtube上找到课程链接，贴上
+#我要去复习抽象代数了 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Tweets from goldengrape @goldengrape@mathstodon.xyz_ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1661170777339703301)

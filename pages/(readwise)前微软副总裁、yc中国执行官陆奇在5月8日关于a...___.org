@@ -1,0 +1,162 @@
+:PROPERTIES:
+:title: (readwise)前微软副总裁、yc中国执行官陆奇在5月8日关于a...
+:END:
+
+:PROPERTIES:
+:author: [[WillJiang_eth on Twitter]]
+:full-title: "前微软副总裁、yc中国执行官陆奇在5月8日关于a..."
+:category: [[tweets]]
+:url: https://twitter.com/WillJiang_eth/status/1657589509179990017
+:image-url: https://pbs.twimg.com/profile_images/1609772627203166208/9S02RmrP.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+前微软副总裁、YC中国执行官陆奇在5月8日关于AI的演讲《新范式 新时代 新机会》中提出的新范式下的分析模型和核心逻辑可以运用在非常多的系统和产品上，非常值得学习；以下是一些我总结出来的14个演讲重点：
+https://t.co/8ubskGZtqn 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589509179990017)
+** 📌
+#+BEGIN_QUOTE
+1. 范式变更源于复杂体系，核心即基于三位一体的子系统运行：「感知」「思考」和「执行」:
+「感知」信息子系统，从环境中获取信息。
+「思考」知识子系统，将获取的信息有效地表达出来，包括记忆、推理、规划和分析。
+「执行」行动子系统，根据环境进行能源转换。 
+
+![](https://pbs.twimg.com/media/FwDoDvQWAAAzHcw.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589510379651072)
+** 📌
+#+BEGIN_QUOTE
+2. 信息成本结构发生重大变化：
+原因是成本从边际走向固定，也正是任何大型产业变更的主要驱动力。
+95年地图的价格是3美元，如今导航成本不到一美分。主要归功于谷歌每年10亿的固定成本，大幅降低获取信息的成本；此变催生新商业模型，模型利用核心技术，专注于信息的聚焦散发，将成本从边际转向固定 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589512313217025)
+** 📌
+#+BEGIN_QUOTE
+3. 社会价值基于三类模型的组合：
+认知模型（感官）、任务模型（劳动）、领域模型（技术）
+
+4. 结合感知、思考、执行的三位体系：
+下一个拐点将是行动体系。变化将引导通用智能的发展，包括涌现、代理、功能可见、和embodiment等方面。这个拐点中的机会将由产业发展的结构决定 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589513416261632)
+** 📌
+#+BEGIN_QUOTE
+5. 范式变更的第二维度「进化系统」三大要素：
+「科学」负责解释和预测，AI将推动新的科学范式，从经验主义到系统实践，到大理论模拟，再是数据驱动，最终会是数据+计算驱动。
+「经济 + 科技」技术驱动社会，信息/能源的组合在不同历史时期驱动了农业、工业和数字化（转化能源）的发展。 
+
+![](https://pbs.twimg.com/media/FwDpYHYXwAAh0qG.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589514531946496)
+** 📌
+#+BEGIN_QUOTE
+6. 新范式的社会影响
+脑力劳动的改变：如果没有特殊的认知和能力，如程序员、设计师、分析师等脑力劳动将会被改变。经济将从服务经济转变为体验经济。在这个新的经济形态中，创业者（见解+技术整合）、科学家（新一代科研）和艺术家（读到见解）的角色将会变得更加重要。 
+
+![](https://pbs.twimg.com/media/FwDq0_1XoAg5kIQ.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589516557852672)
+** 📌
+#+BEGIN_QUOTE
+7. 范式变革带来的挑战更大，适应新范式变革的策略，主要是改变思考和实践的方式，学习OpenAI的反共识思考体系，以及利用深度模型、算力和强化学习来推动通用智能的发展。 
+
+![](https://pbs.twimg.com/media/FwDs4wEWYAUDHbM.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589518113947649)
+** 📌
+#+BEGIN_QUOTE
+8. 语言本质是泛化和思考的工具
+在新的范式变革中，语言可能成为新的动力引擎，推动通用智能的发展。语言是非常特殊的潜认知空间，是人类和物理世界之间最宽的桥梁。人类是零样本泛化引擎，语言赋予了人类超强的零样本、低功耗的泛化能力。 
+
+![](https://pbs.twimg.com/media/FwDtXTfWcAAMwRm.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589519711973376)
+** 📌
+#+BEGIN_QUOTE
+9. 当前是寒武纪大爆发
+模型会成为人类世界的新物种，会持续迸发、进化和淘汰。参照进化论的逻辑（结构，功能，组合，选择）。模型生态和生物体系已经具有很多相似之处，大模型可以被看作是基因。 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589521741914112)
+** 📌
+#+BEGIN_QUOTE
+10. 模型的多样性：
+未来会有更多的大模型出现在不同的领域，这些领域不一定只限于语言模型。
+
+11. 未来系统一与系统二的融合：
+系统一：依赖于直觉，基于场景，过程性的思考方式，目前大模型主要运行在这个系统。
+系统二：深度思考，进行符号化处理，构建理论的方式。目前系统二的模型化还处于初级 
+
+![](https://pbs.twimg.com/media/FwDuuRwXoAM1UWk.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589522731872257)
+** 📌
+#+BEGIN_QUOTE
+12. 新机会，大模型时代如何考虑重新看待每个应用
+
+陆奇给出了以技术为基础的三点框架分析：
+1」大模型对于该领域带来的模型能力进展速度
+2」大模型对该领域带来的三位一体（信息，模型，行动）体验速度
+3」大模型对该领域的研发体系带来突破性进展的可能性 
+
+![](https://pbs.twimg.com/media/FwDu9t5XwAADcGD.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589525223186433)
+** 📌
+#+BEGIN_QUOTE
+12.5 需求端的三点框架分析：
+
+1」大模型对满足该领域的信息需求的机会
+2」大模型对满足该领域的模型需求的机会
+3」大模型对满足该领域的行动需求的机会 
+
+![](https://pbs.twimg.com/media/FwDvN3gX0AAeCrx.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589526879928320)
+** 📌
+#+BEGIN_QUOTE
+13. 结合两个三点框架模型的实例： 
+
+![](https://pbs.twimg.com/media/FwDvYltWYAMLNuQ.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589528503238656)
+** 📌
+#+BEGIN_QUOTE
+14. 个人的机会空间，定位不同时代的主生产力：
+科研的主要驱动力开始从大学和国家研究机构转向需求驱动。这是一个重要的转变，从纯粹的知识探索转型满足实际需求为导向的科研。
+如SpaceX和OpenAI，这些公司不仅进行研究，还将研究结果转化为产品，并将这些产品推向市场，从而推动社会进步。 
+
+![](https://pbs.twimg.com/media/FwDvn7hWYAAP6xM.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
+*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589530151514112)

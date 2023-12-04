@@ -1,0 +1,95 @@
+:PROPERTIES:
+:title: (readwise)16｜股票投资：最适合散户的股票投资方法是什么？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "16｜股票投资：最适合散户的股票投资方法是什么？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/408224
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/2e/96/2eeb3d2c70dc40c7a4f589200064fd96.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+如何利用“长钱优势”投资？ 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnxx6s55ma21kwh6r9wxya3)
+** 📌
+#+BEGIN_QUOTE
+怎么分辨哪些是可以利用长钱优势的股票投资机会？好问题，这些机会往往具有下面两个特点： 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnxxqd63x0ns1r6v10tc71f)
+** 📌
+#+BEGIN_QUOTE
+第一，一些直接或间接的重大负面因素，严重打压了你熟悉的股票的价格。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnxxv31x1kxfzbqr4eqkm3f)
+** 📌
+#+BEGIN_QUOTE
+第二，因为某些股票或者指数的波动规律是受中长期经济规律影响的，如果某只股票或者指数处于一个经济周期的低谷位置，那这就是一个利用长钱做长线投资的绝佳机会。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnxy18pfp4dkfx0kj9f1x5r)
+** 📌
+#+BEGIN_QUOTE
+利用短期负面消息投资茅台的例子 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnxym4pdg8hq2cb9xw0hjxf)
+** 📌
+#+BEGIN_QUOTE
+在利用“长钱优势”投资的时候，我们散户投资者一定要注意两个成功的关键点。
+
+第一，散户投资者更要保持稳定的心态。就像我们上面一再强调的那样，和专业投资者比起来，没有来自“金主”的压力就是我们的最大优势。但是我们只有“耐得住寂寞”，稳定投资心态，才能够吃到长钱的盈利。
+
+第二，注意支点投资法中支点的出现与崩塌。我们在 05 讲 中详细介绍过支点投资法，在长钱优势的运用中，我们同样要注意支点的出现与崩塌。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnxzjbtj64fpf66d0pgsm35)
+** 📌
+#+BEGIN_QUOTE
+另外，我还要提醒你的一点是，茅台的这个例子主要是想说明如何利用短期负面消息进行长钱投资，但不要误认为资产配置和风险管理就不重要。这位全职散户之所以敢重仓茅台，是因为他已经全职研究茅台超过三年，拥有足够大的技术优势和信息优势。如果不是在某一领域内具备突出的优势，我们普通投资者还是应该在自己能力范围之内操作股票。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxny0492nn2894wyd58t9cbv)
+** 📌
+#+BEGIN_QUOTE
+我从 2018 年 4 月开始逐渐建仓 A 股大盘股，当时我的投资支点是：从最近 20 年的周期来看，3000 点左右一定是 A 股的一个价值低点，而且已经处于底部超过两年时间，底部足够坚实。那么我认为，不管是等待一年、两年还是三年，A 股一定会有一轮上涨行情。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxny10frsgdyb4qbcjgznxn5)
+** 📌
+#+BEGIN_QUOTE
+如何利用自己的“专业信息优势”投资？ 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxny3fze3ekt70j3veq5zbqg)
+** 📌
+#+BEGIN_QUOTE
+举个例子，假设你希望深耕汽车制造领域的股票投资，那么作为一名程序员，你可以构建哪些高于其他投资者的壁垒呢？我想到的第一个行动就是写一些爬虫，把各大车企的公开销售数据、相关的国家进出口数据、PMI（采购经理人指数），以及原材料相关的数据全都爬回来。然后，加入一些报警机制，甚至发掘这些数据和股票之间的相关性，找到一些投资规则。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxny4pk46w7wkj7ee7dzyzpp)
+** 📌
+#+BEGIN_QUOTE
+比特币的走势非常适合长期定投（因为长期在低位，短期会飞越，长期收益率非常高，波动巨大），千万不要玩短期，绝对不能玩杠杆😂。我虽然看好数字货币，不过找不到“支点”，所以目前在用很少的资产做定投。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _16｜股票投资：最适合散户的股票投资方法是什么？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxny746gs4t8e3jq8xwbgzyc)

@@ -1,0 +1,101 @@
+:PROPERTIES:
+:title: (readwise)使用大型语言模型（llm）最让人头疼的就是学习p...
+:END:
+
+:PROPERTIES:
+:author: [[JefferyTatsuya on Twitter]]
+:full-title: "使用大型语言模型（llm）最让人头疼的就是学习p..."
+:category: [[tweets]]
+:url: https://twitter.com/JefferyTatsuya/status/1663776702450003968
+:image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+使用大型语言模型（LLM）最让人头疼的就是学习Prompt，台湾有趣地将这样的职业译为“AI咒语咏唱师”。
+
+然而，每个人如果想要更好地使用AI，都应该学习一下Prompt的使用技巧。以下，我为大家推荐几个常见的Prompt库和教程，供大家参考。 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776702450003968)
+** 📌
+#+BEGIN_QUOTE
+1️⃣ AIPRM
+
+🔎 这是一个全功能的Prompt浏览器扩展，适用于ChatGPT主页。
+📝 提供了一份包含3000个模板的Prompt列表，适用于营销、客户支持、销售等多种领域。
+🔗 网站链接：https://t.co/A4uuDYWj1L https://t.co/6F4yrCXIrP 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776705188864002)
+** 📌
+#+BEGIN_QUOTE
+2️⃣ ChatGPT Shortcut
+
+🗃️ 这是一个ChatGPT快捷指令大全的网站，提供了快捷指令表，可以快速筛选和搜索适用于不同场景的提示词。
+✅ 即使是初学者，只需复制提示词，稍加修改后发送给ChatGPT，就能获得指定输出
+🔗 网站链接：https://t.co/cFWG8nvzxA
+📌 GitHub地址：https://t.co/HIIFIkhbhV 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776709043425291)
+** 📌
+#+BEGIN_QUOTE
+3️⃣ CohesiveAI
+
+🤖 @CohesiveAI
+🎨 这是一个能够提升您创造力和生产力的AI编辑器。无论你在做什么，这里都有一个适合你的模板。
+🔗 网站链接：https://t.co/HEfkCc8oUR https://t.co/mh631KZCHD 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776711551651842)
+** 📌
+#+BEGIN_QUOTE
+4️⃣ Prompt Awesome List
+
+📋 这里列出了常用的各种角色和Prompt
+🔗 链接：https://t.co/J4LFkH1S3s 
+
+![](https://pbs.twimg.com/media/FxbrcHPaMAEKGih.png) 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776714844147725)
+** 📌
+#+BEGIN_QUOTE
+5️⃣ Prompt Engineering for LLMs Course
+
+📚 提供指南、论文、课程、笔记本和Prompt工程的资源。绝对经典的教程。
+🔗 链接：https://t.co/ojyUPFSlUw
+📌 GitHub地址：https://t.co/MffNdxmSVY 
+
+![](https://pbs.twimg.com/media/Fxbre87aUAAOLLh.png) 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776717792755713)
+** 📌
+#+BEGIN_QUOTE
+6️⃣ 吴恩达和OpenAI的Prompt教育视频：ChatGPT Prompt Engineering for Developers
+
+🎥 视频链接：https://t.co/QwxaSH00lQ https://t.co/oF4fxKc6vh 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776720724570114)
+** 📌
+#+BEGIN_QUOTE
+7️⃣ Learn Prompting
+
+🎓 这是一个关于如何与AI交流的免费、开源课程。
+👥 他们还有一个庞大的Discord社区，里面充满了正在学习如何使用Prompt的人。
+🔗 链接：https://t.co/rOh9TbECPa https://t.co/kIe4BMkIAj 
+#+END_QUOTE
+    date:: [[2023-05-31]]
+*** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776724923088897)

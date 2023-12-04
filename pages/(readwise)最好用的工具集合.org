@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: (readwise)最好用的工具集合
+:END:
+
+:PROPERTIES:
+:author: [[Owen Young]]
+:full-title: "最好用的工具集合"
+:category: [[articles]]
+:url: https://www.owenyoung.com/tools/
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+X as a Y services.
+
+•   [Pulumi](https://github.com/pulumi/pulumi) - 通用的基础设施即代码，用 js 或者 go 或者 python 编写部署在各种云(AWS,Google Cloud, Azure, Kubenetes)上的应用
+•   [Dhall](https://dhall-lang.org/) - 可维护的配置文件, 配置语言
+    •   [JSONNet](https://jsonnet.org/) - JSON 的简单扩展,可配置 
+#+END_QUOTE
+    date:: [[2023-06-14]]
+*** from _最好用的工具集合_ by Owen Young
+*** [View Highlight](https://read.readwise.io/read/01h2w881sjjemm0etfyt0g6p59)
+** 📌
+#+BEGIN_QUOTE
+TUI[🔗](https://www.owenyoung.com/tools#tui)
+
+•   [DEV Dash](https://github.com/Phantas0s/devdash) - 🍱 面向开发人员和创作者的高度可配置的终端仪表板,包含谷歌分析，谷歌统计等 
+#+END_QUOTE
+    date:: [[2023-06-14]]
+*** from _最好用的工具集合_ by Owen Young
+*** [View Highlight](https://read.readwise.io/read/01h2w88ae858gawcd4yq90ndn4)
+** 📌
+#+BEGIN_QUOTE
+Writing[🔗](https://www.owenyoung.com/tools#writing)
+
+•   [Lunette](https://lunette.app/) - 辅助写作的编辑器，可以方便的在任何地方加入 note 
+#+END_QUOTE
+    date:: [[2023-06-14]]
+*** from _最好用的工具集合_ by Owen Young
+*** [View Highlight](https://read.readwise.io/read/01h2w88zjgkb36k16vadhsefk5)

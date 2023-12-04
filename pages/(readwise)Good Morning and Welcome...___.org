@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: (readwise)Good Morning and Welcome...
+:END:
+
+:PROPERTIES:
+:author: [[forrestbrazeal on Twitter]]
+:full-title: "Good Morning and Welcome..."
+:category: [[tweets]]
+:url: https://twitter.com/forrestbrazeal/status/1612473738259316736
+:image-url: https://pbs.twimg.com/profile_images/1711390432880410624/VDfmUexH.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+good morning and welcome to 2023 
+
+![](https://pbs.twimg.com/media/FmCnYf8XoAAPOIb.jpg) 
+#+END_QUOTE
+    date:: [[2023-01-10]]
+*** from _Good Morning and Welcome..._ by @forrestbrazeal on Twitter
+*** [View Tweet](https://twitter.com/forrestbrazeal/status/1612473738259316736)
+** 📌
+#+BEGIN_QUOTE
+@goodtechthings permalink: https://t.co/BdRKnAtl2F 
+#+END_QUOTE
+    date:: [[2023-01-10]]
+*** from _Good Morning and Welcome..._ by @forrestbrazeal on Twitter
+*** [View Tweet](https://twitter.com/forrestbrazeal/status/1612475336536752129)
+** 📌
+#+BEGIN_QUOTE
+https://t.co/YrcwHpDJ6r 
+#+END_QUOTE
+    date:: [[2023-01-10]]
+*** from _Good Morning and Welcome..._ by @forrestbrazeal on Twitter
+*** [View Tweet](https://twitter.com/forrestbrazeal/status/1612522493666803712)

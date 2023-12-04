@@ -1,0 +1,161 @@
+:PROPERTIES:
+:title: (readwise)1_14 🚀 Today, @Nomorebea...
+:END:
+
+:PROPERTIES:
+:author: [[PNattapatsiri on Twitter]]
+:full-title: "1/14 🚀 Today, @Nomorebea..."
+:category: [[tweets]]
+:url: https://twitter.com/PNattapatsiri/status/1676210249760653313
+:image-url: https://pbs.twimg.com/profile_images/1126458672064880641/BoWPNRVZ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+1/14 🚀 Today, @nomorebear and I are thrilled to unveil #BlockAGI, an automated research agent designed to supercharge your research process.
+
+It's 💯 open-source!
+
+Initially built for crypto analysis, it's proven to also be useful across various fields.
+
+https://t.co/PuQlDEdJNz https://t.co/27KSUg6Pqd 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210249760653313)
+** 📌
+#+BEGIN_QUOTE
+2/14 🎯 So, what's BlockAGI's superpower? Feed it any topic, and watch as it conducts research, compiles resources, and crafts a coherent report with citations. 
+
+It's your personal research assistant on steroids! 🕵️ 
+
+![](https://pbs.twimg.com/media/F0MIo7_aYAEexdQ.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210254793822208)
+** 📌
+#+BEGIN_QUOTE
+3/14 🚀 Inspired by @babyAGI_ and @Auto_GPT, BlockAGI isn't just a tool—it's a self-improving entity. It evaluates its own performance and determines its next research goals to continually enhance the quality of the output.
+
+And it gets more powerful as you give it more tools. 
+
+![](https://pbs.twimg.com/media/F0MODUlaYAEiHu2.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210257926963201)
+** 📌
+#+BEGIN_QUOTE
+4/14 🌐 BlockAGI's talents aren't just for crypto. Early experiments show it's a chameleon, adapting to fields like medicine, academia, and various industries. 
+
+Change the agent's role, and it adjusts accordingly!
+
+👉 Look at its spin on "How to Cure COVID?" 
+
+![](https://pbs.twimg.com/media/F0MSzsMaUAAm4Xk.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210260900708352)
+** 📌
+#+BEGIN_QUOTE
+5/14 🤔 Why choose BlockAGI over vanilla ChatGPT?
+
+While ChatGPT is powerful, it lacks the process to automatically evaluate and improve its results over multiple iterations. #BlockAGI makes that available while utilizing the latest @OpenAI GPT models for the best performance. 
+
+![](https://pbs.twimg.com/media/F0MQk-XagAA5lH8.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210263517962241)
+** 📌
+#+BEGIN_QUOTE
+6/14 🛠️ At present, #BlockAGI comes equipped with four tools:
+\- 🔎 GoogleSearchLinks
+- 🦆 DuckDuckGoSearchLinks
+- 💬 DuckDuckGoSearchAnswer
+- 🌐 VisitWeb
+
+Even with this basic toolkit, it delivers comprehensive results in most cases. 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210266005192704)
+** 📌
+#+BEGIN_QUOTE
+7/14 🎁 We're releasing BlockAGI as open-source (Apache 2.0 license), implemented with @LangChainAI.
+
+You can add your own tools, tweak functionalities, and tailor it to your needs. In this era of open data, BlockAGI is your canvas. Paint away!
+
+👉 https://t.co/gEuhPYUiVP 
+
+![](https://pbs.twimg.com/media/F0MThwsakAI3w_P.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210268110753792)
+** 📌
+#+BEGIN_QUOTE
+8/14 🌐 With the built-in WebUI, you can see its internal working with zero dev knowledge. 
+
+It's user-friendly and designed with you in mind. 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210273324240896)
+** 📌
+#+BEGIN_QUOTE
+9/14 🐍 Pythonistas, we've also got you covered! 
+
+Want to use BlockAGI as a Python library? Just clone and import the BlockAGI python code, and you're all set.
+
+It's modular and easy to extend. Fork the code and add more features. The floor's all yours. 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210275605970945)
+** 📌
+#+BEGIN_QUOTE
+10/14 📈 We're gearing up to add more support for on-chain data in crypto reports. That's where @Blockpipe and @BandProtocol data will come into play. Exciting times ahead! 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210277631823872)
+** 📌
+#+BEGIN_QUOTE
+11/14 🎉 We invite the community to dive in and play around with #BlockAGI. Create tools, experiment with research topics, and share your experiences. We're all ears!
+
+https://t.co/gEuhPYUiVP 
+
+![](https://pbs.twimg.com/media/F0MSKaYaAAEwUGn.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210279951237120)
+** 📌
+#+BEGIN_QUOTE
+12/14 📚 Up next on our agenda is creating more comprehensive docs and a suite of available tools. We're just getting started, and there's so much more to come! 
+
+![](https://pbs.twimg.com/media/F0MUwY-aAAIc_AW.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210282589458440)
+** 📌
+#+BEGIN_QUOTE
+13/14 🙏 We're grateful for your support as we embark on this journey. Together, we can push the boundaries of what's possible with AI and open data. 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210285068308482)
+** 📌
+#+BEGIN_QUOTE
+14/14 🚀 Join us on this exciting journey and let's redefine the future of research with BlockAGI! Let's make research a breeze, together!
+
+👉 https://t.co/PuQlDEdJNz 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _1/14 🚀 Today, @Nomorebea..._ by @PNattapatsiri on Twitter
+*** [View Tweet](https://twitter.com/PNattapatsiri/status/1676210287073189889)

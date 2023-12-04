@@ -1,0 +1,81 @@
+:PROPERTIES:
+:title: (readwise)27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/418364
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/63/d4/631a9095c6d982147cfc2cbf598e9fd4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+管理模块：策略顶层配置方案的制定者
+
+我们在 19 讲 的时候就已经明确了，管理模块是整个系统的绝对核心。一家专业的量化投资公司，每天开盘前做的第一件事就是运行管理模块，分析之前的历史交易，得到当天交易的顶层配置方案。这里的顶层配置方案，可以是不同策略之间的权重占比，也可以是具体投资标的的持仓方案。在实际执行过程中，需要根据公司不同的风格来决定。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj2aptpg5skywtp8kb7vv0)
+** 📌
+#+BEGIN_QUOTE
+交易模块：交易的实际执行者
+
+交易模块是交易的实际执行者。在真实的量化投资系统中，我们会通过两种方式实现交易模块。
+
+一种是自动化交易。它是通过调用交易所或第三方公司提供的交易 API 来实现的。例如，我们在18 讲中提到的 CTP 接口，就是上海期货交易所提供的供期货自动化交易的 API。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj3c8cdeh46t4q1x61x498)
+** 📌
+#+BEGIN_QUOTE
+另一种是交易员手动交易。交易员会根据量化投资系统生成的交易目标，通过手动下单的方式来完成这个交易目标。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj3gv5fw6vgz3ptedeam99)
+** 📌
+#+BEGIN_QUOTE
+第一种方法是我最推荐的，就是场内 ETF 基金。场内基金就是指在股票交易所挂牌上市的基金，像股票一样能够用股票账户进行买卖交易。也就是说，只要你开了股票账户，就能够交易场内基金。而且场内 ETF 基金的交易费率非常低，只有万分之一到万分之五。
+
+与之对应的就是场外基金了，它指的就是平时我们可以在支付宝等理财 App 上购买的基金。它的申购费率一般在 1% 左右，即使打折后也要 0.15% 左右。而且，如果你短期卖出的话，还要收 1.5% 的卖出费用。和场内基金比起来，这是非常昂贵的交易费用。
+
+我推荐的第二种方法是场外的 C 类基金。如果你没有股票账户，但是希望频繁交易指数基金，那么场外 C 类基金也是一个可行的选择。C 类基金的特点是申赎费用几乎可以忽略不计，但是会增加一个每年 0.4% 左右的基金销售服务费用。这个特点就让 C 类基金特别适合作为可以频繁交易的指数基金。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj53ykepkz1pk3k5ttd026)
+** 📌
+#+BEGIN_QUOTE
+业绩分析模块：来看看我们的收益是多少
+
+交易模块在执行每次交易后，会把交易的成交结果记录在账户持仓记录表中。然后，我们就可以调用业绩分析模块，来分析我们到底赚了多少钱了。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj6mc2kmfsxcf422ypka01)
+** 📌
+#+BEGIN_QUOTE
+管理模块是整个系统的绝对核心，我们的项目在开盘前调用管理模块，得到当天具体的目标仓位。
+
+交易模块是交易的实际执行者。在真实的量化投资系统中，系统会通过自动化交易或者手动交易的方式执行交易模块的功能。
+
+业绩分析模块通过分析实盘交易结果，得到系统的业绩情况。
+
+接入成熟的量化交易平台可以帮你聚焦在量化策略的研发上，实现量化策略 + 手动交易的方案。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj818npw7s0xx2shzg129b)
+** 📌
+#+BEGIN_QUOTE
+分享几个带源码的策略，帮助大家学习 价值选股：https://www.joinquant.com/view/community/detail/713a60a2a1daaac2276dab73eb322ddc?type=1 海龟交易：https://www.joinquant.com/view/community/detail/4c13f3474a2164f7ea4620105c479c73?type=1 2020优秀文章：https://www.joinquant.com/view/community/detail/e83e772fa0c3292b418a3e43e7eb737e?type=1 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzj8ckna67cqp83g8xt436f)

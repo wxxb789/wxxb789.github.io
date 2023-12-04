@@ -1,3 +1,0 @@
-:PROPERTIES:
-:title: 用 Btop 替换掉了 Htop，实在太好看了！... (highlights)
-:END:

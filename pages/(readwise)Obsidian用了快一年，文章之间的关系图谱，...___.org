@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: (readwise)Obsidian用了快一年，文章之间的关系图谱，...
+:END:
+
+:PROPERTIES:
+:author: [[fuxiangPro on Twitter]]
+:full-title: "Obsidian用了快一年，文章之间的关系图谱，..."
+:category: [[tweets]]
+:url: https://twitter.com/fuxiangPro/status/1672061480978755585
+:image-url: https://pbs.twimg.com/profile_images/1646378088576749568/jQV0pTtA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Obsidian用了快一年，文章之间的关系图谱，非常稀疏。主要原因是我没有文章整理的习惯，上周日在Fingerfly视频号直播和https://t.co/g1FrQtliql的主理人以及 @vista8 @GlocalTerapy 聊AI相关知识整理的话题，有一些启发和收获： 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Obsidian用了快一年，文章之间的关系图谱，..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1672061480978755585)
+** 📌
+#+BEGIN_QUOTE
+1. 信息源：近看热点，远看经典。
+热点的很多内容，由于传播特点会自己不断出现在我们面前，从个人注意力上应该把精力多花在经典内容上，比如OpenAI、midjourney的官网文章以及像transformer这种经典paper。
+此外，对外分享的基本态度是尽量分享自己亲手体验觉得好的内容。 https://t.co/9EtkKlCfos 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Obsidian用了快一年，文章之间的关系图谱，..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1672061484745240576)
+** 📌
+#+BEGIN_QUOTE
+2. 知识库与检索：一图胜千言
+整理过的知识平时容易落灰，需要时又很难找到。
+“以图定位”的思路不错，一篇整理过的内容我们往往对其中的金句、图片印象深刻，通过图片定位到文章再追溯到信息源。非常实用。
+这么看，obsidian需要有个全局图片阅览功能，比如看到AI小镇的图片，可以跳转到原文。 
+
+![](https://pbs.twimg.com/media/FzRVV4macAA7Udh.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Obsidian用了快一年，文章之间的关系图谱，..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1672061489136672768)
+** 📌
+#+BEGIN_QUOTE
+3. 知识的处理与提取：洞见形成的基础
+就像每一篇paper，每一本书背后都有大量的引用，每一个观点的形成也需要有大量的知识做支撑。对知识的处理、提取和应用应该成为信息大爆炸时代的一种基础素养。这是形成洞见的基础。
+有了AI加持以后，知识的处理和提取变得更加便捷，但理解和应用还是自己的事儿。 
+
+![](https://pbs.twimg.com/media/FzRT0izacAEyLyh.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Obsidian用了快一年，文章之间的关系图谱，..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1672061492118847488)
+** 📌
+#+BEGIN_QUOTE
+4. 从改变认知到改变行动
+自己过去的认知是学习应该问题驱动，需要解决什么问题，然后去找需要的知识。对系统性的知识整理一直提不起兴趣，一是坚持不下来，二是容易落灰，缺少正反馈。
+直播中聊到一个很棒的思路：共读。大家一起分享一些有价值的内容，费曼学习法、正反馈、价值感都有了。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Obsidian用了快一年，文章之间的关系图谱，..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1672061495109365761)
+** 📌
+#+BEGIN_QUOTE
+可能与优秀的人交流最大的价值不在于直接改变自己的行为，而是改变自己的认知，改变自己对一件事的看法。认知改变，行动就更容易，且更容易持续下去。
+@vista8 向阳在直播结束后就组织了一个共读会，希望大家能一起交流有价值的内容，欢迎一起分享讨论https://t.co/JHgL0ZriJQ 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Obsidian用了快一年，文章之间的关系图谱，..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1672061497718247424)

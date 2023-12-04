@@ -1,0 +1,84 @@
+:PROPERTIES:
+:title: (readwise)在昨天挖掘了gpt4背后奥秘的播客之后，我发现l...
+:END:
+
+:PROPERTIES:
+:author: [[Danielw19410 on Twitter]]
+:full-title: "在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..."
+:category: [[tweets]]
+:url: https://twitter.com/Danielw19410/status/1671893221868453889
+:image-url: https://pbs.twimg.com/profile_images/1645991676526342145/VYiNTYG4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+在昨天挖掘了GPT4背后奥秘的播客之后，我发现LatentSpace真是一个宝藏播客（平台）。内容粗略看下来可以养活好几个深度自媒体，值得分几期好好说道说道。嘉宾George Hotz也是真有黑客和抽象精神的先锋人物。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893221868453889)
+** 📌
+#+BEGIN_QUOTE
+于是在昨天的基础上我顺藤摸瓜开启了以下几个专题研究：
+1.LatentSpace的内容关注焦点研究
+2.LatentSpace的播客内容研究
+3.嘉宾George Hotz的访谈研究
+欢迎点赞关注@Danielw19410我获取后续更新。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893224972230656)
+** 📌
+#+BEGIN_QUOTE
+今天先说说嘉宾George Hotz，作为硅谷35岁以下最富有黑客精神的人之一，17岁成为据报道第一个解除 iPhone 上 SIM 卡锁的人，20岁宣布越狱索尼PS3，25岁发布三星S5的root漏洞还有多次辍学等等事迹已经将黑客精神和行为拉满。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893228755509251)
+** 📌
+#+BEGIN_QUOTE
+并且George Hotz是我见过在Lex Fridman科技播客中语气情绪最饱满，肢体语言最丰富的嘉宾，一期播客视频展现的肢体语言大概顶10-20期其他嘉宾的总和吧。
+当然这次我准备通过一个很小的视角，通过他在播客中推荐的书籍来一撇他的黑客精神。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893232341630976)
+** 📌
+#+BEGIN_QUOTE
+推荐的一共有三本：
+1.大卫•福斯特 • 华莱士的《Infinite Jest》
+https://t.co/5Y0t12fcQT
+2.安•兰德的《阿特拉斯耸耸肩》
+https://t.co/kCFB3ILKFP
+3.格雷格·伊根《Permutation City》
+https://t.co/bBuzyOXKD7 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893235621576707)
+** 📌
+#+BEGIN_QUOTE
+这三本书共同的抽象特征就是语言风格极其鲜明，并且叙事跳跃而且争议不断。比如最出名的安•兰德的《源泉》被誉为美国自由主义文化的经典之作，影响了几代人。连不爱读书的特朗普都评价《源泉》是“同生意、美、人生和内心感情都有关系，这本书关联一切。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893239291580419)
+** 📌
+#+BEGIN_QUOTE
+这三本书之所以被George Hotz选择是因为每本书都代表了某种程度的“反叛精神”，而这也是黑客的核心精神之一。我的朋友@Alphatu5就对黑客精神做过精彩的演讲。
+https://t.co/tnVdMOGLad 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893242550583296)
+** 📌
+#+BEGIN_QUOTE
+感谢看到这里,欢迎点赞本条Thread,并且：
+1.关注我@Danielw19410发现更多有料内容。
+2.转发（Retweet ）推文分享给他人。
+3.你有哪些有趣的视角欢迎在评论区交流。 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _在昨天挖掘了gpt4背后奥秘的播客之后，我发现l..._ by @Danielw19410 on Twitter
+*** [View Tweet](https://twitter.com/Danielw19410/status/1671893246321229828)

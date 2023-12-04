@@ -1,0 +1,133 @@
+:PROPERTIES:
+:title: (readwise)📌 Frontend Development S...
+:END:
+
+:PROPERTIES:
+:author: [[reactive_dude on Twitter]]
+:full-title: "📌 Frontend Development S..."
+:category: [[tweets]]
+:url: https://twitter.com/reactive_dude/status/1609812169759117315
+:image-url: https://pbs.twimg.com/profile_images/1510928172686225411/bTCh20YN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+📌 Frontend development skills are in high demand and very well paid
+
+Find all you need to start a programming career in 2023 here: 
+
+![](https://pbs.twimg.com/media/Flczjk9XgAEhoD4.jpg) 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812169759117315)
+** 📌
+#+BEGIN_QUOTE
+1. HTML + CSS
+
+Scrimba: https://t.co/fOF47Uqsvs
+
+Udacity: https://t.co/AAxs9YFx2L
+
+Udemy: https://t.co/QwKkDzHl0A 
+
+![](https://pbs.twimg.com/media/Flcu2BRXgAAX5dK.jpg) 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812171789328384)
+** 📌
+#+BEGIN_QUOTE
+2. Design Inspiration
+
+https://t.co/AoSiRKEoi2 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812173999538176)
+** 📌
+#+BEGIN_QUOTE
+3. Git + GitHub
+
+Coursera: https://t.co/rEunDMQE6W
+
+Udacity: https://t.co/R7Lcs7ZstF
+
+YouTube: https://t.co/u5O7OHiD6q 
+
+![](https://pbs.twimg.com/media/FlctGMkXkAAz0Ig.jpg) 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812175878557697)
+** 📌
+#+BEGIN_QUOTE
+4. JavaScript 
+
+Scrimba: https://t.co/P8Zl24kttQ
+
+Udemy: https://t.co/bKTSF04OEJ
+
+Udacity: https://t.co/fpoAfKzKjz 
+
+![](https://pbs.twimg.com/media/FlctnksXEAAuXlq.png) 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812177694740480)
+** 📌
+#+BEGIN_QUOTE
+5. React
+
+Scrimba: https://t.co/4cWh8G01KV
+
+Official docs: https://t.co/XGpJgd7jIa
+
+Udemy: https://t.co/ymkZInb2V7 
+
+![](https://pbs.twimg.com/media/FlcuvRNWAAEhx3E.png) 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812179426975747)
+** 📌
+#+BEGIN_QUOTE
+Avoid these Common mistakes when looking for a dev job:
+
+https://t.co/vM3njgLvxe 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812181159215106)
+** 📌
+#+BEGIN_QUOTE
+Resume Tips:
+
+https://t.co/AJozWKGaT1 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812183071825920)
+** 📌
+#+BEGIN_QUOTE
+Games:
+
+https://t.co/guvWi0rFet 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812185017978880)
+** 📌
+#+BEGIN_QUOTE
+That's it!
+
+If you have any questions, tweet at me or ask in the comments, so others can benefit!
+
+Follow me @reactive_dude for more programming and web development tips.
+
+Good luck! 🙌 
+#+END_QUOTE
+    date:: [[2023-01-03]]
+*** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
+*** [View Tweet](https://twitter.com/reactive_dude/status/1609812186880249857)

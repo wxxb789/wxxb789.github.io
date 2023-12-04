@@ -1,0 +1,169 @@
+:PROPERTIES:
+:title: (readwise)▍如何爬取網站內容，生成 GPTs 知識庫 3...
+:END:
+
+:PROPERTIES:
+:author: [[circleghost0723 on Twitter]]
+:full-title: "▍如何爬取網站內容，生成 GPTs 知識庫 3..."
+:category: [[tweets]]
+:url: https://twitter.com/circleghost0723/status/1724631810494320645
+:image-url: https://pbs.twimg.com/profile_images/1660536845745422336/L1rcXF6w.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+▍如何爬取網站內容，生成 GPTs 知識庫
+
+3 天前在臉書上簡單分享如何生成 GPTs 知識庫，沒想到迴響熱烈，也把教學整理到這邊。
+
+其實核心就 2 個點：
+
+1. 找到所有含有內容的網址
+2. 用 CSS 選擇器定位內容所在位置
+
+只要找到這兩個，我的工具就能幫忙把所有網址合成一個 markdown 語法的知識庫。 
+
+![](https://pbs.twimg.com/media/F-8evXGacAACCTi.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724631810494320645)
+** 📌
+#+BEGIN_QUOTE
+▎1. 首先，透過 sitemap 找到所有頁面
+
+要找到所有網頁最簡單的方式就是透過 sitemap，如果網頁是 CMS 平台像是 WordPress 或是別人的內容平台，基本上都會由對應的 sitemap。
+
+只要在該網域後綴輸入 sitemap.xml 就能找到，然後點擊右鍵 > 儲存為，就能儲存一個帶有該網域網址的 xml 檔。
+
+p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<video controls><source src="https://video.twimg.com/ext_tw_video/1724631878500827136/pu/vid/avc1/586x360/cv8Jgs_1kVbiKBLE.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1724631878500827136/pu/vid/avc1/1174x720/XF_qzT0zUvw-seR5.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1724631878500827136/pu/vid/avc1/440x270/45E4R4nxtbnx9VH6.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1724631878500827136/pu/pl/TIYCO7wEV0T8hDl4.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724632004870983836)
+** 📌
+#+BEGIN_QUOTE
+那就推薦用另一種方法，使用 SEO 工具 Screaming Frog。
+
+（該工具適用那些網頁少於 500 頁的網站）
+
+這是一款用來爬取自己頁面及競爭對手頁面的工具，先把工具下載下來。
+
+下載連結：https://t.co/hqNFA9IQMX
+
+點擊 Download 然後下載對應電腦版本的” 尖叫蛙”。
+
+打開軟體後，在該位置輸入頁面首頁，尖叫蛙就會開始爬取整個網站。<img src='https://pbs.twimg.com/media/F-8f1gEaAAAQU6t.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724632234953711861)
+** 📌
+#+BEGIN_QUOTE
+☆ 免費版每次有 500 個 URL 的限額
+
+所以該方法僅供網站內容沒有超過 500 頁的話可以用該方法。 
+
+![](https://pbs.twimg.com/media/F-8gDLkboAA_HQX.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724632430492127330)
+** 📌
+#+BEGIN_QUOTE
+可以無限次使用，免費版限制的是『每次爬取的 URL 上限』，所以一開始可以先把網站首頁輸入嘗試。
+
+右下角查看爬取上限，有些資源頁面也會被算作一頁喔要留意。 
+
+![](https://pbs.twimg.com/media/F-8gHtMaIAA0hrZ.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724632658846912616)
+** 📌
+#+BEGIN_QUOTE
+匯出 URL。
+
+點擊 Page Titles 頁籤，然後按 Export 可以匯出這些頁面及連結。
+
+（也可以直接選擇所有網址，複製貼到新的 txt 檔） 
+
+![](https://pbs.twimg.com/media/F-8gVcYboAATJsJ.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724632893597905329)
+** 📌
+#+BEGIN_QUOTE
+▎2. 觀察網址結構長怎樣
+
+這步很重要，需要搭配 ChatGPT 的 Data Analysis 來處理。
+
+我們剛爬取的網址或下載的 Sitemap 可能會非常亂，包含分類頁、about us、頻道頁等不含內容的頁面，所以需要先篩選。
+
+如果不事先處理後面再提取時效率就會非常低下。
+
+選擇 GPTs 的 Data Analysis，然後點擊迴紋針上傳 Sitemap 或 Scream Frog 匯出的網址。<img src='https://pbs.twimg.com/media/F-8gqmuaEAA5ZCa.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724633114805461083)
+** 📌
+#+BEGIN_QUOTE
+我找到一個重要的規則是，我要的內容主要都會在 /doc/ 路徑下，然後因為要的是繁體中文，所以要篩出『?hl=zh-tw』。
+
+（這個規則僅限我的目標頁面，大家需要根據自己的尋求調整。）
+
+請它處理特定路徑或是參數的網址，我這邊用的 prompt 是：
+
+『能否幫我處理規定的 Sitemap.xml，只提取 /docs/ 路徑的網址，並且要包含『?hl=zh-tw』這個參數的網址，最後整理成 txt 檔案供我下載，每行一個 URL。』
+
+瞬間我們要的網址就處理好了。<img src='https://pbs.twimg.com/media/F-8gx0HbIAAQwlv.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724633238919139541)
+** 📌
+#+BEGIN_QUOTE
+▎3. 找到主要內容上的 CSS 選擇器
+
+CSS 選擇器聽起來很專業，用途就是讓我們可以定位網頁的『主要內容』在哪裡。
+
+☆ 需要確保每個主要內容的 CSS 選擇器都是相同的，否則會抓不到主要內容。 <video controls><source src="https://video.twimg.com/ext_tw_video/1724633328064802816/pu/vid/avc1/480x270/1CH32ox8-UFNfWvL.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1724633328064802816/pu/pl/vi5ejBKSugOcmORK.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1724633328064802816/pu/vid/avc1/1280x720/yajudMPxjIh0tlFj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1724633328064802816/pu/vid/avc1/640x360/MevKp5Fp_TejpIb2.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724633500136186091)
+** 📌
+#+BEGIN_QUOTE
+▎4. 轉換並下載知識庫
+
+將含有網址的 txt 檔上傳並輸入 CSS 選擇器，我用 streamlit 幫大家寫了一個線上程式，只要把網址整理好上傳，就能幫你轉換成 markdown 語法的 txt 檔案。
+
+（txt 檔中只能有 URL 並且每行一條網址）
+
+工具：https://t.co/YuVFbzhfjQ
+
+按照剛剛教學的方式複製 CSS… 
+
+![](https://pbs.twimg.com/media/F-8hMx3akAAYTiY.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724633697293664582)
+** 📌
+#+BEGIN_QUOTE
+然後程式會幫你解析網頁內容並產生知識庫，而且會將可能錯誤的網址，以及網頁中沒有帶有該 CSS 選擇器的頁面篩選出來讓你知道。
+
+至此按下下載就能擁有自己的知識庫了。
+
+但是還是要溫馨提醒：
+
+\- 部分網頁可能不適用該方法，例如頁面需要 JS 渲染，或是每一頁主要內容的 CSS 選擇器不同，都可能導致尖叫蛙爬取失敗，或是工具轉換失敗。
+- 網頁如果沒有 Sitemap、頁面數量龐大、或是網址沒有固定規律可能都會在實作上有困難。
+- 達成目標可以有很多方法，過程中有很多節點讓大家可以參考並換思路執行，所以不必拘泥一定要用我的方法，能達成目標就是好方法。<img src='https://pbs.twimg.com/media/F-8hTiTaQAAVQ2m.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-15]]
+*** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
+*** [View Tweet](https://twitter.com/circleghost0723/status/1724633954953957638)

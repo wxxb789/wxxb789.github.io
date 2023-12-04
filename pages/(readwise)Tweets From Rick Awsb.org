@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: (readwise)Tweets From Rick Awsb
+:END:
+
+:PROPERTIES:
+:author: [[rickawsb on Twitter]]
+:full-title: "Tweets From Rick Awsb"
+:category: [[tweets]]
+:url: https://twitter.com/rickawsb
+:image-url: https://pbs.twimg.com/profile_images/1577139853585973248/VFH3Pxe3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+GPT-4 发布了半天，推上已经有了无数用例，性能远超GPT-3，而GPT-5传言年底发布，人类未来肯定赶不上机器的步伐
+当然，我们还是可以尽量了解如何充分使用这个大杀器，以便在AI这只大老虎追来的时候，我们能跑得比其他人快。
+
+我会持续在本推下更新，建议收藏🔖
+👇
+
+图：gpt4和gpt3的各种考试得分对比 
+
+![](https://pbs.twimg.com/media/FrO8QEWaAAAXEFe.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-15]]
+*** from _Tweets From Rick Awsb_ by @rickawsb on Twitter
+*** [View Tweet](https://twitter.com/rickawsb/status/1635858380161163264)

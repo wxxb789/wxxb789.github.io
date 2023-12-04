@@ -1,0 +1,79 @@
+:PROPERTIES:
+:title: (readwise)OpenSourcing  LangChain...
+:END:
+
+:PROPERTIES:
+:author: [[BezdekJuraj on Twitter]]
+:full-title: "OpenSourcing  LangChain..."
+:category: [[tweets]]
+:url: https://twitter.com/BezdekJuraj/status/1667774691904307201
+:image-url: https://pbs.twimg.com/profile_images/1544737233407819779/ls9hyXlm.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+OpenSourcing  LangChain Decorators✨
+the syntactic sugar 🍭 for @LangChainAI 
+
+\- turn any python function into LLMChain with a  decorator
+
+- docstrings as prompt template, 
+  (don't break your code indentation)
+
+- auto output parsing based on return type
+
+https://t.co/PYFFNeioj2 
+
+![](https://pbs.twimg.com/media/FyUbnPWXwAAmAcz.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-11]]
+*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
+*** [View Tweet](https://twitter.com/BezdekJuraj/status/1667774691904307201)
+** 📌
+#+BEGIN_QUOTE
+Main principles and benefits:
+
+\- pythonic way of writing code
+
+- make use of IDE in-built support for hinting, type checking etc
+
+- leverage the power🦜🔗 LangChain ecosystem
+
+- optional parameters 
+
+- conditional rendering of prompt parts 
+
+![](https://pbs.twimg.com/media/FyUf0aOXgAEQTOV.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-11]]
+*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
+*** [View Tweet](https://twitter.com/BezdekJuraj/status/1667774694496391169)
+** 📌
+#+BEGIN_QUOTE
+Support for 
+
+\- async (just declare prompt as an async function)
+
+- chat message templates
+
+- automatic list, dict, pydantic output parsing (or use any langchain output parser)
+
+.. and more 
+
+![](https://pbs.twimg.com/media/FyUdWYkWYAEC9JB.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-11]]
+*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
+*** [View Tweet](https://twitter.com/BezdekJuraj/status/1667774696429846528)
+** 📌
+#+BEGIN_QUOTE
+You can also bind the functions to a class and reference the object fields/properties inside the template
+
+Very useful when creating complex chains like agents 
+
+![](https://pbs.twimg.com/media/FyUedc_WAAMaXRT.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-11]]
+*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
+*** [View Tweet](https://twitter.com/BezdekJuraj/status/1667774699160367104)

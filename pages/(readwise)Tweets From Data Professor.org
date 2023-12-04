@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: (readwise)Tweets From Data Professor
+:END:
+
+:PROPERTIES:
+:author: [[thedataprof on Twitter]]
+:full-title: "Tweets From Data Professor"
+:category: [[tweets]]
+:url: https://twitter.com/thedataprof
+:image-url: https://pbs.twimg.com/profile_images/1552158664752074753/GAX8ppM4.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Super thrilled to share that I wrote a blog on 
+How to build a simple LLM-powered app.
+
+This is the first of a multi-part 🦜🔗 Langchain tutorial series. Briefly, we'll cover how to use @OpenAI, @LangChainAI, and @streamlit 
+
+📖 Read it here https://t.co/uoSO7PmDjW
+
+#LLM https://t.co/E7oFR8N8sp 
+#+END_QUOTE
+    date:: [[2023-06-01]]
+*** from _Tweets From Data Professor_ by @thedataprof on Twitter
+*** [View Tweet](https://twitter.com/thedataprof/status/1664122886926503936)

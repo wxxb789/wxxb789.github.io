@@ -1,0 +1,122 @@
+:PROPERTIES:
+:title: (readwise)Twitter现在是社交媒体之王。 但99%的...
+:END:
+
+:PROPERTIES:
+:author: [[xiaoying_eth on Twitter]]
+:full-title: "Twitter现在是社交媒体之王。 但99%的..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaoying_eth/status/1726435509210333277
+:image-url: https://pbs.twimg.com/profile_images/1668476737389494272/5kE7iqyp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Twitter现在是社交媒体之王。
+
+但99%的人还不了解它的"高级搜索"功能。
+
+10个Twitter高级搜索技巧，让你成为高手！（附例子） 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435509210333277)
+** 📌
+#+BEGIN_QUOTE
+1. 找到某人的最受欢迎的推文。
+
+from:hasantoxr min_faves:1000 <video controls><source src="https://video.twimg.com/ext_tw_video/1726435444693647360/pu/vid/avc1/456x270/PZOCJ2cqAymZx7ih.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435444693647360/pu/pl/Nl-_9jkAQN5QZY2-.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435444693647360/pu/vid/avc1/1220x720/0z21XFXSMixGW_mW.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435444693647360/pu/vid/avc1/610x360/_02xdaXg1sdLw3pE.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435510703534333)
+** 📌
+#+BEGIN_QUOTE
+2. 找到回复最多的推文。
+
+from:hasantoxr min_replies:500 <video controls><source src="https://video.twimg.com/ext_tw_video/1726435450670452736/pu/vid/avc1/1220x720/L-hdrQLJizb4JiaE.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435450670452736/pu/vid/avc1/610x360/UFOhBMK1U9Ew6Zb-.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435450670452736/pu/vid/avc1/456x270/rAQioDPd5IxqpzWt.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435450670452736/pu/pl/EIlNN9Sz0LWeh26H.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435513174020400)
+** 📌
+#+BEGIN_QUOTE
+3. 搜索精确短语。
+
+你可以使用引号。
+
+"CHATGPT GUIDE" <video controls><source src="https://video.twimg.com/ext_tw_video/1726435454910914560/pu/vid/avc1/456x270/nRkwJVj4I7jUND6A.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435454910914560/pu/vid/avc1/610x360/7eJzOaii2y7dJjTb.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435454910914560/pu/pl/ET8lzYkAZ_z3o-lW.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435454910914560/pu/vid/avc1/1220x720/66OWSBQVgxiti3W3.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435515606659425)
+** 📌
+#+BEGIN_QUOTE
+4. 按类型过滤。
+
+可用类型：
+\- 媒体（图像或视频）
+- 原生视频
+- 图像
+- 链接
+
+AI工具过滤：图像 <video controls><source src="https://video.twimg.com/ext_tw_video/1726435459243683840/pu/vid/avc1/610x360/6Z8jqH_hLs0HCK3Y.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435459243683840/pu/vid/avc1/456x270/fz6_SBr2rmlDAVYt.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435459243683840/pu/vid/avc1/1220x720/_56fUVEKdpEilKSs.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435459243683840/pu/pl/fffkhQyHToAgpLOZ.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435518060351494)
+** 📌
+#+BEGIN_QUOTE
+5. "-"操作符将排除包含某个术语的结果。
+
+javascript -css <video controls><source src="https://video.twimg.com/ext_tw_video/1726435463047860224/pu/pl/mQmB_Bnw75P-kVLs.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435463047860224/pu/vid/avc1/1208x720/rw25Zr8GaytivjUF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435463047860224/pu/vid/avc1/452x270/pHKzoSwgwjoeFhQh.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435463047860224/pu/vid/avc1/604x360/lCsJ1fn0ZcI8yKx5.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435520639909993)
+** 📌
+#+BEGIN_QUOTE
+6. 使用`until`操作符只返回给定日期（年-月-日）之前的结果。
+
+GPT-4 until:2023-05-01 <video controls><source src="https://video.twimg.com/ext_tw_video/1726435466730496000/pu/pl/MKoOzh5IMfD68taa.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435466730496000/pu/vid/avc1/452x270/7p2NULjsA3TeUpzP.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435466730496000/pu/vid/avc1/604x360/SD6wmhDb7Logj5dk.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435466730496000/pu/vid/avc1/1208x720/52qBsSc6oqX5-esY.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435523244478917)
+** 📌
+#+BEGIN_QUOTE
+7. 使用`since`操作符只返回给定日期（年-月-日）之后的结果。
+
+ChatGPT since:2023-04-01 <video controls><source src="https://video.twimg.com/ext_tw_video/1726435472241840128/pu/vid/avc1/1208x720/QP0D3OeT63p2hL3v.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435472241840128/pu/pl/JNqwCE9A5Dkj_6FT.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435472241840128/pu/vid/avc1/604x360/c26bB98PuqEjW9cY.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435472241840128/pu/vid/avc1/452x270/v0JXUlUztXEnzr3S.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435525597503498)
+** 📌
+#+BEGIN_QUOTE
+8. 找到发给特定人的推文。
+
+from:ihteshamit to:hasantoxr <video controls><source src="https://video.twimg.com/ext_tw_video/1726435477052628992/pu/vid/avc1/1208x720/KrW8eqElvPzCWSMf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435477052628992/pu/vid/avc1/452x270/DBcTTN9F_3mgBI4w.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435477052628992/pu/pl/iQppQLUw7tO1-ntw.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435477052628992/pu/vid/avc1/604x360/fH4HEZBADr-JV7zW.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435527866687576)
+** 📌
+#+BEGIN_QUOTE
+9. 按语言搜索。
+
+ChatGPT lang:es <video controls><source src="https://video.twimg.com/ext_tw_video/1726435481171496960/pu/vid/avc1/1208x720/ySZGk6TdUM_NQxpN.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435481171496960/pu/vid/avc1/604x360/M3UsS1G4n9D86udt.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435481171496960/pu/pl/kjfjPZ6W7As5MYVP.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435481171496960/pu/vid/avc1/452x270/vgUu2dqVDlj_HhhN.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435530345427064)
+** 📌
+#+BEGIN_QUOTE
+10. 使用`near`和`within`操作符根据位置发现推文。
+
+near:melbourne within:10mi <video controls><source src="https://video.twimg.com/ext_tw_video/1726435485151821824/pu/vid/avc1/452x270/m_GbeMA93ryKljD9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435485151821824/pu/pl/-NJPUEc2uAPFIGT-.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726435485151821824/pu/vid/avc1/1208x720/Fuf7NpVm0LjR81Z8.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726435485151821824/pu/vid/avc1/604x360/CMojR3jXfpInzBEO.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-20]]
+*** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
+*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435532572614750)

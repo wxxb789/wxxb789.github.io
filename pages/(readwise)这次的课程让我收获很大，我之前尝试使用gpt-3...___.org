@@ -1,0 +1,213 @@
+:PROPERTIES:
+:title: (readwise)这次的课程让我收获很大，我之前尝试使用gpt-3...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "这次的课程让我收获很大，我之前尝试使用gpt-3..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1665476562219573249
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+这次的课程让我收获很大，我之前尝试使用GPT-3.5帮我翻译字幕，但是数组索引老是对应不上，也无法给我返回JSON格式，我按照这个课程的内容，借助CoT的思路把Prompt拆分成几个Steps后，神奇在GPT-3.5中得到了我想要的结果。
+
+解释一下我的Prompt：… 
+
+![](https://pbs.twimg.com/media/Fxz1EIiX0AAhjHT.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665476562219573249)
+** 📌
+#+BEGIN_QUOTE
+这次的课程让我收获很大，我之前尝试使用GPT-3.5帮我翻译字幕，但是数组索引老是对应不上，也无法给我返回JSON格式，我按照这个课程的内容，借助CoT的思路把Prompt拆分成几个Steps后，神奇在GPT-3.5中得到了我想要的结果。
+
+解释一下我的Prompt：
+首先我给GPT传入的字幕文本数组，然后我让GPT在翻译的时候分成三步：
+\- 第一步： 将数组的字符串合并成一个段落，一起翻译成中文
+- 第二步： 再将翻译好的段落拆分成数组，和输入的数组一一匹配
+- 第三步 检查返回的数组长度是不是和输入的数组长度相等，如果不相等返回第二步重试
+
+------
+You are a program responsible for translating subtitles. Your task is to translate the subtitles into 简体中文, maintaining a colloquial tone and style, avoiding long sentences, and ignoring verbal tics such as 'so', 'you know', etc.
+The input will be a JSON-formatted string array, which should be translated in accordance with the following steps:
+Step1: Join the string array to a sentence, then translate it to 简体中文;
+Step2: Split the translated sentence to a string array, each item of which should correspond to an item in the original input array.
+Step3: Verify if the count of items in the output array equals that of the input array. If it doesn't, go back to Step 2 and try again.
+  
+Respond with a JSON-formatted string array:
+------ 
+#+END_QUOTE
+    date:: [[2023-07-24]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665476562219573249)
+** 📌
+#+BEGIN_QUOTE
+注意，即使这个Prompt已经好了很多，但是依然会有出错的情况，所以这里要借鉴吴老师这堂课“使用ChatGPT API构建系统8——评估（上）”思路，把Tricky的案例都收集起来，然后持续的优化你的Prompt
+
+https://t.co/8JR8azi0Nh 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665478399723225090)
+** 📌
+#+BEGIN_QUOTE
+当你收集了不少有问题的案例，但是通过优化Prompt之后，还是有一些怎么也得不到理想的结果，这时候不妨按照Isa老师在这堂课“使用ChatGPT API构建系统——输入处理： 链式提示”里面教的：… 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665481615668047873)
+** 📌
+#+BEGIN_QUOTE
+当你收集了不少有问题的案例，但是通过优化Prompt之后，还是有一些怎么也得不到理想的结果，这时候不妨按照Isa老师在这堂课“使用ChatGPT API构建系统——输入处理： 链式提示”里面教的：
+
+不要把你的所有工作都放在一个复杂的Prompt，而是把整个任务拆分成一个工作流，记录一些中间状态，借助外部程序来帮助你实现。
+
+所以像字幕翻译这样复杂的任务，也不能指望靠一个Prompt就搞定了，需要一个工作流：
+
+1. 先半人工半自动化的对字幕的时间轴进行调整，尽可能让一段话在一个自然段落，这样可以有效避免返回结果和输入的字幕不匹配的情况。
+
+2. 无法一次性将所有字幕文件交给GPT，要先对字幕进行拆分，并且在拆分字幕时，尽可能给GPT翻译提供完整的上下文，而不要在中间位置中断。（比如你可以根据标点符号的位置，至少保证是在句号的位置才分割）
+
+3. 返回翻译结果后，不要直接和原始输入数组合并，而是要程序检查长度是不是匹配，有问题的可以重试，重试也不行可能需要人工介入。（也许可以再让GPT对翻译的结果重新匹配一下）
+
+https://t.co/a33UEQ5FvF 
+#+END_QUOTE
+    date:: [[2023-07-24]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665481615668047873)
+** 📌
+#+BEGIN_QUOTE
+https://t.co/t6GGM34xu2 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665485415170682886)
+** 📌
+#+BEGIN_QUOTE
+给你们演示一下用不用Prompt对Whisper识别结果的差别，第一张图就是没有任何Prompt的结果，一句话会被拆的很碎，但是如果加上Prompt，在Prompt里面打个样什么时候该换行，生成的结果会好很多，尽可能把一句话连在一起。… 
+
+![](https://pbs.twimg.com/media/Fx0Mu8PXoAAWtIq.jpg) 
+
+![](https://pbs.twimg.com/media/Fx0N2XeWcAAaVw6.png) 
+
+![](https://pbs.twimg.com/media/Fx0OURpXoAE81c2.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665504183972143105)
+** 📌
+#+BEGIN_QUOTE
+给你们演示一下用不用Prompt对Whisper识别结果的差别，第一张图就是没有任何Prompt的结果，一句话会被拆的很碎，但是如果加上Prompt，在Prompt里面打个样什么时候该换行，生成的结果会好很多，尽可能把一句话连在一起。
+
+这样翻译的时候就容易多了，不至于中文字幕和英文字母因为语序的原因很难对应上。
+
+但Whisper的Prompt有点玄学，有时候也不灵！欢迎分享你的经验。
+
+BTW：@tinyfool 老师的TinyStudio挺好用的，我最近都是用它来识别字幕，推荐一下！
+
+\------
+Whisper, as you transcribe speech into text, please ensure to include punctuation marks as accurately as possible.
+
+Additionally, when creating the timeline for the subtitles, try to split at the punctuation marks to ensure that sentences are not divided across different time segments.
+
+The goal is to have each sentence contained within a single time segment for clarity and coherence.
+------ 
+#+END_QUOTE
+    date:: [[2023-07-24]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665504183972143105)
+** 📌
+#+BEGIN_QUOTE
+Whisper生成的字幕，在翻译前最好校对一下，比如明显的识别错误，比如调整下时间轴，让字幕的分割更加自然。
+
+可以用字幕编辑工具把一些字幕合并，或者重新分割。… 
+
+![](https://pbs.twimg.com/media/Fx0bLiZWwAMQu8E.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665518550872731648)
+** 📌
+#+BEGIN_QUOTE
+Whisper生成的字幕，在翻译前最好校对一下，比如明显的识别错误，比如调整下时间轴，让字幕的分割更加自然。
+
+可以用字幕编辑工具把一些字幕合并，或者重新分割。
+
+happyscribe这个免费工具非常好用：把光标放在要分割的位置回车就可以对字幕分割，点击两条字幕之间的按钮就可以合并，并且可以和视频一起预览字幕。
+
+就像Isa课程中说的工作流，这一步不要省，不然后面你翻译的时候就会影响翻译质量，需要很多额外的校对和调整工作。
+
+https://t.co/y2Ky0tQEzH 
+#+END_QUOTE
+    date:: [[2023-07-24]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665518550872731648)
+** 📌
+#+BEGIN_QUOTE
+做双语字幕，尽量不要用SRT格式，SRT格式简单，但是中文和英文在一起很占空间。理想效果就是中文大，英文小。但SRT是不支持的，需要用ASS格式，可以加字体、加颜色、加背景、单独改字体大小。
+
+ASS还有个好处就是ffmpeg就可以生成，不需要剪映
+
+https://t.co/jXCbJgea6K 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665540290944311298)
+** 📌
+#+BEGIN_QUOTE
+左边就是SRT+剪映生成的字幕效果
+右边则是ASS+ffmpeg生成的效果
+
+但ASS有个问题就是中文不支持自动换行（还是说我设置不对？），需要手动加上 \N 来实现换行。 
+
+![](https://pbs.twimg.com/media/Fx0yVAvWcAE2fyc.jpg) 
+
+![](https://pbs.twimg.com/media/Fx0yZcfXoAMPgpa.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665543140642529280)
+** 📌
+#+BEGIN_QUOTE
+如果要批量翻译字幕，那么用ChatGPT手动复制粘贴就很慢，最好是用GPT的API。
+
+整个逻辑是：
+
+1. 解析SRT成数组（一条字幕一个记录）
+
+2. 将大数组拆成10-15条的小数组… 
+
+![](https://pbs.twimg.com/media/Fx02DqaWYAI58AN.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665546989625389057)
+** 📌
+#+BEGIN_QUOTE
+如果要批量翻译字幕，那么用ChatGPT手动复制粘贴就很慢，最好是用GPT的API。
+
+整个逻辑是：
+
+1. 解析SRT成数组（一条字幕一个记录）
+
+2. 将大数组拆成10-15条的小数组 ，超过15条后GPT返回的JSON结果出错概率大幅上升，并且拆分的时候尽可能让一句完整的话在一个数组里面。否则会导致上下文丢失影响翻译结果。可以按照标点符号去判断是不是该结束了。
+
+3. 分块好了，可以多线程一起去调用API翻译，Prompt参考第一条，但是现在OpenAI的API，超过4个线程就很容易超时。
+
+4. 翻译后拿到JSON数组后，将传入的数组和返回的结果要对比一下看是不是长度一致，不一致需要重新请求，或者手工调整一下，或者其他处理。
+
+5. 每次翻译后的结果可以保存到一个中间文件（参考图1），这样万一中断了下次还可以继续
+
+6. 全部翻译完后，可以将中间文件结果导出成srt或者ass字幕文件格式，如果是ass，需要实现准备一个字幕文件模板。
+
+一些代码逻辑可以参考：
+https://t.co/h2ROTQ2pmL 
+#+END_QUOTE
+    date:: [[2023-07-24]]
+*** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1665546989625389057)

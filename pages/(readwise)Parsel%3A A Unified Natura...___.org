@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: (readwise)Parsel: A Unified Natura...
+:END:
+
+:PROPERTIES:
+:author: [[papers_daily on Twitter]]
+:full-title: "Parsel: A Unified Natura..."
+:category: [[tweets]]
+:url: https://twitter.com/papers_daily/status/1606507691077165057
+:image-url: https://pbs.twimg.com/profile_images/1397117048631664647/TdwSD7_s.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
+
+https://t.co/QMsGYdYUq8
+
+Parsel is a framework enabling automatic implementation and validation of complex algorithms with code LLMs. Parsel can...
+
+🧵 👇 
+
+![](https://pbs.twimg.com/media/Fkt2OnWX0AIESgN.jpg) 
+
+![](https://pbs.twimg.com/media/Fkt2Os0XgAA_wh4.jpg) 
+
+![](https://pbs.twimg.com/media/Fkt2OxpXoAcbWkw.jpg) 
+
+![](https://pbs.twimg.com/media/Fkt2O2JXwAEcKKM.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
+*** [View Tweet](https://twitter.com/papers_daily/status/1606507691077165057)
+** 📌
+#+BEGIN_QUOTE
+(2/4) .. be used across domains requiring hierarchical reasoning, e.g. code synthesis, theorem proving, and robotic planning. 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
+*** [View Tweet](https://twitter.com/papers_daily/status/1606507692239069184)
+** 📌
+#+BEGIN_QUOTE
+(3/4) Tweet from an author 👇 https://t.co/3DzSdP1knx 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
+*** [View Tweet](https://twitter.com/papers_daily/status/1606507693056950273)
+** 📌
+#+BEGIN_QUOTE
+(4/4) 👉 Follow @papers_daily for daily trending AI research paper updates 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
+*** [View Tweet](https://twitter.com/papers_daily/status/1606507693811826688)

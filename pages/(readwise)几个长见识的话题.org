@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: (readwise)几个长见识的话题
+:END:
+
+:PROPERTIES:
+:author: [[physixfan]]
+:full-title: "几个长见识的话题"
+:category: [[articles]]
+:url: https://www.physixfan.com/jigezhangjianshidehuati/
+:image-url: https://www.physixfan.com/wp-content/themes/traction/images/favicon.ico
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+同时给多家公司全职工作！这个行为叫做 OverEmployed (OE)。美卡论坛中的相关帖子如下：
+
+•   [一个码农同时做5份工作，年入 $1.2M，每天还有4小时的游戏时间](https://www.uscardforum.com/t/topic/93259)
+•   [最近消失了一段时间，现在给大家汇报一下目前OverEmployed(OE)的情况和进展](https://www.uscardforum.com/t/topic/98660) 
+#+END_QUOTE
+    date:: [[2023-01-24]]
+*** from _几个长见识的话题_ by physixfan
+*** [View Highlight](https://read.readwise.io/read/01gqfwvf1gwacn06k747rtnwyb)

@@ -1,0 +1,78 @@
+:PROPERTIES:
+:title: (readwise)预言机攻击教程：如何使用1 Eth兑换17万亿稳...
+:END:
+
+:PROPERTIES:
+:author: [[0xAA_Science on Twitter]]
+:full-title: "预言机攻击教程：如何使用1 Eth兑换17万亿稳..."
+:category: [[tweets]]
+:url: https://twitter.com/0xAA_Science/status/1608034787968847872
+:image-url: https://pbs.twimg.com/profile_images/1463080286665666564/ubE1IWCT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+预言机攻击教程：如何使用1 ETH兑换17万亿稳定币，并成为世界首富（并没有）。
+
+WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著的预言机攻击，写了一个有漏洞的稳定币合约，并攻击了它: https://t.co/6Emo8xB9mi
+
+在这个thread中，我简单介绍预言机攻击 🧵
+#web3 #SOLIDITY 
+#+END_QUOTE
+    date:: [[2022-12-28]]
+*** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
+*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034787968847872)
+** 📌
+#+BEGIN_QUOTE
+1/
+出于安全性的考虑，以太坊虚拟机（EVM）是一个封闭孤立的沙盒。在EVM上运行的智能合约可以接触链上信息，但无法主动和外界沟通获取链下信息。
+
+预言机（oracle）可以帮助我们解决这个问题，它从链下数据源获得信息，并将其添加到链上，供智能合约使用。 
+#+END_QUOTE
+    date:: [[2022-12-28]]
+*** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
+*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034791378817026)
+** 📌
+#+BEGIN_QUOTE
+2/
+如果预言机没被正确使用，会有安全隐患。近期攻击案例：
+\- 2021年10月，BNB链上的DeFi平台Cream Finance因为被盗用户资金 $1.3亿
+- 2022年5月，Terra链上的合成资产平台Mirror Protocol被盗用户资金 $1.15亿。
+- 2022年10月，Solana链上的去中心化借贷平台Mango Market被盗用户资金 $1.15亿。 
+#+END_QUOTE
+    date:: [[2022-12-28]]
+*** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
+*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034794449039362)
+** 📌
+#+BEGIN_QUOTE
+3/
+教程示例中，有漏洞的合成稳定币oUSD合约使用了UniswapV2 WETH-BUSD的现货价格作为价格预言机，很容易被操纵。
+我们成功的操纵了价格，并使用1 ETH兑换了17万亿oUSD。 
+
+![](https://pbs.twimg.com/media/FlDjISQaAAAv9Q2.png) 
+#+END_QUOTE
+    date:: [[2022-12-28]]
+*** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
+*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034806599909376)
+** 📌
+#+BEGIN_QUOTE
+4/
+预防方法
+1. 不要使用流动性差的池子做价格预言机。
+2. 不要使用现货/瞬时价格做价格预言机，加入价格延迟，例如时间加权平均价格。
+3. 使用去中心化的预言机。
+4. 使用多个数据源，每次选取最接近价格中位数的几个作为预言机，避免极端情况。
+5. 仔细阅读第三方价格预言机的使用文档及参数设置。 
+#+END_QUOTE
+    date:: [[2022-12-28]]
+*** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
+*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034809552711680)
+** 📌
+#+BEGIN_QUOTE
+5/
+感谢WTF贡献者 @pickletina1 @0xAWM_eth Ethan对这一讲的帮助，感谢 @samczsun 写的关于预言机攻击的博客和网站。 
+#+END_QUOTE
+    date:: [[2022-12-28]]
+*** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
+*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034811930894338)

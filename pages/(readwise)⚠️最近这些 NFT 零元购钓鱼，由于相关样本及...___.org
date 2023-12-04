@@ -1,0 +1,123 @@
+:PROPERTIES:
+:title: (readwise)⚠️最近这些 NFT 零元购钓鱼，由于相关样本及...
+:END:
+
+:PROPERTIES:
+:author: [[evilcos on Twitter]]
+:full-title: "⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..."
+:category: [[tweets]]
+:url: https://twitter.com/evilcos/status/1604067276265000960
+:image-url: https://pbs.twimg.com/profile_images/1681578030811209728/Xx1RuT6N.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+⚠️最近这些 NFT 零元购钓鱼，由于相关样本及源码比较敏感，我就不随意公布了（不是这方面的安全研究员也不必找我要）。
+
+这里我做点科普补充吧，让更多人了解下这种钓鱼的残忍...
+
+如图是钓鱼的核心代码，加花过的，解起来有点烦，但挺巧的是我们的情报库里有明文源码...大大方便我的理解。1/n 
+
+![](https://pbs.twimg.com/media/FkLKAvtVsAAorEH.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604067276265000960)
+** 📌
+#+BEGIN_QUOTE
+既然是科普，肯定不是拿代码下手了，我们先前情回顾下我要说什么，然后就直入主题。
+
+背景（14 只 BAYC、26 枚 CloneX 等蓝筹 NFT 被钓事件中，受害者一次确认即被批量钓走）：
+https://t.co/lD2MVHcsyC
+
+好，下面直入主题...2/n 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604068462933917696)
+** 📌
+#+BEGIN_QUOTE
+如图，我用的是 @Rabby_io 观察者模式做的测试（测试地址我随便找的，拥有者如果看到了，顺便警惕下你的风险敞口）。
+
+图1，是我待签名的内容，很长很长。
+图2，很明显地知道，钓鱼者要买走我 100 个优质NFT，但是才给我 $0.00...
+
+真的非常欺负人😱。可惜 MetaMask 等钱包没这样友好的提醒。 
+
+![](https://pbs.twimg.com/media/FkLMABvUoAAcmiI.jpg) 
+
+![](https://pbs.twimg.com/media/FkLMABnUcAA5O3Y.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604069990659162113)
+** 📌
+#+BEGIN_QUOTE
+继续图1，待签名内容的，很长，这里我贴其中一段：
+
+{
+    "itemType": 2,
+    "token": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "identifierOrCriteria": "9712",
+    "startAmount": "1",
+    "endAmount": "1",
+    "recipient": "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca"
+},
+
+4/n 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604073309125021696)
+** 📌
+#+BEGIN_QUOTE
+贴出来的这段是属于 consideration 的，简单说就是对买家的期望信息，这里的买家就是钓鱼者，可以看到这种期望是非常离谱的：
+
+钓鱼者只需支付几乎是 0 的价格（这里是 1 Wei，见 startAmount/endAmount）即可买走目标 NFT。
+
+recipient 是钓鱼者接收目标 NFT 的地址。
+
+5/n 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604075153625088000)
+** 📌
+#+BEGIN_QUOTE
+要知道，待签名内容里是有 100 个这样的片段，对应了 100 个优质 NFT。为什么是 100 个？钓鱼代码里就这样写的，至于根本原因，留给你思考:-)
+
+当你点击确认后，这段签名结果就被钓鱼者拿走了，然后很快，链上就出现了钓鱼者发出的 OpenSea matchOrders 交易...如这笔：
+
+https://t.co/nvrEzJy4DZ
+
+6/n 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604077135563354112)
+** 📌
+#+BEGIN_QUOTE
+到这，NFT 零元购钓鱼就科普完了。明确点信息：
+
+1. 这不是 OpenSea 的问题；
+2. 受害者访问了钓鱼网站；
+3. 钱包们的交互安全设计可以继续提升下；
+4. 这种手法通过威胁情报分析指向了朝鲜黑客:-)
+
+END.
+
+有空，要不继续学点安全知识防身？
+https://t.co/zQXOur5LQ4 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604079728972812288)
+** 📌
+#+BEGIN_QUOTE
+扩展：@Serpent 对那 14 只 BAYC 被盗的过程解析（针对性社会工程学钓鱼，这手法也是朝鲜黑客常用手法）：
+https://t.co/qZpKKFvCZ8 
+#+END_QUOTE
+    date:: [[2022-12-18]]
+*** from _⚠️最近这些 NFT 零元购钓鱼，由于相关样本及..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1604298620580159488)

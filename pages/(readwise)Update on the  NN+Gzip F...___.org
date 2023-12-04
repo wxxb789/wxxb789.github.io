@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: (readwise)Update on the  NN+Gzip F...
+:END:
+
+:PROPERTIES:
+:author: [[rasbt on Twitter]]
+:full-title: "Update on the  NN+Gzip F..."
+:category: [[tweets]]
+:url: https://twitter.com/rasbt/status/1686355862158233600
+:image-url: https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Update on the  NN+Gzip front.
+
+Added
+1) a caching mechanism, which speeds it up 25%.
+2) Parallel processing to speed it up 400% (on a MB Air).
+
+Love this method. It's a nice test case for teaching multiprocessing!
+
+Code: https://t.co/yYfZqdk1kK https://t.co/KZ81HBwaca 
+
+![](https://pbs.twimg.com/media/F2cjPB9XMAALZCB.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-02]]
+*** from _Update on the  NN+Gzip F..._ by @rasbt on Twitter
+*** [View Tweet](https://twitter.com/rasbt/status/1686355862158233600)

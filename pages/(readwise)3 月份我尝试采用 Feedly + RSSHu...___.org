@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: (readwise)3 月份我尝试采用 Feedly + RSSHu...
+:END:
+
+:PROPERTIES:
+:author: [[super_leeyom on Twitter]]
+:full-title: "3 月份我尝试采用 Feedly + RSSHu..."
+:category: [[tweets]]
+:url: https://twitter.com/super_leeyom/status/1508259092506177538
+:image-url: https://pbs.twimg.com/profile_images/1445719760159707140/28z1iUFt.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+3 月份我尝试采用 Feedly + RSSHub，回归了最原始的阅读方式，使用 RSS 订阅的方式去阅读自己关注的博客和 Newsletter，RSS 算是在充斥算法的互联网环境中重新掌握主动的最好的方式，另外我订阅的 Blog 和 Newsletter 的作者大部分都在推特上😆😏 
+
+![](https://pbs.twimg.com/media/FO5ppa4VgAIk71b.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-01]]
+*** from _3 月份我尝试采用 Feedly + RSSHu..._ by @super_leeyom on Twitter
+*** [View Tweet](https://twitter.com/super_leeyom/status/1508259092506177538)
+** 📌
+#+BEGIN_QUOTE
+我将自己订阅源的OPML文件上传到github了：https://t.co/cYmnk5cEAL，有需要的同学可以下载，然后导入到feedly或者其他的rss客户端，feedly pc端的导入链接：https://t.co/MFVkzx68iL 
+#+END_QUOTE
+    date:: [[2023-02-01]]
+*** from _3 月份我尝试采用 Feedly + RSSHu..._ by @super_leeyom on Twitter
+*** [View Tweet](https://twitter.com/super_leeyom/status/1508696062915014656)

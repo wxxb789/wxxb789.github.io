@@ -1,0 +1,72 @@
+:PROPERTIES:
+:title: (readwise)What Is Missing in the T...
+:END:
+
+:PROPERTIES:
+:author: [[WendaXu2 on Twitter]]
+:full-title: "What Is Missing in the T..."
+:category: [[tweets]]
+:url: https://twitter.com/WendaXu2/status/1661245319219396609
+:image-url: https://pbs.twimg.com/profile_images/1448188930113736708/1IFvpNyG.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+What is missing in the text generation evaluation for BERTScore, BLERUT, COMET, SEScore & SEScore2? Explanation! Can we build a metric that not only produces a well-correlated quality score but also tell you the rationales, error type, and error location? Checkout InstructScore! 
+
+![](https://pbs.twimg.com/media/Fw3sag0akAc4M32.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661245319219396609)
+** 📌
+#+BEGIN_QUOTE
+@PanLiangming @Zoeyluckyyy @markuseful @WilliamWangNLP @lileics Our preprint (https://t.co/f81k2cX3sY), code (https://t.co/Apd8hTBaJq) and Huggingface (https://t.co/X0NWck5NM9) 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661245872636825601)
+** 📌
+#+BEGIN_QUOTE
+@PanLiangming @Zoeyluckyyy @markuseful @WilliamWangNLP @lileics Our pipeline: 1) Extract implicit evaluation knowledge from GPT-4 and finetune a 7-B LLAMA model; 2) We define a set of evaluation pathologies to quantify explanation quality. Use machine feedback to train a reward model 3) Align explanation generation with human requirements. 
+
+![](https://pbs.twimg.com/media/Fw3vzLTakAARUg7.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661247515713470465)
+** 📌
+#+BEGIN_QUOTE
+@PanLiangming @Zoeyluckyyy @markuseful @WilliamWangNLP @lileics Failure modes for the generated explanation (defined by humans) 
+
+![](https://pbs.twimg.com/media/Fw3wM26aMAMacQK.png) 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661247995810320384)
+** 📌
+#+BEGIN_QUOTE
+@PanLiangming @Zoeyluckyyy @markuseful @WilliamWangNLP @lileics Our 7B InstructScore beats supervised COMET20, BLEURT20, 175B GEMBA(GPT3.5) and SEScore2, comparable performance to COMET22 at WMT22 Zh-En, without using human rating data. All scores are derived from explanation by counting major, minor errors, assigning -5 and -1 respectively. 
+
+![](https://pbs.twimg.com/media/Fw3xSeqaMAUQPnn.png) 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661249302017232897)
+** 📌
+#+BEGIN_QUOTE
+@PanLiangming @Zoeyluckyyy @markuseful @WilliamWangNLP @lileics Thanks for my wonderful collaborator (Danqing Wang, @PanLiangming , @Zoeyluckyyy ) and advisors (@markuseful , @lileics, @WilliamWangNLP) for great advise and suggestions! 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661249884635410432)
+** 📌
+#+BEGIN_QUOTE
+@PanLiangming @Zoeyluckyyy @markuseful @WilliamWangNLP @lileics I don't want to brag about InstructScore's performance. Try yourself! Three lines of code to set up and run it within five lines. https://t.co/Apd8hTBaJq 
+
+![](https://pbs.twimg.com/media/Fw337T6akAAlRUH.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-25]]
+*** from _What Is Missing in the T..._ by @WendaXu2 on Twitter
+*** [View Tweet](https://twitter.com/WendaXu2/status/1661256468438585344)

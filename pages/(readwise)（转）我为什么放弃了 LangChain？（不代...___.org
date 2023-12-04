@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: (readwise)（转）我为什么放弃了 LangChain？（不代...
+:END:
+
+:PROPERTIES:
+:author: [[GPTDAOCN on Twitter]]
+:full-title: "（转）我为什么放弃了 LangChain？（不代..."
+:category: [[tweets]]
+:url: https://twitter.com/GPTDAOCN/status/1683160710308843520
+:image-url: https://pbs.twimg.com/profile_images/1652391808465530880/JW126tAa.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+（转）我为什么放弃了 LangChain？（不代表本GPTDAO观点）
+
+如果你关注了过去几个月中人工智能的爆炸式发展，那你大概率听说过 LangChain。
+
+简单来说，LangChain 是一个 Python 和 JavaScript 库，由 Harrison Chase 开发，用于连接 OpenAI 的 GPT API（后续已扩展到更多模型）以生成人工智能文本。
+
+更具体地说，它是论文《ReAct: Synergizing Reasoning and Acting in Language Models》的实现：该论文展示了一种提示技术，允许模型「推理」（通过思维链）和「行动」（通过能够使用预定义工具集中的工具，例如能够搜索互联网）。
+
+事实证明，这种组合能够大幅提高输出文本的质量，并使大型语言模型具备正确解决问题的能力。2023 年 3 月，ChatGPT 的 API 因升级降价大受欢迎，LangChain 的使用也随之爆炸式增长。这之后，LangChain 在没有任何收入也没有任何明显的创收计划的情况下，获得了 1000 万美元的种子轮融资和 2000-2500 万美元的 A 轮融资，估值达到 2 亿美元左右。
+
+由 LangChain 推广的 ReAct 工作流在 InstructGPT/text-davinci-003 中特别有效，但成本很高，而且对于小型项目来说并不容易使用。
+
+Max Woolf 是一位 BuzzFeed 的数据科学家。他也使用过 LangChain，这次经历总体来说不太好。让我们看看他经历了什么。「是只有我不会用吗？」在 BuzzFeed 工作时，我有一个任务是为 Tasty 品牌创建一个基于 ChatGPT 的聊天机器人（后来在 Tasty iOS 应用中发布为 Botatouille），可以与用户聊天并提供相关食谱。具体来说，源菜谱将被转换为嵌入式菜谱并保存在一个向量存储中：例如如果用户询问「健康食品」，查询会被转换为嵌入式菜谱，然后执行近似最近邻搜索以找到与嵌入式查询相似的菜谱，然后将其作为附加上下文提供给 ChatGPT，再由 ChatGPT 显示给用户。这种方法通常被称为检索增强生成。
+
+经过一周的研究，我一无所获。运行 LangChain 的 demo 示例确实可以工作，但是任何调整它们以适应食谱聊天机器人约束的尝试都会失败。在解决了这些 bug 之后，聊天对话的整体质量很差，而且毫无趣味。经过紧张的调试之后，我没有找到任何解决方案。
+
+总而言之，我遇到了生存危机：当很多其他 ML 工程师都能搞懂 LangChain 时，我却搞不懂，难道我是一个毫无价值的机器学习工程师吗？我用回了低级别的 ReAct 流程，它立即在对话质量和准确性上超过了我的 LangChain 实现。
+
+浪费了一个月的时间来学习和测试 LangChain，我的这种生存危机在看到 Hacker News 关于有人用 100 行代码重现 LangChain 的帖子后得到了缓解，大部分评论都在发泄对 LangChain 的不满：
+
+LangChain 的问题在于它让简单的事情变得相对复杂，而这种不必要的复杂性造成了一种「部落主义」，损害了整个新兴的人工智能生态系统。所以，如果你是一个只想学习如何使用 ChatGPT 的新手，绝对不要从 LangChain 开始。 
+#+END_QUOTE
+    date:: [[2023-07-24]]
+*** from _（转）我为什么放弃了 LangChain？（不代..._ by @GPTDAOCN on Twitter
+*** [View Tweet](https://twitter.com/GPTDAOCN/status/1683160710308843520)

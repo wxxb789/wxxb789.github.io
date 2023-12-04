@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: (readwise)Tweets from 紐村遁一子
+:END:
+
+:PROPERTIES:
+:author: [[jesselaunz on Twitter]]
+:full-title: "Tweets from 紐村遁一子"
+:category: [[tweets]]
+:url: https://twitter.com/jesselaunz
+:image-url: https://pbs.twimg.com/profile_images/1608599639674224641/GW8MrGWA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+这个AI学习导师prompt真不错。我fork了，可以引申到其他方面
+
+下面在GPT-4里测试
+
+https://t.co/jCbXKCwK5l
+
+拷贝json文件即可开启学习之旅 https://t.co/akdWpoLD26 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Tweets from 紐村遁一子_ by @jesselaunz on Twitter
+*** [View Tweet](https://twitter.com/jesselaunz/status/1661143434693074944)
+** 📌
+#+BEGIN_QUOTE
+boll是个伟大的指标，几十年前想出来用方差来统计波动性，真是了不起。
+
+我opensource过一个计算boll角度的指标，用于入场指示挺好。（图一）
+
+https://www .tradingview.com/script/qrIjY4WL/
+
+boll有波动和趋势两种特性，完全可以只用这个指标来设计交易系统。… 
+
+![](https://pbs.twimg.com/media/FuyaYOqaUAEuu1S.png) 
+
+![](https://pbs.twimg.com/media/FuyaZb1aIAEeIDO.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Tweets from 紐村遁一子_ by @jesselaunz on Twitter
+*** [View Tweet](https://twitter.com/jesselaunz/status/1651868648804585477)

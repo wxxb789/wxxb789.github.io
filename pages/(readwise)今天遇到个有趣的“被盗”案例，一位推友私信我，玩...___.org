@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: (readwise)今天遇到个有趣的“被盗”案例，一位推友私信我，玩...
+:END:
+
+:PROPERTIES:
+:author: [[evilcos on Twitter]]
+:full-title: "今天遇到个有趣的“被盗”案例，一位推友私信我，玩..."
+:category: [[tweets]]
+:url: https://twitter.com/evilcos/status/1605826949850374144
+:image-url: https://pbs.twimg.com/profile_images/1681578030811209728/Xx1RuT6N.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+今天遇到个有趣的“被盗”案例，一位推友私信我，玩一个跨链桥有关的项目，刚授权完 USDC，USDC 就被莫名转走了。我一看授权给的是目标跨链桥的代理合约地址，而且其中一个关键 router 合约代码还没开源，于是各种分析，包括反编译...1/n 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _今天遇到个有趣的“被盗”案例，一位推友私信我，玩..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1605826949850374144)
+** 📌
+#+BEGIN_QUOTE
+虽然意外发现该跨链桥的一个可能风险，但链上痕迹并不能说明是这个跨链桥的坑。
+
+思来想去也没找到“被盗”的根本原因，桥似乎没问题，至少这位推友本次的遭遇并不是桥导致的。2/n 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _今天遇到个有趣的“被盗”案例，一位推友私信我，玩..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1605827852766654465)
+** 📌
+#+BEGIN_QUOTE
+经 @IM_23pds 提醒，这位推友的 USDC 是被转移到 Harpie 这个项目里，我才恍然大悟，因为之前我研究过这个项目(harpie[.]io)...是一个链上防火墙，它的机制可以认为是白名单机制，只要你目标资产不在白名单项目里交互，就会触发它的风控，它会抢跑目标资金到你指定的地址里。3/n 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _今天遇到个有趣的“被盗”案例，一位推友私信我，玩..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1605828703342039042)
+** 📌
+#+BEGIN_QUOTE
+我去链上验证了这位推友的地址，确实在 20 天前在 Harpie 上设置过 setupRecipientAddress。推友也终于想起来了这件事...虚惊一场，这该死的记忆，不过能理解;-)
+
+这案例很有趣，供大家参考。但相关 tx 就不直接公开了，保护推友隐私。如果你感兴趣你可以自己去研究体验下 @harpieio ...n/n 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _今天遇到个有趣的“被盗”案例，一位推友私信我，玩..._ by @evilcos on Twitter
+*** [View Tweet](https://twitter.com/evilcos/status/1605830790369013760)

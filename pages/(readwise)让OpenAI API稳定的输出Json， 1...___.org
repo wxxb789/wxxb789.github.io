@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: (readwise)让OpenAI API稳定的输出Json， 1...
+:END:
+
+:PROPERTIES:
+:author: [[sofasay on Twitter]]
+:full-title: "让OpenAI API稳定的输出Json， 1..."
+:category: [[tweets]]
+:url: https://twitter.com/sofasay/status/1684394031131037698
+:image-url: https://pbs.twimg.com/profile_images/72534312/me.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+让OpenAI API稳定的输出Json，
+1 在Prompt末尾加上"\n只输出JSON数据,不要有任何其他说明性文字"。
+2 用Function Call拦截
+3 程序中加强，直接提取{}之间的内容，可以保证99%的概率是想要的Json
+
+https://t.co/pUwOPBw6sV https://t.co/d0imPmWVNo 
+#+END_QUOTE
+    date:: [[2023-07-27]]
+*** from _让OpenAI API稳定的输出Json， 1..._ by @sofasay on Twitter
+*** [View Tweet](https://twitter.com/sofasay/status/1684394031131037698)

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: (readwise)This Is Out Now: "What E...
+:END:
+
+:PROPERTIES:
+:author: [[abhi9u on Twitter]]
+:full-title: "This Is Out Now: "What E..."
+:category: [[tweets]]
+:url: https://twitter.com/abhi9u/status/1714669373288567233
+:image-url: https://pbs.twimg.com/profile_images/1668296787696959490/NyAetxNh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+This is out now: "What Every Developer Should Know About GPU Computing" 
+https://t.co/9xQibwqEoG
+
+It took longer than anticipated but good things usually do take time. Big thanks to @msharmavikram for reviews and suggestions, his feedback added another level of depth.
+
+GPUs are a very different beast, and as an outsider you will encounter a ton of new terms and concepts you have never heard about. This article won't make you an expert because for that you need to read a whole book or take a course on this topic. However, if you wanted to learn how do GPUs work and what distinguishes them from CPUs, then this article is for you.
+
+Here's what you will learn:
+\- A high level comparison between CPU and GPU architectures
+- A deeper look at the GPU compute and memory architecture
+- How a kernel executes on the GPU
+- Dynamic resource partitioning and Occupancy
+
+I hope you enjoy it. I will try to share a summary here later. 
+#+END_QUOTE
+    date:: [[2023-10-19]]
+*** from _This Is Out Now: "What E..._ by @abhi9u on Twitter
+*** [View Tweet](https://twitter.com/abhi9u/status/1714669373288567233)
+** 📌
+#+BEGIN_QUOTE
+I know you might not be able to read the article immediately, but please RT for this to reach a wider audience. Twitter is notorious at suppressing posts with links. 
+#+END_QUOTE
+    date:: [[2023-10-19]]
+*** from _This Is Out Now: "What E..._ by @abhi9u on Twitter
+*** [View Tweet](https://twitter.com/abhi9u/status/1714707973015302226)

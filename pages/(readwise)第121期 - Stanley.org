@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: (readwise)第121期 - Stanley
+:END:
+
+:PROPERTIES:
+:author: [[Tw93]]
+:full-title: "第121期 - Stanley"
+:category: [[articles]]
+:url: https://weekly.tw93.fun/posts/121-STANLEY/
+:image-url: https://gw.alipayobjects.com/zos/k/dd/121.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+**Samantha：英语聊天机器人**  
+[https://t.me/samantha_x64_bot](https://t.me/samantha_x64_bot)  
+这款电报 AI 机器人太厉害了，学英语利器，与电影《她》中的 Samantha 聊天一样的感觉，而且她还能极低成本地作为你的口语陪练，试了试比我想象中要聪明很多，而且口语很纯正，语音[详细](https://gw.alipayobjects.com/os/k/av/RPReplay_Final1679137025.mp4)。 
+#+END_QUOTE
+    date:: [[2023-03-28]]
+*** from _第121期 - Stanley_ by Tw93
+*** [View Highlight](https://read.readwise.io/read/01gwk49vjmcq248h0mr2vx538z)
+** 📌
+#+BEGIN_QUOTE
+**推荐书籍 - 纳瓦尔宝典**  
+[https://book.douban.com/subject/35876121/](https://book.douban.com/subject/35876121/)  
+最近在看的一本书，太太太牛逼了，要是早点看到就好了。 
+#+END_QUOTE
+    date:: [[2023-03-28]]
+*** from _第121期 - Stanley_ by Tw93
+*** [View Highlight](https://read.readwise.io/read/01gwk4arvtaehd1drtmt4zra16)

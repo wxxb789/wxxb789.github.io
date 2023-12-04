@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: (readwise)最近参加了两场 Tiktok 海外广告投放公司的...
+:END:
+
+:PROPERTIES:
+:author: [[vista8 on Twitter]]
+:full-title: "最近参加了两场 Tiktok 海外广告投放公司的..."
+:category: [[tweets]]
+:url: https://twitter.com/vista8/status/1714666986356265088
+:image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+最近参加了两场 Tiktok 海外广告投放公司的访谈，关于AI工具应用有些有趣的发现：
+
+一家认为ChatGPT在小语种翻译和脚本生成上几乎不能用，比如西班牙语、葡萄牙语的翻译绝对不会用ChatGPT，因为给出的结果非常老式（上一辈用语），缺少网感。
+
+比如“这个妹子好哇塞”，ChatGPT写不出来...
+
+他们认可的AI使用场景：AI朗读字幕、AI改错别字，比如马来语多一个o少一个o很难发现。
+
+另一家反而会用ChatGPT翻译小语种，理由是市场太小，不值得招一个专业翻译。
+
+如何验证ChatGPT翻译质量呢？先用ChatGPT把中文翻译成小语种，再把小语种用谷歌翻译回中文对照。
+
+他们认为跨语言翻译和配音是个明显的痛点，甚至买了https://t.co/cvRZ6bGFdk的文本转语音服务。
+
+没有AI机器发音感，丰富的音色选择，是这类AI语音产品的致胜点。 
+#+END_QUOTE
+    date:: [[2023-10-19]]
+*** from _最近参加了两场 Tiktok 海外广告投放公司的..._ by @vista8 on Twitter
+*** [View Tweet](https://twitter.com/vista8/status/1714666986356265088)

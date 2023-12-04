@@ -1,0 +1,101 @@
+:PROPERTIES:
+:title: (readwise)10 Proven Ways to Make Y...
+:END:
+
+:PROPERTIES:
+:author: [[AndrewCMyers on Twitter]]
+:full-title: "10 Proven Ways to Make Y..."
+:category: [[tweets]]
+:url: https://twitter.com/AndrewCMyers/status/1611431230066819072
+:image-url: https://pbs.twimg.com/profile_images/1498856621539270658/Sa0TxpJk.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+10 Proven Ways to Make Your Group Project Harder:
+1. The Scapegoat.
+Designate your partner as master hacker and have them do all the work. They will burn out 3/4 of the way through the course, and you won’t be able to finish the project since only they understand it. /1 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431230066819072)
+** 📌
+#+BEGIN_QUOTE
+The Lone Wolf.
+Decide that your partner is useless and you are the master hacker. Charge off and code everything up without talking to your partner. Unless you are very lucky, you’ll make some bad assumption that forces all your code to be thrown out anyway. /2 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431232134582275)
+** 📌
+#+BEGIN_QUOTE
+The Round Robin.
+Have a different person implement each programming assignment. This may work acceptably on the first step of the project, but by the third or fourth assignment the person implementing it will have no idea what is going on. /3 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431233858289664)
+** 📌
+#+BEGIN_QUOTE
+The Schism.
+Separately implement the different pieces of the system with no discussion of how they will fit together. Ideally, don’t talk to your partner(s) until just before the assignment is due. Then there is no chance you will be able to glue the pieces together. /4 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431235770880000)
+** 📌
+#+BEGIN_QUOTE
+The Borg.
+Work super-closely, talking rather than doing actual implementation; the group slows down to the speed of one person. Ideally, everyone simultaneously edits the same files. The whole system never works and it can't be debugged because of multiple untested changes. /5 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431237503094787)
+** 📌
+#+BEGIN_QUOTE
+The Vicious Cycle. Everyone on the team feels that they are working harder than everyone else, and scales back their effort accordingly. This causes another round of mutual outrage. Eventually, everyone does no work because no one else is. As the deadline nears, switch to… /6 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431239449464832)
+** 📌
+#+BEGIN_QUOTE
+The Blitz.
+Don’t start until three days before the assignment is due. Then pull three all-nighters in a row. Lack of sleep will ensure you write broken code. With luck, you will get sick and blow some other classes too! /7 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431241269579784)
+** 📌
+#+BEGIN_QUOTE
+The Stoic.
+Don’t ask the TAs or the professor any questions when design problems come up; put off working on the project and hope the problems will magically solve themselves before the due date. /8 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431243324821504)
+** 📌
+#+BEGIN_QUOTE
+The Blank Slate.
+Don’t use any of the ideas from class. This works best if you don’t attend class at all. Why pollute your mind with course material? /9 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431245099196417)
+** 📌
+#+BEGIN_QUOTE
+The Time Machine.
+Don’t bother doing any of the programming assignments; only your final project really matters, right? Count on the extravagant mercy of the course staff and on having lots of time later on to finish the project up. Of course neither will materialize! /10 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431246801903616)
+** 📌
+#+BEGIN_QUOTE
+Bonus: The Combo
+If only one of the above techniques fails to add sufficient challenge, pick two or more and use them together. 
+#+END_QUOTE
+    date:: [[2023-01-08]]
+*** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
+*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431248622194689)

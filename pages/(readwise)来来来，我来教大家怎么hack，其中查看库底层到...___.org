@@ -1,0 +1,85 @@
+:PROPERTIES:
+:title: (readwise)来来来，我来教大家怎么hack，其中查看库底层到...
+:END:
+
+:PROPERTIES:
+:author: [[ericman65204539 on Twitter]]
+:full-title: "来来来，我来教大家怎么hack，其中查看库底层到..."
+:category: [[tweets]]
+:url: https://twitter.com/ericman65204539/status/1671145843142049792
+:image-url: https://pbs.twimg.com/profile_images/1714995787682426881/62TPlpM-.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+来来来，我来教大家怎么hack，其中查看库底层到底发了什么鸟prompt，我有个技巧教大家，要看到最后。
+step 1: Mac ocr把代码拷贝出来运行(win的用微信ocr转），因为代码ocr格式有点小问题，用chatGPT来fix格式+手工略微调整下，很快格式就对了（图 1）
+step2: 测试一下，马上结果了（图 2）
+下一条： 
+
+![](https://pbs.twimg.com/media/FzEVARtacAMhYxD.jpg) 
+
+![](https://pbs.twimg.com/media/FzEVQTkagAUjceD.png) 
+#+END_QUOTE
+    date:: [[2023-06-20]]
+*** from _来来来，我来教大家怎么hack，其中查看库底层到..._ by @ericman65204539 on Twitter
+*** [View Tweet](https://twitter.com/ericman65204539/status/1671145843142049792)
+** 📌
+#+BEGIN_QUOTE
+那是怎么实现的？
+1. 先打印一下chatGPT的返回值(图 1）
+2. 看返回值，chatGPT告诉你应该调用哪个函数，传递的参数是什么（图 2）
+所以这个分类的实现远离就很简单了：1. 用户：chatGPT，我有一个函数，并且参数是一个对象，有固定几个值，我给你一个字符串，你帮我看看应该传什么参数好？ 
+\->下一条 
+
+![](https://pbs.twimg.com/media/FzEXVISaAAQGcz5.jpg) 
+
+![](https://pbs.twimg.com/media/FzEZ67eaEAMR4Ms.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-20]]
+*** from _来来来，我来教大家怎么hack，其中查看库底层到..._ by @ericman65204539 on Twitter
+*** [View Tweet](https://twitter.com/ericman65204539/status/1671145846686257153)
+** 📌
+#+BEGIN_QUOTE
+例如这个对话：
+用户： chatGPT，我有个10个函数，现在给你一个任务，告诉我我应该调用哪个函数，参数是什么？
+chatGPT: 你应该调用Foo函数，参数是'bar'
+
+现在我们来彻底理解下本质：看图。
+所以这里非常巧，让chatGPT打印参数来告诉我们如何给一句话打标签。
+下一条： 
+
+![](https://pbs.twimg.com/media/FzEb7fiaMAAjY9M.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-20]]
+*** from _来来来，我来教大家怎么hack，其中查看库底层到..._ by @ericman65204539 on Twitter
+*** [View Tweet](https://twitter.com/ericman65204539/status/1671147842470289408)
+** 📌
+#+BEGIN_QUOTE
+好了，终极大招，不知道你有没有想过，langchain这样的库，如果你python水平比较差，简直就是个黑盒，但是我们知道openAPI无非就是prompt engineering, 所以如果能hook任何库底层发送给openAI的prompt和返回值，绝逼能帮助我们理解代码。有了这个思路就简单了：
+Moneky Patching，说白了就是全局替换 
+
+![](https://pbs.twimg.com/media/FzEcmkCacAEc53N.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-20]]
+*** from _来来来，我来教大家怎么hack，其中查看库底层到..._ by @ericman65204539 on Twitter
+*** [View Tweet](https://twitter.com/ericman65204539/status/1671148578943926272)
+** 📌
+#+BEGIN_QUOTE
+上面的hook忘记贴图了，贴一张吧（下图）：
+
+看了@dotey转发的这段代码（其实白天我也转发了，当时其实我都没理解，准备有时间在看），刚才看了宝玉哥也转发了，忍不住想彻底搞懂，跑了一遍，源码面前，了无秘密啊，彻底搞懂了：）希望对大家有帮助。 
+
+![](https://pbs.twimg.com/media/FzEdR-6acAAiUUz.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-20]]
+*** from _来来来，我来教大家怎么hack，其中查看库底层到..._ by @ericman65204539 on Twitter
+*** [View Tweet](https://twitter.com/ericman65204539/status/1671149394761256961)
+** 📌
+#+BEGIN_QUOTE
+写推太累了，下班本来准备和儿子下去踢球，结果hack到现在，累死了，尽量不写这么长了 
+#+END_QUOTE
+    date:: [[2023-06-20]]
+*** from _来来来，我来教大家怎么hack，其中查看库底层到..._ by @ericman65204539 on Twitter
+*** [View Tweet](https://twitter.com/ericman65204539/status/1671150482759483392)

@@ -1,0 +1,107 @@
+:PROPERTIES:
+:title: (readwise)1_11 这段时间AI板块猛涨，chatGPT也...
+:END:
+
+:PROPERTIES:
+:author: [[jason_chen998 on Twitter]]
+:full-title: "1/11 这段时间AI板块猛涨，chatGPT也..."
+:category: [[tweets]]
+:url: https://twitter.com/jason_chen998/status/1622224736418955264
+:image-url: https://pbs.twimg.com/profile_images/1653068718321336321/grq9EkXA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+1/11 这段时间AI板块猛涨，chatGPT也因越来越多的二创再次掀起热度，不少朋友问我AI与区块链结合的可能，我个人认为这两个技术原生结合的空间不大，单纯站到技术角度区块链本身具有很强的孤立性，目前AIGC除了NFT创作（但和链本身也没关系）等我确实没有看到很多跑出来的场景 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224736418955264)
+** 📌
+#+BEGIN_QUOTE
+2/11 所以这一轮AI板块我没有配置资产，确实对于看不懂的事不好下手。区块链+AI讲不了，那我就单聊聊chatGPT吧，我看到不少人疑惑它不就是一个问答机器人，为什么这么火呢？先说结论，我体验完它后给到我极大的震惊，可以说已经完全超出了我对当前行业在该领域的天花板 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224738734211072)
+** 📌
+#+BEGIN_QUOTE
+3/11 我之前的两份工作经历恰好均涉及AI机器人，可以说都走的是“选词填空”模式，具体原理我等会给大家讲完就明白chatGPT到底和整个行业拉开了多大的差距。
+第一份我当时在某A姓电商互联网公司做安全相关的工作，因为有大量的法务问题需要给用户回答，于是我们采用了自己公司的AI机器人技术 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224741716361216)
+** 📌
+#+BEGIN_QUOTE
+4/11 它是全国最大的电商公司，每天有大量客服问题需要回答，所以可以说拥有最大的AI机器人应用场景，但其本质就是将代码的if else进行可视化配置的过程，后台可以配置若干逻辑分支与每个分支的触发条件（当然实际落地过程还有大量的工作） 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224744794951681)
+** 📌
+#+BEGIN_QUOTE
+5/11 比如当识别到用户说“我合适穿吗”，于是触发进入尺码问询分支，回答“请告诉我身高”，用户说“175”，则按照事先配置好每种身高对应的尺码给出“XL”的回答。
+所以本质上是一个个的配置出来一堆逻辑分支去选词填空命中，最后如果任何分支都触发不到则给一个“转接客服”的兜底 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224747470934016)
+** 📌
+#+BEGIN_QUOTE
+6/11 所以这个过程其实我认为和AI本身关系不大，也不是想象中那么智能
+后面我去了某家专门做AI机器人的美股上市公司，本质依然是这一套逻辑，我们当时还有专门的AI训练师给到客户服务，其实就是帮助客户去将材料结构化整理后录入进去的过程，因为要帮客户构建语料库，这样才能配置逻辑分支进行命中回复 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224751015108611)
+** 📌
+#+BEGIN_QUOTE
+7/11 当然除了问答还有看似更智能的交互，如通过对话的形式帮你订票，如我说我要定机票，系统命中关键词进入订票流程，分别问我要去哪、什么时候去等问题，我逐个回答后帮我完成定票，但本质其实就是将一个订单的字段进行填空的过程 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224754538340354)
+** 📌
+#+BEGIN_QUOTE
+8/11 这两段工作让我分别对大型互联网公司和美股上市公司这两个可以代表行业头部水平的AI机器人有了粗浅的认识，相信大家也明白了你们的小爱小爱、天猫精灵的原理，当然我并不是妄自菲薄，也更不是轻视和否定大量从业者的努力，即使如此在落地过程中也有很多工程上要解决的问题 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224757059092480)
+** 📌
+#+BEGIN_QUOTE
+9/11 所以chatGPT我认为牛逼之处在于它将语义理解和多轮对话的水平拔到了远远超过行业水平的高度
+语义理解即可以充分的消化你所喂给它的内容并给予对应具有逻辑自恰的回答，如我对他进行了缸中之脑的问题，以及让它进行玄幻小说写作，这完全不是从语料库中选词填空的过程与效果 
+
+![](https://pbs.twimg.com/media/FoNM064acAAxmaj.jpg) 
+
+![](https://pbs.twimg.com/media/FoNM06vaYAM7cPP.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224777376309248)
+** 📌
+#+BEGIN_QUOTE
+10/11 多轮对话即不是一问一答结束，而是可以有多轮次的问答且可以具备逻辑记忆性，如刚说的定机票场景，也许我们来回了好几次它还记得第一次的内容。我之前的工作经验在实际应用一般在7轮就是极限了，会出现跳出的问题，且一跳出就要重新开始而不能接着之前的继续 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224781767774208)
+** 📌
+#+BEGIN_QUOTE
+11/11 chatGPT在使用的过程中近乎完美解决了这个问题，如上截图可以进行两位数轮次，极限我不知道会有多少。
+所以借此帮助大家更好的理解到底chatGPT为什么会让从业者如此震惊以及它的魅力和牛逼之处，注意本文不代表任何投资建议
+最后欢迎大家留下你认为区块链+AI的机会与可能的场景，一起探讨脑暴 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622224784796033024)
+** 📌
+#+BEGIN_QUOTE
+刚在群里和大家脑暴AI+经济模型好像是个挺不错的方向，比如用AI弄个算稳出来，大量的给ai喂参数，搞一个稳定的模型，大家觉得这个具备可落地性吗 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _1/11 这段时间AI板块猛涨，chatGPT也..._ by @jason_chen998 on Twitter
+*** [View Tweet](https://twitter.com/jason_chen998/status/1622260105818570755)

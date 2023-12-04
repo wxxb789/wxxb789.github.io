@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: (readwise)Which .NET Mocking Libra...
+:END:
+
+:PROPERTIES:
+:author: [[Dave_DotNet on Twitter]]
+:full-title: "Which .NET Mocking Libra..."
+:category: [[tweets]]
+:url: https://twitter.com/Dave_DotNet/status/1687794371637243904
+:image-url: https://pbs.twimg.com/profile_images/1538166477743919105/duZ2oBrg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Which .NET mocking library syntax do you prefer from the below test examples?
+
+Moq?
+NSubstitute?
+FakeItEasy?
+
+ ... and which library do you use and why?
+
+#dotnet #csharp https://t.co/rezRqNfhUR 
+
+![](https://pbs.twimg.com/media/F2w-26uWsAAl7wn.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-06]]
+*** from _Which .NET Mocking Libra..._ by @Dave_DotNet on Twitter
+*** [View Tweet](https://twitter.com/Dave_DotNet/status/1687794371637243904)
+** 📌
+#+BEGIN_QUOTE
+To me the NSubstitute syntax (at least in this case) is so much nicer than the other libs, particularly Moq. 
+#+END_QUOTE
+    date:: [[2023-08-06]]
+*** from _Which .NET Mocking Libra..._ by @Dave_DotNet on Twitter
+*** [View Tweet](https://twitter.com/Dave_DotNet/status/1687797315224936449)
+** 📌
+#+BEGIN_QUOTE
+Running a Moq v NSubstitute v FakeItEasy poll on LinkedIn at the moment. Please vote  ⬇
+
+https://t.co/WZLrd14HMY 
+#+END_QUOTE
+    date:: [[2023-08-06]]
+*** from _Which .NET Mocking Libra..._ by @Dave_DotNet on Twitter
+*** [View Tweet](https://twitter.com/Dave_DotNet/status/1687856751096532992)

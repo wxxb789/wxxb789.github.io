@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: (readwise)《像火箭科学家一样思考》的作者瓦罗尔认为，美国登...
+:END:
+
+:PROPERTIES:
+:author: [[henices on Twitter]]
+:full-title: "《像火箭科学家一样思考》的作者瓦罗尔认为，美国登..."
+:category: [[tweets]]
+:url: https://twitter.com/henices/status/1722078187968926128
+:image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+《像火箭科学家一样思考》的作者瓦罗尔认为，美国登月不是技术的胜利，而是思想的胜利。登月思维（奇迹思维）：找一个看似不可能的大目标，公开宣布，然后集中力量将其实现，把不可能变成可能。
+
+\- 登月思维的好处：选择一个高目标为其努力，失败了可能会得到一些中等水平的副产品，选择一个中等目标，失败了大概率是得到一些低水平的产品。选择一个高目标实现成功了，将获得远高于成本的回报 (投入产出的不成对称)。
+- 登月思维的另一个好处：高目标的竞争可能反倒不那么激烈，大多数的思维习惯是做自己擅长的事，由于这个思维偏误，真正愿意去干大事的人不多。
+
+- 大脑非常善于适应环境，日常的琐事会使大脑变得迟钝，我们需要不寻常的事给大脑带去刺激
+- 登月思维最大的好处：大目标能能倒逼自我改革，利用第一原理，去发现实现目标缺少的东西。没有这个目标，组织只会遵循惯性，有什么工具和资源就做什么事。
+
+- 登月思维是一种发散思维，但具体操作上需要集中思维解决问题。集中思维最重要的是验证可行性，验证可行性一定要从最难的部分开始。X 公司的做法是让员工提出质疑，如果越质疑却发现越不容易将目标否定，这就是一个好目标。
+
+- 瓦尔罗号召每个人都应该有登月思维。
+
+We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.  
+- John F.Kennedy September 12, 1962 
+#+END_QUOTE
+    date:: [[2023-11-08]]
+*** from _《像火箭科学家一样思考》的作者瓦罗尔认为，美国登..._ by @henices on Twitter
+*** [View Tweet](https://twitter.com/henices/status/1722078187968926128)

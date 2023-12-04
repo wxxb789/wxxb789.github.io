@@ -1,0 +1,99 @@
+:PROPERTIES:
+:title: (readwise)Want to Learn Machine Le...
+:END:
+
+:PROPERTIES:
+:author: [[SanthoshKumarS_ on Twitter]]
+:full-title: "Want to Learn Machine Le..."
+:category: [[tweets]]
+:url: https://twitter.com/SanthoshKumarS_/status/1604492243322249219
+:image-url: https://pbs.twimg.com/profile_images/1605997847589326853/kfhjA-bc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Want to learn Machine Learning?
+
+Here are the Top Courses to land a Job,
+
+\-- Thread -- 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492243322249219)
+** 📌
+#+BEGIN_QUOTE
+1 - Machine Learning Specialization :
+
+For those new to machine learning, this is the Holy Course.
+
+Doesn’t require prior math knowledge or a rigorous coding background
+
+https://t.co/QjIbcccLe0 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492250846748672)
+** 📌
+#+BEGIN_QUOTE
+2 - Deep Learning Specialization :
+
+Become an expert in Machine Learning with this Course.
+
+Learn the basics of deep learning to succeed in AI.
+
+https://t.co/ZP6LLtx7KQ 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492254076231680)
+** 📌
+#+BEGIN_QUOTE
+3 - MLOps Specialization :
+
+Understanding ML and DL principles are crucial, but you also need to be proficient in production engineering.
+
+If you want to develop a successful AI profession, Start with this Course.
+
+https://t.co/DOICSJw42h 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492256555241473)
+** 📌
+#+BEGIN_QUOTE
+4 - Mathematics for Machine Learning :
+
+All ML models are constructed using solutions and ideas from math, Learning Mathematics is an advantage.
+
+Implement mathematical concepts using real-world data in this course.
+
+https://t.co/Jewvb6CQsb 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492260879454211)
+** 📌
+#+BEGIN_QUOTE
+5 - Practical Data Science on the AWS Cloud Specialization :
+
+This Course helps you develop the practical skills to effectively deploy your data science projects. 
+
+https://t.co/j2DHMzXJ8f 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492264767627267)
+** 📌
+#+BEGIN_QUOTE
+That's a wrap! Thank you for Reading❤
+
+If you enjoyed this thread:
+
+1. Follow me @SanthoshKumarS_ for more of these ML and Python Content
+2. RT the tweet below to share this thread with your audience https://t.co/lLYZDpji56 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Want to Learn Machine Le..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1604492267431002114)

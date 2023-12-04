@@ -1,0 +1,54 @@
+:PROPERTIES:
+:title: (readwise)初步阅读ImageBind论文， 大体理解了论文...
+:END:
+
+:PROPERTIES:
+:author: [[balconychy on Twitter]]
+:full-title: "初步阅读ImageBind论文， 大体理解了论文..."
+:category: [[tweets]]
+:url: https://twitter.com/balconychy/status/1656154141033472000
+:image-url: https://pbs.twimg.com/profile_images/1642760288406769665/YsX3blNL.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+初步阅读ImageBind论文， 大体理解了论文的方法。
+
+主要功能：将多个模态的Embedding对齐。也就是说图像，声音，深度图，文本，热度图，IMU数据统一到一个向量空间。从而实现不同模态的相互检索与转换。
+
+具体训练方法：将所有的向量空间对齐到图像Embedding；利用天然的结对数据（网页图像文本， 
+
+![](https://pbs.twimg.com/media/FvvSU16X0AA2sqm.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-10]]
+*** from _初步阅读ImageBind论文， 大体理解了论文..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1656154141033472000)
+** 📌
+#+BEGIN_QUOTE
+3D相机彩色和深度图像，视频图片和语音，热成像相机图片和热度图，IMU数据和关联视频）来对其对应模态。使用自监督的方式学习。
+
+效果：在语音分类和检索上超过监督学习；zero-shot能力增强。这意味着更强的开放环境适应性。 
+
+![](https://pbs.twimg.com/media/FvvTvRBXgAEgJjz.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-10]]
+*** from _初步阅读ImageBind论文， 大体理解了论文..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1656154144594378752)
+** 📌
+#+BEGIN_QUOTE
+期待：Meta 最近的开源的几个项目，在zero-shot泛化能力上的超强表现，带来很多的瞎想空间。
+1，模仿人类的学习：大量视觉语音的关联就学会很多自然规律，少样本的教学就能应对没有见过的情景。（如果再来个time base的学习模型就更厉害了） 
+#+END_QUOTE
+    date:: [[2023-05-10]]
+*** from _初步阅读ImageBind论文， 大体理解了论文..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1656154150072188928)
+** 📌
+#+BEGIN_QUOTE
+2，对于机器人的自主控制来说，相当于搭建的基础设施：图像+深度到语义空间，人类语音到语义空间，语音指令到语义空间，大模型语义逻辑推理。就看怎么在这个基础上迭代了。 
+
+![](https://pbs.twimg.com/media/FvvXHjFWYAEtl3I.png) 
+#+END_QUOTE
+    date:: [[2023-05-10]]
+*** from _初步阅读ImageBind论文， 大体理解了论文..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1656154153905803264)

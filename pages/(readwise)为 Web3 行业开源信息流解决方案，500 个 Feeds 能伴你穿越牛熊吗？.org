@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: (readwise)为 Web3 行业开源信息流解决方案，500 个 Feeds 能伴你穿越牛熊吗？
+:END:
+
+:PROPERTIES:
+:author: [[Arweave Transaction]]
+:full-title: "为 Web3 行业开源信息流解决方案，500 个 Feeds 能伴你穿越牛熊吗？"
+:category: [[articles]]
+:url: https://mirror.xyz/chainfeeds.eth/mwgMtCDcz5_YW-dRacfD2pzsb_gMUSyal9M5nR5472A
+:image-url: https://mirror-media.imgix.net/publication-images/M74wFXOzfewqnHidYDXtW.png?h=500&w=500
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+构建一个纯 Web3 的应用是最值得兴奋的事情，哪怕现在只能有 Web2 的技术栈可以使用。未来无论是账户系统、内容存储、可组合性等等，都会有更多的选择，而不仅限于 ENS、Arweave、ICP、Mirror、RSS3、CyberConnect 等等。 
+#+END_QUOTE
+    date:: [[2023-01-30]]
+*** from _为 Web3 行业开源信息流解决方案，500 个 Feeds 能伴你穿越牛熊吗？_ by Arweave Transaction
+*** [View Highlight](https://read.readwise.io/read/01gqzbvev5sh6gjq6gv6h1adp2)
+** 📌
+#+BEGIN_QUOTE
+最后，感谢 SevenX、Puzzle、Mask、A&T、Fenbushi、Hash Global、Y2Z，以及天使投资人 Jocy Lin、Steve Guo、Li Xing 为 ChainFeeds 完成了启动资金的支持，也感谢链闻的几位创始人，特别是刘锋老师，以及 Winkrypto 对项目的帮助和支持。 
+#+END_QUOTE
+    date:: [[2023-01-30]]
+*** from _为 Web3 行业开源信息流解决方案，500 个 Feeds 能伴你穿越牛熊吗？_ by Arweave Transaction
+*** [View Highlight](https://read.readwise.io/read/01gqzbvtz91y5z6n6x4p5nq957)

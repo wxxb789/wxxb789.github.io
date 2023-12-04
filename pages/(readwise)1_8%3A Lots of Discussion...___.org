@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: (readwise)1_8: Lots of Discussion...
+:END:
+
+:PROPERTIES:
+:author: [[ofermend on Twitter]]
+:full-title: "1/8: Lots of Discussion..."
+:category: [[tweets]]
+:url: https://twitter.com/ofermend/status/1640896931185704960
+:image-url: https://pbs.twimg.com/profile_images/1635314705635115009/bJIiTlMU.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+1/8: Lots of discussion recently about #ChatGPT and how amazing the recent #LLMs are. Underlying the their success is the application of Reinforcement Learning with Human Feedback (RLHF), which has been recently applied to #LLMs (including #GPT4, #Alpaca and #Dolly). 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896931185704960)
+** 📌
+#+BEGIN_QUOTE
+2/8: #RLHF is an approach that combines reinforcement learning algorithms with human-provided feedback to optimize an LLM's performance towards a desired goal. 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896932448190464)
+** 📌
+#+BEGIN_QUOTE
+3/8: The idea of using human feedback in machine learning is not really new. Both @awadallah and I fondly recall our fun days at @Yahoo, where human feedback was used extensively to improve search results and ranking. 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896933542887424)
+** 📌
+#+BEGIN_QUOTE
+4/8: In the new world of #ChatGPT and #LLMs, human feedback helps address some of the issues of bias and safety. @OpenAI is known for incorporating #RLHF into #ChatGPT, while @AnthropicAI made its approach to safety a primary tenant as well. 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896934700523521)
+** 📌
+#+BEGIN_QUOTE
+5/8: How does #RLHF Work? Put simply, it’s an iterative process where human evaluators assess the quality of responses to certain prompts; then the model learns from the human evaluations and improves its performance. 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896935887519744)
+** 📌
+#+BEGIN_QUOTE
+6/8: In more technical terms, the model is fine-tuned using reinforcement learning algorithms such as Proximal Policy Optimization (https://t.co/dGUKL7xARE) 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896937011580929)
+** 📌
+#+BEGIN_QUOTE
+7/8: you can learn more in this great overview by @huggingface: https://t.co/Mmqj0ZOaiq 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896938206973952)
+** 📌
+#+BEGIN_QUOTE
+8/8: Reinforcement Learning with Human Feedback (RLHF) promises to help make LLMs safer and less biased. At @vectara we are encouraged to see this usage of #RLHF to improve #LLMs, and excited to see what other techniques will help make this even better. 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _1/8: Lots of Discussion..._ by @ofermend on Twitter
+*** [View Tweet](https://twitter.com/ofermend/status/1640896939649830912)

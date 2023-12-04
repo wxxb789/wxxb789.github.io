@@ -1,0 +1,122 @@
+:PROPERTIES:
+:title: (readwise)\#烧脑系列分享 （1） 分享一些初一看无从入手的...
+:END:
+
+:PROPERTIES:
+:author: [[hemashushu on Twitter]]
+:full-title: "\#烧脑系列分享 （1） 分享一些初一看无从入手的..."
+:category: [[tweets]]
+:url: https://twitter.com/hemashushu/status/1678986265587507200
+:image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+#烧脑系列分享 （1）
+分享一些初一看无从入手的烧脑技术如何拆解并驾驭
+
+[Btrfs 文件系统]
+
+Btrfs 文件系统被认为是 ext4 —— 目前Linux默认文件系统——的继承者，它的设计跟以往（教科书描述）的文件系统很不同，或者说相当精巧，系统建造在简单的数据结构——B树（实际上是精简版B+Tree）之上，
+（续 
+
+![](https://pbs.twimg.com/media/F0ztxcVaEAAOcKY.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986265587507200)
+** 📌
+#+BEGIN_QUOTE
+续）数据发生改变时并不会修改磁盘或SSD等介质上的数据，而是将新的数据写到别的地方，然后更新指针，同理删除数据也并非真的从介质上删除，这种被称为“写时复制 CoW”的特性让数据非常牢固。
+系统支持建立子卷（相当于多棵根目录树）；
+子卷支持随时拍快照（相当于git commit）/还原。
+（续 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986268477394945)
+** 📌
+#+BEGIN_QUOTE
+续）Btrfs 已经是部分发行版（比如Fedora）的默认文件系统，如果想从ext4转换也相当简单。
+
+喜欢折腾的你当然不会满足仅仅“使用”Btrfs，你还想知道它的工作原理，如果编程实现，磁盘上每个字节的作用和所属……
+
+可惜跟很多底层技术一样，文档和资料是分散且难以阅读的：https://t.co/YXFdBvtjFT
+
+(续 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986270985576450)
+** 📌
+#+BEGIN_QUOTE
+续）下面是我摸索过后整理的一份攻略：
+
+1. （预热）先从熟悉它的使用方法入手
+《Working with Btrfs》
+https://t.co/U2Rhkpb2vA
+
+看 General Concepts，Subvolumes 和 Snapshots 三章。
+
+（续 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986273476997120)
+** 📌
+#+BEGIN_QUOTE
+续）
+2. （预热）熟悉B-/+Tree数据结构
+https://t.co/AbM11M280I
+只看搜索、插入、删除三段即可。辅以下面的可视化演示相信很快就看懂：
+https://t.co/nk4QtPhjZq
+https://t.co/yKIuRxDNd7
+
+3. 自己实现一次B树
+3.1 《Introduction of B-Tree》
+https://t.co/xvWHEnchX1 这系列一共3篇
+
+（续 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986275993579520)
+** 📌
+#+BEGIN_QUOTE
+续）
+3.2 《Building a B-Tree in JavaScript》
+https://t.co/URexgIJgoj
+文章讲解得通俗易懂、完整，虽然其中的代码有误（估计是笔误），但不影响阅读和理解。
+
+3.3 《Writing a storage engine in Rust: Writing a persistent BTree》
+https://t.co/WftrqxrBWs
+讲解如何持久化（即保持到磁盘）
+(续 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986278585667584)
+** 📌
+#+BEGIN_QUOTE
+续）
+4. 《Understanding btrfs internals》
+https://t.co/xQNHvDA4Ho
+
+这是拆解的重点，一共5篇文章，Rust语言描述，一步一步地读取即解析Btrfs磁盘上的每个字节，教程最后能够列出默认根文件树的所有文件。
+
+5. 通过这个教程之后，再回头看 btrfs wiki
+https://t.co/h6k8stM1LA
+（续 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986281215483904)
+** 📌
+#+BEGIN_QUOTE
+续）
+以及官方的文档  https://t.co/mFuGYVlr3X 的 DEVELOPER DOCUMENTATION 章节，你就可以在上一个程序的基础上添加读取文件数据的功能，至此一个 “只读” 版的 Btrfs 驱动就完成了，有兴趣的可以写成一个FUSE模块。至于如何实现“写入”功能，我已经没精力摸索到这个区域，如果大家有资料欢迎补充。 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
+*** [View Tweet](https://twitter.com/hemashushu/status/1678986285124562944)

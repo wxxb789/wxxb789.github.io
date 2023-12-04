@@ -1,0 +1,381 @@
+:PROPERTIES:
+:title: (readwise)Three Years Ago, I Start...
+:END:
+
+:PROPERTIES:
+:author: [[MilesCranmer on Twitter]]
+:full-title: "Three Years Ago, I Start..."
+:category: [[tweets]]
+:url: https://twitter.com/MilesCranmer/status/1654169022852894721
+:image-url: https://pbs.twimg.com/profile_images/1075852853737066496/BJa_LO5x.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Three years ago, I started working on an easy-to-use tool for interpretable machine learning in science. I wanted it to do for symbolic regression what Theano did for deep learning.
+
+Today, I am beyond excited to share with you the paper describing it!
+https://t.co/be2cVdukPy
+
+1. https://t.co/9Cld0LL29u 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169022852894721)
+** 📌
+#+BEGIN_QUOTE
+Symbolic Regression (SR) is a supervised learning task where the space of potential models is spanned by analytic expressions. Often, the goal is to find simple yet accurate expressions that lend themselves to interpretation🔍.
+
+2. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169027298869248)
+** 📌
+#+BEGIN_QUOTE
+Throughout history, scientists have performed SR "manually," using a mix of intuition and trial-and-error. Empirically-discovered expressions can lead to new theory developments (e.g., Kepler’s law=>Newton's gravity; Planck’s law=>Quantum).
+
+3. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169029962252289)
+** 📌
+#+BEGIN_QUOTE
+But, with much of ML used in science relying on blackbox models, I worry we often miss out on this crucial step of *understanding* the world. After all, that is the ultimate goal of science! The Latin word scientia literally means “to know.”
+
+4. 
+
+![](https://pbs.twimg.com/media/FvTJ-NbaAAAYM6r.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169039919550464)
+** 📌
+#+BEGIN_QUOTE
+To understand a concept, you need to first represent it in your language (however abstract that language is). I think SR is attractive since it grounds ML models in the language of science: symbolic expressions!
+
+Just look at any physics cheat sheet:
+
+5. 
+
+![](https://pbs.twimg.com/media/FvTJ-v0aYAInUkK.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169057074241537)
+** 📌
+#+BEGIN_QUOTE
+That isn’t to argue that we avoid deep learning; one can actually use SR as a distillation tool for such blackbox models! https://t.co/NiO6pNZpuO
+
+6. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169060358393856)
+** 📌
+#+BEGIN_QUOTE
+However, when I started my thesis, available SR codes were either:
+\- Easy to use but slow ⏳
+- Fast but hard to use 🤔
+The only fast and easy-to-use tool was Eureqa, a proprietary and closed-source tool, which meant no customization or embedding into an analysis pipeline.
+
+7. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169063365693444)
+** 📌
+#+BEGIN_QUOTE
+Enter PySR: fast, easy-to-use, and open-source🎉. Today, PySR has even more features than proprietary alternatives!
+
+8. 
+
+![](https://pbs.twimg.com/media/FvTKABEaEAEpZ1b.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169070844121089)
+** 📌
+#+BEGIN_QUOTE
+A driver of deep learning's accelerated innovation is the strong open-source tooling – we need similar tooling for SR too.
+
+This is also why I have also split up the evaluation code of SymbolicRegression.jl into a separate library: DynamicExpressions.jl.
+
+9. 
+
+![](https://pbs.twimg.com/media/FvTKAfeaYAAMBgK.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169078863663104)
+** 📌
+#+BEGIN_QUOTE
+This package makes it easy for others to create new symbolic regression libraries with new ideas, built on a strong foundation of highly optimized kernels used in PySR. Here’s a deep learning analogy:
+
+10. 
+
+![](https://pbs.twimg.com/media/FvTKA9EaUAAFE55.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169088028192769)
+** 📌
+#+BEGIN_QUOTE
+Okay, so how does PySR work? It’s a fairly traditional approach: a multi-population evolutionary algorithm. Expressions are represented as binary trees, and evolve via a series of mutations and crossovers applied to the “fittest” members of each subpopulation:
+
+11. 
+
+![](https://pbs.twimg.com/media/FvTKBgZaUAEzuyh.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169096911749121)
+** 📌
+#+BEGIN_QUOTE
+But there are many other tricks: BFGS for constant optimization, algebraic simplification, simulated annealing, age-regularized tournament selection, and an adaptive complexity penalty. It’s a bit too much to describe precisely here, so please see the paper if curious 🙂
+
+12. 
+
+![](https://pbs.twimg.com/media/FvTKCAhaEAQS8hM.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169106923536385)
+** 📌
+#+BEGIN_QUOTE
+PySR also works seamlessly across 1000s of cores. Each population evolves independently, and will asynchronously "migrate" between these independent populations to share updates.
+
+13. 
+
+![](https://pbs.twimg.com/media/FvTKCmracAIqGI7.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169118625660928)
+** 📌
+#+BEGIN_QUOTE
+A motif in PySR's design is flexibility – while also being extremely high-performance. PySR ought to be a tool that can solve model discovery problems all throughout science, without needing hacks. Here's a comparison: (includes links so you can check these others out!)
+
+14. 
+
+![](https://pbs.twimg.com/media/FvTKDSfacAA5iYP.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169130201923589)
+** 📌
+#+BEGIN_QUOTE
+In the paper, I demo a benchmark based on historical discoveries, and see whether codes can re-discover these with little prior information. Where possible, I include original datasets! (for Leavitt’s law I had to manually read off data from a 1912 plot…)
+
+15. 
+
+![](https://pbs.twimg.com/media/FvTKD9kaIAEYTg0.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169140448616448)
+** 📌
+#+BEGIN_QUOTE
+To really emulate the problem of discovering an unknown model, I use the same hyperparameters as each author submitted to the SRBench competition (as well as PySR), and let every code search for 1 hour on 8 cores. The rediscovery results (scored: yes/no) -
+
+16. 
+
+![](https://pbs.twimg.com/media/FvTKEj0aMAAfVkx.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169151404126208)
+** 📌
+#+BEGIN_QUOTE
+All methods seem to struggle with Planck’s law and Rydberg formula, likely due to the unusual scaling. Pure deep learning methods (EQL + SR-Transformer) seem to have difficulty on a range of problems.
+
+17. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169154965110784)
+** 📌
+#+BEGIN_QUOTE
+We can see EQL experiencing numerical instabilities, and SR Transformer (pre-trained on synthetic expressions in various levels of noise) seems to generate overly complex expressions in every test.
+
+18. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169157532028928)
+** 📌
+#+BEGIN_QUOTE
+While it is important to note some of these are tuned for accuracy alone, it is very interesting that pure deep learning methods still really struggle here. Perhaps it is a testament to the difficulty of learning representations in the space of symbolic expressions.
+
+19. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169160145063937)
+** 📌
+#+BEGIN_QUOTE
+Regardless of this, DL methods still perform well on synthetic benchmarks, which is what they are tuned for, so I see hybrid approaches as very much worth pursuing!
+
+20. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169162774884352)
+** 📌
+#+BEGIN_QUOTE
+Today, PySR has a growing community across academia and industry, with users working in a variety of fields from economics to astronomy. I am looking forward to seeing it continue to grow!
+
+I would like to thank:
+
+21. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169165325012993)
+** 📌
+#+BEGIN_QUOTE
+@SimonsFdn for providing resources for pursuing this research; @cosmo_shirley and @DavidSpergel for countless insightful discussions about PySR, feedback on this manuscript, promotion of it as a tool in the sciences, and for their support of this project;
+
+22. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169167980007430)
+** 📌
+#+BEGIN_QUOTE
+my research collaborators who provided feedback throughout the development of PySR, including @PabloLemosP @PeterWBattaglia @eigensteve @JayWadekar1 @paco_astro @physicskaze Elaine Cui @CDKreisch Nathan Kutz @DrumBushField Keaton Burns @dkochkov1
+
+23. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169170672766977)
+** 📌
+#+BEGIN_QUOTE
+Alvaro Sanchez-Gonzalez @AstroCKragh @PatrickKidger @KyleCranmer @Niall_Jeffrey Ana Maria Delgado @AstroKeming Pierre-Alexandre Kamienny, Michael Douglas, @f_charton; all the wonderful open-source code contributors, including @markkitti, T Coxon, Dhananjay Ashok,
+
+24. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169173256437760)
+** 📌
+#+BEGIN_QUOTE
+Johan Blåbäck, Julius Martensen, GitHub user ngam, @ChrisRackauckas @l_II_llI, Charles Fox @johannbrehmer @cosmic_mar, GitHub user Coba, Pietro Monticone, Mateusz Kubica, GitHub user Jgmedina95, Michael Abbott, Oscar Smith, and several others;
+
+25. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169175932424193)
+** 📌
+#+BEGIN_QUOTE
+@MarcoVirgolin for extremely helpful comments on a draft of this paper, as well as general feedback throughout the project; @w_la_cava for insight throughout the project as for spearheading the SRBench initiative, along with the rest of the SRBench organizers;
+
+26. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169178650329089)
+** 📌
+#+BEGIN_QUOTE
+Brenden Petersen for feedback on PySR as well as providing insightful discussions about the SR landscape; and so many others (am likely forgetting some) who have provided support to the project through email, Twitter, GitHub issues, and in-person!
+
+27. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169181397590018)
+** 📌
+#+BEGIN_QUOTE
+I would like to give a huge thanks to the SRBench team as well. I think part of deep learning's continued success is the proliferation of well-tested benchmarks, and the SRBench team is doing this for symbolic regression!
+https://t.co/IAXOZXgDZZ
+
+28. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169184086155266)
+** 📌
+#+BEGIN_QUOTE
+FAQ 1: What about concepts we can't represent with existing operators?
+A: Interpreting something requires representing it in our language (whether that language be mathematical, programmatical, conceptual, etc.).
+
+29. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169186879553537)
+** 📌
+#+BEGIN_QUOTE
+Sometimes those representations are hierarchical, and sometimes those representations are also fuzzy. But for each new concept we define and add to our language, we have to ground it in our existing language.
+
+30. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169189446467584)
+** 📌
+#+BEGIN_QUOTE
+In a symbolic distillation context, this could entail a "feature learning" network, followed by another network that uses those features. You would then distill both networks to expressions in your existing language.
+
+31. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169192080478208)
+** 📌
+#+BEGIN_QUOTE
+Thus, the first expression represents the "learned operator", while the second expression would use that operator for other tasks.
+I give an example in my talk here:
+https://t.co/tsBY1Rcw72
+
+32. 
+
+![](https://pbs.twimg.com/media/FvTKHovacAAuy3Z.png) 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169202192941058)
+** 📌
+#+BEGIN_QUOTE
+FAQ 2: For symbolic distillation, why not do this directly with symbolic regression? Why is the NN needed?
+A: Because of the information contained in gradients, NNs need much fewer evaluations to train (~1M) compared to genetic algorithms (~1B).
+
+33. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169205942648832)
+** 📌
+#+BEGIN_QUOTE
+(GAs can't use gradients effectively - which contain a lot of information!). The difference only grows with the complexity of the target function. So, for expensive losses: train a NN first, get the input/outputs, and train the SR directly on those, which is much cheaper.
+
+34. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169208647974914)
+** 📌
+#+BEGIN_QUOTE
+</thread>
+
+The paper source can be found here: https://t.co/Z0hwpuWFXa
+You'll notice in the paper repository that there are no plot figures, despite there being plots in the paper – `showyourwork!` generates everything as part of the compilation!
+
+35. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169212196392962)
+** 📌
+#+BEGIN_QUOTE
+Also: feel free to suggest any changes directly to the paper source code!
+
+36. 
+#+END_QUOTE
+    date:: [[2023-05-05]]
+*** from _Three Years Ago, I Start..._ by @MilesCranmer on Twitter
+*** [View Tweet](https://twitter.com/MilesCranmer/status/1654169214947856384)

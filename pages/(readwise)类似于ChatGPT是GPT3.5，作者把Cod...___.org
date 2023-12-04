@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: (readwise)类似于ChatGPT是GPT3.5，作者把Cod...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "类似于ChatGPT是GPT3.5，作者把Cod..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1678656004869767173
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+类似于ChatGPT是GPT3.5，作者把Code Interpreter比作GPT4.5。
+
+当年GPT3.5是和ChatGPT一起宣布的，其中包括了text-davinci-003和code-davinci-002两个模型。这样做有两个目的：
+
+1. 让大家直观上了解GPT3.5模型优于GPT3（2020年份）模型
+2. 表明新的聊天模式是通用人工智能的未来之路
+
+那么对于Code… https://t.co/zxteY6pe3J 
+#+END_QUOTE
+    date:: [[2023-07-11]]
+*** from _类似于ChatGPT是GPT3.5，作者把Cod..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1678656004869767173)

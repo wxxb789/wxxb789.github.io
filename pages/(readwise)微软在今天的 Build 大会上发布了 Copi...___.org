@@ -1,0 +1,75 @@
+:PROPERTIES:
+:title: (readwise)微软在今天的 Build 大会上发布了 Copi...
+:END:
+
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "微软在今天的 Build 大会上发布了 Copi..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1661135309982281728
+:image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+微软在今天的 Build 大会上发布了 Copilot Stack！这是专门为 AI 驱动的软件提供的新开发模式，你可以用这种模式来实现自己的 Copilot，也能在这个框架下为 ChatGPT、Bing、Dynamics 365 和 Microsoft 365 的 Copilot 来开发新插件。整个 Stack 分为三层：体验层、协调层和模型层，具体见🧵 
+
+![](https://pbs.twimg.com/media/Fw2IO48akAE5OBm.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135309982281728)
+** 📌
+#+BEGIN_QUOTE
+1. 用户体验层，交互界面都在这里，和传统的应用不同，这里你只需要关注自然语言，它是最简洁的界面 
+
+![](https://pbs.twimg.com/media/Fw2IgbuaYAA5rMd.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135310988935177)
+** 📌
+#+BEGIN_QUOTE
+2. 协调框架层，也是 Copilot 的业务逻辑层。在这里可以使用 Langchain or Symantec，框架将帮你过滤返回结果，你还能实现 Meta Prompt（格式化参数的提示词），微软也专门提供了 Prompt Workflow 方便大家可以流程化的执行提示词与模型互动 
+
+![](https://pbs.twimg.com/media/Fw2Iuz6aEAAGQ6d.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135311924244480)
+** 📌
+#+BEGIN_QUOTE
+3. 在 Grounding 过程中，可以访问矢量数据库，Web APIs 以及插件 
+
+![](https://pbs.twimg.com/media/Fw2JFe1agAE-erO.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135313266438145)
+** 📌
+#+BEGIN_QUOTE
+4. 框架提供了 Prompt 之后的全部 Context 内容，让插件执行以完成任务 
+
+![](https://pbs.twimg.com/media/Fw2JLgOaYAAY33a.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135314533122048)
+** 📌
+#+BEGIN_QUOTE
+5. 在模型层，你可以直接使用平台提供的基础模型，例如 GPT-4，也可以使用微调过的基础模型，当然也能调用自己的模型，或者直接集成 Huggingface 来调用模型 
+
+![](https://pbs.twimg.com/media/Fw2JU8gaIAI-Wmw.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135315493609474)
+** 📌
+#+BEGIN_QUOTE
+Copilot Stack 的详细信息可以看微软 CTO 的 Kevin Scott 的 Keynote - The era of the AI Copilot
+https://t.co/Uj0wMMaNmi 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _微软在今天的 Build 大会上发布了 Copi..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1661135316475064320)

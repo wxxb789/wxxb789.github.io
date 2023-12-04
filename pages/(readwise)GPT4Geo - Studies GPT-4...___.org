@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: (readwise)GPT4Geo - Studies GPT-4...
+:END:
+
+:PROPERTIES:
+:author: [[SamuelAlbanie on Twitter]]
+:full-title: "GPT4Geo - Studies GPT-4..."
+:category: [[tweets]]
+:url: https://twitter.com/SamuelAlbanie/status/1665297346123509760
+:image-url: https://pbs.twimg.com/profile_images/1581156146160848897/bXgoXQAf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+GPT4Geo
+
+\- studies GPT-4's geographic knowledge & reasoning
+
+- suggests GPT-4 can plan complex journeys, describe the global semiconductor supply chain and roughly reconstruct the Hong Kong MTR map
+
+https://t.co/K0RKSFPSkf
+
+With @J_Roberts_1, Timo, Sowmen, @kaihan_vis 
+
+![](https://pbs.twimg.com/media/Fxulm5_WcAAsbOo.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _GPT4Geo - Studies GPT-4..._ by @SamuelAlbanie on Twitter
+*** [View Tweet](https://twitter.com/SamuelAlbanie/status/1665297346123509760)

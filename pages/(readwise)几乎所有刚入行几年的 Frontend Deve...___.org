@@ -1,0 +1,81 @@
+:PROPERTIES:
+:title: (readwise)几乎所有刚入行几年的 Frontend Deve...
+:END:
+
+:PROPERTIES:
+:author: [[ThaddeusJiang on Twitter]]
+:full-title: "几乎所有刚入行几年的 Frontend Deve..."
+:category: [[tweets]]
+:url: https://twitter.com/ThaddeusJiang/status/1610530774847213572
+:image-url: https://pbs.twimg.com/profile_images/1635805945732415488/hDe8Tg3k.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+几乎所有刚入行几年的 frontend developer 都想要独立开发 components library，但是有极少可以坚持超过一年。
+
+关于公司内部 components library 我有几点建议
+
+1. 基于 headless library 进行二次开发，不要基于 custom theme 的库进行二次开发。
+
+推荐 @headlessui @radix_ui 
+不推荐 #antd #mui 
+#+END_QUOTE
+    date:: [[2023-01-05]]
+*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
+*** [View Tweet](https://twitter.com/ThaddeusJiang/status/1610530774847213572)
+** 📌
+#+BEGIN_QUOTE
+@headlessui @radix_ui 2. 不要开发 HTML Elements，例如 button，input, flex/grid 等等
+
+如果需要漂亮的 default style，推荐参考 Antd Customize Theme 或者 daisyUI Theme 的方式，而不是封装 React Component。
+
+ref:
+
+\- https://t.co/lAuN3KV0CN
+- https://t.co/uG7YseH7eB
+- https://t.co/9yg2VQCvSr 
+#+END_QUOTE
+    date:: [[2023-01-05]]
+*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
+*** [View Tweet](https://twitter.com/ThaddeusJiang/status/1610531588567339010)
+** 📌
+#+BEGIN_QUOTE
+@headlessui @radix_ui 3. 组合大于继承，
+
+#Bad 
+<Button icon={} iconAlign="left" /> 
+<Button icon={} iconAlign="right" /> 
+
+#Good
+<Button>
+  <Icon />
+  Button
+</Button>
+
+<Button>
+  Button
+  <Icon />
+</Button>
+
+ref: 
+\- https://t.co/jqkrM1c42c 
+#+END_QUOTE
+    date:: [[2023-01-05]]
+*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
+*** [View Tweet](https://twitter.com/ThaddeusJiang/status/1610533067336339458)
+** 📌
+#+BEGIN_QUOTE
+4. 小公司开发产品级 components library，大公司开发通用级 components library。
+
+产品级components
+
+不要执着自由度，大胆内嵌 styles，不需要公开的 API 就不公开。
+
+ref: 
+\- https://t.co/UqFJFL0mPI 
+#+END_QUOTE
+    date:: [[2023-01-05]]
+*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
+*** [View Tweet](https://twitter.com/ThaddeusJiang/status/1610535245887205376)

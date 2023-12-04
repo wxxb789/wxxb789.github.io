@@ -1,0 +1,135 @@
+:PROPERTIES:
+:title: (readwise)01 | 钱是从哪儿来的？
+:END:
+
+:PROPERTIES:
+:author: [[youzhiyouxing.cn]]
+:full-title: "01 | 钱是从哪儿来的？"
+:category: [[articles]]
+:url: https://youzhiyouxing.cn/n/materials/182
+:tags:[[finance]],[[investment]],
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+所以你看，*我们想赚的不是钱本身，而是钱背后的东西——资源、产品和服务。* 
+#+END_QUOTE
+    date:: [[2023-01-25]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqjhdngggq3arg1d3aqqa2ge)
+** 📌
+#+BEGIN_QUOTE
+我们都知道，资源是有限的，产品和服务也不是凭空产生的，如果大家都在忙着赚钱，那谁在亏钱呢？换句话说，多出来的钱是怎么来的呢？
+
+简单来说，多出来的钱，主要是三个因素造成的：*自然资源、劳动和技术。* 
+#+END_QUOTE
+    date:: [[2023-01-25]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqjhcv6ar6qqkd67br3tavjz)
+** 📌
+#+BEGIN_QUOTE
+这里可以给你一个概念，截止到 2020 年这个时点，人类社会的总财富大概是 300～400 万亿美元这个水平。其中超过 200 万亿美元是土地和房产——没错，这类最最古老和经典的资产类别，占据了人类总财富的 2/3 左右。 
+#+END_QUOTE
+    date:: [[2023-01-25]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqjhefzamgghzcm4834n8kng)
+** 📌
+#+BEGIN_QUOTE
+而全球股票市场的总市值大概在 70～90 万亿美元左右，是第二大的资产类别；另外，现金、硬币等等大概是 30 多万亿美元，而黄金总市值差不多 7～9 万亿，剩下的还有一些很小的类别，比如比特币这样的加密货币资产。 
+#+END_QUOTE
+    date:: [[2023-01-25]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqjhevtkgdztk4rkh29xt85h)
+** 📌
+#+BEGIN_QUOTE
+首先，我要恭喜你。因为有一个常识我们常常忘掉，就是虽然我们通过不懈的努力如今已经创造了巨大的财富，但在人类漫长的几万年几十万年的历史里，绝大多数财富都是在过去的 300 年里创造的。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1r1wdn6hdgn62qr8dgqyb0)
+** 📌
+#+BEGIN_QUOTE
+总之，从历史的视角来说，我们都生在了一个好的时代，一个经济腾飞、财富爆炸的时代。「股神」巴菲特曾经谦虚地表示，自己是中了卵巢彩票。
+
+这说的是他一切成功的基础，就是生在了 20 世纪飞速发展的美国。否则，用他自己的话说，一个一辈子只懂得配置资产和挑选好公司股票的老头，放在几百年前甚至原始社会，可能是全世界最没用的人。
+
+另外不能忽视的一点，就是*现代公司与现代资本市场制度的诞生。*这也和我们每个投资者息息相关。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1r6axsyrpfw8jn3knpv00m)
+** 📌
+#+BEGIN_QUOTE
+熟悉商业史的同学可能知道，现代股份制公司的雏形起源于 17 世纪的荷兰。当时世界上最受欢迎的商品叫香料（比如胡椒大家就很喜欢），所以跨海跨洋的香料贸易和运输就发展得非常红火。
+
+荷兰的航运业一贯发达，加上阿姆斯特丹是欧洲著名港口，于是远洋船队相当之多。不过当时它们有个很大的问题，就是单打独斗的小船队很多，之间也要各种恶性竞争。
+
+本来航海的风险就高——资金要求大、海盗也十分猖獗、遇到风暴之类的天气问题更是血本无归——再加上西班牙、葡萄牙的大型船队竞争力也很强，所以，当时就有人提出，应该把各个小船队联合起来，成立一个组织，统一调配各个船队。这样一来，不但能分担经营风险，也可以降低竞争，节省成本。
+
+于是，在 1602 年，荷兰的东印度公司成立了，而且公司决定向公众募资，这样可以筹集到更多的钱，来和强大的西班牙葡萄牙船队竞争，而募资的方式就是把公司的所有权切成一小块一小块的，并且给每个认购的人一张凭证。
+
+你肯定已经意识到了，这不就是如今我们买的股票嘛。这就是最早股票的来源。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1r6pcf1v32xe6h3k8yh9je)
+** 📌
+#+BEGIN_QUOTE
+![](https://asset.youzhiyouxing.cn/image/2020/12/09/01ES31D2FTERH86BAGME8QKJ4W.jpg?x-oss-process=image/resize,w_1280,limit_1)
+
+人类社会总财富分布 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1r0e65eeagp77y4eqqg9t0)
+** 📌
+#+BEGIN_QUOTE
+投资是一生的必修课，第一课的内容让我想起一本书《小岛经济学》，这类投资底层逻辑和历史对于我们长期投资的人来说很重要，了解过去金融市场的历史和各类数据，能让我们的思路更清晰。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1r8nxv5gh80378vmeqmqzb)
+** 📌
+#+BEGIN_QUOTE
+同时我们遇见《有知有行》也是一群幸运的人，就像这周孟岩《投资实证》里说的…【抄作业】你需要找对人，还能需要理解他的投资理念和方法，这比想象中的仅仅「抄」一个代码，难得多。 他给出了以下两种抄作业的方式： 第一种，找到抄谁，然后完完全全跟着他去做。不要让自己的「操作」干扰了最终的结果。当然，这里我必须要再提醒一下，「识人」不容易，却是最最重要的，这个方式的结果，完全依赖于你跟的是谁； 第二种，依然需要找到抄谁，然后理解、学习他，明白他每一个动作背后的原因，吸收值得学习的东西，变成自己的一部分。 然后，建立自己的投资系统，根据自己的系统来进行交易。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1r9kk87eh5yk1vcapr19wn)
+** 📌
+#+BEGIN_QUOTE
+1 钱（财富），实际是资源、产品、服务。财富增长的原因，是自然资源的利用效率的提高、劳动效率的提高、和技术的发展。因此有了那根在1800年后陡然上升到呆若木鸡程度的财富增长曲线。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1rh5ss921m7c8d1xzsc7ds)
+** 📌
+#+BEGIN_QUOTE
+2 这巨大财富中很大一部分是以“公司”为单位创造的。现代股份制公司的雏形 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1rhc9xqx5w4vm1b6cmk1b9)
+** 📌
+#+BEGIN_QUOTE
+3 错误清单：“世界上并没有一种神奇的机器，把钱扔进去一年之后就能返回 10% 的回报，而只有真实的、创造财富的公司、人与双手。” 总结：不管投资什么对象，都要弄清底层资产是什么。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1rhnmzy2tcdks6w1e7pfx0)
+** 📌
+#+BEGIN_QUOTE
+如何查看一家公司的第一手资料，了解公司的真实情况？ 这么说可能有些事后诸葛亮，以P2P为例，从财新调查报告来看，很多标的公司的情况，在查阅第一手资料（工商信息）之后其实都是经不起哪怕一丁点推敲的，然而还是阻挡不住大家的前赴后继。 为什么？因为很多人就不知道什么是第一手资料，更不用说如何查询第一手资料了，那些光鲜的宣传资料，就足够吸引人了。"e租宝都去央视打广告了，还不可信吗？" 只要不是第一手资料，都有造假的可能——要把这个观念植入人心，感觉道阻且长，甚至感觉有点不现实。 背后是信息不对称，是人的贪婪，骗人者和被骗者皆是。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1rkfaxdn4q2pxnn646r0j7)
+** 📌
+#+BEGIN_QUOTE
+另一方面，钱是我们创造这些财富时社会给我们的交易媒介，或者用 Naval 的话说，是社会打给我们的欠条：嘿，你创造了一些东西，这是你的欠条，将来你可以换取你需要的东西。 如果总结一下这几个词，钱、财富、公司和投资，大概是这样的： 钱的背后是产品、资源和服务，是财富； 财富是人们真正需要的东西； 公司是更高效率的组织形式，让我们更有效率地创造财富； 投资则是把金钱用资本的形式，参与到公司价值创造的过程中去。 
+#+END_QUOTE
+    date:: [[2023-01-31]]
+*** from _01 | 钱是从哪儿来的？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gr1rmqema9epez3a1dwbk7fj)

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: (readwise)Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core
+:END:
+
+:PROPERTIES:
+:author: [[Tim Heuer]]
+:full-title: "Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core"
+:category: [[articles]]
+:url: https://timheuer.com/blog/write-an-open-ai-plugin-for-chatgpt-using-aspnet/
+:image-url: https://timheuer.com/img/twitter-summary-large.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Writing the API
+
+Now the cool thing for .NET developers, namely ASP.NET Core developers is writing your API doesn’t require anything new for you to learn…it’s just your code. Can it be enhanced with more? Absolutely, but as you’ll see here, we are literally keeping it simple. For ours we’ll start with the simple ASP.NET Core Web API template in Visual Studio (or `dotnet new webapi –use-minimal-apis`). 
+#+END_QUOTE
+    date:: [[2023-06-30]]
+*** from _Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core_ by Tim Heuer
+*** [View Highlight](https://read.readwise.io/read/01h45hwnhts8zgtb1qnzxzra2p)
+** 📌
+#+BEGIN_QUOTE
+Using Middleware to configure the manifest
+
+As mentioned the static files approach for exposing the manifest is the simplest…but that’s no fun right? We are developers!!! As I was looking at this myself, I put together a piece of ASP.NET middleware to help me configure it. You can use the static files approach (in fact you’ll have to do that with your logo if hosting at the same place as your API) for sure, but just in case here’s a middleware approach that I put together. First you’ll install the package [TimHeuer.OpenAIPluginMiddleware](https://www.nuget.org/packages/TimHeuer.OpenAIPluginMiddleware) from NuGet. Once you’ve done that now you’ll add the service and tell the pipeline to use it. First add it to the services of the builder (line 1) and then tell the app to use the middleware (line 15) 
+#+END_QUOTE
+    date:: [[2023-06-30]]
+*** from _Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core_ by Tim Heuer
+*** [View Highlight](https://read.readwise.io/read/01h45hy0sb6aabwkbw0ththxx4)
+** 📌
+#+BEGIN_QUOTE
+Sample code
+
+And now you have it. Now you could actually deploy your plugin to Azure Container Apps for scale and you are ready to let everyone get recommendations on backpacks and hiking shoes from Contoso! I’ve put all of this together (including some Azure deployment infrastructure scripts) in this sample repo: [timheuer/openai-plugin-aspnetcore](https://github.com/timheuer/openai-plugin-aspnetcore?WT.mc_id=timheuer-blog-timheuer). This uses the middleware that I created for the manifest. That repo is located at [timheuer/openai-plugin-middleware](https://github.com/timheuer/openai-plugin-middleware?WT.mc_id=timheuer-blog-timheuer) and I’d love to hear comments on the usefulness here. There is some added code in that repo that dynamically changes some of the routes to handle the Dev Tunnel proxy URL for development. 
+#+END_QUOTE
+    date:: [[2023-06-30]]
+*** from _Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core_ by Tim Heuer
+*** [View Highlight](https://read.readwise.io/read/01h45hym98fc7tmhvc7pckk0ac)

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: (readwise)A Primer on Clojure Macros
+:END:
+
+:PROPERTIES:
+:author: [[Janet A. Carr]]
+:full-title: "A Primer on Clojure Macros"
+:category: [[articles]]
+:url: https://blog.janetacarr.com/a-primer-on-clojure-macros/
+:image-url: https://blog.janetacarr.com/content/images/2023/01/carbon-14-.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+So what is a macro anyways? A macro is code that operates on other code, and typically they return code as their result. But what do all the tildes, at-symbols, pound (#), and back ticks mean? 
+#+END_QUOTE
+    date:: [[2023-06-30]]
+*** from _A Primer on Clojure Macros_ by Janet A. Carr
+*** [View Highlight](https://read.readwise.io/read/01h45mmv6atjs9dfcf0w2vmfc9)

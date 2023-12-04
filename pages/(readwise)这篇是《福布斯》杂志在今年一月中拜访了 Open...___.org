@@ -1,0 +1,97 @@
+:PROPERTIES:
+:title: (readwise)这篇是《福布斯》杂志在今年一月中拜访了 Open...
+:END:
+
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "这篇是《福布斯》杂志在今年一月中拜访了 Open..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1621790019336933376
+:image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+这篇是《福布斯》杂志在今年一月中拜访了 OpenAI 旧金山总部后对 Sam Altman 的一段独家采访，话题涉及ChatGPT、AGI、以及 AI 是否会对 Google 搜索构成威胁等等，我把要点总结在这条 Thread 里🧵 https://t.co/Sv7iZAc9WD 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790019336933376)
+** 📌
+#+BEGIN_QUOTE
+1/8 ChatGPT 只是 GPT-3 API 上的一个更新版，Sam 说团队做了些微调来帮助模型以特定的方式工作，并找到正确的交互范式，这并不是全新的技术。但很多人仍不相信我们，他们假定这一定是 GPT-4 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790020272271360)
+** 📌
+#+BEGIN_QUOTE
+2/8 人们都会拿 AI 服务与云计算平台做类比，你可以使用不同平台然后调用各种 API，虽然功能各异，但你部署上去就能得到服务。但各种 AI 产品服务之间的差异会非常大，包括了调用和使用方法 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790021144682496)
+** 📌
+#+BEGIN_QUOTE
+3/8 Sam 不认为 ChatGPT 可以取代搜索。但有一天，一个AI 系统可以做到这一点。其实如何超越搜索才是更有趣的思考。我们并不记得在网络搜索出现之前我们是如何找资料的，那时好像有种装在 CD 里的电子百科全书😄 现在应该做更酷的事情 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790022151331840)
+** 📌
+#+BEGIN_QUOTE
+4/8 OpenAI 能够保持市场的领先，重要的方式是推出像ChatGPT 这样的开放工具。Google 没有把这些东西放出来让公众使用，是因为研究实验室有些人担心这不安全。但我相信我们需要社会去感受一下，去看到好处，去了解缺点。所以把实验产品放出去，让世界理解即将到来的东西，这一点非常重要 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790023132786689)
+** 📌
+#+BEGIN_QUOTE
+5/8 GPT 能做的最酷的事情是“摘要”。事实上，我们已经拥有了对完整的文章或长长的电子邮件摘要的能力，这比想象的要有用得多。还有，可以做到让你感觉有个超级聪明的程序员，和你用交谈的方式来解决深奥的编程问题，或帮你调试代码 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790024101691394)
+** 📌
+#+BEGIN_QUOTE
+6/8 OpenAI 还将在保证安全的情况下，提供更加强大的 API，同时将继续开源像 2021 年发布的 CLIP、还有Whisper 和 Triton 这样的产品。这是一个多管齐下的策略，快速开放产品，同时平衡每件事的风险和收益 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790024990855169)
+** 📌
+#+BEGIN_QUOTE
+6/8 OpenAI 还将在保证安全的情况下，提供更加强大的 API，同时将继续开源像 2021 年发布的 CLIP、还有Whisper 和 Triton 这样的产品。这是一个多管齐下的策略，快速开放产品，同时平衡每件事的风险和收益 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790024990855169)
+** 📌
+#+BEGIN_QUOTE
+7/8 AGI（通用人工智能）还比较遥远，但这是一个渐进的过程，可能很多人对 AGI 达到的标准都有不同的看法。但这是一个思考框架，也是推动 OpenAI 前进的动力。Sam 认为能源很重要，我们需要大量的能源来创造 AGI 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790025896857600)
+** 📌
+#+BEGIN_QUOTE
+7/8 AGI（通用人工智能）还比较遥远，但这是一个渐进的过程，可能很多人对 AGI 达到的标准都有不同的看法。但这是一个思考框架，也是推动 OpenAI 前进的动力。Sam 认为能源很重要，我们需要大量的能源来创造 AGI 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790025896857600)
+** 📌
+#+BEGIN_QUOTE
+8/8 资本主义是人类历史上所有的坏制度中最好的一个，但如果 AGI 真的发生了，可以想象它会打破资本主义。OpenAI 试图设计一种结构，与其他企业结构不同。未来AGI 的利润如何分享，如何访问和治理，这三个问题将需要新的思考，AI 的宇宙不可能只属于一家公司。。 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790028426022914)
+** 📌
+#+BEGIN_QUOTE
+8/8 资本主义是人类历史上所有的坏制度中最好的一个，但如果 AGI 真的发生了，可以想象它会打破资本主义。OpenAI 试图设计一种结构，与其他企业结构不同。未来AGI 的利润如何分享，如何访问和治理，这三个问题将需要新的思考，AI 的宇宙不可能只属于一家公司。。 
+#+END_QUOTE
+    date:: [[2023-02-04]]
+*** from _这篇是《福布斯》杂志在今年一月中拜访了 Open..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1621790028426022914)

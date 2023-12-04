@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: (readwise)Code Released at Https:_...
+:END:
+
+:PROPERTIES:
+:author: [[ShunyuYao12 on Twitter]]
+:full-title: "Code Released at Https:/..."
+:category: [[tweets]]
+:url: https://twitter.com/ShunyuYao12/status/1661143117024886784
+:image-url: https://pbs.twimg.com/profile_images/1274872664423723008/mMz1d9OF.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Code released at https://t.co/O5UFJVBL33, thanks for waiting!
+
+It's intentionally kept minimalistic (core ~ 100 lines), though some features (e.g. variable breadth across steps) can be easily added to improve perf & reduce cost.
+
+(1/2) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Code Released at Https:/..._ by @ShunyuYao12 on Twitter
+*** [View Tweet](https://twitter.com/ShunyuYao12/status/1661143117024886784)
+** 📌
+#+BEGIN_QUOTE
+By trying more tasks, we can better tell what features are consistently good to be added into this extremely flexible framework, and transform ToT from a research project into a more practical framework! 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Code Released at Https:/..._ by @ShunyuYao12 on Twitter
+*** [View Tweet](https://twitter.com/ShunyuYao12/status/1661143119856009216)

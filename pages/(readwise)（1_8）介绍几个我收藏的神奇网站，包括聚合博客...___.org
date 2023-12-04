@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: (readwise)（1_8）介绍几个我收藏的神奇网站，包括聚合博客...
+:END:
+
+:PROPERTIES:
+:author: [[lgtwet on Twitter]]
+:full-title: "（1/8）介绍几个我收藏的神奇网站，包括聚合博客..."
+:category: [[tweets]]
+:url: https://twitter.com/lgtwet/status/1690907420581933056
+:image-url: https://pbs.twimg.com/profile_images/1622225659304222730/Nc7nbTRR.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+（1/8）介绍几个我收藏的神奇网站，包括聚合博客平台「积薪」和「Buzzing」、常用思考工具网站「Untools」、色彩查询网站「中国色」和「日本色」、「微信 Markdown 编辑器」、emoji 转换器「TxtEmoji」和 Twitter 截图工具「Poet」、实用小工具汇集网站「一个木函」等。 https://t.co/0ABwqGnajy 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907420581933056)
+** 📌
+#+BEGIN_QUOTE
+（2/8）积薪 https://t.co/PUphrYjLLz 是由 @darmaulee 创办的中文独立博客聚合平台，目前已收录了 152 个博客和 4535 篇文章。作者希望这些博客能像木柴一样，经过时间的筛选，还可以被更多的人看到。 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907422427410432)
+** 📌
+#+BEGIN_QUOTE
+（3/8）Buzzing https://t.co/9VB4O5MA0A 是由沉浸式翻译的作者 @OwenYoungZh 架设的知名英文网站的 RSS 聚合平台，收录的所有文章标题都以中文呈现，帮助中文读者快速寻找到感兴趣的内容。点击文章标题即可跳转原文进行深度阅读。 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907424167993344)
+** 📌
+#+BEGIN_QUOTE
+（4/8）Untools https://t.co/7HHxEGxLyE 这是一个介绍常用思考工具的网站，收集思考工具和框架，帮助您解决问题，做出决策和了解系统。 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907426013478912)
+** 📌
+#+BEGIN_QUOTE
+（5/8）中国色和日本色，选中心仪的颜色后，可以直接查看 CMYK、RGB 和 HEX 三种参数。并且，两个网站里给出的颜色参数都是专业的研究机构提供的。 https://t.co/vFVuamGSTF 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907427775152129)
+** 📌
+#+BEGIN_QUOTE
+（6/8）微信 Markdown 编辑器 https://t.co/NIQM46P4H7 将使用 Markdown 语法写好的文章一键复制为适合微信公众号的排版，还可以选择主体颜色，字体样式和大小，代码风格等。 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907429599657984)
+** 📌
+#+BEGIN_QUOTE
+（7/8）TxtEmoji https://t.co/9ZYFrpbq8t 实现文字和 emoji 的互转，自带加密功能。 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907431239593984)
+** 📌
+#+BEGIN_QUOTE
+（8/8）一个木函 https://t.co/wCMTMB5br5 这是移动端的一个木函 app 的网页版，同样汇集了很多实用小工具，包括短网址生成器、B 站封面提取器等各种图片工具、文本工具、开发工具等。 
+#+END_QUOTE
+    date:: [[2023-08-14]]
+*** from _（1/8）介绍几个我收藏的神奇网站，包括聚合博客..._ by @lgtwet on Twitter
+*** [View Tweet](https://twitter.com/lgtwet/status/1690907432976031744)

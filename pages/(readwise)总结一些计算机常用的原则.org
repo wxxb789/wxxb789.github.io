@@ -1,0 +1,62 @@
+:PROPERTIES:
+:title: (readwise)总结一些计算机常用的原则
+:END:
+
+:PROPERTIES:
+:author: [[xiantang]]
+:full-title: "总结一些计算机常用的原则"
+:category: [[articles]]
+:url: https://vim0.com/post/summary/rules/
+:image-url: https://vim0.com/post/main_cover.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+**KISS 原则**是英语 **K**eep **I**t **S**imple，**S**tupid 的首字母缩略字。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbczpntmdmfe8msf48crsgp)
+** 📌
+#+BEGIN_QUOTE
+don’t repeat yourself，直译不要重复你自己。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbd00mbj5p1yn450qag3jnk)
+** 📌
+#+BEGIN_QUOTE
+但是我觉得最佳实践是：如果一件事情做了 3 次，才将它抽成一个函数或做抽象，因为过早的抽象会导致不够普适，不利于代码的维护。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbd0asqe90za5cm4qbtchq8)
+** 📌
+#+BEGIN_QUOTE
+You aren’t gonna need it，YAGNI 的意思是“你不需要它”：在必要之前不要做多余的事情。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbd0gqhzqm8bpjpsn47j79r)
+** 📌
+#+BEGIN_QUOTE
+这个原则主要是告诉我们不要太早的去思考一个问题，降低实现的成本。 虽然和前者有些矛盾，但是我们可以通过我上面提到 3 次重复再尝试抽象来做折中来实践会比较好一些。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbd0nwb2cvj35d9ywjpw05m)
+** 📌
+#+BEGIN_QUOTE
+职责原则 (Single Responsibility Principle)，简单来说就是一个类只负责一个职责，而不能负责多个职责。在程序设计中，单一职责原则是一个很重要的原则，因为它能够帮助我们更好的组织代码，更好的管理代码，更好的解决问题。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbd1a7cssg7m712atr21sfz)
+** 📌
+#+BEGIN_QUOTE
+面向接口编程原则 (Interface Segregation Principle)，简单来说就是尽量使用多的接口，而不是使用多的类。 
+#+END_QUOTE
+    date:: [[2022-12-16]]
+*** from _总结一些计算机常用的原则_ by xiantang
+*** [View Highlight](https://read.readwise.io/read/01gmbd1xsaxtkys11rqkwvhvea)

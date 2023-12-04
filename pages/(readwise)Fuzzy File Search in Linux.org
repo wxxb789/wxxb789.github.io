@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: (readwise)Fuzzy File Search in Linux
+:END:
+
+:PROPERTIES:
+:author: [[Sreenath]]
+:full-title: "Fuzzy File Search in Linux"
+:category: [[articles]]
+:url: https://itsfoss.com/fuzzy-file-search-linux/
+:image-url: https://itsfoss.com/content/images/2023/06/fuzzy-file-search-linux.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Using `fzf` with `tree` command can help you find the absolute path of a particular file. 
+#+END_QUOTE
+    date:: [[2023-06-15]]
+*** from _Fuzzy File Search in Linux_ by Sreenath
+*** [View Highlight](https://read.readwise.io/read/01h2z81xbntzkmrsd1pbsra0w7)
+** 📌
+#+BEGIN_QUOTE
+Now, if you want to copy the location of an item, you don't necessarily need to do it manually. There is a solution for that too.
+
+First, make sure you have Xclip installed.
+
+    sudo apt install xclip
+
+Now pipe it to xclip like this:
+
+    fzf | xclip -selection clipboard
+
+This will copy whatever lines you have pressed the enter key, on to your clipboard. 
+#+END_QUOTE
+    date:: [[2023-06-15]]
+*** from _Fuzzy File Search in Linux_ by Sreenath
+*** [View Highlight](https://read.readwise.io/read/01h2z8bvkbg755wxd9pmts3ec7)
+** 📌
+#+BEGIN_QUOTE
+•   `cat ~/.bashrc | fzf` - Search Inside Bashrc
+•   `lsblk | fzf` - Search inside the list of lock devices
+•   `ps -aux | fzf` - Search inside process list 
+#+END_QUOTE
+    date:: [[2023-06-15]]
+*** from _Fuzzy File Search in Linux_ by Sreenath
+*** [View Highlight](https://read.readwise.io/read/01h2z8c6g5h0d1z2mtj2tbafww)
+** 📌
+#+BEGIN_QUOTE
+Another choice: Fzy, the Fuzzy Selector
+
+Unlike `fzf`, `fzy` is a fuzzy selector, where you will be provided a menu to select, depending on the input. 
+#+END_QUOTE
+    date:: [[2023-06-15]]
+*** from _Fuzzy File Search in Linux_ by Sreenath
+*** [View Highlight](https://read.readwise.io/read/01h2z7zq0p5c53tkvbm8a4rn1t)

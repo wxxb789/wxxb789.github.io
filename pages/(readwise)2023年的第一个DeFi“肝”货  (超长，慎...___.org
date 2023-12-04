@@ -1,0 +1,799 @@
+:PROPERTIES:
+:title: (readwise)2023年的第一个DeFi“肝”货  (超长，慎...
+:END:
+
+:PROPERTIES:
+:author: [[0xJamesXXX on Twitter]]
+:full-title: "2023年的第一个DeFi“肝”货  (超长，慎..."
+:category: [[tweets]]
+:url: https://twitter.com/0xJamesXXX/status/1609266991059341317
+:image-url: https://pbs.twimg.com/profile_images/1685194033763868672/NsbUN8P6.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+2023年的第一个DeFi“肝”货  (超长，慎入!)
+
+1/45 想在2023年的第一天，抢占#DeFi 赛道的先机吗？
+
+@TheDeFinvestor整理了40多个具有超强潜力的DeFi协议路线图。经其授权，我做了翻译补充，以方便大家参考。
+
+一个关于DeFi赛道蓝图的超长推文，让我们开始吧! 
+(新年夜肝出来的，欢迎点赞转发支持🙏)
+🧵 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266991059341317)
+** 📌
+#+BEGIN_QUOTE
+2/ 由于DeFi仍处于起步阶段，路线图是大多数协议面对市场和投资者的主要卖点。
+
+在这个推文中，作者囊括了成熟的DeFi协议以及具有公开路线图的小型创新项目，来带你以最全面的视角了解DeFi行业的发展方向。
+
+让我们深入了解一下👇 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266992950960128)
+** 📌
+#+BEGIN_QUOTE
+3/ @CurveFinance
+
+最受欢迎的DEX之一。
+
+路线图：
+
+\- 推出crvUSD稳定币
+
+该协议将使用一种名为LLAMMA的新型清算AMM算法，以防止清算惩罚。
+
+LLAMMA将逐步清算借款人的头寸，而不是一次性清算。
+https://t.co/CBZblVGuGj 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266994716741632)
+** 📌
+#+BEGIN_QUOTE
+4/ @AaveAave
+
+最大的去中心化货币市场。
+
+在最近的一次采访中，@lemiscate谈到了AAVE的下一步计划：
+
+\- GHO稳定币
+
+- AAVE借记卡
+
+- 一个用于社交媒体和DeFi服务的AAVE应用程序
+
+- 一个与代币持有人分享收入的模式 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266996730040321)
+** 📌
+#+BEGIN_QUOTE
+5/ @AngleProtocol
+
+Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
+
+路线图。
+
+\- 支持LP代币作为抵押品来铸造agEUR
+
+- 推出基于货币和商品的其他挂钩资产
+
+- 更多整合和链上收益机会 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266998407761920)
+** 📌
+#+BEGIN_QUOTE
+6/ @SushiSwap
+
+一个由社区建立的DeFi开源生态系统。
+
+路线图：
+
+\- 代币经济学的重构
+
+- Sushi Studios的启动
+
+关于它的更多细节尚待披露。
+
+- 推出永续合约的DEX（在2023年第一季度） 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267000404234240)
+** 📌
+#+BEGIN_QUOTE
+7/ @GMX_IO
+
+第二大永续合约DEX。
+
+路线图：
+
+\- 部署合成资产--允许无权限创建新市场和其他改进。
+
+- 在Avalanche上进行新的交易竞赛
+
+- 开发X4交易所--一个让资金池创建者完全控制其资金池的新型AMM。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267002342006785)
+** 📌
+#+BEGIN_QUOTE
+8/ @LiquityProtocol
+
+一个关于#ETH的无息借贷协议。
+
+该团队正在致力于：
+
+\- 普遍化的Chicken Bonds（CB）--允许任何项目使用CB
+
+有了Chicken Bonds，协议可以以最小的成本获得流动资金。
+
+- 找到解决稳定币不可能三角问题的方法 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267003981975553)
+** 📌
+#+BEGIN_QUOTE
+9/ @dYdX
+
+交易量最大的永续合约DEX。
+
+目前的发展计划：
+
+\- dYdX V4 - 一个新版本的协议，将被部署在dYdX自己的Cosmos链上
+
+dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心化的协议。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267005689036801)
+** 📌
+#+BEGIN_QUOTE
+10/ @synthetix_io
+
+支持创建合成资产一种新的金融创新。
+
+合成资产本质上是其价值与另一种资产挂钩的代币。
+
+路线图：
+
+\- 推出Synthetix V3 - 实现合成资产的无权限创建 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267007329042432)
+** 📌
+#+BEGIN_QUOTE
+11/ @AlpacaFinance
+
+一个杠杆式DeFi产品的平台。
+
+它允许在Fantom和BNB链上进行杠杆式yield farming（DeFi流动性挖矿）。
+
+路线图：
+
+\- 推出羊驼金融V2
+
+最有趣的变化之一是，用户将能够列出他们想要的任何资产用于借贷。 
+
+![](https://pbs.twimg.com/media/FlVC-jsaYAApNW6.png) 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267009048674305)
+** 📌
+#+BEGIN_QUOTE
+12/ @osmosiszone
+
+最大的去中心化Cosmos交易所。
+
+路线图：
+
+\- 实现集中流动性（像Uniswap V3那样）。
+
+- 增加对限价订单的支持 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267011087110145)
+** 📌
+#+BEGIN_QUOTE
+13/ @QuickswapDEX
+
+Polygon上最受欢迎的DEX。
+
+路线图：
+
+\- 建立一个套利工具，重新平衡DEX的流动性，并与$QUICK质押者分享以此方式产生的收入。
+
+- 改进新的用户界面
+
+- 建立一个NFT市场
+
+- veQUICK tokenomics升级 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267012899057664)
+** 📌
+#+BEGIN_QUOTE
+14/ @OlympusDAO
+
+Olympus DAO正在建立$OHM，一个去中心化的储备货币。
+
+路线图：
+
+\- 实施链上治理
+
+- 允许跨链原生OHM
+
+- 新的合作伙伴 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267014694227969)
+** 📌
+#+BEGIN_QUOTE
+15/ @traderjoe_xyz
+
+#AVAX 上的一站式去中心化交易平台。
+
+路线图：
+
+\- 多链生态扩张
+
+- 一个做市奖励计划
+
+- 建立在Liquidity Book AMM之上的新产品，使Trader Joe提供全方位的DEX业务。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267016594255872)
+** 📌
+#+BEGIN_QUOTE
+16/  @vela_exchange
+
+一个即将登陆Arbitrum的永续DEX。
+
+它将支持加密货币、外汇和其他资产。
+
+交易者将能够通过电子邮件和短信获得通知。
+
+路线图：
+
+\- 公共测试版将于一月上线
+
+- 场外交易和现货的整合将在推出后不久上线。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267018460729345)
+** 📌
+#+BEGIN_QUOTE
+17/ @GearboxProtocol
+
+在#以太坊上的一个可组合的杠杆协议。
+
+它允许借款人在他们最喜欢的协议上使用杠杆，以提高yield farming的回报。
+
+未来的计划：
+
+\- 让DAO评估流动性挖矿计划
+
+- 与其他协议进行新的整合 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267020310401024)
+** 📌
+#+BEGIN_QUOTE
+18/ @dopex_io
+
+Arbitrum上最受欢迎的期权DEX。
+
+路线图：
+
+\- rDPX V2 tokenomics重构
+
+- 推出dpxUSD稳定币
+
+- 与GMX合作发布Atlantic perps保护，允许无清算的杠杆交易
+
+- Polygon上的$MATIC跨期交易 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267021900058625)
+** 📌
+#+BEGIN_QUOTE
+19/ @THORChain
+
+一个去中心化的跨链流动性协议，允许用户进行跨链swap交易。
+
+路线图：
+
+\-与更多钱包和DEX的集成
+
+- 实现跨链借贷
+
+- 增加对更多链的支持
+
+- 在THORchain上推出订单簿 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267024261435393)
+** 📌
+#+BEGIN_QUOTE
+20/ @BreederDodo
+
+一个多链去中心化的交易平台。
+
+路线图：
+
+\- 新的资产流动性控制工具
+
+- 生态系统DAO
+
+- 推出保证金交易 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267025968521216)
+** 📌
+#+BEGIN_QUOTE
+21/ @chainlink
+
+一个去中心化的预言机网络。
+
+路线图：
+
+\- 推出跨链互操作性协议--实现跨链dApps
+
+- 新的tokenomics改进
+
+- 为DeFi衍生品市场(GMX, Synthetix)开发一个新的低延迟Oracle解决方案
+
+... 更多 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267027847569408)
+** 📌
+#+BEGIN_QUOTE
+22/ @spin_fi
+
+一个基于Near的去中心化交易平台。
+
+路线图：
+
+\- 推出Power perps - 一个新的产品，将为一些有较低下行风险的资产提供更大的曝光。
+
+- 发布Spin代币，同时为早期用户空投。
+
+- 推出DeFi期权金库 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267029458178049)
+** 📌
+#+BEGIN_QUOTE
+23/ @ribbonfinance
+
+一个结构化的DeFi协议。
+
+其用户可以投资主要通过买卖期权产生收益的金库。
+
+路线图：
+
+\- 推出Aevo--一个订单式期权DEX
+
+Aevo的目标是提供类似CEX的体验，同时保持去中心化。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267031257513984)
+** 📌
+#+BEGIN_QUOTE
+24/@Buffer_Finance
+
+一个奇异期权（Exotic Option）的交易平台。
+
+路线图：
+
+\- 组织无亏损锦标赛 -上/下行比赛，交易者可通过支付费用参与其中
+
+- 发布高/低二元期权
+
+- 发布Knockouts -有助于对冲策略的杠杆头寸 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267032784269313)
+** 📌
+#+BEGIN_QUOTE
+25/ @vector_fi
+
+Trader Joe（TJ）和Echidna Finance的收益率聚合器。
+
+路线图: 
+
+\- 开发建立在Avalanche dApps之上的自动化策略
+
+- 开发Liquidity Book库，通过为TJ的新AMM提供流动性来产生收益率
+
+- 聚合新的协议 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267034684264448)
+** 📌
+#+BEGIN_QUOTE
+26/ @indexcoop
+
+Index Coop建立了架构化的DeFi产品。
+
+路线图：
+
+推出2个新产品。
+
+\- 多样化质押ETH--将ETH分配到多个流动性质押协议，以获得收益
+
+- 多元化稳定币收益--使买家能够获得DeFi中最大的收益 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269056741466113)
+** 📌
+#+BEGIN_QUOTE
+27/ @Platypusdefi
+
+一个创新的稳定币AMM，支持单边流动性的提供。
+
+路线图：
+
+\- 推出一个名为USP的新稳定币--其机制受到MakerDAO的DAI启发
+
+- 为vePTP持有人创造新的收入来源 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269058507255809)
+** 📌
+#+BEGIN_QUOTE
+28/ @opyn_
+
+一个创新性的DeFi期权协议。
+
+Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH²的永续敞口。
+
+路线图：
+
+\- 建立新的Squeeth策略
+
+- 使用户界面更加吸引人 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269060143034370)
+** 📌
+#+BEGIN_QUOTE
+29/ @pendle_fi
+
+一个DeFi收益率交易协议。
+
+你可以用它来押注未来的收益率并执行任何收益率策略。
+
+路线图：
+
+\- 多链生态扩展
+
+- 为用户提供新的简化工具，以适用该协议的各种使用情况
+
+- 与市场龙头建立新的伙伴关系 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269062420561920)
+** 📌
+#+BEGIN_QUOTE
+30/ @pangolindex
+
+一个多链式的DEX。
+
+路线图。
+
+\- 继续多链扩张
+
+- 在每次扩展到新链时，用空投来激励他们的社区
+
+- 建立新的开源、去中心化的产品（更多细节有待公布） 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269064500940801)
+** 📌
+#+BEGIN_QUOTE
+31/ @GainsNetwork_io
+
+Polygon上最受欢迎的永续合约DEX gTrade背后的团队。
+
+路线图：
+
+\- 在ZK-rollup上部署gTrade
+
+- 新的交易竞赛
+
+- 过渡到DAO治理
+
+- 增加更多的可交易资产（商品、指数）。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269066480652288)
+** 📌
+#+BEGIN_QUOTE
+32/ @vestafinance
+
+一个建立在Arbitrum上的稳定币协议。
+
+路线图：
+
+\- 发布杠杆交易用户界面，让任何人都能无缝地获得杠杆敞口。
+
+- 发布Vesta V2
+
+- 多链扩展到其他以太坊L2 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269068447768578)
+** 📌
+#+BEGIN_QUOTE
+33/@redactedcartel
+
+一个智能合约的产品套件。
+
+\- 将Pirex扩展到多个链上，并整合更多的代币，如GLP
+
+Pirex是Redacted的一个产品，允许未来收益率的代币化。
+
+- 发行一个名为Dinero的稳定币
+
+- 不断推出更多新产品 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269070335213568)
+** 📌
+#+BEGIN_QUOTE
+34/ @Injective_
+
+一个为DeFi而建的区块链。
+
+路线图：
+
+\- 在主网上推出X项目--Injective即将推出的一个协议，由两个主要部分组成:
+
+- 用于做市的自动策略库
+
+- 筹款和上市的启动平台 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269072491053057)
+** 📌
+#+BEGIN_QUOTE
+35/ @GMDprotocol
+
+一个建立在GMX的GLP之上的收益聚合器。
+
+路线图:
+
+\- 在Gains Network的DAI金库基础上推出新的金库。
+
+- 在GMX的Synthetics基础上推出新的金库
+
+- 发布他们自己的合成资产
+
+- 多链扩展（潜在的） 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269074185555968)
+** 📌
+#+BEGIN_QUOTE
+36/ @WOOnetwork
+
+一个连接交易、交易所和DeFi平台的深度流动性网络。
+
+路线图:
+
+\- 改进WOO的代币经济学
+
+- 在WOOFI DEX上增加永续合约DEX
+
+- 全新升级WOOFI质押机制 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269076064632834)
+** 📌
+#+BEGIN_QUOTE
+37/ @NexusMutual
+
+最受欢迎的DeFi保险协议。
+
+路线图：
+
+\- 发布Nexus V2（目前正在审计中）
+
+Nexus V2将允许创建联合体（syndicates），这些syndicates将能够设定其保单的定价。
+
+一旦V2推出，保险将由可转让的NFT代表。 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269077650079744)
+** 📌
+#+BEGIN_QUOTE
+38/ @lyrafinance
+
+Optimism上最受欢迎的期权DEX。
+
+路线图：
+
+\- 提供更多具有多种行权和到期日的工具
+
+- 在Arbitrum上部署Lyra 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269079302627328)
+** 📌
+#+BEGIN_QUOTE
+39/ @PremiaFinance
+
+一个多链部署的期权协议。
+
+路线图：
+
+\- 推出Premia V3 - 它将使任何人都能创建无权限的期权池
+
+- 新的自动收益率策略
+
+- 实施一种机制，允许流动性提供者部署范围订单 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269080716095488)
+** 📌
+#+BEGIN_QUOTE
+40/ @TeamKujira
+
+一个为社区选择的项目提供的Cosmos L1平台。
+
+路线图：
+
+\- 开始在他们名为FIN的交易所中支持保证金交易
+
+- 推出Ghost（关于这个产品还没有很多细节）
+
+- 发布@SonarWallet 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269082381221890)
+** 📌
+#+BEGIN_QUOTE
+41/ @rage_trade
+
+一个建立在Arbitrum上的ETH Perp。
+
+它使用80-20金库来回收ETH-USDC LP份额，并为Rage提供流动性。
+
+路线图：
+
+\- 发布新的80-20金库
+
+- 增加Rage的GLP delta neutral vaults上限
+
+- 推出Rage代币 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269083941502980)
+** 📌
+#+BEGIN_QUOTE
+42/ @UmamiFinance
+
+一个建立在Arbitrum上的真实收益率协议。
+
+路线图：
+
+\- 推出Umami GLP Vaults
+
+- 推出DeFi衍生品LP指数--一种将流动性提供的收益率汇总到衍生品平台的策略。
+
+- 为机构推出ETH质押池 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269085795397632)
+** 📌
+#+BEGIN_QUOTE
+43/ @PlutusDAO_io
+
+一个Arbitrum原生的治理聚合器。
+
+路线图：
+\- $PLS tokenomics升级
+
+- 新的金库（目前Plutus有一个GLP金库，自动复利GLP奖励）。
+
+- 与Dopex合作开发Orbital DEX 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269087687028738)
+** 📌
+#+BEGIN_QUOTE
+44/ @DAOJonesOptions
+
+为DeFi策略搭建的收益和流动性协议。
+
+路线图：
+
+\- veJONES tokenomics升级
+
+- 推出2个新的金库，将杠杆化利用GMX的GLP收益率 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269089725476864)
+** 📌
+#+BEGIN_QUOTE
+45/ @steakhut_fi
+
+一个Avalanche原生的收益和流动性的聚合器。
+
+路线图：
+
+\- 在Trader Joe's Liquidity Book AMM的基础上建立自动金库。
+
+- 可能在Arbitrum上部署（尚未确认） 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269091591917568)
+** 📌
+#+BEGIN_QUOTE
+46/ 希望这个推文可以帮助你大致了解DeFi赛道2023年的发展方向。如果你总结出了一些共性趋势，欢迎在下方评论区留言！
+
+最重要的是，请不要忘记关注@TheDeFinvestor 和 @0xJamesXXX !
+
+欢迎点赞+转发下方的第一个推文，您的鼓励是我们最大的动力。 新年快乐 Happy New Year！
+https://t.co/XqsceKNfdG 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269093336764416)
+** 📌
+#+BEGIN_QUOTE
+@wublockchain12 @BlockBeatsAsia @TechFlowPost @CTChinaOfficial @BlockDanceCN @ChainCatcher_ @PANewsCN @8BTC_OFFICIAL @Foresight_News 
+#+END_QUOTE
+    date:: [[2023-01-02]]
+*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
+*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609430911686410242)

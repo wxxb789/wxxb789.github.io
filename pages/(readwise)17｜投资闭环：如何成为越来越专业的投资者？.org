@@ -1,0 +1,102 @@
+:PROPERTIES:
+:title: (readwise)17｜投资闭环：如何成为越来越专业的投资者？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "17｜投资闭环：如何成为越来越专业的投资者？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/408993
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/af/15/af4f636a1bc511c4c71bf93520e08915.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+为了建立投资闭环，我们需要对它进行一个小小的改造，就是在退出阶段之后加上“投资复盘”的环节（如图 1）。我们不仅要复盘这次投资中成功的经验，还要复盘失败的经验，让它们都沉淀到你的投资体系里。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnysp34mzbpfy7vnkbandt8)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/a9/0f/a94360a159f1b2f481da861cc5201b0f.jpg?wh=2248x1151) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnysqkr3tnwrpztdwyd0p9h)
+** 📌
+#+BEGIN_QUOTE
+简单来说，投资跟踪表就像一个漏斗一样，把你的投资想法一层层过滤成可投资的支点，再记录下从投资到退出的整个过程，最后针对整个过程进行复盘。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz2mj34m83k65vk0adgpxn)
+** 📌
+#+BEGIN_QUOTE
+接下来我们详细讲讲。投资跟踪表主要分为“头脑风暴阶段”“支点研究阶段”和“投资跟踪阶段”三大部分。具体形式你可以参照图 5，下面，先来听我介绍下每个阶段吧。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz2qrr80fvh3hccyjm7wb6)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/89/63/8943038cc3b0960a27b1ed17396c3d63.jpg?wh=2248x756) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz27w0m5gmxmms8z354tv1)
+** 📌
+#+BEGIN_QUOTE
+第一个阶段是“头脑风暴阶段”，主要负责记录你发现的任何可能的投资机会。这些机会可能是你自己在观察熟悉的投资标的时发现的，可能是你在跟同事朋友讨论时得出的，也可能是你看了一篇文章，或者听了某位专家介绍，觉得有道理而记下的。总之，只要你有新的投资想法，都要新开一条记录，不用管这个想法靠不靠谱，因为这个阶段的目的就是为你积累大量的支点素材。
+
+第二个阶段是“支点研究阶段”。这个阶段的目的是把你非常粗糙的支点素材打磨成一个可行的投资行为。它就像一个漏斗，把不靠谱的，或者你认为优先级不高的支点素材过滤掉。
+
+在图 5 中，我针对“银行地产行业被低估”这一支点素材，进行了一些投资分析，查阅了房地产行业的 PE、历史估值分位数、基本面等数据，最终确认可以开始对应的投资行为。当然，如果通过研究，你发现自己的支点站不住脚，就应该把这个支点停止在研究阶段，不要进一步触发实质的投资行为。
+
+第三个阶段就是实际执行的“投资跟踪阶段”，我们应该根据支点投资法，详细记录投资行为触发和退出的时间，以及触发退出的逻辑。并且，在一切都尘埃落定之后，复盘整个投资过程，把复盘的关键点记录下来，供之后进行投资时参考。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz355hc9wv4a28nq6bnr4v)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/89/63/8943038cc3b0960a27b1ed17396c3d63.jpg?wh=2248x756) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzhx8ax7dn03nkegrkzpeh)
+** 📌
+#+BEGIN_QUOTE
+最后想说的是，如果你真的坚持使用投资跟踪表，记录你的所有投资过程，你会发现自己正在写一本专属于你自己的理财书。这本书的厉害之处在于，它是最适合你的，你对每一处的细节了如指掌，每看一条记录，就会发现当时的心态、思考、行为都历历在目。
+
+我相信，这一定会让你受益无穷。如果你能够坚持下来，记录到第 10 条的时候，就能切实地感受到自己的进步；记录到第 50 条的时候，就会和我一样，有在财富管理赛道上“升了一级”的感觉。所以，希望你能真正地尝试起来，并且坚持下去。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz6bapmsjt7vs7wf30cd0w)
+** 📌
+#+BEGIN_QUOTE
+建立投资闭环，就是在原来支点投资法的流程中加上复盘环节。
+
+长期进行有效复盘的投资者，和从不进行复盘的投资者，在支点投资法的具体应用上有着决定性的差距。
+
+我的复盘结论之一：除非有极强的做空信号，否则散户不要去碰做空交易。
+
+我的复盘结论之二：要在市场疯狂的时候让利润奔跑，选择合适的退出时机。
+
+投资跟踪表分为头脑风暴阶段、支点研究阶段、投资跟踪阶段三大部分，坚持使用它会帮助你成为越来越专业的投资者。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz6g6ja5p0a42j9eg4vq97)
+** 📌
+#+BEGIN_QUOTE
+1.大a能做空吗？做空是先找券商借，然后赌下跌，下跌之后赚取差价，然后把之前找券商借的股票还上对吧 2.老师这次失败所加的三倍杠杆，具体是怎么加的，抵押房子吗？ 3.老师买蔚来汽车你这次投机性质很强啊，支点很模糊，当时买了几成仓？ 4.“在市场疯狂的时候让利润奔跑”一般设置的心里止盈率是多少呢？
+
+作者回复: 1、只能通过股指期货做空 2、每股的ETF自带三倍杠杆 3、股票资金量的20%左右 4、没有止盈率，只根据市场的动态情况随时验证 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnz9xgqnpvtncysjqgerw4f)

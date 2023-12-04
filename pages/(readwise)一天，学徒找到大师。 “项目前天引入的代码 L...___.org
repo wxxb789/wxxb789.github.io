@@ -1,0 +1,60 @@
+:PROPERTIES:
+:title: (readwise)一天，学徒找到大师。 “项目前天引入的代码 L...
+:END:
+
+:PROPERTIES:
+:author: [[Piglei on Twitter]]
+:full-title: "一天，学徒找到大师。 “项目前天引入的代码 L..."
+:category: [[tweets]]
+:url: https://twitter.com/Piglei/status/1730020086042460204
+:image-url: https://pbs.twimg.com/profile_images/809679747521253376/qLx7R1YR.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+一天，学徒找到大师。
+
+“项目前天引入的代码 Linter 工具非常强大，我发现，现在大家的代码质量几乎都一样好。”学徒继续说道：“我想知道，如果 Linter 能帮所有人写出一样好的代码，那么人们口中常说的‘更强的开发能力’，究竟又体现在什么地方呢？” 
+#+END_QUOTE
+    date:: [[2023-11-30]]
+*** from _一天，学徒找到大师。 “项目前天引入的代码 L..._ by @Piglei on Twitter
+*** [View Tweet](https://twitter.com/Piglei/status/1730020086042460204)
+** 📌
+#+BEGIN_QUOTE
+大师略一思索，回答道：“十年以前，在高速道路上开车，驾驶员需要将车匀速稳定地居中在车道线中间。但可能出乎你意料的是，要把‘匀速稳定居中’这件简单的事情做到位，实际上需要积累相当长时间的驾驶经验。”
+
+大师继续说：“但是现在，大部分车都配备了辅助驾驶能力，能轻松帮驾驶员做到前面的事。 
+#+END_QUOTE
+    date:: [[2023-11-30]]
+*** from _一天，学徒找到大师。 “项目前天引入的代码 L..._ by @Piglei on Twitter
+*** [View Tweet](https://twitter.com/Piglei/status/1730020087363711247)
+** 📌
+#+BEGIN_QUOTE
+你会观察到，将车开上高速路后，有一类驾驶员会打开手机刷短视频，而另一类驾驶员则仍然紧盯道路，随时准备优化线路，接管那些机器目前仍无能为力的紧急场景。”
+
+大师见学徒若有所思，继续补充道：“开车，不等于让车匀速稳定地行驶在车道中间，这就好比软件开发， 
+#+END_QUOTE
+    date:: [[2023-11-30]]
+*** from _一天，学徒找到大师。 “项目前天引入的代码 L..._ by @Piglei on Twitter
+*** [View Tweet](https://twitter.com/Piglei/status/1730020089897095568)
+** 📌
+#+BEGIN_QUOTE
+也不等于提交能通过 Linter 质量检查的代码。好的程序员总是清楚地知道，在 Linter 的职权之外，仍有许多更重要的问题需要被解决。”
+
+学徒听得连连点头。但紧接着，他像是突然想到了什么恐怖的事情，吞吞吐吐地说道：“但是，汽车的辅助驾驶技术仍在不断发展。 
+#+END_QUOTE
+    date:: [[2023-11-30]]
+*** from _一天，学徒找到大师。 “项目前天引入的代码 L..._ by @Piglei on Twitter
+*** [View Tweet](https://twitter.com/Piglei/status/1730020092728291627)
+** 📌
+#+BEGIN_QUOTE
+总有一天，驾驶员在高速路上可以完全放手，不再需要做任何事情。”
+
+大师听言，看了一眼屏幕上的 ChatGPT 窗口，沉思良久。最后，他一字一顿的说：“是的，你说得没错，我想这对于软件开发来说，也是一样。”
+
+然后，大师突然起身，向着门外的绿色草坪缓缓走去，背影有些落寞。 
+#+END_QUOTE
+    date:: [[2023-11-30]]
+*** from _一天，学徒找到大师。 “项目前天引入的代码 L..._ by @Piglei on Twitter
+*** [View Tweet](https://twitter.com/Piglei/status/1730020630253433318)

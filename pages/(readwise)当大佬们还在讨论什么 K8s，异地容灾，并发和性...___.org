@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: (readwise)当大佬们还在讨论什么 K8s，异地容灾，并发和性...
+:END:
+
+:PROPERTIES:
+:author: [[Ice_Hazymoon on Twitter]]
+:full-title: "当大佬们还在讨论什么 K8s，异地容灾，并发和性..."
+:category: [[tweets]]
+:url: https://twitter.com/Ice_Hazymoon/status/1673218718120431616
+:image-url: https://pbs.twimg.com/profile_images/1087797830192746497/kzSp-Wum.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+当大佬们还在讨论什么 k8s，异地容灾，并发和性能的时候，有些群友已经用 30 多的服务器+宝塔面板赚了 100 多万。
+
+刚开始听到公司里项目雏形和方向都没有，每个月在 AWS 上要花近 1w 美元的时候我都震惊了。
+
+这些操作固然很重要，但要视情况考虑不要过度优化，公司不缺钱那当我没说。 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _当大佬们还在讨论什么 K8s，异地容灾，并发和性..._ by @Ice_Hazymoon on Twitter
+*** [View Tweet](https://twitter.com/Ice_Hazymoon/status/1673218718120431616)
+** 📌
+#+BEGIN_QUOTE
+有人很好奇啥东西能这么赚，举俩真实的例子吧。
+有个群友易语言写的淘宝客机器人，现在月入五六万。
+NovelAI 没风控的时候卖画图教程和机器人插件（后面被出版社拉去出书了）赚了 30 几万。
+我在 18 19 年的时候用 jQuery 糊了一个 vtuber 资讯和排名类网站，每天的 ads 广告费都有近 200 刀。 
+
+![](https://pbs.twimg.com/media/FzjSIZraUAEH6C2.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _当大佬们还在讨论什么 K8s，异地容灾，并发和性..._ by @Ice_Hazymoon on Twitter
+*** [View Tweet](https://twitter.com/Ice_Hazymoon/status/1673318306386972672)
+** 📌
+#+BEGIN_QUOTE
+这些都只是其中一部分，几年前一群连前端都不知道是啥的网友，到现在都去旅游，买车，买房，结婚，出国了。
+大家都没有写过什么眼前一亮的项目，也没有很厉害的技术，有的只是刻在 DNA 里的穷病和不停的努力和尝试罢了。 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _当大佬们还在讨论什么 K8s，异地容灾，并发和性..._ by @Ice_Hazymoon on Twitter
+*** [View Tweet](https://twitter.com/Ice_Hazymoon/status/1673320710104838145)
+** 📌
+#+BEGIN_QUOTE
+我可没说技术不重要啊，别误解我的意思，现在不学新东西就是死路一条，我去小日子那当社畜都要从零开始学很多东西，要不然对方公司都不要我，考完证才让我去🙃 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _当大佬们还在讨论什么 K8s，异地容灾，并发和性..._ by @Ice_Hazymoon on Twitter
+*** [View Tweet](https://twitter.com/Ice_Hazymoon/status/1673323549640245248)

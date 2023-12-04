@@ -1,0 +1,98 @@
+:PROPERTIES:
+:title: (readwise)OpenAI Just Introduced F...
+:END:
+
+:PROPERTIES:
+:author: [[dfinke on Twitter]]
+:full-title: "OpenAI Just Introduced F..."
+:category: [[tweets]]
+:url: https://twitter.com/dfinke/status/1673360490326786048
+:image-url: https://pbs.twimg.com/profile_images/987146068617060356/L0pvjHuH.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+OpenAI just introduced Function Calling.
+
+This is a killer feature! It's the most consequential update to their API since they released it.
+
+Here is a #PowerShell example to show you how powerful this is: 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360490326786048)
+** 📌
+#+BEGIN_QUOTE
+The question:
+
+"What's the result of 22 plus 5 in decimal added to the hexadecimal number A?"
+
+It's a complex question requiring adding numbers in different formats.
+
+To solve it, we can combine functions with prompts. Here is what it looks like: 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360493464145922)
+** 📌
+#+BEGIN_QUOTE
+I'm going to define two functions.
+
+1. One that knows how to add two decimal numbers.
+
+2. The other knows how to add two hexadecimal numbers.
+
+You define these functions as part of the Chat Completion call: 
+
+![](https://pbs.twimg.com/media/Fzj4gWOaAAE5V3-.png) 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360501068410880)
+** 📌
+#+BEGIN_QUOTE
+The implementation of these two functions is not particularly interesting.
+
+They take the arguments and do the sum. 
+
+![](https://pbs.twimg.com/media/Fzj4gyUaUAMqhAA.png) 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360508924366850)
+** 📌
+#+BEGIN_QUOTE
+This is the cool part:
+
+I call OpenAI's API repeatedly until I find a "stop" reason.
+
+Whenever the API finishes with a "function_call" reason, I call the specific function and pass the results back to the API. 
+
+![](https://pbs.twimg.com/media/Fzj4hPqagAMdPL8.png) 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360518520930304)
+** 📌
+#+BEGIN_QUOTE
+The output from the script:
+
+• 22 + 5 = 27 (decimal)
+• 27 + A = 31 (hexadecimal)
+• The result of 22 plus 5 in decimal added to the hexadecimal number A is 31.
+
+GPT used both of the #PowerShell functions to compute the final result! 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360522220273670)
+** 📌
+#+BEGIN_QUOTE
+Try it now: Install-Module PowerShellAI
+
+#PowerShell #ChatGPT #OpenAI 
+#+END_QUOTE
+    date:: [[2023-07-04]]
+*** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
+*** [View Tweet](https://twitter.com/dfinke/status/1673360525030477826)

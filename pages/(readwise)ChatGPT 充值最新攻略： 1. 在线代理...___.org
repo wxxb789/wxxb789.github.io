@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: (readwise)ChatGPT 充值最新攻略： 1. 在线代理...
+:END:
+
+:PROPERTIES:
+:author: [[manateelazycat on Twitter]]
+:full-title: "ChatGPT 充值最新攻略： 1. 在线代理..."
+:category: [[tweets]]
+:url: https://twitter.com/manateelazycat/status/1658255568212205569
+:image-url: https://pbs.twimg.com/profile_images/768239262/HaskellIcon.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+ChatGPT 充值最新攻略：
+
+1. 在线代理： 自建VPS或者找美国IP的 '机场'
+2. 虚拟信用卡：注册 nobepay 账号（邀请码Twitter上找）， 充值（支持支付宝，500人民币起冲，开卡3美金）， 开一张美国地区的信用卡（充值账户选 CNY）
+3. ChatGPT: 代理一直要挂上(ChatGPT检测美国IP)， 填入第二步信用卡信息 
+#+END_QUOTE
+    date:: [[2023-05-16]]
+*** from _ChatGPT 充值最新攻略： 1. 在线代理..._ by @manateelazycat on Twitter
+*** [View Tweet](https://twitter.com/manateelazycat/status/1658255568212205569)
+** 📌
+#+BEGIN_QUOTE
+nobepay的好处是可以直接支付宝充值，很方便。原来okx+depay要折腾两天的时间，现在基本上5分钟支付宝就可以搞定。
+
+主要是 depay 不争气， 好多天不能充值。
+
+中国的数字难民太难了，要学会VPS搭建、各种FQ协议研究，现在还要学会数字货币和虚拟信用卡。 
+#+END_QUOTE
+    date:: [[2023-05-16]]
+*** from _ChatGPT 充值最新攻略： 1. 在线代理..._ by @manateelazycat on Twitter
+*** [View Tweet](https://twitter.com/manateelazycat/status/1658257124873637888)

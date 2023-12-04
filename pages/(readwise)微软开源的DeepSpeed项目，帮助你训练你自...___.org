@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: (readwise)微软开源的DeepSpeed项目，帮助你训练你自...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "微软开源的DeepSpeed项目，帮助你训练你自..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1646265571653156870
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+微软开源的DeepSpeed项目，帮助你训练你自己的ChatGPT模型
+
+https://t.co/nVnYmeDLNk
+
+有关细节，推荐阅读：https://t.co/C0Ur0YY64P 
+#+END_QUOTE
+    date:: [[2023-04-13]]
+*** from _微软开源的DeepSpeed项目，帮助你训练你自..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1646265571653156870)
+** 📌
+#+BEGIN_QUOTE
+它的中文文档写的很详细：https://t.co/072Xbfnp1z 
+#+END_QUOTE
+    date:: [[2023-04-13]]
+*** from _微软开源的DeepSpeed项目，帮助你训练你自..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1646278485361451008)

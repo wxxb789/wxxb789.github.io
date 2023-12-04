@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: (readwise)How Do You Create Backgr...
+:END:
+
+:PROPERTIES:
+:author: [[mjovanovictech on Twitter]]
+:full-title: "How Do You Create Backgr..."
+:category: [[tweets]]
+:url: https://twitter.com/mjovanovictech/status/1664513241152667650
+:image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+How do you create background jobs in .NET?
+
+If you're building a scalable system, offloading some work in your application to a background job is a common requirement.
+
+A few background job examples:
+\- Email notifications
+- Generating reports
+- Updating a cache
+- Image processing 
+
+![](https://pbs.twimg.com/media/FxmJ-JrWAAAuahZ.png) 
+#+END_QUOTE
+    date:: [[2023-06-02]]
+*** from _How Do You Create Backgr..._ by @mjovanovictech on Twitter
+*** [View Tweet](https://twitter.com/mjovanovictech/status/1664513241152667650)
+** 📌
+#+BEGIN_QUOTE
+Quartz is an excellent job scheduling system that I often work with.
+
+And you can use the full power of DI in your background jobs.
+
+Tomorrow, I'll show 22,000+ engineers how to create background jobs with Quartz.
+
+If you want to join us, subscribe here:
+
+https://t.co/zcETFCDreZ 
+#+END_QUOTE
+    date:: [[2023-06-02]]
+*** from _How Do You Create Backgr..._ by @mjovanovictech on Twitter
+*** [View Tweet](https://twitter.com/mjovanovictech/status/1664513243413372928)

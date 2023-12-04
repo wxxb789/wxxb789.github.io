@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: (readwise)看到很多developer在使用向量数据库。...
+:END:
+
+:PROPERTIES:
+:author: [[realrenmin on Twitter]]
+:full-title: "看到很多developer在使用向量数据库。..."
+:category: [[tweets]]
+:url: https://twitter.com/realrenmin/status/1638102005909471233
+:image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+看到很多developer在使用向量数据库。
+
+向量数据库或许是好用的，但它本质是针对词或句子的embedding的比较，我们在学术工作中已经做过评估，效果比传统的tfidf稍微好一点，但是tfidf可以非常轻量级的本地实现，所以有tradeoff。
+
+如果要引入语义索引，建议用专门的information retrival system (IRS) 
+#+END_QUOTE
+    date:: [[2023-03-23]]
+*** from _看到很多developer在使用向量数据库。..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1638102005909471233)
+** 📌
+#+BEGIN_QUOTE
+如果有条件，自己部署一个neural-based IRS到云端，可以稳定高效的帮你完成query-document级别的搜索工作。
+
+目前表现最强的的nerual irs是我前面推特提到的colbert。大家可以看一下。
+
+https://t.co/Lc7Uxrjuau 
+#+END_QUOTE
+    date:: [[2023-03-23]]
+*** from _看到很多developer在使用向量数据库。..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1638102007327105026)

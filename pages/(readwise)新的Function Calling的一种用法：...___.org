@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: (readwise)新的Function Calling的一种用法：...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "新的Function Calling的一种用法：..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1670686879073574912
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+新的Function Calling的一种用法：让它返回格式化的JSON数据。
+
+以前GPT 3.5让它稳定的输出JSON格式是有点麻烦的，首先是Prompt比较长，可能还要Few-Shot，现在有了Function… 
+
+![](https://pbs.twimg.com/media/Fy90alCXgAAjsjr.jpg) 
+
+![](https://pbs.twimg.com/media/Fy936c7WYAANMnH.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-21]]
+*** from _新的Function Calling的一种用法：..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1670686879073574912)
+** 📌
+#+BEGIN_QUOTE
+@xicilion FYI 
+#+END_QUOTE
+    date:: [[2023-06-21]]
+*** from _新的Function Calling的一种用法：..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1670687042005618688)
+** 📌
+#+BEGIN_QUOTE
+谢谢提醒，function_call 参数确实可以用。
+https://t.co/8aO1TQHoej
+
+格式是：
+"function_call": {"name": "formatTranslation"},
+
+这样Prompt里面就不需要特别提了。 
+
+![](https://pbs.twimg.com/media/Fy_lOE_XgAEbOFl.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-21]]
+*** from _新的Function Calling的一种用法：..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1670806362031288325)

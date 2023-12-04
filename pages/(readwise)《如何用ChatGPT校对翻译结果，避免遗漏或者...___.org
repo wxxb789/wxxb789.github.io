@@ -1,0 +1,47 @@
+:PROPERTIES:
+:title: (readwise)《如何用ChatGPT校对翻译结果，避免遗漏或者...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "《如何用ChatGPT校对翻译结果，避免遗漏或者..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1708327232450470277
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+《如何用ChatGPT校对翻译结果，避免遗漏或者画蛇添足，造成严重后果？》
+
+现在采用两轮翻译的Prompt后，翻译质量真的是很不错了，但是也带来一个问题，在“意译”的时候会导致一些内容遗失，而这可能是很重要的内容，尤其是对于从事法律、医疗等专业领域的翻译来说，这可能是致命的。
+
+那有没有办法让ChatGPT帮我们校对翻译结果，检查有误遗漏呢？
+
+借鉴自 @goldengrape 提供的思路（https://t.co/7llactcWdr ）：“中译英的时候，我经常会在deepL上回译，这样很容易判定是否有明显的意思偏离。”
+
+我们可以将中文反向翻译回英文对比原始英文的方法来帮助校验翻译的结果是不是有明显遗漏或者添加了额外的信息。
+
+参考Prompt：
+
+\-----
+现在你是专业的翻译审查员，需要对于以下英文翻译成中文的结果进行审查，避免添加或遗漏重要信息导致重大的法律风险。
+
+要求你使用以下步骤进行审查：
+1. 忽略“原始英文”，将“中文翻译”反向翻译为英文（反向翻译英文），并打印结果，翻译时按照字面意思直译，尽可能保留原意。
+2. 对比“原始英文”和“反向翻译英文”，列出有额外添加的内容或者遗漏的内容
+3. 根据上面对比的结果，为“中文翻译”打分，指出其中不足之处
+
+原始英文：
+<原始英文>
+
+中文翻译：
+<中文翻译>
+----
+
+消息链接：https://t.co/4HK8JhpuKJ 
+#+END_QUOTE
+    date:: [[2023-10-02]]
+*** from _《如何用ChatGPT校对翻译结果，避免遗漏或者..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1708327232450470277)

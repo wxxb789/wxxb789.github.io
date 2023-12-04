@@ -1,0 +1,117 @@
+:PROPERTIES:
+:title: (readwise)🙋‍♀️How to Present the S...
+:END:
+
+:PROPERTIES:
+:author: [[WeijiaShi2 on Twitter]]
+:full-title: "🙋‍♀️How to Present the S..."
+:category: [[tweets]]
+:url: https://twitter.com/WeijiaShi2/status/1605307966109863936
+:image-url: https://pbs.twimg.com/profile_images/1605693076600541185/fXXYNWhx.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+🙋‍♀️How to present the same text in diff. tasks/domains as diff. embeddings W/O training?
+
+We introduce Instructor👨‍🏫, an instruction-finetuned embedder that can generate text embeddings tailored to any task given the task instruction➡️sota on 7⃣0⃣tasks👇!
+
+https://t.co/mD8UeVg4WE 
+
+![](https://pbs.twimg.com/media/Fkcx8AlUEAMxUXj.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307966109863936)
+** 📌
+#+BEGIN_QUOTE
+We first annotate instructions for 330 diverse tasks and train Instructor👨‍🏫 on this multitask mixture
+
+A single Instructor👨‍🏫 model can achieve sota on 70 embedding evaluation tasks:
+1⃣ Retrieval 
+2⃣TextEval
+3⃣Clustering
+4⃣Prompt Retrieval
+5⃣Classification
+6⃣STS
+7⃣Reranking
+8⃣... 
+
+![](https://pbs.twimg.com/media/FkcyAatVQAEfVAg.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307971432374272)
+** 📌
+#+BEGIN_QUOTE
+Smaller model but best performance
+
+Instructor👨‍🏫 (335M), while having >10x fewer parameters than the previous best model (4.8B), achieves state-of-the-art performance, with an average improvement of 3.4% compared to the previous best results on the 70 diverse datasets. 
+
+![](https://pbs.twimg.com/media/FkcyD12VEAAvPBi.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307976826249216)
+** 📌
+#+BEGIN_QUOTE
+Instructions Enable Diverse Training
+
+Finetuning with instructions allows Instructor👨‍🏫 to benefit from the diversity of 330 datasets, whereas simply training on those datasets alone leads to degraded performance. 
+
+![](https://pbs.twimg.com/media/FkcyHqfVEAAITXB.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307981125816320)
+** 📌
+#+BEGIN_QUOTE
+Instruction-finetuning on a large amount of datasets with diverse task instructions improves the robustness of Instructor👨‍🏫 to instruction paraphrases (i.e., smaller performance gaps between best- and worst-performing instructions) 
+
+![](https://pbs.twimg.com/media/FkcyMxDVEAAcy9u.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307985185886208)
+** 📌
+#+BEGIN_QUOTE
+In addition, by making instruction more detailed (Left) and model size larger (Right), the performance of Instructor👨‍🏫 is consistently improved. 
+
+![](https://pbs.twimg.com/media/FkcyRFvVUAArLlB.png) 
+
+![](https://pbs.twimg.com/media/FkcyRGIUUAAEK3g.png) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307989568561152)
+** 📌
+#+BEGIN_QUOTE
+Instructions Mitigate Domain Shifts
+
+Instruction-finetuned Instructor👨‍🏫 helps more on unseen domains: geography, biology and civil comments. Domain-specific datasets benefit particularly from instruction finetuning. 
+
+![](https://pbs.twimg.com/media/FkcyUvPUAAApvq0.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307993805172737)
+** 📌
+#+BEGIN_QUOTE
+Led by @hongjin_su and @WeijiaShi2, joint work with @wittgen_ball , @yizhongwyz, @huyushi98, Mari, @scottyih, @nlpnoah, @LukeZettlemoyer, and @taoyds from @uwnlp, @allen_ai and @MetaAI.
+
+Thanks @Muennighoff and @Nils_Reimers for the nice MTEB code and data. It did save our life! 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307995948138496)
+** 📌
+#+BEGIN_QUOTE
+Instructor👨‍🏫 embedding model is on @huggingface
+ 🤗: https://t.co/exB63SYxrM! 
+
+It is very simple to use! 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _🙋‍♀️How to Present the S..._ by @WeijiaShi2 on Twitter
+*** [View Tweet](https://twitter.com/WeijiaShi2/status/1605307997739429889)

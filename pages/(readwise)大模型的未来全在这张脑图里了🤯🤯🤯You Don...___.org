@@ -1,0 +1,62 @@
+:PROPERTIES:
+:title: (readwise)大模型的未来全在这张脑图里了🤯🤯🤯You Don...
+:END:
+
+:PROPERTIES:
+:author: [[fuxiangPro on Twitter]]
+:full-title: "大模型的未来全在这张脑图里了🤯🤯🤯You Don..."
+:category: [[tweets]]
+:url: https://twitter.com/fuxiangPro/status/1721503284371042502
+:image-url: https://pbs.twimg.com/profile_images/1646378088576749568/jQV0pTtA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+大模型的未来全在这张脑图里了🤯🤯🤯You don't want to miss this!
+
+\- 六年时间绘制，审查数千项神经科学研究，总结近100年的研究成果，展示了大脑中令人叹为观止的工作原理。
+
+link：Your Hi-Tech Brain 
+https://t.co/NAqliGG0G9 
+
+![](https://pbs.twimg.com/media/F-PqppWawAATKw7.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-07]]
+*** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503284371042502)
+** 📌
+#+BEGIN_QUOTE
+大脑一直是AI发展的灵感源泉：
+\- “神经网络”是对神经元最直接的借鉴。
+- “强化学习”中的奖励机制类似于人类的多巴胺奖励系统。
+- “注意力机制”模拟人类如何集中注意力。
+- “记忆机制”模拟大脑的长短期记忆。
+- 大模型思考系统也讲究系统1和系统2.
+- 多模态模拟大脑的多感官信息处理。 
+#+END_QUOTE
+    date:: [[2023-11-07]]
+*** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503287311319321)
+** 📌
+#+BEGIN_QUOTE
+\- 网络参数：大脑有超800亿个神经元，大脑皮层有600万亿个突触连接。大模型超千亿神经网络参数。
+- 具身类比：LLM-大脑，运动系统-小脑，硬件本体-人体。
+- 模型压缩：人类视觉系统1.3亿个光感信号被压缩到100万个输出信号，大脑的视觉处理系统，比科学家想象的更聪明。 
+#+END_QUOTE
+    date:: [[2023-11-07]]
+*** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503289060344289)
+** 📌
+#+BEGIN_QUOTE
+两相关的书可以结合起来看：
+1. Consciousness and the Brain, Deciphering How the Brain Codes Our Thoughts， 中文：脑与意识，破解人类思维之谜
+2. How We Learn: Why Brains Learn Better Than Any Machine . . . for Now 中文：我们如何学习，为什么人脑比任何机器学得都好 
+
+![](https://pbs.twimg.com/media/F-QAqQRbwAAgZpV.png) 
+
+![](https://pbs.twimg.com/media/F-QBuKzbIAA1bOn.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-07]]
+*** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
+*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503291572654131)

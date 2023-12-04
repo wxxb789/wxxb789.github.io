@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: (readwise)RFC1180 https:__t.co_nGt...
+:END:
+
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "RFC1180 https://t.co/nGt..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1606188312271523840
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+RFC1180 https://t.co/nGtXi6vl7q，清晰简洁，图文并茂，结构逻辑合理，把一个包怎么从内核出发开始路由到对端讲得清清楚楚，但是对于95%的程序员没有什么用，当时看的时候很爽、也觉得自己理解了、学会了，实际上看完几周后就忘得差不多了
+最后我挨个环节抓包、实践然后写了https://t.co/BKblRtFDEf 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _RFC1180 https://t.co/nGt..._ by @plantegg on Twitter
+*** [View Tweet](https://twitter.com/plantegg/status/1606188312271523840)
+** 📌
+#+BEGIN_QUOTE
+说这篇是刚刚又看到有人在问电脑接了有线和无线网络，打开网页走的是哪个网卡这种问题了。学知识就怕眼高手低以为一看就懂，其实一看就懂的人真不多，大部分人缺的是不自知 
+
+![](https://pbs.twimg.com/media/FkpT87jUUAA_Wpt.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _RFC1180 https://t.co/nGt..._ by @plantegg on Twitter
+*** [View Tweet](https://twitter.com/plantegg/status/1606189593195266049)

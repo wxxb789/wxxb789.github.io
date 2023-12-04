@@ -1,9 +1,0 @@
-:PROPERTIES:
-:title: Blazor in Action (highlights)
-:END:
-author:: [[Chris Sainty]]
-full-title:: "Blazor in Action"
-category:: #books
-
-* Highlights first synced by [[Readwise]] [[2023-01-28]]
-** ![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/23250142/IFC_F01_Sainty.png-IFC_F01_Sainty.png) ([View Highlight](https://read.readwise.io/read/01gqmwb6bpyrj26vacnjnf2944))

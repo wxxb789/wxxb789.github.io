@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: (readwise)Azure OpenAI Service 很好申...
+:END:
+
+:PROPERTIES:
+:author: [[haibbo_real on Twitter]]
+:full-title: "Azure OpenAI Service 很好申..."
+:category: [[tweets]]
+:url: https://twitter.com/haibbo_real/status/1643416592129343488
+:image-url: https://pbs.twimg.com/profile_images/1635266817169174529/arwsO2Vq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Azure OpenAI Service 很好申请, 一天就申请到了, 但是没找到好用的客户端, 因为大多数客户端都只支持 OpenAI, 它自带的 Playground 又很难用
+
+所以做了一个 cloudflare worker 的代理, 让支OpenAI 客户端通过它直接连 Azure
+
+不需要服务器
+
+地址: https://t.co/ez1rna674D 
+#+END_QUOTE
+    date:: [[2023-04-06]]
+*** from _Azure OpenAI Service 很好申..._ by @haibbo_real on Twitter
+*** [View Tweet](https://twitter.com/haibbo_real/status/1643416592129343488)

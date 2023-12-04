@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: (readwise)🔥 Hot on ML Twitter This...
+:END:
+
+:PROPERTIES:
+:author: [[ZetaVector on Twitter]]
+:full-title: "🔥 Hot on ML Twitter This..."
+:category: [[tweets]]
+:url: https://twitter.com/ZetaVector/status/1605915708688318466
+:image-url: https://pbs.twimg.com/profile_images/1314493835678973953/_mNKmhyp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+🔥 Hot on ML twitter this week 🔥
+
+DALL·E in 3D, Constitutional LMs, Transformers + Diffusion, audio generation... 
+
+🧵 A thread of threads...👇 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _🔥 Hot on ML Twitter This..._ by @ZetaVector on Twitter
+*** [View Tweet](https://twitter.com/ZetaVector/status/1605915708688318466)
+** 📌
+#+BEGIN_QUOTE
+1/5 Scaling Transformers + Diffusion
+
+https://t.co/T4hPZbFNKn 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _🔥 Hot on ML Twitter This..._ by @ZetaVector on Twitter
+*** [View Tweet](https://twitter.com/ZetaVector/status/1605915710923984897)
+** 📌
+#+BEGIN_QUOTE
+2/5 DALL·E in 3D from OpenAI
+
+https://t.co/7JtOrYttvj 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _🔥 Hot on ML Twitter This..._ by @ZetaVector on Twitter
+*** [View Tweet](https://twitter.com/ZetaVector/status/1605915719513690113)
+** 📌
+#+BEGIN_QUOTE
+3/5 "Constitutional Language Models" that are aligned to remain useful while not being harmful
+
+https://t.co/s3S7WBLlS5 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _🔥 Hot on ML Twitter This..._ by @ZetaVector on Twitter
+*** [View Tweet](https://twitter.com/ZetaVector/status/1605915727638040576)
+** 📌
+#+BEGIN_QUOTE
+4/5 Using diffusion on spectrograms treated as images to generate audio
+
+https://t.co/K13IOedxga 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _🔥 Hot on ML Twitter This..._ by @ZetaVector on Twitter
+*** [View Tweet](https://twitter.com/ZetaVector/status/1605915736039247872)
+** 📌
+#+BEGIN_QUOTE
+5/5 Why GPT-like models can learn in context
+
+https://t.co/DaN7pQEjm1 
+#+END_QUOTE
+    date:: [[2022-12-23]]
+*** from _🔥 Hot on ML Twitter This..._ by @ZetaVector on Twitter
+*** [View Tweet](https://twitter.com/ZetaVector/status/1605915739268870149)

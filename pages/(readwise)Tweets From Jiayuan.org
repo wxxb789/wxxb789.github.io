@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: (readwise)Tweets From Jiayuan
+:END:
+
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "Tweets From Jiayuan"
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga
+:image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+又创建了一个有意思的 AI：Mastering Emacs
+
+可以帮助你更好地学习 Emacs：
+\- 如何在 Emacs 里使用 Vim 按键
+- 如何退出 Emacs
+
+🤓
+
+https://t.co/bcZMhvcivC 
+
+![](https://pbs.twimg.com/media/Ft-zzG7aEAAXrFQ.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _Tweets From Jiayuan_ by @Tisoga on Twitter
+*** [View Tweet](https://twitter.com/Tisoga/status/1648234133834039296)

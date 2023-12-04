@@ -1,0 +1,102 @@
+:PROPERTIES:
+:title: (readwise)今天是我入圈 \#Web3 一周年。过去一年，我被...
+:END:
+
+:PROPERTIES:
+:author: [[0x_claudia on Twitter]]
+:full-title: "今天是我入圈 \#Web3 一周年。过去一年，我被..."
+:category: [[tweets]]
+:url: https://twitter.com/0x_claudia/status/1630230331977773056
+:image-url: https://pbs.twimg.com/profile_images/1710252787496583168/sdiVsKjE.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+今天是我入圈 #Web3 一周年。过去一年，我被rug过，也被很多前辈提点过。从一个年级第一保研北大的学院派“乖乖女”，到现在能接受裂痕，理解去中心化的本质，有自己的思想，我走了很多弯路，也学到了很多实战经验。今天试图分享话题「#普通人如何快速进入Web3」，欢迎大家补充！（持续更新中…） 
+
+![](https://pbs.twimg.com/media/Fp-9xS_aQAAjuTn.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630230331977773056)
+** 📌
+#+BEGIN_QUOTE
+1）最基本的是要搭建区块链认知，我的学习内容如下： 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630230532876550145)
+** 📌
+#+BEGIN_QUOTE
+首推北大肖臻老师 2018 年的《区块链技术与应用》，是中文领域看过最好的区块链教学之一，从底层的密码学原理讲到上层基于智能合约的应用，而且全程使用板书教学。 在 bilibili 和 youtube 上均有视频。 https://t.co/bkmCUPWLdf 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630230763269656578)
+** 📌
+#+BEGIN_QUOTE
+其次是我们北大区块链协会的新人公开课，一共七节，可以1.5倍速：https://t.co/hM5Q7pbXZk 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630230857498894343)
+** 📌
+#+BEGIN_QUOTE
+以及斯坦福CS 251: Cryptocurrencies and Blockchain Technologies。斯坦福的这门课会相对较新一点，涉及到的领域也会更多，也会有大作业设计，包括实现一个 DEX（类似 Uniswap）、使用 ZK工具包来实现加密交易。
+https://t.co/8PHua1dCoc 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630230950562136066)
+** 📌
+#+BEGIN_QUOTE
+还有麻省理工S12: Blockchain and Money。这门课是一门偏经济学 & 金融的课程，不会涉及到过多的技术细节。教授 Gary Gensler 是现任美国证券交易委员会（SEC）的主席，所以这门课的含金量非常高，同时每节课还提供了很多推荐读物。https://t.co/pIH14z6jhy 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630231055331655680)
+** 📌
+#+BEGIN_QUOTE
+最后是UC伯克利: Bitcoin and Cryptocurrencies。UCB 的这门课难度稍微低一些，并且学完了可以获得一个证书。https://t.co/yEZ5sGgjr3 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630231127259750401)
+** 📌
+#+BEGIN_QUOTE
+2）最简单的办法就是在行业内找一个相关的工作 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630231424195530752)
+** 📌
+#+BEGIN_QUOTE
+这是我之前看到小红书上一个博主的内容，很有启发 
+
+![](https://pbs.twimg.com/media/Fp-_ZawaYAEwx-5.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630232064208568322)
+** 📌
+#+BEGIN_QUOTE
+我认为Web3的工作主要有四大类：1⃣️是做投研 2⃣️是开发developer 3⃣️是做市场和商务 4⃣️是拥有产品思维后自己做项目 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630232655278280706)
+** 📌
+#+BEGIN_QUOTE
+推荐一个求职网站，里面还会有一些基本的认知文章。https://t.co/8KVdjWX9M6 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630233553769472000)
+** 📌
+#+BEGIN_QUOTE
+以及这个网站，门类蛮齐全，有一些海外的机会（有机会还是要对接海外市场）https://t.co/8KVdjWX9M6 
+#+END_QUOTE
+    date:: [[2023-03-01]]
+*** from _今天是我入圈 #Web3 一周年。过去一年，我被..._ by @0x_claudia on Twitter
+*** [View Tweet](https://twitter.com/0x_claudia/status/1630233917126250496)

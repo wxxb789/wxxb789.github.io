@@ -1,0 +1,52 @@
+:PROPERTIES:
+:title: (readwise)The New 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜.𝚝𝚘𝚘...
+:END:
+
+:PROPERTIES:
+:author: [[DataChaz on Twitter]]
+:full-title: "The New 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜.𝚝𝚘𝚘..."
+:category: [[tweets]]
+:url: https://twitter.com/DataChaz/status/1680996189871697926
+:image-url: https://pbs.twimg.com/profile_images/1590765495359250434/YRslrWOP.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+The new 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜.𝚝𝚘𝚘𝚕𝚜 library from @huggingface is insane! 
+
+E.g. you can summarize and chat with a PDF in just 6 lines of code, including import statements! 🤯
+
+The best part? 
+
+It's all open-source, from start to finish! 🤗
+
+🧵↓ 
+
+![](https://pbs.twimg.com/media/F1QYxJIX0AIZQ9E.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-18]]
+*** from _The New 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜.𝚝𝚘𝚘..._ by @DataChaz on Twitter
+*** [View Tweet](https://twitter.com/DataChaz/status/1680996189871697926)
+** 📌
+#+BEGIN_QUOTE
+☝️ Example above courtesy of @abidlabs!  
+
+Check out the Google Colab below for more examples, including image generation and speech synthesis! 
+
+🔗 https://t.co/s40lGBTVjh 
+
+![](https://pbs.twimg.com/media/F1QZMCvXwAIdUYi.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-18]]
+*** from _The New 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜.𝚝𝚘𝚘..._ by @DataChaz on Twitter
+*** [View Tweet](https://twitter.com/DataChaz/status/1680996518155767810)
+** 📌
+#+BEGIN_QUOTE
+Here's the docs for @huggingface's new `Transformers Agent` API! 🤗
+
+https://t.co/MGBbbQxPOQ 
+#+END_QUOTE
+    date:: [[2023-07-18]]
+*** from _The New 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜.𝚝𝚘𝚘..._ by @DataChaz on Twitter
+*** [View Tweet](https://twitter.com/DataChaz/status/1680997104255107072)

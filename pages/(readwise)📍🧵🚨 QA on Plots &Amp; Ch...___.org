@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: (readwise)📍🧵🚨 QA on Plots &Amp; Ch...
+:END:
+
+:PROPERTIES:
+:author: [[hardy_qr on Twitter]]
+:full-title: "📍🧵🚨 QA on Plots &Amp; Ch..."
+:category: [[tweets]]
+:url: https://twitter.com/hardy_qr/status/1605480019983142913
+:image-url: https://pbs.twimg.com/profile_images/1383073506779365381/Dei0KFL5.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+📍🧵🚨 QA on plots & charts is a complex task requiring sophisticated reasoning - our visual language models struggle with this.
+
+LLMs are super strong reasoners - but they only work for text.
+
+What do we do? We translate plots & charts to text so LLM can understand! 
+
+![](https://pbs.twimg.com/media/FkfL8ySXEAA6sQK.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-22]]
+*** from _📍🧵🚨 QA on Plots &Amp; Ch..._ by @hardy_qr on Twitter
+*** [View Tweet](https://twitter.com/hardy_qr/status/1605480019983142913)
+** 📌
+#+BEGIN_QUOTE
+We propose DePlot📊, one-shot visual language reasoning by (1) translating a plot image to a linearized table and then (2) using LLMs to answer QA queries via prompting techniques such as chain of thought and self-consistency (other table reasoning methods should work as well). 
+#+END_QUOTE
+    date:: [[2022-12-22]]
+*** from _📍🧵🚨 QA on Plots &Amp; Ch..._ by @hardy_qr on Twitter
+*** [View Tweet](https://twitter.com/hardy_qr/status/1605480023036596224)
+** 📌
+#+BEGIN_QUOTE
+On ChartQA human queries, DePlot+LLM outperforms SOTA (fine-tuned with >28k data points) by 24.0% with just one-shot supervision! 
+#+END_QUOTE
+    date:: [[2022-12-22]]
+*** from _📍🧵🚨 QA on Plots &Amp; Ch..._ by @hardy_qr on Twitter
+*** [View Tweet](https://twitter.com/hardy_qr/status/1605480024772988928)
+** 📌
+#+BEGIN_QUOTE
+DePlot can do cool things, like, given a screenshot of the figure from your paper, telling you by how much your approach beats the second strongest model on average, step by step 😊 (see example in the pic). 
+
+Check out our arxiv: https://t.co/x03dcjahMO 
+#+END_QUOTE
+    date:: [[2022-12-22]]
+*** from _📍🧵🚨 QA on Plots &Amp; Ch..._ by @hardy_qr on Twitter
+*** [View Tweet](https://twitter.com/hardy_qr/status/1605480026442383360)

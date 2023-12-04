@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: (readwise)碉堡了，Databend 内置的三个 AI 函数...
+:END:
+
+:PROPERTIES:
+:author: [[mth_li on Twitter]]
+:full-title: "碉堡了，Databend 内置的三个 AI 函数..."
+:category: [[tweets]]
+:url: https://twitter.com/mth_li/status/1645771975158276099
+:image-url: https://pbs.twimg.com/profile_images/1691447491596779521/zn5Pm8tp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+碉堡了，Databend 内置的三个 AI 函数真是一看就懂，一用就会！只需三步，你就可以创建自己的 AI 数据库！
+
+1. SELECT AI_EMBEDDING_VECTOR('你的文本') 即可将其转换为向量，然后你再自己 INSERT 到对应的 column，假设这个 column 就叫做 embedding
+
+2. 参见下条（官方文档 https://t.co/ilT0iIoCKA 
+
+![](https://pbs.twimg.com/media/Ftb0BuUacAEC3Nl.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-12]]
+*** from _碉堡了，Databend 内置的三个 AI 函数..._ by @mth_li on Twitter
+*** [View Tweet](https://twitter.com/mth_li/status/1645771975158276099)
+** 📌
+#+BEGIN_QUOTE
+2. SELECT COSINE_DISTANCE(embedding, AI_EMBEDDING_VECTOR('你的问题')) 即可取出与你的问题相似度最高的文本
+
+3. SELECT AI_TEXT_COMPLETION('选出的文本') 即可从 OpenAI 获取到对应的 GPT 回复
+
+而且现在面向 AI 应用开发者有很多免费额度，暂时想不到去用向量数据库的理由了（我太懒了🥵 
+#+END_QUOTE
+    date:: [[2023-04-12]]
+*** from _碉堡了，Databend 内置的三个 AI 函数..._ by @mth_li on Twitter
+*** [View Tweet](https://twitter.com/mth_li/status/1645771981466501122)

@@ -1,0 +1,63 @@
+:PROPERTIES:
+:title: (readwise)\#新鲜vs价值 吴军的《信息论40讲》很有启发价...
+:END:
+
+:PROPERTIES:
+:author: [[balconychy on Twitter]]
+:full-title: "\#新鲜vs价值 吴军的《信息论40讲》很有启发价..."
+:category: [[tweets]]
+:url: https://twitter.com/balconychy/status/1660453344606060544
+:image-url: https://pbs.twimg.com/profile_images/1642760288406769665/YsX3blNL.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+#新鲜VS价值
+吴军的《信息论40讲》很有启发价值。这里分享一点大脑奖惩对信息偏见的思考。
+大脑对信息的奖惩和信息的价值往往是偏离的。
+大脑奖罚大体按新鲜度和认同性来奖惩行动
+1，新鲜
+非常热衷新鲜的事务，所以新AI工具的分享热度很高，会点赞转发
+而深度的思考，转发较少。 
+#+END_QUOTE
+    date:: [[2023-05-22]]
+*** from _#新鲜vs价值 吴军的《信息论40讲》很有启发价..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1660453344606060544)
+** 📌
+#+BEGIN_QUOTE
+2，认同
+会喜欢自己认同的观点和信息，对于不认同的可能会怼几句。
+
+但：
+新鲜>导致>碎片化
+认同>导致>信息茧房 
+#+END_QUOTE
+    date:: [[2023-05-22]]
+*** from _#新鲜vs价值 吴军的《信息论40讲》很有启发价..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1660453346879365120)
+** 📌
+#+BEGIN_QUOTE
+从信息价值角度：
+1，概率越小的事件，信息量越高
+ \-有逻辑但反大众认知的观点，信息价值越高。
+2，认知框架以外的信息价值越高
+-新鲜不一定是认知框架以外的，一个ChatGPT的复制品，新鲜但信息价值不高；Claude 100K 带来更大的context，这个才更具价值
+-你不知道，但是事实的信息往往是闭坑的关键 
+#+END_QUOTE
+    date:: [[2023-05-22]]
+*** from _#新鲜vs价值 吴军的《信息论40讲》很有启发价..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1660453349131710464)
+** 📌
+#+BEGIN_QUOTE
+克服大脑奖赏惯性的Twitter操作指南：
+1，克服新鲜感：
+\-建立自己的知识库，定期总结（积累优先）
+-对于新信息，评估影响和价值,特别是长远价值（价值优先）
+2，克服信息茧房
+-关注一些意见相反但逻辑清晰的人（建立对现实多重视角的认知）
+-给一些意见不同的推文但逻辑清晰的推文点赞（训练推荐算法） 
+#+END_QUOTE
+    date:: [[2023-05-22]]
+*** from _#新鲜vs价值 吴军的《信息论40讲》很有启发价..._ by @balconychy on Twitter
+*** [View Tweet](https://twitter.com/balconychy/status/1660453351480508416)

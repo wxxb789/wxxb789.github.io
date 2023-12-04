@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: (readwise)在TCP四层网关负载均衡产品上，会用eBPF的X...
+:END:
+
+:PROPERTIES:
+:author: [[CFC4N on Twitter]]
+:full-title: "在TCP四层网关负载均衡产品上，会用eBPF的X..."
+:category: [[tweets]]
+:url: https://twitter.com/CFC4N/status/1677193534594772992
+:image-url: https://pbs.twimg.com/profile_images/1519505553298702336/3zEm9x3b.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+在TCP四层网关负载均衡产品上，会用eBPF的XDP程序类型实现。比如Facebook的katran开源产品。在非直接透传场景，偶尔还涉及对TCP链接状态变化时的包内容修改，eBPF的sockops程序类型时是最佳方案。  分享一个自己遇到的小问题。 （1/3） 
+
+![](https://pbs.twimg.com/media/F0aWoCFagAADLj4.jpg) 
+
+![](https://pbs.twimg.com/media/F0aWoCMakAAgFZd.jpg) 
+
+![](https://pbs.twimg.com/media/F0aWoCKakAEUc4X.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-08]]
+*** from _在TCP四层网关负载均衡产品上，会用eBPF的X..._ by @CFC4N on Twitter
+*** [View Tweet](https://twitter.com/CFC4N/status/1677193534594772992)
+** 📌
+#+BEGIN_QUOTE
+比如ebpf程序执行时报错“load program: invalid argument: invalid func unknown#144”，这个网上资料特别少。我也是熬夜薅头发才定位到问题原因。错误原因为144号ID的bpf函数找不到，对应的是BPF_FUNC_reserve_hdr_opt，也就是bpf_reserve_hdr_opt函数。 （2/3） 
+#+END_QUOTE
+    date:: [[2023-07-08]]
+*** from _在TCP四层网关负载均衡产品上，会用eBPF的X..._ by @CFC4N on Twitter
+*** [View Tweet](https://twitter.com/CFC4N/status/1677193593365360643)
+** 📌
+#+BEGIN_QUOTE
+这个问题，一般都是内核版本太低，没有对应的bpf_sock_ops_reserve_hdr_opt这个SYSCALL。扩展阅读：https://t.co/G4eZ46AJkR  （3/3） 
+#+END_QUOTE
+    date:: [[2023-07-08]]
+*** from _在TCP四层网关负载均衡产品上，会用eBPF的X..._ by @CFC4N on Twitter
+*** [View Tweet](https://twitter.com/CFC4N/status/1677193646926602240)

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: (readwise)推荐 B 站上的一个合集《ai 论文精读系列》，...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "推荐 B 站上的一个合集《ai 论文精读系列》，..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1726885095456559359
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+推荐 B 站上的一个合集《AI 论文精读系列》，https://t.co/bDbTRuXg2N，主讲人是亚马逊资深首席科学家李沐，讲的比较清晰，目前内容还在持续更新中。
+
+当前这个视频聊的是“如何读论文”，我总结下来是这么个「三遍阅读法」：
+
+1）扫一眼：看标题、摘要、结论，确认研究方向是否与自己的研究方向匹配
+2）圈重点：理出重要的图、表，圈出相关文献，读不懂，先去读引用的文献
+3）问问题：论文提出了什么问题？用什么方法来解决这个问题？实验是怎么做的？
+
+我的思路跟他还有一些差异，除了上面三个步骤，还会将我消化的内容整理好，然后输出给 ChatGPT，让 AI 结合论文来评价我理解的对不对。如果觉得有价值，还会分享到社交媒体，跟大家交流，确实也能收到不少优质的反馈。<img src='https://pbs.twimg.com/media/F_ceasnaMAAm6_4.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-21]]
+*** from _推荐 B 站上的一个合集《ai 论文精读系列》，..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1726885095456559359)

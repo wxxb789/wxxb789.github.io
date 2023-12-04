@@ -1,0 +1,118 @@
+:PROPERTIES:
+:title: (readwise)《刚刚微软甩出王炸：免费的gpt4.0！》 1...
+:END:
+
+:PROPERTIES:
+:author: [[bitfool1 on Twitter]]
+:full-title: "《刚刚微软甩出王炸：免费的gpt4.0！》 1..."
+:category: [[tweets]]
+:url: https://twitter.com/bitfool1/status/1661219621033365505
+:image-url: https://pbs.twimg.com/profile_images/1650344223596740608/CFoZsDZq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+《刚刚微软甩出王炸：免费的GPT4.0！》
+
+1、微软是chatGPT的大股东。
+
+很快，所有的免费GPT用户，都可以通过’Browsing with Bing‘插件，
+
+来实时查询互联网信息。
+
+是的，免费的GPT4.0!
+
+国内一大波搞GPT借口封装的，要倒闭了。
+
+先来试试，5个吊炸天的Prompts，感受下。 
+
+![](https://pbs.twimg.com/media/Fw3WRYRaAAE7KXp.png) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661219621033365505)
+** 📌
+#+BEGIN_QUOTE
+2、【如何利用GPT4.0在推特吸粉】
+
+让GPT4.0去分析推特的开源推荐算法。
+
+然后GPT4.0会一步步告诉你怎么做。
+
+如此操作，所有人都可以做KOL啦。
+
+Prompt: "Take this code for the Twitter algorithm and tell best practices to go viral on Twitter [code]" https://t.co/TJQXsvkOiz 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661221593614524416)
+** 📌
+#+BEGIN_QUOTE
+3、【如何利用GPT4.0找最热的reddit主题】
+
+Reddit上啥都有，各路神仙都在分享。
+
+让GPT4.0帮我们在reddit冲浪。
+
+Prompt: "Whats the trending posts on /r/chatgpt today" https://t.co/KSvIGUTzpK 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661222657067716608)
+** 📌
+#+BEGIN_QUOTE
+4、【如何利用GPT4.0帮咱刷新闻】
+
+找到最新热点新闻
+
+整整齐齐放在列表中，给出引用的链接
+
+如此，一大批编辑又要下岗啦。
+
+Prompt: "List 10 things that happened in AI this week" followed with "Put it in a table with links to sources" https://t.co/jiTyv7cTgc 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661223120890638336)
+** 📌
+#+BEGIN_QUOTE
+5、【让GPT4.0总结新闻并梳理链接】
+
+GPT4.0可以总结最新的新闻
+
+并发连接摆放整齐
+
+Prompt: "Summarize this newsletter by The Rundown for me and create a list of 10 URLs [link]" https://t.co/MDzw8PR4qP 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661225511400423427)
+** 📌
+#+BEGIN_QUOTE
+6、【让GPT4.0写报告！】
+
+GPT4.0能够写报告，写整篇报告，并且做好论文引用。
+
+Prompt: "Create a short essay on the threats of Artificial Intelligence and cite at least 5 sources with URL links to the sources" https://t.co/XOr0t3m4qR 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661226000775286784)
+** 📌
+#+BEGIN_QUOTE
+7、【总结】
+
+业界良心还得靠微软呀，多金，且是openAI的爸爸。
+
+AI时代，免费的GPT4.0，早学会10天都是优势。
+
+本贴来自@rowancheung，傻哥翻译到中文社区。
+
+傻哥去研究新的工具啦，抱紧傻哥不迷路@bitfool1
+
+https://t.co/gA6zUt3Z7z 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
+*** [View Tweet](https://twitter.com/bitfool1/status/1661226761462620161)

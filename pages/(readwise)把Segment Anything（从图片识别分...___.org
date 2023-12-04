@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: (readwise)把Segment Anything（从图片识别分...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "把Segment Anything（从图片识别分..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1645471195494481920
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+把Segment Anything（从图片识别分离对象）和BLIP（一个图片生成文字模型）、Stable Diffusion（AI画图工具）集成在一起，将图片的“分割”、“检测”和“生成”三种能力组合在一起，产生很多新的有价值的应用场景，比如：
+\- 替换图片中的物体生成新的图片
+- 对图片中的物体生成标签
+等 
+#+END_QUOTE
+    date:: [[2023-04-12]]
+*** from _把Segment Anything（从图片识别分..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1645471195494481920)
+** 📌
+#+BEGIN_QUOTE
+作者的博文
+
+https://t.co/fFTwmhHCXE 
+#+END_QUOTE
+    date:: [[2023-04-12]]
+*** from _把Segment Anything（从图片识别分..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1645471198522818560)

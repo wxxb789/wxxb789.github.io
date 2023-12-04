@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: (readwise)新博文《接码平台与海外手机卡》https:__t...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "新博文《接码平台与海外手机卡》https://t..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1702156093814903173
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+新博文《接码平台与海外手机卡》https://t.co/P2rkFYpHcd
+
+如果你注册和使用过 ChatGPT，那你对这篇文章要解决的问题就会深有感触，注册时使用邮箱登录后，OpenAI 会要求你绑定一个手机号码，而这个手机号码不允许是中国大陆区的，很多人都会卡在这一步。
+
+有两条路径来解决这个问题，1）使用接码平台，临时租一个非大陆手机号码，用来接收验证码；2）你可以直接购买一张非大陆区的手机卡。本文会告诉你，这两条路径分别该怎么走。 
+#+END_QUOTE
+    date:: [[2023-09-14]]
+*** from _新博文《接码平台与海外手机卡》https://t..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1702156093814903173)

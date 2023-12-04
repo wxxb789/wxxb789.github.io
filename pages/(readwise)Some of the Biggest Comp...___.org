@@ -1,0 +1,139 @@
+:PROPERTIES:
+:title: (readwise)Some of the Biggest Comp...
+:END:
+
+:PROPERTIES:
+:author: [[SullyOmarr on Twitter]]
+:full-title: "Some of the Biggest Comp..."
+:category: [[tweets]]
+:url: https://twitter.com/SullyOmarr/status/1635524835018444800
+:image-url: https://pbs.twimg.com/profile_images/1550142055854141440/iA_vPg8D.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+Some of the biggest companies in the world use OpenAI’s ChatGPT and embeddings to power their AI chat apps.
+
+Shopify, Brex, Hubspot…you name it.
+
+But how do they do it? And how can you do it too?
+
+I’ll show you 👇 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524835018444800)
+** 📌
+#+BEGIN_QUOTE
+First, what are embeddings?
+
+In super simple terms, they’re just a vector of numbers that can represent anything, such as text, music, and videos. 
+
+In our case, it's text. 
+
+![](https://pbs.twimg.com/media/FrKI-t8acAALBgU.png) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524836125716480)
+** 📌
+#+BEGIN_QUOTE
+They're important because it lets us do Semantic search.
+
+It allows us to perform searches based on the meaning of text, rather than just exact matches. 
+
+This makes searching much easier and more efficient. 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524837295939585)
+** 📌
+#+BEGIN_QUOTE
+Example:
+Imagine you have a notebook with a list of wines and their descriptions, and one of them mentions that it's "good with fish,"
+
+Then someone asks you for a recommendation, asking what is a good wine with seafood? 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524838252240897)
+** 📌
+#+BEGIN_QUOTE
+You look at the list, and see that this wine is good with fish, and suggest it to them because you understand that “fish” and “seafood” are similar.
+
+That's a semantic search 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524839267237889)
+** 📌
+#+BEGIN_QUOTE
+Embeddings are similar in that regard. 
+
+They represent text as numbers to search for similar text based on meaning. 
+
+They're like a map that shows how words and phrases are related to each other. 
+
+![](https://pbs.twimg.com/media/FrKJ0VZaAAMYWsa.png) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524840290684928)
+** 📌
+#+BEGIN_QUOTE
+But how do we create an AI chat app using ChatGPT and embeddings? 
+
+The easiest way, by far, is to use @LangChainAI  or @gpt_index.
+
+No seriously, look at how easy it is 
+
+![](https://pbs.twimg.com/media/FrKLJtcaMAAI7nD.png) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524841465057284)
+** 📌
+#+BEGIN_QUOTE
+In their documentation they outline exactly how to do it, with only 10-15 lines of code. 
+
+But the short explanation is: 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524842551377922)
+** 📌
+#+BEGIN_QUOTE
+Find some data source (pdf, webpage, text, etc) and use their python library to create indexes. 
+
+Llama hub has a bunch of data connectors that are directly supported. So all you'd have to do is import the right one. 
+
+![](https://pbs.twimg.com/media/FrKLeUdaEAA6Nrw.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524843461566465)
+** 📌
+#+BEGIN_QUOTE
+From there, all you have to do is let langchain or llama index do all the hardwork:
+
+1) Load documents
+2) Create an index using the library
+3) Query said index using the library 
+
+![](https://pbs.twimg.com/media/FrKL6caagAEV-ne.png) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524844505923584)
+** 📌
+#+BEGIN_QUOTE
+That’s it! You’ve just made (a super simple) AI chat app powered by OpenAI’s :) 
+
+Also, this is a pretty base level explanation of the topic, and it's mostly me just trying to explain what i've learned in simple terms. 
+
+Hope you learned something! 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
+*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524845646790659)

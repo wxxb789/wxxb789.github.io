@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: (readwise)昨天看到零一智能的模型在 Huggingface...
+:END:
+
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "昨天看到零一智能的模型在 Huggingface..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1722909611748106281
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-05]]
+** 📌
+#+BEGIN_QUOTE
+昨天看到零一智能的模型在 Huggingface 排第一以后，去搜了一下他家的其他产品。
+发现这个 <a href="https://twitter.com/popaiinone">@popaiinone</a> 还不错 。
+这是一个类似 ChatGPT 的聊天产品，但是集成了很多工作时可以用到的效率工具，比如 PPT 和流程图生成，提示生成等。
+
+PopAi率先集成了 GPT-4V 的图像 API，而且调教的比较好，我用一个图像相关论文的图片试了一下，解释的很清楚。
+同时他有个比较创新的交互是在回答内容之后你可以选择一些后续的叫Enrich的操作。比如将输出内容翻译为中文或者将输出内容经过扩写重新排版和添加内容后变为一篇文章。这种对于打工人来说太重要了。而且enrich的内容不是干巴巴的填充，配合很多相关图片，有必要的话他还会自己画流程图。
+同时 PPT 生成能力也比较亮眼，内置了非常多的模板，主要是对内容拆解和总结比较合理，知道哪些该省略哪些该详细的写。
+它也支持上传文档解析，可以直接解析arxiv的链接，不需要自己下载。
+
+感觉非常适合没有提示词书写经验和受不了 ChatGPT 复杂开通门槛的人，日常使用完全够了。<img src='https://pbs.twimg.com/media/F-j-JQQbkAA67Ir.jpg'/><img src='https://pbs.twimg.com/media/F-j-LZZbIAAcybP.jpg'/><img src='https://pbs.twimg.com/media/F-j-NrpaoAA4nBV.jpg'/><img src='https://pbs.twimg.com/media/F-j-UAWaIAAE0QT.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-11]]
+*** from _昨天看到零一智能的模型在 Huggingface..._ by @op7418 on Twitter
+*** [View Tweet](https://twitter.com/op7418/status/1722909611748106281)
+** 📌
+#+BEGIN_QUOTE
+你可以在这里尝试PopAi ：https://t.co/b9U3NAxGKM
+我也找他们要了一个 20%的优惠券：POPAI01 
+#+END_QUOTE
+    date:: [[2023-11-11]]
+*** from _昨天看到零一智能的模型在 Huggingface..._ by @op7418 on Twitter
+*** [View Tweet](https://twitter.com/op7418/status/1722909707860595074)
