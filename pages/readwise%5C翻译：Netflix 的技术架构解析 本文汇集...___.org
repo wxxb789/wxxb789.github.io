@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise\翻译：Netflix 的技术架构解析 本文汇集...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "翻译：Netflix 的技术架构解析 本文汇集..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1734070311606182361
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-15]]
+** 📌
+#+BEGIN_QUOTE
+翻译：Netflix 的技术架构解析
+
+本文汇集了许多来自 Netflix 工程团队的博客和开源项目的研究成果。如果您在阅读中发现任何不准确之处，请不吝告知。
+
+移动端与网页端：Netflix 在其移动应用开发上，选用了 Swift 和 Kotlin 语言，打造出原生体验。至于网页应用方面，则采用了 React 技术。
+
+前端与服务器的交流：这一环节，Netflix 选择了 GraphQL 技术。
+
+后端服务体系：Netflix 构建其后端服务时，主要依赖于 ZUUL、Eureka 和 Spring Boot 框架，以及其他一些技术。
+
+数据库方面：Netflix 的数据存储方案中包含了 EV 缓存、Cassandra、CockroachDB 等多种数据库技术。
+
+消息传递与流媒体处理：为了实现高效的消息传递和流媒体服务，Netflix 采用了 Apache Kafka 和 Fink。
+
+视频存储解决方案：对于视频内容的存储，Netflix 使用了 S3 和 Open Connect。
+
+数据处理流程：在处理数据方面，Netflix 利用 Flink 和 Spark 完成数据处理任务，并通过 Tableau 工具进行数据可视化展示。此外，Redshift 被用于处理结构化的数据仓库信息。
+
+持续集成与持续部署（CI/CD）：在这一环节，Netflix 采用了包括 JIRA、Confluence、PagerDuty、Jenkins、Gradle、Chaos Monkey、Spinnaker、Altas 等在内的多种工具。 
+#+END_QUOTE
+    date:: [[2023-12-11]]
+*** from _翻译：Netflix 的技术架构解析 本文汇集..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1734070311606182361)

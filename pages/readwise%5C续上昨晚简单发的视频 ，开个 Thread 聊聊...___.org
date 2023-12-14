@@ -1,0 +1,73 @@
+:PROPERTIES:
+:title: readwise\续上昨晚简单发的视频 ，开个 Thread 聊聊...
+:END:
+
+:PROPERTIES:
+:author: [[CoooolXyh on Twitter]]
+:full-title: "续上昨晚简单发的视频 ，开个 Thread 聊聊..."
+:category: [[tweets]]
+:url: https://twitter.com/CoooolXyh/status/1732560960936935555
+:image-url: https://pbs.twimg.com/profile_images/1561008654509547520/_6e7E6j7.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-15]]
+** 📌
+#+BEGIN_QUOTE
+续上昨晚简单发的视频 ，开个 Thread 聊聊这次四十分钟从 idea 到落地的 Chrome 插件开发流程 - AI Group Tabs
+https://t.co/BTouBxeIGh 🧵 <video controls><source src="https://video.twimg.com/ext_tw_video/1732560785778659328/pu/vid/avc1/1108x720/Mx3MnudS3HiBYjSc.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1732560785778659328/pu/vid/avc1/414x270/vUANiK4Ohg_d5WiR.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1732560785778659328/pu/vid/avc1/554x360/KaTxHvASM4meEP1U.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1732560785778659328/pu/vid/avc1/1662x1080/UNuXXsHPuXX85tqv.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1732560785778659328/pu/pl/KcyZDEfP-yibPkaT.m3u8?tag=14&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732560960936935555)
+** 📌
+#+BEGIN_QUOTE
+1. idea: 昨天看到 <a href="https://twitter.com/XyxxxxOvO">@XyxxxxOvO</a> 正在找 Group Tabs 的插件帮他整理几十个 Tab ，但发现都是根据域名来做分组的，导致可能分组完还是很多很挤，于是就想到，为什么不用 AI 来总结分类呢？就跟我在 Arc 上的 Workspace 一样，按开发，娱乐等等来进行分类 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732561695254749204)
+** 📌
+#+BEGIN_QUOTE
+<a href="https://twitter.com/XyxxxxOvO">@XyxxxxOvO</a> 2. 调研：睡前突然想起这个 idea ，就去 GitHub 翻了几个开源的 Group Tabs 的插件，发现原来 Chrome 就已经提供了 Group 的 API - https://t.co/RXeTtRIOhH
+最难的部分已经不用自己做了，评估了一下就是半小时的工作量，话不多说直接开始写。 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732562200047612129)
+** 📌
+#+BEGIN_QUOTE
+<a href="https://twitter.com/XyxxxxOvO">@XyxxxxOvO</a> 3. AI 总结：https://t.co/V5avrQfv2k 使用了这个 starter 模板来帮助我快速启动一个插件开发。第一步是先写 AI 总结当前所有 Tab ，根据 title 和 uri 来做，使用的是 GPT4 。
+API 的速度很满意👍，可行性也得到了验证 
+
+![](https://pbs.twimg.com/media/GAtMl6IaQAAShIM.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732562945329279011)
+** 📌
+#+BEGIN_QUOTE
+<a href="https://twitter.com/XyxxxxOvO">@XyxxxxOvO</a> 4. Prompt 优化：总结确定跑通了以后，就开始优化 Prompt ，最后只想拿到每个 Tab 对应的分类。基于我仅有的可怜的 Prompt 技能，勉强完成了这个工作 🥹 
+
+![](https://pbs.twimg.com/media/GAtNJXyaIAAexnc.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732563316302819526)
+** 📌
+#+BEGIN_QUOTE
+<a href="https://twitter.com/XyxxxxOvO">@XyxxxxOvO</a> 5. Tab 分类：拿到每个 Tab 对应的 Type ，就只剩下最后一步，也就是分类了。这里直接调用的 Chrome 原生的 API ，根据 AI 分析的 Tab 类型来做好分类。至此就已经完成了基本的功能，也满足了需求 
+
+![](https://pbs.twimg.com/media/GAtNcCgaEAA0oQJ.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732563846634840573)
+** 📌
+#+BEGIN_QUOTE
+<a href="https://twitter.com/XyxxxxOvO">@XyxxxxOvO</a> 6. 后续：这只是一个出于兴趣开发的小项目，但好像也是一部分人的需求，于是我把插件代码开源了，感兴趣的朋友也可以一起来优化这个插件，感觉还有挺多功能可以做的！有需求的朋友直接去仓库下载打包即可
+https://t.co/BTouBxeIGh
+\- The end - 
+#+END_QUOTE
+    date:: [[2023-12-07]]
+*** from _续上昨晚简单发的视频 ，开个 Thread 聊聊..._ by @CoooolXyh on Twitter
+*** [View Tweet](https://twitter.com/CoooolXyh/status/1732564314723389666)

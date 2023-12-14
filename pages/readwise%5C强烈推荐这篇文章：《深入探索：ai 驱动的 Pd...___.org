@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise\强烈推荐这篇文章：《深入探索：ai 驱动的 Pd...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "强烈推荐这篇文章：《深入探索：ai 驱动的 Pd..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1734129116167729596
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-15]]
+** 📌
+#+BEGIN_QUOTE
+强烈推荐这篇文章：《深入探索：AI 驱动的 PDF 布局检测引擎源代码解析 [译]》
+
+系统的分析了最近很火的 PDF 转 Markdown 开源程序 Marker https://t.co/UI3w2R9eQ4 的工作原理，比我想象的要复杂不少，用了好几个开源库。Marker 主要通过以下六个阶段来工作：
+
+1. 准备阶段： 利用 PyMuPDF 工具，可以把各种格式的文档转换成 PDF 文件。
+
+2. 文本识别（OCR）： 使用 Tesseract 或 OCRMyPDF 进行文字识别；也可以选择用 PyMuPDF 进行基本的文字抓取。
+
+3. 布局识别： 运用专门定制的 LayoutLMv3 模型 来识别文档中的表格、图表、标题、图说、页眉和页脚。
+
+4. 列的检测和排序： 再用一个定制的 LayoutLMv3 模型来识别文档中的列，并按照正确的顺序（上到下，左到右）进行排列。
+
+5. 公式/代码处理： 通过 Nougat 工具，把公式图片转换成对应的 latex 代码，并利用启发式方法准确识别和调整代码及表格内容。
+
+6. 文本清理与优化： 使用定制的 T5ForTextClassification 模型进行文本清理，比如去掉不必要的空格和奇怪的字符，确保以一种保守且保留原意的方式进行优化。
+
+借助这六个阶段，Marker 能够把任何文档转化为格式整洁的 Markdown 文件。
+
+原文：Inside Marker: A Guided Source Code Tour for an AI-powered PDF Layout Detection Engine https://t.co/cBwxuqveb0
+翻译：https://t.co/RZRGKwseww<img src='https://pbs.twimg.com/media/GBDco9-XkAAFTop.jpg'/><img src='https://pbs.twimg.com/media/GBDc19dXgAAmJJA.jpg'/><img src='https://pbs.twimg.com/media/GBDc3pMXAAAdpW8.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-12-11]]
+*** from _强烈推荐这篇文章：《深入探索：ai 驱动的 Pd..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1734129116167729596)

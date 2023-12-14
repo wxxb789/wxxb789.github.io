@@ -1,0 +1,53 @@
+:PROPERTIES:
+:title: readwise\接着上次LLM Inference 的选择，整理...
+:END:
+
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "接着上次LLM Inference 的选择，整理..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1734612479106543703
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-15]]
+** 📌
+#+BEGIN_QUOTE
+接着上次LLM inference 的选择，整理了一个repo。
+
+包括了推理框架、推理后端以及性能评测（吞吐、QPS和首token延迟）。
+
+目前评测只更新了2个，会尽快完成全部测试。
+
+https://t.co/9EOi3VJgiR 
+#+END_QUOTE
+    date:: [[2023-12-13]]
+*** from _接着上次LLM Inference 的选择，整理..._ by @9hills on Twitter
+*** [View Tweet](https://twitter.com/9hills/status/1734612479106543703)
+** 📌
+#+BEGIN_QUOTE
+修正了stream 模型的错误：
+
+1. 部分框架提供的OpenAI兼容API 存在细微差别导致测试之前失败，比如首token中的content为null、SSE分隔符是\r\n\r\n而不是 \n\n等。
+2. 首Token 使用空字符串占位导致FTL测试结果不准确。
+
+目前三个推理后端非量化的情况下，结果如下图。 
+
+![](https://pbs.twimg.com/media/GBL5Hh5bQAA20K-.png) 
+#+END_QUOTE
+    date:: [[2023-12-13]]
+*** from _接着上次LLM Inference 的选择，整理..._ by @9hills on Twitter
+*** [View Tweet](https://twitter.com/9hills/status/1734723421760884963)
+** 📌
+#+BEGIN_QUOTE
+完成了基准 Backend 测试，至于 Framework 只要支持这些后端，其他就是易用性的PK。
+
+目前看 vLLM 和 TGI 表现是最好的。但是 TGI 没有 Chat接口，需要自己按照模型的 chat_template 拼 Prompt。
+
+vLLM 非量化表现最好，TGI 的 eetq 8bit 以及 awq 4bit更快。 
+
+![](https://pbs.twimg.com/media/GBNEdJhaIAAEviP.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-13]]
+*** from _接着上次LLM Inference 的选择，整理..._ by @9hills on Twitter
+*** [View Tweet](https://twitter.com/9hills/status/1734806920152928353)

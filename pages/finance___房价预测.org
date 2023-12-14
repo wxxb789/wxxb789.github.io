@@ -1,14 +1,12 @@
 #+tags: finance/realty,
 
-* #my-prediction 今天是 [[2022-11-25]]
 * 北京房价的一些看法
-** 支撑房价的因素
-*** 经济增长，货币超发
+[[prediction/my]] 今天是 [[2022-11-25]]
 ** positive point
-***
+*** 经济增长，货币超发
 ** negative point
 *** 黑天鹅，硬着陆
-* 验证 #.ol
+* 验证
 ** 1 年的验证 
 SCHEDULED: <2023-12-15 Fri>
 ** 2 年的验证 

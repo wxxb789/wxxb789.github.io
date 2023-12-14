@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise\转译：什么是“专家混合模型”（Mixture-O...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "转译：什么是“专家混合模型”（Mixture-O..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1733742097239286215
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-15]]
+** 📌
+#+BEGIN_QUOTE
+转译：什么是“专家混合模型”（Mixture-of-Experts，MoE）？
+
+“专家混合模型”是一种创新的神经网络架构设计，它在 Transformer 架构中融合了众多的专家/模型层。在这种设计中，数据流动时，每一个输入的 Token 都会被动态分配给一些专家进行处理。这种做法使得计算更高效，因为每个专家都能在其擅长的特定任务上发挥出色。
+
+关键要素包括：
+
+\- 专家：MoE 层由众多专家组成，既可以是小型的多层感知机（MLP），也可以是像 Mistral 7B 这样复杂的大型语言模型（LLM）。
+- 路由器：负责将输入的 Token 分配给合适的专家。路由策略有两种：由 Token 选择路由器，或由路由器选择 Token。具体是怎样实现的呢？系统通过一个 softmax 门控函数来建立一个概率分布，从而在众多专家或 Token 中选出最合适的几个。
+
+为何选择 MoE？
+
+- 每个专家可以专注于处理不同的任务或数据的不同部分。
+- 为大型语言模型增加了可学习的参数，同时不会增加推理成本。
+- 能够高效处理稀疏矩阵。
+- 所有专家层可并行计算，充分利用了 GPU 的并行处理能力。
+- 有助于在降低计算成本的同时，缩短模型训练时间并提升效果！
+
+推荐阅读的论文：
+
+- 《稀疏门控的专家混合模型层》(2017)：[点击查看](https://t.co/7JyCqoDUdT)
+- 《GShard：利用条件计算和自动分片扩展巨型模型》(2020)：[点击查看](https://t.co/yGmc3QWERF)
+- 《MegaBlocks：使用专家混合模型进行高效稀疏训练》(2022)：[点击查看](https://t.co/kWS1VGN1A1)
+- 《专家混合模型遇见指令调整》(2023)：[点击查看](https://t.co/DosVXhbveL) 
+#+END_QUOTE
+    date:: [[2023-12-10]]
+*** from _转译：什么是“专家混合模型”（Mixture-O..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1733742097239286215)
