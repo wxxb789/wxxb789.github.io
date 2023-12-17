@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/Tweets from 向阳乔木
+:END:
+
+:PROPERTIES:
+:author: [[vista8 on Twitter]]
+:full-title: "Tweets from 向阳乔木"
+:category: [[tweets]]
+:url: https://twitter.com/vista8
+:image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+今天学Prompt教程，看到个测试LLM自我一致性的问题
+https://t.co/zfQsUEDgNR
+
+问题：当我6岁时，我的妹妹是我的一半年龄。现在我70岁了，我的妹妹多大？
+
+翻译成英文（有LLM不支持中文）：When I was 6 years old, my sister was half my age. Now that I’m 70, how old is my sister?… 
+
+![](https://pbs.twimg.com/media/FwpQrnmaIAIGZ0h.jpg) 
+
+![](https://pbs.twimg.com/media/FwpQrnpaQAArEXi.jpg) 
+
+![](https://pbs.twimg.com/media/FwpQrnmakAAodhC.jpg) 
+
+![](https://pbs.twimg.com/media/FwpQrnpacAEnuOk.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-22]]
+*** from _Tweets from 向阳乔木_ by @vista8 on Twitter
+*** [View Tweet](https://twitter.com/vista8/status/1660230011641798656)
+** 📌
+#+BEGIN_QUOTE
+最近跟不少一线做AI产品研发的朋友聊，都提到微软Build2023开发者大会Andrej Karpathy的分享启发最大。
+
+Andrej Karpathy是OpenAI的创始成员、前特斯拉高级 AI 总监。
+
+@dotey 之前做过这个视频的字幕，也多次提炼分享过核心内容。
+
+公众号搜到个文字总结版，存成飞书文档阅读一起学。
+
+笔记版地址：… https://t.co/3lcHPBUVxL 
+#+END_QUOTE
+    date:: [[2023-07-07]]
+*** from _Tweets from 向阳乔木_ by @vista8 on Twitter
+*** [View Tweet](https://twitter.com/vista8/status/1674004399813971968)

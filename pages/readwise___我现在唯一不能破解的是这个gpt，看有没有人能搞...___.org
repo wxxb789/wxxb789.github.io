@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/我现在唯一不能破解的是这个gpt，看有没有人能搞...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "我现在唯一不能破解的是这个gpt，看有没有人能搞..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1723494416713748863
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+我现在唯一不能破解的是这个GPT，看有没有人能搞定：
+
+Character Foger
+
+An aasistant to generate consistent characters  Check here: https://t.co/cVANiWeiya 
+#+END_QUOTE
+    date:: [[2023-11-12]]
+*** from _我现在唯一不能破解的是这个gpt，看有没有人能搞..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1723494416713748863)

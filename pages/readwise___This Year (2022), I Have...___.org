@@ -1,0 +1,97 @@
+:PROPERTIES:
+:title: readwise/This Year (2022), I Have...
+:END:
+
+:PROPERTIES:
+:author: [[harshbothra_ on Twitter]]
+:full-title: "This Year (2022), I Have..."
+:category: [[tweets]]
+:url: https://twitter.com/harshbothra_/status/1607337942665801728
+:image-url: https://pbs.twimg.com/profile_images/1609428924475543552/SsbPLnxc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+This year (2022), I have worked on creating educational resources in various forms, such as blogs, Twitter series, mindmaps and others. In case you missed them, here are all of them:
+
+# SecurityExplained Twitter Series:
+
+\- https://t.co/JqwwUom4eI
+
+🧵 - 1/5 
+#+END_QUOTE
+    date:: [[2022-12-27]]
+*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
+*** [View Tweet](https://twitter.com/harshbothra_/status/1607337942665801728)
+** 📌
+#+BEGIN_QUOTE
+2/5
+
+# MindMaps
+1. Forget Password Vulns: https://t.co/yYkol6c71J
+
+2. XML Attacks: https://t.co/p2E1w03ImZ
+
+3. 2FA Bypass Techniques: https://t.co/APWP13MC89
+
+4. Android PT Checklist: https://t.co/dRMNnCKl8n
+
+5. Cookie Based Auth Vulnerabilities: https://t.co/rr9TmohNKw 
+#+END_QUOTE
+    date:: [[2022-12-27]]
+*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
+*** [View Tweet](https://twitter.com/harshbothra_/status/1607337945635381248)
+** 📌
+#+BEGIN_QUOTE
+3/5
+
+6. Scope Based Recon: https://t.co/nFfdN2wgqa
+
+7. Unauthenticated JIRA CVEs: https://t.co/97ShPSueVr
+
+# Blogs
+
+1. https://t.co/uxmQwFdJew
+
+2. https://t.co/iuR0E1Y9vD
+
+3. https://t.co/YPwMlvsndH
+
+4. https://t.co/xOuPs5OHPJ
+
+5. https://t.co/i9mhMDGWNJ 
+#+END_QUOTE
+    date:: [[2022-12-27]]
+*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
+*** [View Tweet](https://twitter.com/harshbothra_/status/1607337948487495682)
+** 📌
+#+BEGIN_QUOTE
+4/5
+
+6. https://t.co/wq11tSyM0n
+7. https://t.co/tBKxTiQ5Jb
+
+8. https://t.co/7wqDUSu8t1
+
+9. https://t.co/ASwrhLKeQ3
+
+10. https://t.co/9Yar17FMod
+
+11. https://t.co/obLvNkWHqz
+
+12. https://t.co/qKB46T84e2 
+#+END_QUOTE
+    date:: [[2022-12-27]]
+*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
+*** [View Tweet](https://twitter.com/harshbothra_/status/1607337951431888897)
+** 📌
+#+BEGIN_QUOTE
+5/5
+Apart from these, I have shared many threads on my Twitter account: https://t.co/YBs1CjyfY6!
+
+While this year was incredible, next year will be thrilling as I will develop some new content, and some new series. So feel free to drop what you want to see next in the comments. 
+#+END_QUOTE
+    date:: [[2022-12-27]]
+*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
+*** [View Tweet](https://twitter.com/harshbothra_/status/1607337954380484609)

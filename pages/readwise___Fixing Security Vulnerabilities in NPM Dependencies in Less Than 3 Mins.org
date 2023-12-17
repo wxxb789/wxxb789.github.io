@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/Fixing Security Vulnerabilities in NPM Dependencies in Less Than 3 Mins
+:END:
+
+:PROPERTIES:
+:author: [[Vivek Nayyar]]
+:full-title: "Fixing Security Vulnerabilities in NPM Dependencies in Less Than 3 Mins"
+:category: [[articles]]
+:url: https://itnext.io/fixing-security-vulnerabilities-in-npm-dependencies-in-less-than-3-mins-a53af735261d
+:image-url: https://miro.medium.com/max/1021/1*immP4U8mwMmgofYMCaS2ZA.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+npm install minimist --save-dev 
+#+END_QUOTE
+    date:: [[2023-09-01]]
+*** from _Fixing Security Vulnerabilities in NPM Dependencies in Less Than 3 Mins_ by Vivek Nayyar
+*** [View Highlight](https://read.readwise.io/read/01h97nnvk2kwsn9pmpx7wwybpb)

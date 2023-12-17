@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/基于 LangchainJS 的上层应用还真不少...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "基于 LangchainJS 的上层应用还真不少..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1666466455901323264
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+基于 LangchainJS 的上层应用还真不少，又看到一个做的非常不错的，https://t.co/B8RCxfGWDZ，只需要简单的几个拖拽动作，便可以实现让多个 AI 之间相互交互，例如给 Chat 说一句，抓一条最新的热点，帮我生成一条有吸引力的 Twitter 并发布，需要做的事情很简单：
+
+1）让 AutoGPT… https://t.co/sj0muKhPEe 
+#+END_QUOTE
+    date:: [[2023-06-09]]
+*** from _基于 LangchainJS 的上层应用还真不少..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1666466455901323264)

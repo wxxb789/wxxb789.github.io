@@ -1,0 +1,93 @@
+:PROPERTIES:
+:title: readwise/\#FastGPT 更新了一个遥遥领先的功能（特别...
+:END:
+
+:PROPERTIES:
+:author: [[CarsonYangk8s on Twitter]]
+:full-title: "\#FastGPT 更新了一个遥遥领先的功能（特别..."
+:category: [[tweets]]
+:url: https://twitter.com/CarsonYangk8s/status/1731303461235601521
+:image-url: https://pbs.twimg.com/profile_images/1422792589556678658/yTi8xw9D.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+#FastGPT 更新了一个遥遥领先的功能（特别感谢 #crawlee 这个框架）！可以直接抓取一个网站的所有内容并通过 #embedding 转化成知识库内容，特别适合作为项目文档的问答客服，或者基于个人博客来制作数字分身。以下是使用方法👇
+
+https://t.co/RuDmClKjEw 
+
+![](https://pbs.twimg.com/media/GAbTSLGagAAW25q.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731303461235601521)
+** 📌
+#+BEGIN_QUOTE
+1️⃣ 首先到知识库页面点击“新建知识库”，然后选择 “Web 站点同步”，取个名字，然后点击 “确认创建”。 
+
+![](https://pbs.twimg.com/media/GAbT8V1aYAAISB3.jpg) 
+
+![](https://pbs.twimg.com/media/GAbUBLHasAADWGx.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731307748892250471)
+** 📌
+#+BEGIN_QUOTE
+2️⃣ 然后点击右上角的 “开始配置网站信息”，输入网站根地址和 #css 元素选择器（比如 #Sealos 文档的主体就是类 theme-doc-markdown），然后点击 “开始同步”。 
+
+![](https://pbs.twimg.com/media/GAbU1CmbsAAKB5D.jpg) 
+
+![](https://pbs.twimg.com/media/GAbU5x-awAEzdp0.jpg) 
+
+![](https://pbs.twimg.com/media/GAbU7sIaIAAuUBd.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731307751702442276)
+** 📌
+#+BEGIN_QUOTE
+3️⃣ 同步完成后就是这个样子。 
+
+![](https://pbs.twimg.com/media/GAbVWSja4AA2AVh.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731307755116618058)
+** 📌
+#+BEGIN_QUOTE
+4️⃣ 然后我们再新建一个应用，关联之前创建的知识库，选择心仪的 #AI 模型（比如 #GPT4），再加一句咒语：
+
+你是 Sealos 助手，知识库中 Sealos 的官方文档，里面包含相关教程和介绍，参照知识库内容回答用户的问题。
+如果知识库中有图片链接，请尽可能的使用图片链接回答问题。
+
+然后就大功告成了！ 
+
+![](https://pbs.twimg.com/media/GAbW72NagAAkfFP.jpg) 
+
+![](https://pbs.twimg.com/media/GAbXAPLaIAAlVX-.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731307757746426209)
+** 📌
+#+BEGIN_QUOTE
+5️⃣ 不满足于此？你完全可以通过强大的 #workflow 编排流程来编排你的应用，使其更加灵活和智能。比如对问题进行分类然后选择不同的处理方式！来看看我的编排配置👀 
+
+![](https://pbs.twimg.com/media/GAbY67hbQAAG1nH.jpg) 
+
+![](https://pbs.twimg.com/media/GAbZLl8akAAm2Vb.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731309914528829550)
+** 📌
+#+BEGIN_QUOTE
+欢迎给项目点个⭐，🐙GitHub 地址：
+
+https://t.co/94DAQq38nS 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _#FastGPT 更新了一个遥遥领先的功能（特别..._ by @CarsonYangk8s on Twitter
+*** [View Tweet](https://twitter.com/CarsonYangk8s/status/1731320993858326642)

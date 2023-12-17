@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/推荐阅读：《提升软件工程效率的小技巧：留点悬念，...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "推荐阅读：《提升软件工程效率的小技巧：留点悬念，..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1736117089121743125
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+推荐阅读：《提升软件工程效率的小技巧：留点悬念，让工作更流畅 [译]》
+
+4 个改变我工作效率的编程习惯
+“你的成果是你习惯的反映。” - James Clear
+
+当我逐渐成长为一名优秀的软件工程师时，我发现自己日常工作中的四个关键习惯极大地提升了我的效率。
+
+1. 留下部分未完工作，为次日顺利开展打下基础
+2. 提高键盘与鼠标快捷键的使用技巧
+3. 随手准备一份可搜索的命令和链接清单
+4. 学会拒绝
+
+原文：https://t.co/xo9FSJ4Fcd
+翻译：https://t.co/k7xuMphSp3<img src='https://pbs.twimg.com/media/GBftO__XcAAUmoH.jpg'/><img src='https://pbs.twimg.com/media/GBftQGsXUAAKJiz.png'/><img src='https://pbs.twimg.com/media/GBftSbYWcAAXcLd.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-12-17]]
+*** from _推荐阅读：《提升软件工程效率的小技巧：留点悬念，..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1736117089121743125)

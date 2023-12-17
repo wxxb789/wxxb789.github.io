@@ -1,0 +1,91 @@
+:PROPERTIES:
+:title: readwise/PCA From Scratch Using P...
+:END:
+
+:PROPERTIES:
+:author: [[akshay_pachaar on Twitter]]
+:full-title: "PCA From Scratch Using P..."
+:category: [[tweets]]
+:url: https://twitter.com/akshay_pachaar/status/1607383266969149440
+:image-url: https://pbs.twimg.com/profile_images/1578327351544360960/YFpWSWIX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+PCA from scratch using Python 🔥
+
+Principal Component Analysis is a powerful technique for dimensionality reduction and data visualisation.
+
+\-- step by step explanation with code --
+
+A Thread 🧵👇 
+
+![](https://pbs.twimg.com/media/Fk6SiyDakAEjW9k.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _PCA From Scratch Using P..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1607383266969149440)
+** 📌
+#+BEGIN_QUOTE
+We'll use wine_dataset which has 13 features (dimensions) originally!!
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/Fk6SklnakAA5sAn.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _PCA From Scratch Using P..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1607383291774267393)
+** 📌
+#+BEGIN_QUOTE
+Let's apply PCA on the above data!
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/Fk6Sl0laYAIHGTq.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _PCA From Scratch Using P..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1607383312313749504)
+** 📌
+#+BEGIN_QUOTE
+PCA is sensitive to the scale warning ⚠️
+
+Let's see if normalising the data helps! 👀
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/Fk6SnAeakAE9I2G.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _PCA From Scratch Using P..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1607383332014419970)
+** 📌
+#+BEGIN_QUOTE
+🔵 Find Jupyter Notebook 📒 ⬇️
+https://t.co/wDFCh45MWn 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _PCA From Scratch Using P..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1607383336737177600)
+** 📌
+#+BEGIN_QUOTE
+That's a wrap!
+
+If you interested in:
+
+\- Python 🐍
+- Data Science 📈
+- Machine Learning 🤖
+- MLOps 🛠
+- NLP 🗣
+- Computer Vision 🎥
+
+I'm sharing daily content over here, follow me → @akshay_pachaar if you haven't already!!
+
+Cheers!! 🙂 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _PCA From Scratch Using P..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1607383339522220033)

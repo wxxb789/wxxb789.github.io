@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/🔍 Alternative Search Met...
+:END:
+
+:PROPERTIES:
+:author: [[pranavpramod on Twitter]]
+:full-title: "🔍 Alternative Search Met..."
+:category: [[tweets]]
+:url: https://twitter.com/pranavpramod/status/1637861137458020352
+:image-url: https://pbs.twimg.com/profile_images/1071180570292510720/UygVlgKj.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+🔍 Alternative Search Methods 
+Generic word search in applications makes it super hard to find something you vaguely remember. Depicted below are 4 different types of searches that a user could use to find content that seems hard to find.
+
+Check it out at: https://t.co/fY5GC6nawr https://t.co/IUByf6W47c 
+#+END_QUOTE
+    date:: [[2023-03-23]]
+*** from _🔍 Alternative Search Met..._ by @pranavpramod on Twitter
+*** [View Tweet](https://twitter.com/pranavpramod/status/1637861137458020352)
+** 📌
+#+BEGIN_QUOTE
+I have only visualized 4 potential types here, there are a lot more one could use: regex, wildcards, antonyms (when what you are looking for is defined by its antonym: 'hot' as 'not cold'), grammatical structures, etc. And with LLMs in vogue, there must be potential for that too. 
+#+END_QUOTE
+    date:: [[2023-03-23]]
+*** from _🔍 Alternative Search Met..._ by @pranavpramod on Twitter
+*** [View Tweet](https://twitter.com/pranavpramod/status/1638094602019438592)

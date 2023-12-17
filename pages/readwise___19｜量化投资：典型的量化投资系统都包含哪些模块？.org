@@ -1,0 +1,66 @@
+:PROPERTIES:
+:title: readwise/19｜量化投资：典型的量化投资系统都包含哪些模块？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "19｜量化投资：典型的量化投资系统都包含哪些模块？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/410443
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/de/d6/ded5df5581840c748445645abf294cd6.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+下面的图 1 就是一个典型量化投资系统的框图。我们看到它是由六大模块组成的，分别是账户及策略管理模块（以下简称管理模块）、策略模块、交易模块、回测平台、业绩分析模块和数据中心。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _19｜量化投资：典型的量化投资系统都包含哪些模块？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxp06tgnjf92x14hhrjjrzv2)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/3f/d2/3fe708a8ffea9dc84501af79b3e2fdd2.jpg?wh=2248x1881) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _19｜量化投资：典型的量化投资系统都包含哪些模块？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxp06p1gqmj533pe891kbm2b)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/3f/d2/3fe708a8ffea9dc84501af79b3e2fdd2.jpg?wh=2248x1881) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _19｜量化投资：典型的量化投资系统都包含哪些模块？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrdyj3db37hcg6t8anddayw)
+** 📌
+#+BEGIN_QUOTE
+“管理模块”是整个系统的管理者，它负责调度所有的模块执行相应的任务，对系统进行顶层的管理；
+
+“策略模块”是各种投资策略的仓库，你可以把它理解成若干位不同投资风格的投资经理，每位投资经理根据自己的投资信号或模型，生成相应的投资决策；
+
+“交易模块”是执行者，它负责在接收到“管理模块”或“策略模块”的指令后，调用外部的交易接口，执行具体的交易操作；
+
+“回测平台”类似于机器学习中的离线测试平台，用于试验各种新策略；
+
+“业绩分析模块”是裁判，它会公平地评判各个策略的盈亏情况和各个环节的运行情况，把评判结果发给管理模块，让管理者知道哪些策略和环节需要改进；
+
+“数据中心”就好理解了，它用来存储整个系统的所有交易、回测、持仓和盈亏数据。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _19｜量化投资：典型的量化投资系统都包含哪些模块？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxp06zqbfd4hvk70bt1ymsyb)
+** 📌
+#+BEGIN_QUOTE
+可以看看聚宽社区里面开源的策略，学习学习。这种帮我们省去了数据中心，交易模块的开发和运维，全身心的集中在策略研发中心，和账户资金配置上。 可以使用在线计算列式存储，比如clickhouse，大宽表也很适合交易数据和财务数据 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _19｜量化投资：典型的量化投资系统都包含哪些模块？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxp08gn9a08pdzaewh7bz81g)
+** 📌
+#+BEGIN_QUOTE
+可以看看聚宽社区里面开源的策略，学习学习。这种帮我们省去了数据中心，交易模块的开发和运维，全身心的集中在策略研发中心，和账户资金配置上。 可以使用在线计算列式存储，比如clickhouse，大宽表也很适合交易数据和财务数据 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _19｜量化投资：典型的量化投资系统都包含哪些模块？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrdzyt47b00pkp352467fwt)

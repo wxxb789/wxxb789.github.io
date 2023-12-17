@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/最近OpenAI创始人Sam Altman在一次...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "最近OpenAI创始人Sam Altman在一次..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1664024408917245957
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+最近OpenAI创始人Sam Altman在一次访谈中讨论了OpenAI的API和他们的产品计划。Sam非常坦诚。讨论涉及到实际的开发者问题，以及与OpenAI的使命和AI的社会影响相关的更大范围的问题。以下是主要的要点：
+
+1. OpenAI目前严重依赖GPU。… 
+#+END_QUOTE
+    date:: [[2023-06-01]]
+*** from _最近OpenAI创始人Sam Altman在一次..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1664024408917245957)
+** 📌
+#+BEGIN_QUOTE
+课代表总结的 
+#+END_QUOTE
+    date:: [[2023-06-01]]
+*** from _最近OpenAI创始人Sam Altman在一次..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1664036106214551552)

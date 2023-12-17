@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/作为一个只会读一些Python的普通麻瓜，看完O...
+:END:
+
+:PROPERTIES:
+:author: [[onenewbite on Twitter]]
+:full-title: "作为一个只会读一些Python的普通麻瓜，看完O..."
+:category: [[tweets]]
+:url: https://twitter.com/onenewbite/status/1721900761905541531
+:image-url: https://pbs.twimg.com/profile_images/1585995910521446400/OXrx3eAV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+作为一个只会读一些Python的普通麻瓜，看完OpenAI的发布会和新的技术文档后深有感触：很好懂。看得懂英文你就差不多知道怎么用了。以前是懂技术懂解决问题的人去为遇到问题的人做工具解决问题；很快会是遇到问题的人自己去使用AI解决问题。就是<a href="https://twitter.com/tinyfool">@tinyfool</a> 之前在我的采访里说的“问题域”的人开始用自然语言编程。这更make sense, 因为问题域的人有一手数据，更明白自己的问题。就好像我有问题先找Google, 而不是直接问别人。(当然依然有人用不好Google, 但我们都知道那是落后或者懒。那放到用自然语言编程上，也会是同样的道理。)。现在麻瓜最应该做的事情：学好英文，会读代码。这是普通人最好的杠杆。 
+#+END_QUOTE
+    date:: [[2023-11-08]]
+*** from _作为一个只会读一些Python的普通麻瓜，看完O..._ by @onenewbite on Twitter
+*** [View Tweet](https://twitter.com/onenewbite/status/1721900761905541531)

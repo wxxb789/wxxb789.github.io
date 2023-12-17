@@ -1,0 +1,56 @@
+:PROPERTIES:
+:title: readwise/现在LLaMA的衍生模型太多了，这个LlamaC...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "现在LLaMA的衍生模型太多了，这个LlamaC..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1646284321613926400
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+现在LLaMA的衍生模型太多了，这个LlamaChat的Mac客户端就是让你可以在本机直接和你喜欢的Llama模型交互
+
+我专门去查了一下它怎么实现和LLaMA模型交互的，原来作者把llama.cpp fork了一份，从而实现了Swift调用LLaMA
+
+https://t.co/4BTTDqj3A9
+https://t.co/sbbZMYvwTU 
+
+![](https://pbs.twimg.com/media/FtjG3NfXwAE57WT.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-13]]
+*** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1646284321613926400)
+** 📌
+#+BEGIN_QUOTE
+LLaMA的UI还有一个是Web版本的：
+
+https://t.co/FLeRQASJQq 
+#+END_QUOTE
+    date:: [[2023-04-13]]
+*** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1646287007428014081)
+** 📌
+#+BEGIN_QUOTE
+还有一个Serge，界面漂亮，但只支持Alpaca
+
+https://t.co/rVW6LpF35Y 
+#+END_QUOTE
+    date:: [[2023-04-13]]
+*** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1646287011538509828)
+** 📌
+#+BEGIN_QUOTE
+还有一个https://t.co/bbKTmnjrMP
+
+LLM playground，支持OpenAI, Anthropic, Cohere, Forefront, HuggingFace, Aleph Alpha, and llama.cpp.
+
+https://t.co/FQqRECLD0C 
+#+END_QUOTE
+    date:: [[2023-04-13]]
+*** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1646287015313391616)

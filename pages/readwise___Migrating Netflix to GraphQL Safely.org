@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/Migrating Netflix to GraphQL Safely
+:END:
+
+:PROPERTIES:
+:author: [[Netflix Technology Blog]]
+:full-title: "Migrating Netflix to GraphQL Safely"
+:category: [[articles]]
+:url: https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72
+:image-url: https://miro.medium.com/v2/resize:fit:1200/1*u38PDW5BKHqtOEui3_WQjA.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Until recently, an internal API framework, [Falcor](https://netflix.github.io/falcor/), powered our mobile apps. They are now backed by [Federated GraphQL](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2), a distributed approach to APIs where domain teams can independently manage and own specific sections of the API. 
+#+END_QUOTE
+    date:: [[2023-07-01]]
+*** from _Migrating Netflix to GraphQL Safely_ by Netflix Technology Blog
+*** [View Highlight](https://read.readwise.io/read/01h46st5phgjd30xev7ntbq2d6)

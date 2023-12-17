@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/V1 of My Prompt Cheatshe...
+:END:
+
+:PROPERTIES:
+:author: [[mckaywrigley on Twitter]]
+:full-title: "V1 of My Prompt Cheatshe..."
+:category: [[tweets]]
+:url: https://twitter.com/mckaywrigley/status/1648802069287927809
+:image-url: https://pbs.twimg.com/profile_images/1552979440547704832/WX5crG9I.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+V1 of my prompt cheatsheet is live!
+
+Download the json file and import it into Chatbot UI to add 20+ prompts to your code workflow.
+
+I’ll be back soon with:
+\- More complex, powerful prompts.
+- A system for choosing which prompts you want to use.
+
+GitHub: https://t.co/T8XhT4lxbz https://t.co/w3KwrlZqhe 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _V1 of My Prompt Cheatshe..._ by @mckaywrigley on Twitter
+*** [View Tweet](https://twitter.com/mckaywrigley/status/1648802069287927809)
+** 📌
+#+BEGIN_QUOTE
+This is largely a beta test to make sure that this works and to get feedback.
+
+The realllly good prompts will start rolling in next week.
+
+Just keep an eye on that repo for updates!
+
+Likely going with a Mon/Thu update cadence going forward. 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _V1 of My Prompt Cheatshe..._ by @mckaywrigley on Twitter
+*** [View Tweet](https://twitter.com/mckaywrigley/status/1648802420661825536)
+** 📌
+#+BEGIN_QUOTE
+And make sure that you’re running the latest version of @ChatbotUI for this to work 100% correctly! 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _V1 of My Prompt Cheatshe..._ by @mckaywrigley on Twitter
+*** [View Tweet](https://twitter.com/mckaywrigley/status/1648803836537241600)

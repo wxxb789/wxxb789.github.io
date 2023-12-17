@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/人大前两天刚放出来的LLM驱动的Agent（智能...
+:END:
+
+:PROPERTIES:
+:author: [[breezedeus on Twitter]]
+:full-title: "人大前两天刚放出来的LLM驱动的Agent（智能..."
+:category: [[tweets]]
+:url: https://twitter.com/breezedeus/status/1695017509592993883
+:image-url: https://pbs.twimg.com/profile_images/1522372003616804865/95JflKTX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+人大前两天刚放出来的LLM驱动的Agent（智能体）的survey文章《A Survey on LLM-based Autonomous Agents》。 Repo:  https://t.co/kE24fNLdw4  ，Paper: https://t.co/fPD9XtTZ0d 。 
+
+![](https://pbs.twimg.com/media/F4XpW4jakAAaXGl.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-30]]
+*** from _人大前两天刚放出来的LLM驱动的Agent（智能..._ by @breezedeus on Twitter
+*** [View Tweet](https://twitter.com/breezedeus/status/1695017509592993883)

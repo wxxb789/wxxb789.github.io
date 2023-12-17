@@ -1,0 +1,169 @@
+:PROPERTIES:
+:title: readwise/关于AutoGPT的疑惑, 它到底有没有CoT?...
+:END:
+
+:PROPERTIES:
+:author: [[realrenmin on Twitter]]
+:full-title: "关于AutoGPT的疑惑, 它到底有没有CoT?..."
+:category: [[tweets]]
+:url: https://twitter.com/realrenmin/status/1647383612931870720
+:image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+关于AutoGPT的疑惑, 它到底有没有CoT?
+
+昨天发了关于AutoGPT的thread，断言它的prompt没有CoT是它的致命缺陷。
+
+今日重新思考了这个问题，并在两位读者的指正和讨论下，重新看了AutoGPT的代码，整理了一下思考，感觉昨天的结论下的有些不严谨。
+
+那么AutoGPT到底有没有CoT?
+
+🧵 
+
+![](https://pbs.twimg.com/media/FtyuqiSaEAEyFiX.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383612931870720)
+** 📌
+#+BEGIN_QUOTE
+2/n 根据AutoGPT的代码，粗略地画了它构建prompt message的流程图。
+
+prompting llm是AutoGPT的关键，所以整个过程中它到底是怎样构建prompt message非常重要。
+
+总的来说，四个部分构成了它的prompt message，分别为
+user
+postfix
+memory
+template 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383615934963713)
+** 📌
+#+BEGIN_QUOTE
+3/n 这四个部分中，只有prompt template是不变的。
+
+在上个thread中有介绍，AutoGPT的prompt template主要是要让llm生成带有thought和command键值的json，这样以来，command可以被容易地解析出来让用户执行。 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383618661257219)
+** 📌
+#+BEGIN_QUOTE
+4/n 其余三个组成部分（user，postfix，memory）在不同的阶段都有变化，具体来说可以分为两个阶段：
+
+生成第一个command的阶段（noted 阶段一）
+第一个command执行完之后的阶段 （noted 阶段二） 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383621437906947)
+** 📌
+#+BEGIN_QUOTE
+5/n 阶段一
+
+user input：ai name/role/goals
+memory为空
+但值得注意的是，AutoGPT为prompt postfix设置了一个默认值：
+“Determine which next command to use, and respond using the format specified above:” 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383623988043776)
+** 📌
+#+BEGIN_QUOTE
+6/n  所以第一阶段的prompt message为
+
+"ai name/role/goals + memory[空] + template + postfix"
+
+prompting LLM， “同时” 生成了thought 和 command的json 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383626932436992)
+** 📌
+#+BEGIN_QUOTE
+7/n 阶段二
+
+假设用户选择执行生成的command，输入y
+postfix变为了：GENERATE NEXT COMMAND JSON
+
+这个postfix连同执行command产生的结果，以及上一步生成的json一起更新了memory
+
+memory = [json from previous step + result from previous command + postfix] 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383629444820992)
+** 📌
+#+BEGIN_QUOTE
+8/n 所以第二阶段的prompt message为
+
+"ai name/role/goals, + template + memory [json from previous step + result from previous command + postfix]  + postfix"
+
+prompting LLM，再次 “同时” 生成 thought 和 command
+
+接下来，是循环阶段二的动作，执行command，更新memory... 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383632062066690)
+** 📌
+#+BEGIN_QUOTE
+9/ AutoGPT的prompt 建立过程中有几个疑惑点
+
+1：“Determine which next command to use, and respond using the format specified above:”  以及 GENERATE NEXT COMMAND JSON 能不能起到 ‘let‘s think step by step’的神奇作用？
+
+2: AutoGPT到底有没有CoT？ 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383635119706112)
+** 📌
+#+BEGIN_QUOTE
+10/n step by step的核心步骤是把step by step生成的CoT反贴生成新的prompt来生成action，总而言之，llm被prompt了两次
+
+而AutoGPT只prompt了一次，而且‘同时’ 生成了thought和action
+
+这似乎跟step by step的步骤不同。 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383638114443266)
+** 📌
+#+BEGIN_QUOTE
+11/n 在阶段一，AutoGPT的memory为空，完全依赖一个静态的prompt message，没有显性的CoT
+
+同时，CoT，step by step和ReAct的核心都是要具有针对当下action的thought。
+
+但在阶段二，AutoGPT依赖的memory记录的是previous step的command result和thought， 似乎与当下的action联系没有那么强烈？ 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383641188868098)
+** 📌
+#+BEGIN_QUOTE
+12/n 如此看来在阶段一和二，都不太符合CoT的一般步骤。
+
+但运行结果显示，这种prompting方式是奏效的（虽然低效）
+
+只能得出结论，LLM太难以理解了。 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383643793530881)
+** 📌
+#+BEGIN_QUOTE
+13/ 最后感谢两位读者@thankswell4 和 @connglli 非常critical的指正和讨论，获益匪浅。
+
+同样，此条thread有任何疑问和错误，欢迎指正，我们一起成长。
+
+请关注@realrenmin， 我们一起学习NLP。 
+#+END_QUOTE
+    date:: [[2023-04-16]]
+*** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
+*** [View Tweet](https://twitter.com/realrenmin/status/1647383646280769537)

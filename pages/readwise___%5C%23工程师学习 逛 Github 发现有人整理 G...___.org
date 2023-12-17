@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/\#工程师学习 逛 Github 发现有人整理 G...
+:END:
+
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#工程师学习 逛 Github 发现有人整理 G..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1732187345234075972
+:image-url: https://pbs.twimg.com/profile_images/1540397753586528256/SFkyn7LD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+#工程师学习 逛 Github 发现有人整理 GPTs “泄露” 的 prompt，哈哈哈哈有一种偷学咒语的感觉。
+🤖 https://t.co/i3YjaZxkfq 
+
+![](https://pbs.twimg.com/media/GAbgKYhaYAAV3Jg.jpg) 
+
+![](https://pbs.twimg.com/media/GAbgKYdboAAB7x1.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _#工程师学习 逛 Github 发现有人整理 G..._ by @HiTw93 on Twitter
+*** [View Tweet](https://twitter.com/HiTw93/status/1732187345234075972)

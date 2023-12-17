@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: readwise/几个月前Meta发布Segment Anythi...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "几个月前Meta发布Segment Anythi..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1714822532933582932
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+几个月前Meta发布Segment Anything Model(SAM) https://t.co/THY1dqsHGg ，可以识别、标记图片、视频中的任何物体，而OpenAI刚刚发布了多模态大模型GPT-4V，没想到微软将SAM和GPT-4V结合了起来，先借助SAM对图片上的物体进行标记，然后再交给GPT-4V，可以大幅提升GPT-4V的识别能力。
+
+其实也很好理解：因为用文字描述图片其实是很难的事情，但是当把图片上的关键内容标记上编号，描述、引用起来就更简单准确了。
+
+项目地址：https://t.co/rg57k1VAwg
+论文：https://t.co/0SgwUkZBWG
+
+Set-of-Mark Prompting Unleashes
+Extraordinary Visual Grounding in GPT-4V
+
+## GPT-4V通过“标记集”提示实现出色的视觉识别
+
+我们提出了一种新的视觉提示技术——“标记集”(SoM)，帮助像GPT-4V这样的大型多模态模型更好地识别和理解图像。简单来说，我们用常见的交互式图像分割技术（例如SAM）来把一幅图像分成不同的部分，并在这些部分上加上一些标识，如字母、数字、遮罩或框等。然后把这些加了标识的图像给GPT-4V，它就能回答和图像相关的问题了。
+
+我们做了很多实验来证明这种方法的有效性。结果表明，只要用上我们的“标记集”提示，GPT-4V在无需样例的情况下就能做得比其他先进技术还要好，例如在RefCOCOg任务中的表现就超过了其他技术。 
+#+END_QUOTE
+    date:: [[2023-10-19]]
+*** from _几个月前Meta发布Segment Anythi..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1714822532933582932)

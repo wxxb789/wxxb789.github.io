@@ -1,0 +1,130 @@
+:PROPERTIES:
+:title: readwise/Can Having a Prior Knowl...
+:END:
+
+:PROPERTIES:
+:author: [[danieljwkim on Twitter]]
+:full-title: "Can Having a Prior Knowl..."
+:category: [[tweets]]
+:url: https://twitter.com/danieljwkim/status/1661039678097870849
+:image-url: https://pbs.twimg.com/profile_images/1543029967734407169/aw1m1fOw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Can having a prior knowledge of task relationships help us choose a small yet better set of training tasks for a given target in multi-task NLP? 
+We find that it often helps.
+📜 https://t.co/EfWue5wM4d
+(1/N) 
+
+![](https://pbs.twimg.com/media/Fw0xRBSaYAAzbu2.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661039678097870849)
+** 📌
+#+BEGIN_QUOTE
+We first represent task relationships with pairwise (or intermediate) task transfer. Pairwise task transfer allows us to quantify how knowledge learned in one task transfers to another task. It is also more tractable than searching over groups of three or more tasks.
+(2/N) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661039786839392256)
+** 📌
+#+BEGIN_QUOTE
+Here we introduce TaskWeb, a large-scale benchmark containing pairwise task transfer experiments across 22 NLP tasks with three different model types, sizes and adaptation methods, spanning about 25,000 transfer experiments.
+(3/N) 
+
+![](https://pbs.twimg.com/media/Fw0y9JraMAE42Lc.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661039873585995776)
+** 📌
+#+BEGIN_QUOTE
+Our analysis with TaskWeb provides interesting insights. For example, we find a transitive property between positive transfers, where stronger pairwise transfers from tasks A to B and B to C indicate a higher likelihood of a positive transfer from tasks A to C.
+(4/N) 
+
+![](https://pbs.twimg.com/media/Fw0zGHOacAAs-Bt.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661040027886039043)
+** 📌
+#+BEGIN_QUOTE
+We then propose TaskShop, which estimates the transfer from a source task to a target task which only contains a few examples. TaskShop builds on our transitivity analysis and uses pairwise scores between source tasks in TaskWeb - more details are provided in our paper.
+(5/N) 
+
+![](https://pbs.twimg.com/media/Fw0zVL1agAESVc6.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661040298322169857)
+** 📌
+#+BEGIN_QUOTE
+We apply TaskShop to a single-task setup to choose a helpful source for the target, and to a multi-task setup to select a set of tasks that collectively improve target performance.
+(6/N) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661040397836222467)
+** 📌
+#+BEGIN_QUOTE
+Our results in the single-task setup demonstrate that TaskShop assigns better scores between (source, target) pairs in terms of the overall ranking and choosing top helpful tasks across different categories of tasks.
+(7/N) 
+
+![](https://pbs.twimg.com/media/Fw0zjaUaIAICyDU.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661040551632969729)
+** 📌
+#+BEGIN_QUOTE
+For our multi-task setup, we train T5-3B on small sets of tasks chosen by TaskShop for each target. Our results show that training on five helpful source tasks with only 2,000 samples from each outperform T0-3B, as well as T5-3B trained on a much larger superset of tasks.
+(8/N) 
+
+![](https://pbs.twimg.com/media/Fw0z2-daQAAv058.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661040881225568261)
+** 📌
+#+BEGIN_QUOTE
+We then change the number of chosen tasks, and find that using five sources provides the best overall performance. Yet we also observe that some targets perform well with fewer sources, and a few others scale better as more sources are indiscriminately added.
+(9/N) 
+
+![](https://pbs.twimg.com/media/Fw00BE9aIAAriZq.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661041038260310020)
+** 📌
+#+BEGIN_QUOTE
+Furthermore, we conduct a case study where we replace a multi-task training set of five helpful tasks per TaskWeb with an unhelpful task until all five helpful tasks are replaced. Our results show a consistent decrease overall with a few exceptions discussed in our paper.
+(10/N) 
+
+![](https://pbs.twimg.com/media/Fw00N9UaYAAVD73.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661041259253997568)
+** 📌
+#+BEGIN_QUOTE
+We must add the caveat that our experiments have been performed with models of size 3B, so there is no direct evidence to suggest that the same findings will necessarily occur for much larger models.
+(11/N) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661041388480516097)
+** 📌
+#+BEGIN_QUOTE
+This work has been done with my wonderful collaborators @AkariAsai, @gabriel_ilharco and @HannaHajishirzi !  Check out the paper, website and code (to be updated soon) below:
+📜: https://t.co/EfWue5wM4d
+🕸️: https://t.co/wK9rQaAj1u
+💻: https://t.co/uh4Lv8QsP2
+(12/N) 
+#+END_QUOTE
+    date:: [[2023-05-24]]
+*** from _Can Having a Prior Knowl..._ by @danieljwkim on Twitter
+*** [View Tweet](https://twitter.com/danieljwkim/status/1661041873954418693)

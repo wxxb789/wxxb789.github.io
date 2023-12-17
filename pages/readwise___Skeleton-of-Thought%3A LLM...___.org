@@ -1,0 +1,59 @@
+:PROPERTIES:
+:title: readwise/Skeleton-of-Thought: LLM...
+:END:
+
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "Skeleton-of-Thought: LLM..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1685832487103008768
+:image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Skeleton-of-Thought: LLMs can do parallel decoding
+
+Interesting prompting strategy which firsts generate an answer skeleton and then performs parallel API calls to generate the content of each skeleton point.
+
+Reports quality improvements in addition to speed-up of up to 2.39x. Big deal given how costly in terms of latency some tasks are. This a great paper to rethink the necessity of sequential decoding of current LLMs.
+
+https://t.co/R5pn7YvNtX 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _Skeleton-of-Thought: LLM..._ by @omarsar0 on Twitter
+*** [View Tweet](https://twitter.com/omarsar0/status/1685832487103008768)
+** 📌
+#+BEGIN_QUOTE
+Skeleton-of-Thought: LLMs can do parallel decoding
+
+Interesting prompting strategy which firsts generate an answer skeleton and then performs parallel API calls to generate the content of each skeleton point.
+
+Reports quality improvements in addition to speed-up of up to 2.39x. Big deal given how costly in terms of latency some tasks are. This a great paper to rethink the necessity of sequential decoding of current LLMs.
+
+https://t.co/R5pn7YvNtX 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _Skeleton-of-Thought: LLM..._ by @omarsar0 on Twitter
+*** [View Tweet](https://twitter.com/omarsar0/status/1685832487103008768)
+** 📌
+#+BEGIN_QUOTE
+Reported speed-ups of Skeleton-of-Thought (SoT) compared to normal decoding... "for most models, SoT not only accelerates the generation but also improves the diversity and relevance of the answers." https://t.co/mK8K6vzjRS 
+
+![](https://pbs.twimg.com/media/F2VI6SnWsAE2KBN.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _Skeleton-of-Thought: LLM..._ by @omarsar0 on Twitter
+*** [View Tweet](https://twitter.com/omarsar0/status/1685834334169686016)
+** 📌
+#+BEGIN_QUOTE
+This diagram demonstrates the process of skeleton generation (prompt 1) and the point-expanding stage (prompt 2) based on the generated skeleton.
+
+Works on both proprietary models available only with APIs (via multiple parallel API calls) and open-source models (batched request). https://t.co/Auqs28ar6N 
+
+![](https://pbs.twimg.com/media/F2VKhG0WUAA3XTr.png) 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _Skeleton-of-Thought: LLM..._ by @omarsar0 on Twitter
+*** [View Tweet](https://twitter.com/omarsar0/status/1685836135841275905)

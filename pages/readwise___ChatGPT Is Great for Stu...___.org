@@ -1,0 +1,161 @@
+:PROPERTIES:
+:title: readwise/ChatGPT Is Great for Stu...
+:END:
+
+:PROPERTIES:
+:author: [[JorisTechTalk on Twitter]]
+:full-title: "ChatGPT Is Great for Stu..."
+:category: [[tweets]]
+:url: https://twitter.com/JorisTechTalk/status/1671865629249339393
+:image-url: https://pbs.twimg.com/profile_images/1658421689259024386/UTSIX9cO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+ChatGPT is great for studying.
+
+But did you know you can use it to make mindmaps based on your study material?
+
+Through the combined power of @LangChainAI and @XmindHQ you can.
+
+Let's dive into the workflow and code 🧵
+
+#AI 
+
+![](https://pbs.twimg.com/media/FzOo7ZsXwAIvs5o.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865629249339393)
+** 📌
+#+BEGIN_QUOTE
+Before we dive in, this is day 3 of my '7 days of LangChain'.
+
+Every day, I'll introduce you to a simple project that will guide you through the basics of LangChain.
+
+Follow @JorisTechTalk to stay up-to-date.
+
+Let me know what you'd like to see
+
+Let's dive in: 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865632994861059)
+** 📌
+#+BEGIN_QUOTE
+High-level overview:
+
+1️⃣ Load study material
+2️⃣ Split into smaller chunks
+3️⃣ Generate mindmap in Markdown with @LangChainAI
+4️⃣ Import markdown file in @XmindHQ 
+
+![](https://pbs.twimg.com/media/FzOo8C-XwAAloDm.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865641345732609)
+** 📌
+#+BEGIN_QUOTE
+1. Load study material
+
+Load your data with a Pdf Reader.
+
+Since it splits this into multiple pages, add all text to a single text variable for further use. 
+
+![](https://pbs.twimg.com/media/FzOo8k-XgAAAoLQ.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865649453228035)
+** 📌
+#+BEGIN_QUOTE
+2. Split text into chunks
+
+The new OpenAI 16k model is amazing. It lets you have 4 times the input compared to the earlier model. 
+
+Larger context window = better understanding and fewer API calls. 
+
+![](https://pbs.twimg.com/media/FzOo9BgWcAQHICG.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865656705155076)
+** 📌
+#+BEGIN_QUOTE
+3. Create your prompts.
+
+Prompting is key. I specifically instructed the model to only output the text in markdown, with the correct format.
+
+Try it yourself and see what works best. 
+
+![](https://pbs.twimg.com/media/FzOo9c5XgAE3rwJ.jpg) 
+
+![](https://pbs.twimg.com/media/FzOo9dFXsAEb7hE.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865665400066048)
+** 📌
+#+BEGIN_QUOTE
+4. Initialize and run the summary chain
+
+With the use of your custom prompts, the summary chain will create the mindmap based on your study material.
+
+Setting verbose to True will show the model's 'thought process'.
+
+Always play around with structuring your prompts. 
+
+![](https://pbs.twimg.com/media/FzOo-AMWcAAgEFt.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865674124210177)
+** 📌
+#+BEGIN_QUOTE
+5. Save the mindmap to a markdown file
+
+Nothing fancy happening here.
+
+Just saving it to import it to Xmind later. 
+
+![](https://pbs.twimg.com/media/FzOo-dAWAAExPza.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865682076598274)
+** 📌
+#+BEGIN_QUOTE
+6. Import the markdown file into @XmindHQ.
+
+Voila. You've just created a mindmap to help you study!
+
+This is still a manual step. Will look into automating this as well. https://t.co/0j9M6eZj5m 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865728461406210)
+** 📌
+#+BEGIN_QUOTE
+That's day 3 out of '7 days of Langchain' done.
+
+Follow @JorisTechTalk to stay up to date.
+
+Still looking for a project for tomorrow. What do you want me to cover? 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865732135567360)
+** 📌
+#+BEGIN_QUOTE
+Day 3 of '7 days of @LangChainAI' ✅
+
+Nearly crossing the half-way point.
+
+What else do you want to see? 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
+*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865734375284736)

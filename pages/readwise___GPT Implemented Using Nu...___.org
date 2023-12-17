@@ -1,0 +1,177 @@
+:PROPERTIES:
+:title: readwise/GPT Implemented Using Nu...
+:END:
+
+:PROPERTIES:
+:author: [[akshay_pachaar on Twitter]]
+:full-title: "GPT Implemented Using Nu..."
+:category: [[tweets]]
+:url: https://twitter.com/akshay_pachaar/status/1627652574315954180
+:image-url: https://pbs.twimg.com/profile_images/1578327351544360960/YFpWSWIX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+GPT implemented using NumPy in like 60 lines of code! 🔥
+
+Let me break it down for to you in this thread: 🧵👇 
+
+![](https://pbs.twimg.com/media/FpaVXg7aIAcm8rL.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652574315954180)
+** 📌
+#+BEGIN_QUOTE
+1️⃣ gelu
+
+Applies Gaussian Error Linear Units activation function to the input array.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVZw9akAA5Lbx.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652592573767680)
+** 📌
+#+BEGIN_QUOTE
+2️⃣ softmax
+
+Applies softmax function to the input array.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVaclaAAMPUHh.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652604393308162)
+** 📌
+#+BEGIN_QUOTE
+3️⃣ layer_norm
+
+Applies layer normalization to the input array.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVbIgaEAE2yqi.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652615843753985)
+** 📌
+#+BEGIN_QUOTE
+4️⃣ linear
+
+Performs a linear op on the input array.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVbxKaYAALK-O.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652626119802881)
+** 📌
+#+BEGIN_QUOTE
+5️⃣ ffn
+
+Passes the input array to a feedforward neural network.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVcV0agAUYV_x.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652638602067968)
+** 📌
+#+BEGIN_QUOTE
+6️⃣ attention
+
+Applies attention mechanism to the input arrays.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVdFiaEAIl6z5.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652649163300865)
+** 📌
+#+BEGIN_QUOTE
+7️⃣ mha
+
+Applies multi-head attention to the input array.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVdrqaAAEYbsR.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652660534079488)
+** 📌
+#+BEGIN_QUOTE
+8️⃣ transformer_block
+
+A transformer block that applies multi-head attention and ffn to an input array.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVeUvakAAcd6d.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652672420732930)
+** 📌
+#+BEGIN_QUOTE
+9️⃣ gpt
+
+A transformer network composed of several transformer blocks.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVfEEaYAAIoNK.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652685561491458)
+** 📌
+#+BEGIN_QUOTE
+🔟 generate
+
+Generate new tokens given an initial sequence of tokens and a set of parameters.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/FpaVf0DaYAkffDl.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652698647699456)
+** 📌
+#+BEGIN_QUOTE
+Credits: jaymody (GitHub)
+
+Here's the repo ⬇️
+https://t.co/0srJ2NFDKa 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652702170927105)
+** 📌
+#+BEGIN_QUOTE
+That's a wrap!
+
+Everyday, I share tutorials around Data Science & Machine Learning.
+
+Find me → @akshay_pachaar ✔️
+
+Like/RT the tweet below to support my work! 🙏 https://t.co/aNPzY2FqWY 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _GPT Implemented Using Nu..._ by @akshay_pachaar on Twitter
+*** [View Tweet](https://twitter.com/akshay_pachaar/status/1627652704867852288)

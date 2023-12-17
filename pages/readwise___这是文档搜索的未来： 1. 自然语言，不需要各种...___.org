@@ -1,0 +1,95 @@
+:PROPERTIES:
+:title: readwise/这是文档搜索的未来： 1. 自然语言，不需要各种...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "这是文档搜索的未来： 1. 自然语言，不需要各种..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1636208832069206016
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+这是文档搜索的未来：
+1. 自然语言，不需要各种关键字反复试
+2. 没有语言障碍，中文输入也可以搜索到英文结果
+3. 可以帮助摘要摘要甚至直接生成代码
+4. 能根据错误信息帮助debug https://t.co/vnuDpGcanU 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636208832069206016)
+** 📌
+#+BEGIN_QUOTE
+这是我在Supabase的文档中用中文搜索的结果，英文文档，中文输入，中文结果！ 
+
+![](https://pbs.twimg.com/media/FrT95QkXwAEPFlp.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636211728726781953)
+** 📌
+#+BEGIN_QUOTE
+忘记输入网址了
+
+https://t.co/5L1NSoRzsq
+
+使用快捷键弹出 cmd + / 可以弹出搜索框，图标是office当年经典的回形针📎😄 
+
+![](https://pbs.twimg.com/media/FrT-j9GXsAElZVz.jpg) 
+
+![](https://pbs.twimg.com/media/FrT-j9EXoAE5luh.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636212460679049217)
+** 📌
+#+BEGIN_QUOTE
+让它生成代码和让它Debug 
+
+![](https://pbs.twimg.com/media/FrUBL_nXwAI-45P.jpg) 
+
+![](https://pbs.twimg.com/media/FrUBL_qXgAArL-w.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636215349111652355)
+** 📌
+#+BEGIN_QUOTE
+如果你想知道它怎么实现的话，原理可以参考我以前写过的一篇🧵 https://t.co/7kPgVfAXXA 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636235510568943616)
+** 📌
+#+BEGIN_QUOTE
+具体到supabase怎么实现的可以看这篇Blog：
+
+https://t.co/1jKA6pCFDs
+
+里面介绍的很详细了 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636235512162709506)
+** 📌
+#+BEGIN_QUOTE
+如果你想找个开源实现参考，那么这是你要的：
+
+https://t.co/JbO7CEgTfC 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1636235686599704577)
+** 📌
+#+BEGIN_QUOTE
+背后的原理介绍：
+
+https://t.co/dYEnLnNbdW 
+#+END_QUOTE
+    date:: [[2023-03-20]]
+*** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1637280143981805569)

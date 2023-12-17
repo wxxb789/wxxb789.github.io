@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/[Free 434-Page PDF Downl...
+:END:
+
+:PROPERTIES:
+:author: [[KirkDBorne on Twitter]]
+:full-title: "[Free 434-Page PDF Downl..."
+:category: [[tweets]]
+:url: https://twitter.com/KirkDBorne/status/1707966481277796525
+:image-url: https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+[Free 434-page PDF download]
+The Big Book of Small #Python Projects — 81 small projects for beginners designed to build programming skills and teach new techniques: https://t.co/z2r45SOGQa
+————
+#Coding #BigData #DataScience #AI #MachineLearning #DataScientists #100DaysOfCode 
+
+![](https://pbs.twimg.com/media/F7PqdpaX0AArkeg.jpg) 
+#+END_QUOTE
+    date:: [[2023-10-01]]
+*** from _[Free 434-Page PDF Downl..._ by @KirkDBorne on Twitter
+*** [View Tweet](https://twitter.com/KirkDBorne/status/1707966481277796525)

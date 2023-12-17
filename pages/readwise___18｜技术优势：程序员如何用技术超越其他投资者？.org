@@ -1,0 +1,97 @@
+:PROPERTIES:
+:title: readwise/18｜技术优势：程序员如何用技术超越其他投资者？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "18｜技术优势：程序员如何用技术超越其他投资者？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/409852
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/eb/f9/eb07395d61d9f52c5dfd922fd14037f9.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+这里我先帮你分析分析，你的技术优势到底可以体现在哪些具体的方向。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzppk7ygzh8mhh6jqkf26h)
+** 📌
+#+BEGIN_QUOTE
+第一个方向是“高效获取信息”。
+
+对于投资者来说，信息就是盈利的首要来源。在做出一个投资决策的时候，你收集到的相关信息越多，做出的投资决策就会越理性，越可能获得最大的收益。炒股是这样，买基金是这样，生活中所有跟财富相关的决策都是这样。等会我们就用一个买房的例子，来说明程序员应该如何高效地获取信息，来支持我们的投资决策。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzpsqrq5s7z5b92t2h02c9)
+** 📌
+#+BEGIN_QUOTE
+第二个方向是“投资支点的验证”。
+
+在学习支点投资法时，很多同学都有这样的疑问：怎么才能找到一个靠谱的投资支点呢？其实支点的来源有很多，比如你的观察、别人的建议，或者相关的文章。但这些支点是否靠谱，不是通过它们的来源来判断的，而是需要你对这些投资支点进行验证。
+
+这个时候，技术优势就又可以体现出来了。我们完全可以利用程序高效地处理数据，去验证我们的投资支点，增加这个支点的可靠程度。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzpyr3kntxh2bd5rnb9c4b)
+** 📌
+#+BEGIN_QUOTE
+第三个方向是“固化规则，解放人力”。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzqa7jk04ygjfdmv4d5nwx)
+** 📌
+#+BEGIN_QUOTE
+如果你炒股，肯定经常听说一些关于投资策略的想法，比如什么“涨停敢死队”“黄金交叉”“死亡交叉”，等等。这些想法肯定不是毫无根据的，但也不能直接拿来用。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnztc4w3n4z395be712myqv)
+** 📌
+#+BEGIN_QUOTE
+半年多前，我在和同事聊天的时候，听他们提到过一个特别简单的基于日历效应的投资策略：每个月的前五个交易日满仓沪深 300 指数，其他日子都空仓。他们说是特别有效。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnztyn3jhg51h8xp5fy13e6)
+** 📌
+#+BEGIN_QUOTE
+在完全证实我们的猜想之前，这套策略还谈不上一个非常稳固的交易策略，而且我们也没有考虑其他影响收益的因素，比如交易手续费等。但是，我们至少可以得到一个行动上的指导：在我们建仓或者定投股票基金的时候，应该尽量选在每月初的前一到两天，避开月末，这样才更有可能拿到一个好的收益率。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzxg0sheevywcw4m6hx04a)
+** 📌
+#+BEGIN_QUOTE
+CTP，它是上次期货交易所下属公司上期技术开发的一个平台，它提供了开放接口，让有编程能力的交易者可以开发属于自己的定制化下单软件，甚至能让交易者把主机托管在交易所机房，从而实现最为快捷的交易速度，是实现高频交易等功能的基础。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzyst5henmsg7y9h2fw4pb)
+** 📌
+#+BEGIN_QUOTE
+CTP是现在的NGES系统，了解CTP接口和相关的使用、仿真可以从这个网站入手 https://www.simnow.com.cn/ 上期所的官方CTP仿真平台。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxnzz3zj4vbe8312812abf6c)
+** 📌
+#+BEGIN_QUOTE
+2.综合交易平台（Comprehensive Transaction Platform），由期货四大机构管理 (上海期货交易所、郑州商品交易所、大连商品交易所、中国金融期货交易所)。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxp001hp9eaxstf3z02p6k7m)
+** 📌
+#+BEGIN_QUOTE
+在我们建仓或者定投股票基金的时候，应该尽量选在每月初的前一到两天，避开月末，这样才更有可能拿到一个好的收益率。 实验非常棒，这结论对短期投资是不错的，对于长期定投来说，月末则是更好的，因为成本更低。这样的想法有问题吗？ 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _18｜技术优势：程序员如何用技术超越其他投资者？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxp01qfqdcer4f7s986gby1r)

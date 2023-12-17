@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/OpenAI 最新的一篇论文《Weak-to-S...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "OpenAI 最新的一篇论文《Weak-to-S..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1735503637542265117
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+OpenAI 最新的一篇论文《Weak-to-strong Generalization》，https://t.co/HJGB8I0R7X，读起来还是很让人兴奋的，它甚至提供了 1000 万美元的资助计划，期望更多人参与进来解决这篇论文提出的问题：如何让弱监督模型强化比它更强的模型，以构建超人类人工智能系统，例如，如何使用 GPT-2 作为监督模型让 GPT-4 变得更强。
+
+为什么这件事情如此重要？之前我们聊过，“人类反馈的强化学习”（RLHF）在 ChatGPT 的训练过程中起到了至关重要的作用，https://t.co/HIouJQ3rwj，可随着 GPT 能力的提升，人类也开始从强监督者角色转变成了弱监督者，举个栗子，GPT 未来能够编写数百万行新颖且具有潜在危险的计算机代码，即使是人类专家也很难理解，那这个时候人类就无法去指导和控制 AI 进行工作了，更不用说帮助 AI 变得更加智能。
+
+那 AI 的进化岂不是要停止不前？需要怎么办呢？很显然，提升人类自己肯定是不够的，因为再怎么努力也赶不上机器的学习效率，因此 OpenAI 提出了一个让弱监督 AI（替代人类身份）来调优更强的 AI 的想法。
+
+它们通过实验证明，GPT-2 调优 GPT-4 可以得到一个 GPT-3~3.5 的水平，但额外发现了一个有趣的现象是，GPT-2 在调优的过程中变得更加聪明了，假设有一个跟人类差不多水平的 AI 去调优一个更强的 GPT（如 GPT-5），在调优的过程中，这个 AI 可以获得比当前更强的水平，从而就可以更进一步让 GPT-5 演化到 GPT-6 了，听起来还是比较振奋人心的。
+
+为了让大家可以更好地参与到这个项目中，OpenAI 开源了他们使用弱监督 AI 调优更强 AI 的代码，https://t.co/4c7sXGVStc，感兴趣的可以去学习下。<img src='https://pbs.twimg.com/media/GBW-LkSacAAHeU-.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-12-15]]
+*** from _OpenAI 最新的一篇论文《Weak-to-S..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1735503637542265117)

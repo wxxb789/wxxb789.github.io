@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/Hackernews 上面的这个热帖讨论了有哪些...
+:END:
+
+:PROPERTIES:
+:author: [[hal__lee on Twitter]]
+:full-title: "Hackernews 上面的这个热帖讨论了有哪些..."
+:category: [[tweets]]
+:url: https://twitter.com/hal__lee/status/1734028607063044556
+:image-url: https://pbs.twimg.com/profile_images/1441799923360354304/hDWBgkRE.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Hackernews 上面的这个热帖讨论了有哪些适合黑客（独立开发者）的界面设计课程，在里面可以找到很多不错的课程链接。
+
+https://t.co/K7bA39c3l4 
+#+END_QUOTE
+    date:: [[2023-12-12]]
+*** from _Hackernews 上面的这个热帖讨论了有哪些..._ by @hal__lee on Twitter
+*** [View Tweet](https://twitter.com/hal__lee/status/1734028607063044556)
+** 📌
+#+BEGIN_QUOTE
+第一个推荐的是 https://t.co/JWlfJN1ZrM，这本书确实很不错，我也在看，作者的语言浅显易懂，给的案例也很丰富。 
+
+PS： <a href="https://twitter.com/tufucheung">@tufucheung</a> 最近在持续分享自己读这本书的感想。
+
+https://t.co/wwBTIcKm6S 
+#+END_QUOTE
+    date:: [[2023-12-12]]
+*** from _Hackernews 上面的这个热帖讨论了有哪些..._ by @hal__lee on Twitter
+*** [View Tweet](https://twitter.com/hal__lee/status/1734030834158735528)
+** 📌
+#+BEGIN_QUOTE
+苹果的人机交互指南（HIG）也很受推荐。需要说明一下，这个指南的内容并不聚焦在 apple 的平台，Android 或 Windows 应用开发者也可以从中学到不少，因为里面的很多最佳实践都是从人出发，而我们不管开发什么平台的软件，其实都是在为人设计。
+
+https://t.co/9MduUzqTEt 
+#+END_QUOTE
+    date:: [[2023-12-12]]
+*** from _Hackernews 上面的这个热帖讨论了有哪些..._ by @hal__lee on Twitter
+*** [View Tweet](https://twitter.com/hal__lee/status/1734032832467755443)

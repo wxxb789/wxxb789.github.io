@@ -1,0 +1,101 @@
+:PROPERTIES:
+:title: readwise/Google Is Offering Free...
+:END:
+
+:PROPERTIES:
+:author: [[SanthoshKumarS_ on Twitter]]
+:full-title: "Google Is Offering Free..."
+:category: [[tweets]]
+:url: https://twitter.com/SanthoshKumarS_/status/1606643516280655873
+:image-url: https://pbs.twimg.com/profile_images/1605997847589326853/kfhjA-bc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Google is offering free online Data Science courses.
+
+No application or fee is required.
+
+Here are 5 FREE courses to become Google certified Data Scientist: 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643516280655873)
+** 📌
+#+BEGIN_QUOTE
+1 - Google's Python Class :
+
+This is a free course for folks who have basic or no programming expertise and want to learn Python.
+
+Link Below :
+
+https://t.co/0LEf28RbfN 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643518356836352)
+** 📌
+#+BEGIN_QUOTE
+2 - Data Science with Python :
+
+This Data Science with Python program gives students a thorough overview of data science tools and approaches.
+
+Link Below :
+
+https://t.co/XDfgr4G1jB 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643520491720704)
+** 📌
+#+BEGIN_QUOTE
+3 - Machine Learning Course :
+
+In this course, you will learn a hands-on introduction to machine learning, with video lectures, real-world case studies, and hands-on practice tasks.
+
+Link Below :
+
+https://t.co/AMaO3jlokt 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643522924433409)
+** 📌
+#+BEGIN_QUOTE
+4 - TensorFlow  :
+
+This course was developed by the TensorFlow team and Udacity as a practical approach to deep learning for software developers
+
+Link Below : 
+
+https://t.co/Snk6o3aF1T 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643524925067265)
+** 📌
+#+BEGIN_QUOTE
+5 - MLOps  (GCP) : 
+
+Build and deploy your machine learning models on the cloud with this Google course.
+
+Link Below :
+
+https://t.co/M6MbTHVQjQ 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643527286284288)
+** 📌
+#+BEGIN_QUOTE
+That's a wrap! Thank you for Reading❤
+
+If you enjoyed this thread:
+
+1. Follow me @SanthoshKumarS_ for more of these  Python and ML Content,
+2. RT the tweet below to share this thread with your audience. https://t.co/SPvk0XW8dr 
+#+END_QUOTE
+    date:: [[2022-12-24]]
+*** from _Google Is Offering Free..._ by @SanthoshKumarS_ on Twitter
+*** [View Tweet](https://twitter.com/SanthoshKumarS_/status/1606643578192773121)

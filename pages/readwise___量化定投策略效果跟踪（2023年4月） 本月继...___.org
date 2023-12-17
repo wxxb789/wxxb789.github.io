@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: readwise/量化定投策略效果跟踪（2023年4月） 本月继...
+:END:
+
+:PROPERTIES:
+:author: [[StephanCptMax on Twitter]]
+:full-title: "量化定投策略效果跟踪（2023年4月） 本月继..."
+:category: [[tweets]]
+:url: https://twitter.com/StephanCptMax/status/1642937941692657664
+:image-url: https://pbs.twimg.com/profile_images/1511108233695432707/TOvN835h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+量化定投策略效果跟踪（2023年4月）
+
+本月继续跟踪定投策略的效果，近一个月由于币市的价格上涨，定投浮动收益有了较大涨幅。目前三个策略的平均成本在20000左右，收益范围在33~42%左右，继续跑赢HODL的27.05%的收益率👇
+
+#BTC #定投 #EDCA 
+#+END_QUOTE
+    date:: [[2023-04-04]]
+*** from _量化定投策略效果跟踪（2023年4月） 本月继..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1642937941692657664)
+** 📌
+#+BEGIN_QUOTE
+截止到4月2日，两周间隔、四周间隔、六周间隔的表现情况如下： 
+
+![](https://pbs.twimg.com/media/FszjBoqaQAAaanR.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-04]]
+*** from _量化定投策略效果跟踪（2023年4月） 本月继..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1642937943584288768)
+** 📌
+#+BEGIN_QUOTE
+以下是Mirror全文：
+https://t.co/eZwp2L1kIs 
+#+END_QUOTE
+    date:: [[2023-04-04]]
+*** from _量化定投策略效果跟踪（2023年4月） 本月继..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1642937946339962882)
+** 📌
+#+BEGIN_QUOTE
+附上定投系列文章，没看过的朋友可以回顾一下：
+https://t.co/101soechnF 
+#+END_QUOTE
+    date:: [[2023-04-04]]
+*** from _量化定投策略效果跟踪（2023年4月） 本月继..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1642937948307087361)

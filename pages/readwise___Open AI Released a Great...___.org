@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/Open AI Released a Great...
+:END:
+
+:PROPERTIES:
+:author: [[MindBranches on Twitter]]
+:full-title: "Open AI Released a Great..."
+:category: [[tweets]]
+:url: https://twitter.com/MindBranches/status/1735497957842047056
+:image-url: https://pbs.twimg.com/profile_images/1634423987080949761/vnqmQ-CD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Open AI released a great Prompt Engineering guide (link in comments). 
+
+Here is a summary of their 6 strategies for getting better results when prompting GPT-4 
+
+![](https://pbs.twimg.com/media/GBW6MdBXQAAfpCM.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-15]]
+*** from _Open AI Released a Great..._ by @MindBranches on Twitter
+*** [View Tweet](https://twitter.com/MindBranches/status/1735497957842047056)
+** 📌
+#+BEGIN_QUOTE
+Link to OpenAI’s full Prompt Engineering Guide:
+https://t.co/xhNBs9niQx 
+#+END_QUOTE
+    date:: [[2023-12-15]]
+*** from _Open AI Released a Great..._ by @MindBranches on Twitter
+*** [View Tweet](https://twitter.com/MindBranches/status/1735498208225165446)

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/《Claude官方文档提示词工程最佳实践》来自未...
+:END:
+
+:PROPERTIES:
+:author: [[WaytoAGI on Twitter]]
+:full-title: "《Claude官方文档提示词工程最佳实践》来自未..."
+:category: [[tweets]]
+:url: https://twitter.com/WaytoAGI/status/1733793320940552476
+:image-url: https://pbs.twimg.com/profile_images/1654774036759728128/KCCnFPkO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+《Claude官方文档提示词工程最佳实践》来自未来力场中英文编译。这个 PPT 是 Anthropic 上个月更新进自己官网的，未来力场（可搜同名公众号）把它编译成了中文，内容翻译的很用心，推荐给大家：
+
+https://t.co/K1TZfmqslp 
+
+![](https://pbs.twimg.com/media/GA-rVqsawAANv8O.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-10]]
+*** from _《Claude官方文档提示词工程最佳实践》来自未..._ by @WaytoAGI on Twitter
+*** [View Tweet](https://twitter.com/WaytoAGI/status/1733793320940552476)

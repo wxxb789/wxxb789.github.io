@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/我基于 @Yihong0618 下载的 @Hao...
+:END:
+
+:PROPERTIES:
+:author: [[AdamShao on Twitter]]
+:full-title: "我基于 @Yihong0618 下载的 @Hao..."
+:category: [[tweets]]
+:url: https://twitter.com/AdamShao/status/1657999883918520320
+:image-url: https://pbs.twimg.com/profile_images/1599606404054065152/6dWxhco2.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+我基于 @yihong0618 下载的 @haoel tweets改了一个GPT，期望更多的人能持续与Chen Hao进行交流，从他孜孜不倦追求技术的精神中学习，以更好地理解和应用技术。R.I.P. @xicilion @ghosTM55 @yihong0618 
+https://t.co/OLrGTDL3wG 
+
+![](https://pbs.twimg.com/media/FwJlgi6agAIInHr.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-16]]
+*** from _我基于 @Yihong0618 下载的 @Hao..._ by @AdamShao on Twitter
+*** [View Tweet](https://twitter.com/AdamShao/status/1657999883918520320)
+** 📌
+#+BEGIN_QUOTE
+项目源码地址：https://t.co/gi7TPtfKqx
+欢迎一起改进 
+#+END_QUOTE
+    date:: [[2023-05-16]]
+*** from _我基于 @Yihong0618 下载的 @Hao..._ by @AdamShao on Twitter
+*** [View Tweet](https://twitter.com/AdamShao/status/1658030050346954752)

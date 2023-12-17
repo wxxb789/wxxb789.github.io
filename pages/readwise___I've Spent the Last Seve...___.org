@@ -1,0 +1,96 @@
+:PROPERTIES:
+:title: readwise/I've Spent the Last Seve...
+:END:
+
+:PROPERTIES:
+:author: [[tech_optimist on Twitter]]
+:full-title: "I've Spent the Last Seve..."
+:category: [[tweets]]
+:url: https://twitter.com/tech_optimist/status/1674601461466931201
+:image-url: https://pbs.twimg.com/profile_images/1694842029560262656/IQr_PfxY.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+I've spent the last several months researching / experimenting with #vector databases. Here's my take on the following databases, along with accompanying visualizations in the blog post.
+
+@pinecone
+@milvusio
+@weaviate_io 
+@qdrant_engine
+@trychroma
+@lancedb
+@vespaengine 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601461466931201)
+** 📌
+#+BEGIN_QUOTE
+What languages are vector DBs built in? #golang and #rustlang are becoming the norm in the DB world, it seems. Because of its microservice-affinity, Golang DBs are scaled via K8s, whereas Rust 🦀 DBs scale more "traditionally" (distributed & partitioning). Rust >> Java for DBs?? 
+
+![](https://pbs.twimg.com/media/Fz1c3DDWAAI7_AA.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601462930743297)
+** 📌
+#+BEGIN_QUOTE
+How long has each DB been around? Vespa has been around the longest, and LanceDB is the youngest. As the Golang and Rust 🦀 ecosystems became mature, more & more DBs were written in them. Semantic search has been around a while now, but LLMs seem to have brought them mainstream. 
+
+![](https://pbs.twimg.com/media/Fz1eCdbWYAMBlGB.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601464897892352)
+** 📌
+#+BEGIN_QUOTE
+What about open-source? A majority of vector DBs are "source-available" (permissive licenses), with only Pinecone going down the closed-source road. The vector DB market is currently spoiled for choice, but there are subtle enough differentiators in the source-available options. 
+
+![](https://pbs.twimg.com/media/Fz1eMyLXsAEGcve.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601466634416130)
+** 📌
+#+BEGIN_QUOTE
+What about hosting? Self-hosted + fully-managed, on cloud options is the most common. However, Chroma and LanceDB are in the MOST interesting space, imo. Both embedded databases, but are going about monetizing on the cloud in different ways -- should be very interesting to watch! 
+
+![](https://pbs.twimg.com/media/Fz1e5MmXoAAwbVY.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601468777693189)
+** 📌
+#+BEGIN_QUOTE
+Lastly, vector indexes. HNSW is by FAR the most popular option (being tried-and-tested), but I feel like databases that offer the fastest and most accurate on-disk (larger than memory) index will win the most market share in the long term. Too many contenders in that area! 
+
+![](https://pbs.twimg.com/media/Fz1feevWAAINOMp.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601470916808705)
+** 📌
+#+BEGIN_QUOTE
+Personally, my favourites to work with are those that have:
+\- The cleanest Python API
+- Excellent developer experience (fast setup & teardown for experimentation)
+- Great docs, blog posts & community
+@weaviate_io
+@qdrant_engine
+@lancedb 
+✅✅✅ 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601473093640193)
+** 📌
+#+BEGIN_QUOTE
+LOTs more details and comparison summaries in the full blog post, and more to come on this from my side soon!
+
+https://t.co/vN1cSGA8ws 
+#+END_QUOTE
+    date:: [[2023-07-22]]
+*** from _I've Spent the Last Seve..._ by @tech_optimist on Twitter
+*** [View Tweet](https://twitter.com/tech_optimist/status/1674601474305802240)

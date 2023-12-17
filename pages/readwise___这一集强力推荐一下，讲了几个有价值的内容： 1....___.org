@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/这一集强力推荐一下，讲了几个有价值的内容： 1....
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "这一集强力推荐一下，讲了几个有价值的内容： 1...."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1666505279658139653
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+这一集强力推荐一下，讲了几个有价值的内容：
+1. LLM是没有记忆的，怎么保持会话的记忆？
+2. LLM是有上下文窗口限制的，怎么有效的保留历史会话消息？有哪些有效的方案？是否可以尽可能长的记录会话历史？ 
+#+END_QUOTE
+    date:: [[2023-06-08]]
+*** from _这一集强力推荐一下，讲了几个有价值的内容： 1...._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1666505279658139653)

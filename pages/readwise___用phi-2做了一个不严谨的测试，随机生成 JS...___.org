@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/用phi-2做了一个不严谨的测试，随机生成 JS...
+:END:
+
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "用phi-2做了一个不严谨的测试，随机生成 JS..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1736065951899234713
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+用phi-2做了一个不严谨的测试，随机生成 JSON dict（随机的key-value对）。让模型从中抽取指定 Key 的 Value。
+
+抽取成功：PPL 1.008
+不存在的Key抽取（幻觉）：PPL 1.349
+
+目前测试prompt没有加（not found） 的指示，比较简单，加了notfound后比较复杂，没有测试。
+
+附图是两种情况的概率分布。 
+
+![](https://pbs.twimg.com/media/GBe-r3NbMAA52XH.jpg) 
+
+![](https://pbs.twimg.com/media/GBe-xqgbcAAbLk3.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-17]]
+*** from _用phi-2做了一个不严谨的测试，随机生成 JS..._ by @9hills on Twitter
+*** [View Tweet](https://twitter.com/9hills/status/1736065951899234713)
+** 📌
+#+BEGIN_QUOTE
+之后检查下脚本发出来代码。
+
+我觉得并不能判定说（或者说基本不能）能解决幻觉问题，毕竟场景过于简单，幻觉又很复杂。但是可能在某些抽取类任务上有用。
+
+总共20个kv对，测试还发现首对的首token概率 99.1%，尾对98.7，中间对94.3%。
+
+Prompt 和中间 Token 的概率分布见附图。 
+
+![](https://pbs.twimg.com/media/GBfAgrNakAA2w3Y.png) 
+
+![](https://pbs.twimg.com/media/GBfA8kcagAA601a.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-17]]
+*** from _用phi-2做了一个不严谨的测试，随机生成 JS..._ by @9hills on Twitter
+*** [View Tweet](https://twitter.com/9hills/status/1736068339691315639)

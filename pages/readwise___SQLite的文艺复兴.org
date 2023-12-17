@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/SQLite的文艺复兴
+:END:
+
+:PROPERTIES:
+:author: [[马大伟]]
+:full-title: "SQLite的文艺复兴"
+:category: [[articles]]
+:url: https://www.bmpi.dev/dev/renaissance-sqlite/
+:image-url: https://og.bmpi.dev/SQLite的文艺复兴.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+第一次被SQLite震撼到的一个事是关于[它的测试代码](https://www.sqlite.org/testing.html)，其源码有15多万行，但测试代码和脚本竟有九千多万行。作者Dwayne Richard Hipp是一个完美主义者，为了能自由的开发SQLite，他编写了底层的存储引擎、[Parser](https://www.bmpi.dev/dev/parser_black_magic/)、源码托管工具[Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki)，除了C编译器和一些底层库如libc外，Richard几乎从零构建了SQLite所依赖的库或工具。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _SQLite的文艺复兴_ by 马大伟
+*** [View Highlight](https://read.readwise.io/read/01gqmw2s0ftsj1cjg3wh2mx8vk)

@@ -1,0 +1,83 @@
+:PROPERTIES:
+:title: readwise/昨儿还和刚拿了融资的群友聊，ta做的方向是“销售...
+:END:
+
+:PROPERTIES:
+:author: [[henuwangkai on Twitter]]
+:full-title: "昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..."
+:category: [[tweets]]
+:url: https://twitter.com/henuwangkai/status/1691754550263435510
+:image-url: https://pbs.twimg.com/profile_images/1471516773031706627/bEr7ZfMx.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+昨儿还和刚拿了融资的群友聊，ta做的方向是“销售AI“，我交流了从日事清开始做企业服务十年的经验：
+
+1、根据我做日事清及后来做企业服务的十年经验判断，国内做SaaS/企业服务软件都活的不太好（因她项目拿了融资，所以从融资、扩规模角度思考的）。无论是CRM还是细分的SCRM等活的都很艰难。 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754550263435510)
+** 📌
+#+BEGIN_QUOTE
+所以我建议一定要制定高客单价——能实际给客户提供销售增量，用业绩让客户给出高价，做不到别拖着，早死降低沉没成本。 我又想到前段时间看到的国内SaaS总结，说只有三种商业模式能跑通——十万客单价找到一千个付费客户等等，写的非常对，可以自行搜下看看； 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754552624812037)
+** 📌
+#+BEGIN_QUOTE
+2、大客户一定不会贡献数据给你训练销售AI的，让你拿到他们行业、企业的Konwhow的。所以如果想要拿到大企业订单，一定是要结合私有化部署大模型来提供服务的。比如想拿到宝洁的订单，必须要给宝洁私有化部署大模型的方案，让他们把数据给到你提供的AI大模型后在私有云上训练，然后做出“宝洁销售AI”； 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754555329884504)
+** 📌
+#+BEGIN_QUOTE
+3、打利润相对最丰厚的中等企业时，多数企业软件是卖行业中先进企业的理念，比如我之前推广OKR功能就是说头条是OKR制度，比如我之前给电商企业推广双十一落地方案，就是找大电商客户站台说我们采用了。 软件是理念的落地工具，你在提供销售AI的时候其实在提供三点： 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754558001930682)
+** 📌
+#+BEGIN_QUOTE
+1）我有你们这个行业头部企业的先进、完善的销售信息并且训练成了销售AI，比如针对消费品行业说我有宝洁top销售的各项konwhow，你小企业招不起宝洁销售，但你用我的销售AI就相当于招聘了宝洁销售； 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754561831383109)
+** 📌
+#+BEGIN_QUOTE
+2）我有你们这个行业最先进的理念，比如我已经把销售经典理论、行业大公司销售实战经验等全部给到AI并且训练消化，我提供给你的不仅仅是工具，还是让你这个企业保持最有销售竞争力的知识/理念； 
+3）AI是未来，所有企业都要接触、学习AI等等。 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754564624773343)
+** 📌
+#+BEGIN_QUOTE
+我们要认识到“理念为主，然后是提供方案”，这样才能打中高价值的中部客户买单。小微客户就是说清楚带来多少增量，算清楚帐就好。 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754568630370514)
+** 📌
+#+BEGIN_QUOTE
+4、还有一个产品验证的idea，群友非要等产研等把产品做出来再验证很多商业模型中的细点。 我说：你直接招聘60分的销售（前提是预测她的产研能把销售AI做到60分），然后直接让人扮演AI接客户单子测试出来后续转化率提升等各项数据补充商业模式判断就行。 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754571780247602)
+** 📌
+#+BEGIN_QUOTE
+她们很惊讶，这个就是创业多年惨痛教训后的灵活性：销售AI你肯定要做到这个行业的60分才行对吧，那你为啥非要等产品出来才能补齐后续各项数据而不是直接招聘人来扮演AI？  
+
+美国之前有个初创公司号称新技术能降低技术成本融了多轮，最后曝出来完全是在印度招聘技术开发的。 
+
+ 建议灵活。 
+#+END_QUOTE
+    date:: [[2023-08-17]]
+*** from _昨儿还和刚拿了融资的群友聊，ta做的方向是“销售..._ by @henuwangkai on Twitter
+*** [View Tweet](https://twitter.com/henuwangkai/status/1691754574267519484)

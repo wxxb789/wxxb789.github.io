@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Tweets From Aurélie Vache
+:END:
+
+:PROPERTIES:
+:author: [[aurelievache on Twitter]]
+:full-title: "Tweets From Aurélie Vache"
+:category: [[tweets]]
+:url: https://twitter.com/aurelievache
+:image-url: https://pbs.twimg.com/profile_images/1589660843012128776/lb5thctk.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+I just updated "Understanding Kubernetes in a visual way" PDF/digital edition compliant with Kubernetes 1.26
+
+Hope you'll like it:
+https://t.co/jONwkH75ID
+
+@kubernetesio https://t.co/2SLcD62lqi 
+
+![](https://pbs.twimg.com/media/FkW3ZRrXkAADEZw.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-21]]
+*** from _Tweets From Aurélie Vache_ by @aurelievache on Twitter
+*** [View Tweet](https://twitter.com/aurelievache/status/1604890644996132864)

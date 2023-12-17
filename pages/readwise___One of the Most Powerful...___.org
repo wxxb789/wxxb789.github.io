@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/One of the Most Powerful...
+:END:
+
+:PROPERTIES:
+:author: [[DataCamp on Twitter]]
+:full-title: "One of the Most Powerful..."
+:category: [[tweets]]
+:url: https://twitter.com/DataCamp/status/1649405957858795520
+:image-url: https://pbs.twimg.com/profile_images/1318510888098369542/PUVYczQ7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+One of the most powerful AI APIs out there!
+
+Master the basics of @OpenAI API in #Python, including gaining access, text generation workflows with GPT, text embedding, converting speech to text with Whisper, image creation with DALL-E & more.
+
+Download 👉 https://t.co/JDFv4eh5oW 
+
+![](https://pbs.twimg.com/media/FuPd-PgXsAA7p01.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-09]]
+*** from _One of the Most Powerful..._ by @DataCamp on Twitter
+*** [View Tweet](https://twitter.com/DataCamp/status/1649405957858795520)

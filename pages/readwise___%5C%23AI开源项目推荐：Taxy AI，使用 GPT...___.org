@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/\#AI开源项目推荐：Taxy AI，使用 GPT...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "\#AI开源项目推荐：Taxy AI，使用 GPT..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1714451777339146518
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+#AI开源项目推荐：Taxy AI，使用 GPT-4 自动化您的浏览器
+
+在插件中输入自然语言命令，你就可以操控浏览器，例如创建Google日历、搜索、播放视频。
+
+它的工作原理比较取巧：
+1. 在网页上获取Dom信息，为重要的交互元素，比如按钮或者文本，分配id
+2. 将dom和用户输入的信息生成prompt提交给GPT，为GPT提供了两种交互方式：click和setValue，这样GPT可以生成调用这两个命令的脚本
+3. 插件执行GPT返回的脚本
+
+虽然很酷，但我个人建议你最多测试一下，慎用，万一给你误删什么的会很麻烦。
+
+🔗 https://t.co/3DoaQB7B4k 
+#+END_QUOTE
+    date:: [[2023-10-19]]
+*** from _#AI开源项目推荐：Taxy AI，使用 GPT..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1714451777339146518)

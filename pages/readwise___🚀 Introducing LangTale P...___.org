@@ -1,0 +1,71 @@
+:PROPERTIES:
+:title: readwise/🚀 Introducing LangTale P...
+:END:
+
+:PROPERTIES:
+:author: [[PetrBrzek on Twitter]]
+:full-title: "🚀 Introducing LangTale P..."
+:category: [[tweets]]
+:url: https://twitter.com/PetrBrzek/status/1673403505262862348
+:image-url: https://pbs.twimg.com/profile_images/1278678093247311873/_yWG9Kbe.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+🚀 Introducing LangTale Playground https://t.co/cL7MMtF85H - the world's first playground supporting OpenAI function callings. This tool aims to allow developers and AI enthusiasts to experiment with the latest features of OpenAI, without writing a single line of code.
+
+🧵1/6 https://t.co/tRUg63FGcw 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403505262862348)
+** 📌
+#+BEGIN_QUOTE
+1/ 👀 We've carefully designed the UI with attention to detail. You can set up template messages, variables, and functions, play with chat, and adjust parameters for OpenAI. In the video below there is a temperature slider, which is colored according to the set temperature. https://t.co/O7VMctRt2v 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403516050612254)
+** 📌
+#+BEGIN_QUOTE
+2/ 🔄 Created prompts can easily be shared with others, and you can find inspiration for creating new ones in our examples library. https://t.co/pqDqTzntHB 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403520312025096)
+** 📌
+#+BEGIN_QUOTE
+3/ 🛠️ Why are we building this tool? The journey began with a hackathon project, leading to the birth of LangTale Playground, a component of our larger product - the LangTale platform. We are thrilled to have brought it this far in such a short time. 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403524015595521)
+** 📌
+#+BEGIN_QUOTE
+4/ 👁 LangTale is our response to developers' challenges with LLM - tackling issues in prompt integration and management, testing and debugging, version control and auditing, and usage and cost limitations. 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403526192439319)
+** 📌
+#+BEGIN_QUOTE
+5/ 🧩 For the tech enthusiasts out there, we've built LangTale Playground using this tech stack:
+\- @nextjs by @vercel
+- @tailwindcss for styles
+- @OpenAI, obviously
+- @PlanetScale's Vitess database
+- For component library, @radix_ui & @shadcn's awesome library 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403527958241290)
+** 📌
+#+BEGIN_QUOTE
+6/ 🚀 We're launching LangTale Playground today to gather your feedback. So give it a try, share your thoughts, and if you like the playground, we would appreciate a retweet.
+
+https://t.co/cL7MMtF85H 
+#+END_QUOTE
+    date:: [[2023-06-27]]
+*** from _🚀 Introducing LangTale P..._ by @PetrBrzek on Twitter
+*** [View Tweet](https://twitter.com/PetrBrzek/status/1673403529820504064)

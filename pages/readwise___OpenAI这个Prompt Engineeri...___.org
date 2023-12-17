@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: readwise/OpenAI这个Prompt Engineeri...
+:END:
+
+:PROPERTIES:
+:author: [[jesselaunz on Twitter]]
+:full-title: "OpenAI这个Prompt Engineeri..."
+:category: [[tweets]]
+:url: https://twitter.com/jesselaunz/status/1735556772935750012
+:image-url: https://pbs.twimg.com/profile_images/1608599639674224641/GW8MrGWA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+OpenAI这个Prompt engineering官方文档干货不少啊
+
+这个英文mindmap实在太长了。
+
+我整理了一个中文的mindmap
+
+但是缺少例子
+
+又搞了个表格
+
+感觉还是需要仔细阅读原文 
+
+![](https://pbs.twimg.com/media/GBXvLVxagAAF0OA.jpg) 
+
+![](https://pbs.twimg.com/media/GBXvS_KbAAAOnPY.jpg) 
+
+![](https://pbs.twimg.com/media/GBXvYltbUAAFY7T.png) 
+#+END_QUOTE
+    date:: [[2023-12-15]]
+*** from _OpenAI这个Prompt Engineeri..._ by @jesselaunz on Twitter
+*** [View Tweet](https://twitter.com/jesselaunz/status/1735556772935750012)
+** 📌
+#+BEGIN_QUOTE
+OpenAI 链接：
+
+https://t.co/t1NxgN2pik 
+#+END_QUOTE
+    date:: [[2023-12-15]]
+*** from _OpenAI这个Prompt Engineeri..._ by @jesselaunz on Twitter
+*** [View Tweet](https://twitter.com/jesselaunz/status/1735557179414098411)

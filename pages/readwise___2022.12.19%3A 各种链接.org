@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/2022.12.19: 各种链接
+:END:
+
+:PROPERTIES:
+:author: [[Owen的博客]]
+:full-title: "2022.12.19: 各种链接"
+:category: [[articles]]
+:url: https://www.owenyoung.com/blog/journals/2022-12-19/
+:image-url: https://www.owenyoung.com/site/images/favicon-32x32.png?h=ca02fcaedf5905bad24cad048d2c0ead87ee7df6ff599938026255c876b644a6
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+[SQLite 内部：世界上最常用的数据库是如何工作的](https://www.compileralchemy.com/books/sqlite-internals/) ([双语机翻译文](https://clip-template.vercel.app/2022/12/19/how-the-worlds-most-used-database-works-sq-litenei-bu-shi-jie-shang-zui-chang-yong-de-shu-ju-ku-shi-ru-he-gong-zuo-de/)) 
+#+END_QUOTE
+    date:: [[2022-12-20]]
+*** from _2022.12.19: 各种链接_ by Owen的博客
+*** [View Highlight](https://read.readwise.io/read/01gmpp970g0ac340bgwk3k1jra)
+** 📌
+#+BEGIN_QUOTE
+[不使用 Feed，社交媒体的另一种方式](https://rohanrd.xyz/posts/a-different-approach-to-social-media/)
+
+•   作者认为 feed 只利好平台，他推荐的 feed 应该以用户的头像为单位。这样别人可以点击用户的主页以查看这个人的所有东西。
+•   （我认为这可能只是一种乌托邦吧，毕竟我们要先通过文章才能了解新的作者。
+•   （但是这可能适合于 RSS 应用，当我们订阅了某个人之后，我们似乎可以通过这样的交互来更多的以人为单位进行 Feed 的获取。 
+#+END_QUOTE
+    date:: [[2022-12-20]]
+*** from _2022.12.19: 各种链接_ by Owen的博客
+*** [View Highlight](https://read.readwise.io/read/01gmpp92jyd87t7t2f0b317mkp)

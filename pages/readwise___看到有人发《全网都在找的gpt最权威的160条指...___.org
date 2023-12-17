@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/看到有人发《全网都在找的gpt最权威的160条指...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "看到有人发《全网都在找的gpt最权威的160条指..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1681188469995888642
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+看到有人发《全网都在找的GPT最权威的160条指令》，其实没人记得住160条Prompt，也没有必要去记160条Prompt！
+
+跟ChatGPT交互，最重要是掌握Prompt的模板或者说结构，而不需要记住那么多Prompt。
+
+一、基础用法
+直接输入你希望的指令，例如：
+
+“请将以下内容翻译为简体中文：”… https://t.co/9BlTA2t7mx 
+
+![](https://pbs.twimg.com/media/F1TFecYXwAAb0E7.jpg) 
+
+![](https://pbs.twimg.com/media/F1TFktPWcAs_pup.jpg) 
+
+![](https://pbs.twimg.com/media/F1TFnNeXwAAjGY7.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-18]]
+*** from _看到有人发《全网都在找的gpt最权威的160条指..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1681188469995888642)

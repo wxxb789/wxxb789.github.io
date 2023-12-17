@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/Paxos 省略了一个字段: Proposing...
+:END:
+
+:PROPERTIES:
+:author: [[drmingdrmer on Twitter]]
+:full-title: "Paxos 省略了一个字段: Proposing..."
+:category: [[tweets]]
+:url: https://twitter.com/drmingdrmer/status/1665547116574539777
+:image-url: https://pbs.twimg.com/profile_images/1535809672682557440/0Xwhx_vg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+paxos 省略了一个字段: proposing ballot, 即一个值最初是被哪个proposer提出的, 只记录了最后被哪个proposer写入, 即vballot; 而raft相反, 省略了vballot, 只记录了proposing ballot, 即日志中的term. 如果把省略的东西放回去, paxos和raft的形状就几乎完全一样了. 
+
+![](https://pbs.twimg.com/media/Fx02KGOakAAZYvN.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Paxos 省略了一个字段: Proposing..._ by @drmingdrmer on Twitter
+*** [View Tweet](https://twitter.com/drmingdrmer/status/1665547116574539777)
+** 📌
+#+BEGIN_QUOTE
+raft中那个看起来有点奇怪的"当前term的日志复制到多数派才认为commit成功"的条件, 也是因为这个原因, 只有当前term的日志复制完, follower上的proposing ballot才等于vballot, 也就是对应paxos里的vballot+v复制到多数派, 从这个角度看, raft和paxos的commit条件就一致了. 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Paxos 省略了一个字段: Proposing..._ by @drmingdrmer on Twitter
+*** [View Tweet](https://twitter.com/drmingdrmer/status/1665551355958681605)

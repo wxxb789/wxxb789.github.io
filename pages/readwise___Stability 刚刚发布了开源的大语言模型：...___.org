@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/Stability 刚刚发布了开源的大语言模型：...
+:END:
+
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "Stability 刚刚发布了开源的大语言模型：..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1648731668348563456
+:image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Stability 刚刚发布了开源的大语言模型：StableLM
+
+这次发布包含了 3B 和 7B 两个模型，15B 和 30B 参数的模型会在未来一段时间发布。
+
+https://t.co/SFW292sRo7 
+
+![](https://pbs.twimg.com/media/FuF31jCakAAKWgi.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _Stability 刚刚发布了开源的大语言模型：..._ by @Tisoga on Twitter
+*** [View Tweet](https://twitter.com/Tisoga/status/1648731668348563456)
+** 📌
+#+BEGIN_QUOTE
+可以直接在 huggingface 上和这个 7B 的模型交互，简单测试了一下，效果还可以，而且生成速度很快。
+
+https://t.co/eGLil4F53I 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _Stability 刚刚发布了开源的大语言模型：..._ by @Tisoga on Twitter
+*** [View Tweet](https://twitter.com/Tisoga/status/1648732253357481984)

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/差不多该写年终总结了，学习 Git 统计个人代码...
+:END:
+
+:PROPERTIES:
+:author: [[henices on Twitter]]
+:full-title: "差不多该写年终总结了，学习 Git 统计个人代码..."
+:category: [[tweets]]
+:url: https://twitter.com/henices/status/1732220660615946326
+:image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+差不多该写年终总结了，学习 Git 统计个人代码量命令行
+git log --author="username" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }' - 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _差不多该写年终总结了，学习 Git 统计个人代码..._ by @henices on Twitter
+*** [View Tweet](https://twitter.com/henices/status/1732220660615946326)
+** 📌
+#+BEGIN_QUOTE
+如果需要统计某段时间的代码量，可以使用 git log 另外两个选项 --since="2023-01-01" --until="2023-12-31" 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _差不多该写年终总结了，学习 Git 统计个人代码..._ by @henices on Twitter
+*** [View Tweet](https://twitter.com/henices/status/1732294260211241071)

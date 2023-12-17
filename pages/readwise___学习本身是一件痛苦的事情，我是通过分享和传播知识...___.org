@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/学习本身是一件痛苦的事情，我是通过分享和传播知识...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "学习本身是一件痛苦的事情，我是通过分享和传播知识..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1732269591173497288
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+学习本身是一件痛苦的事情，我是通过分享和传播知识的方式来对抗这种痛苦，因为可以随时获得正反馈，获得学习之外的快乐。💪
+
+还有一种更强的正反馈，就是把挣钱作为目标，挣钱就得做产品，做产品就会遇到困难，解决困难的过程就是学习的过程，而且你的用户还会持续给你提问题和需求。
+
+ChatGPT 已经可以在框架层面帮助没有专业技能的人构建产品雏形了，还是得多看多动手。<img src='https://pbs.twimg.com/media/GApCAlIaEAAnuis.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _学习本身是一件痛苦的事情，我是通过分享和传播知识..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1732269591173497288)

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/Tweets From Joseph Chris
+:END:
+
+:PROPERTIES:
+:author: [[baobao1270 on Twitter]]
+:full-title: "Tweets From Joseph Chris"
+:category: [[tweets]]
+:url: https://twitter.com/baobao1270
+:image-url: https://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+我个人不喜欢Clash
+我也在这里劝说大家不要使用Clash，包括任何形式的Clash Core或者GUI。
+
+1. Clash 并不是完全的开源软件。常用的客户端使用闭源版本的 Clash，而开源版本的功能有限。同时，选择闭源使得人难以开展广泛的代码审计工作。
+2.  Clash 的设计很糟糕。举例来说，Clash… 
+#+END_QUOTE
+    date:: [[2023-06-09]]
+*** from _Tweets From Joseph Chris_ by @baobao1270 on Twitter
+*** [View Tweet](https://twitter.com/baobao1270/status/1666789267358756864)

@@ -1,0 +1,84 @@
+:PROPERTIES:
+:title: readwise/今天，https:__t.co_vHMW55fM...
+:END:
+
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "今天，https://t.co/vHMW55fM..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1721071488215007257
+:image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+今天，https://t.co/vHMW55fMjC 对外公开了他们的首款产品 Grok，一个全新的大语言模型，它将具备：
+
+\- 25000 Tokens 的上下文窗口；
+- 极快的响应速度，能实时获取 𝕏 的信息，对比其它模型这是一个巨大的优势；
+- Grok 的知识库是基于886.03GB 的 The Pile （一个开源的语言数据库）和整个 𝕏 平台的 Exabytes 数据库微调而成；
+- 计划提供 API，还有图像识别和音频识别；
+- Grok 的一个版本将使用本地计算能力在 Tesla 中“本地”运行
+- 测试版 𝕏 Premium+ 的订户才能使用。。
+
+xAI 脚踏 𝕏 与 Tesla 两大平台的文本、图像还有现实世界的视频数据，这将是其它模型公司不具备的优势，它联通了数字和物理世界；同样未来 Grok 也会被用来增强 𝕏 还有 Tesla 的 FSD，弥补其缺失的语言模型智能。Grok 将是ChatGPT 的一个有力的竞争对手🤔
+
+—
+
+除了大家都在转发的几个重要特性之外，再给分享一些来自今年七月 Elon 在 X Space 讨论中透露的一些细节：
+
+xAI 的目标是开发有益于人类的 AGI，专注理解宇宙。其方法是创造一个最大程度上充满好奇心、追求真理，并努力减少信念与现实之间误差的 AI。这旨在避免 AGI 按照固定或错误的道德观进行对齐可能带来的潜在危害。
+
+关于架构与数学理解
+
+xAI 期望揭示宇宙的基本真理并分享这些知识，重点是利用科学和工程技术来构建AI，进行快速迭代和简化解决方案，而不是依赖粗暴的计算力。
+
+数学被视为严谨理解的框架，类似于工程学中的物理。概念模型和理解对于在先进的神经网络至关重要，科学家和数学家将会将会在 xAI 中与工程师并肩作战。
+
+和现实世界的结合
+
+Elon 看到 xAI与 Tesla 的现实世界 AI 合作带来的潜在好处，因为 Tesla 在部署用于自动驾驶的神经网络方面取得了重大突破，将两家公司的工程师汇集在一起可能会在捕获复杂的真实世界现象方面带来互助的改进。xAI 将开发关于概念性的3D世界的知识，而不仅仅是利用互联网的数据，现实世界的反馈将被大量采用。
+
+关于 AI 的安全
+
+为了安全，任何像 Optimus 这样的实体机器人都必须有硬编码的物理开关，以便在必要时强制关闭它们。无线远程访问可能会被黑客攻击，因此物理切断是必要的，尤其是对于那些可以随人走到任何地方的移动 AI。
+
+合理的 AGI 规范可以接受，但是会严重阻碍进步的过度限制将会受到反对。为了安全而做出的一些延迟是值得，确保AGI 安全的途径是最大限度地提高透明度。Elon 表示如果需要揭露任何损害公众利益的不当政府要求，他愿意冒着坐牢的风险。如果政府机构试图秘密地以不符合公民利益的可疑动机影响技术，xAI 将坚决反对。
+
+减少不平等和平权治理
+
+xAI 团队表示，让每个人都能使用AI 的知识以帮助整个人类十分重要。广泛可靠的 AI 帮助可以大大减少机会的不平等。作为一家公司，xAI 向着真实性和赢得公众信任的目标努力，而不是优化利润或控制。
+
+xAI 强调透明度和与学术界/研究人员的开放合作，它希望避免大型科技公司那样限制，将促进公众参与决策，任何人都可以对 xAI 的未来方向进行投票（但 Elon 今天特意发帖强调他旗下的任何公司都不会发币的。。）
+
+—
+
+总的来说，Elon 表示通过 AI 在数学和科学中做出基本的新发现和实现新的能力将是重要的里程碑。在多个学科中创造新知识的能力超过人类，这就意味着 AI 实现了真正的通用智能🤟 
+#+END_QUOTE
+    date:: [[2023-11-05]]
+*** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1721071488215007257)
+** 📌
+#+BEGIN_QUOTE
+在这些基准测试中，Grok-1 展现出了强劲的性能，超过了其计算等级中的所有其他模型，包括 GPT-3.5 和 Inflection-1。性能仅次于那些使用了大量的训练数据和计算资源进行训练的模型，如 GPT-4。这展示了 xAI 在训练LLMs 上出色的效率🙌 
+
+![](https://pbs.twimg.com/media/F-J6vGUbsAA-0Lj.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-05]]
+*** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1721072965452988739)
+** 📌
+#+BEGIN_QUOTE
+关于今年七月在 X Space 上讨论 xAI 愿景的完整记录，可以看这篇 INSIGHTS INTO XAI, THE NEW COMPANY FROM ELON MUSK https://t.co/9iuz13fGur 
+#+END_QUOTE
+    date:: [[2023-11-05]]
+*** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1721073659849412669)
+** 📌
+#+BEGIN_QUOTE
+这里有个 Grok 的使用预览👀 
+#+END_QUOTE
+    date:: [[2023-11-05]]
+*** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
+*** [View Tweet](https://twitter.com/indigo11/status/1721075530672533588)

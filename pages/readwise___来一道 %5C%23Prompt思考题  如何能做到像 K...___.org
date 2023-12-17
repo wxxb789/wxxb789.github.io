@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/来一道 \#Prompt思考题  如何能做到像 K...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "来一道 \#Prompt思考题  如何能做到像 K..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1686597922387906561
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+来一道 #Prompt思考题 
+如何能做到像 Khanmigo 这样，对于学生提交的结果，不直接给出答案，而是先判断答案是否正确，如果错误，让学生解释他们的推理过程，纠正概念上的错误。 https://t.co/nuBvQzzNMc 
+
+![](https://pbs.twimg.com/media/F2f-3Y_XcAAUAaE.jpg) 
+
+![](https://pbs.twimg.com/media/F2f_hUxWQAA_CKI.jpg) 
+
+![](https://pbs.twimg.com/media/F2f_qNoWQAEHWPn.jpg) 
+#+END_QUOTE
+    date:: [[2023-08-02]]
+*** from _来一道 #Prompt思考题  如何能做到像 K..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1686597922387906561)

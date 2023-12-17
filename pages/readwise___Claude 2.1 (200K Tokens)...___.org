@@ -1,0 +1,79 @@
+:PROPERTIES:
+:title: readwise/Claude 2.1 (200K Tokens)...
+:END:
+
+:PROPERTIES:
+:author: [[GregKamradt on Twitter]]
+:full-title: "Claude 2.1 (200K Tokens)..."
+:category: [[tweets]]
+:url: https://twitter.com/GregKamradt/status/1727018183608193393
+:image-url: https://pbs.twimg.com/profile_images/1467896309453570052/BGy5XYVQ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Claude 2.1 (200K Tokens) - Pressure Testing Long Context Recall
+
+We all love increasing context lengths - but what's performance like?
+
+Anthropic reached out with early access to Claude 2.1 so I repeated the “needle in a haystack” analysis I did on GPT-4
+
+Here's what I found:
+
+Findings:
+* At 200K tokens (nearly 470 pages), Claude 2.1 was able to recall facts at some document depths
+* Facts at the very top and very bottom of the document were recalled with nearly 100% accuracy
+* Facts positioned at the top of the document were recalled with less performance than the bottom (similar to GPT-4)
+* Starting at ~90K tokens, performance of recall at the bottom of the document started to get increasingly worse
+* Performance at low context lengths was not guaranteed
+
+So what:
+* Prompting Engineering Matters - It’s worth tinkering with your prompt and running A/B tests to measure retrieval accuracy
+* No Guarantees - Your facts are not guaranteed to be retrieved. Don’t bake the assumption they will into your applications
+* Less context = more accuracy - This is well know, but when possible reduce the amount of context you send to the models to increase its ability to recall
+* Position Matters - Also well know, but facts placed at the very beginning and 2nd half of the document seem to be recalled better
+
+Why run this test?:
+* I’m a big fan of Anthropic! They are helping to push the bounds on LLM performance and creating powerful tools for the world
+* As a practitioner of LLMs, it’s important to build an intuition for how they work, where they excel and their limits
+* Tests like these, while not bulletproof, help showcase real world examples and get a feeling for how they work. The goal is to transfer this knowledge to productive use cases
+
+Overview of the process:
+* Use Paul Graham essays as ‘background’ tokens. With 218 essays it’s easy to get up to 200K tokens (repeated essays when necessary)
+* Place a random statement within the document at various depths. Fact used: “The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.”
+* Ask Claude 2.1 to answer this question only using the context provided
+* Evaluate Claude 2.1s answer with GPT-4 using <a href="https://twitter.com/LangChainAI">@LangChainAI</a> evals
+* Rinse and repeat for 35x document depths between 0% (top of document) and 100% (bottom of document) (sigmoid distribution) and 35x context lengths (1K Tokens > 200K Tokens)
+
+Next Steps To Take This Further:
+* For rigor, one should do a key:value retrieval step. However for relatability I did a San Francisco line within PGs essays for clarity and practical relevance
+* Repeat test multiple times for increased statistical significance
+
+Notes:
+* Amount Of Recall Matters - The model's performance is hypothesized to diminish when tasked with multiple fact retrievals or when engaging in synthetic reasoning steps
+* Changing your prompt, question, fact to be retrieved and background context will impact performance
+* The Anthropic team reached out and offered credits to repeat this test. They also offered prompt advice to maximize performance. It's important to clarify that their involvement was strictly logistical. The integrity and independence of the results were maintained, ensuring that the findings reflect my unbiased evaluation and are not influenced by their support.
+* This test cost ~$1,016 for API calls ($8 per million tokens)<img src='https://pbs.twimg.com/media/F_eYrDIaAAAsWVp.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-22]]
+*** from _Claude 2.1 (200K Tokens)..._ by @GregKamradt on Twitter
+*** [View Tweet](https://twitter.com/GregKamradt/status/1727018183608193393)
+** 📌
+#+BEGIN_QUOTE
+Code + overview video of the analysis
+
+https://t.co/v64RHinrNW 
+#+END_QUOTE
+    date:: [[2023-11-22]]
+*** from _Claude 2.1 (200K Tokens)..._ by @GregKamradt on Twitter
+*** [View Tweet](https://twitter.com/GregKamradt/status/1727018572558581938)
+** 📌
+#+BEGIN_QUOTE
+Anthropic Launch of Claude 2.1
+
+https://t.co/XnAI7bFEI9 
+#+END_QUOTE
+    date:: [[2023-11-22]]
+*** from _Claude 2.1 (200K Tokens)..._ by @GregKamradt on Twitter
+*** [View Tweet](https://twitter.com/GregKamradt/status/1727018644964880507)

@@ -1,0 +1,93 @@
+:PROPERTIES:
+:title: readwise/Dify @Dify_ai  网址： Https...
+:END:
+
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Dify @Dify_ai  网址： Https..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1658037111621320706
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+dify @dify_ai 
+网址：
+https://t.co/WV5BXWWWhU
+每个人，特别是没有代码基础的人，应该尝试用这个搭建属于自己的chatbot。
+核心不在于应用数量，而是在于【0基础上手】【完全无代码】【上传自己数据集】【数据可视化】【可对外提供API】 
+
+![](https://pbs.twimg.com/media/FwKGTyaaMAAqu0_.jpg) 
+
+![](https://pbs.twimg.com/media/FwKGWXWaMAARg3w.jpg) 
+
+![](https://pbs.twimg.com/media/FwKGXuYaMAYEOex.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
+*** [View Tweet](https://twitter.com/FinanceYF5/status/1658037111621320706)
+** 📌
+#+BEGIN_QUOTE
+【10秒钟】搭建自己的塔罗牌机器人
+1、搜索：塔罗牌，prompt
+2、复制，稍微修改下，加入提示词
+3、部署
+4、即可使用了 
+
+![](https://pbs.twimg.com/media/FwKIMaIaAAE-1X0.jpg) 
+
+![](https://pbs.twimg.com/media/FwKIP1QaEAErhx-.jpg) 
+
+![](https://pbs.twimg.com/media/FwKIVl8aAAA9qzi.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
+*** [View Tweet](https://twitter.com/FinanceYF5/status/1658037566011211776)
+** 📌
+#+BEGIN_QUOTE
+【10秒钟】搭建自己的角色扮演机器人
+1、搜索，角色扮演prompt，这个简单很多
+2、输入后稍加修改
+3、部署
+4、即可使用 
+
+![](https://pbs.twimg.com/media/FwKJGzUacAEHEUs.jpg) 
+
+![](https://pbs.twimg.com/media/FwKJKQxaUAEC_WO.jpg) 
+
+![](https://pbs.twimg.com/media/FwKJQcxagAAbNF0.jpg) 
+
+![](https://pbs.twimg.com/media/FwKJcAgagAAi-KR.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
+*** [View Tweet](https://twitter.com/FinanceYF5/status/1658038734045212675)
+** 📌
+#+BEGIN_QUOTE
+https://t.co/XA4dln0fSw
+这个链接是我搭建的，可以通过抽卡，和扮演，这两个关键词来触发。
+我想说的是我目前看到的最重要的是，给大量非开发人员一个体验自己部署bot的机会，并可以快速共享给他人。 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
+*** [View Tweet](https://twitter.com/FinanceYF5/status/1658039709963288576)
+** 📌
+#+BEGIN_QUOTE
+简体中文帮助文档：https://t.co/5DOMrE4dCA
+blog：https://t.co/2jKA24gnqv
+视频demo： https://t.co/ztefuFQOZM 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
+*** [View Tweet](https://twitter.com/FinanceYF5/status/1658041807136231424)
+** 📌
+#+BEGIN_QUOTE
+创始人推特：@goocarlos
+
+https://t.co/QvSJ11Guyk 
+#+END_QUOTE
+    date:: [[2023-05-15]]
+*** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
+*** [View Tweet](https://twitter.com/FinanceYF5/status/1658045248050982913)

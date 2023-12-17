@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/420400
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/29/06/295554a58e0e24862deb8ca171902406.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+我们在 12 讲 里反复强调过：对于首套房，要买，但一定要控制预算。在针尖上跳舞确实不容易，但这就是当下最妥当的策略。在未来局势不太明确的情况下，留一定的“粮食”和“弹药”来应对大环境的变化是很有必要的。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjy818dw61h4nv1t71dwn7)
+** 📌
+#+BEGIN_QUOTE
+问题六：如果让你设计一种行业轮动策略，你会怎么设计呢？比如，你会如何确定应该在哪些行业上进行轮动？你选择行业的标准是什么呢？
+
+答：这个问题其实没有标准答案，但我们可以遵循下面的原则。
+
+我们使用行业轮动策略时，应该充分结合自己的专业信息优势来选择行业。有专业信息优势，你才能更清楚一个行业的周期规律。比如，我们程序员肯定更清楚信息技术行业的周期规律，医生肯定更清楚医药卫生行业的变化，而农民也会对粮食的收成、猪肉价格的周期有更深的认识。
+
+所以，最适合散户的方式是：选择两个或多个自己有信息优势的行业，然后研究出它们的行业周期，并以此为基础，设计行业中长期的轮动策略。
+
+当然，行业轮动策略也可以脱离行业信息，纯粹用技术指标来构建，这样就需要我们利用回测平台，进行精准的策略设计和参数选择。这也是一条可行的路，但对投资者的编程能力和数据处理能力有更高的要求，更适合有一定量化投资基础的同学。 
+#+END_QUOTE
+    date:: [[2023-04-14]]
+*** from _答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxzjzjkyqrbync7ed7g9ccnb)

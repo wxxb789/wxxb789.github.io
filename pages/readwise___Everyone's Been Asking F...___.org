@@ -1,0 +1,138 @@
+:PROPERTIES:
+:title: readwise/Everyone's Been Asking F...
+:END:
+
+:PROPERTIES:
+:author: [[pwang_szn on Twitter]]
+:full-title: "Everyone's Been Asking F..."
+:category: [[tweets]]
+:url: https://twitter.com/pwang_szn/status/1657324830478446592
+:image-url: https://pbs.twimg.com/profile_images/1588988070870786048/JzgCE23L.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Everyone's been asking for it.
+
+Here it is. I've broken it down @LangChainAI Agents into bite-size chunks.
+
+• Agents Basics
+• Tools
+• Agent Executor
+• AutoGPT
+• BabyAGI
+
+Save this ↓ 
+
+![](https://pbs.twimg.com/media/FwAAJb9aYAEsB6w.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324830478446592)
+** 📌
+#+BEGIN_QUOTE
+Agents explained: 
+
+![](https://pbs.twimg.com/media/FwAAJ56aIAAsgKp.png) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324837642317824)
+** 📌
+#+BEGIN_QUOTE
+Let's define what is an agent: 
+
+![](https://pbs.twimg.com/media/FwAAKQvaAAMJTGG.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324843644387330)
+** 📌
+#+BEGIN_QUOTE
+Agent can use Tools (possible to use many at once..)
+
+Here's a quick breakdown of Tools: 
+
+![](https://pbs.twimg.com/media/FwAAKn9aQAE9Gca.png) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324850304946179)
+** 📌
+#+BEGIN_QUOTE
+Why does an agent need memory? 
+
+![](https://pbs.twimg.com/media/FwAALAcacAIYPgd.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324856445390848)
+** 📌
+#+BEGIN_QUOTE
+Agent Executor explained: 
+
+![](https://pbs.twimg.com/media/FwAALXeaUAEB-zd.png) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324863059787776)
+** 📌
+#+BEGIN_QUOTE
+P.S - ✨ I'm dropping a FREE step-by-step mini-course guide to start coding with A.I
+
+(Free for now, but not free forever)
+
+Check it out: https://t.co/pmDsYC74tK 
+
+![](https://pbs.twimg.com/media/FwAALwGaEAAfGJJ.png) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324869930074113)
+** 📌
+#+BEGIN_QUOTE
+AutoGPT is one type of Agent..
+
+Explained: 
+
+![](https://pbs.twimg.com/media/FwAAMKsakAEBYoR.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324877651779584)
+** 📌
+#+BEGIN_QUOTE
+BabyAGI is another type of Agent..
+
+Explained: 
+
+![](https://pbs.twimg.com/media/FwAAMnIacAcdhKD.png) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324884417208322)
+** 📌
+#+BEGIN_QUOTE
+You've may also heard about ReAct (Reasoning and Acting) Agent..
+
+Explained: 
+
+![](https://pbs.twimg.com/media/FwAAM_tagAI59vE.jpg) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324891329404928)
+** 📌
+#+BEGIN_QUOTE
+That's a wrap!
+
+ Chains and Prompts breakdowns are coming next.
+
+(After I finish my bowl of Curry Udon) 👀 
+
+![](https://pbs.twimg.com/media/FwAANasaIAAZGFt.png) 
+#+END_QUOTE
+    date:: [[2023-05-13]]
+*** from _Everyone's Been Asking F..._ by @pwang_szn on Twitter
+*** [View Tweet](https://twitter.com/pwang_szn/status/1657324899466375168)

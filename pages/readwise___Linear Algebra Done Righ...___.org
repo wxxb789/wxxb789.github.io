@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/Linear Algebra Done Righ...
+:END:
+
+:PROPERTIES:
+:author: [[Desvl_ on Twitter]]
+:full-title: "Linear Algebra Done Righ..."
+:category: [[tweets]]
+:url: https://twitter.com/Desvl_/status/1684601070256046080
+:image-url: https://pbs.twimg.com/profile_images/1712208610460147713/ffKKR6OC.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Linear Algebra Done Right的作者解释自己为什么只写了那么一些行列式的内容，300多页的书只有最后一章25页是行列式。他想强调不用行列式很多问题也可以被证明。好多学生天天浪费生命用计算机都不会用的办法解线性方程，都不知道是什么意思。（没错电脑不可能用Cramer法则的）
+https://t.co/8D5M6DFYAm 
+#+END_QUOTE
+    date:: [[2023-07-28]]
+*** from _Linear Algebra Done Righ..._ by @Desvl_ on Twitter
+*** [View Tweet](https://twitter.com/Desvl_/status/1684601070256046080)

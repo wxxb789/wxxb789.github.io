@@ -1,0 +1,164 @@
+:PROPERTIES:
+:title: readwise/22｜轮动策略：如何踩准市场变换的节奏？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "22｜轮动策略：如何踩准市场变换的节奏？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/412855
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/b6/4e/b6a24dd4234747b52a033a995b97cd4e.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+轮动策略和趋势跟踪策略的对比 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrg9zqg6r0ytzsz88ar915w)
+** 📌
+#+BEGIN_QUOTE
+刚才我提到，轮动策略是进行横向对比，趋势跟踪策略是进行纵向对比。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrga7zkbp4fb688ez7yzf7d)
+** 📌
+#+BEGIN_QUOTE
+有哪些常见的轮动策略？ 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgb762mwnr2wsh5ybjj8kb)
+** 📌
+#+BEGIN_QUOTE
+股债轮动
+
+首先我要介绍的是股债轮动。因为股票和债券可以说是市场上最重要的两块资产，而且股票和债券的相关性不高，所以股债轮动是一种经常用来解决大类资产配置问题的轮动策略。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgbg891p5r46r8mygfnkjm)
+** 📌
+#+BEGIN_QUOTE
+风格轮动
+
+我要介绍的第二种轮动策略是风格轮动。顾名思义，风格轮动一般是指在股票投资中对不同风格股票的轮动投资策略。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgf14cm7kp4xgfhjee27wz)
+** 📌
+#+BEGIN_QUOTE
+具体来说，投资者喜欢把股票分成不同的风格类别，最常见的风格划分方式有两种，第一种是大盘股和小盘股，第二种是价值股和成长股。其中，大小盘轮动是个人投资者最常考虑的风格轮动策略，简单实用，也不占用过多的交易精力。而在大小盘轮动中，最经典的就是二八轮动策略，下面我来详细介绍下它。
+
+二八轮动，指的是市值最大的前 20% 数量的大盘股和剩下数目占 80% 的中小盘股之间的轮动。经典二八轮动策略的主要驱动逻辑是动量。动量就是资产近期涨幅的横向排名，它与趋势很像，但多了一层横向比较：看谁过去涨得多或跌得少，然后就买谁。
+
+二八轮动假设了市场资金的流动是有惯性的：当近期大盘股涨得多的时候，后续大概率资金还会持续地向大盘股流入；直到这个趋势难以持续下去的时候，资金又会向小盘股流动，而且这个趋势一旦开始，资金就又会一直往小盘股流入。
+
+当然，市场上除了动量驱动的大小盘轮动策略外，还有一些其他维度的轮动模型，例如利率模型、基本面模型、估值分位数模型等等。具体采用哪种，你还需要根据自己熟悉的领域和能掌握的程度来决定。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgfbz1dgn9jqh0z29vy00j)
+** 📌
+#+BEGIN_QUOTE
+行业轮动
+
+我要介绍的下一种轮动策略是行业轮动，就是在不同的行业之间进行轮动的策略。和风格轮动一样，驱动行业轮动的模型也可以是动量模型，也就是看哪个行业指数近期涨幅相对较高。除此之外，行业轮动策略还可以基于不同行业的景气周期。比如房地产周期模型就是根据房地产行业，以及相关行业的周期规律来进行轮动的模型。具体来说，在房地产新开工的上升阶段，应该超配钢铁有色建筑建材行业，而在之后的房地产竣工阶段，则应该轮动到一些家电轻工行业。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgfr35hr4ey0am8fv4aqxn)
+** 📌
+#+BEGIN_QUOTE
+在证券公司研究所，有很多不错的行业轮动模型的报告，一般都在各自团队的公众号里发布。这里，我给出三个不同方向的例子，你可以以它们为起点，链接到更多的报告。
+
+开源证券金工团队的行业轮动策略典型报告（侧重技术分析模型）
+
+华泰证券金工团队的行业轮动策略典型报告（侧重经济周期模型）
+
+海通证券策略团队的行业轮动策略典型报告（侧重人工经验判断） 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgfxrc82vhkgertpp0y9ck)
+** 📌
+#+BEGIN_QUOTE
+主题轮动
+
+还有一种很有趣的轮动策略，叫做主题轮动，你可以把它理解为一种由模型或者流程支撑的，系统化的主题追踪策略。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgg80sz4sw9mfkp9f5frfd)
+** 📌
+#+BEGIN_QUOTE
+全球轮动
+
+最后，我想简单介绍下全球轮动，它的意思是在全世界各个国家的股票指数之间进行轮动操作，背后的逻辑主要是考虑各个国家的经济发展水平，或者在全球分工中的定位。比如，一个国家是发达市场还是新兴市场，当前在全球分工中的定位是原材料提供国，还是劳动力输出国，或者是先进科技和资本的输出国。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrggyqt06wvjxsq8q2vgsde)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/c7/5f/c773e92d5b4453711cecd8483c1e475f.jpg?wh=1920x1368) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgh1t4nph7yzxbfph3rn3c)
+** 📌
+#+BEGIN_QUOTE
+从上述结果可以看出，二八轮动策略在过去 16 年历史数据上的表现非常优异。从收益角度看，策略的长期年化收益达到了 20%，远高于沪深 300 和中证 500 分别为约 10% 和 12% 的年化收益，长期复利累积下来的财富效应，是沪深 300 和中证 500 指数均值的 4 倍左右（具体请看第一张子图三条曲线最右端的高度）。
+
+从风险角度看，策略并没有显著增加波动率，甚至还小幅降低了最大回撤。这说明轮动策略在保持波动和回撤水平的条件下，显著地增强了收益，这些信息提示策略有效。
+
+从换手率角度看，策略大体上每两个月轮动一次，频率可以接受。如果你观察更细致一些，看看策略有效性在时间轴上的分布，可以注意到策略在近两年半，也就是 2019 年以来特别有效，在此期间，沪深 300 和中证 500 基本是震荡微升走势，而策略是显著上涨趋势。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgj70ykhd7scsvz5gq3cyr)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/bb/8e/bb1868b2409dc23e899821a071d6478e.jpg?wh=1920x780) 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgk9gspgem2b5yagvydpwp)
+** 📌
+#+BEGIN_QUOTE
+跟纵向对比的趋势跟踪策略相比，轮动策略是比较不同资产标的的相对性价比，来作出投资决策的，是横向对比的策略。
+
+常见的轮动策略有股债轮动、风格轮动、行业轮动、主题轮动和全球轮动等。
+
+二八轮动，指的是市值最大的前 20% 数量的大盘股，和剩下数目占 80% 的中小盘股之间的轮动。
+
+具体选择哪种轮动策略，要根据自己可投入的精力，以及自身的信息优势等因素来决定。
+
+轮动策略主要用于顶层配置，它的交易标的通常是一些资产类别指数，我们一般会通过交易基金来复制资产类别指数的收益。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgkg9h091334fh2fsa1enf)
+** 📌
+#+BEGIN_QUOTE
+讲一个股债轮动的硬指标。就是用沪深300的股息率，比上十年期国债收益率。 基本上1就是天花板，也就是此时的股息率=国债收益率，那么这个时候就是股市特别有吸引力的地方了 而下面低于0.4，也就是说，股息率不足国债收益率的一半的时候，股市的吸引力就不太大了，2010年，2015年，2017年，都出现过这个情况。而现在这个指标跌破了0.6，也就是说目前股市的吸引力正在下降。是一个应该注意风险的时刻。 配置就简单点，该指标-0.2 即为股票仓位。比如现在该指标为0.6，0.6-0.2=0.4 所以股票仓位40%即可。 行业轮动，这个超出我能力圈了，我做不到。 成长价值轮动这个也做得一般，还是学习。 全球轮动，更超出我能力圈了。
+
+作者回复: 关于股债轮动很好的思考，需要通过实践检验 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgkt7afb0b5c6hj7dd9tqn)
+** 📌
+#+BEGIN_QUOTE
+思考题： 1.设计一种行业轮动策略 传统蓝筹行业和新能源行业之间轮动。 2.选择行业的标准 一种是快消品，生活大众必需的行业，如酱油； 一种是未来很确定的高成长行业，如当下疯涨的新能源。 疑问： 老师怎么看当下芯片和新能源的行情呢？ 新能源太疯狂了，而我的价值蓝筹都跌不少(茅台2700，现在1500)
+
+作者回复: 根据我们这节课讲的，我怎么看待是根本不重要的。如果你认为我的看法重要，那这门课说白了你还是就想听听“专家意见”，八卦一下。但其实，专家意见的作用非常有限。 但有一点我可以告诉你，你简短的描述就透漏出非常多的问题，比如“疯狂”，“都跌了不少”，这种主观性的，模糊性的描述存在在你的投资之中，是肯定赚不到钱的，赚到了也是凭运气赚到，是早晚要还回去的。 
+#+END_QUOTE
+    date:: [[2023-04-11]]
+*** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxrgm8hgcd62s1nkvhdk98a8)

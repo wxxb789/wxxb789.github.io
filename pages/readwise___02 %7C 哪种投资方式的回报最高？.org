@@ -1,0 +1,108 @@
+:PROPERTIES:
+:title: readwise/02 | 哪种投资方式的回报最高？
+:END:
+
+:PROPERTIES:
+:author: [[youzhiyouxing.cn]]
+:full-title: "02 | 哪种投资方式的回报最高？"
+:category: [[articles]]
+:url: https://youzhiyouxing.cn/n/materials/183
+:image-url: https://asset.youzhiyouxing.cn/image/2020/12/08/01ES0SNDW0VZF3C3NN70JYR933.png?x-oss-process=image/resize,w_1280,limit_1
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+这就是很多价值投资者常说的一句话：*买股票就是购买了公司所有权的一部分。* 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvcf2h5967fpb6gfgdjk6t)
+** 📌
+#+BEGIN_QUOTE
+从图上你可以看到，从 1802 年到 2012 年超过二百年的时间里，1 美元的购买力只剩下 5 美分，不用解释你也知道，这个损失来自于通货膨胀。黄金的年化收益只有不到 1%，长期来看有很大的波动，但收益不高。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvdntztnxa8bp3g7c9475b)
+** 📌
+#+BEGIN_QUOTE
+再来看债券。图中的 Bills 和 Bonds 分别是指政府短期债券和长期债券，可以简单理解为我们借给政府的钱。200 年间，短期国债和长期国债的年化收益率分别为 2.7% 和 3.6% 左右。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvdv28pt6vaacc6yhfkgcg)
+** 📌
+#+BEGIN_QUOTE
+中国股市成立时间还比较短。以深证综指为例，从 1991 年 4 月到 2020 年 10 月，近 30 年的时间，深证综指涨幅为 21.49 倍，折合年化收益为 11.5%，这还没有算上分红。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvevtrrny6hr2615xgvqa1)
+** 📌
+#+BEGIN_QUOTE
+另外，公司还有规模化带来的优势，比如当你年销售额一个亿的时候，利润可能是 1000 万；但当你扩张规模、提高效率，可能销售额在两亿的时候，成本仅仅从 9000 万变成了 1 亿 7 千万，这样利润就变成 3000 万。收入增长 1 倍，利润却增长 2 倍，这在商业领域里也叫做「经营杠杆」（Operating Leverage），所以公司的增速是可以比社会整体增速更快的。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvgwdzsact24b44k3gmpds)
+** 📌
+#+BEGIN_QUOTE
+最后还有非常重要的一点，*和黄金、石油甚至房地产不同，上市公司，尤其是优秀的上市公司，是可以依靠人的智慧、勤奋、勇气「主动地」获取很多价值的。* 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvh8v36ys5nd40ngmknewr)
+** 📌
+#+BEGIN_QUOTE
+当我们说「股票是长期表现最好的资产」的时候，其实有两件事值得你注意：
+
+第一，这里的「最好」，指的是股票作为一个集合、一个大类、一个一篮子的打包产品来说的。实际上任何一个个股，都有可能价值毁灭，长期归零；
+
+第二，「长期」表现最好，但是这个「长期」有多久，我们往往很难知道。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvjdaf43ae0acg8zzd7pc3)
+** 📌
+#+BEGIN_QUOTE
+另外，即使是被称为「牛长熊短」的美国股市历史上，也有过很多次十年指数完全不涨的情况。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvkekywr1ymkr4enm449j3)
+** 📌
+#+BEGIN_QUOTE
+1.在细颗粒度上，股票未必是最好的资产，所以人生有限，应该先做的是整体的资产配置； 2.在粗颗粒度上，股票是最好的资产，但不是个股，所以我们需要做的是指数投资； 3.在长周期来看，股票是最好的资产，所以我们要长期持有，但有可能10年不涨，所以结论是我们要更好的使用温度计，做大波段配置。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvn43h551y4s6zpq3fnxqe)
+** 📌
+#+BEGIN_QUOTE
+所以总结下：先做资产配置，再做指数投资，在大波段做整体资产平衡，在中短波段做股票资产包內再平衡。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvna3jsp09j19vsyphqpve)
+** 📌
+#+BEGIN_QUOTE
+这节课从两个角度来聊了这个话题： 1）从股票和债券被发明的历史，以及股东和债主各自承担的角色； 2）从拥有最长历史的美国股票市场的 200 年走势来寻找答案。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvnz29sq85srnwq3ygrnsd)
+** 📌
+#+BEGIN_QUOTE
+比如说，法律规定企业的收入必须先还债，剩余的利润才能有股东分配。因此，投资股票所承担的风险比投资债券更高，所以「要求」的预期收益也需要更高。这就是所谓的「股权风险溢价理论」。 有理有据的第 2 期《风险与收益：相伴相生》详细讲了这个话题，感兴趣可以看看链接（又得麻烦负老师了）。 另外我想说说为什么我们需要从这么多角度去思考一个问题？ 这节课里，我们举了美国的例子，「从 1969 年末到 1979 年末这整整十年时间，美国的道琼斯指数和标普500指数几乎纹丝不动」。写下这段文字的当下，恒生指数也几乎跌回了 11 年前。 人生有多少个十年？在这个事实和实际的亏损面前，「股票是长期收益最高的资产」显得如此苍白。 坚持并不是因为记住，而是因为心底的相信。多个角度的思考，可能更能帮助我们认清这些规律是否真的正确，从而能熬过那些最难的时光。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmvqqpw2b0sd0gk65esm45w)
+** 📌
+#+BEGIN_QUOTE
+今日笔记： 1、做投资，就是把钱放到像「公司」这样可以不断创造更多财富的现实组织里； 2、参与公司财富分配最常见的两种方式——股（公司的所有权）和债（借给公司或者政府）；买股票就是购买了公司所有权的一部分。 3、股票是长期收益率最高的资产。原因有：1）长期复利的作用； 2）公司这种组织形式带来的经济上的优势以及规模化带来的优势； 3）尤其重要的一点是：优秀的上市公司，是可以依靠人的智慧、勤奋、勇气「主动地」获取很多价值的。 值得注意的两件事情： 1）这里的「最好」，指的是股票作为一个集合、一个大类、一个一篮子的打包产品来说的。而不是个股； 2）长期是最好，但长期是多久，很难知道。 4、投资体系的基石，就是相信股票，或者说好的公司，长期一定会带来超出平均的回报。 
+#+END_QUOTE
+    date:: [[2023-01-26]]
+*** from _02 | 哪种投资方式的回报最高？_ by youzhiyouxing.cn
+*** [View Highlight](https://read.readwise.io/read/01gqmw04a3b9jwzhz2j2hv8z7c)

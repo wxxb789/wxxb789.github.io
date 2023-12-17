@@ -1,0 +1,63 @@
+:PROPERTIES:
+:title: readwise/Recent Transformer LMs A...
+:END:
+
+:PROPERTIES:
+:author: [[albertobietti on Twitter]]
+:full-title: "Recent Transformer LMs A..."
+:category: [[tweets]]
+:url: https://twitter.com/albertobietti/status/1664708139831250962
+:image-url: https://pbs.twimg.com/profile_images/1303696790152249345/1uhc1cJO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Recent Transformer LMs are very good at using their context for predicting new tokens.
+
+How does this capability arise during training?
+
+We study this in our paper "Birth of a Transformer: A Memory Viewpoint" 🐣
+
+https://t.co/IhcFJUu7Jg 
+
+![](https://pbs.twimg.com/media/Fxo63lsX0A89uQy.png) 
+#+END_QUOTE
+    date:: [[2023-06-03]]
+*** from _Recent Transformer LMs A..._ by @albertobietti on Twitter
+*** [View Tweet](https://twitter.com/albertobietti/status/1664708139831250962)
+** 📌
+#+BEGIN_QUOTE
+We consider a synthetic data model where next tokens follow either global or contextual bigrams.
+Empirically, two-layer transformers quickly learn global bigrams, and later develop an induction head (@ch402 @nelhage @catherineols @NeelNanda5) for in-context prediction. 
+
+![](https://pbs.twimg.com/media/Fxo8BffX0Bs4pJ1.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-03]]
+*** from _Recent Transformer LMs A..._ by @albertobietti on Twitter
+*** [View Tweet](https://twitter.com/albertobietti/status/1664709185131499542)
+** 📌
+#+BEGIN_QUOTE
+@ch402 @nelhage @catherineols @NeelNanda5 We present a useful viewpoint for understanding model weights in a transformer as associative memories of high-dim embeddings. The induction head mechanism can be obtained with the following outer-product matrices as "memories", and all others fixed at random initialization: 
+
+![](https://pbs.twimg.com/media/Fxo8Xf6X0AE31DR.png) 
+#+END_QUOTE
+    date:: [[2023-06-03]]
+*** from _Recent Transformer LMs A..._ by @albertobietti on Twitter
+*** [View Tweet](https://twitter.com/albertobietti/status/1664709423556710431)
+** 📌
+#+BEGIN_QUOTE
+@ch402 @nelhage @catherineols @NeelNanda5 Training only those layers successfully recovers the desired associative-memory behaviors, and we can show theoretically how this may be achieved with gradient steps on the population loss, in a top-down manner. 
+
+![](https://pbs.twimg.com/media/Fxo8iHIX0BQWigt.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-03]]
+*** from _Recent Transformer LMs A..._ by @albertobietti on Twitter
+*** [View Tweet](https://twitter.com/albertobietti/status/1664709672631259185)
+** 📌
+#+BEGIN_QUOTE
+@ch402 @nelhage @catherineols @NeelNanda5 Joint work w/ @CabannesVivien @D_Bouchacourt @hjegou and Leon Bottou 
+#+END_QUOTE
+    date:: [[2023-06-03]]
+*** from _Recent Transformer LMs A..._ by @albertobietti on Twitter
+*** [View Tweet](https://twitter.com/albertobietti/status/1664710133388132352)

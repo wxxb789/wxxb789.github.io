@@ -1,0 +1,75 @@
+:PROPERTIES:
+:title: readwise/Databerry：可以将ChatGPT连接到任...
+:END:
+
+:PROPERTIES:
+:author: [[xiaohuggg on Twitter]]
+:full-title: "Databerry：可以将ChatGPT连接到任..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaohuggg/status/1665354406454329344
+:image-url: https://pbs.twimg.com/profile_images/1651448138182578177/H9kcfTCy.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Databerry：可以将ChatGPT连接到任何数据源，只需两次点击即可部署一个使用自己数据的机器人
+
+无需代码，你可以从各种来源加载数据，包括原始文本、网页、文件（如Word、Excel、PowerPoint、PDF、Markdown、纯文本等），并且即将支持从网站、Notion、Airtable等数据源加载数据。
+
+完全个人定制！
+
+1/5 https://t.co/j04faC7EjS 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Databerry：可以将ChatGPT连接到任..._ by @xiaohuggg on Twitter
+*** [View Tweet](https://twitter.com/xiaohuggg/status/1665354406454329344)
+** 📌
+#+BEGIN_QUOTE
+2/5 
+
+同时Databerry还提供反向连接到ChatGPT的插件，用户无需自己编写代码，即可将自己的数据连接到ChatGPT。Databerry还提供了统计功能（即将推出），可以获取用户与插件互动的方式情况和统计数据。 https://t.co/tYRNiTLc3b 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Databerry：可以将ChatGPT连接到任..._ by @xiaohuggg on Twitter
+*** [View Tweet](https://twitter.com/xiaohuggg/status/1665354410594127873)
+** 📌
+#+BEGIN_QUOTE
+3/5 
+
+Databerry还支持数据和API集成，可以构建高度集成的LLM代理，为无限应用打开可能性的大门。用户还可以轻松地将他们的AI聊天机器人集成到Slack、Whatsapp和其他平台，开始在他们喜欢的渠道上与观众互动。 https://t.co/hPc8jg49aB 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Databerry：可以将ChatGPT连接到任..._ by @xiaohuggg on Twitter
+*** [View Tweet](https://twitter.com/xiaohuggg/status/1665354413966344194)
+** 📌
+#+BEGIN_QUOTE
+4/5
+
+Databerry很适合应用在客户支持方面。使用自己的数据源AI聊天机器人可以回答常见问题，处理简单的支持请求，让团队可以专注于为客户提供更个性化的帮助。AI聊天机器人可以全天候处理客户咨询，即使团队不可用时也能提供有效的支持。只需复制并粘贴Databerry代码到网站上，就可访客提供即时支持。 
+
+![](https://pbs.twimg.com/media/FxyFtDLaUAEraAO.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Databerry：可以将ChatGPT连接到任..._ by @xiaohuggg on Twitter
+*** [View Tweet](https://twitter.com/xiaohuggg/status/1665354417208700931)
+** 📌
+#+BEGIN_QUOTE
+5/5
+
+网站：https://t.co/cdLOGauJio
+
+GitHub：https://t.co/QSx8EFWef9 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Databerry：可以将ChatGPT连接到任..._ by @xiaohuggg on Twitter
+*** [View Tweet](https://twitter.com/xiaohuggg/status/1665354419821588481)
+** 📌
+#+BEGIN_QUOTE
+6/5
+
+看完觉得有用记得点点关注@xiaohuggg 一键三连！ 这是我继续发帖的动力！😋 
+#+END_QUOTE
+    date:: [[2023-06-05]]
+*** from _Databerry：可以将ChatGPT连接到任..._ by @xiaohuggg on Twitter
+*** [View Tweet](https://twitter.com/xiaohuggg/status/1665354422069899264)

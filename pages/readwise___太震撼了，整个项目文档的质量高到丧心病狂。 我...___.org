@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/太震撼了，整个项目文档的质量高到丧心病狂。 我...
+:END:
+
+:PROPERTIES:
+:author: [[noworkforsixian on Twitter]]
+:full-title: "太震撼了，整个项目文档的质量高到丧心病狂。 我..."
+:category: [[tweets]]
+:url: https://twitter.com/noworkforsixian/status/1725147780274962904
+:image-url: https://pbs.twimg.com/profile_images/1661244976234364928/c8hIGYLf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+太震撼了，整个项目文档的质量高到丧心病狂。
+
+我从 Paul 的 100 Days of SwiftUI 入门，教学内容和节奏都是一流，Paul 开始教 shader 我可太开心了。
+
+学习过 shader 的人都知道，它的代码对初学者并不友好，甚至是相当晦涩。所以 Paul 在贡献部分特意强调可读性让我很感动，是真的想让人学明白 
+
+![](https://pbs.twimg.com/media/F_DxeyOaUAAcSVc.jpg) 
+
+![](https://pbs.twimg.com/media/F_DxntQakAAzc_W.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-17]]
+*** from _太震撼了，整个项目文档的质量高到丧心病狂。 我..._ by @noworkforsixian on Twitter
+*** [View Tweet](https://twitter.com/noworkforsixian/status/1725147780274962904)
+** 📌
+#+BEGIN_QUOTE
+之前在这条谈到过我的学习路线，我们可亲可敬的 PM 菜子也觉得 Paul 老师非常棒🫡
+
+https://t.co/9mlJbEhG8O 
+#+END_QUOTE
+    date:: [[2023-11-17]]
+*** from _太震撼了，整个项目文档的质量高到丧心病狂。 我..._ by @noworkforsixian on Twitter
+*** [View Tweet](https://twitter.com/noworkforsixian/status/1725148597606375604)

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: readwise/第125期 - 超大橘子
+:END:
+
+:PROPERTIES:
+:author: [[Tw93]]
+:full-title: "第125期 - 超大橘子"
+:category: [[articles]]
+:url: https://weekly.tw93.fun/posts/125-%E8%B6%85%E5%A4%A7%E6%A9%98%E5%AD%90/
+:image-url: https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+**Glasp：AI 标注插件+分享广场**  
+[https://glasp.co/home](https://glasp.co/home)  
+一个很不错的标注插件「Glasp」，可以在 Twitter、Youtube 、各种网页看到的内容标注和注释，并通过 AI 总结，还可同步 Kindle 上标注的内容。对于不喜欢做笔记的同学，可以从官网看到大量他人公开标注的好内容，这反而是我觉得这个工具最牛逼的地方。 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _第125期 - 超大橘子_ by Tw93
+*** [View Highlight](https://read.readwise.io/read/01gy6exsf49ez4471a52mdraj9)
+** 📌
+#+BEGIN_QUOTE
+**Ant Design 同学梳理设计模式**  
+[https://www.yuque.com/ant-design/design-pattern](https://www.yuque.com/ant-design/design-pattern)  
+逛语雀的时候，看到 Ant Design 同学梳理的一个「设计模式」，对列表、用户输入、交互操作里面各种设计是什么、为什么、什么时候使用、案例进行了详细说明，很接地气的让你了解这一块的思考。 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _第125期 - 超大橘子_ by Tw93
+*** [View Highlight](https://read.readwise.io/read/01gy6eyae0prff33xbrybja6hh)
+** 📌
+#+BEGIN_QUOTE
+**Learn Prompting 教程**  
+[https://learnprompting.org/zh-Hans/docs/intro](https://learnprompting.org/zh-Hans/docs/intro)  
+以后应该会有公司招聘 Prompt 工程师，如何同人工智能交流，并得到你要的结果，这个「Learn Prompting」教程不水，写得很用心，讲了不少原理性的技巧方便你更加深入的了解这一块。 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _第125期 - 超大橘子_ by Tw93
+*** [View Highlight](https://read.readwise.io/read/01gy6eye1j5fdvgypdqn6c4w0k)
+** 📌
+#+BEGIN_QUOTE
+**大学毕业后，全班都转行了**  
+[https://www.huxiu.com/article/1195469.html](https://www.huxiu.com/article/1195469.html)  
+90 所大学撤销公共事业管理专业，登上微博热搜，评论区中，不少公共事业管理专业的网友对此调侃，“自己还没毕业，学的专业就要消失了。”与此同时，不少网友也提出了他们认为可能被撤销的专业。比如，工商管理、行政管理、旅游管理、土木工程、市场营销和国际贸易等，均赫然在列。 
+#+END_QUOTE
+    date:: [[2023-04-17]]
+*** from _第125期 - 超大橘子_ by Tw93
+*** [View Highlight](https://read.readwise.io/read/01gy6ez3btbp4ee673g4y9ar9g)

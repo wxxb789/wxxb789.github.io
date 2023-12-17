@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/📣 Exciting News! Falcon...
+:END:
+
+:PROPERTIES:
+:author: [[_philschmid on Twitter]]
+:full-title: "📣 Exciting News! Falcon..."
+:category: [[tweets]]
+:url: https://twitter.com/_philschmid/status/1663985494722527235
+:image-url: https://pbs.twimg.com/profile_images/1714444511860887552/8TzsCn3e.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+📣 Exciting News! Falcon Models from TII are now under the Apache 2.0 License! 🚀 🔓
+
+You can now leverage the best-performing open source models in commercial projects. 🙌 🦅
+
+👉 https://t.co/SJsSgSn4SE 
+
+![](https://pbs.twimg.com/media/FxepvyxXoAAWXeA.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-01]]
+*** from _📣 Exciting News! Falcon..._ by @_philschmid on Twitter
+*** [View Tweet](https://twitter.com/_philschmid/status/1663985494722527235)

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/1_2 参考@rowancheung的数据，制作...
+:END:
+
+:PROPERTIES:
+:author: [[0xYuker on Twitter]]
+:full-title: "1/2 参考@rowancheung的数据，制作..."
+:category: [[tweets]]
+:url: https://twitter.com/0xYuker/status/1632301548855529474
+:image-url: https://pbs.twimg.com/profile_images/1597986727670734850/PJh167W3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+1/2 参考@rowancheung的数据，制作了一个AI工具的Notion表格。表格内的工具打上了Tag，做了一个简单的分类，大家可以根据自己需要尝试使用它们。
+https://t.co/8Lvjb9xX6u 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _1/2 参考@rowancheung的数据，制作..._ by @0xYuker on Twitter
+*** [View Tweet](https://twitter.com/0xYuker/status/1632301548855529474)
+** 📌
+#+BEGIN_QUOTE
+@rowancheung 2/2 Notion的笔记开启了编辑权限，大家使用的时候也可以简单的做一下该项目的介绍，以及给一个评分。在做完Curate后，可以在后面的备注列，填上自己的Twitter用户名👩‍🎓 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _1/2 参考@rowancheung的数据，制作..._ by @0xYuker on Twitter
+*** [View Tweet](https://twitter.com/0xYuker/status/1632301550365466626)
+** 📌
+#+BEGIN_QUOTE
+我个人出资！完成一个条目的Curate，可以获得1U，10个就10u！快来一起Curate吧！ 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _1/2 参考@rowancheung的数据，制作..._ by @0xYuker on Twitter
+*** [View Tweet](https://twitter.com/0xYuker/status/1632381764781080577)

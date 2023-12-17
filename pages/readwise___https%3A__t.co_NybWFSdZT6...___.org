@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/https:__t.co_NybWFSdZT6...
+:END:
+
+:PROPERTIES:
+:author: [[Crypto_QianXun on Twitter]]
+:full-title: "https://t.co/NybWFSdZT6..."
+:category: [[tweets]]
+:url: https://twitter.com/Crypto_QianXun/status/1735570650318913592
+:image-url: https://pbs.twimg.com/profile_images/1623552966837039112/-lRznnfc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+https://t.co/NybWFSdZT6 新一代健康AI工具，超越 GPT-4！ 🌟
+
+🔍 可以在这上面问一些健康和生物科学问题 
+📚 所有回答均引自权威信源，省时又可靠！
+
+它在美国医学执照样本考试上的表现为92%，比GPT-4和claude 2的表现更好
+
+我个人搜索了几次，发现主要的信息来源是：Healthline
+Healthline 是美国排名第一的健康信息网站，凭借权威的健康内容，在全球每月的访问量超过 2 亿人次<img src='https://pbs.twimg.com/media/GBX6BCCaMAAmRTe.jpg'/><img src='https://pbs.twimg.com/media/GBX7QMzagAAtxQ9.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-12-15]]
+*** from _https://t.co/NybWFSdZT6..._ by @Crypto_QianXun on Twitter
+*** [View Tweet](https://twitter.com/Crypto_QianXun/status/1735570650318913592)

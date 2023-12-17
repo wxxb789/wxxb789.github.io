@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/🚀 Elastic Vector Search...
+:END:
+
+:PROPERTIES:
+:author: [[rohanpaul_ai on Twitter]]
+:full-title: "🚀 Elastic Vector Search..."
+:category: [[tweets]]
+:url: https://twitter.com/rohanpaul_ai/status/1676891472036257792
+:image-url: https://pbs.twimg.com/profile_images/1715475762516840448/kst_-vG1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+🚀 Elastic Vector Search + @LangChainAI
+
+Now LangChain.js accepts @elastic/elasticsearch as the client for Elasticsearch vectorstore.  
+
+Elasticsearch is a distributed, RESTful search engine optimized for speed and relevance on production-scale workloads. It supports also vector… https://t.co/Agj9smYrjT 
+
+![](https://pbs.twimg.com/media/F0WD2axagAQmo8L.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-06]]
+*** from _🚀 Elastic Vector Search..._ by @rohanpaul_ai on Twitter
+*** [View Tweet](https://twitter.com/rohanpaul_ai/status/1676891472036257792)

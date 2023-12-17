@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/非常棒的技巧：如何让OpenAI Functio...
+:END:
+
+:PROPERTIES:
+:author: [[JefferyTatsuya on Twitter]]
+:full-title: "非常棒的技巧：如何让OpenAI Functio..."
+:category: [[tweets]]
+:url: https://twitter.com/JefferyTatsuya/status/1673502353918668802
+:image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+非常棒的技巧：如何让OpenAI Functions总是返回你要的JSON格式。 
+#+END_QUOTE
+    date:: [[2023-07-07]]
+*** from _非常棒的技巧：如何让OpenAI Functio..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1673502353918668802)
+** 📌
+#+BEGIN_QUOTE
+还需要一行，就可以强制它调用这个函数。
+
+但如果传给它的内容跟JSON格式没有关系的，它也会很努力的写东西进去，但是会有幻觉。
+
+所以最好这个JSON里面有一个值，让它可以标志一下说这个输出有没有问题（is_Error 或者 input_unrelated这种） 
+
+![](https://pbs.twimg.com/media/Fzl57xIXwAANOO1.png) 
+#+END_QUOTE
+    date:: [[2023-07-07]]
+*** from _非常棒的技巧：如何让OpenAI Functio..._ by @JefferyTatsuya on Twitter
+*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1673503672905367552)

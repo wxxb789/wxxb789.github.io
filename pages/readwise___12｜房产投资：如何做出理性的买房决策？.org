@@ -1,0 +1,124 @@
+:PROPERTIES:
+:title: readwise/12｜房产投资：如何做出理性的买房决策？
+:END:
+
+:PROPERTIES:
+:author: [[geekbang.org]]
+:full-title: "12｜房产投资：如何做出理性的买房决策？"
+:category: [[articles]]
+:url: https://time.geekbang.org/column/article/404958
+:tags:[[gt/程序员的个人财富课]],
+:image-url: https://static001.geekbang.org/resource/image/26/b6/26a3c3d319edcd26da1d8f43c0c63eb6.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+提到买房，如今中国的高房价是一个无法回避的问题。我身边的很多人，对于是否要买房这件事摇摆不定，有的还声称“三十年内不考虑买房”。对此我想说的是，越早考虑买房的问题，我们离一个健康的家庭财富状态就越近。
+
+因为房产是我们家庭财富的最重要组成部分。如果你逃避现实压力，拒绝有计划地思考这个问题，不仅会错过房产这个重要的财富项，而且可能会严重影响未来的生活质量和财富健康程度。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkc7ezede815dhfch8zvmea)
+** 📌
+#+BEGIN_QUOTE
+也许你会有这样的危机意识：中国的房地产市场很有可能会像曾经的日本一样彻底崩溃，到时候再买房岂不是赚到了？这种想法是非常典型的“做空思维”。但是，“做空思维”对散户，或者说普通投资者来说是非常不好掌握的。如果你自认只是个普通人，没有超出常人的技巧、自信和定力，那就不要尝试做空。
+
+具体一点，为什么不建议你做空呢？我们先来看下世界历史上房地产泡沫破裂的两个经典案例，分别是 1991 年日本房地产泡沫和 2008 年美国次贷危机。
+
+观察下面的图片后，你一定可以发现，它们有着共同的典型特征：在泡沫破裂前房价会暴涨，涨幅远超其他年份。要命的是，当你身处这个房价疯狂上涨的阶段时，根本不知道真正的泡沫破裂会在什么时候发生。在这种充满不确定的环境中，如果你的房产是自住房，你几乎不可能选择卖出；如果你没有房产，你的心态有可能彻底失衡。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkc99jh1s72w900h6fh5ksk)
+** 📌
+#+BEGIN_QUOTE
+具体来讲，在首套房的购买中，我们一定要明确：买这套房的目的不是赚大钱，而是对冲未来可能出现的风险。这里的风险主要有两个：
+
+确定性风险：通货膨胀。
+
+不确定性风险：限购政策、利率政策、国际环境变化等因素带来的房价暴涨。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcadxbxjyxg3sfe15phj69)
+** 📌
+#+BEGIN_QUOTE
+放在现在你当然会认为，从收益率的角度我做出了一个错误的选择。事实也的确如此，回龙观的房子在我 2017 年卖出的时候是 360 万，翻了一倍，而上地的这套学区房那时候已经涨到了 700 万。但我要说的是，即使这样，我仍然坚持这个原则：“普通人的重大投资决策都要以规避风险为第一要务，要严格控制黑天鹅事件可能带来的不能承受的后果。” 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcjv0p83vf9wx4083w16em)
+** 📌
+#+BEGIN_QUOTE
+为什么这么说呢？如果我当年购买了上地的学区房，万一购房后的几年赶上学区政策变更，或者房地产泡沫导致的房价下跌，而且下跌的幅度超过首付，这套房子就相当于血本无归。而且，由于上地房子的还款压力比回龙观大将近 60%，一旦遭遇经济危机带来的大规模失业，我丧失收入来源的话，是有断供可能的。基于这样的逻辑，即使我知道第二套房子的潜力的确大于第一套，还是作出了风险更小的选择。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkck0z6wn3r8n5wn6cxfc0y)
+** 📌
+#+BEGIN_QUOTE
+总之，只要你买房的决心足够坚定，办法总比困难多。如果预算不足，先上车，后换房改善是现实最优的策略。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcksx43x993g6yh2esm3pv)
+** 📌
+#+BEGIN_QUOTE
+讲完了购买首套房的问题，你已经知道了：首套房的购买逻辑一定是规避风险，而不是投资收益。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkckxm47fv4xc7stmr93pbv)
+** 📌
+#+BEGIN_QUOTE
+那么站在 2021 年 8 月这个时间点，房产还是一个优质的投资标的吗？我的答案是：对于普通人来说，房产仍然是一个不算差的标的，但是对于真正成熟的投资者来说，能够找到其他更好的选择。
+
+为什么这么说呢？因为房产这个投资标的，可以说是“成也萧何败也萧何”。它最大的优点和最大的缺点都是流动性差。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcmra16khn41c818p95605)
+** 📌
+#+BEGIN_QUOTE
+而同期的其他典型资产标的，比如沪深 300、美股等，都产生了累计 100% 左右的涨幅。所以综合来讲，如果你有投资其他资产的能力，房地产并不是一个非常好的资产标的。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcnzfzy54xfgmryevmhp3x)
+** 📌
+#+BEGIN_QUOTE
+第一，尽可能不要在房价暴涨的时候投资。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcpaxbgycfdg453cnfdcr5)
+** 📌
+#+BEGIN_QUOTE
+第二，尽可能在房价进入稳定期后两到三年买房、换房。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcpez0fh0per78y9rrzjks)
+** 📌
+#+BEGIN_QUOTE
+中国的房地产价格周期一般是 4-5 年，比如北京最近的一个房地产周期是 2017 年到 2021 年，如果你在周期内的第三年购房，极有可能在未来一到两年遇到一轮上涨行情。不同国家房地产的价格周期各不相同，比如美国的房地产价格周期是 7 年左右（疫情期间的特殊行情除外），同样要把握好购房的节奏感。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcptxa8rr15qz78f545dqv)
+** 📌
+#+BEGIN_QUOTE
+![](https://static001.geekbang.org/resource/image/05/e3/051075da4ecee31404f66100989658e3.jpg?wh=2248x1830) 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcq1sdgx19mz9ewc7gwbhm)
+** 📌
+#+BEGIN_QUOTE
+投资圈里基本达成的共识是，以后房子会成为消费品。啥是消费品，就是和衣服，白酒，首饰一样。自己用的开心，没人接盘，纯粹提升生活质量的玩具。 改善住房其实可以考虑换租的方式。首套房，主要考虑 高薪产业 大于 学区 大于 品质。前提是风险把控一定要做好，还有个技巧哪里限购严买哪里，限购是需要底气的。 学区房基本以后也会凉凉，只是时间问题。教育公平是国家的底线。 而目前资本市场，港股估值倒数第一，巴西倒数第二，上证倒数第三，中国一些指数估值上有很大诱惑。 本文问题，如果是我，我会在就近买个老破小。上车先，并控制风险。 最好能结婚后买，两个人一起迈出买房的第一步，一起面对风险，增加对家庭责任感。 伴侣才是最重要的投资，好的伴侣能让你事败功倍，而差的伴侣只会长期内耗。所以相对于其他投资和知识，选择一个合适的人生伴侣才是降维打击，王牌技能，超级大招。 
+#+END_QUOTE
+    date:: [[2023-04-10]]
+*** from _12｜房产投资：如何做出理性的买房决策？_ by geekbang.org
+*** [View Highlight](https://read.readwise.io/read/01gxkcr6wtmxqv5dny4tqzx4cd)

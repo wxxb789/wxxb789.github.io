@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/Tweets From 即刻精选
+:END:
+
+:PROPERTIES:
+:author: [[jike_collection on Twitter]]
+:full-title: "Tweets From 即刻精选"
+:category: [[tweets]]
+:url: https://twitter.com/jike_collection
+:image-url: https://pbs.twimg.com/profile_images/985403677350346752/tw6tRCVW.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+"ChatGPT中美差距究竟有多大：
+1、一位百度资深人士：他“没有兴趣”谈论ChatGPT，言语之间，五味杂陈。
+2、一位人工智能企业创始人：面对ChatGPT的惊艳表现，心痒痒也迷茫，失眠了。他坦承，从模型的规模到效果，差距还比较远。 
+#+END_QUOTE
+    date:: [[2023-02-06]]
+*** from _Tweets From 即刻精选_ by @jike_collection on Twitter
+*** [View Tweet](https://twitter.com/jike_collection/status/1622082007374372865)
+** 📌
+#+BEGIN_QUOTE
+抖音上刷到一个叫老陌的
+是一个资金掮客
+听他讲的金融内幕
+我一整个三观炸裂
+内容真的是太干了
+给你讲的明明白白的人家是怎么赚钱的
+玩金融的真的是太脏了  #你不知道的行业内幕 
+#+END_QUOTE
+    date:: [[2023-06-01]]
+*** from _Tweets From 即刻精选_ by @jike_collection on Twitter
+*** [View Tweet](https://twitter.com/jike_collection/status/1664123754430201861)

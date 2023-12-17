@@ -1,0 +1,110 @@
+:PROPERTIES:
+:title: readwise/Decoding the Repository...
+:END:
+
+:PROPERTIES:
+:author: [[mwaseemzakir on Twitter]]
+:full-title: "Decoding the Repository..."
+:category: [[tweets]]
+:url: https://twitter.com/mwaseemzakir/status/1679732797290758144
+:image-url: https://pbs.twimg.com/profile_images/1604162937828040706/v1EqKyRK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Decoding the Repository Pattern in C# 🚀
+
+The Repository Pattern is a layer that mediates between the domain and the data mapping layers.  
+
+It's like a buffer that controls how data is accessed and manipulated.
+
+Let's navigate its essence, and weigh its pros and cons : 
+
+![](https://pbs.twimg.com/media/F0-cE50XwAIrRm0.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732797290758144)
+** 📌
+#+BEGIN_QUOTE
+Pros:
+1. 𝗦𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗻𝗰𝗲𝗿𝗻𝘀: The repository pattern separates the logic that retrieves the data and maps it to the entity model. 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732799870205953)
+** 📌
+#+BEGIN_QUOTE
+2. 𝗥𝗲𝗱𝘂𝗰𝗲𝘀 𝗰𝗼𝗱𝗲 𝗱𝘂𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻: Your data access logic can be reused across multiple projects.
+
+3. 𝗨𝗻𝗶𝘁 𝗧𝗲𝘀𝘁𝗶𝗻𝗴: It becomes a breeze as the data access logic is decoupled from the business services. 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732801627734017)
+** 📌
+#+BEGIN_QUOTE
+4. 𝗛𝗶𝗱𝗲𝘀 𝗦𝗤𝗟: Hides complex SQL or query language details, offering a cleaner API for accessing data.
+
+But no hero is without its flaws.
+
+Cons:
+1. 𝗢𝘃𝗲𝗿𝗵𝗲𝗮𝗱: Implementing the repository pattern introduces a new layer, which can be an overhead for small projects 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732804148502528)
+** 📌
+#+BEGIN_QUOTE
+2. 𝗚𝗲𝗻𝗲𝗿𝗶𝗰 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: They can limit your ability to perform complex database operations and can lead to performance penalties.
+
+3. 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝘂𝗿𝘃𝗲: It takes time to understand and implement the repository pattern correctly. 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732805901643777)
+** 📌
+#+BEGIN_QUOTE
+📌 I'm diving deeper into implementing the repository design pattern in tomorrow's newsletter. 
+
+Join the 4500+ already on board! https://t.co/K5hhbgfgEP
+
+Repost ♻️ would be appreciated 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732807852081154)
+** 📌
+#+BEGIN_QUOTE
+If you enjoyed it 
+\- Retweet it
+- Follow me for more updates
+
+#dotnet https://t.co/Lbh9fC937U 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679732810779709441)
+** 📌
+#+BEGIN_QUOTE
+📌 Previously in my Newsletter [Last 5]
+
+Multiple ways to create middleware in .NET
+https://t.co/6NyJYGx61Q
+
+Health Checks in .NET  
+https://t.co/Rmi8fUtVtn
+
+Response Caching 
+https://t.co/TtYrLsqWbL
+
+Noda Time 
+https://t.co/8qzKCkUYbz
+
+JWT in .NET 
+https://t.co/EWkX3h8GmX 
+#+END_QUOTE
+    date:: [[2023-07-15]]
+*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
+*** [View Tweet](https://twitter.com/mwaseemzakir/status/1679774146195070976)

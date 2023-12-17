@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/OpenAI联合创始人Karpathy分享：我们...
+:END:
+
+:PROPERTIES:
+:author: [[GPTDAOCN on Twitter]]
+:full-title: "OpenAI联合创始人Karpathy分享：我们..."
+:category: [[tweets]]
+:url: https://twitter.com/GPTDAOCN/status/1673781206121578498
+:image-url: https://pbs.twimg.com/profile_images/1652391808465530880/JW126tAa.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+OpenAI联合创始人Karpathy分享：我们为啥这么热爱AI代理
+
+他还透露，如果一篇论文提出了某种不同的训练方法，OpenAI内部的Slack上会嗤之以鼻，认为都是他们玩剩下的。但是当新的AI Agents论文出来的时候，他们会认真兴奋的讨论。
+
+Andrej… 
+
+![](https://pbs.twimg.com/media/Fzp3IpJaIAImr6q.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-28]]
+*** from _OpenAI联合创始人Karpathy分享：我们..._ by @GPTDAOCN on Twitter
+*** [View Tweet](https://twitter.com/GPTDAOCN/status/1673781206121578498)
+** 📌
+#+BEGIN_QUOTE
+@karpathy 
+#+END_QUOTE
+    date:: [[2023-06-28]]
+*** from _OpenAI联合创始人Karpathy分享：我们..._ by @GPTDAOCN on Twitter
+*** [View Tweet](https://twitter.com/GPTDAOCN/status/1673784568015630336)

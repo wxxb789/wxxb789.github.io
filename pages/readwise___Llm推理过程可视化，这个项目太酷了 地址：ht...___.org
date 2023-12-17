@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/Llm推理过程可视化，这个项目太酷了 地址：ht...
+:END:
+
+:PROPERTIES:
+:author: [[Gorden_Sun on Twitter]]
+:full-title: "Llm推理过程可视化，这个项目太酷了 地址：ht..."
+:category: [[tweets]]
+:url: https://twitter.com/Gorden_Sun/status/1731218605554147601
+:image-url: https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+LLM推理过程可视化，这个项目太酷了
+地址：https://t.co/dhfWnIHTyt 
+#+END_QUOTE
+    date:: [[2023-12-04]]
+*** from _Llm推理过程可视化，这个项目太酷了 地址：ht..._ by @Gorden_Sun on Twitter
+*** [View Tweet](https://twitter.com/Gorden_Sun/status/1731218605554147601)

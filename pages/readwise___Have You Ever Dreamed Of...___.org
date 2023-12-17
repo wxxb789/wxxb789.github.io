@@ -1,0 +1,249 @@
+:PROPERTIES:
+:title: readwise/Have You Ever Dreamed Of...
+:END:
+
+:PROPERTIES:
+:author: [[cristobal_dev on Twitter]]
+:full-title: "Have You Ever Dreamed Of..."
+:category: [[tweets]]
+:url: https://twitter.com/cristobal_dev/status/1683848653918568450
+:image-url: https://pbs.twimg.com/profile_images/1549680704753123328/K3wz8ioq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Have you ever dreamed of creating an AI that...
+
+... develops code autonomously?
+... debugs and resolves coding issues on its own?
+
+In this thread, I'm going to show you how to build that with @LangChainAI, leveraging @OpenAI API “functions”.
+
+🧵👇 
+
+![](https://pbs.twimg.com/media/F147av2WEAAnH0X.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848653918568450)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI In my opinion, this is the key to getting AGI (Artificial General Intelligence) one day:
+
+To have an intelligent agent able to program new features for itself, debug its own code, and fix it. 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848657215389696)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI Here I'm going to share with you the basics, using a very simple approach, that you can build upon.
+
+To simplify things we're going to suppose that we'll work with not very complex code bases, and we could load all the files in the GPT-4 context. 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848658377220098)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI We're going to create 2 agents:
+
+\- A developer agent
+- A bug fixing agent 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848659568300032)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI Let's begin with the prompt for the developer.
+
+It has the usual structure:
+
+ROLE / TASK / EXTRA INSTRUCTIONS. 
+
+![](https://pbs.twimg.com/media/F147b62XsAEFGET.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848666644201473)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI As you can see, in the prompt we ask to add tests to the code
+
+Also, we mention the use of Poetry.
+
+That's because we're going to include Poetry as a tool for the agent, as you can see next. 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848668246310913)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI This saves us from doing the creation of virtual environments, and installing dependencies, and, in the future, we could package the code easily. 
+
+![](https://pbs.twimg.com/media/F147ce9WIAENqSR.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848675833815042)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI And this is how we create the developer agent.
+
+We use the 'write_file' tool, and the previously created 'poetry_tool'.
+
+Also, as you can see, we're going to use the new OpenAI API “functions” feature, which makes everything works better. 
+
+![](https://pbs.twimg.com/media/F147c6AXwAIRLNk.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848682687410177)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI Now we can use the 'develop' function to create a program.
+
+For instance:
+
+develop("Create an API REST service for a fully operative to-do list app, with add tasks, remove task, etc.") 
+
+![](https://pbs.twimg.com/media/F147dSlWIAAcB6g.png) 
+
+![](https://pbs.twimg.com/media/F147dTdXoAQRCEs.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848689125675010)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI Sometimes, when you run the resulting program or the tests, it just works.
+
+But others, it doesn't: 
+
+![](https://pbs.twimg.com/media/F147dq2XsAIbT_F.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848695660392449)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI So we're going to create a function to debug and fix the code.
+
+In order to do that, we are going to run the tests and pass the output, and the actual code to a new prompt: 
+
+![](https://pbs.twimg.com/media/F147eDFXgAUneDD.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848702237061122)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI This prompt is very similar to the developer prompt, but this one has two parameters:
+
+\- The content of the files.
+- The output of the tests.
+
+To get the latter, we'll use a function similar to the 'run_poetry' one: 
+
+![](https://pbs.twimg.com/media/F147efVWEAMEPHP.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848709707034625)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI The next function creates the text with all the files of the code base.
+
+In a more advanced version, the agent could retrieve only the pieces of code related to the task at hand. 
+
+![](https://pbs.twimg.com/media/F147e7PXgAIhdAK.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848722982096897)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI Finally, we can create the new agent and the 'debug' function.
+
+Here, we add a couple of more file tools, just in case. 
+
+![](https://pbs.twimg.com/media/F147fvCXwAAUJ33.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848730787692545)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI And that's it.
+
+You can simply execute 'debug()' and it will run the tests, and fix some errors in the code.
+
+In the prompt, I specified that in case of too many errors, it must try to fix only one. 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848732268277766)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI This is because if there are too many errors, the execution is going to be too long and we could get context overflow errors.
+
+So, maybe you'll need to run 'debug()' more than once to fix all issues. 
+
+![](https://pbs.twimg.com/media/F147gKbWcAEzYYW.jpg) 
+
+![](https://pbs.twimg.com/media/F147gLtXgAAf89p.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848738744180736)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI So, as you can see the agent finally fixed the code!
+
+This procedure is not bulletproof.
+
+There are many edge cases that need to be taken into account. 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848740321329155)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI First of all, that the tests pass doesn't guarantee that the code is correct, or that the app is going to run.
+
+So we should add further checks like trying to run the software, or to interact with it and catch the errors if any, in order to pass it to the debug agent. 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848741491466240)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI And that's it.
+
+I think this is a great start for an autonomous AI developer agent.
+
+With a bit of work, this code could do wonders.
+
+Maybe I'll move it to its own repo, in a proper command line tool. Would you be interested? 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848742720483330)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI For now, you have the full code of this thread in this notebook:
+https://t.co/A5d6nxgHj2 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683848743752286208)
+** 📌
+#+BEGIN_QUOTE
+@LangChainAI @OpenAI Don't forget to share and bookmark this thread if you like it:
+https://t.co/SEWnDI6Lm8 https://t.co/s5ecGlLYBP 
+#+END_QUOTE
+    date:: [[2023-07-26]]
+*** from _Have You Ever Dreamed Of..._ by @cristobal_dev on Twitter
+*** [View Tweet](https://twitter.com/cristobal_dev/status/1683849109340299265)

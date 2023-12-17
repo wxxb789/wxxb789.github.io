@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/What Are the Most Common...
+:END:
+
+:PROPERTIES:
+:author: [[Aurimas_Gr on Twitter]]
+:full-title: "What Are the Most Common..."
+:category: [[tweets]]
+:url: https://twitter.com/Aurimas_Gr/status/1679057380535853056
+:image-url: https://pbs.twimg.com/profile_images/1550778008314806272/BssM2zPQ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+What are the most common 𝗨𝘀𝗲 𝗖𝗮𝘀𝗲𝘀 𝗳𝗼𝗿 𝗞𝗮𝗳𝗸𝗮?
+
+We have covered lots of concepts around Kafka already. But what are the most common use cases for The System that you are very likely to run into as a Data Engineer?
+
+𝗟𝗲𝘁’𝘀 𝘁𝗮𝗸𝗲 𝗮 𝗰𝗹𝗼𝘀𝗲𝗿 𝗹𝗼𝗼𝗸:… https://t.co/inoENGy34C 
+
+![](https://pbs.twimg.com/media/F001oRqWYAIiaW2.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _What Are the Most Common..._ by @Aurimas_Gr on Twitter
+*** [View Tweet](https://twitter.com/Aurimas_Gr/status/1679057380535853056)
+** 📌
+#+BEGIN_QUOTE
+If you like the content, be sure to join 15.000+ Data Tech Enthusiasts by subscribing to my newsletter: https://t.co/aI3ps0tcLw 
+
+![](https://pbs.twimg.com/media/F01RWn-XsAAebhK.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-13]]
+*** from _What Are the Most Common..._ by @Aurimas_Gr on Twitter
+*** [View Tweet](https://twitter.com/Aurimas_Gr/status/1679087793501265920)

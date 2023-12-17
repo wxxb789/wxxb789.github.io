@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/RIP Monte Carlo @GoogleD...
+:END:
+
+:PROPERTIES:
+:author: [[predict_addict on Twitter]]
+:full-title: "RIP Monte Carlo @GoogleD..."
+:category: [[tweets]]
+:url: https://twitter.com/predict_addict/status/1732070695377465355
+:image-url: https://pbs.twimg.com/profile_images/1499279697024364547/tEb-KUVo.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+RIP Monte Carlo <a href="https://twitter.com/GoogleDeepMind">@GoogleDeepMind</a>  releases the code for Conformal Monte Carlo.
+
+https://t.co/1c1jj1AXRo
+
+#conformalprediction 
+
+![](https://pbs.twimg.com/media/GAmM-WmXQAA6Xye.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _RIP Monte Carlo @GoogleD..._ by @predict_addict on Twitter
+*** [View Tweet](https://twitter.com/predict_addict/status/1732070695377465355)

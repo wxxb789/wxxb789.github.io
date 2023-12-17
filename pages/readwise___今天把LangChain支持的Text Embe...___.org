@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/今天把LangChain支持的Text Embe...
+:END:
+
+:PROPERTIES:
+:author: [[GanymedeNil on Twitter]]
+:full-title: "今天把LangChain支持的Text Embe..."
+:category: [[tweets]]
+:url: https://twitter.com/GanymedeNil/status/1644006142794928129
+:image-url: https://pbs.twimg.com/profile_images/1121596869681958912/iSob597s.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+今天把LangChain支持的Text Embedding都过了一遍得到以下结论：
+1. 对于在同一语言下的文本相似度，开源和各商业平台的都不错
+2. 对于在不同语言（主要测试中文和英文）不涉及专业内容，只要是同时支持多语言的开源模型或者商业平台，也都不错  1/2 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _今天把LangChain支持的Text Embe..._ by @GanymedeNil on Twitter
+*** [View Tweet](https://twitter.com/GanymedeNil/status/1644006142794928129)
+** 📌
+#+BEGIN_QUOTE
+3.对于在不同语言，涉及专业内容的，目前只有OpenAI给出的相似度符合预期
+总结：
+如果涉及专业内容的知识库需要Embedding的，直接选择OpenAI，如果涉及隐私机密内容的需要本地化的，如我在https://t.co/NhYBncqdO8中说的需要结合专业内容对Embedding模型进行适度的微调。2/2 
+#+END_QUOTE
+    date:: [[2023-04-07]]
+*** from _今天把LangChain支持的Text Embe..._ by @GanymedeNil on Twitter
+*** [View Tweet](https://twitter.com/GanymedeNil/status/1644006145772888067)

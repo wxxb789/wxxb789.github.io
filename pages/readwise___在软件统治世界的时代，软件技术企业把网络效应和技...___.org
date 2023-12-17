@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/在软件统治世界的时代，软件技术企业把网络效应和技...
+:END:
+
+:PROPERTIES:
+:author: [[dexteryy on Twitter]]
+:full-title: "在软件统治世界的时代，软件技术企业把网络效应和技..."
+:category: [[tweets]]
+:url: https://twitter.com/dexteryy/status/1725538963442815153
+:image-url: https://pbs.twimg.com/profile_images/28069772/cg2.gif
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+在软件统治世界的时代，软件技术企业把网络效应和技术进步带来的成本下降，转化为自己的利润率（维持或提升），原本无可厚非，前提是自身持续增加的研发投入，交付更多的软件产品附加值，维持「性价比」，让用户支付的相同价格中有越来越多变成购买上层的软件价值，而不是抵消底层的上游成本。
+
+所以冯老板新作（图1）指出的「硬件红利」和「公有云不让利」问题，换个视角，实际上是在硬件成本重新指数下降的趋势下，传统 IaaS 模式的公有云提供的软件产品附加值却无法同时保持指数上升（软件在这方面原本应该比硬件更擅长），无法维持性价比导致出现「下云奥德赛」。
+
+一个根本原因是：软件技术交付的附加值能指数上升，是非常依赖「抽象」能力的——软件技术能相对轻易和无限的不断往上构建垒加新的抽象层。而传统 IaaS 模式公有云的抽象层早就发展到了头，停滞不前很久了。要继续往上抽象，需要转移整个范式，变成卷 Serverless PaaS/BaaS、Frontend PaaS （图3、图4），甚至紧密结合应用框架、Cloud IDE、低/无代码平台等，已经不是同一个行业。
+
+小微实例/初创企业尤其需要这些更高抽象层带来的附加值，对它们来说，极致的速度、综合的效率与「省心省力」（意味着聚焦、轻量、不怕试错），远比单纯的「省钱」更重要（这个阶段折腾省钱的性价比本身就低）。因此传统 IaaS 公有云其实不仅在「规模以上」客户中被「下云」，在小微实例/初创企业中同样处在被摒弃/被屏蔽的趋势中。
+
+这也是为什么我好多年前就清仓了 Amazon 和阿里，而一直持有 Cloudflare、MongoDB、微软这类跟 Serverless / SaaS / DX（开发者体验）亲近友好的 infra 的原因。<img src='https://pbs.twimg.com/media/F_JYiSxaMAASsZJ.jpg'/><img src='https://pbs.twimg.com/media/F_JYiSvbYAAFDPH.jpg'/><img src='https://pbs.twimg.com/media/F_JYiSybMAADAL6.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-18]]
+*** from _在软件统治世界的时代，软件技术企业把网络效应和技..._ by @dexteryy on Twitter
+*** [View Tweet](https://twitter.com/dexteryy/status/1725538963442815153)

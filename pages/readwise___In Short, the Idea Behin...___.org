@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/In Short, the Idea Behin...
+:END:
+
+:PROPERTIES:
+:author: [[rasbt on Twitter]]
+:full-title: "In Short, the Idea Behin..."
+:category: [[tweets]]
+:url: https://twitter.com/rasbt/status/1679680423671001090
+:image-url: https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+In short, the idea behind this gzip + kNN approach is that a given text A is close to the size of two concatenated texts A + B when compressed using Gzip. 
+
+Or, the compressed size of A+A is similar to the compressed size of just A (plus a constant value for the back reference) https://t.co/Zb94wToLBx 
+
+![](https://pbs.twimg.com/media/F09sVTxWAAEjEZE.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-16]]
+*** from _In Short, the Idea Behin..._ by @rasbt on Twitter
+*** [View Tweet](https://twitter.com/rasbt/status/1679680423671001090)

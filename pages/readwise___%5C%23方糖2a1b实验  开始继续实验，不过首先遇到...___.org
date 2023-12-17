@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/\#方糖2a1b实验  开始继续实验，不过首先遇到...
+:END:
+
+:PROPERTIES:
+:author: [[easychen on Twitter]]
+:full-title: "\#方糖2a1b实验  开始继续实验，不过首先遇到..."
+:category: [[tweets]]
+:url: https://twitter.com/easychen/status/1638363463214067713
+:image-url: https://pbs.twimg.com/profile_images/987673328662933505/GhypAuiV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+#方糖2A1B实验  开始继续实验，不过首先遇到的就是 GPT3.5 上下文容量太少而 GPT4 太贵（8K也就多一倍）的问题。
+
+因此我写了个工具 GPT::BAT（ https://t.co/iFp8raeQ45 ），可以自动把长文本拆分后按设置提交给GPT，并将返回内容进… 
+
+![](https://pbs.twimg.com/media/Fryi316aUAAScMu.jpg) 
+
+![](https://pbs.twimg.com/media/Fryi3-ZacAICXvt.jpg) 
+
+![](https://pbs.twimg.com/media/Fryi4SMaQAQCtje.jpg) 
+
+![](https://pbs.twimg.com/media/Fryi4iwaIAEFp_j.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-23]]
+*** from _#方糖2a1b实验  开始继续实验，不过首先遇到..._ by @easychen on Twitter
+*** [View Tweet](https://twitter.com/easychen/status/1638363463214067713)

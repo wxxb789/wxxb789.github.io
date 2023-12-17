@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/现在做基于Embedding的文档问答已经不是什...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "现在做基于Embedding的文档问答已经不是什..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1667790801420558342
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+现在做基于Embedding的文档问答已经不是什么新鲜事，但是这个视频还是值得一看，主要是他介绍了几种不同的生成问答结果的方式：
+1. Stuff，我们熟知的把找到的文档块和问题一起扔给LLM总结
+2.… 
+
+![](https://pbs.twimg.com/media/FyUuFgiXsAAxqD9.jpg) 
+
+![](https://pbs.twimg.com/media/FyUuP5_XsAEZ6uS.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-12]]
+*** from _现在做基于Embedding的文档问答已经不是什..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1667790801420558342)

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/No AWS? No Azure? No GCP...
+:END:
+
+:PROPERTIES:
+:author: [[abhi1thakur on Twitter]]
+:full-title: "No AWS? No Azure? No GCP..."
+:category: [[tweets]]
+:url: https://twitter.com/abhi1thakur/status/1692060184057696464
+:image-url: https://pbs.twimg.com/profile_images/1603376537939705856/7evOameA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+No AWS? No Azure? No GCP? 😥
+No problem! All you need is Hugging Face! 🤗
+Now, just by adding one parameter in AutoTrain, you can fine-tune custom LLMs on Hugging Face Spaces and choose GPUs like T4, A10g & even A100! 🚀🚀🚀
+Your training will start in a few seconds and space will shutdown on its own after the training is done, thus saving you a lot of $$$. 🤑 
+#+END_QUOTE
+    date:: [[2023-08-18]]
+*** from _No AWS? No Azure? No GCP..._ by @abhi1thakur on Twitter
+*** [View Tweet](https://twitter.com/abhi1thakur/status/1692060184057696464)
+** 📌
+#+BEGIN_QUOTE
+For issues and feature requests, here's the github repo ⭐️
+https://t.co/EgQoumFGfw 
+#+END_QUOTE
+    date:: [[2023-08-18]]
+*** from _No AWS? No Azure? No GCP..._ by @abhi1thakur on Twitter
+*** [View Tweet](https://twitter.com/abhi1thakur/status/1692061948483924039)

@@ -1,0 +1,61 @@
+:PROPERTIES:
+:title: readwise/研发团队构建心得
+:END:
+
+:PROPERTIES:
+:author: [[manateelazycat.github.io]]
+:full-title: "研发团队构建心得"
+:category: [[articles]]
+:url: https://manateelazycat.github.io/2023/12/14/developer-team/
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+研发团队管理最需要做的几个方面是哪些? 我们按照正向和反向的方式来进行论述。
+
+1.  视野： 研发团队负责人要极强的视野， 知道短期内任务的优先级， 并通过广泛视野协调团队资源， 让团队可以通过集中火力的方式来协作解决研发问题， 同时要对长期目标内心有一个清晰的规划。 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _研发团队构建心得_ by manateelazycat.github.io
+*** [View Highlight](https://read.readwise.io/read/01hhskx1rv4185534zeaw3h7dx)
+** 📌
+#+BEGIN_QUOTE
+检查： 检查工作非常重要， 检查的目的不是为了职位等级。 而是通过检查可以知道每个研发人员是否需要帮助？ 或者资源是否有卡住的地方？ 或者大家之间协作存在障碍？ 还或者只是某个人在摸鱼导致进度很缓慢？ 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _研发团队构建心得_ by manateelazycat.github.io
+*** [View Highlight](https://read.readwise.io/read/01hhskxjzsqez5sjp1retd6fvk)
+** 📌
+#+BEGIN_QUOTE
+那说到底， 团队负责人怎么做到绵绵不绝的培训呢？
+
+1.  心要正： 心术不正的人没法管理别人
+2.  话要多： 要多沟通， 多说， 反复说， 语言的激励作用超乎想象
+3.  读书多： 要多读书， 不光技术书， 什么书都要读， 自己肚子里没有货， 怎么教别人？ 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _研发团队构建心得_ by manateelazycat.github.io
+*** [View Highlight](https://read.readwise.io/read/01hhskyg5fmszjyfet5msqccnj)
+** 📌
+#+BEGIN_QUOTE
+思路清晰 逻辑推理能力并不等于思路清晰， 思路清晰是要了解用户需求， 知道大方向的逻辑结构和代码的数据流向。 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _研发团队构建心得_ by manateelazycat.github.io
+*** [View Highlight](https://read.readwise.io/read/01hhskytdaefk9tw6p31kpm6nv)
+** 📌
+#+BEGIN_QUOTE
+研发团队最核心的就是解决各种卡住的问题， 思路卡住、 资源卡住、 人力协作卡住等等。 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _研发团队构建心得_ by manateelazycat.github.io
+*** [View Highlight](https://read.readwise.io/read/01hhskvr954yaqdq38yrt7c5mf)
+** 📌
+#+BEGIN_QUOTE
+人和人之间的差别就是担当， 就是那股骨子里不服输的劲， 就是埋头多做事， 这才是高手和混日子人的本质差别。 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _研发团队构建心得_ by manateelazycat.github.io
+*** [View Highlight](https://read.readwise.io/read/01hhskwnta7y7enej3am721p3c)

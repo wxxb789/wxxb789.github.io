@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: readwise/ChatGPT插件推荐 Wolfram，Scho...
+:END:
+
+:PROPERTIES:
+:author: [[goldengrape on Twitter]]
+:full-title: "ChatGPT插件推荐 Wolfram，Scho..."
+:category: [[tweets]]
+:url: https://twitter.com/goldengrape/status/1658655245063569409
+:image-url: https://pbs.twimg.com/profile_images/1348266678430302210/dKh2ImrQ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+ChatGPT插件推荐
+Wolfram，ScholarAI，AskYourPDF，WebPilot，
+排名分先后。 
+#+END_QUOTE
+    date:: [[2023-05-17]]
+*** from _ChatGPT插件推荐 Wolfram，Scho..._ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1658655245063569409)
+** 📌
+#+BEGIN_QUOTE
+Wolfram算力强大，写好不易，可要求ChatGPT来写，并且给出测试集，不通过测试集不准停。能够写出不错的代码，然后打开细节复制代码，放进wolframcloud里保存，很方便。
+比如：
+在世界地图上用蓝色标记出列表中的国家{中国，日本，韩国，美国}，再用绿色标记其余国家中GDP前20的国家 
+#+END_QUOTE
+    date:: [[2023-05-17]]
+*** from _ChatGPT插件推荐 Wolfram，Scho..._ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1658655246414123008)
+** 📌
+#+BEGIN_QUOTE
+ScholarAI是Springer Nature旗下，如果用中文提问，建议加上Research in English, answer in Chinese. 
+常见科学问题直接问即可，
+比如：“控制近视进展都有哪些方法？”
+也可以要求列出参考文献，比如“列出近10年控制近视进展的参考文献”，
+还可以“将文献1的摘要翻译成中文” 
+#+END_QUOTE
+    date:: [[2023-05-17]]
+*** from _ChatGPT插件推荐 Wolfram，Scho..._ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1658655247802441729)
+** 📌
+#+BEGIN_QUOTE
+AskYourPDF和WebPilot，类似于chatPDF，给定PDF或者网页的链接后，可以基于文本问答。
+sci-hub或者arxiv都不用下载到本地了。 
+#+END_QUOTE
+    date:: [[2023-05-17]]
+*** from _ChatGPT插件推荐 Wolfram，Scho..._ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1658655249304018952)
+** 📌
+#+BEGIN_QUOTE
+可能还有个noteable，一时没测试成功，https://t.co/MdiXmObb49 本身是个在线jupyter，这个插件貌似应该可以操纵jupyter内的内容，相当于一个python/R的code interpreter，但我还没搞定。 
+#+END_QUOTE
+    date:: [[2023-05-17]]
+*** from _ChatGPT插件推荐 Wolfram，Scho..._ by @goldengrape on Twitter
+*** [View Tweet](https://twitter.com/goldengrape/status/1658655250881052674)

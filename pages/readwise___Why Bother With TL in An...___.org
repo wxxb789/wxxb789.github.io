@@ -1,0 +1,63 @@
+:PROPERTIES:
+:title: readwise/Why Bother With TL in An...
+:END:
+
+:PROPERTIES:
+:author: [[tricalt on Twitter]]
+:full-title: "Why Bother With TL in An..."
+:category: [[tweets]]
+:url: https://twitter.com/tricalt/status/1680163281250529282
+:image-url: https://pbs.twimg.com/profile_images/1456192254515814403/cHVJ7L7g.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Why bother with TL in an ETL process when you can use #DLT  + @LangChainAI  functions?
+
+No need to think about trimming your data or configuring your connectors.
+
+I can even create a completely new dataset, and rely on @OpenAI to do it.
+
+Code in the next tweet 
+
+![](https://pbs.twimg.com/media/F1EgzwPWAAE5Vc5.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-16]]
+*** from _Why Bother With TL in An..._ by @tricalt on Twitter
+*** [View Tweet](https://twitter.com/tricalt/status/1680163281250529282)
+** 📌
+#+BEGIN_QUOTE
+https://t.co/iRUxSrzNrE 
+#+END_QUOTE
+    date:: [[2023-07-16]]
+*** from _Why Bother With TL in An..._ by @tricalt on Twitter
+*** [View Tweet](https://twitter.com/tricalt/status/1680163283494379520)
+** 📌
+#+BEGIN_QUOTE
+The @LangChainAI function wrapper helps create a food recipe out of thin air, personalised based on the user input.  
+The #DLT library abstracts all configurations needed to write to storage, and stores results in any mode, append, overwrite etc. 
+#+END_QUOTE
+    date:: [[2023-07-16]]
+*** from _Why Bother With TL in An..._ by @tricalt on Twitter
+*** [View Tweet](https://twitter.com/tricalt/status/1680163285113397248)
+** 📌
+#+BEGIN_QUOTE
+What if I told you you could deploy this flow with GitActions, and have scheduled jobs running in just a few minutes 
+
+![](https://pbs.twimg.com/media/F1EiLrgWAAI33k5.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-16]]
+*** from _Why Bother With TL in An..._ by @tricalt on Twitter
+*** [View Tweet](https://twitter.com/tricalt/status/1680163286740811776)
+** 📌
+#+BEGIN_QUOTE
+Check out our repos and ⭐️ it if you like what you see. 
+
+We are announcing something special in the coming days . 
+And reach out to @toe_smash for more DLT info.
+https://t.co/6tWIFEzOAF 
+#+END_QUOTE
+    date:: [[2023-07-16]]
+*** from _Why Bother With TL in An..._ by @tricalt on Twitter
+*** [View Tweet](https://twitter.com/tricalt/status/1680163288527654914)

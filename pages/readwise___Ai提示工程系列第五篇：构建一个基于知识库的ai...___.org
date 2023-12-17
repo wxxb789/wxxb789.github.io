@@ -1,0 +1,148 @@
+:PROPERTIES:
+:title: readwise/Ai提示工程系列第五篇：构建一个基于知识库的ai...
+:END:
+
+:PROPERTIES:
+:author: [[StephanCptMax on Twitter]]
+:full-title: "Ai提示工程系列第五篇：构建一个基于知识库的ai..."
+:category: [[tweets]]
+:url: https://twitter.com/StephanCptMax/status/1633353498657165312
+:image-url: https://pbs.twimg.com/profile_images/1511108233695432707/TOvN835h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+AI提示工程系列第五篇：构建一个基于知识库的AI机器人
+
+1/12 
+在第二篇讲了如何让ChatGPT写长文，是从生成的角度来说。
+那如果我们手头有一套知识库，如何根据知识库来建立一个类似 #chatpdf 的问答系统呢？今天就来聊聊这个话题👇🧵
+
+#AI #ChatGPT #提示工程 #promptengineering #SemanticSearch 
+
+![](https://pbs.twimg.com/media/FqrWWEZaYAIOKsV.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353498657165312)
+** 📌
+#+BEGIN_QUOTE
+2/12 
+本文偏系统设计方面，适合于AI领域的产品/技术同学阅读。
+
+没看过前四篇的朋友可以回顾一下：
+https://t.co/0hZ3124rH1 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353502201364480)
+** 📌
+#+BEGIN_QUOTE
+3/12 
+假设我们的场景是要建立一个公司的AI自动客服系统，手头有公司的一整套知识库。
+
+我们清楚ChatGPT有4096的Token上下文的限制，是无法一次性将整套知识库灌给ChatGPT的。这就要求我们想办法将数据“剪枝”，而剪枝的方法就是将用户的“问题”和知识库中可能的“段落上下文”联系起来。 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353505116409856)
+** 📌
+#+BEGIN_QUOTE
+4/12 
+首先，用户的提问肯定是包含意图的，比如他问“我如何登录？”，这个问题明显是“登录”这个意图，而如果我们知识库中有关于解答“如何登录”的相关文章段落，就可以将这个段落抽取出来，作为prompt上下文，连带用户的提问发给ChatGPT。他就可以基于上下文给出特定问题的答案。 
+
+![](https://pbs.twimg.com/media/FqrR870aMAApTeU.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353507653959681)
+** 📌
+#+BEGIN_QUOTE
+5/12 
+这里最关键的是两步：
+
+1.识别用户意图
+
+2.匹配知识库中相同或相近意图的段落并将上下文抽取出来
+
+要实现这两步，首先需要解释一下文本的向量化存储。 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353511068127233)
+** 📌
+#+BEGIN_QUOTE
+6/12 
+向量化存储非常重要，你可以简单理解为将文本段落转化为一个个向量的过程，而由于向量和向量之间是可以计算余弦角度的，角度越小，文本在语义层面就越接近。
+
+这样，我们就可以将用户输入计算出来的向量，和知识库中的向量集合进行比较，从而找到用户意图和知识库匹配的段落。 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353513156870145)
+** 📌
+#+BEGIN_QUOTE
+7/12 
+假设下图是我们从知识库中找到的和“登录”有关的段落： 
+
+![](https://pbs.twimg.com/media/FqrTZAoaQAA1Mej.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353515392462848)
+** 📌
+#+BEGIN_QUOTE
+8/12 
+通过计算用户提问和知识库段落之间的向量相似度，我们就可以将高相似度的段落抽取出来，作为上下文放入prompt中，同时放入prompt中的还有“角色信息”和“用户提问”。
+
+这样把封好的prompt整体发给ChatGPT，它就能根据这些信息，给出答复： 
+
+![](https://pbs.twimg.com/media/FqrTm3zaEAE0gtU.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353519951679488)
+** 📌
+#+BEGIN_QUOTE
+9/12 
+最后，有两点需要注意的地方：
+
+1.由于用户提问经常比较简单，语义可能匹配错误，在回答准确度要求比较高的产品上，我觉得可以通过引导问答的方式先明确用户的意图，再做意图的匹配。 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353523953037312)
+** 📌
+#+BEGIN_QUOTE
+10/12 
+2.为了避免用户提的问题和知识库完全不相关，给出离谱的答案，可以考虑在计算余弦相似度时有一定的阈值，如果相似度太低则直接给用户固定的答复，例如：很抱歉，您的问题我暂时无法回答，请问您需要转人工客服吗？ 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353526117285888)
+** 📌
+#+BEGIN_QUOTE
+11/12 
+以上，只是理论上聊了下构建一个知识库问答机器人的思路，工程化实现的话肯定还有很多细节，并且也有一些工具例如 #langchain #LlamaIndex 可以帮助我们提升构建效率。
+
+本文章参考的部分资料：
+https://t.co/TpoKV7oZ1H
+https://t.co/Xt11s1Qna1 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353529116225536)
+** 📌
+#+BEGIN_QUOTE
+12/12
+最后说明下，我本人并没有做过AI和机器学习领域相关的理论研究，如果本文有哪里讲的不准确或错误，请看到的大佬帮忙指正！
+
+另外，我最近正在酝酿做AI相关的创业小项目，有兴趣的同学也欢迎勾搭，一起交流想法。
+
+觉得本文有帮助的同学，麻烦帮忙点赞、转发第一条推：
+https://t.co/Bcowblr1GS 
+#+END_QUOTE
+    date:: [[2023-03-09]]
+*** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
+*** [View Tweet](https://twitter.com/StephanCptMax/status/1633356856445001728)

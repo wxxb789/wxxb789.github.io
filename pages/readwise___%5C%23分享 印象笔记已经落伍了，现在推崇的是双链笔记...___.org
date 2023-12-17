@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/\#分享 印象笔记已经落伍了，现在推崇的是双链笔记...
+:END:
+
+:PROPERTIES:
+:author: [[xiaokedada on Twitter]]
+:full-title: "\#分享 印象笔记已经落伍了，现在推崇的是双链笔记..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaokedada/status/1678056939618459650
+:image-url: https://pbs.twimg.com/profile_images/1121747073198641153/EgGLRJCi.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+#分享 印象笔记已经落伍了，现在推崇的是双链笔记和可视化笔记。前者起源于卢曼笔记法，后者是侦探原理。我从 oneNote - evernote - notion，现在的主力笔记工具是 @obsidian + Apple Notes。笔记最怕的是丢失，我使用的是 iCloud + Git 双备份，基本解决后顾之忧。 
+
+![](https://pbs.twimg.com/media/F0mhkeoWwAIPmkn.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-10]]
+*** from _#分享 印象笔记已经落伍了，现在推崇的是双链笔记..._ by @xiaokedada on Twitter
+*** [View Tweet](https://twitter.com/xiaokedada/status/1678056939618459650)
+** 📌
+#+BEGIN_QUOTE
+1️⃣ 我的策略是把仓库把知识库建在 iCloud drive，然后定期手动使用 Git 同步一份到 Github。 
+
+![](https://pbs.twimg.com/media/F0mjGmOXwAI-rMP.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-10]]
+*** from _#分享 印象笔记已经落伍了，现在推崇的是双链笔记..._ by @xiaokedada on Twitter
+*** [View Tweet](https://twitter.com/xiaokedada/status/1678056943498215425)
+** 📌
+#+BEGIN_QUOTE
+2️⃣ 我使用 Obsidian 的一个心得是用一个 Days 的文件来集中管理几天所学、所思。然后尽可能有时间在周末整理一波。在卢曼学习法中，这叫做闪念笔记。
+以前用的一些笔记软件，总是希望希望把某个笔记收纳到某一类目，但在双链笔记里，其实不用太关心这些。做好记的事情。 
+
+![](https://pbs.twimg.com/media/F0mkoTsX0AE5ejb.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-10]]
+*** from _#分享 印象笔记已经落伍了，现在推崇的是双链笔记..._ by @xiaokedada on Twitter
+*** [View Tweet](https://twitter.com/xiaokedada/status/1678056947050848258)
+** 📌
+#+BEGIN_QUOTE
+3️⃣ 另外，为了好看。我魔改了一套自己的主题，修改了中文字体。主题的配置我放在 https://t.co/3ia7TUm7Mu，下载放在 .obsidian/themes 就能直接使用。大致的效果就是上面分享的图片 
+#+END_QUOTE
+    date:: [[2023-07-10]]
+*** from _#分享 印象笔记已经落伍了，现在推崇的是双链笔记..._ by @xiaokedada on Twitter
+*** [View Tweet](https://twitter.com/xiaokedada/status/1678056950586646528)

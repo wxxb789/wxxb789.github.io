@@ -1,0 +1,44 @@
+:PROPERTIES:
+:title: readwise/打扰了各位朋友，年底原本打算直播的，有小伙伴想听...
+:END:
+
+:PROPERTIES:
+:author: [[besscroft on Twitter]]
+:full-title: "打扰了各位朋友，年底原本打算直播的，有小伙伴想听..."
+:category: [[tweets]]
+:url: https://twitter.com/besscroft/status/1641379598041763840
+:image-url: https://pbs.twimg.com/profile_images/1641278679258124289/PjJCHfRu.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+打扰了各位朋友，年底原本打算直播的，有小伙伴想听分享，但是一直没整，年底阳了后咳嗽 2 个多月才好，生活中破事儿也多。暂定 4 月 15 号 14 点直播技术分享《从 0 开始基于 Kubernetes 部署 Spring 微服务》。没啥有价值的东西，主要是一个人闷头苦学容易走歪，直播中要是遇到问题了，就现场查(1/n 
+
+![](https://pbs.twimg.com/media/FsdZf2VagAAnBzy.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-31]]
+*** from _打扰了各位朋友，年底原本打算直播的，有小伙伴想听..._ by @besscroft on Twitter
+*** [View Tweet](https://twitter.com/besscroft/status/1641379598041763840)
+** 📌
+#+BEGIN_QUOTE
+资料解决，我觉得这个过程才是最重要的，要是有人看的话，还是希望多在弹幕跟我交流。然后图中思维导图的内容，把“部署”换成“查看”后，基本上可以覆盖你去大部分做业务的 Spring 微服务的公司，进去后要开始看的东西，可以迅速的对项目有个大概的认知（什么架构、用到哪些技术等，方便你快速找出（2/n 
+#+END_QUOTE
+    date:: [[2023-03-31]]
+*** from _打扰了各位朋友，年底原本打算直播的，有小伙伴想听..._ by @besscroft on Twitter
+*** [View Tweet](https://twitter.com/besscroft/status/1641379694837923841)
+** 📌
+#+BEGIN_QUOTE
+不太熟的，然后被分配到任务后，抽时间去了解，也能在写需求时，考虑的更全面）。我基本上也是这么干的，然后再结合业务文档画思维导图，把控整个项目，这也是我敢在上家公司当主程负责项目的原因。直播的话我会录屏，时间可能会有点长，我会大致上按照思维导图的顺序来，所以有需要但是又没空（3/n 
+#+END_QUOTE
+    date:: [[2023-03-31]]
+*** from _打扰了各位朋友，年底原本打算直播的，有小伙伴想听..._ by @besscroft on Twitter
+*** [View Tweet](https://twitter.com/besscroft/status/1641379778912743424)
+** 📌
+#+BEGIN_QUOTE
+看直播的，直接跳到相应的时间看视频也行，博客的话视情况决定写不写吧，主要是感觉灵感不太多~
+直播间地址：https://t.co/r5M143C1ai 
+#+END_QUOTE
+    date:: [[2023-03-31]]
+*** from _打扰了各位朋友，年底原本打算直播的，有小伙伴想听..._ by @besscroft on Twitter
+*** [View Tweet](https://twitter.com/besscroft/status/1641379871640416258)

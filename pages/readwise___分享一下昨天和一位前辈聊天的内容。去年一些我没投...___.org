@@ -1,0 +1,60 @@
+:PROPERTIES:
+:title: readwise/分享一下昨天和一位前辈聊天的内容。去年一些我没投...
+:END:
+
+:PROPERTIES:
+:author: [[Zixi41620514 on Twitter]]
+:full-title: "分享一下昨天和一位前辈聊天的内容。去年一些我没投..."
+:category: [[tweets]]
+:url: https://twitter.com/Zixi41620514/status/1632062332024287232
+:image-url: https://pbs.twimg.com/profile_images/1638484330669563904/2Bcfnbas.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+分享一下昨天和一位前辈聊天的内容。去年一些我没投的项目，有时候给我的第一感觉就是太niche，解决的问题太小了，不值得我们去投；反观我去年投的几个公司，要么能讲很宏大的故事，要么就是产品真牛逼。我就在思考，为什么我会发自内心的对一些项目不感兴趣。原因就在于下面的两张图 
+
+![](https://pbs.twimg.com/media/FqY_IVlagAAg5QA.jpg) 
+
+![](https://pbs.twimg.com/media/FqY_KGmaIAENkGG.jpg) 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _分享一下昨天和一位前辈聊天的内容。去年一些我没投..._ by @Zixi41620514 on Twitter
+*** [View Tweet](https://twitter.com/Zixi41620514/status/1632062332024287232)
+** 📌
+#+BEGIN_QUOTE
+西方/C端项目多是Top down的逻辑。第一层先讲庞大的故事，第二层再依赖人脉和社会资源构建关系网络。随后会做出一个产品，但这个产品质量可以很辣鸡很不好用（毕竟web3用户是对辣鸡产品忍耐度最高的用户）。随后就可以通过故事+关系网络迭代出的产品来收割C端用户。这类逻辑太好使了，而且可复制短平快 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _分享一下昨天和一位前辈聊天的内容。去年一些我没投..._ by @Zixi41620514 on Twitter
+*** [View Tweet](https://twitter.com/Zixi41620514/status/1632068946408148993)
+** 📌
+#+BEGIN_QUOTE
+这类逻辑短平快可复制，可以创造出无数个0-1的公司。但是能利用这类逻辑能做出1-10,10-100的产品，那是革命性的成功。
+但如果只是无数个0-1，那终究也只是昙花一现，用一句俗话讲就是穿上裤子不认人，割完就跑。东方的创业者们很难能用这类逻辑做大，这是我们需要提升的地方，但有一位神奇的孙哥做到了 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _分享一下昨天和一位前辈聊天的内容。去年一些我没投..._ by @Zixi41620514 on Twitter
+*** [View Tweet](https://twitter.com/Zixi41620514/status/1632070027078930439)
+** 📌
+#+BEGIN_QUOTE
+东方/B端的项目多是bottom up的逻辑，这也是我过去刻在我脑子里的逻辑。这类的逻辑就是问题大不大，如果问题大那么市场大，那么项目方值得去创业。可就算项目方值得去创业，但投资人也不一定值得投。因为在crypto赛道中，投资人需要赚“估值”而不是“现金”。赛道小估值很难打开天花板，投资人很难有alpha 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _分享一下昨天和一位前辈聊天的内容。去年一些我没投..._ by @Zixi41620514 on Twitter
+*** [View Tweet](https://twitter.com/Zixi41620514/status/1632070117701083136)
+** 📌
+#+BEGIN_QUOTE
+发现产品值得投资后，项目方开始吭哧吭哧做事情，不同于C端/Top down的逻辑下产品只需要做到50分60分，B端/Bottom up的逻辑下产品一定要做到8090分才能规模的商业化。当做出市场满意的产品后，项目方开始BDPR。随后必要的一步就是构建上层的关系网络。最后能不能讲更宏大的故事有第二曲线还是看造化 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _分享一下昨天和一位前辈聊天的内容。去年一些我没投..._ by @Zixi41620514 on Twitter
+*** [View Tweet](https://twitter.com/Zixi41620514/status/1632070188249280512)
+** 📌
+#+BEGIN_QUOTE
+同时，这里讲的Bottom Up/B端思维太Web2太传统了。这也是我去年一年接触大量国内Web3创业团队的感觉。团队非常踏实，很能干，很有经验，但是过于Web2/Bottom up的逻辑就会导致你要解决的问题很Niche。亲爱的你已经不是在大厂里打螺丝了，你现在要做的是掀桌子，创造新的产品，改变现在的格局。 
+#+END_QUOTE
+    date:: [[2023-03-06]]
+*** from _分享一下昨天和一位前辈聊天的内容。去年一些我没投..._ by @Zixi41620514 on Twitter
+*** [View Tweet](https://twitter.com/Zixi41620514/status/1632070269383905281)

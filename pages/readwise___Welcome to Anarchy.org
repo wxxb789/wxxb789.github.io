@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/Welcome to Anarchy
+:END:
+
+:PROPERTIES:
+:author: [[anarchyinstaller.gitlab.io]]
+:full-title: "Welcome to Anarchy"
+:category: [[articles]]
+:url: https://anarchyinstaller.gitlab.io/
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+**Important:** As of **April 16, 2021** the Anarchy Installer website will be accessible exclusively from [https://anarchyinstaller.gitlab.io](https://anarchyinstaller.gitlab.io). 
+#+END_QUOTE
+    date:: [[2023-05-09]]
+*** from _Welcome to Anarchy_ by anarchyinstaller.gitlab.io
+*** [View Highlight](https://read.readwise.io/read/01gzzps9djm5s597nak17jj6wc)

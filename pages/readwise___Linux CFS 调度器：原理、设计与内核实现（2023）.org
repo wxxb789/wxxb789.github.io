@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/Linux CFS 调度器：原理、设计与内核实现（2023）
+:END:
+
+:PROPERTIES:
+:author: [[arthurchiao.art]]
+:full-title: "Linux CFS 调度器：原理、设计与内核实现（2023）"
+:category: [[articles]]
+:url: http://arthurchiao.art/blog/linux-cfs-design-and-implementation-zh/
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+严格来说，Linux 中的调度单位是线程（thread），因此在调度上下文中并没有进程（process）的概念。 
+#+END_QUOTE
+    date:: [[2023-02-07]]
+*** from _Linux CFS 调度器：原理、设计与内核实现（2023）_ by arthurchiao.art
+*** [View Highlight](https://read.readwise.io/read/01grnpz43a2bgm0gm0ws5zgrq6)

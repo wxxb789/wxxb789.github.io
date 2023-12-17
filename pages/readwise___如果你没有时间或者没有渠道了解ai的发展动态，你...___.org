@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/如果你没有时间或者没有渠道了解ai的发展动态，你...
+:END:
+
+:PROPERTIES:
+:author: [[Gorden_Sun on Twitter]]
+:full-title: "如果你没有时间或者没有渠道了解ai的发展动态，你..."
+:category: [[tweets]]
+:url: https://twitter.com/Gorden_Sun/status/1716798849594147056
+:image-url: https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+如果你没有时间或者没有渠道了解AI的发展动态，你适合收藏这本电子书，实时更新最新AI技术动态，内容齐全，包括模型、微调、向量数据库等多方面的内容。
+电子书网址：https://t.co/BduzfLxvh9
+对应的开源Github：https://t.co/gQbqHILMXx 
+
+![](https://pbs.twimg.com/media/F9NLZIiawAAr-31.jpg) 
+#+END_QUOTE
+    date:: [[2023-10-25]]
+*** from _如果你没有时间或者没有渠道了解ai的发展动态，你..._ by @Gorden_Sun on Twitter
+*** [View Tweet](https://twitter.com/Gorden_Sun/status/1716798849594147056)

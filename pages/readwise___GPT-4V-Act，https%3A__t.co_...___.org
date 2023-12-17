@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/GPT-4V-Act，https:__t.co_...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "GPT-4V-Act，https://t.co/..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1731972175589195815
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+GPT-4V-Act，https://t.co/C5V1MjTk3G，这个项目演示了让 GPT-4V 来控制自己的浏览器，例如执行任务“随机播放一首音乐”，浏览器会自己进入搜索引擎，完成输入、搜索、点击、选择等操作，整个思考（Observe）过程都由 AI 来完成。
+
+与之前分享的 self-operation-computer 实现上存在一些差异，之前项目会把任务目标、上一步结果和当前的截图扔给 GPT-4V，而这个项目会先对截图进行一次预处理，叫做 labeling，给网页上的元素标号——实现原理很简单，就是遍历元素，获取元素的网页布局位置，然后为其增加一个边框和标号。
+
+有了 labeling 操作，GPT-4V 在理解网页的时候可以做到更加聚焦和准确，而且返回指令的时候，也可以明确告知浏览器去操作哪个元素。
+
+\- 实现 labeling 的操作，在这里：https://t.co/i9IArsDeKY
+- Prompt 有点 TS 风格，十分简洁：https://t.co/3DwXKSHfLS<video controls><source src="https://video.twimg.com/ext_tw_video/1731970454775296000/pu/vid/avc1/632x360/Gma34NjQ0s881ZOv.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1731970454775296000/pu/vid/avc1/474x270/hjSQWG33nTRgLPwc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1731970454775296000/pu/vid/avc1/1264x720/phmiFST3LfwTgGu1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1731970454775296000/pu/pl/adB-0s-Su3w8rEyi.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _GPT-4V-Act，https://t.co/..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1731972175589195815)
+** 📌
+#+BEGIN_QUOTE
+labeling 效果感觉还可以在优化下，图中好多 label 还存在重叠问题，发给 GPT-4V 可能会认错，或者存在遮盖问题，对于复杂的网页，labels 也会非常多。 
+
+![](https://pbs.twimg.com/media/GAk05JDbAAAmmL2.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-06]]
+*** from _GPT-4V-Act，https://t.co/..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1731974050120097836)

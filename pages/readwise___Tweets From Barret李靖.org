@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/Tweets From Barret李靖
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "Tweets From Barret李靖"
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+一个把写 Prompt 门槛降低到膝盖以下的工具网站，ClickPrompt，https://t.co/byGaWQC8ch
+
+根据自己的需求场景，结合网站上提供的常用模式、示例内容和选择器工具，点一点，就可以快速实现一个效果还不错的稳定可用的 Prompt。
+
+如果还是玩不转，它提供了演示器，手把手教你，一步步实现复杂交互： 
+
+![](https://pbs.twimg.com/media/FzuAlV9WwAIREdo.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-29]]
+*** from _Tweets From Barret李靖_ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1674073868846387201)

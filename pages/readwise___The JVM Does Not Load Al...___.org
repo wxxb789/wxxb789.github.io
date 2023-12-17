@@ -1,0 +1,61 @@
+:PROPERTIES:
+:title: readwise/The JVM Does Not Load Al...
+:END:
+
+:PROPERTIES:
+:author: [[GeoffreyDeSmet on Twitter]]
+:full-title: "The JVM Does Not Load Al..."
+:category: [[tweets]]
+:url: https://twitter.com/GeoffreyDeSmet/status/1531586992278061056
+:image-url: https://pbs.twimg.com/profile_images/1634888228070125570/LqnkyPJ_.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+The JVM does not load all classes in the classpath.
+It only loads the ones it needs. What triggers the JVM to load a particular #Java class?
+
+Then answer might surprise you.
+Consider the code below. What does it print?
+
+Let's show the output and explain why. 🧵 
+
+![](https://pbs.twimg.com/media/FUEVQIdWAAAucMx.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _The JVM Does Not Load Al..._ by @GeoffreyDeSmet on Twitter
+*** [View Tweet](https://twitter.com/GeoffreyDeSmet/status/1531586992278061056)
+** 📌
+#+BEGIN_QUOTE
+Answer:
+Class A, C and D are loaded.
+Class B, E and F aren't.
+
+Class F is never used, so it obviously isn't loaded.
+
+Notice that MyBean contains fields of type B (static) and type E (non-static), but the B and E classes aren't loaded, because no instances are created. 
+
+![](https://pbs.twimg.com/media/FUFIt7ZWUAAUJ1x.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _The JVM Does Not Load Al..._ by @GeoffreyDeSmet on Twitter
+*** [View Tweet](https://twitter.com/GeoffreyDeSmet/status/1531586997231443973)
+** 📌
+#+BEGIN_QUOTE
+A Java class is loaded in OpenJDK just in time: when an instance is created (with "new" or reflection) or a static member (field or method) is accessed.
+
+If a class can't be loaded (for example if the compilation and runtime classpaths differ), a NoClassDefFoundError is thrown. 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _The JVM Does Not Load Al..._ by @GeoffreyDeSmet on Twitter
+*** [View Tweet](https://twitter.com/GeoffreyDeSmet/status/1531586999609696258)
+** 📌
+#+BEGIN_QUOTE
+This behavior allows for <optional>true</optional> dependencies in #Maven (and #Gradle):
+
+If A depends on B and B optionally depends on C, then A won't get C on the runtime classpath by default, but it can still use the functionality of B that doesn't rely on C. 
+#+END_QUOTE
+    date:: [[2023-07-31]]
+*** from _The JVM Does Not Load Al..._ by @GeoffreyDeSmet on Twitter
+*** [View Tweet](https://twitter.com/GeoffreyDeSmet/status/1531587001635549184)

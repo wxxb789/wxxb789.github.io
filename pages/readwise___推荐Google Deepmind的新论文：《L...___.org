@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: readwise/推荐Google Deepmind的新论文：《L...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "推荐Google Deepmind的新论文：《L..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1722323876267364767
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+推荐Google Deepmind的新论文：《Levels of AGI: Operationalizing Progress on the Path to AGI》
+我已经翻译成了中文：《通向通用人工智能的里程碑：评估进展的新框架 [译]》
+
+你猜猜按照他们的评级，目前最先进的GPT-4处于AGI的哪个层级？一共六层。
+
+他们在定义 AGI 上提出了六大关键原则：
+1. 注重能力，而非过程。
+2. 注重通用性与性能。
+3. 注重认知与元认知任务。
+4. 专注于潜力而不是实际应用。
+5. 重视实际适用性。
+6. 专注于通往 AGI 的旅程，而不是单一的终点。
+
+然后将 AGI 从“性能”和“通用性”两个维度分成了六个层级，或者说通向AGI需要六个阶段：
+
+Level 0: 无 AI（No AI）
+Level 1: 涌现（Emerging）
+Level 2: 胜任（Competent）
+Level 3: 专家（Expert）
+Level 4: 大师（Virtuoso）
+Level 5: 超人类（Superhuman）
+
+很遗憾，GPT-4才Level 1，刚刚到“涌现”的阶段。
+
+论文地址：https://t.co/T8MhYxf9dw
+翻译：https://t.co/ZlElOUy6Tc<img src='https://pbs.twimg.com/media/F-bqr81WMAAOoSx.jpg'/><img src='https://pbs.twimg.com/media/F-bqxDuWAAApYsJ.jpg'/> 
+#+END_QUOTE
+    date:: [[2023-11-09]]
+*** from _推荐Google Deepmind的新论文：《L..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1722323876267364767)

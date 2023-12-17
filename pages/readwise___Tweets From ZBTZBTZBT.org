@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/Tweets From ZBTZBTZBT
+:END:
+
+:PROPERTIES:
+:author: [[cystokMsk on Twitter]]
+:full-title: "Tweets From ZBTZBTZBT"
+:category: [[tweets]]
+:url: https://twitter.com/cystokMsk
+:image-url: https://pbs.twimg.com/profile_images/1606365898134020096/_4LduaUy.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+#两个数组实现HashJoin
+HashJoin分为build和probe两个阶段，
+build用小表构建哈希表，probe用大表探测
+p1:桶+链表实现的哈希表，cache miss率高
+p2:两个数组实现的哈希表，非常优雅，存储连续，cache miss率低不少
+probe阶段用大表每行去first和next数组里匹配
+标题党一点：《两个数组实现HashJoin》 https://t.co/UUxw2z5GEK 
+
+![](https://pbs.twimg.com/media/Fk0BV3haAAAPuvq.jpg) 
+
+![](https://pbs.twimg.com/media/Fk0BV3faEAE_wyt.jpg) 
+#+END_QUOTE
+    date:: [[2022-12-26]]
+*** from _Tweets From ZBTZBTZBT_ by @cystokMsk on Twitter
+*** [View Tweet](https://twitter.com/cystokMsk/status/1606942124221825025)

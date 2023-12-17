@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: readwise/Distil-Whisper：让语音识别的速度提...
+:END:
+
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "Distil-Whisper：让语音识别的速度提..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1727146449857871873
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Distil-Whisper：让语音识别的速度提高 5.8 倍，参数减少 51%，准确度保持在 99%。
+
+Whisper 在语音识别方面表现卓著，但是它有一个明显的缺点：训练出来的小模型支持的语言比较少，而大模型推理速度又很慢。如果你有海量的数据需要处理，或者对实时性要求略高，那使用 Whisper 可能会让你比较头疼。
+
+你可以使用工程手段来加速推理，例如将语音分片后并发处理然后合并结果，但这里涉及到本地计算资源瓶颈的问题，以及合并分片时容错处理的问题，工程复杂度比较高。
+
+《Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling
+》，https://t.co/28YSa5h4tZ，这篇文论提到了一个优化方案，它使用 Whisper 的 Large-v2 model 生成了一系列的 soft targets（也就是概率分布），然后复制 Whisper 网络的第一层和最后一层解码器，最后生成了一个更小、更快效果更好的蒸馏模型 Distil-Whisper。论文数据写的是：速度提高了 5.8 倍，参数减少了 51%，准确度保持在 99%。
+
+这个模型的效果之所以不错，主要还是得益于训练数据的完备，它结合了九个公开可用的语音识别数据集，合并后包含 21170 小时的语音数据，涵盖超过 18260 名说话者和 10 个不同的领域；自从 Whisper 大力出奇迹（它从互联网爬取了 68w 小时的数据，未公开）以后，相信后续语音领域的论文都会配置更庞大的数据集。
+
+Distil-Whisper 目前开源在 Hugging Face 上，模型地址：https://t.co/4pBcmCPy6y，同时还提供了一个可在线测试的 Demo：https://t.co/kPoAuw3Ip4，这个 Demo 会把模型下载到本地，然后通过 WebGPU 直接在网页上跑起来，测试了下效果，还是挺不错的。
+
+目前仅支持英文，如果想让它支持中文，需要使用同样海量的中文语料数据，重新做一次知识蒸馏，但我觉得即便是这样做，效果也不一定好，因为 Whisper 本身对中文、韩语等支持就不太优秀，这个信息可以从 Whisper 的论文中找到数据支撑。
+
+下面这个视频是 Whisper 和 Distil-Whisper 的对比效果：<video controls><source src="https://video.twimg.com/ext_tw_video/1727144235709968384/pu/vid/avc1/656x360/6Z4n2Sa4MOb2dxTk.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1727144235709968384/pu/vid/avc1/1314x720/3g6Qd31eP3z3Wspj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1727144235709968384/pu/pl/yA0_4QDjFTflpqJu.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1727144235709968384/pu/vid/avc1/492x270/MCdUzpbfigU8RIIR.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE
+    date:: [[2023-11-22]]
+*** from _Distil-Whisper：让语音识别的速度提..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1727146449857871873)
+** 📌
+#+BEGIN_QUOTE
+一般论文中用到的数据集都要公开出处的，例如 Distil-Whisper 中用到的是下图的数据集，2w 多小时的音频。
+
+OpenAI 开源的 Whisper 属于是开了先河了，论文里头的数据集，有 68w 小时的音频素材，没有提供出处。学术成果卓著，但是行为还是有争议的。 
+
+![](https://pbs.twimg.com/media/F_gTE-KaIAA5r1E.jpg) 
+#+END_QUOTE
+    date:: [[2023-11-22]]
+*** from _Distil-Whisper：让语音识别的速度提..._ by @Barret_China on Twitter
+*** [View Tweet](https://twitter.com/Barret_China/status/1727152556651225323)

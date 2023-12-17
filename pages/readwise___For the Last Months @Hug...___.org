@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: readwise/For the Last Months @Hug...
+:END:
+
+:PROPERTIES:
+:author: [[clefourrier on Twitter]]
+:full-title: "For the Last Months @Hug..."
+:category: [[tweets]]
+:url: https://twitter.com/clefourrier/status/1610308367775600646
+:image-url: https://pbs.twimg.com/profile_images/1631657680111542274/kaTJSP86.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+For the last months @huggingface, I worked on transformers and... graphs!
+
+So here is a small blog, if you wonder what one could use graphs for, or how to machine learn on them 🔎
+(Spoiler: they are everywhere 🧬🚗✍️) 
+
+https://t.co/DRnO5ObxME 
+#+END_QUOTE
+    date:: [[2023-01-04]]
+*** from _For the Last Months @Hug..._ by @clefourrier on Twitter
+*** [View Tweet](https://twitter.com/clefourrier/status/1610308367775600646)
+** 📌
+#+BEGIN_QUOTE
+In this post, you'll discover:
+\- what graphs are, why they are used, how to represent them
+- how people learn on graphs, from pre-neural methods to Graph Neural Networks
+- the very recent world of Transformers for graphs 
+#+END_QUOTE
+    date:: [[2023-01-04]]
+*** from _For the Last Months @Hug..._ by @clefourrier on Twitter
+*** [View Tweet](https://twitter.com/clefourrier/status/1610308370673680385)
+** 📌
+#+BEGIN_QUOTE
+I did my best to make it beginner friendly, feel free to ping me if you think it can be improved! 
+#+END_QUOTE
+    date:: [[2023-01-04]]
+*** from _For the Last Months @Hug..._ by @clefourrier on Twitter
+*** [View Tweet](https://twitter.com/clefourrier/status/1610308373148323841)
+** 📌
+#+BEGIN_QUOTE
+Bonus resource: For predictions of what's plausibly to come in graph ML in 2023, take a look at https://t.co/RLdhxMKz4x 
+(by @michael_galkin, @ren_hongyu, @zhu_zhaocheng
+ @chrsmrrs, @jo_brandstetter) 
+#+END_QUOTE
+    date:: [[2023-01-04]]
+*** from _For the Last Months @Hug..._ by @clefourrier on Twitter
+*** [View Tweet](https://twitter.com/clefourrier/status/1610308375161573376)

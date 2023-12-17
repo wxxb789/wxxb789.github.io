@@ -1,0 +1,91 @@
+:PROPERTIES:
+:title: readwise/Tweets From 宝玉
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "Tweets From 宝玉"
+:category: [[tweets]]
+:url: https://twitter.com/dotey
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+在线编程平台Replit近期发布了一篇关于《如何训练你自己的大型语言模型》的博客文章，分享了他们在训练自家编程大型语言模型（LLM）过程中的经验和教训。
+
+他们把整个过程分成了三个阶段：数据管道、模型训练、推理
+
+他们的主要数据来源包括Hugging Face上的The… 
+
+![](https://pbs.twimg.com/media/FuIHgJPWAAIeHbS.jpg) 
+
+![](https://pbs.twimg.com/media/FuIHgJXWIAEJQGq.jpg) 
+
+![](https://pbs.twimg.com/media/FuIHgJPWcAIEJDG.jpg) 
+
+![](https://pbs.twimg.com/media/FuIHgJkWwAAhG_a.jpg) 
+#+END_QUOTE
+    date:: [[2023-04-20]]
+*** from _Tweets From 宝玉_ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1648888752410968067)
+** 📌
+#+BEGIN_QUOTE
+Google的教学视频《Introduction to Generative AI | 生成式AI介绍》（中英双语字幕）
+
+这部教学视频全面地概述了生成式人工智能，讨论了其定义、关键概念、模型类型、基础模型，以及各种应用，特别是在Google的AI工具和服务的背景下。
+
+主要知识点：
+\-… https://t.co/NRTjyARuOY 
+#+END_QUOTE
+    date:: [[2023-05-17]]
+*** from _Tweets From 宝玉_ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1658709165747970048)
+** 📌
+#+BEGIN_QUOTE
+Google教学视频：《解析 Transformers：理解 GPT，BERT 和 T5 模型背后的原理》（中英文字幕）
+
+过去五年中，Transformers，一种神经网络架构，完全改变了自然语言处理的最先进技术。想要使用机器学习来翻译文本吗？好奇一个机器学习模型如何能够写出诗歌或专栏文章吗？Transformers… https://t.co/gFoxyILzvv 
+#+END_QUOTE
+    date:: [[2023-05-18]]
+*** from _Tweets From 宝玉_ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1659036897899888641)
+** 📌
+#+BEGIN_QUOTE
+现在的GPT在生成的时候是不能修改已经生成的内容的，这个*backspace*动作可以帮助模型删除之前生成的字符，纠正错误，生成更好的结果👍🏻 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Tweets From 宝玉_ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1671739825450262528)
+** 📌
+#+BEGIN_QUOTE
+谷歌的模拟系统设计面试，从这个视频中你可以学习到：
+1. 开始之前一定要问清楚要求
+2. 先收集需求
+3. 整个过程中要解释你的思考过程
+4. 要多确认，积极听取面试官的反馈，根据面试官的反馈及时修正方向，避免在不重要或者面试官不关心的地方浪费时间
+5. 大声思考（Think out loud）：分享你的思考过程… https://t.co/fNarlTOtvB 
+#+END_QUOTE
+    date:: [[2023-06-23]]
+*** from _Tweets From 宝玉_ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1672039511138897920)
+** 📌
+#+BEGIN_QUOTE
+哇塞，大家来围观一下陶哲轩写的Prompt，解决了一个数学难题：
+https://t.co/6IFOWBlRff
+
+“你好，我是一名数学教授，我希望你能扮演一位善于提出解题技巧的数学家专家搭档。 我正试图回答MathOverflow中的以下问题，你能给我一些建议，让我如何开始？ 我想尝试找出$a$和$R$的渐近论
+……”… 
+
+![](https://pbs.twimg.com/media/FzcYknVacAUCdSI.jpg) 
+
+![](https://pbs.twimg.com/media/FzcY9bvaUAABPKc.jpg) 
+
+![](https://pbs.twimg.com/media/FzcZXb7agAABB_G.jpg) 
+
+![](https://pbs.twimg.com/media/FzcZcdQaMAE9LvB.jpg) 
+#+END_QUOTE
+    date:: [[2023-06-25]]
+*** from _Tweets From 宝玉_ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1672835903658823680)

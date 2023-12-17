@@ -1,0 +1,102 @@
+:PROPERTIES:
+:title: readwise/怎么用 GPT 建立自己的人工智能知识库 1_...
+:END:
+
+:PROPERTIES:
+:author: [[nishuang on Twitter]]
+:full-title: "怎么用 GPT 建立自己的人工智能知识库 1/..."
+:category: [[tweets]]
+:url: https://twitter.com/nishuang/status/1627444608937385984
+:image-url: https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+怎么用 GPT 建立自己的人工智能知识库
+
+1/
+
+今天测试了 @Tisoga 的又一个 AI 工具：基于 ChatGPT 背后的原理，利用公开资料创造专用的 AI 知识库、回答用户在特定领域的特定提问
+
+这个 Copilot Hub 现在提供了和纳瓦尔聊天、乔布斯思想、创业问答、苏格拉底思想和 CEO 基因几个独立的 AI 问答/知识库 
+
+![](https://pbs.twimg.com/media/FpXWochXwAAQ_20.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
+*** [View Tweet](https://twitter.com/nishuang/status/1627444608937385984)
+** 📌
+#+BEGIN_QUOTE
+2/
+
+先说测试结果
+
+我很好奇，用比 ChatGPT 小几个数量级的迷你 AI，能得到什么答案。结果问该领域的具体问题，回答比预计的靠谱。比如
+
+\- 问乔布斯：功能和设计哪个更重要
+- 问苏格拉底：灵魂是什么
+
+但是遇到超越专业的问题，它似乎比 ChatGPT 更不靠谱。比如它说老子和法子都提到过苏格拉底的思想🌑 
+
+![](https://pbs.twimg.com/media/FpXYKo8XsAQrC4G.png) 
+
+![](https://pbs.twimg.com/media/FpXYL-MXwAIMTmD.png) 
+
+![](https://pbs.twimg.com/media/FpXYNB-X0AAh0ZO.png) 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
+*** [View Tweet](https://twitter.com/nishuang/status/1627444610438930433)
+** 📌
+#+BEGIN_QUOTE
+3/
+
+现在 AI 项目多如牛毛，高级到创造国家基础设施级 OpenAI 竞品，细微到用 AI 写周报的小工具，快到拿 AI 做资讯、卖课程赚现钱，慢到试图用 AI 解决“教育”这种影响全人类发展历程的长远项目
+
+我说“专用 AI 知识库”，其实把它说小了几个数量级，它不仅仅是搭个客服系统，或为企业专有信息做个知识库 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
+*** [View Tweet](https://twitter.com/nishuang/status/1627458053195833345)
+** 📌
+#+BEGIN_QUOTE
+4/
+
+我们获取信息、资讯、知识…的角色、场景、需求都不同
+
+角色的例子：同样是学外语，小朋友、大学生、研究者要求不同
+
+场景的例子：两个中国文化 AI，一个面向学汉语、一个着重于输出中国文化，它们无论外表多相似，输出内容会完全不同
+
+需求的例子：医疗类 AI 需要高度精准，而明星八卦 AI 随便聊 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
+*** [View Tweet](https://twitter.com/nishuang/status/1627458054412197888)
+** 📌
+#+BEGIN_QUOTE
+5/
+
+这些不同，带来了商业模式和产品设计的各种新挑战。
+
+这两块也都是我的客户和我自己最关注的，因此我觉得 Copilot Hub 这样的项目特别有意思，它从相对细节的切入点，来尝试怎么利用 AI 带来的可能性、解决它先天的问题
+
+比如：
+
+1）怎么用很少的原始数据来训练 GPT 这类 AI？
+
+GPT-3 有 1750… https://t.co/63D4sbG9wU 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
+*** [View Tweet](https://twitter.com/nishuang/status/1627480314535608320)
+** 📌
+#+BEGIN_QUOTE
+6/
+
+补充 Copilot Hub 的测试地址 https://t.co/PnBcDhqr2j 
+#+END_QUOTE
+    date:: [[2023-02-21]]
+*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
+*** [View Tweet](https://twitter.com/nishuang/status/1627666019488505859)

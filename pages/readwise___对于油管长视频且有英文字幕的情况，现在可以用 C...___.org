@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: readwise/对于油管长视频且有英文字幕的情况，现在可以用 C...
+:END:
+
+:PROPERTIES:
+:author: [[daydayuuup on Twitter]]
+:full-title: "对于油管长视频且有英文字幕的情况，现在可以用 C..."
+:category: [[tweets]]
+:url: https://twitter.com/daydayuuup/status/1680573627303952385
+:image-url: https://pbs.twimg.com/profile_images/1708716174207557632/ss_G7Y4U.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+对于油管长视频且有英文字幕的情况，现在可以用 Claude2 上传txt文件，然后让它将口语化的字幕内容，转为通顺完整的文章，方便阅读。1.下载字幕文件 https://t.co/PJggqZUzsK 2.访问 Claude 网页上传附件，输入prompt。https://t.co/QBLgxgvQAI 
+#+END_QUOTE
+    date:: [[2023-07-17]]
+*** from _对于油管长视频且有英文字幕的情况，现在可以用 C..._ by @daydayuuup on Twitter
+*** [View Tweet](https://twitter.com/daydayuuup/status/1680573627303952385)
+** 📌
+#+BEGIN_QUOTE
+单纯翻译字幕文件的话，只能对时间轴的每一个句子进行翻译，这样其实非常不连贯，无法理解。所以将字幕内容打包给AI处理是目前最好的方法。如果视频没有字幕文件，可以用之前推荐过的 MEMO 转录。 
+
+![](https://pbs.twimg.com/media/F1KbrpBaYAEzHZC.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-17]]
+*** from _对于油管长视频且有英文字幕的情况，现在可以用 C..._ by @daydayuuup on Twitter
+*** [View Tweet](https://twitter.com/daydayuuup/status/1680576793281978369)
+** 📌
+#+BEGIN_QUOTE
+其实单纯让 Claude 直接翻译也可以，它会自动整理为段落文章，不过它不能一次性翻译出来，需要你提醒它，如果有未完成的内容让它告诉你，你继续。 
+
+![](https://pbs.twimg.com/media/F1Kcx3BaMAAaKhw.jpg) 
+
+![](https://pbs.twimg.com/media/F1Kcx3AacAA83c4.jpg) 
+#+END_QUOTE
+    date:: [[2023-07-17]]
+*** from _对于油管长视频且有英文字幕的情况，现在可以用 C..._ by @daydayuuup on Twitter
+*** [View Tweet](https://twitter.com/daydayuuup/status/1680578005662412802)

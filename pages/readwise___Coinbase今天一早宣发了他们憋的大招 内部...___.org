@@ -1,0 +1,135 @@
+:PROPERTIES:
+:title: readwise/Coinbase今天一早宣发了他们憋的大招 内部...
+:END:
+
+:PROPERTIES:
+:author: [[0xthefool on Twitter]]
+:full-title: "Coinbase今天一早宣发了他们憋的大招 内部..."
+:category: [[tweets]]
+:url: https://twitter.com/0xthefool/status/1628859081871196161
+:image-url: https://pbs.twimg.com/profile_images/1601269742001876993/NRtOBGOS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+Coinbase今天一早宣发了他们憋的大招 内部孵化的以太坊Layer 2公链测试网正式上线，临时组织了一个没有录音的8千人AMA活动。
+
+我总结了他们所有的分享，和大家一起来看看Base是什么、为什么Coinbase要建设Base、用户如何现在使用测试网、使用跨链桥、获得测试币以及免费的纪念NFT等关键信息 。 1/10 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859081871196161)
+** 📌
+#+BEGIN_QUOTE
+2/ Base是什么？
+
+Base是Coinbase所孵化的以太坊Layer 2公链，Base基于Optimism的开源项目OP Stack开发，。Coinbase希望将Base打造成一个高安全性、低成本、适合开发的链上生态，并且帮助Coinbase公司上链转型。
+
+Base不仅仅帮助用户使用以太坊的L1/L2，还会链接Bitcoin, Solana, and Cosmos等生态。 https://t.co/OldYj88TXm 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859084383612929)
+** 📌
+#+BEGIN_QUOTE
+3/ 为什么Coinbase要建设Base？
+
+Coinbase希望打造一个开放的金融体系，将十亿人带入加密。在过去十年里已经陪伴行业完成了前三个阶段 - 协议、基础设施和用户界面的搭建，但是DApp的繁荣却还未到来。
+
+Coinbase在努力推出更多链上产品中也遇到很多困难，他们认为Base可以让开发者更轻松解决这些问题。 
+
+![](https://pbs.twimg.com/media/FpreteGaUAAauA_.png) 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859094126977024)
+** 📌
+#+BEGIN_QUOTE
+4/ Base对于Coinbase到底有什么作用？
+
+大话说完了看本质，Coinbase发布Base公链是为了达到四个目的：
+1 - 提供开发者服务，让更多人选择Base开发部署产品
+2 - 增加基础设施投资，与Binance的BSC争锋
+3 - 帮助Coinbase内部产品上链，而且是上自己的链
+4 - 吸引更多加密用户，把蛋糕做大 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859097578893312)
+** 📌
+#+BEGIN_QUOTE
+5/ 普通用户如何使用Base测试网？
+
+方法一 - 使用Coinbase钱包，直接在网络设置中选择Base Goerli测试网
+
+方法二 - 使用Metamask，手动添加下图网络信息，使用前请务必查看官方信息（永远不要相信别的提供的二手数据） - https://t.co/ekStFuYlAE 
+
+![](https://pbs.twimg.com/media/FpreuIQakAAyJb0.png) 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859105279631360)
+** 📌
+#+BEGIN_QUOTE
+6/ 普通用户怎么获得测试币？
+
+方法一：直接使用Base的水龙头（Faucet），目前三个水龙头可以使用。使用Coinbase Wallet的开发者设置里可以直接获得0.1测试币。使用https://t.co/IM0tZsP2mC 可以获得0.15币。使用 https://t.co/Md4VI2skl1 发推可以获得0.2币。
+
+方法二：从Goerli跨链 - 见下文 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859108752494592)
+** 📌
+#+BEGIN_QUOTE
+7/ 如何从ETH跨链到Base
+
+目前Base仅有测试网，所以当前只能从ETH Goerli跨链到Base Goerli。
+
+方法一：直接使用Base官方的跨链桥 - https://t.co/yRfvCac3II 连上钱包直接交互转换，亲测15-20秒搞定，很方便
+
+方法二：使用中介合约(Proxy Contract) - ETH Goerli发送token到
+https://t.co/iCdpShTRTv 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859111470424064)
+** 📌
+#+BEGIN_QUOTE
+8/ 如何成为测试网节点
+
+两个平台都可以直接免费部署自己的Base Goerli节点：
+
+QuickNode - https://t.co/jq2iF9oZqJ
+BlockDaemon - https://t.co/h1AvCxw4qC
+
+此外Infura（https://t.co/2UmK04YJpz） 正在开放Base Goerli节点waitlist 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859114213494784)
+** 📌
+#+BEGIN_QUOTE
+9/ 限时Base纪念NFT免费铸造
+
+可以免费铸造一份纪念NFT，尽管coinbase说不打算发币但是或许未来会有特殊福利和机会哈哈，还有三天的时间，可以找一个gas 低的时候去mint。
+
+https://t.co/JQcaCqouTJ 
+
+![](https://pbs.twimg.com/media/FprevIbaQAAaQEp.jpg) 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859125320015872)
+** 📌
+#+BEGIN_QUOTE
+10/ 更多信息
+
+官方文档：https://t.co/i24yXk16Na
+开源代码库：https://t.co/3mHIRBEHGK
+项目官网：https://t.co/0PrNIZziln 
+#+END_QUOTE
+    date:: [[2023-02-25]]
+*** from _Coinbase今天一早宣发了他们憋的大招 内部..._ by @0xthefool on Twitter
+*** [View Tweet](https://twitter.com/0xthefool/status/1628859129539477504)

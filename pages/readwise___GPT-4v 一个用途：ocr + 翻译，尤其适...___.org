@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: readwise/GPT-4v 一个用途：ocr + 翻译，尤其适...
+:END:
+
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "GPT-4v 一个用途：ocr + 翻译，尤其适..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1713974931803828287
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+GPT-4V 一个用途：OCR + 翻译，尤其适合读论文，看英文文字配图。
+
+Prompt 参考：
+
+\----
+请提取文章中的文字，并用Markdown格式结构化显示。输出格式如下：  
+
+<英文原文Markdown>  
+
+<简体中文翻译Markdown>
+--- 
+
+![](https://pbs.twimg.com/media/F8lDCO4XsAA9Jpp.png) 
+
+![](https://pbs.twimg.com/media/F8lDFNSXgAApjgo.jpg) 
+#+END_QUOTE
+    date:: [[2023-10-17]]
+*** from _GPT-4v 一个用途：ocr + 翻译，尤其适..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1713974931803828287)
+** 📌
+#+BEGIN_QUOTE
+测试了一下让它把数学公式转成Markdown格式，基本正确，有一点小错误，懂 LaText 的应该很容易修复 
+
+![](https://pbs.twimg.com/media/F8lT5gtXsAAfuli.jpg) 
+
+![](https://pbs.twimg.com/media/F8lT-8qXoAEPPYx.jpg) 
+#+END_QUOTE
+    date:: [[2023-10-17]]
+*** from _GPT-4v 一个用途：ocr + 翻译，尤其适..._ by @dotey on Twitter
+*** [View Tweet](https://twitter.com/dotey/status/1713993527980425285)

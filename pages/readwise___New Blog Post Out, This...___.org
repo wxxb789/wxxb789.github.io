@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/New Blog Post Out, This...
+:END:
+
+:PROPERTIES:
+:author: [[artix41 on Twitter]]
+:full-title: "New Blog Post Out, This..."
+:category: [[tweets]]
+:url: https://twitter.com/artix41/status/1657976377520590848
+:image-url: https://pbs.twimg.com/profile_images/1269996144823881728/a0cDnO4A.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+New blog post out, this time on the surface code! I've had a lot of fun integrating my visualisation tool (https://t.co/YVYboiU0sP) into it, so you will be able to interact with the different variants of the surface code that I present here :)
+
+https://t.co/vJ6IISVs5T 
+#+END_QUOTE
+    date:: [[2023-05-16]]
+*** from _New Blog Post Out, This..._ by @artix41 on Twitter
+*** [View Tweet](https://twitter.com/artix41/status/1657976377520590848)
+** 📌
+#+BEGIN_QUOTE
+While my post focuses on the QEC perspective, the surface code is also well-studied in condensed matter and a prime example of interaction between the two fields. To learn more about it, go read @DomKufel's complementary blog post on the topic!
+
+https://t.co/IPInOjleHx 
+#+END_QUOTE
+    date:: [[2023-05-16]]
+*** from _New Blog Post Out, This..._ by @artix41 on Twitter
+*** [View Tweet](https://twitter.com/artix41/status/1657988209870249985)

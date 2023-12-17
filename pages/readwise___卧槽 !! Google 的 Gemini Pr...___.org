@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/卧槽 !! Google 的 Gemini Pr...
+:END:
+
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "卧槽 !! Google 的 Gemini Pr..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1736049163471896985
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-18]]
+** 📌
+#+BEGIN_QUOTE
+卧槽 !! Google 的 Gemini Pro 真的要出来砸场子了：
+
+https://t.co/Pnxyk9NqL0
+
+每分钟 60轮对话，免费白嫖 , G-AI Studio 就是 OpenAI 的 Playground, 一样的配方
+
+但是，Gemini Pro 不会偷懒，妥妥一话痨，长篇大论 
+
+![](https://pbs.twimg.com/media/GBeuiuHa0AAG5-e.png) 
+
+![](https://pbs.twimg.com/media/GBeu3jybsAA6IWK.jpg) 
+
+![](https://pbs.twimg.com/media/GBeu7etbUAAUYnI.png) 
+#+END_QUOTE
+    date:: [[2023-12-16]]
+*** from _卧槽 !! Google 的 Gemini Pr..._ by @huangyun_122 on Twitter
+*** [View Tweet](https://twitter.com/huangyun_122/status/1736049163471896985)
