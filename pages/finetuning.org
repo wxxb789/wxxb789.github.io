@@ -1,0 +1,19 @@
+#+alias: fine-tuning, fine tune, finetune,
+
+* related tags
+** [[lora]]
+** [[qlora]]
+** [[rlhf]]
+** [[peft]]
+** [[instruction-tuning]]
+** [[quantization]]
+* projects
+** [[https://github.com/Lightning-AI/lit-gpt][Lightning-AI/lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (github.com)]]
+** [[https://github.com/hiyouga/LLaMA-Factory][hiyouga/LLaMA-Factory: Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM) (github.com)]]
+** [[https://github.com/microsoft/LoRA][microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models" (github.com)]]
+** [[https://github.com/stochasticai/xTuring][stochasticai/xTuring: Easily build, customize and control your own LLMs (github.com)]]
+** [[https://github.com/ludwig-ai/ludwig][ludwig-ai/ludwig: Low-code framework for building custom LLMs, neural networks, and other AI models (github.com)]]
+** [[https://github.com/h2oai/h2o-llmstudio][h2oai/h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/]]
+** [[https://github.com/promptslab/LLMtuner][promptslab/LLMtuner: Tune LLM in few lines of code (github.com)]]
+** [[https://github.com/QingruZhang/AdaLoRA][QingruZhang/AdaLoRA: AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning (ICLR 2023). (github.com)]]
+**
