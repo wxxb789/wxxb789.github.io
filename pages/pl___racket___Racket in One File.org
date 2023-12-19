@@ -1,7 +1,7 @@
 #+title: pl/racket/Racket in One File
 #+tags: racket, scheme, lisp
 
-* link
+* [[links]]
 ** [[https://tyrchen.github.io/racket-book/index.html][Racket 语言入门]] and [[http://racket.tchen.me/][Racket 语言入门]]
 ** [[https://learnxinyminutes.com/docs/racket/][Learn X in Y minutes Where X=racket]]
 *

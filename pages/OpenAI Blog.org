@@ -1,0 +1,2 @@
+* [[links]]
+** [[https://openai.com/blog][Blog (openai.com)]]

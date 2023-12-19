@@ -44,7 +44,8 @@ NeuriPS 2020.
 ** 2023 lifearchitect.ai data shared
 ** data used by openai
 * [[SeIf-supervised Training Objectives for Pre-trained Language ModeI]]
-* link： lifearchitect.ai/models
+* [[links]]
+lifearchitect.ai/models
 * tuning and prompting
 * model shifting
 ** specific task -> general purpose

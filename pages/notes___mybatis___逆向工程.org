@@ -1,11 +1,9 @@
-
-
 * 逆向工程生成bean与dao层
 
 
 1. 导入逆向工程生成javabean的项目
 
-   1. 项目位置：[[file:///G:/JAVA游戏/4.框架/3.MyBatis/MyBatis逆向工程][mybatis_reverse_engineering]]
+   1. 项目位置：
    2. 更改项目的jdk：导入适配所用编辑器的jdk
 
 2. 编辑config/generatorConfig.xml文件

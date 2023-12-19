@@ -1,0 +1,3 @@
+* [[links]]
+** [[https://cookbook.openai.com/][OpenAI Cookbook]]
+*

@@ -1,0 +1,84 @@
+* page title
+
+#+BEGIN_SRC jinja
+readwise/{{full_title | replace("/", "_") | truncate(96) | trim}}
+#+END_SRC
+* page metadata
+
+#+BEGIN_SRC jinja
+{%- if true %}
+:PROPERTIES:
+{%- endif -%}
+{% if author | length < 32 %}
+:author: [[{{author.replace('@', '') | trim}}]]
+{%- endif-%}
+{% if full_title %}
+:full-title: "{{full_title | trim}}"
+{%- endif-%}
+{% if category %}
+:category: [[{{category | trim}}]]
+{%- endif-%}
+{% if url %}
+:url: {{url | trim}}
+{%- endif -%}
+{% if document_note %}
+:document_note: {{document_note | trim}}
+{%- endif -%}
+{% if document_tags %}
+:tags: {%- for tag in document_tags -%} [[{{tag | trim}}]], {%- endfor -%} 
+{%- endif -%}
+{% if image_url %}
+:image-url: {{image_url | trim}}
+{%- endif -%}
+{% if true %}
+:END:
+{% endif %}
+#+END_SRC
+* highlights header
+
+#+BEGIN_SRC jinja
+{% if is_new_page %}
+Highlights first synced by [[Readwise]] [[{{date}}]]
+{% elif has_new_highlights %}
+New highlights added [[{{date}}]] at {{time}}
+{% endif %}
+#+END_SRC
+* highlight
+
+#+BEGIN_SRC jinja
+{%- if true %}{{'📌'}}{%- endif -%}\ 
+{%- if true %}
+{{'#+BEGIN_QUOTE'}}{%- endif -%}\ 
+{%- if true %}
+{{ highlight_text }}{{' '}}
+{%- endif -%}\ 
+{%- if true %}
+{{'#+END_QUOTE'}}
+{%- endif -%}\ 
+{%- if highlight_date %}
+    date:: [[{{highlight_date}}]] 
+{%- endif -%}\ 
+{%- if highlight_tags %}
+    tags:: {% for tag in highlight_tags %}#[[{{tag}}]] {% endfor %} 
+{%- endif %}
+
+    - from _{{title}}_ {% if author %}by {{author}}{% endif %}
+
+{%- if highlight_location and highlight_location_url %}
+    [{{highlight_location}}]({{highlight_location_url}})
+{% elif highlight_location %}
+    ({{highlight_location}})
+{%- endif %}
+
+    {% if highlight_note %}
+    {%- if true %}{{'Note:'}}{%- endif -%}\ 
+        {%- if true %}
+            > {{highlight_note}}
+        {%- endif -%}
+    {% endif %}
+#+END_SRC
+* sync notification
+
+#+BEGIN_SRC jinja
+On [[{{date}}]] at {{time}} Readwise synced {{num_highlights}} highlight{{num_highlights|pluralize}} from {{num_books}} book{{num_books|pluralize}}.
+#+END_SRC

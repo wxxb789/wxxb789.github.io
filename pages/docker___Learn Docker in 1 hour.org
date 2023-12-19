@@ -1,7 +1,8 @@
 #+title: Docker/Learn Docker in 1 hour
 #+tags: docker, container
 
-* [[https://www.bilibili.com/video/BV11L411g7U1][Bilibili Link]]
+* [[bilibili]] 
+[[https://www.bilibili.com/video/BV11L411g7U1][Learn Docker in 1 hour]]
 * Basic Usage
 ** Install docker and docker desktop
 *** Add Mirror to Docker Engine config

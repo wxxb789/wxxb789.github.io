@@ -1,7 +1,13 @@
 #+tags: DLAI, AI, Course,
+#+alias: deeplearning.ai/ShortCourses, DLAI/SC,
 
+* [[https://www.deeplearning.ai/short-courses/][Short Courses | Learn Generative AI from DeepLearning.AI]]
+* [[bilibili]]
+** [[https://space.bilibili.com/243505935/channel/seriesdetail?sid=3248149][智能工程搬砖师的个人空间]]
+deeplearning.ai 短课程
 * [[ChatGPT Prompt Engineering for Developers]]
 * [[LangChain for LLM Application Development]]
 * [[Building Systems with the ChatGPT API]]
 * [[How Diffusion Models Work]]
 * [[LangChain: Chat with Your Data]]
+*

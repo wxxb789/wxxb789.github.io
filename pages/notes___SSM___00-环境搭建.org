@@ -5,9 +5,6 @@
 
 1. 创建Web工程，加载整合类库，设置xml编写的弹出机制；
 
-   1. 类库位置：[[file:///G:/JAVA游戏/4.框架/3.MyBatis/SpringMVC4.0-MyBatis3.2-Libraries][SpringMVC4.0-MyBatis3.2-Libraries]]
+   1. 类库位置：
    2. 引入约束文档
-
-      1. [[file:///G:/JAVA游戏/4.框架/3.MyBatis/SpringMVC4.0-MyBatis3.2-Libraries/spring-aop-4.0.2.RELEASE/org/springframework/aop/config][spring-aop-3.2.xsd]]
-      2. [[file:///G:/JAVA游戏/4.框架/3.MyBatis/SpringMVC4.0-MyBatis3.2-Libraries/spring-tx-4.0.2.RELEASE/org/springframework/transaction/config][spring-tx-3.2.xsd]]
 *

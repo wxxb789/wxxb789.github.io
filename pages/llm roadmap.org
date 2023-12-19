@@ -1,23 +1,6 @@
 #+public: true
 #+tags: gpt, llm, openai, ai,
 
-* resources
-** [[links]]
-*** [[https://cookbook.openai.com/][OpenAI Cookbook]]
-openai doc
-*** [[https://www.youtube.com/@OpenAI][OpenAI YouTube]]
-openai conference
-*** [[https://openai.com/blog][Blog (openai.com)]]
-openai blog
-*** [[https://www.deeplearning.ai/short-courses/][Short Courses | Learn Generative AI from DeepLearning.AI]]
-deeplearning.ai 短课程
-*** [[https://space.bilibili.com/243505935/channel/seriesdetail?sid=3248149][智能工程搬砖师的个人空间]]
-deeplearning.ai 短课程
-*** [[https://microsoft.github.io/AI-For-Beginners/][AI for Beginners (microsoft.github.io)]]
-Microsoft AI programming tutorial
-** [[Book]]
-*** [[https://book.douban.com/subject/36449803/][这就是ChatGPT (豆瓣) (douban.com)]]
-作者 Stephen Wolfram，计算机科学、数学和理论物理学家，当今科学和技术领域重要的革新者之一。
 * concepts
 ** [[prompt]]
 *** 描述
