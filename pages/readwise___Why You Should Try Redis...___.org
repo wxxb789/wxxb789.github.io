@@ -2,6 +2,8 @@
 :title: readwise/Why You Should Try Redis...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mjovanovictech on Twitter]]
 :full-title: "Why You Should Try Redis..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Why you should try Redis for caching 🔥
@@ -23,7 +25,7 @@ Redis is a powerful in-memory data structure store that's perfect for improving 
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331748207300621)
+*** [[https://twitter.com/mjovanovictech/status/1606331748207300621][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 One of the key benefits of Redis is its ability to handle large amounts of data with ease.
@@ -32,14 +34,14 @@ By storing your data in memory instead of on disk, Redis allows for faster acces
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331752091226122)
+*** [[https://twitter.com/mjovanovictech/status/1606331752091226122][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 This is particularly useful for high-traffic websites or applications that require real-time data processing. 
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331755023044623)
+*** [[https://twitter.com/mjovanovictech/status/1606331755023044623][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Redis is also highly scalable, which makes it well-suited for growing web apps.
@@ -50,7 +52,7 @@ This can save you from having to constantly upgrade your hardware.
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331757933969408)
+*** [[https://twitter.com/mjovanovictech/status/1606331757933969408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Another advantage of Redis is its support for multiple data structures. Redis can store data as:
@@ -62,7 +64,7 @@ Another advantage of Redis is its support for multiple data structures. Redis ca
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331761213988866)
+*** [[https://twitter.com/mjovanovictech/status/1606331761213988866][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Giving you flexibility in how you organize and access your data.
@@ -71,7 +73,7 @@ This makes it easy to model and query your data in a way that makes sense for yo
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331765093675008)
+*** [[https://twitter.com/mjovanovictech/status/1606331765093675008][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Redis is also popular and widely used in the industry, so there are many resources and support available.
@@ -82,7 +84,7 @@ This makes it easy to integrate Redis into your existing ASP .NET Core code.
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331768004415488)
+*** [[https://twitter.com/mjovanovictech/status/1606331768004415488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 In conclusion, Redis is a great choice for caching in ASP .NET Core web applications.
@@ -91,7 +93,7 @@ Its in-memory data store, scalability, and support for multiple data structures 
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331770755878913)
+*** [[https://twitter.com/mjovanovictech/status/1606331770755878913][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you enjoyed this Tweet thread, you might like my weekly .NET newsletter.
@@ -103,4 +105,4 @@ https://t.co/zcETFCV26x
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Why You Should Try Redis..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1606331774220374018)
+*** [[https://twitter.com/mjovanovictech/status/1606331774220374018][View Tweet]]

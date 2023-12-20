@@ -2,6 +2,8 @@
 :title: readwise/No AWS? No Azure? No GCP...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[abhi1thakur on Twitter]]
 :full-title: "No AWS? No Azure? No GCP..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1603376537939705856/7evOameA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 No AWS? No Azure? No GCP? 😥
@@ -20,7 +22,7 @@ Your training will start in a few seconds and space will shutdown on its own aft
 #+END_QUOTE
     date:: [[2023-08-18]]
 *** from _No AWS? No Azure? No GCP..._ by @abhi1thakur on Twitter
-*** [View Tweet](https://twitter.com/abhi1thakur/status/1692060184057696464)
+*** [[https://twitter.com/abhi1thakur/status/1692060184057696464][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 For issues and feature requests, here's the github repo ⭐️
@@ -28,4 +30,4 @@ https://t.co/EgQoumFGfw
 #+END_QUOTE
     date:: [[2023-08-18]]
 *** from _No AWS? No Azure? No GCP..._ by @abhi1thakur on Twitter
-*** [View Tweet](https://twitter.com/abhi1thakur/status/1692061948483924039)
+*** [[https://twitter.com/abhi1thakur/status/1692061948483924039][View Tweet]]

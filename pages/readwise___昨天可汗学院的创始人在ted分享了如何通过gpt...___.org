@@ -2,6 +2,8 @@
 :title: readwise/昨天可汗学院的创始人在ted分享了如何通过gpt...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[starzqeth on Twitter]]
 :full-title: "昨天可汗学院的创始人在ted分享了如何通过gpt..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1573915848384778241/pONOmFm3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 昨天可汗学院的创始人在TED分享了如何通过GPT-4实现1对1辅导提高学生表现的案例，非常精彩
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278492538937351)
+*** [[https://twitter.com/starzqeth/status/1654278492538937351][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1️⃣ 阅读理解：直接和角色对话，再也不用瞎猜
@@ -47,7 +49,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278510696071170)
+*** [[https://twitter.com/starzqeth/status/1654278510696071170][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这个学生让 Khanmigo (可汗学院基于 GPT-4 的 ChatBot) 化身为盖茨比，这个 Khanmigo 还真的一秒入戏，回答如下
@@ -58,7 +60,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278563049373699)
+*** [[https://twitter.com/starzqeth/status/1654278563049373699][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 「…和与黛西——我生命中的爱人重聚的希望。绿灯不断提醒我们美国梦难以捉摸、现实与愿景之间存在巨大距离。那么，请告诉我，你是否曾经有一个看似遥不可及的梦想或渴望呢？」
@@ -75,7 +77,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278580451545088)
+*** [[https://twitter.com/starzqeth/status/1654278580451545088][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2️⃣  1 对 1 辅导：授之以渔，而不是授之于鱼
@@ -88,7 +90,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278584364834816)
+*** [[https://twitter.com/starzqeth/status/1654278584364834816][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \- Khanmigo上会显示：所有的聊天记录都会被老师看到，避免学生「走捷径」
@@ -100,7 +102,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278622004523008)
+*** [[https://twitter.com/starzqeth/status/1654278622004523008][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 可汗说他们在去年 8 月就拿到了 GPT-4 的权限，然后花了 6 个月时间做 prompt 工程，以及大量 fine-tune, 让 Khanmigo 学会如何一步步「授之以渔」
@@ -113,7 +115,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278633186553859)
+*** [[https://twitter.com/starzqeth/status/1654278633186553859][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3️⃣ AI 辩手：锻炼思辨能力
@@ -126,7 +128,7 @@
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278686055743488)
+*** [[https://twitter.com/starzqeth/status/1654278686055743488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4️⃣ AI导师：分享学科意义
@@ -143,7 +145,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278697883684866)
+*** [[https://twitter.com/starzqeth/status/1654278697883684866][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 意义是我们做绝大多数事情的原因，但作为新人，又很难 get 到为啥要学 xxx, 最后导致很多重要的知识当初没有掌握
@@ -158,7 +160,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278705647341574)
+*** [[https://twitter.com/starzqeth/status/1654278705647341574][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 总结一下，ChatGPT类工具在教育中的4个重要用法，对成人学习也很有帮助
@@ -174,7 +176,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278708847611907)
+*** [[https://twitter.com/starzqeth/status/1654278708847611907][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最后谈谈我对GPT/LLM在教育中的看法
@@ -189,7 +191,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278711506780161)
+*** [[https://twitter.com/starzqeth/status/1654278711506780161][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 没有什么知识和技能可以永恒，我们的一生会在不断地学习新知识新技能中度过
@@ -202,7 +204,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278714128211968)
+*** [[https://twitter.com/starzqeth/status/1654278714128211968][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \- BERT+Fine tuning (传统 AI)：让一个刚识字的小朋友到流水线上去训练拧螺丝，一直拧到十八岁，变成了优秀的拧螺丝工——但无法胜任其他工作。
@@ -213,7 +215,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278716632227841)
+*** [[https://twitter.com/starzqeth/status/1654278716632227841][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 新时代的人才要求，跟打造ChatGPT是一样的，触类旁通的学习能力 >> 某个领域的单一技能
@@ -226,7 +228,7 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278719236866049)
+*** [[https://twitter.com/starzqeth/status/1654278719236866049][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最后附上可汗在 TED 演讲的完整视频，感谢他对教育做出的贡献
@@ -243,7 +245,7 @@ btw, 昨天在朋友圈看到一位新加坡妈妈分享，其小朋友所在小
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278732604145666)
+*** [[https://twitter.com/starzqeth/status/1654278732604145666][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 希望这条🧵对你有帮助
@@ -255,4 +257,4 @@ btw, 昨天在朋友圈看到一位新加坡妈妈分享，其小朋友所在小
 #+END_QUOTE
     date:: [[2023-05-05]]
 *** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1654278736358043649)
+*** [[https://twitter.com/starzqeth/status/1654278736358043649][View Tweet]]

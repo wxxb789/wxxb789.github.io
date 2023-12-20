@@ -2,6 +2,8 @@
 :title: readwise/Let's Discuss Step-Back...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[IntuitMachine on Twitter]]
 :full-title: "Let's Discuss Step-Back..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/922432805426130944/Zv5SABlH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Let's discuss Step-Back Prompting
@@ -45,14 +47,14 @@ We teach the LLMs this strategy of abstraction before reasoning by showing them 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [View Tweet](https://twitter.com/IntuitMachine/status/1712174264747479233)
+*** [[https://twitter.com/IntuitMachine/status/1712174264747479233][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 BTW, I forgot to mention.  If you want to get a map of the multitude of prompting methods that's been discovered, get my book:  https://t.co/sQXPgWZxIJ 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [View Tweet](https://twitter.com/IntuitMachine/status/1712174645640581217)
+*** [[https://twitter.com/IntuitMachine/status/1712174645640581217][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 STEP-BACK Prompting compares favorably to other prompting methods like Chain-of-Thought (CoT) and Take-a-Deep-Breathe (TDB) as well as retrieval augmentation:
@@ -83,7 +85,7 @@ In summary, STEP-BACK consistently outperforms other prompting methods because i
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [View Tweet](https://twitter.com/IntuitMachine/status/1712175237930860934)
+*** [[https://twitter.com/IntuitMachine/status/1712175237930860934][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Step-back prompting and task decomposition are related strategies for improving reasoning in large language models, but have some key differences:
@@ -128,11 +130,11 @@ So in summary, decomposition breaks the question down into more bitesized pieces
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [View Tweet](https://twitter.com/IntuitMachine/status/1712176970622964135)
+*** [[https://twitter.com/IntuitMachine/status/1712176970622964135][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 For more details, join our exponentially exploding community! https://t.co/An53B3CjC8 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [View Tweet](https://twitter.com/IntuitMachine/status/1712177386479829485)
+*** [[https://twitter.com/IntuitMachine/status/1712177386479829485][View Tweet]]

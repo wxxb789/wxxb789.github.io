@@ -2,6 +2,8 @@
 :title: readwise/2023-24: 漩涡事件反思录
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Xuanwo's Blog]]
 :full-title: "2023-24: 漩涡事件反思录"
@@ -10,18 +12,18 @@
 :image-url: https://xuanwo.io/favicon.ico
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 PingCAP 历史上首先基于 Hive 开发出了第一版 [TiDB](https://github.com/pingcap/tidb)，当时 TiDB 更接近与一个 Proxy，并没有自己的存储层。后来 PingCAP 使用 Rust 开发了 [TiKV](https://github.com/tikv/tikv)，TiDB 与 TiKV 之间使用 gRPC 通信，所使用的 protobuf 定义就在 [tipb](https://github.com/pingcap/tipb/) 项目中，后续 TiFlash 也同样使用 tipb 与 TiKV 通信。 
 #+END_QUOTE
     date:: [[2023-06-15]]
 *** from _2023-24: 漩涡事件反思录_ by Xuanwo's Blog
-*** [View Highlight](https://read.readwise.io/read/01h2z8xrzcdted1md9eaj2wjqv)
+*** [[https://read.readwise.io/read/01h2z8xrzcdted1md9eaj2wjqv][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 从这个历史沿革中不难得出如下结论：TiKV 和 TiPB 都是为了 TiDB/TiFlash 服务的，TiPB 尽管形式上是一个独立的项目，但是其资源分配和 PR Review 受到 TiDB/TiFlash 的高度制约。换句话来说，在没有 TiDB/TiFlash 主动发起的前提下，对 TiPB 做任何形式的修改，都需要来自 TiDB/TiFlash 团队的 Review。因此我们可以看到 PR#208 等待了很久只获得了一个无权限的 Approve，而 PR#217 在发起的当天就获得了合并。从实际的情况来看，TiPB 完全是一个内部项目，只是不得不对外开源。 
 #+END_QUOTE
     date:: [[2023-06-15]]
 *** from _2023-24: 漩涡事件反思录_ by Xuanwo's Blog
-*** [View Highlight](https://read.readwise.io/read/01h2z8z4fsjwpscxtfy6btxksd)
+*** [[https://read.readwise.io/read/01h2z8z4fsjwpscxtfy6btxksd][View Highlight]]

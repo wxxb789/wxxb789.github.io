@@ -2,6 +2,8 @@
 :title: readwise/导读 | 这一回，从门外汉到 80 分投资者
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[youzhiyouxing.cn]]
 :full-title: "导读 | 这一回，从门外汉到 80 分投资者"
@@ -10,14 +12,14 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 后来的事情验证了我的判断，2007 年 10 月，在「迎接奥运」和「黄金十年」口号最响亮的时候，牛市走到了尾声，开始从最高点 6124 下跌，最低跌到 2008 年金融危机时的 1664 点，跌幅高达 72.8%。 
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjgy3bxzf812vdjjav0fd66)
+*** [[https://read.readwise.io/read/01gqjgy3bxzf812vdjjav0fd66][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 失之东隅，收之桑榆。我对投资产生了浓厚的兴趣，开始系统性的学习。我阅读了几乎能找到的所有投资书籍，也是雪球最早期的用户。
@@ -26,21 +28,21 @@
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjgyvg4m9cwzqqq8smyz59m)
+*** [[https://read.readwise.io/read/01gqjgyvg4m9cwzqqq8smyz59m][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 2017 年 9 月的一个午后，为了更好地吃自己的狗粮（使用自己的产品），我开始写「孟岩投资实证」，通过每周一篇文章的方式来记录自己使用且慢投资的实盘业绩，并写下有关投资、创业的所思所想。 
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjgzpdetcp1m1w23vdf1njb)
+*** [[https://read.readwise.io/read/01gqjgzpdetcp1m1w23vdf1njb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们证明了，投资者教育并非不可能之事，我们可以和用户一起学习投资，共同成长，收获沉甸甸的收益。 
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjh10zxs4fnsady01a2108j)
+*** [[https://read.readwise.io/read/01gqjh10zxs4fnsady01a2108j][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://asset.youzhiyouxing.cn/image/2020/12/01/01ERETD53FSSZRW8TQC7AGRW10.png?x-oss-process=image/resize,w_1280,limit_1)
@@ -49,7 +51,7 @@ Sun 历史股价 | 来源 Lee Devlin's Website
 #+END_QUOTE
     date:: [[2023-01-31]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gr1qq5kyek644vmgfceqcv7z)
+*** [[https://read.readwise.io/read/01gr1qq5kyek644vmgfceqcv7z][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 潇雨老师一直在做投资和商业研究，是一个非常好的投资者和写作者，他在知识平台「得到」上的《个人投资课》和《商业经典案例课》共拥有近 20 万读者。
@@ -58,21 +60,21 @@ Sun 历史股价 | 来源 Lee Devlin's Website
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjh3cjrxqv79tawwn39kd37)
+*** [[https://read.readwise.io/read/01gqjh3cjrxqv79tawwn39kd37][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 短期涨得好，不代表长期能赚钱。你看到的投资收益，有可能是牛市带来的，有可能是短期市场风格带来的，如果你不具备基本的金融素养（Financial Literacy），你就无法辨别这个结果是能力还是运气，更无法在将来获得这个收益。 
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjh3yt5dx45tq264yfanb3f)
+*** [[https://read.readwise.io/read/01gqjh3yt5dx45tq264yfanb3f][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 更重要的是，即使你选择了好的投资产品，如果你不具备基本的投资知识，你也可能会经历「贪婪和恐惧」，在关键时刻无法拿住。 
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjh476ewz31fkf1ar3j1kpa)
+*** [[https://read.readwise.io/read/01gqjh476ewz31fkf1ar3j1kpa][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这门课希望做到的，就是正确地找到这「些许努力」。在我看来，它说的是：
@@ -89,25 +91,25 @@ Sun 历史股价 | 来源 Lee Devlin's Website
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjh4skbagpgf16fcsghr8v8)
+*** [[https://read.readwise.io/read/01gqjh4skbagpgf16fcsghr8v8][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *我们不做「基金净值估算」，没有「目标投」，也没有「排行榜」，而是首创了「基金跟投」的方式，*帮助大家降低选择难度，陪伴用户长期持有，在这个过程中，潜移默化地将长期投资和价值投资的大道传递给用户。 
 #+END_QUOTE
     date:: [[2023-01-31]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gr1qqrhpz5kb2x6j8k5pyz62)
+*** [[https://read.readwise.io/read/01gr1qqrhpz5kb2x6j8k5pyz62][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 唯一想感叹一下的是，在文章开头，我本来用的是另一个例子。但我的伙伴雨白因为安全的考虑，帮我换成了「神经科学家通过研究发现，人脑在接收信息时，会先和自己已有的认知相比较，如果不同，大脑会启动情绪来对抗。」 谁能想到，这句话恰恰是我最近一段时间最感兴趣的课题。年底之前，我应该会把这些思考分享出来。 孟岩，更新于 2022 年 10 月 3 日 
 #+END_QUOTE
     date:: [[2023-01-25]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gqjh69xqgj8x134h3g6fxdys)
+*** [[https://read.readwise.io/read/01gqjh69xqgj8x134h3g6fxdys][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 投资是认知的变现。投资成功，最终是因为我们变成了更好的自己。 
 #+END_QUOTE
     date:: [[2023-01-31]]
 *** from _导读 | 这一回，从门外汉到 80 分投资者_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01gr1qr7c2xn4txdthwsah6w56)
+*** [[https://read.readwise.io/read/01gr1qr7c2xn4txdthwsah6w56][View Highlight]]

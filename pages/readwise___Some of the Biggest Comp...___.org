@@ -2,6 +2,8 @@
 :title: readwise/Some of the Biggest Comp...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[SullyOmarr on Twitter]]
 :full-title: "Some of the Biggest Comp..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1550142055854141440/iA_vPg8D.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Some of the biggest companies in the world use OpenAI’s ChatGPT and embeddings to power their AI chat apps.
@@ -23,7 +25,7 @@ I’ll show you 👇
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524835018444800)
+*** [[https://twitter.com/SullyOmarr/status/1635524835018444800][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 First, what are embeddings?
@@ -36,7 +38,7 @@ In our case, it's text.
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524836125716480)
+*** [[https://twitter.com/SullyOmarr/status/1635524836125716480][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 They're important because it lets us do Semantic search.
@@ -47,7 +49,7 @@ This makes searching much easier and more efficient.
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524837295939585)
+*** [[https://twitter.com/SullyOmarr/status/1635524837295939585][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Example:
@@ -57,7 +59,7 @@ Then someone asks you for a recommendation, asking what is a good wine with seaf
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524838252240897)
+*** [[https://twitter.com/SullyOmarr/status/1635524838252240897][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 You look at the list, and see that this wine is good with fish, and suggest it to them because you understand that “fish” and “seafood” are similar.
@@ -66,7 +68,7 @@ That's a semantic search
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524839267237889)
+*** [[https://twitter.com/SullyOmarr/status/1635524839267237889][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Embeddings are similar in that regard. 
@@ -79,7 +81,7 @@ They're like a map that shows how words and phrases are related to each other.
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524840290684928)
+*** [[https://twitter.com/SullyOmarr/status/1635524840290684928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 But how do we create an AI chat app using ChatGPT and embeddings? 
@@ -92,7 +94,7 @@ No seriously, look at how easy it is
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524841465057284)
+*** [[https://twitter.com/SullyOmarr/status/1635524841465057284][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 In their documentation they outline exactly how to do it, with only 10-15 lines of code. 
@@ -101,7 +103,7 @@ But the short explanation is:
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524842551377922)
+*** [[https://twitter.com/SullyOmarr/status/1635524842551377922][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Find some data source (pdf, webpage, text, etc) and use their python library to create indexes. 
@@ -112,7 +114,7 @@ Llama hub has a bunch of data connectors that are directly supported. So all you
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524843461566465)
+*** [[https://twitter.com/SullyOmarr/status/1635524843461566465][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 From there, all you have to do is let langchain or llama index do all the hardwork:
@@ -125,7 +127,7 @@ From there, all you have to do is let langchain or llama index do all the hardwo
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524844505923584)
+*** [[https://twitter.com/SullyOmarr/status/1635524844505923584][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That’s it! You’ve just made (a super simple) AI chat app powered by OpenAI’s :) 
@@ -136,4 +138,4 @@ Hope you learned something!
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _Some of the Biggest Comp..._ by @SullyOmarr on Twitter
-*** [View Tweet](https://twitter.com/SullyOmarr/status/1635524845646790659)
+*** [[https://twitter.com/SullyOmarr/status/1635524845646790659][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/Data Selection for LMs (...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[sangmichaelxie on Twitter]]
 :full-title: "Data Selection for LMs (..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1150835354544562183/IgjjhgnS.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Data selection for LMs (GPT-3, PaLM) is done with heuristics that select data by training a classifier for high-quality text. Can we do better?
@@ -24,7 +26,7 @@ https://t.co/8PQtPFiCol
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397365443960832)
+*** [[https://twitter.com/sangmichaelxie/status/1623397365443960832][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Before diving in - we've uploaded pre-filtered datasets to HuggingFace that were selected from The Pile for high-quality text! 
@@ -34,14 +36,14 @@ Pre-filtered Pile data and code: https://t.co/HWrR9LRnpF
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397371622064132)
+*** [[https://twitter.com/sangmichaelxie/status/1623397371622064132][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Data selection typically involves filtering a large source of raw data towards some desired target distribution, whether it's high-quality/formal text (e.g., Wikipedia + books) for general-domain LMs like GPT-3 or domain-specific data for specialized LMs like Codex. 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397376101691393)
+*** [[https://twitter.com/sangmichaelxie/status/1623397376101691393][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Because of the large scale of raw text data, existing methods (GPT-3, PaLM, Pile) use heuristics: simple classifier + a noisy threshold to select data similar to the target distribution.
@@ -50,7 +52,7 @@ But the selected data may lack diversity/be too diverse compared to the desired 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397380677681152)
+*** [[https://twitter.com/sangmichaelxie/status/1623397380677681152][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Our method, Data Selection with Importance Resampling (DSIR), uses importance resampling to select data that *matches* a target dist.
@@ -59,7 +61,7 @@ To make importance weight estimation tractable in the high-dimensional space of 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397385111044097)
+*** [[https://twitter.com/sangmichaelxie/status/1623397385111044097][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Which feature space? N-grams! We find that KL reduction, a cheap data metric that measures how much data selection reduces KL to the target n-gram distribution over random sampling, predicts downstream acc very well (r=0.89).
@@ -70,14 +72,14 @@ Potential for powering new data-centric workflows!
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397389607358472)
+*** [[https://twitter.com/sangmichaelxie/status/1623397389607358472][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 This leads to our instantiation of DSIR, where we train 2 generative bag-of-ngrams models (one each for the raw and target data) to estimate importance weights. The n-grams are hashed onto a fixed number of virtual tokens (hashing trick) for simplicity and tractability. 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397395630366720)
+*** [[https://twitter.com/sangmichaelxie/status/1623397395630366720][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 When selecting for formal/high-quality text (Wiki+books) to train general-domain LMs, DSIR selects data that contains qualitatively more formal text than random selection and heuristic filters. 
@@ -88,7 +90,7 @@ This results in 2–2.5% higher downstream acc on GLUE than these baselines.
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397400005033984)
+*** [[https://twitter.com/sangmichaelxie/status/1623397400005033984][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 When selecting for domain-specific data to train specialized LMs, DSIR gets comparable or better results to expert-curated data on average across 8 tasks from 4 diverse domains.
@@ -97,7 +99,7 @@ Shows the potential for automatic data selection to replace manual/bespoke proce
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397406141214723)
+*** [[https://twitter.com/sangmichaelxie/status/1623397406141214723][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Does choice of pretraining data matter? We selected pretraining data for 8 downstream tasks and tried all pretrain->downstream pairs. Using the wrong pretraining data causes a 6% average drop in downstream acc, and drops acc by 30% in one case!
@@ -108,7 +110,7 @@ Choice of data matters a lot.
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397410708807680)
+*** [[https://twitter.com/sangmichaelxie/status/1623397410708807680][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Generally, transfer across domains is very asymmetric. 
@@ -119,7 +121,7 @@ Pretraining on data selected for a “CS academic papers” target distribution 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397417847558144)
+*** [[https://twitter.com/sangmichaelxie/status/1623397417847558144][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 N-gram features are great for importance resampling: cheap to compute, scalable, and overlap in n-gram distributions matters for downstream transfer.
@@ -128,11 +130,11 @@ But other pretraining data factors could matter for downstream acc. Designing th
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397424914919425)
+*** [[https://twitter.com/sangmichaelxie/status/1623397424914919425][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Joint work with my wonderful collaborators and advisors @ShibaniSan @tengyuma @percyliang! 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _Data Selection for LMs (..._ by @sangmichaelxie on Twitter
-*** [View Tweet](https://twitter.com/sangmichaelxie/status/1623397429578981378)
+*** [[https://twitter.com/sangmichaelxie/status/1623397429578981378][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/22｜轮动策略：如何踩准市场变换的节奏？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "22｜轮动策略：如何踩准市场变换的节奏？"
@@ -11,28 +13,28 @@
 :image-url: https://static001.geekbang.org/resource/image/b6/4e/b6a24dd4234747b52a033a995b97cd4e.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 轮动策略和趋势跟踪策略的对比 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg9zqg6r0ytzsz88ar915w)
+*** [[https://read.readwise.io/read/01gxrg9zqg6r0ytzsz88ar915w][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 刚才我提到，轮动策略是进行横向对比，趋势跟踪策略是进行纵向对比。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrga7zkbp4fb688ez7yzf7d)
+*** [[https://read.readwise.io/read/01gxrga7zkbp4fb688ez7yzf7d][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 有哪些常见的轮动策略？ 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgb762mwnr2wsh5ybjj8kb)
+*** [[https://read.readwise.io/read/01gxrgb762mwnr2wsh5ybjj8kb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 股债轮动
@@ -41,7 +43,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgbg891p5r46r8mygfnkjm)
+*** [[https://read.readwise.io/read/01gxrgbg891p5r46r8mygfnkjm][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 风格轮动
@@ -50,7 +52,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgf14cm7kp4xgfhjee27wz)
+*** [[https://read.readwise.io/read/01gxrgf14cm7kp4xgfhjee27wz][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 具体来说，投资者喜欢把股票分成不同的风格类别，最常见的风格划分方式有两种，第一种是大盘股和小盘股，第二种是价值股和成长股。其中，大小盘轮动是个人投资者最常考虑的风格轮动策略，简单实用，也不占用过多的交易精力。而在大小盘轮动中，最经典的就是二八轮动策略，下面我来详细介绍下它。
@@ -63,7 +65,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgfbz1dgn9jqh0z29vy00j)
+*** [[https://read.readwise.io/read/01gxrgfbz1dgn9jqh0z29vy00j][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 行业轮动
@@ -72,7 +74,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgfr35hr4ey0am8fv4aqxn)
+*** [[https://read.readwise.io/read/01gxrgfr35hr4ey0am8fv4aqxn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在证券公司研究所，有很多不错的行业轮动模型的报告，一般都在各自团队的公众号里发布。这里，我给出三个不同方向的例子，你可以以它们为起点，链接到更多的报告。
@@ -85,7 +87,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgfxrc82vhkgertpp0y9ck)
+*** [[https://read.readwise.io/read/01gxrgfxrc82vhkgertpp0y9ck][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 主题轮动
@@ -94,7 +96,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgg80sz4sw9mfkp9f5frfd)
+*** [[https://read.readwise.io/read/01gxrgg80sz4sw9mfkp9f5frfd][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 全球轮动
@@ -103,14 +105,14 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrggyqt06wvjxsq8q2vgsde)
+*** [[https://read.readwise.io/read/01gxrggyqt06wvjxsq8q2vgsde][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/c7/5f/c773e92d5b4453711cecd8483c1e475f.jpg?wh=1920x1368) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgh1t4nph7yzxbfph3rn3c)
+*** [[https://read.readwise.io/read/01gxrgh1t4nph7yzxbfph3rn3c][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 从上述结果可以看出，二八轮动策略在过去 16 年历史数据上的表现非常优异。从收益角度看，策略的长期年化收益达到了 20%，远高于沪深 300 和中证 500 分别为约 10% 和 12% 的年化收益，长期复利累积下来的财富效应，是沪深 300 和中证 500 指数均值的 4 倍左右（具体请看第一张子图三条曲线最右端的高度）。
@@ -121,14 +123,14 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgj70ykhd7scsvz5gq3cyr)
+*** [[https://read.readwise.io/read/01gxrgj70ykhd7scsvz5gq3cyr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/bb/8e/bb1868b2409dc23e899821a071d6478e.jpg?wh=1920x780) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgk9gspgem2b5yagvydpwp)
+*** [[https://read.readwise.io/read/01gxrgk9gspgem2b5yagvydpwp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 跟纵向对比的趋势跟踪策略相比，轮动策略是比较不同资产标的的相对性价比，来作出投资决策的，是横向对比的策略。
@@ -143,7 +145,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgkg9h091334fh2fsa1enf)
+*** [[https://read.readwise.io/read/01gxrgkg9h091334fh2fsa1enf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 讲一个股债轮动的硬指标。就是用沪深300的股息率，比上十年期国债收益率。 基本上1就是天花板，也就是此时的股息率=国债收益率，那么这个时候就是股市特别有吸引力的地方了 而下面低于0.4，也就是说，股息率不足国债收益率的一半的时候，股市的吸引力就不太大了，2010年，2015年，2017年，都出现过这个情况。而现在这个指标跌破了0.6，也就是说目前股市的吸引力正在下降。是一个应该注意风险的时刻。 配置就简单点，该指标-0.2 即为股票仓位。比如现在该指标为0.6，0.6-0.2=0.4 所以股票仓位40%即可。 行业轮动，这个超出我能力圈了，我做不到。 成长价值轮动这个也做得一般，还是学习。 全球轮动，更超出我能力圈了。
@@ -152,7 +154,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgkt7afb0b5c6hj7dd9tqn)
+*** [[https://read.readwise.io/read/01gxrgkt7afb0b5c6hj7dd9tqn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 思考题： 1.设计一种行业轮动策略 传统蓝筹行业和新能源行业之间轮动。 2.选择行业的标准 一种是快消品，生活大众必需的行业，如酱油； 一种是未来很确定的高成长行业，如当下疯涨的新能源。 疑问： 老师怎么看当下芯片和新能源的行情呢？ 新能源太疯狂了，而我的价值蓝筹都跌不少(茅台2700，现在1500)
@@ -161,4 +163,4 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _22｜轮动策略：如何踩准市场变换的节奏？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrgm8hgcd62s1nkvhdk98a8)
+*** [[https://read.readwise.io/read/01gxrgm8hgcd62s1nkvhdk98a8][View Highlight]]

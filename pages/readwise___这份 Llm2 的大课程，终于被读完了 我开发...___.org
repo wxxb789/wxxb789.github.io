@@ -2,6 +2,8 @@
 :title: readwise/这份 Llm2 的大课程，终于被读完了 我开发...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[huangyun_122 on Twitter]]
 :full-title: "这份 Llm2 的大课程，终于被读完了 我开发..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这份 LLM2 的大课程，终于被读完了
@@ -27,7 +29,7 @@
 #+END_QUOTE
     date:: [[2023-08-24]]
 *** from _这份 Llm2 的大课程，终于被读完了 我开发..._ by @huangyun_122 on Twitter
-*** [View Tweet](https://twitter.com/huangyun_122/status/1694207792087749029)
+*** [[https://twitter.com/huangyun_122/status/1694207792087749029][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 细思有点恐：工具介绍类视频，就这么被消费完，还有多少 Up 主，会愿意创造视频 ? 这是不是在加大 up 主的“卷”性
@@ -38,7 +40,7 @@
 #+END_QUOTE
     date:: [[2023-08-24]]
 *** from _这份 Llm2 的大课程，终于被读完了 我开发..._ by @huangyun_122 on Twitter
-*** [View Tweet](https://twitter.com/huangyun_122/status/1694212239614722143)
+*** [[https://twitter.com/huangyun_122/status/1694212239614722143][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 嗯，当资料太多时， 首次突破了 https://t.co/EfiiAXRml7 的使用限制
@@ -49,4 +51,4 @@
 #+END_QUOTE
     date:: [[2023-08-24]]
 *** from _这份 Llm2 的大课程，终于被读完了 我开发..._ by @huangyun_122 on Twitter
-*** [View Tweet](https://twitter.com/huangyun_122/status/1694229330170175577)
+*** [[https://twitter.com/huangyun_122/status/1694229330170175577][View Tweet]]

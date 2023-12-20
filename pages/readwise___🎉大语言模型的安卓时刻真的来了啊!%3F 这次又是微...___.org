@@ -2,6 +2,8 @@
 :title: readwise/🎉大语言模型的安卓时刻真的来了啊!? 这次又是微...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[JefferyTatsuya on Twitter]]
 :full-title: "🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🎉大语言模型的安卓时刻真的来了啊!? 这次又是微软！
@@ -35,7 +37,7 @@
 #+END_QUOTE
     date:: [[2023-06-11]]
 *** from _🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1667748018899279872)
+*** [[https://twitter.com/JefferyTatsuya/status/1667748018899279872][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 他的原理是 #渐进学习：采用了一种叫“渐进学习”或“解释学习”的训练过程。
@@ -48,7 +50,7 @@
 #+END_QUOTE
     date:: [[2023-06-11]]
 *** from _🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1667748021214523394)
+*** [[https://twitter.com/JefferyTatsuya/status/1667748021214523394][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 看 Matthew Berman 的视频有详细的解释：
@@ -57,4 +59,4 @@ https://t.co/uPAdByVH0X
 #+END_QUOTE
     date:: [[2023-06-11]]
 *** from _🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1667748548384034816)
+*** [[https://twitter.com/JefferyTatsuya/status/1667748548384034816][View Tweet]]

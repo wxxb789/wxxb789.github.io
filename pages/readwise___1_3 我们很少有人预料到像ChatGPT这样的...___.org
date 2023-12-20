@@ -2,6 +2,8 @@
 :title: readwise/1_3 我们很少有人预料到像ChatGPT这样的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[onenewbite on Twitter]]
 :full-title: "1/3 我们很少有人预料到像ChatGPT这样的..."
@@ -10,14 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1585995910521446400/OXrx3eAV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/3 我们很少有人预料到像ChatGPT这样的“语言模型”会是个技术革命。我们很多人原以为，语言模型只是一个能够生成人类对话的机器人。但当我们开始使用ChatGPT之后发现，它远远不只是“会聊天”。仔细想想的话，“语言模型”能带来一种”超级技术革命”是很合理的。。 
 #+END_QUOTE
     date:: [[2023-02-27]]
 *** from _1/3 我们很少有人预料到像ChatGPT这样的..._ by @onenewbite on Twitter
-*** [View Tweet](https://twitter.com/onenewbite/status/1630032856633462784)
+*** [[https://twitter.com/onenewbite/status/1630032856633462784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/3 因为我们人类所有的技术和文化都是建立在语言之上的。语言是人类智慧和文明的”底层代码”。
@@ -25,11 +27,11 @@
 #+END_QUOTE
     date:: [[2023-02-27]]
 *** from _1/3 我们很少有人预料到像ChatGPT这样的..._ by @onenewbite on Twitter
-*** [View Tweet](https://twitter.com/onenewbite/status/1630032858457989122)
+*** [[https://twitter.com/onenewbite/status/1630032858457989122][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/3 ChatGPT已经是这样一种”超级大脑”，但很多人依然不知道怎么去使用它，连接它。@tinyfool 老师说的特别好:”你使用ChatGPT所遇到的‘边界’，实际上是你自己的’边界’”。我们当前最需要做的就是以一种”growth mindset”来面对它，多尝试，多参考，扩大自己的边界和想象力，让这个“超级大脑”为我们服务。 
 #+END_QUOTE
     date:: [[2023-02-27]]
 *** from _1/3 我们很少有人预料到像ChatGPT这样的..._ by @onenewbite on Twitter
-*** [View Tweet](https://twitter.com/onenewbite/status/1630032860651601921)
+*** [[https://twitter.com/onenewbite/status/1630032860651601921][View Tweet]]

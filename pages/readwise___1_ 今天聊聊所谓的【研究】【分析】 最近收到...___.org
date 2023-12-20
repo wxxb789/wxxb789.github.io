@@ -2,6 +2,8 @@
 :title: readwise/1_ 今天聊聊所谓的【研究】【分析】 最近收到...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[0xwayne_z on Twitter]]
 :full-title: "1/ 今天聊聊所谓的【研究】【分析】 最近收到..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1471684258364153857/2LP1ZoNw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/ 今天聊聊所谓的【研究】【分析】
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497558999855939585)
+*** [[https://twitter.com/0xwayne_z/status/1497558999855939585][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ 我先说一个结论啊
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497559376021770252)
+*** [[https://twitter.com/0xwayne_z/status/1497559376021770252][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ 大多数人接触到的 Crypto 的研究，或者说我接触到的也不是很深，不会到密码学、数学、计算机底层那些知识，各种回归模型，计量模型，假设检验也几乎用不到
@@ -39,7 +41,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497559771188449281)
+*** [[https://twitter.com/0xwayne_z/status/1497559771188449281][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/ 我自己从毕业了之后就进了一个研究院，那是一个互联网金融/股权基金研究院，做的事情也非常枯燥
@@ -50,7 +52,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497560209686142980)
+*** [[https://twitter.com/0xwayne_z/status/1497560209686142980][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ 当时说实话看的非常费劲。哈希函数啊，拜占庭将军问题，生日悖论，鸽笼问题等等
@@ -66,7 +68,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497561065311576064)
+*** [[https://twitter.com/0xwayne_z/status/1497561065311576064][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/ 我只限于像我们这样的机构的研究啊，可以理解为炒币性质的研究
@@ -79,7 +81,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497561923747217420)
+*** [[https://twitter.com/0xwayne_z/status/1497561923747217420][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/ 如果你想做好研究，范围是研究机构、基金、vc、交易所甚至媒体的研究，最重要的一点就是学好英文
@@ -95,7 +97,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497562589928521728)
+*** [[https://twitter.com/0xwayne_z/status/1497562589928521728][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/ 所以记住，一定要写
@@ -109,7 +111,7 @@
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497563156889346048)
+*** [[https://twitter.com/0xwayne_z/status/1497563156889346048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/ 我特别喜欢用下面的这个例子【差速器原理】
@@ -120,7 +122,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497563642031927296)
+*** [[https://twitter.com/0xwayne_z/status/1497563642031927296][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/ 解释一个东西一般分两种情况
@@ -136,7 +138,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497564225040191497)
+*** [[https://twitter.com/0xwayne_z/status/1497564225040191497][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/ 所以回过头来，我在跟内部研究团队沟通的时候
@@ -146,7 +148,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497564634936913923)
+*** [[https://twitter.com/0xwayne_z/status/1497564634936913923][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/ 再回到 Crytpo 的研究
@@ -156,7 +158,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497564781435580419)
+*** [[https://twitter.com/0xwayne_z/status/1497564781435580419][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13/ 再给一个我个人的一些原则观点
@@ -165,7 +167,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497565489023033346)
+*** [[https://twitter.com/0xwayne_z/status/1497565489023033346][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14/ 
@@ -180,7 +182,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497565956188827649)
+*** [[https://twitter.com/0xwayne_z/status/1497565956188827649][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 15/ 多用 Google，真的，多用谷歌
@@ -195,7 +197,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497566323358171139)
+*** [[https://twitter.com/0xwayne_z/status/1497566323358171139][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 16/ 深度的阅读和写作
@@ -206,7 +208,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497566698383495168)
+*** [[https://twitter.com/0xwayne_z/status/1497566698383495168][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 17/ 很多人会错误的感觉，自己在什么地方看到了别人的观点，自己同意了
@@ -222,7 +224,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497567025115598850)
+*** [[https://twitter.com/0xwayne_z/status/1497567025115598850][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 18/ 朋友们，你们相信我，这行的发展，真的没有那么快
@@ -235,7 +237,7 @@ https://t.co/UzyAUXAs7t
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497567749559959553)
+*** [[https://twitter.com/0xwayne_z/status/1497567749559959553][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 19/ 就拿 AMM 来说
@@ -250,7 +252,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497568146462756864)
+*** [[https://twitter.com/0xwayne_z/status/1497568146462756864][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 20/ 不能项目方/VC 说什么你信什么啊
@@ -266,7 +268,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497568514387111942)
+*** [[https://twitter.com/0xwayne_z/status/1497568514387111942][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 21/ 我讲实话可能有挺多人可能
@@ -281,7 +283,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497569742126981120)
+*** [[https://twitter.com/0xwayne_z/status/1497569742126981120][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 22/ 我特别讨厌一种人，就是 Freerider，还有就是说的一个事情被人问两句就问住了
@@ -294,7 +296,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497570303194861568)
+*** [[https://twitter.com/0xwayne_z/status/1497570303194861568][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 23/ 还有
@@ -309,7 +311,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497570659203186690)
+*** [[https://twitter.com/0xwayne_z/status/1497570659203186690][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 24/ 静下心来把自己不明白的事情看清楚
@@ -325,7 +327,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497571213480435712)
+*** [[https://twitter.com/0xwayne_z/status/1497571213480435712][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 25/ 说了这么多只是为了分享一点新的体会，没有其他意思
@@ -336,7 +338,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497571546642382853)
+*** [[https://twitter.com/0xwayne_z/status/1497571546642382853][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 26/ 我们公司有个美国人
@@ -353,7 +355,7 @@ LBP 也能通过 V2 理解
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497571894287269889)
+*** [[https://twitter.com/0xwayne_z/status/1497571894287269889][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 27/ 说了太多有点像装逼了
@@ -371,4 +373,4 @@ over
 #+END_QUOTE
     date:: [[2023-01-30]]
 *** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [View Tweet](https://twitter.com/0xwayne_z/status/1497572640789512194)
+*** [[https://twitter.com/0xwayne_z/status/1497572640789512194][View Tweet]]

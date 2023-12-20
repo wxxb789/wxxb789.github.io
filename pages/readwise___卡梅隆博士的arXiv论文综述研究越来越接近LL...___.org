@@ -2,6 +2,8 @@
 :title: readwise/卡梅隆博士的arXiv论文综述研究越来越接近LL...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[TaNGSoFT on Twitter]]
 :full-title: "卡梅隆博士的arXiv论文综述研究越来越接近LL..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1704284782526660608/9ZKAaWQ6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 卡梅隆博士的arXiv论文综述研究越来越接近LLM本质问题思考了：
@@ -30,4 +32,4 @@
 #+END_QUOTE
     date:: [[2023-09-05]]
 *** from _卡梅隆博士的arXiv论文综述研究越来越接近LL..._ by @TaNGSoFT on Twitter
-*** [View Tweet](https://twitter.com/TaNGSoFT/status/1698800631501500793)
+*** [[https://twitter.com/TaNGSoFT/status/1698800631501500793][View Tweet]]

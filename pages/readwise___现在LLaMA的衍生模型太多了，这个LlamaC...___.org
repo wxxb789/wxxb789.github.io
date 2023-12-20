@@ -2,6 +2,8 @@
 :title: readwise/现在LLaMA的衍生模型太多了，这个LlamaC...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "现在LLaMA的衍生模型太多了，这个LlamaC..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 现在LLaMA的衍生模型太多了，这个LlamaChat的Mac客户端就是让你可以在本机直接和你喜欢的Llama模型交互
@@ -24,7 +26,7 @@ https://t.co/sbbZMYvwTU
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646284321613926400)
+*** [[https://twitter.com/dotey/status/1646284321613926400][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 LLaMA的UI还有一个是Web版本的：
@@ -33,7 +35,7 @@ https://t.co/FLeRQASJQq
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646287007428014081)
+*** [[https://twitter.com/dotey/status/1646287007428014081][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 还有一个Serge，界面漂亮，但只支持Alpaca
@@ -42,7 +44,7 @@ https://t.co/rVW6LpF35Y
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646287011538509828)
+*** [[https://twitter.com/dotey/status/1646287011538509828][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 还有一个https://t.co/bbKTmnjrMP
@@ -53,4 +55,4 @@ https://t.co/FQqRECLD0C
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _现在LLaMA的衍生模型太多了，这个LlamaC..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646287015313391616)
+*** [[https://twitter.com/dotey/status/1646287015313391616][View Tweet]]

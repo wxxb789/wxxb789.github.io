@@ -2,6 +2,8 @@
 :title: readwise/第125期 - 超大橘子
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Tw93]]
 :full-title: "第125期 - 超大橘子"
@@ -10,7 +12,7 @@
 :image-url: https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 **Glasp：AI 标注插件+分享广场**  
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _第125期 - 超大橘子_ by Tw93
-*** [View Highlight](https://read.readwise.io/read/01gy6exsf49ez4471a52mdraj9)
+*** [[https://read.readwise.io/read/01gy6exsf49ez4471a52mdraj9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **Ant Design 同学梳理设计模式**  
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _第125期 - 超大橘子_ by Tw93
-*** [View Highlight](https://read.readwise.io/read/01gy6eyae0prff33xbrybja6hh)
+*** [[https://read.readwise.io/read/01gy6eyae0prff33xbrybja6hh][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **Learn Prompting 教程**  
@@ -37,7 +39,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _第125期 - 超大橘子_ by Tw93
-*** [View Highlight](https://read.readwise.io/read/01gy6eye1j5fdvgypdqn6c4w0k)
+*** [[https://read.readwise.io/read/01gy6eye1j5fdvgypdqn6c4w0k][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **大学毕业后，全班都转行了**  
@@ -46,4 +48,4 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _第125期 - 超大橘子_ by Tw93
-*** [View Highlight](https://read.readwise.io/read/01gy6ez3btbp4ee673g4y9ar9g)
+*** [[https://read.readwise.io/read/01gy6ez3btbp4ee673g4y9ar9g][View Highlight]]

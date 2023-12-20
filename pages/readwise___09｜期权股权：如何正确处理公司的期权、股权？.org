@@ -2,6 +2,8 @@
 :title: readwise/09｜期权股权：如何正确处理公司的期权、股权？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "09｜期权股权：如何正确处理公司的期权、股权？"
@@ -11,28 +13,28 @@
 :image-url: https://static001.geekbang.org/resource/image/a9/db/a997b628e8635e6d4ayy812d1dec7cdb.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 第一，一定要在具备了一定的技术财富后，再去追求股权的收益。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkazajwhzcgwxve45z0dehe)
+*** [[https://read.readwise.io/read/01gxkazajwhzcgwxve45z0dehe][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第二，如果你不是职场高端玩家，尽量不要尝试加入初创公司。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkazdvsn2gg2m5b4vvrb0jp)
+*** [[https://read.readwise.io/read/01gxkazdvsn2gg2m5b4vvrb0jp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第三，不要忽视上市公司的股权升值机会。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkazhf3m563sddstg0t4a3b)
+*** [[https://read.readwise.io/read/01gxkazhf3m563sddstg0t4a3b][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 对于小公司，我们首先要考虑的是股权协议的合法性问题。我身边的一些同学、同事，就遇到过不合规的股权协议带来的后续纠纷，甚至最后到了对簿公堂的地步。为了防止类似的情况发生在你身上，当你决定加入一家初创公司时，一定要避开这几个“陷阱”：
@@ -45,28 +47,28 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkazvs40as1hh94wvd64vxk)
+*** [[https://read.readwise.io/read/01gxkazvs40as1hh94wvd64vxk][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 对于股权的处理，我们应该考虑两个关键词：“税”和“风险分散”。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkb0c31rp42wdzvtzwzdjak)
+*** [[https://read.readwise.io/read/01gxkb0c31rp42wdzvtzwzdjak][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 所以，在拿到股票后，只有在两个时间点卖出是比较合适的。一是刚授权的时候，你不用交资本增值税，可以把这些钱投资到其他地方或者用来消费；二是在授权一年后，短期资本增值税转换成了长期增值税，税率可以大幅降低。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkb158evzz48zjp6d76y8v2)
+*** [[https://read.readwise.io/read/01gxkb158evzz48zjp6d76y8v2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 1、大家常说的35%的股票增值税指的是一年内卖掉的短期税率，持有超过一年长期税率为15% 2、公司授予的RSU在刚授予时或一年后卖掉比较划算。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkb44cxzsgmftwyyt20e5x9)
+*** [[https://read.readwise.io/read/01gxkb44cxzsgmftwyyt20e5x9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 听过这样一种观点，自己也有些统一，如果可以选择，公司给的现金越多越好，因为现金，在调薪过程中，是可以复利的，直接影响就是最终拿到的钱越来越多，而股票却没办法做到这一点。如果在调薪过程中，换成发股票，那么base的增长率就会非常的低。 同时，跳槽到新的公司，也有可能是提供流水，来确定新公司的薪酬，这样现金base越高，是更有利的 请老师也看看这种观点
@@ -75,4 +77,4 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _09｜期权股权：如何正确处理公司的期权、股权？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkc5s2m5tzsmrvcfkkfn8ah)
+*** [[https://read.readwise.io/read/01gxkc5s2m5tzsmrvcfkkfn8ah][View Highlight]]

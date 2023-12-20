@@ -2,6 +2,8 @@
 :title: readwise/推荐3个大师级投资人物的演讲。 很花时间但非常值...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[raycat2021 on Twitter]]
 :full-title: "推荐3个大师级投资人物的演讲。 很花时间但非常值..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 推荐3个大师级投资人物的演讲。
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-08-16]]
 *** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1691468892038946817)
+*** [[https://twitter.com/raycat2021/status/1691468892038946817][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Joel Greenblatt在哥大给学生上课，他谈了估值，分享了很多案例。那是2005年。
@@ -28,7 +30,7 @@ https://t.co/TJlhcpbQJP
 #+END_QUOTE
     date:: [[2023-08-16]]
 *** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1691468898405945344)
+*** [[https://twitter.com/raycat2021/status/1691468898405945344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这个公式是从资产收益率高和市盈率低的综合排名中，选择前20-30只股票，形成一个组合，分别买入并持有一年后卖出。
@@ -37,7 +39,7 @@ https://t.co/TJlhcpbQJP
 #+END_QUOTE
     date:: [[2023-08-16]]
 *** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1691468904961581056)
+*** [[https://twitter.com/raycat2021/status/1691468904961581056][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 李录2006年在哥大的课，他阐释了选择优质公司的标准。
@@ -48,7 +50,7 @@ https://t.co/Sq8PqyHuAT
 #+END_QUOTE
     date:: [[2023-08-16]]
 *** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1691468908132515840)
+*** [[https://twitter.com/raycat2021/status/1691468908132515840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Terry Smith在2020年Fundsmith年度股东大会上的演讲。
@@ -59,4 +61,4 @@ https://t.co/kp3STScMEa
 #+END_QUOTE
     date:: [[2023-08-16]]
 *** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1691468913845157888)
+*** [[https://twitter.com/raycat2021/status/1691468913845157888][View Tweet]]

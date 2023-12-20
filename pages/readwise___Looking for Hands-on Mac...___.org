@@ -2,6 +2,8 @@
 :title: readwise/Looking for Hands-on Mac...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Saboo_Shubham_ on Twitter]]
 :full-title: "Looking for Hands-on Mac..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1670107849815478273/Q3oUhtHM.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Looking for hands-on machine learning and NLP tutorials. 
@@ -21,7 +23,7 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887128746991619)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887128746991619][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. Learn How to Build a Custom Named Entity Recognition (NER) model using @spacy_io 
@@ -30,7 +32,7 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887150683193344)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887150683193344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @spacy_io 2. How to Make a Chatbot Using Amazon Lex and AWS Lambda in Python
@@ -39,7 +41,7 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887172854300673)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887172854300673][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @spacy_io 3. Aspect Based Sentiment Analysis Using BERT 
@@ -48,7 +50,7 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887195054850048)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887195054850048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @spacy_io 4. How to use GPT-3 embeddings for Semantic Search, Classification, and Clustering?
@@ -57,7 +59,7 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887217267838976)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887217267838976][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @spacy_io 5. How to finetune Transformers Models like BERT on Custom Dataset?
@@ -66,14 +68,14 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887239413796865)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887239413796865][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @spacy_io Kudos to @pradip_nichite for creating these amazing tutorial videos. Don't forget to give him a follow and subscribe to his youtube channel for more such content. 
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887261630922752)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887261630922752][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @spacy_io @pradip_nichite If you found this helpful, two requests:
@@ -83,4 +85,4 @@ Your search ends here!
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Looking for Hands-on Mac..._ by @Saboo_Shubham_ on Twitter
-*** [View Tweet](https://twitter.com/Saboo_Shubham_/status/1605887283747602434)
+*** [[https://twitter.com/Saboo_Shubham_/status/1605887283747602434][View Tweet]]

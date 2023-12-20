@@ -2,6 +2,8 @@
 :title: readwise/分享一份投资人和ai创业者偷偷看了一个月的半公开...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Danielw19410 on Twitter]]
 :full-title: "分享一份投资人和ai创业者偷偷看了一个月的半公开..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1645991676526342145/VYiNTYG4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 分享一份投资人和AI创业者偷偷看了一个月的半公开数据文档。
@@ -20,7 +22,7 @@
 #+END_QUOTE
     date:: [[2023-10-19]]
 *** from _分享一份投资人和ai创业者偷偷看了一个月的半公开..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1714953161314808062)
+*** [[https://twitter.com/Danielw19410/status/1714953161314808062][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这个文档我目前有几个用途：
@@ -33,7 +35,7 @@
 #+END_QUOTE
     date:: [[2023-10-19]]
 *** from _分享一份投资人和ai创业者偷偷看了一个月的半公开..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1714953163697242181)
+*** [[https://twitter.com/Danielw19410/status/1714953163697242181][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2.发现主流的垂直产品自用（比如绘画或者文章生成需求）
@@ -43,7 +45,7 @@
 #+END_QUOTE
     date:: [[2023-10-19]]
 *** from _分享一份投资人和ai创业者偷偷看了一个月的半公开..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1714953166427701732)
+*** [[https://twitter.com/Danielw19410/status/1714953166427701732][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 当然要是反馈好我可以再写一期怎么用这个文档，欢迎欢迎点赞本条Thread,并且：
@@ -53,4 +55,4 @@
 #+END_QUOTE
     date:: [[2023-10-19]]
 *** from _分享一份投资人和ai创业者偷偷看了一个月的半公开..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1714953169174945831)
+*** [[https://twitter.com/Danielw19410/status/1714953169174945831][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/开个新坑：翻译下《How Diffusion M...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "开个新坑：翻译下《How Diffusion M..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 开个新坑：翻译下《How Diffusion Models Work 扩散模型是如何工作的》https://t.co/iJctkt63VJ
@@ -26,7 +28,7 @@ YouTube列表：https://t.co/fTLYSRLUIp
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _开个新坑：翻译下《How Diffusion M..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665258913342664704)
+*** [[https://twitter.com/dotey/status/1665258913342664704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 《How Diffusion Models Work 扩散模型是如何工作的》
@@ -38,4 +40,4 @@ YouTube列表：https://t.co/fTLYSRLUIp https://t.co/O8HtuPdSnr
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _开个新坑：翻译下《How Diffusion M..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665259224237047809)
+*** [[https://twitter.com/dotey/status/1665259224237047809][View Tweet]]

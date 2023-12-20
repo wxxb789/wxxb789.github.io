@@ -2,6 +2,8 @@
 :title: readwise/昨天出海会议讨论了一波，我总结了下目前国内出海的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[henuwangkai on Twitter]]
 :full-title: "昨天出海会议讨论了一波，我总结了下目前国内出海的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1471516773031706627/bEr7ZfMx.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 昨天出海会议讨论了一波，我总结了下目前国内出海的几个流派以及对应的标杆，给大家同步下：
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856902079979521)
+*** [[https://twitter.com/henuwangkai/status/1684856902079979521][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 对这些集团军而言，做海外倒和国内差不多，就是重复招聘、推广等流程就行，无论是海外招聘还是招募懂海外的国人都简单； 
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856905963864064)
+*** [[https://twitter.com/henuwangkai/status/1684856905963864064][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这种规模不算太大到不了1～10亿美金市值的，都是做成了一个大生意（冷知识：猎豹现在不足1亿美金市值）  
@@ -37,7 +39,7 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856909734559745)
+*** [[https://twitter.com/henuwangkai/status/1684856909734559745][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 团队规模都较小，最庞大的是独立开发者群体； 
@@ -46,7 +48,7 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856913974939648)
+*** [[https://twitter.com/henuwangkai/status/1684856913974939648][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5、全球视野流派——Xmind、monica等等。 随着AI这波兴起，国内多了很多起步就直接出海的团队，当然前几年web3其实也有一波。 
@@ -54,7 +56,7 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856919951904768)
+*** [[https://twitter.com/henuwangkai/status/1684856919951904768][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、沉迷东南亚市场——这个算大流派中的细分。因为从目前国内出海现状来看，多数是选择东南亚市场，很少有直接打欧美市场的；  
@@ -63,14 +65,14 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856923106004992)
+*** [[https://twitter.com/henuwangkai/status/1684856923106004992][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 除了以上流派，我还十分推荐大家关注下中国台湾的团队，我咨询过台湾的朋友，对他们而言：做大陆市场，心理门槛其实和做欧美等差不多。 
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856926482436096)
+*** [[https://twitter.com/henuwangkai/status/1684856926482436096][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 因为都用Google、Facebook、ins等等，而且很有全球视野，和大陆团队差别还挺大。 所以如果你问台湾团队瞄准哪个国家，非常可能大陆并不是首选。
@@ -79,4 +81,4 @@
 #+END_QUOTE
     date:: [[2023-07-29]]
 *** from _昨天出海会议讨论了一波，我总结了下目前国内出海的..._ by @henuwangkai on Twitter
-*** [View Tweet](https://twitter.com/henuwangkai/status/1684856930307547136)
+*** [[https://twitter.com/henuwangkai/status/1684856930307547136][View Tweet]]

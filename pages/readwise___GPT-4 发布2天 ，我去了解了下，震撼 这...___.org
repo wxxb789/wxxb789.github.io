@@ -2,6 +2,8 @@
 :title: readwise/GPT-4 发布2天 ，我去了解了下，震撼 这...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[0xUnicorn on Twitter]]
 :full-title: "GPT-4 发布2天 ，我去了解了下，震撼 这..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1646533981297594368/T10GcY77.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 GPT-4 发布2天 ，我去了解了下，震撼
@@ -35,7 +37,7 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274143846076417)
+*** [[https://twitter.com/0xUnicorn/status/1636274143846076417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1/ GPT-4 可以从可用成分的简单照片中为您提供食谱和成分 
@@ -44,7 +46,7 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274148032012288)
+*** [[https://twitter.com/0xUnicorn/status/1636274148032012288][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ 了解图片或者文字笑话的笑点 
@@ -57,21 +59,21 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274151353884672)
+*** [[https://twitter.com/0xUnicorn/status/1636274151353884672][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ 你手动在纸上画个网站草图，GPT-4 可以编写代码，实现整个网站的开发 https://t.co/wJz7puE0Lm 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274154008875010)
+*** [[https://twitter.com/0xUnicorn/status/1636274154008875010][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/在1分钟内编写代码，并创建俄罗斯方块、弹球等街机游戏 https://t.co/dNViROXlwP 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274156420632577)
+*** [[https://twitter.com/0xUnicorn/status/1636274156420632577][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ 对以太坊 #ETH 智能合约进行代码审计 
@@ -82,7 +84,7 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274158916214784)
+*** [[https://twitter.com/0xUnicorn/status/1636274158916214784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/ 如果参加应试教育，在高考以及各种大学考试中，成绩优于 90% 的人 
@@ -91,14 +93,14 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274161885782016)
+*** [[https://twitter.com/0xUnicorn/status/1636274161885782016][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/ 代替律师写法律文件，并且几乎不犯错 https://t.co/TGSJRQRQOO 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274164586905600)
+*** [[https://twitter.com/0xUnicorn/status/1636274164586905600][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/ 发现新药 
@@ -112,28 +114,28 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274168898662400)
+*** [[https://twitter.com/0xUnicorn/status/1636274168898662400][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/ 正确的调试代码，修复 Bug https://t.co/FN5SyjA3e7 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274171213910016)
+*** [[https://twitter.com/0xUnicorn/status/1636274171213910016][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/ 在几分钟内创建Chrome扩展程序https://t.co/csH6eAOYXl 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274174640672768)
+*** [[https://twitter.com/0xUnicorn/status/1636274174640672768][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/ 用代码创作音乐🙃 https://t.co/IiB6iGwknu 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274177840934917)
+*** [[https://twitter.com/0xUnicorn/status/1636274177840934917][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/复制网站并重新编码🤯 
@@ -142,7 +144,7 @@ GPT-4 发布2天 ，我去了解了下，震撼
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274180479123461)
+*** [[https://twitter.com/0xUnicorn/status/1636274180479123461][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 人类进化的重要标志是学会使用工具
@@ -160,7 +162,7 @@ GPT 是进入信息时代以来，人类最伟大的工具
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636274182966382592)
+*** [[https://twitter.com/0xUnicorn/status/1636274182966382592][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 做个工具人还是学会使用 GPT 这个工具
@@ -173,7 +175,7 @@ GPT 是进入信息时代以来，人类最伟大的工具
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636279464723382273)
+*** [[https://twitter.com/0xUnicorn/status/1636279464723382273][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 不用和 GPT 机器竞争
@@ -184,11 +186,11 @@ GPT 是进入信息时代以来，人类最伟大的工具
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636284373933887488)
+*** [[https://twitter.com/0xUnicorn/status/1636284373933887488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 微软的 Copilot ，解决使用 GPT 的最后一公里问题，直接人出思路，他动手，直接产出PPT、EXCRL https://t.co/DAIsil8nBQ 
 #+END_QUOTE
     date:: [[2023-03-17]]
 *** from _GPT-4 发布2天 ，我去了解了下，震撼 这..._ by @0xUnicorn on Twitter
-*** [View Tweet](https://twitter.com/0xUnicorn/status/1636578457403662338)
+*** [[https://twitter.com/0xUnicorn/status/1636578457403662338][View Tweet]]

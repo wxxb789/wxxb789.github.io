@@ -2,6 +2,8 @@
 :title: readwise/10 Proven Ways to Make Y...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[AndrewCMyers on Twitter]]
 :full-title: "10 Proven Ways to Make Y..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1498856621539270658/Sa0TxpJk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 10 Proven Ways to Make Your Group Project Harder:
@@ -19,7 +21,7 @@ Designate your partner as master hacker and have them do all the work. They will
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431230066819072)
+*** [[https://twitter.com/AndrewCMyers/status/1611431230066819072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Lone Wolf.
@@ -27,7 +29,7 @@ Decide that your partner is useless and you are the master hacker. Charge off an
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431232134582275)
+*** [[https://twitter.com/AndrewCMyers/status/1611431232134582275][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Round Robin.
@@ -35,7 +37,7 @@ Have a different person implement each programming assignment. This may work acc
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431233858289664)
+*** [[https://twitter.com/AndrewCMyers/status/1611431233858289664][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Schism.
@@ -43,7 +45,7 @@ Separately implement the different pieces of the system with no discussion of ho
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431235770880000)
+*** [[https://twitter.com/AndrewCMyers/status/1611431235770880000][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Borg.
@@ -51,14 +53,14 @@ Work super-closely, talking rather than doing actual implementation; the group s
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431237503094787)
+*** [[https://twitter.com/AndrewCMyers/status/1611431237503094787][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Vicious Cycle. Everyone on the team feels that they are working harder than everyone else, and scales back their effort accordingly. This causes another round of mutual outrage. Eventually, everyone does no work because no one else is. As the deadline nears, switch to… /6 
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431239449464832)
+*** [[https://twitter.com/AndrewCMyers/status/1611431239449464832][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Blitz.
@@ -66,7 +68,7 @@ Don’t start until three days before the assignment is due. Then pull three all
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431241269579784)
+*** [[https://twitter.com/AndrewCMyers/status/1611431241269579784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Stoic.
@@ -74,7 +76,7 @@ Don’t ask the TAs or the professor any questions when design problems come up;
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431243324821504)
+*** [[https://twitter.com/AndrewCMyers/status/1611431243324821504][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Blank Slate.
@@ -82,7 +84,7 @@ Don’t use any of the ideas from class. This works best if you don’t attend c
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431245099196417)
+*** [[https://twitter.com/AndrewCMyers/status/1611431245099196417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Time Machine.
@@ -90,7 +92,7 @@ Don’t bother doing any of the programming assignments; only your final project
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431246801903616)
+*** [[https://twitter.com/AndrewCMyers/status/1611431246801903616][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Bonus: The Combo
@@ -98,4 +100,4 @@ If only one of the above techniques fails to add sufficient challenge, pick two 
 #+END_QUOTE
     date:: [[2023-01-08]]
 *** from _10 Proven Ways to Make Y..._ by @AndrewCMyers on Twitter
-*** [View Tweet](https://twitter.com/AndrewCMyers/status/1611431248622194689)
+*** [[https://twitter.com/AndrewCMyers/status/1611431248622194689][View Tweet]]

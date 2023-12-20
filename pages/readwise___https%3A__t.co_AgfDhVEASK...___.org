@@ -1,0 +1,424 @@
+:PROPERTIES:
+:title: readwise/https:__t.co_AgfDhVEASK...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "https://t.co/AgfDhVEASK..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1736544319199478175
+:image-url: https://pbs.twimg.com/profile_images/1735561740136681472/b3-0se7w.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
+** 📌
+#+BEGIN_QUOTE
+https://t.co/AgfDhVEASK 是如何构建高效的 RAG 系统的 Part 2
+
+这个系列的 thread 会分享 https://t.co/AgfDhVEASK 背后构建整个 Retrieval Augmented Generation System 的经验，包括在生产环境上的一些实践。
+
+这是系列的第二篇，主题是「如何评估一个 RAG 系统」。
+
+🧵 
+
+![](https://pbs.twimg.com/media/GBlx2lrbgAAsY8N.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544319199478175][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+如果没有看过第一篇的朋友，欢迎先看一下第一篇的内容，可以对整个 RAG 系统有一个初步的了解。
+
+https://t.co/vH4mic4hZs
+
+1/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544323267965399][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+上篇我们提到了什么是 RAG 系统，以及构成的基本要素，这里再来复习一下。
+
+一个最基本的 RAG 系统由以下 3 个部分组成：
+
+1. 语言模型
+2. 外部知识合集
+3. 当前场景下所需要的外部知识
+
+2/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544326598193437][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+想要优化整个系统，就可以把问题分解为优化这个系统的每个部分。
+
+但是优化一个基于 LLM 的系统的难点在于，这个系统本质上是一个黑盒，没有一套有效的评估手段。
+
+如果连最基础的 benchmark 也没有，怎么提升对应的指标也就是空谈了。
+
+3/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544329743917246][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+所以我们要做的第一件事就是先建立对整个 RAG 系统的评估体系。
+
+来自 Stanford 的这篇论文主要做的就是这个工作，评估生成式搜索引擎的可验证性。
+
+Evaluating Verifiability in Generative Search Engines
+
+https://t.co/elwLneHuax
+
+4/31 
+
+![](https://pbs.twimg.com/media/GBlx3w3bMAEzfaD.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544339835355428][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+这篇论文虽然是用来评测 Generative Search Engine（生成式搜索引擎），但是也完全可以把其中的方法应用到 RAG 上，本质上 Generative Search Engine 算是 RAG 的一个子集，还有针对于特定领域数据的 RAG 系统。
+
+5/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544346303037565][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+论文中提到了一个值得信赖的 Generative Search Engine 的先决条件就是：可验证性（verifiability）。
+
+我们都知道 LLM 经常会一本正经的胡说八道（幻觉，hallucination），生成一些看似对，实则错的内容。
+
+而 RAG 的一个优势就是给模型提供了参考资料，让模型降低幻觉的概率。
+
+6/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544349482360887][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+而这个幻觉降低了多少，就可以用 verifiability 这个指标来进行评估。
+
+理想的 RAG 系统应该是：
+
+\- 高引用召回率（high citation recall），即所有的生成内容都有引用（外部知识）充分支持
+- 高引用精度（high citation precision），即每个引用是否真的支持生成的内容
+
+7/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544352623845750][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+实际上这两个指标不可能做到 100%，根据论文中的实验结果，现有的 Generative Search Engine 生成的内容经常包含无据陈述和不准确的引文，这两个数据分别是 51.5% 和 74.5%。
+
+简单来说，就是生成的内容和外部的知识不匹配。
+
+8/31 
+
+![](https://pbs.twimg.com/media/GBlx5EtawAAcgNZ.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544360089727178][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+论文对 4 个主流的 Generative Search Engine 进行了评估：
+
+\- Bing Chat
+- NeevaAI（已经被 Snowflake 收购）
+- Perplexity
+- YouChat
+
+评测的问题来自不同的主题和领域。
+
+9/31 
+
+![](https://pbs.twimg.com/media/GBlx5jEa8AA6H_w.png) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544369254207920][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+采用了 4 个指标来进行评估：
+
+1. fluency，流畅性，生成的文本是否流畅连贯
+2. perceived utility，实用性，生成的内容是否有用
+3. citation recall，引文召回率，所生成的内容完全得到引文支持的比例
+4. citation precision，引文精度，引文中支持生成内容的比例
+
+10/31 
+
+![](https://pbs.twimg.com/media/GBlx6HmbsAA3F1p.png) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544377617691096][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+指标 1 和 2 通常是基本条件，如果连这个都不满足整个 RAG 系统就没什么意义了（话讲不清再准确也没有用）。
+
+一个优秀的 RAG 系统应该在 citation recall 和 citation precision 上获得比较高的评分。
+
+11/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544381350629515][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+具体的评价框架是如何实现的？
+
+这一部分用了一点初中数学的知识，详细的过程可以直接参考论文原文。
+
+整个实验的评测方式是使用「人为」的评测方式。
+
+12/31 
+
+![](https://pbs.twimg.com/media/GBlx6v1aEAAWKql.png) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544388812259689][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+1）评测流畅性和实用性
+
+给评测者对应的评测指标，例如 xxx 算是流畅的，并用 five-point Likert 量表来进行计算，从 Strongly Disagree 到 Strongly Agree。
+
+并且让评测者对「The response is a helpful and informative answer to the query」这个说法的同意程度进行打分。
+
+13/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544392469725574][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+2）评测引文召回（Citation Recall）
+
+引文召回率是指：得到引文支持的生成内容 / 值得验证的生成内容
+
+因此，计算召回率需要：
+
+1. 识别生成内容中值得验证的部分
+2. 评估每个值得验证的内容是否得到相关引文支持
+
+14/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544395766497489][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+什么是「值得验证」，可以简单理解为是生成内容中包含信息的部分，实践中，几乎所有的生成内容都可以看做是值得验证的内容，所以这个召回率可以近似等于：
+
+召回率 = 引文支持的生成内容 / 总的生成内容
+
+15/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544398941581585][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+3）测量引文精度（Citation Precision）
+
+引文精度是指生成的引文中支持其相关陈述的比例。如果生成的内容为每个生成的语句引用了互联网上所有的网页，那么引文召回率就会很高，但是引文精度会很低，因为很多文章都是无关紧要的，并不支持生成的内容。
+
+16/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544402095694171][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+比如说 Bing Chat 等之类的 AI 搜索引擎在使用中文进行询问的时候，会引用很多 CSDN、知乎、百度知道中的内容，在引文召回率上是很高的，甚至有时候每句生成的内容都有对应的引用，但是引文的精度却很低，大部分引文不能支持生成的内容，或者质量很差。
+
+17/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544405308510527][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+https://t.co/AgfDhVEASK 就在引文精度上做了很多优化，尤其是针对于多语言的场景。在使用中文提问的前提下，精度是要显著优于 Perplexity、Bing Chat、Phind 等产品的。
+
+18/31 
+
+![](https://pbs.twimg.com/media/GBlx8I8a0AA4pr0.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544415462875284][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+具体的引用精度的计算方法这里就不赘述了，可以参考论文中的描述。
+
+19/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544420047258016][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+有了引文召回率和引文精度之后，我们就可以计算出 Citation F 这个最终指标了（调和平均数）。
+
+要实现高 F，整个系统必须拥有高引文精度和高引文召回率。
+
+20/31 
+
+![](https://pbs.twimg.com/media/GBlx8_cbUAAl-MI.png) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544427186028922][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+关于 Harmonic Mean（调和平均数）
+
+https://t.co/qf6HwsglwN
+
+21/31 
+
+![](https://pbs.twimg.com/media/GBlx9b8a4AAE7fa.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544437948613004][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+上面就是整套的对 RAG 系统可验证性的评估方法。
+
+有了这套评测系统，每次 RAG 优化了之后就可以重新跑一遍评测集，来确定相关指标的变化，这样就可以宏观上来判断整个 RAG 系统是在变好还是在变差了。
+
+22/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544442604191925][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+另外分享一下 https://t.co/AgfDhVEASK 在使用这套系统时的一些实践：
+
+1）评测集
+
+评测集的选定应该与 RAG 对应的场景所吻合，例如 https://t.co/AgfDhVEASK 所选择的评测均为和编程相关，并增加了很多多语言的评测集。
+
+23/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544445720588474][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+2）自动化评测框架
+
+论文中所采用的还是 human evaluation 的方法，例如论文中使用了 34 个评测人员参与评测。
+
+缺点是：
+
+1. 耗费人力和时间
+2. 样本量较少，存在一定的误差
+
+24/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544448853704867][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+所以针对工业级场景，我们在构建一套自动化的评测框架（Evaluation Framework）。
+
+核心的思路是：
+
+25/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544451898847595][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+1. 基于 llama 2 训练一个评测模型（验证召回率和引文精度）
+2. 构建大量的评测集，并且根据线上的数据自动抽样生成评测集
+3. RAG 核心模块改动后，会有 CI 自动运行整个评测框架，并生成数据埋点和报表
+
+26/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544455006781831][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+采用这种方法，可以非常高效地进行测试和改进，例如对于 prompt 的改动，可以快速开一个 a/b 实验，然后不同的实验组跑一遍评测框架，得到最终的结果。
+
+目前这套框架还在内部构建 & 实验中，未来可能会考虑开源对应的评测模型和框架代码。（感觉光这个评测框架就可以开一个新的 startup 了）
+
+27/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544458353893548][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+今天的 thread 主要分享了 Evaluating Verifiability in Generative Search Engine 这篇论文的内容，以及 https://t.co/AgfDhVEASK 在 RAG 评测上的一些具体实践。
+
+限于篇幅的原因，还有很多细节没有讲，比如如何评测细粒度的模块等，这个之后有机会再分享。
+
+28/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544461520543918][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+最后再介绍一下 https://t.co/AgfDhVEASK
+
+https://t.co/AgfDhVEASK 是专门面向开发者的新一代 AI 搜索引擎，目标是替代开发者日常使用 Google / StackOverflow / 文档的场景，帮助开发者提升效率，创造价值。
+
+产品发布一个多月，已经有几十万的开发者正在使用 https://t.co/AgfDhVEASK 🚀
+
+29/31 
+
+![](https://pbs.twimg.com/media/GBlx_gWbUAA9jZ6.jpg) 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544470722830737][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+另外，有任何的反馈和建议都可以在这个 repo 提交。
+
+也欢迎转发这个 thread 让更多人看到，可以直接转发到其他平台，备注来源即可。
+
+https://t.co/IwitBed8jP
+
+30/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544474518688181][View Tweet]]
+** 📌
+#+BEGIN_QUOTE
+完整的 thread 内容
+
+https://t.co/0doJLmv3tr
+
+31/31 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _https://t.co/AgfDhVEASK..._ by @Tisoga on Twitter
+*** [[https://twitter.com/Tisoga/status/1736544477744095290][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/谈谈最近「211230」
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Geekinney's Blog]]
 :full-title: "谈谈最近「211230」"
@@ -10,7 +12,7 @@
 :image-url: https://geekinney.com/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 •   上班累的时候，写个几行字，不定计划。最终目的当然是想写一手好字，并借此拾起与手写相关的兴趣。好的字看起来赏心悦目，让人心情好。不定计划。
@@ -35,4 +37,4 @@
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _谈谈最近「211230」_ by Geekinney's Blog
-*** [View Highlight](https://read.readwise.io/read/01gmcxhkj3a4g0ebjfzqy7zf2w)
+*** [[https://read.readwise.io/read/01gmcxhkj3a4g0ebjfzqy7zf2w][View Highlight]]

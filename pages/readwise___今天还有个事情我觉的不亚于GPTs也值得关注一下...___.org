@@ -2,6 +2,8 @@
 :title: readwise/今天还有个事情我觉的不亚于GPTs也值得关注一下...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[op7418 on Twitter]]
 :full-title: "今天还有个事情我觉的不亚于GPTs也值得关注一下..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天还有个事情我觉的不亚于GPTs也值得关注一下。
@@ -27,7 +29,7 @@ LCM Lora现在已经可以在Comfy UI上使用了，我自己测试了一下，1
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _今天还有个事情我觉的不亚于GPTs也值得关注一下..._ by @op7418 on Twitter
-*** [View Tweet](https://twitter.com/op7418/status/1723016460220735748)
+*** [[https://twitter.com/op7418/status/1723016460220735748][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 想象中的好日子终于来了，LCM Lora搭配Animatediff生成视频，16帧只需要7秒钟的时间。 
@@ -36,11 +38,11 @@ LCM Lora现在已经可以在Comfy UI上使用了，我自己测试了一下，1
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _今天还有个事情我觉的不亚于GPTs也值得关注一下..._ by @op7418 on Twitter
-*** [View Tweet](https://twitter.com/op7418/status/1723027833709076920)
+*** [[https://twitter.com/op7418/status/1723027833709076920][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这是生成的那个视频 <video controls><source src="https://video.twimg.com/tweet_video/F-lsvZvaEAA2rtp.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _今天还有个事情我觉的不亚于GPTs也值得关注一下..._ by @op7418 on Twitter
-*** [View Tweet](https://twitter.com/op7418/status/1723027915581858018)
+*** [[https://twitter.com/op7418/status/1723027915581858018][View Tweet]]

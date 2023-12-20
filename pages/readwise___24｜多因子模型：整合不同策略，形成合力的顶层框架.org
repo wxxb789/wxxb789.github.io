@@ -2,6 +2,8 @@
 :title: readwise/24｜多因子模型：整合不同策略，形成合力的顶层框架
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "24｜多因子模型：整合不同策略，形成合力的顶层框架"
@@ -11,14 +13,14 @@
 :image-url: https://static001.geekbang.org/resource/image/c3/b4/c3a6b26cd381efafe57c628c0ccfaeb4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 在我的眼中，多因子模型是量化投资中最重要的模型。我这样说有两个原因。第一个原因，是我认为能否熟练使用多因子模型，是区分量化投资高手和初学者的一个重要分界线；第二个原因，是多因子模型蕴含着量化投资的一整套核心思想。这套思想具有很普遍的指导意义，即使你做的不是量化投资，它也能在你最迷惑的时候，帮你拨开迷雾，给你指出明路。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh121b00d0nmmfp26nn704)
+*** [[https://read.readwise.io/read/01gxrh121b00d0nmmfp26nn704][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 到底什么是多因子模型？
@@ -29,28 +31,28 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh1dezqhawfkh4wzyhfdyb)
+*** [[https://read.readwise.io/read/01gxrh1dezqhawfkh4wzyhfdyb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 总之，股价未来的走势肯定是由多种因子共同决定的，每种因子实际上都代表一种投资股票的底层策略。要把如此多的因子整合在一起，发挥出最大的作用，就需要我们构建一个具有坚实数学基础的模型，这个模型就是我们说的“多因子模型”。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh1va03x77pa5z1tks3yfd)
+*** [[https://read.readwise.io/read/01gxrh1va03x77pa5z1tks3yfd][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在股票预测中，有哪些常用的因子？ 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh241a6e96mpx4x3v3pny6)
+*** [[https://read.readwise.io/read/01gxrh241a6e96mpx4x3v3pny6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这里我大致梳理了一下，常见的因子种类包括宏观因子、行业因子、技术面因子、基本面因子、大数据因子等等，至于它们的具体数量就更多了。你应该还记得，我在 19 讲 介绍过一家国际知名的量化投资机构，它挖掘出的有预测能力，还有一定差异化的技术面因子就有 100 多万种。不过，我们当然没有必要全部了解所有具体的因子，只需要清楚每个因子类别的含义就可以了。接下来，我就对上面提到的 5 种常见的因子种类做个具体介绍。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh2eh76ks3baz2b0kbm1m5)
+*** [[https://read.readwise.io/read/01gxrh2eh76ks3baz2b0kbm1m5][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 宏观因子
@@ -61,7 +63,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh2xgbg9ge32k29rxjksf6)
+*** [[https://read.readwise.io/read/01gxrh2xgbg9ge32k29rxjksf6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 行业因子
@@ -72,7 +74,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh36y5j3vx6xmq33c3w7sk)
+*** [[https://read.readwise.io/read/01gxrh36y5j3vx6xmq33c3w7sk][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 技术面因子
@@ -83,7 +85,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh3ec96005vfpa25w5s7s8)
+*** [[https://read.readwise.io/read/01gxrh3ec96005vfpa25w5s7s8][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 基本面因子
@@ -92,7 +94,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh3jbbw76rxc5y2jdt10wt)
+*** [[https://read.readwise.io/read/01gxrh3jbbw76rxc5y2jdt10wt][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 大数据因子
@@ -109,56 +111,56 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh40trqejpabh71hc0q5ct)
+*** [[https://read.readwise.io/read/01gxrh40trqejpabh71hc0q5ct][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 公募基金中富国、华泰柏瑞、景顺长城发行的指数增强基金，就是比较典型的多因子框架下运作管理的基金。我在下面的图片中给出了富国中证 500 指数增强基金的价格比，你可以感受下多因子模型在创造稳健超额收益上的效果（具体数据你可以看这个链接）： 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh46fpekq3nhbv7g0ej491)
+*** [[https://read.readwise.io/read/01gxrh46fpekq3nhbv7g0ej491][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在 2014 年前后，国内各家公募基金跟各大互联网公司合作，利用各种大数据，发行了多只大数据驱动的基金。比如，广发基金利用百度提供的每只股票的搜索热度大数据，编制成大数据因子，加入到多因子模型中，成立了一只广发中证百度百发策略 100 指数基金；博时基金利用淘宝大数据，成立了一只博时中证淘金大数据 100 指数型基金；南方基金利用新浪财经的大数据，设立了一只南方大数据 100 指数基金。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh4sx062sx8zcr4fpsaqfx)
+*** [[https://read.readwise.io/read/01gxrh4sx062sx8zcr4fpsaqfx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们怎样训练多因子模型？ 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh5gcbjt2y434171szsbpb)
+*** [[https://read.readwise.io/read/01gxrh5gcbjt2y434171szsbpb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在线性的多因子模型结构下，我们获得各因子系数的基本操作，就是多元线性回归，回归系数就是每个因子的系数 f1 到 fK。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh5m0khzw2swqf3rc4j750)
+*** [[https://read.readwise.io/read/01gxrh5m0khzw2swqf3rc4j750][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 就像算法工程师们做的各种机器学习模型一样，股票市场上的多因子收益预测模型也需要不断进行更新，所以它的训练是一种滑动训练的思路。用上面的例子来说，就是每天都用最近一年的面板样本，也就是全部股票最近 242 天的数据，来重新拟合模型。并且，还要把最新的因子值输入新训练出来的模型，输出对未来的预测值，这样才能让模型跟得上不断变化的市场。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh62kawtw0pfr2etf3y7cn)
+*** [[https://read.readwise.io/read/01gxrh62kawtw0pfr2etf3y7cn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在实际训练多因子模型时，一个关键的问题是要事前确定好模型的预测目标，比如是做分钟级别的高频预测，还是天级别的中期预测，抑或是月年级别的长期预测。预测目标是什么，直接决定了训练时数据如何生成，以及因子如何选择。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh691rvkm8bs34yyqjmmnr)
+*** [[https://read.readwise.io/read/01gxrh691rvkm8bs34yyqjmmnr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这个时候，如果我们把自己当成一个多因子模型，最应该做的是什么呢？就是要列出所有的因子，然后分清主次，给这些因子不同的权重。注意，要把自己最宝贵的时间和精力，分配在最重要的因子上，只有这样才能最大程度地提高成功的概率。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh6t3437axae53ayntx981)
+*** [[https://read.readwise.io/read/01gxrh6t3437axae53ayntx981][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 多因子模型建立在坚实的数学基础上，是把多个因子整合在一起，发挥出最大作用的投资模型。
@@ -173,4 +175,4 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _24｜多因子模型：整合不同策略，形成合力的顶层框架_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrh6yfcr3ddx3byjc31ca6t)
+*** [[https://read.readwise.io/read/01gxrh6yfcr3ddx3byjc31ca6t][View Highlight]]

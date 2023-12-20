@@ -2,6 +2,8 @@
 :title: readwise/2022 年终小结 🐯
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Henry Z's blog~]]
 :full-title: "2022 年终小结 🐯"
@@ -10,28 +12,28 @@
 :image-url: https://changchen.me/images/loading/loading.svg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ✅ [3/6] 找到 6 个人生有意义的瞬间 
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxppec58wf92v0dzpe9t71)
+*** [[https://read.readwise.io/read/01gqfxppec58wf92v0dzpe9t71][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ✅ [2/2] 个人开源项目建立 or 贡献 
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxq0yxk4hkeq5n1bx52v1k)
+*** [[https://read.readwise.io/read/01gqfxq0yxk4hkeq5n1bx52v1k][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ✅ [12/10] 📚每月读一本书 
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxq3m0ect61n0wtf3bd0va)
+*** [[https://read.readwise.io/read/01gqfxq3m0ect61n0wtf3bd0va][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 际・社群 - 尝试线下聚会，寻找同路人
@@ -41,7 +43,7 @@
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxq7s79d4axgr0cj2thnc8)
+*** [[https://read.readwise.io/read/01gqfxq7s79d4axgr0cj2thnc8][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 财务・理财 - 工作无法创造财富(freedom)
@@ -50,14 +52,14 @@
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxqc9jy36v6vxa1t9q063m)
+*** [[https://read.readwise.io/read/01gqfxqc9jy36v6vxa1t9q063m][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 你的工作环境很糟糕？你的工作很无聊？尝试纠正它。不过，不要一直试下去。正如 Martin Fowler 说的，“你可以去改变组织，或是让自己换一个组织。” 
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxr6qv63ssdcvzsexrcsgk)
+*** [[https://read.readwise.io/read/01gqfxr6qv63ssdcvzsexrcsgk][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 HOW
@@ -68,7 +70,7 @@ HOW
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxp9qvnpy277qj50621av4)
+*** [[https://read.readwise.io/read/01gqfxp9qvnpy277qj50621av4][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 源参与
@@ -80,14 +82,14 @@ HOW
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxrkyvce65dmcs3n03c2hy)
+*** [[https://read.readwise.io/read/01gqfxrkyvce65dmcs3n03c2hy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 参考之前的博客[《Henry's IDE to VIM Cheatsheet》](https://changchen.me/blog/20220814/ide2vim/)。 
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxrsh93f68t93se4cpyrwv)
+*** [[https://read.readwise.io/read/01gqfxrsh93f68t93se4cpyrwv][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 BTW，分享 [《蛤蟆先生去看心理医生》](https://book.douban.com/subject/35143790/) 书中关于人生状态的二维坐标，让人受益匪浅：
@@ -98,4 +100,4 @@ BTW，分享 [《蛤蟆先生去看心理医生》](https://book.douban.com/subj
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _2022 年终小结 🐯_ by Henry Z's blog~
-*** [View Highlight](https://read.readwise.io/read/01gqfxv16w526g8g36k4xk06fd)
+*** [[https://read.readwise.io/read/01gqfxv16w526g8g36k4xk06fd][View Highlight]]

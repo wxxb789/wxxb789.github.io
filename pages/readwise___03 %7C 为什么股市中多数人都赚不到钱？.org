@@ -2,6 +2,8 @@
 :title: readwise/03 | 为什么股市中多数人都赚不到钱？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[youzhiyouxing.cn]]
 :full-title: "03 | 为什么股市中多数人都赚不到钱？"
@@ -10,28 +12,28 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 一篇近期很火的[论文](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3402254)，研究了 2014～2015 年的牛市与随后股灾中的财富转移。研究者发现，在 2014 年牛市初期的上涨中，大部分投资者减少了股票持仓。这也不难理解，熬了这么多年好不容易能解套，那肯定是要落袋为安。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtgfpmxsyqv5bhjzennqa9)
+*** [[https://read.readwise.io/read/01grrtgfpmxsyqv5bhjzennqa9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 不只是股市这样，基金市场也是如此。有知有行曾经对「基民是怎么把钱亏掉的」做过一个统计：大部分基民都是在市场刚开始上涨时赎回，又在牛市顶峰附近大量申购。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtgqt8ygajgccxx15dd2pe)
+*** [[https://read.readwise.io/read/01grrtgqt8ygajgccxx15dd2pe][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们把这个原因称之为：*人没有直接感知事物价格的能力。* 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrthsp2rdfrady5jt55r6vt)
+*** [[https://read.readwise.io/read/01grrthsp2rdfrady5jt55r6vt][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 实际上，在查理·芒格（Charlie Munger）推荐过的一本书《影响力》和另一本著名畅销书《无价》里面，都讲过类似的道理。
@@ -40,7 +42,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtj4wdhmp7tdd88ejxgaa0)
+*** [[https://read.readwise.io/read/01grrtj4wdhmp7tdd88ejxgaa0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 为什么说这个提议相当天才呢？因为它迅速把一个非常开放性的问题，缩减到了一个具体的框架里：
@@ -53,7 +55,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtkhd7x6bw3jq28dhyk55q)
+*** [[https://read.readwise.io/read/01grrtkhd7x6bw3jq28dhyk55q][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 所以很多投资大师都说过这样的话：在大部分时间里，我都不知道我的股票是算贵的还是便宜的，只有在一些很极端的情况下我才知道。这正是因为金融资产的定价本来就是相对模糊的。
@@ -62,14 +64,14 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtp7k1t3z3zrfqahzwz624)
+*** [[https://read.readwise.io/read/01grrtp7k1t3z3zrfqahzwz624][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 举个例子：假设一个小区有 100 套房，那么在二手房市场上，肯定不是时时刻刻都有 100 套在交易的，可能有 10 套就很多了。这个小区几个月之前平均价格可能是 5 万一平米，但这个时候，突然有两套房以 6 万一平米的价格成交了，你猜小区业主觉得自己的房子值多少钱？一定是 6 万而不是 5 万。换句话说，是刚刚交易的这一两套房子的价格，决定了整个小区房子的价格，这就是所谓的「边际定价」。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtpy3vhsvf44d4ze5v05ks)
+*** [[https://read.readwise.io/read/01grrtpy3vhsvf44d4ze5v05ks][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 股价是由什么决定的？
@@ -80,28 +82,28 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtq9xff6k0gpzdvq8re4qf)
+*** [[https://read.readwise.io/read/01grrtq9xff6k0gpzdvq8re4qf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 股价由两个因素所决定，一个是公司的内在价值，而另一个是估值。估值是导致股价在短期大幅波动的根本原因。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtqkbymcqmppw9nbeq10jt)
+*** [[https://read.readwise.io/read/01grrtqkbymcqmppw9nbeq10jt][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 假如你购买的股票价格上涨了，那么这部分上涨，可能是由两个因素引起：第一个因素是内在价值的提升，这既可能是因为企业经营增值的过程中赚了更多钱，也可能是由于融资、增发等引起内在价值突发的方式，第二个因素就是投资者的预期变好，情绪更加积极了。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtr0s9fvs329kgdbv4c23k)
+*** [[https://read.readwise.io/read/01grrtr0s9fvs329kgdbv4c23k][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *内在价值是客观的，但估值背后的预期和情绪是我们主观的。*就像我们前面说的一样，面对同样的企业，同样的市场，同样的信息，我们也很难做出正确的估值。与此同时，我们的情绪还会被市场的其它参与者所影响，在贪婪和恐惧中切换，而这会进一步影响我们的行为。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtrhnw1976cr3jjprqbr1w)
+*** [[https://read.readwise.io/read/01grrtrhnw1976cr3jjprqbr1w][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 投资大师沃伦·巴菲特（Warren Buffett）在给本杰明·格雷厄姆（Benjamin Graham）的著作《聪明的投资者》作序时，曾经写过这样一句话：
@@ -110,32 +112,32 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtry71rg20bpzk43vz478d)
+*** [[https://read.readwise.io/read/01grrtry71rg20bpzk43vz478d][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这一课让我先想到了 E 大语录： 市场在长期由基本面（价值）决定； 而中短期只由资金和情绪决定。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtsny3qffa0g54yras00ax)
+*** [[https://read.readwise.io/read/01grrtsny3qffa0g54yras00ax][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 逻辑学里有句话，证伪比证实容易。同理，得出合理定价很难，识别不合理的定价则相对容易。在不合理的低价，与不合理的高价之间，就是我们应该买入的时候，也就是很多人说的：合适的买入价格是一个范围，而不是某一个点。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrttssc0zktrx15g2g421jg)
+*** [[https://read.readwise.io/read/01grrttssc0zktrx15g2g421jg][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 投资本质上就是解决三个问题： 1、买什么 2、什么时候买 3、什么时候卖 判断买什么。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtvd1s8f9k7876e2xwf3pg)
+*** [[https://read.readwise.io/read/01grrtvd1s8f9k7876e2xwf3pg][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 发现这个课程，配合张潇雨老师之前的， 个人投资课和商业经典案例课， 共同食用更加有效， 还有余剑锋老师的行为经济学， 薛兆丰的经济学课…… 想起来，给企业估值，不但普通人做不到， 连专业机构也极难做到…… 窃以为，企业价值，本来就是一个动态概念， 即使是企业内部人员，都很难弄清楚， 企业目前的价值，到底是多少？ 更不要说，要弄明白， 企业目前的价值是怎么来的？ 当前企业价值未来会如何增长？ 即使是明显的好企业， 谁又能保证，未来企业领导层， 不会犯下致命的错误？ 所以，我们作为普通投资者， 最佳的策略，是否就是保持弱者思维， 自己买卖股票等权益类资产所用的金额， 一定是占自己资产总额最小的部分， 边学边练手，边遭受市场毒打？ 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _03 | 为什么股市中多数人都赚不到钱？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrtwkxgytg21c9s3zm2t539)
+*** [[https://read.readwise.io/read/01grrtwkxgytg21c9s3zm2t539][View Highlight]]

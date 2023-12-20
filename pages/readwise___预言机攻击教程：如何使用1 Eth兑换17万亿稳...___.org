@@ -2,6 +2,8 @@
 :title: readwise/预言机攻击教程：如何使用1 Eth兑换17万亿稳...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[0xAA_Science on Twitter]]
 :full-title: "预言机攻击教程：如何使用1 Eth兑换17万亿稳..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1463080286665666564/ubE1IWCT.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 预言机攻击教程：如何使用1 ETH兑换17万亿稳定币，并成为世界首富（并没有）。
@@ -22,7 +24,7 @@ WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著�
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
-*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034787968847872)
+*** [[https://twitter.com/0xAA_Science/status/1608034787968847872][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1/
@@ -32,7 +34,7 @@ WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著�
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
-*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034791378817026)
+*** [[https://twitter.com/0xAA_Science/status/1608034791378817026][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/
@@ -43,7 +45,7 @@ WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著�
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
-*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034794449039362)
+*** [[https://twitter.com/0xAA_Science/status/1608034794449039362][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/
@@ -54,7 +56,7 @@ WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著�
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
-*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034806599909376)
+*** [[https://twitter.com/0xAA_Science/status/1608034806599909376][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/
@@ -67,7 +69,7 @@ WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著�
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
-*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034809552711680)
+*** [[https://twitter.com/0xAA_Science/status/1608034809552711680][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/
@@ -75,4 +77,4 @@ WTF Solidity合约安全新的一讲（S15）中，我们介绍了臭名昭著�
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _预言机攻击教程：如何使用1 Eth兑换17万亿稳..._ by @0xAA_Science on Twitter
-*** [View Tweet](https://twitter.com/0xAA_Science/status/1608034811930894338)
+*** [[https://twitter.com/0xAA_Science/status/1608034811930894338][View Tweet]]

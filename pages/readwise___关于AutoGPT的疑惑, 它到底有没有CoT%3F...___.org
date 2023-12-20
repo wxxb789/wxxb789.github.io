@@ -2,6 +2,8 @@
 :title: readwise/关于AutoGPT的疑惑, 它到底有没有CoT?...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[realrenmin on Twitter]]
 :full-title: "关于AutoGPT的疑惑, 它到底有没有CoT?..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 关于AutoGPT的疑惑, 它到底有没有CoT?
@@ -27,7 +29,7 @@
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383612931870720)
+*** [[https://twitter.com/realrenmin/status/1647383612931870720][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/n 根据AutoGPT的代码，粗略地画了它构建prompt message的流程图。
@@ -42,7 +44,7 @@ template
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383615934963713)
+*** [[https://twitter.com/realrenmin/status/1647383615934963713][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/n 这四个部分中，只有prompt template是不变的。
@@ -51,7 +53,7 @@ template
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383618661257219)
+*** [[https://twitter.com/realrenmin/status/1647383618661257219][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/n 其余三个组成部分（user，postfix，memory）在不同的阶段都有变化，具体来说可以分为两个阶段：
@@ -61,7 +63,7 @@ template
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383621437906947)
+*** [[https://twitter.com/realrenmin/status/1647383621437906947][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/n 阶段一
@@ -73,7 +75,7 @@ memory为空
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383623988043776)
+*** [[https://twitter.com/realrenmin/status/1647383623988043776][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/n  所以第一阶段的prompt message为
@@ -84,7 +86,7 @@ prompting LLM， “同时” 生成了thought 和 command的json
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383626932436992)
+*** [[https://twitter.com/realrenmin/status/1647383626932436992][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/n 阶段二
@@ -98,7 +100,7 @@ memory = [json from previous step + result from previous command + postfix]
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383629444820992)
+*** [[https://twitter.com/realrenmin/status/1647383629444820992][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/n 所以第二阶段的prompt message为
@@ -111,7 +113,7 @@ prompting LLM，再次 “同时” 生成 thought 和 command
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383632062066690)
+*** [[https://twitter.com/realrenmin/status/1647383632062066690][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/ AutoGPT的prompt 建立过程中有几个疑惑点
@@ -122,7 +124,7 @@ prompting LLM，再次 “同时” 生成 thought 和 command
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383635119706112)
+*** [[https://twitter.com/realrenmin/status/1647383635119706112][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/n step by step的核心步骤是把step by step生成的CoT反贴生成新的prompt来生成action，总而言之，llm被prompt了两次
@@ -133,7 +135,7 @@ prompting LLM，再次 “同时” 生成 thought 和 command
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383638114443266)
+*** [[https://twitter.com/realrenmin/status/1647383638114443266][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/n 在阶段一，AutoGPT的memory为空，完全依赖一个静态的prompt message，没有显性的CoT
@@ -144,7 +146,7 @@ prompting LLM，再次 “同时” 生成 thought 和 command
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383641188868098)
+*** [[https://twitter.com/realrenmin/status/1647383641188868098][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/n 如此看来在阶段一和二，都不太符合CoT的一般步骤。
@@ -155,7 +157,7 @@ prompting LLM，再次 “同时” 生成 thought 和 command
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383643793530881)
+*** [[https://twitter.com/realrenmin/status/1647383643793530881][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13/ 最后感谢两位读者@thankswell4 和 @connglli 非常critical的指正和讨论，获益匪浅。
@@ -166,4 +168,4 @@ prompting LLM，再次 “同时” 生成 thought 和 command
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _关于AutoGPT的疑惑, 它到底有没有CoT?..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1647383646280769537)
+*** [[https://twitter.com/realrenmin/status/1647383646280769537][View Tweet]]

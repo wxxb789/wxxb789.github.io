@@ -2,6 +2,8 @@
 :title: readwise/A16Z刚发布了一篇文章：《It’s Not A...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Alphatu5 on Twitter]]
 :full-title: "A16Z刚发布了一篇文章：《It’s Not A..."
@@ -10,60 +12,60 @@
 :image-url: https://pbs.twimg.com/profile_images/1614410792639819776/eRPTzP_t.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 A16Z刚发布了一篇文章：《It’s Not a Computer, It’s a Companion》主要讲了AI作为未来人类另一半的趋势和分析：比如说，人们为何愿意创建伴侣，他们是如何实现的，以及接下来可能出现的特性或使用场景。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262644500414464)
+*** [[https://twitter.com/Alphatu5/status/1672262644500414464][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 与电脑聊天并不是什么新鲜事物。早在1960年代，麻省理工学院的ELIZA就问世了，这是第一个聊天机器人。此后，我们见证了Clippy、SmarterChild、Alicebot和Kuki等产品的出现。虽然这些产品都曾经一度风靡一时，但它们并没有在消费者的意识中留下深远的印象。没有一款产品能够像ChatGPT那样广泛普及。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262646475939842)
+*** [[https://twitter.com/Alphatu5/status/1672262646475939842][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 那么，为什么这一波新的聊天机器人感觉与众不同呢？以前的聊天机器人采用的是基于规则的架构，本质上是由你的输入触发的脚本。它们缺乏真正的对话环境，无法适应你的语气，并且只能编程来回应有限的话题或执行固定的任务。你很清楚你在与一台电脑交谈，它们不像智能体，更不用说像人类了。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262648522756097)
+*** [[https://twitter.com/Alphatu5/status/1672262648522756097][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然而，大型语言模型（LLMs）改变了这个局面。突然之间，我们可以自由地与机器人交谈，而无需预定义的规则来控制它们的回应（尽管有些公司试图审查它们的机器人，但通常并不奏效！）。如今，最好的聊天机器人听起来与人类无法区分，如果你不相信的话，可以试试“人还是机器人？”的图灵测试游戏。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262653937598464)
+*** [[https://twitter.com/Alphatu5/status/1672262653937598464][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 于是，尽管ChatGPT存在明显的产品限制，它仍然成为最快达到1亿用户规模的消费者产品。真正的对话型人工智能无疑是有趣的——现在的电脑有个性。与人类不同，由AI驱动的聊天伴侣随时在线，并愿意与你交谈，能够讨论任何话题。这使得AI伴侣成为生成型人工智能在日常消费者中的首批杀手级应用之一。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262658379366401)
+*** [[https://twitter.com/Alphatu5/status/1672262658379366401][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 想象一下AI朋友、治疗师、导师、教练或导师并不难，但这些AI与人类关系的早期版本往往更偏向于情侣——AI的“女朋友”或“男朋友”。为什么会这样呢？简单来说指出娱乐行业长期以来一直处于新技术的驱动前沿，但我们不应忽视可能推动人们探索非传统伴侣的社会变化。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262660539441152)
+*** [[https://twitter.com/Alphatu5/status/1672262660539441152][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 首先，人们结婚的年龄越来越晚（或者根本不结婚），除了结婚之外的恋情数字也在下降。截至2019年，38%的美国成年人是“无伴侣”的，而在1990年代，这个数字只有29%。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262662544326657)
+*** [[https://twitter.com/Alphatu5/status/1672262662544326657][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 与此同时，我们中的许多人现在有着完全在线的有意义的关系（无论是友情还是恋情）。即使你有一个现实生活中的伴侣，你可能通过文本与他们互动的次数比面对面的次数更多。  我们的关系已经在很大程度上是数字化的，所以我们已经为伴侣AI的时代做好了准备。 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _A16Z刚发布了一篇文章：《It’s Not A..._ by @Alphatu5 on Twitter
-*** [View Tweet](https://twitter.com/Alphatu5/status/1672262664565956608)
+*** [[https://twitter.com/Alphatu5/status/1672262664565956608][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/初步掌握了ai二维码的生成方法，效果图如下，开个...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Datou on Twitter]]
 :full-title: "初步掌握了ai二维码的生成方法，效果图如下，开个..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/649477316461006848/K2eKkOPs.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 初步掌握了AI二维码的生成方法，效果图如下，开个🧵简单介绍一下工作流。
@@ -32,7 +34,7 @@
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676763811360157696)
+*** [[https://twitter.com/Datou/status/1676763811360157696][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1.一个容易和图片融合的二维码是基础的基础，可以参考以下设置生成一个二维码。二维码里所包含的信息越少，图案就越简单，如果想要生成的url太长，可以用短网址压缩一下。
@@ -43,7 +45,7 @@ QR Toolkit安装地址https://t.co/OOJf9uS6Uf
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676765217152442374)
+*** [[https://twitter.com/Datou/status/1676765217152442374][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2.在文生图里填写一些容易和二维码融合的提示词，比如森林、树木、花朵，这样才能生成出来比较自然的融合效果。采样步数开高一点，我设置了52步，高清修复可以打开。 
@@ -52,7 +54,7 @@ QR Toolkit安装地址https://t.co/OOJf9uS6Uf
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676766105506054144)
+*** [[https://twitter.com/Datou/status/1676766105506054144][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3.如果提示词里有人，最好加上full body，让人全身入画，这样人脸会变小，不容易被斑点覆盖。人脸变小之后容易崩坏，修脸神器可以解决崩坏的问题。
@@ -62,7 +64,7 @@ ADetailer下载地址https://t.co/1NwpeCh2gf
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676767144141533184)
+*** [[https://twitter.com/Datou/status/1676767144141533184][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4.接下来就是controlnet了，目前效果比较好的是QR Code Monster v1.0，预处理器选none，control weight可以设置为1.4。
@@ -72,7 +74,7 @@ QR Code Monster下载地址https://t.co/xTovEyuYnz
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676768122584567809)
+*** [[https://twitter.com/Datou/status/1676768122584567809][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5.点击生成按钮
@@ -80,7 +82,7 @@ QR Code Monster下载地址https://t.co/xTovEyuYnz
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676769387129495552)
+*** [[https://twitter.com/Datou/status/1676769387129495552][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 吃过午饭后突发奇想，把controlnet的Starting Control Step改成了0.05，效果一下子好了很多。 
@@ -95,7 +97,7 @@ QR Code Monster下载地址https://t.co/xTovEyuYnz
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676826083537330176)
+*** [[https://twitter.com/Datou/status/1676826083537330176][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F0VZsT4aQAAYzZ4.jpg) 
@@ -104,4 +106,4 @@ QR Code Monster下载地址https://t.co/xTovEyuYnz
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _初步掌握了ai二维码的生成方法，效果图如下，开个..._ by @Datou on Twitter
-*** [View Tweet](https://twitter.com/Datou/status/1676845350227968000)
+*** [[https://twitter.com/Datou/status/1676845350227968000][View Tweet]]

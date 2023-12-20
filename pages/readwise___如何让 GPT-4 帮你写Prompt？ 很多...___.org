@@ -2,6 +2,8 @@
 :title: readwise/如何让 GPT-4 帮你写Prompt？ 很多...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "如何让 GPT-4 帮你写Prompt？ 很多..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 如何让 GPT-4 帮你写Prompt？
@@ -41,7 +43,7 @@
 #+END_QUOTE
     date:: [[2023-10-25]]
 *** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1716700422763618653)
+*** [[https://twitter.com/dotey/status/1716700422763618653][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 参考Prompt：
@@ -60,7 +62,7 @@ Prompt的结构：
 #+END_QUOTE
     date:: [[2023-10-25]]
 *** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1716700958174970323)
+*** [[https://twitter.com/dotey/status/1716700958174970323][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我很喜欢GPT帮我写的一个例子：
@@ -94,7 +96,7 @@ Conveyed Meaning Translation:
 #+END_QUOTE
     date:: [[2023-10-25]]
 *** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1716701751410086114)
+*** [[https://twitter.com/dotey/status/1716701751410086114][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 好问题，如果对结果不满意，是可以进一步提要求的，比如我这个会话：https://t.co/zB45Q7l11N
@@ -103,4 +105,4 @@ https://t.co/7Bm9Yj0xyT
 #+END_QUOTE
     date:: [[2023-10-25]]
 *** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1716702094198026362)
+*** [[https://twitter.com/dotey/status/1716702094198026362][View Tweet]]

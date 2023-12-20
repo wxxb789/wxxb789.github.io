@@ -2,6 +2,8 @@
 :title: readwise/“What Should I Work On?”...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[radamihalcea on Twitter]]
 :full-title: "“What Should I Work On?”..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1022984303712653312/FE2COcsw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 “What should I work on?” is a question we hear more & more often from NLP students, during a time when the media rhetoric is that “it’s been all solved”
@@ -21,7 +23,7 @@ https://t.co/Lif85EhxuI
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _“What Should I Work On?”..._ by @radamihalcea on Twitter
-*** [View Tweet](https://twitter.com/radamihalcea/status/1660984828622192644)
+*** [[https://twitter.com/radamihalcea/status/1660984828622192644][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We identified numerous research directions in areas covering multilinguality, reasoning, KB, grounding, computational social science, language acquisition, non-verbal communication, interpretability, efficiency, ethics & more.
@@ -31,18 +33,18 @@ https://t.co/I3lFjTXgx6
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _“What Should I Work On?”..._ by @radamihalcea on Twitter
-*** [View Tweet](https://twitter.com/radamihalcea/status/1660984831721832448)
+*** [[https://twitter.com/radamihalcea/status/1660984831721832448][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 This compilation of ideas from across NLP is the result of a careful thought process from a diverse group of students in the LIT🔥lab: @OanaIgnatRo, @ZhijingJin, Artem Abzaliev, Laura Biester @lbiester23, Santiago Castro @bryant1410, @NaihaoDeng Xinyi Gao, @AylinGunal_2, Jacky He 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _“What Should I Work On?”..._ by @radamihalcea on Twitter
-*** [View Tweet](https://twitter.com/radamihalcea/status/1660984834167128065)
+*** [[https://twitter.com/radamihalcea/status/1660984834167128065][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @AshkanKazemi, Muhammad Khalifa @MKhalifaaaa, Namho Koh, Andrew Lee @a_jy_l, Siyang Liu, Do June Min @dojminn, Shinka Mori, Joan Nwatu @_agirlyengineer, Veronica Perez-Rosas @vperez_r, Siqi Shen, Zekun Wang, Winston Wu 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _“What Should I Work On?”..._ by @radamihalcea on Twitter
-*** [View Tweet](https://twitter.com/radamihalcea/status/1660984836843089920)
+*** [[https://twitter.com/radamihalcea/status/1660984836843089920][View Tweet]]

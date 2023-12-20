@@ -2,6 +2,8 @@
 :title: readwise/使用大型语言模型（llm）最让人头疼的就是学习p...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[JefferyTatsuya on Twitter]]
 :full-title: "使用大型语言模型（llm）最让人头疼的就是学习p..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 使用大型语言模型（LLM）最让人头疼的就是学习Prompt，台湾有趣地将这样的职业译为“AI咒语咏唱师”。
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776702450003968)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776702450003968][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1️⃣ AIPRM
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776705188864002)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776705188864002][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2️⃣ ChatGPT Shortcut
@@ -42,7 +44,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776709043425291)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776709043425291][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3️⃣ CohesiveAI
@@ -53,7 +55,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776711551651842)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776711551651842][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4️⃣ Prompt Awesome List
@@ -65,7 +67,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776714844147725)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776714844147725][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5️⃣ Prompt Engineering for LLMs Course
@@ -78,7 +80,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776717792755713)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776717792755713][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6️⃣ 吴恩达和OpenAI的Prompt教育视频：ChatGPT Prompt Engineering for Developers
@@ -87,7 +89,7 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776720724570114)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776720724570114][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7️⃣ Learn Prompting
@@ -98,4 +100,4 @@
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _使用大型语言模型（llm）最让人头疼的就是学习p..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1663776724923088897)
+*** [[https://twitter.com/JefferyTatsuya/status/1663776724923088897][View Tweet]]

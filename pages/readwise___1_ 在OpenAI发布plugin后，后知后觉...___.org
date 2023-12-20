@@ -2,6 +2,8 @@
 :title: readwise/1_ 在OpenAI发布plugin后，后知后觉...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[realrenmin on Twitter]]
 :full-title: "1/ 在OpenAI发布plugin后，后知后觉..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/ 在OpenAI发布plugin后，后知后觉地意识到了toolformer这篇论文的重要性，于是重读了论文，把一些读后感做个thread
@@ -25,7 +27,7 @@
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396245524324353)
+*** [[https://twitter.com/realrenmin/status/1639396245524324353][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ 首先我们看一下OpenAI plugin文档，一个重要的bullet：
@@ -39,7 +41,7 @@
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396247336280068)
+*** [[https://twitter.com/realrenmin/status/1639396247336280068][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ 这恰好是toolformer这篇论文做的事情，即训练语言模型学会使用api。
@@ -50,7 +52,7 @@
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396249563455490)
+*** [[https://twitter.com/realrenmin/status/1639396249563455490][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/ 插播Language Modeling:
@@ -61,7 +63,7 @@
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396251169873920)
+*** [[https://twitter.com/realrenmin/status/1639396251169873920][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ 作者Timo看到并把流动的语言api拿出，又再次explicitly嵌入在语言之中，相当于把语料apply了一个function，例如：
@@ -76,7 +78,7 @@ Biden born?")] Scranton
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396253015453701)
+*** [[https://twitter.com/realrenmin/status/1639396253015453701][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6）为了造出大量的并有较高质量带有这种api的预料，作者先是通过prompting语言模型造出如上条造出大量example。
@@ -85,7 +87,7 @@ Biden born?")] Scranton
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396254735056898)
+*** [[https://twitter.com/realrenmin/status/1639396254735056898][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7）最终过滤好的质量较高的api被作者设计的special token<API></API>显性地放到语料中, 例子如下：
@@ -95,7 +97,7 @@ Biden born?")] ->Scranton </API>
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396256446308352)
+*** [[https://twitter.com/realrenmin/status/1639396256446308352][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8) 用此语料，作者再一次运用language modeling，fintune了GPT-J。经过这种预料的fintune，模型学会了when，which，how to call api：
@@ -109,14 +111,14 @@ QA是api的类名，"Where was JoeBiden born?"是参数
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396258140811269)
+*** [[https://twitter.com/realrenmin/status/1639396258140811269][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9）我们再次回到openai plugin的场景，此时你也许明白了，根据用户的自然语言，模型为什么可以知道call哪个endpoint，以及传递什么样的参数了。 
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396259575283712)
+*** [[https://twitter.com/realrenmin/status/1639396259575283712][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10) 
@@ -128,4 +130,4 @@ https://t.co/mFLUFrE9lj
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _1/ 在OpenAI发布plugin后，后知后觉..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1639396261303312385)
+*** [[https://twitter.com/realrenmin/status/1639396261303312385][View Tweet]]

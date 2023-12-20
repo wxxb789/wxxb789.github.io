@@ -2,6 +2,8 @@
 :title: readwise/26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/1a/27/1ac70eddd660a47d91a1d89f1ea16827.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 策略模块：探索策略实现的细节
@@ -20,28 +22,28 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzge6dh9aawwgqezgnapb1m)
+*** [[https://read.readwise.io/read/01gxzge6dh9aawwgqezgnapb1m][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 回测的第二步是调用不同的策略函数，来生成不同策略的历史仓位记录。比如这里我调用了两个日历策略（calendar_stgy）和两个轮动策略（rotation_stgy 和 rotation_stgy1），生成了它们的历史仓位记录。回测平台是我们专门用于策略调参的地方。你可以输入不同的策略参数，来生成大量的策略持仓记录，然后通过后续的业绩分析模块来进行业绩对比，最终确定最优的策略参数。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzgnfbh6ttf7sqzx640y1a6)
+*** [[https://read.readwise.io/read/01gxzgnfbh6ttf7sqzx640y1a6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第三步是针对组合策略进行操作。如果你想开发的不是单一的策略，而是由几个策略混合起来的组合策略，那么就还需要确定不同策略之间的权重占比。比如程序中的最终执行仓位 target_wgt，就是由 50% 的日历策略仓位（target_wgt2）和 50% 的可空仓轮动策略仓位（target_wgt4）混合而成的。在真实策略的回测过程中，这里的权重也是需要通过大量的回测和业绩对比来决定的。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzgnjyksfdgqk04qqsbabfw)
+*** [[https://read.readwise.io/read/01gxzgnjyksfdgqk04qqsbabfw][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第四步是进行业绩分析并显示结果。这里，我们根据上面计算好的策略历史仓位和数据中心提供的历史行情数据，就可以计算出各策略的净值数据和业绩指标，然后调用 Python 的 Matplotlib，把曲线画出来就行了。至于分析业绩的详细过程，我会在下一讲介绍业绩分析模块的逻辑时讲解。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzgnpdn4a93g95fxs3t6h84)
+*** [[https://read.readwise.io/read/01gxzgnpdn4a93g95fxs3t6h84][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们要实现的量化投资系统包含了管理模块、策略模块、回测平台、数据中心、业绩分析和模拟交易六大模块。
@@ -54,11 +56,11 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzgnt87adp33anffvv3g7n2)
+*** [[https://read.readwise.io/read/01gxzgnt87adp33anffvv3g7n2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Annvol是年化波动率 Calmar是一种高阶指标，叫卡玛比率，值越高说明表现越好，感兴趣的话可以搜索一下具体的定义方式。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _26｜量化实战：从0到1搭建起一套简单的量化投资系统（上）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzgpsmk0ah06hcs6s8bgt5a)
+*** [[https://read.readwise.io/read/01gxzgpsmk0ah06hcs6s8bgt5a][View Highlight]]

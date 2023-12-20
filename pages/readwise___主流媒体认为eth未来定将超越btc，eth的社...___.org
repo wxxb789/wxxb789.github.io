@@ -2,6 +2,8 @@
 :title: readwise/主流媒体认为eth未来定将超越btc，eth的社...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xiangganzi on Twitter]]
 :full-title: "主流媒体认为eth未来定将超越btc，eth的社..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1494487951614496768/r-eYZSZE.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 主流媒体认为ETH未来定将超越BTC，ETH的社区强大的无法被击败的观点是我不能认可的。
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633713843087245313)
+*** [[https://twitter.com/xiangganzi/status/1633713843087245313][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 链的老师: BTC
@@ -34,7 +36,7 @@ V神早期也是想在比特币链上实现智能合约，btc core 并不认可�
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633714204376174592)
+*** [[https://twitter.com/xiangganzi/status/1633714204376174592][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这点V神在endgame中也提到了 https://t.co/cCCR5kOhuS
@@ -45,7 +47,7 @@ ETH的升级路线其实是很曲折的，V神也并不是真的神，也有很�
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633714422702301185)
+*** [[https://twitter.com/xiangganzi/status/1633714422702301185][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 去年的ETH升级其实就是共识层与执行层分离，未来的EIP-4844 升级就是实现以太坊的数据可用性层都是模块化方向的升级。
@@ -54,7 +56,7 @@ ETH的升级路线其实是很曲折的，V神也并不是真的神，也有很�
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633714672598929411)
+*** [[https://twitter.com/xiangganzi/status/1633714672598929411][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Mustafa Al-Bassam 现在做了自己模块化区块链项目，专门用来做数据可用性层的celestia，@CelestiaOrg 团队同时也为btc 做了数据可用性这个项目就是@RollkitDev。
@@ -65,7 +67,7 @@ Celestia团队为对 Rollkit 的介绍文档：
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633714767960633350)
+*** [[https://twitter.com/xiangganzi/status/1633714767960633350][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 模块化区块链的介绍，再普及一下
@@ -78,7 +80,7 @@ Celestia团队为对 Rollkit 的介绍文档：
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633715349064671238)
+*** [[https://twitter.com/xiangganzi/status/1633715349064671238][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 结算层：验证最终执行结果以及解决争议。（ETH本身链上的验证合约）
@@ -89,7 +91,7 @@ Celestia团队为对 Rollkit 的介绍文档：
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633715608360726529)
+*** [[https://twitter.com/xiangganzi/status/1633715608360726529][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Celestia 白皮书
@@ -100,7 +102,7 @@ https://t.co/EBVZhr1Rwt
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633715821917933570)
+*** [[https://twitter.com/xiangganzi/status/1633715821917933570][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 zk证明，Layer2，Layer3的老师：Starkware
@@ -111,7 +113,7 @@ ETH最新的路线图里也指出数据可用性采样，以太坊的数据结�
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633716281626198019)
+*** [[https://twitter.com/xiangganzi/status/1633716281626198019][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Starkware 有诸多产品，Starkware 创始人 Eli 本身也是zk证明系统Stark的发明者，ETH的zk化，Layer3的路线，很大程度是借鉴了Starkware团队的思想。
@@ -119,7 +121,7 @@ Starkware团队开发的Cairo语言也正在扎根web3世界，Cairo语言不仅
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633716747646951424)
+*** [[https://twitter.com/xiangganzi/status/1633716747646951424][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Cairo切入的市场和ETH的Solidity并不相同。Stark 本身比较复杂，也是最近研究较多的部分，后续会独立围绕这一块输出更具体的干货。
@@ -130,7 +132,7 @@ Cairo切入的市场和ETH的Solidity并不相同。Stark 本身比较复杂，�
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633717002299932672)
+*** [[https://twitter.com/xiangganzi/status/1633717002299932672][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 相关产品有@ZeroSync_
@@ -149,7 +151,7 @@ V神对L3看法的文章
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633717319192182786)
+*** [[https://twitter.com/xiangganzi/status/1633717319192182786][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 还有一点值得提的ETH虽然也是模块化，但是ETH是啥都做，还要兼容现有ETH，未来ETH升级的技术债务其实会比BTC这一套更多，例如EVM本身不适合zk，部分L2还得牺牲效率去实现zkEVM，抽象账户的升级等等，类似的技术债务还非常多。
@@ -158,7 +160,7 @@ https://t.co/2RWTkZOwG6
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633718194459525121)
+*** [[https://twitter.com/xiangganzi/status/1633718194459525121][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 总的来说ETH的老师们在BTC上的组合，能掀起什么样火花，是挺值得关注的事，当然这一套的运行也是像ETH升级一样需要几年的时间去一步步迭代。
@@ -167,7 +169,7 @@ https://t.co/2RWTkZOwG6
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633718513407000576)
+*** [[https://twitter.com/xiangganzi/status/1633718513407000576][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 web3的用户也是一样，你信仰BTC还是ETH呢？
@@ -178,4 +180,4 @@ web3的用户也是一样，你信仰BTC还是ETH呢？
 #+END_QUOTE
     date:: [[2023-03-10]]
 *** from _主流媒体认为eth未来定将超越btc，eth的社..._ by @xiangganzi on Twitter
-*** [View Tweet](https://twitter.com/xiangganzi/status/1633719206717038594)
+*** [[https://twitter.com/xiangganzi/status/1633719206717038594][View Tweet]]

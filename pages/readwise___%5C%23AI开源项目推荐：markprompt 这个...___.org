@@ -2,6 +2,8 @@
 :title: readwise/\#AI开源项目推荐：markprompt 这个...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "\#AI开源项目推荐：markprompt 这个..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：markprompt
@@ -29,21 +31,21 @@ https://t.co/8u3NUuPiTP
 #+END_QUOTE
     date:: [[2023-03-30]]
 *** from _#AI开源项目推荐：markprompt 这个..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1641276489780850690)
+*** [[https://twitter.com/dotey/status/1641276489780850690][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 其实它本身网站功能价值一般，Markdown文档的自然语言和检索不算大众化的应用，但这个项目的价值在于它已经把一个OpenAI项目的后端功能基本都实现了！ 
 #+END_QUOTE
     date:: [[2023-03-30]]
 *** from _#AI开源项目推荐：markprompt 这个..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1641279884575096840)
+*** [[https://twitter.com/dotey/status/1641279884575096840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 想象一下如果你要做一个集成OpenAI的客户端为客户提供服务，你肯定不希望把API Key直接放在客户端，因为这样有暴露Key的风险，最佳做法是要有个服务端和用户系统，客户端连你自己的服务端，最好你还能对每个客户端Tokens的使用量进行监控和限制。 
 #+END_QUOTE
     date:: [[2023-03-30]]
 *** from _#AI开源项目推荐：markprompt 这个..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1641279887267749888)
+*** [[https://twitter.com/dotey/status/1641279887267749888][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后最好你还有一个支付系统，可以有免费用户，每天每月限制多少Tokens，有普通用户每月10刀有多少Tokens，有高级用户每月100刀多少tokens，甚至还要有团队用户，根据团队人数收费。
@@ -52,7 +54,7 @@ https://t.co/8u3NUuPiTP
 #+END_QUOTE
     date:: [[2023-03-30]]
 *** from _#AI开源项目推荐：markprompt 这个..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1641279890342260736)
+*** [[https://twitter.com/dotey/status/1641279890342260736][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 一个小问题就是它跟很多系统都绑定过于紧密，比如向量数据库用的是Supabase，用来辅助限制流量的Redis服务用的是Upstash，还有和Nextjs以及Vecel也绑定比较紧密。
@@ -61,4 +63,4 @@ https://t.co/8u3NUuPiTP
 #+END_QUOTE
     date:: [[2023-03-30]]
 *** from _#AI开源项目推荐：markprompt 这个..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1641279892888121344)
+*** [[https://twitter.com/dotey/status/1641279892888121344][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/《像火箭科学家一样思考》的作者瓦罗尔认为，美国登...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[henices on Twitter]]
 :full-title: "《像火箭科学家一样思考》的作者瓦罗尔认为，美国登..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《像火箭科学家一样思考》的作者瓦罗尔认为，美国登月不是技术的胜利，而是思想的胜利。登月思维（奇迹思维）：找一个看似不可能的大目标，公开宣布，然后集中力量将其实现，把不可能变成可能。
@@ -30,4 +32,4 @@ We choose to go to the moon in this decade and do the other things. Not because 
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _《像火箭科学家一样思考》的作者瓦罗尔认为，美国登..._ by @henices on Twitter
-*** [View Tweet](https://twitter.com/henices/status/1722078187968926128)
+*** [[https://twitter.com/henices/status/1722078187968926128][View Tweet]]

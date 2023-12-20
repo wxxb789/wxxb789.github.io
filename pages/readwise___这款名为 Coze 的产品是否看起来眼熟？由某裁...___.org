@@ -2,6 +2,8 @@
 :title: readwise/这款名为 Coze 的产品是否看起来眼熟？由某裁...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[goocarlos on Twitter]]
 :full-title: "这款名为 Coze 的产品是否看起来眼熟？由某裁..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1610997345960984581/oLZPDA7o.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这款名为 Coze 的产品是否看起来眼熟？由某裁员中的大厂“高 Level”团队创作。该产品的完成度其实做得不错，毕竟是重金投入。但社区中屡有朋友向我发来询问，因为实在和 Dify 太像了，连我们选择不恰当的那些英文术语都全盘搬走。简单的说下吧：
@@ -39,11 +41,11 @@
 #+END_QUOTE
     date:: [[2023-11-28]]
 *** from _这款名为 Coze 的产品是否看起来眼熟？由某裁..._ by @goocarlos on Twitter
-*** [View Tweet](https://twitter.com/goocarlos/status/1729210688017760324)
+*** [[https://twitter.com/goocarlos/status/1729210688017760324][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这款产品的文档：https://t.co/niT1PG7ZsF 
 #+END_QUOTE
     date:: [[2023-11-28]]
 *** from _这款名为 Coze 的产品是否看起来眼熟？由某裁..._ by @goocarlos on Twitter
-*** [View Tweet](https://twitter.com/goocarlos/status/1729323746580976112)
+*** [[https://twitter.com/goocarlos/status/1729323746580976112][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/今天给朋友解释《一个简单的Prompt大幅提升C...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "今天给朋友解释《一个简单的Prompt大幅提升C..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天给朋友解释《一个简单的Prompt大幅提升ChatGPT翻译质量，告别“机翻感”》这个Prompt，开始他没听懂，我说可以这么理解：
@@ -27,7 +29,7 @@
 #+END_QUOTE
     date:: [[2023-10-08]]
 *** from _今天给朋友解释《一个简单的Prompt大幅提升C..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1710707427933344037)
+*** [[https://twitter.com/dotey/status/1710707427933344037][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 那为什么不一步到位呢？
@@ -36,4 +38,4 @@
 #+END_QUOTE
     date:: [[2023-10-08]]
 *** from _今天给朋友解释《一个简单的Prompt大幅提升C..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1710710941430497457)
+*** [[https://twitter.com/dotey/status/1710710941430497457][View Tweet]]

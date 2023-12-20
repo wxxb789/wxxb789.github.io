@@ -2,6 +2,8 @@
 :title: readwise/08｜职业规划：大公司vs小公司，怎样选择更有前途？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "08｜职业规划：大公司vs小公司，怎样选择更有前途？"
@@ -11,21 +13,21 @@
 :image-url: https://static001.geekbang.org/resource/image/95/07/95239e9eca085942145a1b801d0da907.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 用我的老本行，机器学习领域的术语来解释，对于职业生涯，我们要优化的目标函数是 n 年职业生涯利益的总和，而不是最近一年的职场收益。这样来看，看似棘手的职业规划问题，一下子转换成了一个财富管理的问题。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _08｜职业规划：大公司vs小公司，怎样选择更有前途？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjcyzde2vcfd3fhmvxrq4sx)
+*** [[https://read.readwise.io/read/01gxjcyzde2vcfd3fhmvxrq4sx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/7b/d9/7bdd0d078c7acfbd2f581e640da69bd9.jpg?wh=8519x3689) 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _08｜职业规划：大公司vs小公司，怎样选择更有前途？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjczk5wfvxxz5ceg966t5gh)
+*** [[https://read.readwise.io/read/01gxjczk5wfvxxz5ceg966t5gh][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 如果你想尝试加入中小公司，我有三个建议，可以帮助你有效规避潜在的风险：
@@ -38,11 +40,11 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _08｜职业规划：大公司vs小公司，怎样选择更有前途？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjd5m0hagc5nen52z0pzk7j)
+*** [[https://read.readwise.io/read/01gxjd5m0hagc5nen52z0pzk7j][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/5b/d8/5b03392e4c6270d7ff716e21222df1d8.jpg?wh=1920x1434) 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _08｜职业规划：大公司vs小公司，怎样选择更有前途？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjd6xg63dg540w24cvcyvv4)
+*** [[https://read.readwise.io/read/01gxjd6xg63dg540w24cvcyvv4][View Highlight]]

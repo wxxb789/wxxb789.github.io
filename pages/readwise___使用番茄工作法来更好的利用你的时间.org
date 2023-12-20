@@ -2,6 +2,8 @@
 :title: readwise/使用番茄工作法来更好的利用你的时间
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xiantang]]
 :full-title: "使用番茄工作法来更好的利用你的时间"
@@ -10,39 +12,39 @@
 :image-url: https://vim0.com/post/Pomodoro_todo.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 番茄工作法是由弗朗西斯科·西里在 1992 年创立的时间管理法则。使用一个定时器分割出 25 分钟时间作为工作时间，和 5 分钟的休息时间，这些时间段会被称为 pomodoros 🍅。 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _使用番茄工作法来更好的利用你的时间_ by xiantang
-*** [View Highlight](https://read.readwise.io/read/01gmbd37b1sxm8y7gqzgbgfgtn)
+*** [[https://read.readwise.io/read/01gmbd37b1sxm8y7gqzgbgfgtn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **记录你的想法**：当你正在番茄钟的里面的时候，你可能心里突然灵感爆发，或者突然想到一件事情，对于这些想法，我们会把它们放在一个列表中，也就是事项盘点列表。当你把这个想法写到这个列表中之后，你就可以立马回到你当前的任务中。倘若这个想法对你来说很重要，那你就可以把它放到今日工作表中，这样你就可以把它放到今日工作表中。在这个番茄钟结束之后下一个番茄钟就开始做这件事。 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _使用番茄工作法来更好的利用你的时间_ by xiantang
-*** [View Highlight](https://read.readwise.io/read/01gmbd4rqtf5atcc6tr5m77erb)
+*** [[https://read.readwise.io/read/01gmbd4rqtf5atcc6tr5m77erb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 更好的做法是，最大化你当前任务的窗口来挡住不断闪烁的电脑状态栏，每隔一段时间去检查它。同时我在阅读 Marc Andreessen 的《个人效率指南》的时候，看到了一个很好的办法： 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _使用番茄工作法来更好的利用你的时间_ by xiantang
-*** [View Highlight](https://read.readwise.io/read/01gmbd56zndh1rpa91jva3w3c7)
+*** [[https://read.readwise.io/read/01gmbd56zndh1rpa91jva3w3c7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **摆脱再过 5 分钟就好**：在践行番茄工作法的时候，我会带着一个老毛病，就是在番茄完成了之后，我会再想着让我再搞 5 分钟，5 分钟就能完成这个任务，但是很多时候我又多花了半个小时，并且卡在了一个步骤浪费了很多时间。这边的最佳实践是，当你完成了一个番茄钟之后，就不要想着继续再搞几分钟，**下一个番茄钟会更好**。间歇性的休息能让你更好的梳理思路。 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _使用番茄工作法来更好的利用你的时间_ by xiantang
-*** [View Highlight](https://read.readwise.io/read/01gmbd677kdg42j6mz5exgkgea)
+*** [[https://read.readwise.io/read/01gmbd677kdg42j6mz5exgkgea][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **衡量你的精力**：在使用了番茄工作法之后，你可以在第二天早晨，根据你前一天所完成的番茄数目，来界定你今天能够完成多少番茄，这样你就可以更好的衡量你的精力。这也就是为什么我们说：“使用番茄工作法的时候，浪费了多少时间并不重要，重要的是我们完成了多少个番茄时间”。 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _使用番茄工作法来更好的利用你的时间_ by xiantang
-*** [View Highlight](https://read.readwise.io/read/01gmbd6f3qpbrfx837652g07p2)
+*** [[https://read.readwise.io/read/01gmbd6f3qpbrfx837652g07p2][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/微软出的 GitHub Copilot 教程，只...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "微软出的 GitHub Copilot 教程，只..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 微软出的 GitHub Copilot 教程，只有 6 堂课，会教你如何有效利用 GitHub Copilot 以及与 AI 结对编程。
@@ -21,4 +23,4 @@ https://t.co/byZUcx9gmI<img src='https://pbs.twimg.com/media/GBdHDWtWoAAMZ-P.jpg
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _微软出的 GitHub Copilot 教程，只..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1735935483463467125)
+*** [[https://twitter.com/dotey/status/1735935483463467125][View Tweet]]

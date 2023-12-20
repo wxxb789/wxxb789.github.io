@@ -2,6 +2,8 @@
 :title: readwise/Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Tim Heuer]]
 :full-title: "Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core"
@@ -10,7 +12,7 @@
 :image-url: https://timheuer.com/img/twitter-summary-large.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Writing the API
@@ -19,7 +21,7 @@ Now the cool thing for .NET developers, namely ASP.NET Core developers is writin
 #+END_QUOTE
     date:: [[2023-06-30]]
 *** from _Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core_ by Tim Heuer
-*** [View Highlight](https://read.readwise.io/read/01h45hwnhts8zgtb1qnzxzra2p)
+*** [[https://read.readwise.io/read/01h45hwnhts8zgtb1qnzxzra2p][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Using Middleware to configure the manifest
@@ -28,7 +30,7 @@ As mentioned the static files approach for exposing the manifest is the simplest
 #+END_QUOTE
     date:: [[2023-06-30]]
 *** from _Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core_ by Tim Heuer
-*** [View Highlight](https://read.readwise.io/read/01h45hy0sb6aabwkbw0ththxx4)
+*** [[https://read.readwise.io/read/01h45hy0sb6aabwkbw0ththxx4][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Sample code
@@ -37,4 +39,4 @@ And now you have it. Now you could actually deploy your plugin to Azure Containe
 #+END_QUOTE
     date:: [[2023-06-30]]
 *** from _Writing an OpenAI Plugin for ChatGPT Using ASP.NET Core_ by Tim Heuer
-*** [View Highlight](https://read.readwise.io/read/01h45hym98fc7tmhvc7pckk0ac)
+*** [[https://read.readwise.io/read/01h45hym98fc7tmhvc7pckk0ac][View Highlight]]

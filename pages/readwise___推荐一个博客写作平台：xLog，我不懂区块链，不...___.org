@@ -2,6 +2,8 @@
 :title: readwise/推荐一个博客写作平台：xLog，我不懂区块链，不...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[huhexian on Twitter]]
 :full-title: "推荐一个博客写作平台：xLog，我不懂区块链，不..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1660806181135454208/OKt9p-wM.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 推荐一个博客写作平台：xLog，我不懂区块链，不懂加密货币，但不影响我使用。
@@ -27,7 +29,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _推荐一个博客写作平台：xLog，我不懂区块链，不..._ by @huhexian on Twitter
-*** [View Tweet](https://twitter.com/huhexian/status/1644557607892582406)
+*** [[https://twitter.com/huhexian/status/1644557607892582406][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @DIYgod 在 Telegram 频道上也推荐了一波：
@@ -35,4 +37,4 @@ https://t.co/xuZHOcEYH5
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _推荐一个博客写作平台：xLog，我不懂区块链，不..._ by @huhexian on Twitter
-*** [View Tweet](https://twitter.com/huhexian/status/1644620836727586819)
+*** [[https://twitter.com/huhexian/status/1644620836727586819][View Tweet]]

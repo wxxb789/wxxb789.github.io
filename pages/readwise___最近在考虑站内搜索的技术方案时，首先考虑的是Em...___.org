@@ -2,6 +2,8 @@
 :title: readwise/最近在考虑站内搜索的技术方案时，首先考虑的是Em...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "最近在考虑站内搜索的技术方案时，首先考虑的是Em..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 最近在考虑站内搜索的技术方案时，首先考虑的是Embedding的方案而不是全文索引。
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-05-06]]
 *** from _最近在考虑站内搜索的技术方案时，首先考虑的是Em..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1654541499722260482)
+*** [[https://twitter.com/dotey/status/1654541499722260482][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 补充一下这分词和Embedding的区别：
@@ -29,4 +31,4 @@
 #+END_QUOTE
     date:: [[2023-05-06]]
 *** from _最近在考虑站内搜索的技术方案时，首先考虑的是Em..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1654549179320893440)
+*** [[https://twitter.com/dotey/status/1654549179320893440][View Tweet]]

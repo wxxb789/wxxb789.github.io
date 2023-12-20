@@ -2,6 +2,8 @@
 :title: readwise/因为需要追踪和管理自己更麻烦一些的现金流，评估了...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[iamshaynez on Twitter]]
 :full-title: "因为需要追踪和管理自己更麻烦一些的现金流，评估了..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1182459197788545024/Z8Nb4YiI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 因为需要追踪和管理自己更麻烦一些的现金流，评估了一下beancount。
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1592717932446244865)
+*** [[https://twitter.com/iamshaynez/status/1592717932446244865][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最近因为要管理的现金流太多太复杂……纯粹的资产计提式的记账法有点不够用了。
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1615553028169564161)
+*** [[https://twitter.com/iamshaynez/status/1615553028169564161][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Beancount实现了复式记账……但是貌似没有预算功能。
@@ -39,7 +41,7 @@ Beancount实现了复式记账……但是貌似没有预算功能。
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1615565995762126848)
+*** [[https://twitter.com/iamshaynez/status/1615565995762126848][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 原来作者在V3版本中思考过Budgeting的问题，但是因为版本还没有开发完，文档也没有，所以目前感觉不好说。
@@ -52,14 +54,14 @@ I've been trying to get promoted, worked like an animal. Then I got promoted.
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1615569818132054016)
+*** [[https://twitter.com/iamshaynez/status/1615569818132054016][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 好吧，23年的第一个flag，写一个自己的记账工具。 
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1616266380659290112)
+*** [[https://twitter.com/iamshaynez/status/1616266380659290112][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 市面上的记账工具（或者对应的方法），基本上三个流派。
@@ -72,7 +74,7 @@ I've been trying to get promoted, worked like an animal. Then I got promoted.
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1617040306666635266)
+*** [[https://twitter.com/iamshaynez/status/1617040306666635266][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. Envelop Budgeting
@@ -83,7 +85,7 @@ I've been trying to get promoted, worked like an animal. Then I got promoted.
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1617040308709240832)
+*** [[https://twitter.com/iamshaynez/status/1617040308709240832][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 复式记账
@@ -92,14 +94,14 @@ I've been trying to get promoted, worked like an animal. Then I got promoted.
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1617040311141924865)
+*** [[https://twitter.com/iamshaynez/status/1617040311141924865][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 目前我自己的调研范围内……没有发现有app把三者融合到一起的，从财务角度，Balance Sheet和Income Statement当然是结合在一起的，但似乎个人记账管理中很少有完全低门槛但兼容起来的？ 
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1617040313171968005)
+*** [[https://twitter.com/iamshaynez/status/1617040313171968005][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 大过年的，两个flag总算立到了一起。
@@ -110,7 +112,7 @@ https://t.co/mo4FDv9yhi
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1617525703544836096)
+*** [[https://twitter.com/iamshaynez/status/1617525703544836096][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最大的感触是，基本上好的前端应用和后端一样，需要领域设计，需要数据建模，而并非简单的面向用户界面或者互动写显性的功能而已。
@@ -121,7 +123,7 @@ https://t.co/mo4FDv9yhi
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1617525706401157124)
+*** [[https://twitter.com/iamshaynez/status/1617525706401157124][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Vue + TailwindCSS真算是端程序员的救星了。前者把大部分的页面内逻辑变成了领域数据的管理，后者把CSS这种我觉得一辈子不可能熟练掌握的东西，简化成了似乎熟后自然能生巧的奇特语法。
@@ -130,7 +132,7 @@ Vue + TailwindCSS真算是端程序员的救星了。前者把大部分的页面
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1619292217956519937)
+*** [[https://twitter.com/iamshaynez/status/1619292217956519937][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Balance Sheet 
@@ -139,14 +141,14 @@ Balance Sheet
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1619505118965284864)
+*** [[https://twitter.com/iamshaynez/status/1619505118965284864][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 碎片时间写不熟悉的东西有点痛苦……有的时候挤出来15分钟debug个语法都来不及就过去了。 
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1619700879820730371)
+*** [[https://twitter.com/iamshaynez/status/1619700879820730371][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Budgets
@@ -157,11 +159,11 @@ Budgets
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1619915800739221506)
+*** [[https://twitter.com/iamshaynez/status/1619915800739221506][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 前端基本上撸完了，后端不太想用Java……似乎也没有必要。Python太不熟练，感觉要么先把Python捡起来做几个别的事儿再回来继续…… 
 #+END_QUOTE
     date:: [[2023-03-03]]
 *** from _因为需要追踪和管理自己更麻烦一些的现金流，评估了..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1631216040402358272)
+*** [[https://twitter.com/iamshaynez/status/1631216040402358272][View Tweet]]

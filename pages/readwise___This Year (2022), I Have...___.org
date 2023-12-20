@@ -2,6 +2,8 @@
 :title: readwise/This Year (2022), I Have...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[harshbothra_ on Twitter]]
 :full-title: "This Year (2022), I Have..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1609428924475543552/SsbPLnxc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 This year (2022), I have worked on creating educational resources in various forms, such as blogs, Twitter series, mindmaps and others. In case you missed them, here are all of them:
@@ -23,7 +25,7 @@ This year (2022), I have worked on creating educational resources in various for
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [View Tweet](https://twitter.com/harshbothra_/status/1607337942665801728)
+*** [[https://twitter.com/harshbothra_/status/1607337942665801728][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/5
@@ -41,7 +43,7 @@ This year (2022), I have worked on creating educational resources in various for
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [View Tweet](https://twitter.com/harshbothra_/status/1607337945635381248)
+*** [[https://twitter.com/harshbothra_/status/1607337945635381248][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/5
@@ -64,7 +66,7 @@ This year (2022), I have worked on creating educational resources in various for
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [View Tweet](https://twitter.com/harshbothra_/status/1607337948487495682)
+*** [[https://twitter.com/harshbothra_/status/1607337948487495682][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/5
@@ -84,7 +86,7 @@ This year (2022), I have worked on creating educational resources in various for
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [View Tweet](https://twitter.com/harshbothra_/status/1607337951431888897)
+*** [[https://twitter.com/harshbothra_/status/1607337951431888897][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/5
@@ -94,4 +96,4 @@ While this year was incredible, next year will be thrilling as I will develop so
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [View Tweet](https://twitter.com/harshbothra_/status/1607337954380484609)
+*** [[https://twitter.com/harshbothra_/status/1607337954380484609][View Tweet]]

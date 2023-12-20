@@ -2,6 +2,8 @@
 :title: readwise/《华尔街日报》理财专栏作家杰森-茨威格 (Jas...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[raycat2021 on Twitter]]
 :full-title: "《华尔街日报》理财专栏作家杰森-茨威格 (Jas..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《华尔街日报》理财专栏作家杰森-茨威格 (Jason Zweig) 
@@ -25,7 +27,7 @@
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802766657150977)
+*** [[https://twitter.com/raycat2021/status/1641802766657150977][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 《共同基金常识》
@@ -39,7 +41,7 @@ Common Sense on mutual funds
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802770289430529)
+*** [[https://twitter.com/raycat2021/status/1641802770289430529][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这本是基金投资的常识，就像草木生长一样自然。但现实生活中常常被人忘了。
@@ -49,7 +51,7 @@ Common Sense on mutual funds
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802773514846209)
+*** [[https://twitter.com/raycat2021/status/1641802773514846209][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 对于大型基金而言，通常每年会有高达数百万美元的研究费用。
@@ -59,7 +61,7 @@ Common Sense on mutual funds
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802776052367360)
+*** [[https://twitter.com/raycat2021/status/1641802776052367360][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 《为什么聪明人会犯金钱上的大错》
@@ -74,7 +76,7 @@ Why Smart People Make Big Money Mistakes
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802778627706881)
+*** [[https://twitter.com/raycat2021/status/1641802778627706881][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 比如“小数法则”，即人们倾向于从小样本中得出全面结论。
@@ -83,7 +85,7 @@ Why Smart People Make Big Money Mistakes
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802781370744833)
+*** [[https://twitter.com/raycat2021/status/1641802781370744833][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 所以我们作为投资者做判断的时候，要问一下自己，是否陷入了书中所说的那种认知陷阱？
@@ -91,7 +93,7 @@ Why Smart People Make Big Money Mistakes
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802783866392577)
+*** [[https://twitter.com/raycat2021/status/1641802783866392577][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 《对抗上帝》
@@ -104,7 +106,7 @@ Against the Gods
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802786445873154)
+*** [[https://twitter.com/raycat2021/status/1641802786445873154][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 作者展示出人类最可笑的部分：即本能的不懂风险，反复的犯错，对风险的存在无意识。
@@ -114,7 +116,7 @@ Against the Gods
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802789847453696)
+*** [[https://twitter.com/raycat2021/status/1641802789847453696][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 《客户的游艇在哪里？》
@@ -127,7 +129,7 @@ Where are the Customers’ Yachts?
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802792766685184)
+*** [[https://twitter.com/raycat2021/status/1641802792766685184][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 作者描写了华尔街如何一步步从客户腰包中把钱掏出来，从而个个大发利市。
@@ -136,7 +138,7 @@ Where are the Customers’ Yachts?
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802795773984770)
+*** [[https://twitter.com/raycat2021/status/1641802795773984770][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 《如何用统计数字说谎》
@@ -150,7 +152,7 @@ How to Lie with Statistics
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802798856835072)
+*** [[https://twitter.com/raycat2021/status/1641802798856835072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 在高度发达的消费社会，数字从来就被包装成各种花样来引导甚至误导消费者。
@@ -160,4 +162,4 @@ How to Lie with Statistics
 #+END_QUOTE
     date:: [[2023-04-02]]
 *** from _《华尔街日报》理财专栏作家杰森-茨威格 (Jas..._ by @raycat2021 on Twitter
-*** [View Tweet](https://twitter.com/raycat2021/status/1641802802241634305)
+*** [[https://twitter.com/raycat2021/status/1641802802241634305][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/03｜理财金字塔：如何建立稳固的投资理财结构？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "03｜理财金字塔：如何建立稳固的投资理财结构？"
@@ -11,14 +13,14 @@
 :image-url: https://static001.geekbang.org/resource/image/7a/5e/7a9a751a288e3e313e7d34e3438a495e.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 在我的观念中，有两件事情是值得做一辈子的，一是在自己的专业方向上精益求精，二是持续提高自己投资理财的能力。只有这样，我们才能让自己的家庭财富，以及它带来的幸福感最大化。 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg62phhnsdkzdcw3bqz83n9)
+*** [[https://read.readwise.io/read/01gxg62phhnsdkzdcw3bqz83n9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 固收类投资标的
@@ -39,7 +41,7 @@
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg64dhh37m66bc98eqnmy10)
+*** [[https://read.readwise.io/read/01gxg64dhh37m66bc98eqnmy10][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在这里，我就介绍一种财富管理行业中非常著名的资产配置方案，永久组合。
@@ -56,14 +58,14 @@
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7a6ctvbfckhtcxstq4n2r)
+*** [[https://read.readwise.io/read/01gxg7a6ctvbfckhtcxstq4n2r][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 关于资产配置，我还想提醒你一件重要的事：要时刻关注自己的资产配置是不是平衡。 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7byzdagdab8qzxam4pjvf)
+*** [[https://read.readwise.io/read/01gxg7byzdagdab8qzxam4pjvf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 站在 2017 年这个时间点上，我们且不论房价未来会怎样，单就这个家庭的资产配置而言，房产的占比显然已经过高了。这样的严重失衡状态，可能会带来两个后果：
@@ -76,39 +78,39 @@
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7cynw04gatc0k0z1s4xe3)
+*** [[https://read.readwise.io/read/01gxg7cynw04gatc0k0z1s4xe3][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 最后在家庭资产平衡上我吃过亏，分享下。在家人投资理财知识薄弱的情况下，一定要慢慢来，以指导，教学为主，不要激进再平衡导致家庭矛盾。比如可以给媳妇开个小账户，慢慢感受。最近在教为啥定投银行和保险，定投就是为啥是不止损而止盈等等知识，并在真是市场上感受。经过两个牛熊，家人都会成为理财高手哈哈 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7fkjsreqcy93m2axgt0kv)
+*** [[https://read.readwise.io/read/01gxg7fkjsreqcy93m2axgt0kv][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 房产资产全部算进你的资产里去规划，还贷影响的是你的现金流，也就是财富增量。 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7k6qecrm9sdrkh2q9hz1k)
+*** [[https://read.readwise.io/read/01gxg7k6qecrm9sdrkh2q9hz1k][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 保险属于固收类的一种，具体情况要具体分析，个人不是非常建议买投资类保险产品。 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7kgy1t1v0b5asapvedxg5)
+*** [[https://read.readwise.io/read/01gxg7kgy1t1v0b5asapvedxg5][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/56/a1/56a60ecc596f401f08d56be7b68baaa1.jpg?wh=2248x1305) 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg65033wypf9yabvta824fy)
+*** [[https://read.readwise.io/read/01gxg65033wypf9yabvta824fy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 货币基金几乎可以当作一个活期利率比较高的现金储蓄 
 #+END_QUOTE
     date:: [[2023-04-08]]
 *** from _03｜理财金字塔：如何建立稳固的投资理财结构？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxg7mw3xpsne0975r6pzqf3s)
+*** [[https://read.readwise.io/read/01gxg7mw3xpsne0975r6pzqf3s][View Highlight]]

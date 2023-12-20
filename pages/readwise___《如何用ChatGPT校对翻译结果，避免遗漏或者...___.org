@@ -2,6 +2,8 @@
 :title: readwise/《如何用ChatGPT校对翻译结果，避免遗漏或者...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "《如何用ChatGPT校对翻译结果，避免遗漏或者..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《如何用ChatGPT校对翻译结果，避免遗漏或者画蛇添足，造成严重后果？》
@@ -44,4 +46,4 @@
 #+END_QUOTE
     date:: [[2023-10-02]]
 *** from _《如何用ChatGPT校对翻译结果，避免遗漏或者..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1708327232450470277)
+*** [[https://twitter.com/dotey/status/1708327232450470277][View Tweet]]

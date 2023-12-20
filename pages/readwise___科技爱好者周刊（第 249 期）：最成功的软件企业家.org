@@ -2,6 +2,8 @@
 :title: readwise/科技爱好者周刊（第 249 期）：最成功的软件企业家
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[作者： 阮一峰]]
 :full-title: "科技爱好者周刊（第 249 期）：最成功的软件企业家"
@@ -10,7 +12,7 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 去年，他出版了一本书，介绍他怎么管理软件公司。书名叫做《Amp it up》，直译就是"加强"，即如何让公司变得更好。
@@ -19,28 +21,28 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjen1yqatsa8hx51tnkphq)
+*** [[https://read.readwise.io/read/01gxmjen1yqatsa8hx51tnkphq][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **（1）加快节奏**，时刻要求员工以更快的速度完成工作。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjf147wjncg8v325yptv3r)
+*** [[https://read.readwise.io/read/01gxmjf147wjncg8v325yptv3r][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 他说："要求某人做某事快20%，他们会使用传统策略。如果要求快2,000%，他们将不得不推翻所有基本假设，使用非传统策略，进行重大创新。" 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjf3f8480r1ex7hpfpyvcf)
+*** [[https://read.readwise.io/read/01gxmjf3f8480r1ex7hpfpyvcf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **（2）要求员工思考一些极端问题**，打破传统思维的束缚。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjf7ymv7sfjkd4t8tapmn2)
+*** [[https://read.readwise.io/read/01gxmjf7ymv7sfjkd4t8tapmn2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 •   你如何在接下来的六个月内实现你的10年目标？
@@ -51,14 +53,14 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjfdqycks0ghd4a5tj04fx)
+*** [[https://read.readwise.io/read/01gxmjfdqycks0ghd4a5tj04fx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **（3）提出明确的、雄心勃勃的目标**，鼓励员工大胆行动。iPod mini 的早期口号是"口袋里有 1,000 首歌曲"，SpaceX 公司的目标是让人类成为"多星球物种"。目标越清晰、越雄心勃勃，传统的惰性思维就越难生存。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjfqy8znp4vg7x34pmsjas)
+*** [[https://read.readwise.io/read/01gxmjfqy8znp4vg7x34pmsjas][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **（4）拒绝平庸的产品**。他采取史蒂夫·乔布斯的标准，产品只有两种，要么是非常棒，要么是一塌糊涂，没有中间等级。
@@ -67,53 +69,53 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjfw0b47s5s8ykg24wmtm7)
+*** [[https://read.readwise.io/read/01gxmjfw0b47s5s8ykg24wmtm7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **（5）一流员工得到高额奖金。** 每个季度末，公司都要举行绩效评定，一年要评4次绩效。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjg1zb11enj8cwqbead5ys)
+*** [[https://read.readwise.io/read/01gxmjg1zb11enj8cwqbead5ys][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 （6）**缩小焦点**，他要求员工只关注最重要的事情。"请列出接下来需要解决的100个问题，然后只留下最重要的问题1和问题2，放弃其他98个问题。" 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjg6b393fbd0pqrp3w9bps)
+*** [[https://read.readwise.io/read/01gxmjg6b393fbd0pqrp3w9bps][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这个网站可以分享 ChatGPT 的聊天结果。你需要安装一个浏览器插件，它会返回一个可分享的 URL。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjnhs7vfrg6mhfn7emg2vz)
+*** [[https://read.readwise.io/read/01gxmjnhs7vfrg6mhfn7emg2vz][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 一个号称完全自由的 GPT 聊天模型，不带有任何内容审查和过滤机制，有 Web 版和桌面端。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjn6exh3bwy067t8xhma5r)
+*** [[https://read.readwise.io/read/01gxmjn6exh3bwy067t8xhma5r][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 网友实现的论文预印本网站 Arxiv 的搜索引擎，支持关键词搜索，并提供最新论文的微信推送。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjpkbm8drfh5c92fdwqyka)
+*** [[https://read.readwise.io/read/01gxmjpkbm8drfh5c92fdwqyka][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 一个面向初学者的 Lisp 英文教程。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjp5b88g5p8hbm922b2944)
+*** [[https://read.readwise.io/read/01gxmjp5b88g5p8hbm922b2944][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 一开始，程序直接在硬件上运行；后来，程序在操作系统上运行；现在，程序自带一个浏览器底层（Electron），在浏览器上运行。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _科技爱好者周刊（第 249 期）：最成功的软件企业家_ by 作者： 阮一峰
-*** [View Highlight](https://read.readwise.io/read/01gxmjqb6fzbhzm0efh02q0eeb)
+*** [[https://read.readwise.io/read/01gxmjqb6fzbhzm0efh02q0eeb][View Highlight]]

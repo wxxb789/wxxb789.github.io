@@ -2,6 +2,8 @@
 :title: readwise/You Should Be Using 𝘀𝘁𝗿𝗼...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mjovanovictech on Twitter]]
 :full-title: "You Should Be Using 𝘀𝘁𝗿𝗼..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 You should be using 𝘀𝘁𝗿𝗼𝗻𝗴𝗹𝘆-𝘁𝘆𝗽𝗲𝗱 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 with Minimal APIs, here's why 👇
@@ -25,7 +27,7 @@ How do you use typed results?
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _You Should Be Using 𝘀𝘁𝗿𝗼..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1679371173019152384)
+*** [[https://twitter.com/mjovanovictech/status/1679371173019152384][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The access point is the static `TypedResults` class.
@@ -39,7 +41,7 @@ You can combine multiple result types.
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _You Should Be Using 𝘀𝘁𝗿𝗼..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1679371177121259524)
+*** [[https://twitter.com/mjovanovictech/status/1679371177121259524][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Here's an example combining Ok and NotFound:
@@ -48,7 +50,7 @@ Here's an example combining Ok and NotFound:
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _You Should Be Using 𝘀𝘁𝗿𝗼..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1679371182884237312)
+*** [[https://twitter.com/mjovanovictech/status/1679371182884237312][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 What's the benefit of using strongly-typed results?
@@ -60,7 +62,7 @@ What's the benefit of using strongly-typed results?
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _You Should Be Using 𝘀𝘁𝗿𝗼..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1679371184545120256)
+*** [[https://twitter.com/mjovanovictech/status/1679371184545120256][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 P.S. If you want to learn more about .NET and software architecture, consider subscribing to my newsletter with 24,000+ engineers.
@@ -69,7 +71,7 @@ Subscribe here: https://t.co/zcETFCDreZ
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _You Should Be Using 𝘀𝘁𝗿𝗼..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1679371188106059776)
+*** [[https://twitter.com/mjovanovictech/status/1679371188106059776][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Are you building applications with Minimal APIs?
@@ -78,4 +80,4 @@ What do you think about strongly-typed results?
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _You Should Be Using 𝘀𝘁𝗿𝗼..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1679371189876137985)
+*** [[https://twitter.com/mjovanovictech/status/1679371189876137985][View Tweet]]

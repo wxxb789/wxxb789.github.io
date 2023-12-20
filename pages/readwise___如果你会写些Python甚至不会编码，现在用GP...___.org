@@ -2,6 +2,8 @@
 :title: readwise/如果你会写些Python甚至不会编码，现在用GP...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[JefferyTatsuya on Twitter]]
 :full-title: "如果你会写些Python甚至不会编码，现在用GP..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 如果你会写些Python甚至不会编码，现在用GPT-4 Vision + Streamlit 配合，也能编写很高质量的app。
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593657689952757)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593657689952757][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1️⃣. 绘制原型并运行app
@@ -38,7 +40,7 @@
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593659762028651)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593659762028651][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2️⃣ 将任何静态图表转化为动态可视化
@@ -51,7 +53,7 @@
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593661812973666)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593661812973666][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3️⃣. 将图像中的表格数据转换为可完全编辑的表格
@@ -66,7 +68,7 @@ ChatGPT Vision非常擅长从从无法复制或下载的表格中提取数据。
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593663947935784)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593663947935784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4️⃣. 通过请求建议来增强应用的用户体验
@@ -83,7 +85,7 @@ GPT-4 Vision 还可以帮助您改进应用程序的用户体验并简化多页�
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593666464530893)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593666464530893][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5️⃣. 使用RAG克服LLM幻觉
@@ -97,7 +99,7 @@ GPT-4相可能会产生误导性或虚构性的输出，幻觉。
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593668502958327)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593668502958327][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6️⃣. 即使文本日志丢失，也可以调试程序
@@ -112,7 +114,7 @@ ChatGPT Vision可以通过从截图中提取相关信息，提供有用的调试
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593671178924477)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593671178924477][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7️⃣. 快速的编写app文档
@@ -127,7 +129,7 @@ ChatGPT Vision可以通过从截图中提取相关信息，提供有用的调试
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593673653493974)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593673653493974][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 请大家关注：<a href="https://twitter.com/DataChaz">@DataChaz</a> 和 他的文章：https://t.co/z6hTEUME1L
@@ -138,4 +140,4 @@ ChatGPT Vision可以通过从截图中提取相关信息，提供有用的调试
 #+END_QUOTE
     date:: [[2023-11-26]]
 *** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [View Tweet](https://twitter.com/JefferyTatsuya/status/1728593675922571666)
+*** [[https://twitter.com/JefferyTatsuya/status/1728593675922571666][View Tweet]]

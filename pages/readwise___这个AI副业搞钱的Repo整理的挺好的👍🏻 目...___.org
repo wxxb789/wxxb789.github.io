@@ -2,6 +2,8 @@
 :title: readwise/这个AI副业搞钱的Repo整理的挺好的👍🏻 目...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "这个AI副业搞钱的Repo整理的挺好的👍🏻 目..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这个AI副业搞钱的Repo整理的挺好的👍🏻
@@ -61,4 +63,4 @@ https://t.co/31ZE1kKAMP
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _这个AI副业搞钱的Repo整理的挺好的👍🏻 目..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1735287341462204850)
+*** [[https://twitter.com/dotey/status/1735287341462204850][View Tweet]]

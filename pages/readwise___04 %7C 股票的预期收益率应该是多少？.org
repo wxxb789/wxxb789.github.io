@@ -2,6 +2,8 @@
 :title: readwise/04 | 股票的预期收益率应该是多少？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[youzhiyouxing.cn]]
 :full-title: "04 | 股票的预期收益率应该是多少？"
@@ -10,7 +12,7 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://asset.youzhiyouxing.cn/image/2020/12/15/01ESJS506C798BTSA4M9ZMC0B6.png?x-oss-process=image/resize,w_1280,limit_1)
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrv54cwaa7q513qm07fmx8q)
+*** [[https://read.readwise.io/read/01grrv54cwaa7q513qm07fmx8q][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://asset.youzhiyouxing.cn/image/2020/12/15/01ESJTGFG5F7PEVSFKNVCRJGCT.png?x-oss-process=image/resize,w_1280,limit_1)
@@ -30,21 +32,21 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvtm7j3vgpxthf9bkvg51s)
+*** [[https://read.readwise.io/read/01grrvtm7j3vgpxthf9bkvg51s][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 所以查理·芒格说过，一只股票的长期回报率，基本会和企业长期实现的 ROE 靠拢。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvth4dpx9p00c0fajsnd8c)
+*** [[https://read.readwise.io/read/01grrvth4dpx9p00c0fajsnd8c][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 虽然像沪深300、中证500这样的指数已经囊括了A股接近 4000 家上市公司里面规模最大市值最大的相当一部分龙头公司，但由于各地资本市场的规则不同，很多出色的中国企业仍然没有被这些指数捕捉到。 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvvbfp2w96naan1zh9drej)
+*** [[https://read.readwise.io/read/01grrvvbfp2w96naan1zh9drej][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 巴菲特长期跑赢市场的秘诀
@@ -53,7 +55,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvxzqxq1ddt6x9bgkgty2p)
+*** [[https://read.readwise.io/read/01grrvxzqxq1ddt6x9bgkgty2p][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 有的同学可能会说，这个数字和自己印象里的不太一样。提到巴菲特的时候，大家通常都说他的长期收益是 20% 左右。对于这个问题，学术界有过[一篇经典研究论文](https://www.cfainstitute.org/en/research/multimedia/2020/buffetts-alpha-interview-with-andrea-frazzini)，题目叫《巴菲特的阿尔法》，也就是巴菲特的成功是怎么来的。
@@ -64,7 +66,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvyy0pq0dq1bh2f7xv7yv4)
+*** [[https://read.readwise.io/read/01grrvyy0pq0dq1bh2f7xv7yv4][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 但对于巴菲特来说，他上的杠杆就有几大优势：
@@ -77,21 +79,21 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvz8zdpqknnzwgpspgks7e)
+*** [[https://read.readwise.io/read/01grrvz8zdpqknnzwgpspgks7e][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 总之，巴菲特能用的杠杆独一无二，别说普通投资者了，就是绝大部分专业投资者也没有他这个条件。论文里通过测算，得出老巴长期杠杆在 1.6 倍的水平，也就是说，他用来投资的 160 块钱里，有 100 块是自己的，60 块钱是非常便宜地「借」来的。所以，如果想要衡量巴菲特真实的投资水平，我们就要把杠杆的因素考虑进来。按照这个方式计算，*他的真实投资长期回报率其实是 20% / 1.6 = 12.5% 左右。* 
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrvzt6t7y93qz5ga8v2m4sy)
+*** [[https://read.readwise.io/read/01grrvzt6t7y93qz5ga8v2m4sy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 离开本金多少、时间长短、资产占比来谈预期收益率意义不大。1000块钱年化20%，也不过才赚200，100万本金年化10%，也能赚10万；以5年为期，只有1年赚了20%，其他时间都在赔，赚得不如赔得多，网上很多所谓牛人都是这种情况，要看你能在股市活多久；如果投入股市的资金占个人总资产比例很小，来股市只是玩玩，赚得再多，也“解决不了家里的大问题”，对滚大雪球，解决买房、教育、养老等问题的作用不大（推荐杨天南的《一个投资家的二十年》）。 所以，要系统地看预期收益率。年轻时把精力放在积累本金上，同时拿点小钱儿在股市练练手，以小损失换大教训，真金白银地练认知、情绪和投资能力；投资要把时间拉长，以5年、10年的投资周期享受复利的成果。可不要小瞧了8-10%的年化收益，按72复利法则（72除以8、除以10），只要7-9年资产就可以翻一番，如果本金够多，足以解决“大问题”；做好资产配比，留足基本支出（活钱）、应急备用金，买好保险，然后把尽量多的长期不用的钱投入股市，踏踏实实地等待花开。 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrw4qjfwvy9gz9gnkecsgyy)
+*** [[https://read.readwise.io/read/01grrw4qjfwvy9gz9gnkecsgyy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 不过，像巴菲特这种超大体量的资金，能做到几十年 12%～13% 的回报水平已经是奇迹了。所以对于我们普通投资者来说，12%～15% 的预期回报已经是相当合理，甚至偏向乐观的了。
@@ -100,11 +102,11 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrw0fr1fdc7tat73q6rxddf)
+*** [[https://read.readwise.io/read/01grrw0fr1fdc7tat73q6rxddf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这一课没有更多去思考预期收益率，在我的思维里没有预期这个断见，只有安不安全与持不持续的问题，倒是更深刻地去理解什么是ROE——我把我自己一年的净利润（过年的时候家里余下的现金或分红等）和自己的净资产（原来资产负债表还可以这么玩，用资产减去负债），这么一玩，我个人就出了一个今年的ROE数据，明年再出个数据对比一下，看我这个个股是不是“潜力股”？ 
 #+END_QUOTE
     date:: [[2023-02-09]]
 *** from _04 | 股票的预期收益率应该是多少？_ by youzhiyouxing.cn
-*** [View Highlight](https://read.readwise.io/read/01grrw646k7jhe6xkycmgwcmst)
+*** [[https://read.readwise.io/read/01grrw646k7jhe6xkycmgwcmst][View Highlight]]

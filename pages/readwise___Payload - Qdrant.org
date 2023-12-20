@@ -2,6 +2,8 @@
 :title: readwise/Payload - Qdrant
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[qdrant.tech]]
 :full-title: "Payload - Qdrant"
@@ -10,7 +12,7 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 •   [](https://qdrant.tech/documentation/concepts/search/)
@@ -256,11 +258,11 @@ httppython
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Payload - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d9cw7pf0dw590fe8s6vgx0)
+*** [[https://read.readwise.io/read/01h4d9cw7pf0dw590fe8s6vgx0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 payload 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Payload - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d9gexc7ttv5403dhtemz8g)
+*** [[https://read.readwise.io/read/01h4d9gexc7ttv5403dhtemz8g][View Highlight]]

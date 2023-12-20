@@ -2,6 +2,8 @@
 :title: readwise/\#烧脑系列分享 （1） 分享一些初一看无从入手的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[hemashushu on Twitter]]
 :full-title: "\#烧脑系列分享 （1） 分享一些初一看无从入手的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #烧脑系列分享 （1）
@@ -25,7 +27,7 @@ Btrfs 文件系统被认为是 ext4 —— 目前Linux默认文件系统——�
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986265587507200)
+*** [[https://twitter.com/hemashushu/status/1678986265587507200][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）数据发生改变时并不会修改磁盘或SSD等介质上的数据，而是将新的数据写到别的地方，然后更新指针，同理删除数据也并非真的从介质上删除，这种被称为“写时复制 CoW”的特性让数据非常牢固。
@@ -35,7 +37,7 @@ Btrfs 文件系统被认为是 ext4 —— 目前Linux默认文件系统——�
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986268477394945)
+*** [[https://twitter.com/hemashushu/status/1678986268477394945][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）Btrfs 已经是部分发行版（比如Fedora）的默认文件系统，如果想从ext4转换也相当简单。
@@ -48,7 +50,7 @@ Btrfs 文件系统被认为是 ext4 —— 目前Linux默认文件系统——�
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986270985576450)
+*** [[https://twitter.com/hemashushu/status/1678986270985576450][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）下面是我摸索过后整理的一份攻略：
@@ -63,7 +65,7 @@ https://t.co/U2Rhkpb2vA
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986273476997120)
+*** [[https://twitter.com/hemashushu/status/1678986273476997120][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）
@@ -81,7 +83,7 @@ https://t.co/xvWHEnchX1 这系列一共3篇
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986275993579520)
+*** [[https://twitter.com/hemashushu/status/1678986275993579520][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）
@@ -96,7 +98,7 @@ https://t.co/WftrqxrBWs
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986278585667584)
+*** [[https://twitter.com/hemashushu/status/1678986278585667584][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）
@@ -111,7 +113,7 @@ https://t.co/h6k8stM1LA
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986281215483904)
+*** [[https://twitter.com/hemashushu/status/1678986281215483904][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 续）
@@ -119,4 +121,4 @@ https://t.co/h6k8stM1LA
 #+END_QUOTE
     date:: [[2023-07-13]]
 *** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1678986285124562944)
+*** [[https://twitter.com/hemashushu/status/1678986285124562944][View Tweet]]

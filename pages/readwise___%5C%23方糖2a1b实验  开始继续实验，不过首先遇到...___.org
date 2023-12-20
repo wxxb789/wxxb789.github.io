@@ -2,6 +2,8 @@
 :title: readwise/\#方糖2a1b实验  开始继续实验，不过首先遇到...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[easychen on Twitter]]
 :full-title: "\#方糖2a1b实验  开始继续实验，不过首先遇到..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/987673328662933505/GhypAuiV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #方糖2A1B实验  开始继续实验，不过首先遇到的就是 GPT3.5 上下文容量太少而 GPT4 太贵（8K也就多一倍）的问题。
@@ -27,4 +29,4 @@
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _#方糖2a1b实验  开始继续实验，不过首先遇到..._ by @easychen on Twitter
-*** [View Tweet](https://twitter.com/easychen/status/1638363463214067713)
+*** [[https://twitter.com/easychen/status/1638363463214067713][View Tweet]]

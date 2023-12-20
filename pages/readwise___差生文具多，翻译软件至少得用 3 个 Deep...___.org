@@ -2,6 +2,8 @@
 :title: readwise/差生文具多，翻译软件至少得用 3 个 Deep...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[nishuang on Twitter]]
 :full-title: "差生文具多，翻译软件至少得用 3 个 Deep..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个
@@ -31,7 +33,7 @@ ChatGPT 特别会来事，迷恋 ChatGPT 那种英译中，会失去很多原始
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [View Tweet](https://twitter.com/nishuang/status/1693361416781144098)
+*** [[https://twitter.com/nishuang/status/1693361416781144098][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ChatGPT 翻译的另外一大好处，是用户可以通过指定 prompt，来让 ChatGPT 按照特定风格来翻译
@@ -42,7 +44,7 @@ ChatGPT 翻译的另外一大好处，是用户可以通过指定 prompt，来�
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [View Tweet](https://twitter.com/nishuang/status/1693363065977290875)
+*** [[https://twitter.com/nishuang/status/1693363065977290875][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个（第二部分）
@@ -97,7 +99,7 @@ https://t.co/kIFzYZNhvN
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [View Tweet](https://twitter.com/nishuang/status/1694021962102714577)
+*** [[https://twitter.com/nishuang/status/1694021962102714577][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个（第三部分）
@@ -124,7 +126,7 @@ iOS 现在自带的 OCR 功能，也支持翻译。比如这个韩国食品包�
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [View Tweet](https://twitter.com/nishuang/status/1719889183303454993)
+*** [[https://twitter.com/nishuang/status/1719889183303454993][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个（第四部分）
@@ -149,4 +151,4 @@ https://t.co/kIFzYZNhvN
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [View Tweet](https://twitter.com/nishuang/status/1721202297936498793)
+*** [[https://twitter.com/nishuang/status/1721202297936498793][View Tweet]]

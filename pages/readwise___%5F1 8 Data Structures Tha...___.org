@@ -2,6 +2,8 @@
 :title: readwise/_1 8 Data Structures Tha...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[alexxubyte on Twitter]]
 :full-title: "/1 8 Data Structures Tha..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1524184008635998209/vOSCJXuk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 /1 8 Data Structures That Power Your Databases. Which one should we pick? 
@@ -19,14 +21,14 @@
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564098820182018)
+*** [[https://twitter.com/alexxubyte/status/1617564098820182018][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /2 The answer will vary depending on your use case. Data can be indexed in memory or on disk. Similarly, data formats vary, such as numbers, strings, geographic coordinates, etc. The system might be write-heavy or read-heavy. 
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564105900163072)
+*** [[https://twitter.com/alexxubyte/status/1617564105900163072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /3 All of these factors affect your choice of database index format.
@@ -39,7 +41,7 @@ The following are some of the most popular data structures used for indexing dat
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564132798271488)
+*** [[https://twitter.com/alexxubyte/status/1617564132798271488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /4 🔹Hash index: a very common implementation of the “Map” data structure (or “Collection”)
@@ -51,7 +53,7 @@ The following are some of the most popular data structures used for indexing dat
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564159947968512)
+*** [[https://twitter.com/alexxubyte/status/1617564159947968512][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /5 🔹Inverted index: used for document indexing. Used in Lucene
@@ -62,7 +64,7 @@ The following are some of the most popular data structures used for indexing dat
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564186619547650)
+*** [[https://twitter.com/alexxubyte/status/1617564186619547650][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /6 This is not an exhaustive list of all database index types. Over to you:
@@ -72,7 +74,7 @@ The following are some of the most popular data structures used for indexing dat
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564194215464961)
+*** [[https://twitter.com/alexxubyte/status/1617564194215464961][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /7 I will provide a more in-depth analysis of this topic. Subscribe to our newsletter to get the latest update: https://t.co/9nVvzXEN3s 
@@ -81,7 +83,7 @@ The following are some of the most popular data structures used for indexing dat
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564207591096320)
+*** [[https://twitter.com/alexxubyte/status/1617564207591096320][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 /8 I hope you've found this thread helpful.
@@ -92,4 +94,4 @@ Like/Retweet the first tweet below if you can: https://t.co/KXJDJwai8N
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _/1 8 Data Structures Tha..._ by @alexxubyte on Twitter
-*** [View Tweet](https://twitter.com/alexxubyte/status/1617564212917841921)
+*** [[https://twitter.com/alexxubyte/status/1617564212917841921][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/Enhancing GPT-3 With Wor...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[WeijiaShi2 on Twitter]]
 :full-title: "Enhancing GPT-3 With Wor..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1605693076600541185/fXXYNWhx.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Enhancing GPT-3 with world knowledge🌍:
@@ -20,7 +22,7 @@ Introducing REPLUG🔌: a retrieval-augmented LM framework that combines a froze
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Enhancing GPT-3 With Wor..._ by @WeijiaShi2 on Twitter
-*** [View Tweet](https://twitter.com/WeijiaShi2/status/1620497381962977281)
+*** [[https://twitter.com/WeijiaShi2/status/1620497381962977281][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Given an input context, REPLUG🔌 first retrieves relevant documents from an external corpus using a retriever (1️⃣Document Retrieval). Then it prepends each document separately to the input context and ensembles output probabilities from different passes (2️⃣Input Reformulation) 
@@ -29,7 +31,7 @@ Given an input context, REPLUG🔌 first retrieves relevant documents from an ex
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Enhancing GPT-3 With Wor..._ by @WeijiaShi2 on Twitter
-*** [View Tweet](https://twitter.com/WeijiaShi2/status/1620497384190115842)
+*** [[https://twitter.com/WeijiaShi2/status/1620497384190115842][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We also introduce a training scheme that can further improve the initial retriever in REPLUG🔌 with supervision signals from a black-box language model. The key idea💡 is to adapt the retriever🔥 to the black-box LM🧊 
@@ -38,11 +40,11 @@ We also introduce a training scheme that can further improve the initial retriev
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Enhancing GPT-3 With Wor..._ by @WeijiaShi2 on Twitter
-*** [View Tweet](https://twitter.com/WeijiaShi2/status/1620497387050651648)
+*** [[https://twitter.com/WeijiaShi2/status/1620497387050651648][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Joint work with amazing @sewon__min @michiyasunaga @seo_minjoon @richdutton, @ml_perception, @LukeZettlemoyer @scottyih at @MetaAI, @uwnlp 
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Enhancing GPT-3 With Wor..._ by @WeijiaShi2 on Twitter
-*** [View Tweet](https://twitter.com/WeijiaShi2/status/1620497389248450560)
+*** [[https://twitter.com/WeijiaShi2/status/1620497389248450560][View Tweet]]

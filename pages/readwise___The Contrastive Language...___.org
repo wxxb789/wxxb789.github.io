@@ -2,6 +2,8 @@
 :title: readwise/The Contrastive Language...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[cwolferesearch on Twitter]]
 :full-title: "The Contrastive Language..."
@@ -10,14 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1715212547215802368/tqxfSqh3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 The Contrastive Language-Image Pre-Training (CLIP) model is a visual-linguistic deep learning model that became popular for zero-shot classifying ImageNet with >76% accuracy. Recently, researchers discovered that CLIP also has SOTA fine-tuning performance… 🧵[1/8] 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207404965195776)
+*** [[https://twitter.com/cwolferesearch/status/1608207404965195776][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 CLIP is a simple model with two components:
@@ -31,7 +33,7 @@ Taking image-caption pairs as input, CLIP outputs an embedding of this visual-li
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207406160572417)
+*** [[https://twitter.com/cwolferesearch/status/1608207406160572417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 CLIP is trained in a weakly supervised manner by classifying correct captions across a large image-caption pairs dataset. After training, CLIP produces high-quality embeddings and can classify images by pairing them with their most likely (textual) class. [3/8] 
@@ -40,7 +42,7 @@ CLIP is trained in a weakly supervised manner by classifying correct captions ac
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207408253505537)
+*** [[https://twitter.com/cwolferesearch/status/1608207408253505537][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Despite its impressive zero-shot performance, CLIP seemed to not perform that well when directly fine-tuned for image classification. Rather, CLIP embeddings were commonly used as a target for training separate models via masked image modeling (MIM). [4/8] 
@@ -49,7 +51,7 @@ Despite its impressive zero-shot performance, CLIP seemed to not perform that we
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207409922572295)
+*** [[https://twitter.com/cwolferesearch/status/1608207409922572295][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Recent research explored directly fine-tuning CLIP for image classification. By modifying/solidifying the fine-tuning approach a bit, we can show that a fine-tuned CLIP actually outperforms a ton of strong baselines and reaches SOTA performance on ImageNet! [5/8] 
@@ -58,7 +60,7 @@ Recent research explored directly fine-tuning CLIP for image classification. By 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207412175196161)
+*** [[https://twitter.com/cwolferesearch/status/1608207412175196161][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 There are a few keys to making this work:
@@ -73,7 +75,7 @@ There are a few keys to making this work:
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207414087540738)
+*** [[https://twitter.com/cwolferesearch/status/1608207414087540738][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 TL;DR: CLIP is great at zero-shot image classification and even better when fine-tuned!
@@ -86,7 +88,7 @@ https://t.co/kX8Dv8xw7z
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207416126054402)
+*** [[https://twitter.com/cwolferesearch/status/1608207416126054402][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Here are the relevant papers:
@@ -98,4 +100,4 @@ Here are the relevant papers:
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _The Contrastive Language..._ by @cwolferesearch on Twitter
-*** [View Tweet](https://twitter.com/cwolferesearch/status/1608207417401135107)
+*** [[https://twitter.com/cwolferesearch/status/1608207417401135107][View Tweet]]

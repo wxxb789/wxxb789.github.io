@@ -2,6 +2,8 @@
 :title: readwise/开篇词｜gpt来了，跑步迎接ai爆发的时代
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "开篇词｜gpt来了，跑步迎接ai爆发的时代"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/a3/73/a309d96a3bdb5e1e77b6ab64c0e1e373.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 开篇词｜GPT来了，跑步迎接AI爆发的时代
@@ -168,4 +170,4 @@ OpenAI 的创始人 Sam Altman 说，他觉得“通用人工智能”（AGI）�
 #+END_QUOTE
     date:: [[2023-03-22]]
 *** from _开篇词｜gpt来了，跑步迎接ai爆发的时代_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gw502ve1ye98yayp0tsan96r)
+*** [[https://read.readwise.io/read/01gw502ve1ye98yayp0tsan96r][View Highlight]]

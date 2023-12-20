@@ -2,6 +2,8 @@
 :title: readwise/《如何阅读一篇论文》，https:__t.co_...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Barret_China on Twitter]]
 :full-title: "《如何阅读一篇论文》，https://t.co/..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《如何阅读一篇论文》，https://t.co/EPwEIJn5yW，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人员和论文审稿人提出了一些建议，也是“三遍法”，更为系统和详细：
@@ -25,4 +27,4 @@
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _《如何阅读一篇论文》，https://t.co/..._ by @Barret_China on Twitter
-*** [View Tweet](https://twitter.com/Barret_China/status/1727506538833797130)
+*** [[https://twitter.com/Barret_China/status/1727506538833797130][View Tweet]]

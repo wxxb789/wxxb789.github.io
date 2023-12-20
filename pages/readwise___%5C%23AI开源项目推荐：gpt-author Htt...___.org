@@ -2,6 +2,8 @@
 :title: readwise/\#AI开源项目推荐：gpt-author Htt...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "\#AI开源项目推荐：gpt-author Htt..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：gpt-author
@@ -22,7 +24,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699627193414926445)
+*** [[https://twitter.com/dotey/status/1699627193414926445][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：gpt-author
@@ -34,7 +36,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699627193414926445)
+*** [[https://twitter.com/dotey/status/1699627193414926445][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：gpt-author
@@ -46,7 +48,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699627193414926445)
+*** [[https://twitter.com/dotey/status/1699627193414926445][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：gpt-author
@@ -58,7 +60,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699627193414926445)
+*** [[https://twitter.com/dotey/status/1699627193414926445][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：gpt-author
@@ -70,7 +72,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699627193414926445)
+*** [[https://twitter.com/dotey/status/1699627193414926445][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #AI开源项目推荐：gpt-author
@@ -82,7 +84,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699627193414926445)
+*** [[https://twitter.com/dotey/status/1699627193414926445][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 通过Google Colab就可以运行，运行前，需要设置好：
@@ -94,7 +96,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699628363529236746)
+*** [[https://twitter.com/dotey/status/1699628363529236746][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 在让AI开始帮你写小说之前，还需要设置小说的内容简介，以及章节数，这样就可以一步步帮你生成一本epub电子书。 
@@ -103,7 +105,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699628745403818198)
+*** [[https://twitter.com/dotey/status/1699628745403818198][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 它的大致流程是这样的：
@@ -118,7 +120,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699629654468935731)
+*** [[https://twitter.com/dotey/status/1699629654468935731][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第三步，对第二步生成的最好的小说情节，改进润色。
@@ -134,7 +136,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699632414333784528)
+*** [[https://twitter.com/dotey/status/1699632414333784528][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第四步：对第三步改进润色好的小说情节提要，生成一个标题。
@@ -150,7 +152,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699633182398636245)
+*** [[https://twitter.com/dotey/status/1699633182398636245][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第九步：根据第二步生成的故事情节，用GPT-3.5生成Stable Diffusion的Prompt，帮助生成封面图片。
@@ -167,7 +169,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699640957631652041)
+*** [[https://twitter.com/dotey/status/1699640957631652041][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第十步：根据第九步生成的Prompt，调用Stable Diffusion的API生成封面图片 
@@ -176,7 +178,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699641222430699536)
+*** [[https://twitter.com/dotey/status/1699641222430699536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第十一步：根据前面的所有内容生成epub文件。 
@@ -185,7 +187,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699641594876514504)
+*** [[https://twitter.com/dotey/status/1699641594876514504][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 总的来说没有什么特别的，总结下来就是：
@@ -198,7 +200,7 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699643108760129800)
+*** [[https://twitter.com/dotey/status/1699643108760129800][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 但每次生成新章节的时候，还要把前面所有章节的内容都传进去，这就太费Tokens了！
@@ -209,4 +211,4 @@ https://t.co/Ihkf5Z5alW
 #+END_QUOTE
     date:: [[2023-09-08]]
 *** from _#AI开源项目推荐：gpt-author Htt..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1699644191431692377)
+*** [[https://twitter.com/dotey/status/1699644191431692377][View Tweet]]

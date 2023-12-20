@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Tw93
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[HiTw93 on Twitter]]
 :full-title: "Tweets From Tw93"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1540397753586528256/SFkyn7LD.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 在语雀上发现一个宝藏文档库，将不少国内互联网的「设计方向的升级总结复盘文档」给搜集到一起了，不少还比较实，可以通过这个来学习下设计思路以及对应的语言描述，不过也有少量较虚需要辩证来看，对于想做好设计的工程师而言值得一看，可选择不错的收藏。
@@ -20,7 +22,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1619639362878070785)
+*** [[https://twitter.com/HiTw93/status/1619639362878070785][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 发现一个很适合想提高英语口语能力的 YouTube 频道「Gary英文教室」，最近在更新的是「教你活学活用最新英语九百句」，以往的还有一些急救英语，如飞机出行过程中/酒店服务/常用日常聊天等，比平时的英语学习会更接地气和方便一些。
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1618921256069332992)
+*** [[https://twitter.com/HiTw93/status/1618921256069332992][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 看到一个「专为程序员编写的英语学习指南」，没有啥务虚的东西，教程通过深挖语言学习的本质，并用程序员易于理解的方式去思考，提供自己根据本质推演出来的训练方法和经验做参考，整体而言很理性也很有逻辑，适合想学习好英语的同学。
@@ -40,7 +42,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1617462771246944257)
+*** [[https://twitter.com/HiTw93/status/1617462771246944257][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 上午看到一个「Web3.0 创作者经济年度报告」，4 万字干货很足，很严谨不浮夸。
@@ -51,7 +53,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1616654184400695296)
+*** [[https://twitter.com/HiTw93/status/1616654184400695296][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师工具 自己部署了一个高颜值的服务在线时长监控工具「Uptime Kuma」，可以很方便的 Docker 部署，支持监控 HTTP/TCP/Ping/DNS/Push/Steam 等不同的连接响应是否正常，并提供 Telegram/Email/企业微信/钉钉/ webhook 多种通知，功能很简洁易用，有需要的可在家玩玩。
@@ -67,7 +69,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1618413913464356866)
+*** [[https://twitter.com/HiTw93/status/1618413913464356866][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习  看到一个通过可视化的方式来学习统计学的网站「看见统计」，包含概率论、概率分布、统计推断、回归分析等内容。整体很是生动形象，可以很好的补充遗漏知识点，对于工作中常见分析思路有不少帮助作用。
@@ -83,7 +85,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1607890069121077258)
+*** [[https://twitter.com/HiTw93/status/1607890069121077258][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习  看到一个不错的「英语自学指南」，讲了讲如何训练和实践，以及一些不错的学习和记忆的方法，可以一看。个人觉得学习一门语言更重要还是坚持 + 有一个不错的练习环境至关重要。
@@ -93,7 +95,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1610064018777018370)
+*** [[https://twitter.com/HiTw93/status/1610064018777018370][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师工具 看到一个 All in One 的在线工具，除了提供图片、PDF、文本处理、加解密、Web常用工具外，还提供了一个社交媒体的工具，比如说生成 Youtube 缩略图、假推特生成器、Instagram 文章生成等等。
@@ -109,7 +111,7 @@
 #+END_QUOTE
     date:: [[2023-02-01]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1611666452368560129)
+*** [[https://twitter.com/HiTw93/status/1611666452368560129][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 看到一个不错的「中文独立博客列表」，很高兴还有这么多人在坚持写博客，能够主动提供出一些独立的思考和想法，本来就是一件很酷的事情，可以将感兴趣的博客通过 RSS 去订阅，获取到即时更新。
@@ -119,7 +121,7 @@
 #+END_QUOTE
     date:: [[2023-02-21]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1622023195917262849)
+*** [[https://twitter.com/HiTw93/status/1622023195917262849][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 推荐一本现代 C++ 的开源书籍「The Book of Modern C++」，10 个主题，83 章，954 页，包含去年到最近超多作者的优质文章，值得弄 C++ 的同学去阅读，难度等级普遍三星到五星，所含内容新鲜度/深度/广度都还不错，下载地址：
@@ -129,7 +131,7 @@
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1660797942540931073)
+*** [[https://twitter.com/HiTw93/status/1660797942540931073][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 发现一个整理得很简洁干货的《Web 界面开发指南》，只用了 4 页将交互体验上前端开发需要注意的点都给说明白了，而且思路上也很现代，比那种大篇幅介绍的方便不少，更像是一个最佳实践，其实不注意代码也能跑，注意了好比锦上添花。
@@ -145,7 +147,7 @@
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1664421821024817152)
+*** [[https://twitter.com/HiTw93/status/1664421821024817152][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 #工程师学习 看到一个图解各类传输层协议的网站，包括 QUIC、DTLS、TLS1.3、TLS1.2 连接过程的详细图解，甚至还包括了代码实现，很适合对计算机基础底层感兴趣的同学。
@@ -161,4 +163,4 @@
 #+END_QUOTE
     date:: [[2023-06-03]]
 *** from _Tweets From Tw93_ by @HiTw93 on Twitter
-*** [View Tweet](https://twitter.com/HiTw93/status/1664784712395571200)
+*** [[https://twitter.com/HiTw93/status/1664784712395571200][View Tweet]]

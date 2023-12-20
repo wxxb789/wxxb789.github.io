@@ -2,6 +2,8 @@
 :title: readwise/这次的课程让我收获很大，我之前尝试使用gpt-3...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "这次的课程让我收获很大，我之前尝试使用gpt-3..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这次的课程让我收获很大，我之前尝试使用GPT-3.5帮我翻译字幕，但是数组索引老是对应不上，也无法给我返回JSON格式，我按照这个课程的内容，借助CoT的思路把Prompt拆分成几个Steps后，神奇在GPT-3.5中得到了我想要的结果。
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665476562219573249)
+*** [[https://twitter.com/dotey/status/1665476562219573249][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这次的课程让我收获很大，我之前尝试使用GPT-3.5帮我翻译字幕，但是数组索引老是对应不上，也无法给我返回JSON格式，我按照这个课程的内容，借助CoT的思路把Prompt拆分成几个Steps后，神奇在GPT-3.5中得到了我想要的结果。
@@ -44,7 +46,7 @@ Respond with a JSON-formatted string array:
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665476562219573249)
+*** [[https://twitter.com/dotey/status/1665476562219573249][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 注意，即使这个Prompt已经好了很多，但是依然会有出错的情况，所以这里要借鉴吴老师这堂课“使用ChatGPT API构建系统8——评估（上）”思路，把Tricky的案例都收集起来，然后持续的优化你的Prompt
@@ -53,14 +55,14 @@ https://t.co/8JR8azi0Nh
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665478399723225090)
+*** [[https://twitter.com/dotey/status/1665478399723225090][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 当你收集了不少有问题的案例，但是通过优化Prompt之后，还是有一些怎么也得不到理想的结果，这时候不妨按照Isa老师在这堂课“使用ChatGPT API构建系统——输入处理： 链式提示”里面教的：… 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665481615668047873)
+*** [[https://twitter.com/dotey/status/1665481615668047873][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 当你收集了不少有问题的案例，但是通过优化Prompt之后，还是有一些怎么也得不到理想的结果，这时候不妨按照Isa老师在这堂课“使用ChatGPT API构建系统——输入处理： 链式提示”里面教的：
@@ -79,14 +81,14 @@ https://t.co/a33UEQ5FvF
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665481615668047873)
+*** [[https://twitter.com/dotey/status/1665481615668047873][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/t6GGM34xu2 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665485415170682886)
+*** [[https://twitter.com/dotey/status/1665485415170682886][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 给你们演示一下用不用Prompt对Whisper识别结果的差别，第一张图就是没有任何Prompt的结果，一句话会被拆的很碎，但是如果加上Prompt，在Prompt里面打个样什么时候该换行，生成的结果会好很多，尽可能把一句话连在一起。… 
@@ -99,7 +101,7 @@ https://t.co/t6GGM34xu2
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665504183972143105)
+*** [[https://twitter.com/dotey/status/1665504183972143105][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 给你们演示一下用不用Prompt对Whisper识别结果的差别，第一张图就是没有任何Prompt的结果，一句话会被拆的很碎，但是如果加上Prompt，在Prompt里面打个样什么时候该换行，生成的结果会好很多，尽可能把一句话连在一起。
@@ -120,7 +122,7 @@ The goal is to have each sentence contained within a single time segment for cla
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665504183972143105)
+*** [[https://twitter.com/dotey/status/1665504183972143105][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Whisper生成的字幕，在翻译前最好校对一下，比如明显的识别错误，比如调整下时间轴，让字幕的分割更加自然。
@@ -131,7 +133,7 @@ Whisper生成的字幕，在翻译前最好校对一下，比如明显的识别�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665518550872731648)
+*** [[https://twitter.com/dotey/status/1665518550872731648][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Whisper生成的字幕，在翻译前最好校对一下，比如明显的识别错误，比如调整下时间轴，让字幕的分割更加自然。
@@ -146,7 +148,7 @@ https://t.co/y2Ky0tQEzH
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665518550872731648)
+*** [[https://twitter.com/dotey/status/1665518550872731648][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 做双语字幕，尽量不要用SRT格式，SRT格式简单，但是中文和英文在一起很占空间。理想效果就是中文大，英文小。但SRT是不支持的，需要用ASS格式，可以加字体、加颜色、加背景、单独改字体大小。
@@ -157,7 +159,7 @@ https://t.co/jXCbJgea6K
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665540290944311298)
+*** [[https://twitter.com/dotey/status/1665540290944311298][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 左边就是SRT+剪映生成的字幕效果
@@ -171,7 +173,7 @@ https://t.co/jXCbJgea6K
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665543140642529280)
+*** [[https://twitter.com/dotey/status/1665543140642529280][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果要批量翻译字幕，那么用ChatGPT手动复制粘贴就很慢，最好是用GPT的API。
@@ -186,7 +188,7 @@ https://t.co/jXCbJgea6K
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665546989625389057)
+*** [[https://twitter.com/dotey/status/1665546989625389057][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果要批量翻译字幕，那么用ChatGPT手动复制粘贴就很慢，最好是用GPT的API。
@@ -210,4 +212,4 @@ https://t.co/h2ROTQ2pmL
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _这次的课程让我收获很大，我之前尝试使用gpt-3..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1665546989625389057)
+*** [[https://twitter.com/dotey/status/1665546989625389057][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/被同事安利了一个网站，“视频终结者”，输入链接即...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[PetitSuisseGG on Twitter]]
 :full-title: "被同事安利了一个网站，“视频终结者”，输入链接即..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1588071149690245121/uLsKqcLc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 被同事安利了一个网站，“视频终结者”，输入链接即可总结视频要点，思维导图和字幕，用Moneyxyz @onenewbite 的视频试了下 ，感觉还是太笼统了，链接：https://t.co/FoboGzhz08 #ai #chatgpt 
@@ -25,4 +27,4 @@
 #+END_QUOTE
     date:: [[2023-03-25]]
 *** from _被同事安利了一个网站，“视频终结者”，输入链接即..._ by @PetitSuisseGG on Twitter
-*** [View Tweet](https://twitter.com/PetitSuisseGG/status/1639150158062694400)
+*** [[https://twitter.com/PetitSuisseGG/status/1639150158062694400][View Tweet]]

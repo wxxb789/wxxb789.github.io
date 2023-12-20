@@ -2,6 +2,8 @@
 :title: readwise/Common Ways to Finetune...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[rasbt on Twitter]]
 :full-title: "Common Ways to Finetune..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Common ways to finetune LLMs are to 
@@ -27,7 +29,7 @@ Small plot twist via https://t.co/UtPqJ2DN5q
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Common Ways to Finetune..._ by @rasbt on Twitter
-*** [View Tweet](https://twitter.com/rasbt/status/1658111264671911938)
+*** [[https://twitter.com/rasbt/status/1658111264671911938][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 It turns out that a), tuning only the output layer, can be better on out-of-distribution tasks. 
@@ -40,7 +42,7 @@ But this maybe expected due to the large number of parameters when finetuning th
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Common Ways to Finetune..._ by @rasbt on Twitter
-*** [View Tweet](https://twitter.com/rasbt/status/1658111267054157825)
+*** [[https://twitter.com/rasbt/status/1658111267054157825][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 A suggested technique to get the best of both worlds seems to be a 2-step process that 
@@ -53,4 +55,4 @@ Full paper here: https://t.co/UtPqJ2DN5q
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Common Ways to Finetune..._ by @rasbt on Twitter
-*** [View Tweet](https://twitter.com/rasbt/status/1658111269973393418)
+*** [[https://twitter.com/rasbt/status/1658111269973393418][View Tweet]]

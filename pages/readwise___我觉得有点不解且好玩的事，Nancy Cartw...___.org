@@ -2,6 +2,8 @@
 :title: readwise/我觉得有点不解且好玩的事，Nancy Cartw...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[PhilHoshea on Twitter]]
 :full-title: "我觉得有点不解且好玩的事，Nancy Cartw..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1649616926258368512/wHgo_a4u.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 我觉得有点不解且好玩的事，Nancy Cartwright绝对是在世最重要的科学哲学家之一了（她最主要的研究方向是物理学哲学和经济学哲学），而在豆瓣上她的两本重要作品《物理定律是如何撒谎的》（How the Laws of Physics Lie）以及更温和一点的《斑杂的世界》（The Dappled World）却被评为“斑杂之书”（1 
@@ -19,18 +21,18 @@
 #+END_QUOTE
     date:: [[2023-10-07]]
 *** from _我觉得有点不解且好玩的事，Nancy Cartw..._ by @PhilHoshea on Twitter
-*** [View Tweet](https://twitter.com/PhilHoshea/status/1710511541546823971)
+*** [[https://twitter.com/PhilHoshea/status/1710511541546823971][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 以及骂她可怕的文科思维，其实不太理解，从哲学家有能力很踏实的讨论物理/经济模型（虽然这无疑给读者带来非常大的“学术”负担，尤其是她专门讨论了BCS超导模型）【上学期为了处理这样的问题还专门请教了好久学物理的同学】以及她文章crystal clear的德性，怎么会被所谓的“理工群体”评价为“颠三倒四”（2 
 #+END_QUOTE
     date:: [[2023-10-07]]
 *** from _我觉得有点不解且好玩的事，Nancy Cartw..._ by @PhilHoshea on Twitter
-*** [View Tweet](https://twitter.com/PhilHoshea/status/1710511585213698085)
+*** [[https://twitter.com/PhilHoshea/status/1710511585213698085][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 以及被这位正经学物理的答主推荐（我是不是可以认为大众离真正的物理学、都还太远lol…（e 
 #+END_QUOTE
     date:: [[2023-10-07]]
 *** from _我觉得有点不解且好玩的事，Nancy Cartw..._ by @PhilHoshea on Twitter
-*** [View Tweet](https://twitter.com/PhilHoshea/status/1710512198253207867)
+*** [[https://twitter.com/PhilHoshea/status/1710512198253207867][View Tweet]]

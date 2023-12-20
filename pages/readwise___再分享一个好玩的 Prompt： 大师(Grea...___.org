@@ -2,6 +2,8 @@
 :title: readwise/再分享一个好玩的 Prompt： 大师(Grea...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[blackanger on Twitter]]
 :full-title: "再分享一个好玩的 Prompt： 大师(Grea..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 再分享一个好玩的 Prompt： 大师(GreatMaster)。通过一个 Prompt ，让大师来到你身边陪你思考与成长，帮助你觉醒和开悟。下面有些图示。
@@ -27,7 +29,7 @@ https://t.co/bGASb43und
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _再分享一个好玩的 Prompt： 大师(Grea..._ by @blackanger on Twitter
-*** [View Tweet](https://twitter.com/blackanger/status/1663427854837874689)
+*** [[https://twitter.com/blackanger/status/1663427854837874689][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我请教了大师这个问题：「Alan Turing  破解了德军密码，拯救了数百万人的生命并发明了现代计算机。但是他的死是英国历史上最悲惨的事件之一，因为他被判犯有同性恋罪并被迫接受化学阉割，最终自杀。我们该如何看待 Turing 的事件？ 他是英雄，还是罪人？」 
@@ -38,4 +40,4 @@ https://t.co/bGASb43und
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _再分享一个好玩的 Prompt： 大师(Grea..._ by @blackanger on Twitter
-*** [View Tweet](https://twitter.com/blackanger/status/1663459634227851271)
+*** [[https://twitter.com/blackanger/status/1663459634227851271][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/今晚做了一件可怕的事情，陷入了深深的无力感中……...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[oasisfeng on Twitter]]
 :full-title: "今晚做了一件可怕的事情，陷入了深深的无力感中……..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1731824343/Smile.JPG
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今晚做了一件可怕的事情，陷入了深深的无力感中……
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _今晚做了一件可怕的事情，陷入了深深的无力感中……..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1637471238200360962)
+*** [[https://twitter.com/oasisfeng/status/1637471238200360962][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 不知道大家有没有尝试过让 ChatGPT 来设计游戏规则？仅仅从我自己与之简短的交流来看，通过提示词的引导，尤其是对「规则目标」的选择，ChatGPT 可以被塑造成那种极端理性且冷酷无情的规则设计者，没有半点对弱者的宽容和怜悯。
@@ -30,4 +32,4 @@
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _今晚做了一件可怕的事情，陷入了深深的无力感中……..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1637473944780374016)
+*** [[https://twitter.com/oasisfeng/status/1637473944780374016][View Tweet]]

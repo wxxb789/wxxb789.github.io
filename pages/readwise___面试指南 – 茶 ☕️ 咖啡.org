@@ -2,6 +2,8 @@
 :title: readwise/面试指南 – 茶 ☕️ 咖啡
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[fastzhong.com]]
 :full-title: "面试指南 – 茶 ☕️ 咖啡"
@@ -10,7 +12,7 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 找工作最核心的一个问题就是“如何判断一个好的工作”，我的定义就是：
@@ -21,28 +23,28 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmasp4259xy3bkjx4tc0gxyz)
+*** [[https://read.readwise.io/read/01gmasp4259xy3bkjx4tc0gxyz][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 了解老板/面试官：资历，技术/非技术背景，所带的团队和业务，猎头反馈 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmasnwa2yx8rhbz931eh66rq)
+*** [[https://read.readwise.io/read/01gmasnwa2yx8rhbz931eh66rq][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *个人介绍* ：需要准备 1 分钟和 5 分钟两个版本，包括学习经历、工作经历、项目经历、个人优势、一句话总结，一定要自己背得滚瓜烂熟，张口就来 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmaspq2nc0prdcqcp3019ha0)
+*** [[https://read.readwise.io/read/01gmaspq2nc0prdcqcp3019ha0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *抽象概念*：当面试官问你是如何理解多线程的时候，你要知道从定义、来源、实现、问题、优化、应用方面系统性地回答 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmaspvr69pw96avp8r7h0grz)
+*** [[https://read.readwise.io/read/01gmaspvr69pw96avp8r7h0grz][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *STAR 模型*：针对综合能力方面的考察，如与人交流、沟通，处理客户的能力；文档，报告，进度控制，处理项目的能力；提高团队协作，竞争力的能力；等等，可参考 免费课程 [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
@@ -54,42 +56,42 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmaspyn4q00j2n68c8nd9x6k)
+*** [[https://read.readwise.io/read/01gmaspyn4q00j2n68c8nd9x6k][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *项目强化*：至少与知识点的比例是五五开，所以必须针对简历中的两个以上的项目，形成包括【架构和实现细节】，【正常流程和异常流程的处理】，【难点+坑+复盘优化】三位一体的组合拳 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmapr3zn9wqx302pj6jhtgz1)
+*** [[https://read.readwise.io/read/01gmapr3zn9wqx302pj6jhtgz1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *重点针对*：面试官会针对简历提问，所以请针对简历上写的所有技术点以及个人优势进行重点准备 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmasq49zxmtcx71fevbxd1pd)
+*** [[https://read.readwise.io/read/01gmasq49zxmtcx71fevbxd1pd][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 请介绍你自己？ 这不是要你介绍你的历史，潜在台词都是你能解决什么样的问题，你能给公司带来啥价值，把最好的你介绍出来，把你最好的经历介绍出来，展示出相关的技能，如何与职位相关： 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmasqgdrt3de73ek9w5eraer)
+*** [[https://read.readwise.io/read/01gmasqgdrt3de73ek9w5eraer][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 *表达练习*：表达能力非常影响在面试中的表现，能否简练地将答案告诉面试官，可以通过给自己讲解的方式刻意练习 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmaprdk87xjtxy40z2wd8st9)
+*** [[https://read.readwise.io/read/01gmaprdk87xjtxy40z2wd8st9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 自身有啥缺点？两种策略，一种是把特点包装成缺点，远期目标包装成近期缺陷，例如关注技术过多，产品，设计方面，缺少关注；二是自己还比较弱的方面 （但千万别和应召职位冲突），例如某方面的知识和经验，然后报告自己如何改进和学习的，变被动为主动。 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmast7y1s905vmd13dj12dbf)
+*** [[https://read.readwise.io/read/01gmast7y1s905vmd13dj12dbf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 反问面试
@@ -98,7 +100,7 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmasr1660vy5rvc53b3tzacn)
+*** [[https://read.readwise.io/read/01gmasr1660vy5rvc53b3tzacn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 准备FAANG 面试指南
@@ -110,7 +112,7 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmassk4mfqyx9rxt97mzfbgp)
+*** [[https://read.readwise.io/read/01gmassk4mfqyx9rxt97mzfbgp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Java/架构师
@@ -128,11 +130,11 @@ Java/架构师
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmat1ycdef9gzaet865vh7xv)
+*** [[https://read.readwise.io/read/01gmat1ycdef9gzaet865vh7xv][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 系统学习，成效才会卓著（入坑需谨慎）： 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _面试指南 – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmat23v90212enb64qnq57m6)
+*** [[https://read.readwise.io/read/01gmat23v90212enb64qnq57m6][View Highlight]]

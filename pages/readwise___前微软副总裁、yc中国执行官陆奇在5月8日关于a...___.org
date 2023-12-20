@@ -2,6 +2,8 @@
 :title: readwise/前微软副总裁、yc中国执行官陆奇在5月8日关于a...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[WillJiang_eth on Twitter]]
 :full-title: "前微软副总裁、yc中国执行官陆奇在5月8日关于a..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1609772627203166208/9S02RmrP.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 前微软副总裁、YC中国执行官陆奇在5月8日关于AI的演讲《新范式 新时代 新机会》中提出的新范式下的分析模型和核心逻辑可以运用在非常多的系统和产品上，非常值得学习；以下是一些我总结出来的14个演讲重点：
@@ -18,7 +20,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589509179990017)
+*** [[https://twitter.com/WillJiang_eth/status/1657589509179990017][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. 范式变更源于复杂体系，核心即基于三位一体的子系统运行：「感知」「思考」和「执行」:
@@ -30,7 +32,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589510379651072)
+*** [[https://twitter.com/WillJiang_eth/status/1657589510379651072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. 信息成本结构发生重大变化：
@@ -39,7 +41,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589512313217025)
+*** [[https://twitter.com/WillJiang_eth/status/1657589512313217025][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 社会价值基于三类模型的组合：
@@ -50,7 +52,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589513416261632)
+*** [[https://twitter.com/WillJiang_eth/status/1657589513416261632][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. 范式变更的第二维度「进化系统」三大要素：
@@ -61,7 +63,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589514531946496)
+*** [[https://twitter.com/WillJiang_eth/status/1657589514531946496][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. 新范式的社会影响
@@ -71,7 +73,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589516557852672)
+*** [[https://twitter.com/WillJiang_eth/status/1657589516557852672][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7. 范式变革带来的挑战更大，适应新范式变革的策略，主要是改变思考和实践的方式，学习OpenAI的反共识思考体系，以及利用深度模型、算力和强化学习来推动通用智能的发展。 
@@ -80,7 +82,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589518113947649)
+*** [[https://twitter.com/WillJiang_eth/status/1657589518113947649][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8. 语言本质是泛化和思考的工具
@@ -90,7 +92,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589519711973376)
+*** [[https://twitter.com/WillJiang_eth/status/1657589519711973376][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9. 当前是寒武纪大爆发
@@ -98,7 +100,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589521741914112)
+*** [[https://twitter.com/WillJiang_eth/status/1657589521741914112][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10. 模型的多样性：
@@ -112,7 +114,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589522731872257)
+*** [[https://twitter.com/WillJiang_eth/status/1657589522731872257][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12. 新机会，大模型时代如何考虑重新看待每个应用
@@ -126,7 +128,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589525223186433)
+*** [[https://twitter.com/WillJiang_eth/status/1657589525223186433][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12.5 需求端的三点框架分析：
@@ -139,7 +141,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589526879928320)
+*** [[https://twitter.com/WillJiang_eth/status/1657589526879928320][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13. 结合两个三点框架模型的实例： 
@@ -148,7 +150,7 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589528503238656)
+*** [[https://twitter.com/WillJiang_eth/status/1657589528503238656][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14. 个人的机会空间，定位不同时代的主生产力：
@@ -159,4 +161,4 @@ https://t.co/8ubskGZtqn
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _前微软副总裁、yc中国执行官陆奇在5月8日关于a..._ by @WillJiang_eth on Twitter
-*** [View Tweet](https://twitter.com/WillJiang_eth/status/1657589530151514112)
+*** [[https://twitter.com/WillJiang_eth/status/1657589530151514112][View Tweet]]

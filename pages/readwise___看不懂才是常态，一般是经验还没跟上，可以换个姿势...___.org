@@ -2,6 +2,8 @@
 :title: readwise/看不懂才是常态，一般是经验还没跟上，可以换个姿势...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[plantegg on Twitter]]
 :full-title: "看不懂才是常态，一般是经验还没跟上，可以换个姿势..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 看不懂才是常态，一般是经验还没跟上，可以换个姿势，或者等碰到问题了再返回来翻翻效果就不一样了。最可怕的是以为自己看会了，一直在忙于假学习，实际过两周全忘了，跟没看一样，这才可怕。至于怎么办，我都开好药方放我博客了: https://t.co/QEbo2sl3Mb 
@@ -19,4 +21,4 @@
 #+END_QUOTE
     date:: [[2023-12-12]]
 *** from _看不懂才是常态，一般是经验还没跟上，可以换个姿势..._ by @plantegg on Twitter
-*** [View Tweet](https://twitter.com/plantegg/status/1734194067876298985)
+*** [[https://twitter.com/plantegg/status/1734194067876298985][View Tweet]]

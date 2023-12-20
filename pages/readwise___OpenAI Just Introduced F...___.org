@@ -2,6 +2,8 @@
 :title: readwise/OpenAI Just Introduced F...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dfinke on Twitter]]
 :full-title: "OpenAI Just Introduced F..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/987146068617060356/L0pvjHuH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 OpenAI just introduced Function Calling.
@@ -21,7 +23,7 @@ Here is a #PowerShell example to show you how powerful this is:
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360490326786048)
+*** [[https://twitter.com/dfinke/status/1673360490326786048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The question:
@@ -34,7 +36,7 @@ To solve it, we can combine functions with prompts. Here is what it looks like:
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360493464145922)
+*** [[https://twitter.com/dfinke/status/1673360493464145922][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 I'm going to define two functions.
@@ -49,7 +51,7 @@ You define these functions as part of the Chat Completion call:
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360501068410880)
+*** [[https://twitter.com/dfinke/status/1673360501068410880][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The implementation of these two functions is not particularly interesting.
@@ -60,7 +62,7 @@ They take the arguments and do the sum.
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360508924366850)
+*** [[https://twitter.com/dfinke/status/1673360508924366850][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 This is the cool part:
@@ -73,7 +75,7 @@ Whenever the API finishes with a "function_call" reason, I call the specific fun
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360518520930304)
+*** [[https://twitter.com/dfinke/status/1673360518520930304][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The output from the script:
@@ -86,7 +88,7 @@ GPT used both of the #PowerShell functions to compute the final result!
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360522220273670)
+*** [[https://twitter.com/dfinke/status/1673360522220273670][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Try it now: Install-Module PowerShellAI
@@ -95,4 +97,4 @@ Try it now: Install-Module PowerShellAI
 #+END_QUOTE
     date:: [[2023-07-04]]
 *** from _OpenAI Just Introduced F..._ by @dfinke on Twitter
-*** [View Tweet](https://twitter.com/dfinke/status/1673360525030477826)
+*** [[https://twitter.com/dfinke/status/1673360525030477826][View Tweet]]

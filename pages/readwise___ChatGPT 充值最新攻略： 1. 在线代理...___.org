@@ -2,6 +2,8 @@
 :title: readwise/ChatGPT 充值最新攻略： 1. 在线代理...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[manateelazycat on Twitter]]
 :full-title: "ChatGPT 充值最新攻略： 1. 在线代理..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/768239262/HaskellIcon.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ChatGPT 充值最新攻略：
@@ -21,7 +23,7 @@ ChatGPT 充值最新攻略：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 充值最新攻略： 1. 在线代理..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1658255568212205569)
+*** [[https://twitter.com/manateelazycat/status/1658255568212205569][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 nobepay的好处是可以直接支付宝充值，很方便。原来okx+depay要折腾两天的时间，现在基本上5分钟支付宝就可以搞定。
@@ -32,4 +34,4 @@ nobepay的好处是可以直接支付宝充值，很方便。原来okx+depay要�
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 充值最新攻略： 1. 在线代理..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1658257124873637888)
+*** [[https://twitter.com/manateelazycat/status/1658257124873637888][View Tweet]]

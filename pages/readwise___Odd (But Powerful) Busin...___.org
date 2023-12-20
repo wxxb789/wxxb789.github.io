@@ -2,6 +2,8 @@
 :title: readwise/Odd (But Powerful) Busin...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mdancho84 on Twitter]]
 :full-title: "Odd (But Powerful) Busin..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/815624333926297600/oc0lCoJ7.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Odd (but powerful) business context:
@@ -27,4 +29,4 @@ Shocking what impact a couple of data science algorithms can have on a business.
 #+END_QUOTE
     date:: [[2023-12-11]]
 *** from _Odd (But Powerful) Busin..._ by @mdancho84 on Twitter
-*** [View Tweet](https://twitter.com/mdancho84/status/1733851944609874012)
+*** [[https://twitter.com/mdancho84/status/1733851944609874012][View Tweet]]

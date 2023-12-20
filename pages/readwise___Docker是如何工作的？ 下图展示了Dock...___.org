@@ -2,6 +2,8 @@
 :title: readwise/Docker是如何工作的？ 下图展示了Dock...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[ProgramerJohann on Twitter]]
 :full-title: "Docker是如何工作的？ 下图展示了Dock..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1633481920737574916/V3q0IxC3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Docker是如何工作的？
@@ -37,11 +39,11 @@ Docker仓库用于存储Docker镜像。Docker Hub是一个公共仓库，任何�
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _Docker是如何工作的？ 下图展示了Dock..._ by @ProgramerJohann on Twitter
-*** [View Tweet](https://twitter.com/ProgramerJohann/status/1681691106172633088)
+*** [[https://twitter.com/ProgramerJohann/status/1681691106172633088][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 上面的内容来自于 @alexxubyte 的 bytebyteGo，订阅了他的newsletter，每一期的架构图都非常棒，非常推荐，感觉学画图都值。 
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _Docker是如何工作的？ 下图展示了Dock..._ by @ProgramerJohann on Twitter
-*** [View Tweet](https://twitter.com/ProgramerJohann/status/1681691144709865474)
+*** [[https://twitter.com/ProgramerJohann/status/1681691144709865474][View Tweet]]

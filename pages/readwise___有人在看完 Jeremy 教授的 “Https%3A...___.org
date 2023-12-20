@@ -2,6 +2,8 @@
 :title: readwise/有人在看完 Jeremy 教授的 “Https:...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Barret_China on Twitter]]
 :full-title: "有人在看完 Jeremy 教授的 “Https:..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-17]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 有人在看完 Jeremy 教授的 “https://t.co/ph3pstngHq” 深度学习课程后，把他每节课提到的学习建议和忠告都总结了下来：https://t.co/7Q3F4zFRgy，这些内容（或称之为原则）对研究 AI 的很多人来说，都很有价值，可以少走弯路，我摘录了几句：
@@ -32,4 +34,4 @@
 #+END_QUOTE
     date:: [[2023-12-17]]
 *** from _有人在看完 Jeremy 教授的 “Https:..._ by @Barret_China on Twitter
-*** [View Tweet](https://twitter.com/Barret_China/status/1736287118077657351)
+*** [[https://twitter.com/Barret_China/status/1736287118077657351][View Tweet]]

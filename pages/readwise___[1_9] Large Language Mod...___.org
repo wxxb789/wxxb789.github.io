@@ -2,6 +2,8 @@
 :title: readwise/[1_9] Large Language Mod...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[yanda_chen_ on Twitter]]
 :full-title: "[1/9] Large Language Mod..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1422231549425033219/xYeXHWI8.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 [1/9] Large Language Models (LLMs) can mimic humans to explain human decisions. But can they explain THEMSELVEs? How to evaluate explanations along this axis? Check out our work “Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations”! 
@@ -19,14 +21,14 @@
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412273758408704)
+*** [[https://twitter.com/yanda_chen_/status/1681412273758408704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [2/9] Say a model answers “yes” to “Can eagles fly?” and explains that “all birds can fly”. Humans would infer from the explanation that it also answers “yes” to “Can penguins fly?” (counterfactual). If the explanation is precise, the model's ans should match humans' expectations 
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412355090169856)
+*** [[https://twitter.com/yanda_chen_/status/1681412355090169856][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [3/9] We propose to evaluate the counterfactual simulatability of natural language explanations: whether an explanation can enable humans to precisely infer the model's outputs on diverse counterfactuals of the explained input. 
@@ -35,21 +37,21 @@
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412566470500355)
+*** [[https://twitter.com/yanda_chen_/status/1681412566470500355][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [4/9] We propose two metrics for explanations: generality and precision. Generality tracks the diversity of counterfactuals relevant to the explanation. Precision tracks the fraction of counterfactuals where humans' inference matches the model's output. 
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412647722553344)
+*** [[https://twitter.com/yanda_chen_/status/1681412647722553344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [5/9] We benchmark the counterfactual simulatability of two LLMs—GPT-3.5 and GPT-4, and two explanation methods—CoT (Chain of Thought) and Post-Hoc (explain after the output), on two tasks—multi-hop factual reasoning (StrategyQA) and reward modeling (Stanford Human Preference). 
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412740416704512)
+*** [[https://twitter.com/yanda_chen_/status/1681412740416704512][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [6/9] Both GPT-3 and GPT4’s explanations have low precision (80% for binary classification). CoT does not substantially outperform Post-Hoc. 
@@ -58,21 +60,21 @@
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412847476310017)
+*** [[https://twitter.com/yanda_chen_/status/1681412847476310017][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [7/9] We study how precision relates to plausibility (humans' preference of an explanation based on factual and logical correctness). Precision does not correlate with plausibility (corr: +0.01). Thus, naively optimizing human approvals (e.g., RLHF) might not improve precision. 
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412918733328385)
+*** [[https://twitter.com/yanda_chen_/status/1681412918733328385][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [8/9] Finally, we show that our two metrics precision and generality do not correlate with each other (correlation +0.020). Thus, both generality and precision are important in evaluating and optimizing explanations. 
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681412980083417088)
+*** [[https://twitter.com/yanda_chen_/status/1681412980083417088][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 [9/9] Paper: https://t.co/qFQUE1KisW
@@ -80,4 +82,4 @@ Coauthors: @ZhongRuiqi, @narutatsuri, @henryzhao4321, @hhexiy, @JacobSteinhardt,
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _[1/9] Large Language Mod..._ by @yanda_chen_ on Twitter
-*** [View Tweet](https://twitter.com/yanda_chen_/status/1681414012054167552)
+*** [[https://twitter.com/yanda_chen_/status/1681414012054167552][View Tweet]]

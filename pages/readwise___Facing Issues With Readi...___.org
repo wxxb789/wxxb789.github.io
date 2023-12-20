@@ -2,6 +2,8 @@
 :title: readwise/Facing Issues With Readi...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mwaseemzakir on Twitter]]
 :full-title: "Facing Issues With Readi..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1604162937828040706/v1EqKyRK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Facing issues with reading connection strings?
@@ -27,7 +29,7 @@ Let's see how to use IConfiguration:
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1685893367052316672)
+*** [[https://twitter.com/mwaseemzakir/status/1685893367052316672][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \- Call GetConnectionString extension method and pass name
@@ -41,7 +43,7 @@ Gets the immediate descendant configuration sub-sections
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1685893369313042432)
+*** [[https://twitter.com/mwaseemzakir/status/1685893369313042432][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Reading configuration with IOption : https://t.co/WRv22IwVIx
@@ -54,7 +56,7 @@ Repost ♻️ to spread the knowledge
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1685893372123201542)
+*** [[https://twitter.com/mwaseemzakir/status/1685893372123201542][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 📌 Recent issues of my newsletter
@@ -76,4 +78,4 @@ https://t.co/TtYrLsqWbL
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1685983973032222720)
+*** [[https://twitter.com/mwaseemzakir/status/1685983973032222720][View Tweet]]

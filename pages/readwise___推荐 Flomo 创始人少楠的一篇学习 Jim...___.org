@@ -2,6 +2,8 @@
 :title: readwise/推荐 Flomo 创始人少楠的一篇学习 Jim...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[XDash on Twitter]]
 :full-title: "推荐 Flomo 创始人少楠的一篇学习 Jim..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1699588709891608576/6M9I_5oH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 推荐 flomo 创始人少楠的一篇学习 jim collins 的付费笔记，经授权转载分享：
@@ -29,4 +31,4 @@ more: https://t.co/xRibynLm73
 #+END_QUOTE
     date:: [[2023-11-28]]
 *** from _推荐 Flomo 创始人少楠的一篇学习 Jim..._ by @XDash on Twitter
-*** [View Tweet](https://twitter.com/XDash/status/1729294134866022547)
+*** [[https://twitter.com/XDash/status/1729294134866022547][View Tweet]]

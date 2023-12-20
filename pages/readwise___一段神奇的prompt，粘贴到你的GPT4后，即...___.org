@@ -2,6 +2,8 @@
 :title: readwise/一段神奇的prompt，粘贴到你的GPT4后，即...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[FinanceYF5 on Twitter]]
 :full-title: "一段神奇的prompt，粘贴到你的GPT4后，即..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 一段神奇的prompt，粘贴到你的GPT4后，即可拥有自己的学习/兴趣探索的AI教练。
@@ -21,21 +23,21 @@
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661186736637059072)
+*** [[https://twitter.com/FinanceYF5/status/1661186736637059072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 效果展示1，来自 @jesselaunz https://t.co/i91nSeYovh 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661186953105010688)
+*** [[https://twitter.com/FinanceYF5/status/1661186953105010688][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 效果展示2，来自 @xiaokedada https://t.co/iU8QJRGajq 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661187145581703169)
+*** [[https://twitter.com/FinanceYF5/status/1661187145581703169][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如何使用：
@@ -46,7 +48,7 @@ jason文件地址：https://t.co/aXl0kYLoUO
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661187746298208256)
+*** [[https://twitter.com/FinanceYF5/status/1661187746298208256][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 作者信息：
@@ -56,7 +58,7 @@ github：https://t.co/WFtKHsIBkt
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661188014985314305)
+*** [[https://twitter.com/FinanceYF5/status/1661188014985314305][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 选项：不同的学习深度，学习方法（可以和插件结合）
@@ -67,7 +69,7 @@ github：https://t.co/WFtKHsIBkt
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661188207793274880)
+*** [[https://twitter.com/FinanceYF5/status/1661188207793274880][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 AI Tutor 支持以下命令：
@@ -84,7 +86,7 @@ AI Tutor 支持以下命令：
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661188352962379777)
+*** [[https://twitter.com/FinanceYF5/status/1661188352962379777][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 中文作为语言，学习英语语法作为例子 
@@ -95,14 +97,14 @@ AI Tutor 支持以下命令：
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661188596022358018)
+*** [[https://twitter.com/FinanceYF5/status/1661188596022358018][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 与数理框架 wolframe 结合https://t.co/TzXaRracE1 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661188850297741312)
+*** [[https://twitter.com/FinanceYF5/status/1661188850297741312][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 项目logo 非常可爱 
@@ -111,7 +113,7 @@ AI Tutor 支持以下命令：
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661189400649146370)
+*** [[https://twitter.com/FinanceYF5/status/1661189400649146370][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我希望你发现这个线程有帮助。     
@@ -122,4 +124,4 @@ AI Tutor 支持以下命令：
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _一段神奇的prompt，粘贴到你的GPT4后，即..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1661189555704217603)
+*** [[https://twitter.com/FinanceYF5/status/1661189555704217603][View Tweet]]

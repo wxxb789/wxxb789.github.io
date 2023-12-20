@@ -2,6 +2,8 @@
 :title: readwise/▍如何爬取網站內容，生成 GPTs 知識庫 3...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[circleghost0723 on Twitter]]
 :full-title: "▍如何爬取網站內容，生成 GPTs 知識庫 3..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1660536845745422336/L1rcXF6w.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ▍如何爬取網站內容，生成 GPTs 知識庫
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724631810494320645)
+*** [[https://twitter.com/circleghost0723/status/1724631810494320645][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ▎1. 首先，透過 sitemap 找到所有頁面
@@ -41,7 +43,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724632004870983836)
+*** [[https://twitter.com/circleghost0723/status/1724632004870983836][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 那就推薦用另一種方法，使用 SEO 工具 Screaming Frog。
@@ -58,7 +60,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724632234953711861)
+*** [[https://twitter.com/circleghost0723/status/1724632234953711861][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ☆ 免費版每次有 500 個 URL 的限額
@@ -69,7 +71,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724632430492127330)
+*** [[https://twitter.com/circleghost0723/status/1724632430492127330][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 可以無限次使用，免費版限制的是『每次爬取的 URL 上限』，所以一開始可以先把網站首頁輸入嘗試。
@@ -80,7 +82,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724632658846912616)
+*** [[https://twitter.com/circleghost0723/status/1724632658846912616][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 匯出 URL。
@@ -93,7 +95,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724632893597905329)
+*** [[https://twitter.com/circleghost0723/status/1724632893597905329][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ▎2. 觀察網址結構長怎樣
@@ -108,7 +110,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724633114805461083)
+*** [[https://twitter.com/circleghost0723/status/1724633114805461083][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我找到一個重要的規則是，我要的內容主要都會在 /doc/ 路徑下，然後因為要的是繁體中文，所以要篩出『?hl=zh-tw』。
@@ -123,7 +125,7 @@ p.s. 有些網域可能不存在 sitemap.xml 或是 sitemap 內容不完全<vide
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724633238919139541)
+*** [[https://twitter.com/circleghost0723/status/1724633238919139541][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ▎3. 找到主要內容上的 CSS 選擇器
@@ -134,7 +136,7 @@ CSS 選擇器聽起來很專業，用途就是讓我們可以定位網頁的『�
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724633500136186091)
+*** [[https://twitter.com/circleghost0723/status/1724633500136186091][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ▎4. 轉換並下載知識庫
@@ -151,7 +153,7 @@ CSS 選擇器聽起來很專業，用途就是讓我們可以定位網頁的『�
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724633697293664582)
+*** [[https://twitter.com/circleghost0723/status/1724633697293664582][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然後程式會幫你解析網頁內容並產生知識庫，而且會將可能錯誤的網址，以及網頁中沒有帶有該 CSS 選擇器的頁面篩選出來讓你知道。
@@ -166,4 +168,4 @@ CSS 選擇器聽起來很專業，用途就是讓我們可以定位網頁的『�
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _▍如何爬取網站內容，生成 GPTs 知識庫 3..._ by @circleghost0723 on Twitter
-*** [View Tweet](https://twitter.com/circleghost0723/status/1724633954953957638)
+*** [[https://twitter.com/circleghost0723/status/1724633954953957638][View Tweet]]

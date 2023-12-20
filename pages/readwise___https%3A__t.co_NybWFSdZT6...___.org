@@ -2,6 +2,8 @@
 :title: readwise/https:__t.co_NybWFSdZT6...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Crypto_QianXun on Twitter]]
 :full-title: "https://t.co/NybWFSdZT6..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1623552966837039112/-lRznnfc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/NybWFSdZT6 新一代健康AI工具，超越 GPT-4！ 🌟
@@ -25,4 +27,4 @@ Healthline 是美国排名第一的健康信息网站，凭借权威的健康内
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _https://t.co/NybWFSdZT6..._ by @Crypto_QianXun on Twitter
-*** [View Tweet](https://twitter.com/Crypto_QianXun/status/1735570650318913592)
+*** [[https://twitter.com/Crypto_QianXun/status/1735570650318913592][View Tweet]]

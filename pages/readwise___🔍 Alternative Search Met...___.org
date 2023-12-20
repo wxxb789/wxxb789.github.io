@@ -2,6 +2,8 @@
 :title: readwise/🔍 Alternative Search Met...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[pranavpramod on Twitter]]
 :full-title: "🔍 Alternative Search Met..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1071180570292510720/UygVlgKj.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🔍 Alternative Search Methods 
@@ -20,11 +22,11 @@ Check it out at: https://t.co/fY5GC6nawr https://t.co/IUByf6W47c
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _🔍 Alternative Search Met..._ by @pranavpramod on Twitter
-*** [View Tweet](https://twitter.com/pranavpramod/status/1637861137458020352)
+*** [[https://twitter.com/pranavpramod/status/1637861137458020352][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 I have only visualized 4 potential types here, there are a lot more one could use: regex, wildcards, antonyms (when what you are looking for is defined by its antonym: 'hot' as 'not cold'), grammatical structures, etc. And with LLMs in vogue, there must be potential for that too. 
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _🔍 Alternative Search Met..._ by @pranavpramod on Twitter
-*** [View Tweet](https://twitter.com/pranavpramod/status/1638094602019438592)
+*** [[https://twitter.com/pranavpramod/status/1638094602019438592][View Tweet]]

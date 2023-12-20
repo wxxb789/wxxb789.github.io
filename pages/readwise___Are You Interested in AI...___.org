@@ -2,6 +2,8 @@
 :title: readwise/Are You Interested in AI...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[InternsSchool on Twitter]]
 :full-title: "Are You Interested in AI..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1522988599100284929/VOdeSjIH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Are you interested in AI and want to create your own ChatGPT based projects? Here are 9 project ideas to get you started, using the powerful @LangChainAI framework. 
@@ -21,7 +23,7 @@ Let's dive in! 🧵
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819544648892417)
+*** [[https://twitter.com/InternsSchool/status/1671819544648892417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 1: Book Recommendation
@@ -30,7 +32,7 @@ Learning: You'll learn about prompts, chains, and using a large language model.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819547496808449)
+*** [[https://twitter.com/InternsSchool/status/1671819547496808449][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 2: Sentiment Analyzer
@@ -39,7 +41,7 @@ Learning: You will learn sequential chains, multiple prompts, and large language
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819549531045888)
+*** [[https://twitter.com/InternsSchool/status/1671819549531045888][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 3: Poetry Generator
@@ -48,7 +50,7 @@ Learning: You will learn about serialization, multiple prompts, and working with
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819551913426944)
+*** [[https://twitter.com/InternsSchool/status/1671819551913426944][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 4: Code Review Assistant
@@ -56,7 +58,7 @@ Build a tool that analyzes code submissions, provides feedback, and suggests imp
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819553960230912)
+*** [[https://twitter.com/InternsSchool/status/1671819553960230912][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 5: Resume Analyzer
@@ -65,7 +67,7 @@ Learning: Dive into document loaders, summarization chains, and analyzing docume
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819556313255941)
+*** [[https://twitter.com/InternsSchool/status/1671819556313255941][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 6: Recipe Assistant
@@ -74,7 +76,7 @@ Learning: Learn about chatbot UI, @chainlit_io, and Prompt Routing.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819558238453763)
+*** [[https://twitter.com/InternsSchool/status/1671819558238453763][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 7: Autonomous Agents
@@ -82,7 +84,7 @@ Construct intelligent agents that can operate independently in a given environme
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819560276860930)
+*** [[https://twitter.com/InternsSchool/status/1671819560276860930][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 8: GitHub Q&A
@@ -91,7 +93,7 @@ Learning: Explore embeddings, vector databases, and Q&A retrieval chains.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819562202075136)
+*** [[https://twitter.com/InternsSchool/status/1671819562202075136][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Project 9: Offer Generator
@@ -100,7 +102,7 @@ Learning: Dive into querying multiple documents, @vectara, and using CSV Agent.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819564211142656)
+*** [[https://twitter.com/InternsSchool/status/1671819564211142656][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Check out the @LangChainAI documentation to guide you in creating your own AI-powered applications. Excited to hear about what you're going to build! 🔥
@@ -109,4 +111,4 @@ Check out the @LangChainAI documentation to guide you in creating your own AI-po
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [View Tweet](https://twitter.com/InternsSchool/status/1671819566408962048)
+*** [[https://twitter.com/InternsSchool/status/1671819566408962048][View Tweet]]

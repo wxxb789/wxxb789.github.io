@@ -2,6 +2,8 @@
 :title: readwise/I Am Still Noodling With...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[koujaku on Twitter]]
 :full-title: "I Am Still Noodling With..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/785316614702903296/l7tsspXF.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 I am still noodling with this idea of node/whiteboard coding! :) Part of this is feeling out how well it can work with existing languages, and what's needed to make that a better experience.
@@ -19,4 +21,4 @@ This is one .cpp file from the project laid out a bit. https://t.co/gIPdCAfqUi
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _I Am Still Noodling With..._ by @koujaku on Twitter
-*** [View Tweet](https://twitter.com/koujaku/status/1673232525697884160)
+*** [[https://twitter.com/koujaku/status/1673232525697884160][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/小Lin说，分享的快速学习一个领域还蛮有参考价值...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[balconychy on Twitter]]
 :full-title: "小Lin说，分享的快速学习一个领域还蛮有参考价值..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1642760288406769665/YsX3blNL.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 小Lin说，分享的快速学习一个领域还蛮有参考价值的，看了两遍之后总结一下，提醒自己。要点：
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _小Lin说，分享的快速学习一个领域还蛮有参考价值..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1649019527257260032)
+*** [[https://twitter.com/balconychy/status/1649019527257260032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 要做的
@@ -32,7 +34,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _小Lin说，分享的快速学习一个领域还蛮有参考价值..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1649019530059091969)
+*** [[https://twitter.com/balconychy/status/1649019530059091969][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \--使用Why,问最直觉的问题
@@ -40,7 +42,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _小Lin说，分享的快速学习一个领域还蛮有参考价值..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1649019535029313536)
+*** [[https://twitter.com/balconychy/status/1649019535029313536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \--找第一手信息
@@ -49,7 +51,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _小Lin说，分享的快速学习一个领域还蛮有参考价值..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1649019537411698688)
+*** [[https://twitter.com/balconychy/status/1649019537411698688][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 不要做的
@@ -58,7 +60,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _小Lin说，分享的快速学习一个领域还蛮有参考价值..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1649019539877945345)
+*** [[https://twitter.com/balconychy/status/1649019539877945345][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \--不要深陷细节，框架第一
@@ -66,4 +68,4 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _小Lin说，分享的快速学习一个领域还蛮有参考价值..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1649019542881058818)
+*** [[https://twitter.com/balconychy/status/1649019542881058818][View Tweet]]

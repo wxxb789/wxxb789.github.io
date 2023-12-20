@@ -2,6 +2,8 @@
 :title: readwise/Mastering ABP Framework
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[readwise.io]]
 :full-title: "Mastering ABP Framework"
@@ -10,14 +12,14 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 te 
 #+END_QUOTE
     date:: [[2023-03-31]]
 *** from _Mastering ABP Framework_ by readwise.io
-*** [View Highlight](https://read.readwise.io/read/01gwversth11kcqme7wb6x0sn1)
+*** [[https://read.readwise.io/read/01gwversth11kcqme7wb6x0sn1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 This section will explore the fundamental modules pre-installed in the startup solution:
@@ -25,7 +27,7 @@ Account, Identity, and Tenant Management.
 #+END_QUOTE
     date:: [[2023-03-31]]
 *** from _Mastering ABP Framework_ by readwise.io
-*** [View Highlight](https://read.readwise.io/read/01gwvetwmb4teqj6rh9ddypbzp)
+*** [[https://read.readwise.io/read/01gwvetwmb4teqj6rh9ddypbzp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 The source code of these modules is not included in the download solution by default, but
@@ -36,7 +38,7 @@ solution to freely change them based on your unique requirements.
 #+END_QUOTE
     date:: [[2023-03-31]]
 *** from _Mastering ABP Framework_ by readwise.io
-*** [View Highlight](https://read.readwise.io/read/01gwvevvj4rh0hqe522ghmfza6)
+*** [[https://read.readwise.io/read/01gwvevvj4rh0hqe522ghmfza6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Entities are defined in the Domain Layer of the solution, and the domain layer is split into
@@ -49,7 +51,7 @@ define enums and some constants here.
 #+END_QUOTE
     date:: [[2023-03-31]]
 *** from _Mastering ABP Framework_ by readwise.io
-*** [View Highlight](https://read.readwise.io/read/01gwvfhhybeqyx6g2xmhhbfj01)
+*** [[https://read.readwise.io/read/01gwvfhhybeqyx6g2xmhhbfj01][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 AggregateRoot is a special type of entity that is used to create the root entity type of an
@@ -65,4 +67,4 @@ to the Id property of the current user.
 #+END_QUOTE
     date:: [[2023-03-31]]
 *** from _Mastering ABP Framework_ by readwise.io
-*** [View Highlight](https://read.readwise.io/read/01gwvhxkbkt0qf71149fgawbnh)
+*** [[https://read.readwise.io/read/01gwvhxkbkt0qf71149fgawbnh][View Highlight]]

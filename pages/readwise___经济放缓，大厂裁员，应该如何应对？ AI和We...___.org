@@ -2,6 +2,8 @@
 :title: readwise/经济放缓，大厂裁员，应该如何应对？ AI和We...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[starzqeth on Twitter]]
 :full-title: "经济放缓，大厂裁员，应该如何应对？ AI和We..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1573915848384778241/pONOmFm3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 经济放缓，大厂裁员，应该如何应对？
@@ -27,7 +29,7 @@ AI和Web3时代，价值分配会呈现杠铃式🏋️分布，一端是超级�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501442147500033)
+*** [[https://twitter.com/starzqeth/status/1665501442147500033][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我从 Jack Butcher 身上学到的最重要的 3 件事
@@ -44,7 +46,7 @@ AI和Web3时代，价值分配会呈现杠铃式🏋️分布，一端是超级�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501445209325568)
+*** [[https://twitter.com/starzqeth/status/1665501445209325568][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1️⃣ 10 年前「卖时间」也是好选择，现在想自由必须学会「卖产品」
@@ -55,7 +57,7 @@ AI和Web3时代，价值分配会呈现杠铃式🏋️分布，一端是超级�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501447948214272)
+*** [[https://twitter.com/starzqeth/status/1665501447948214272][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 但在现在的环境下，通过「卖时间」实现自由几乎不可能。宏观经济环境下，大厂可以提供的高薪职位越来越少，随着减员增效，时间不会再越卖越贵，越来越便宜是现实；如果想相对自由，「卖产品」是唯二选择之一（另一个是投资，普通人更难掌握）
@@ -66,7 +68,7 @@ AI和Web3时代，价值分配会呈现杠铃式🏋️分布，一端是超级�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501450540306434)
+*** [[https://twitter.com/starzqeth/status/1665501450540306434][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 长期只售卖时间（比如一直打工）会让人丧失构建产品和生意的能力，只会被动响应需求，工作中接老板、客户的指令
@@ -79,7 +81,7 @@ AI和Web3时代，价值分配会呈现杠铃式🏋️分布，一端是超级�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501453337911297)
+*** [[https://twitter.com/starzqeth/status/1665501453337911297][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2️⃣「卖产品」不必一步到位，核心是培养对别人有用的技能，然后API化，最后才是产品化
@@ -96,7 +98,7 @@ b.如何让客户知道你有这些技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501461839757315)
+*** [[https://twitter.com/starzqeth/status/1665501461839757315][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 a. 培养市场而不只是大厂重视的技能
@@ -109,7 +111,7 @@ a. 培养市场而不只是大厂重视的技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501465346203649)
+*** [[https://twitter.com/starzqeth/status/1665501465346203649][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这个时代，几乎很难再有人在大厂做一辈子，所以更需要清醒的分辨
@@ -124,7 +126,7 @@ a. 培养市场而不只是大厂重视的技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501467950850048)
+*** [[https://twitter.com/starzqeth/status/1665501467950850048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果你不希望一辈子在大厂（客观环境也不允许），只有第 3 类技能更具备通用性，可以成为你提供服务和后续产品化的基础
@@ -139,7 +141,7 @@ a. 培养市场而不只是大厂重视的技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501470656172032)
+*** [[https://twitter.com/starzqeth/status/1665501470656172032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 b. 将自己变成API，让客户快速知道你有这些技能
@@ -156,7 +158,7 @@ b. 将自己变成API，让客户快速知道你有这些技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501478130446336)
+*** [[https://twitter.com/starzqeth/status/1665501478130446336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 就像发布工作证明可以说明个人能力一样，API文档旨在解释你可以胜任哪些事项
@@ -169,7 +171,7 @@ b. 将自己变成API，让客户快速知道你有这些技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501481754296320)
+*** [[https://twitter.com/starzqeth/status/1665501481754296320][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 实际上，不少朋友都已经意识到了这一点，钉钉/飞书的签名档上贴出了自己的《个人说明书》，本质上就是在给别人提供 API
@@ -186,7 +188,7 @@ b. 将自己变成API，让客户快速知道你有这些技能
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501487957696512)
+*** [[https://twitter.com/starzqeth/status/1665501487957696512][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3️⃣ 互联网是一块无需许可（Permissionless）的画布，你只需要不停的创造、证明和增长
@@ -204,7 +206,7 @@ b.  证明你可以解决用户的真实问题
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501503958945792)
+*** [[https://twitter.com/starzqeth/status/1665501503958945792][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Jack Butcher 将其称为无需许可（Permissionless）的创造和证明
@@ -219,7 +221,7 @@ Jack Butcher 将其称为无需许可（Permissionless）的创造和证明
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501513916227585)
+*** [[https://twitter.com/starzqeth/status/1665501513916227585][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 更进一步，Jack Butcher 提出了 The Permissionless Apprenticeship（无需许可的学徒）
@@ -232,7 +234,7 @@ Jack Butcher 将其称为无需许可（Permissionless）的创造和证明
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501521650524161)
+*** [[https://twitter.com/starzqeth/status/1665501521650524161][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这件事情拥有巨大的好处。你得到一些东西，名人们得到一些东西，你的观众得到一些东西，名人们的观众也得到一些东西，形成正和游戏，创造出增量财富
@@ -245,7 +247,7 @@ btw, Naval 「财富创造是正和游戏，寻求地位是零和游戏」的观
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501524636872704)
+*** [[https://twitter.com/starzqeth/status/1665501524636872704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 AI和Web3时代，大厂之间的竞争会越来越激烈，能提供的高薪职位越来越少；另一方面个人开发者/个体企业家的生产力和话语权会越来越高，也会活的越来越自由
@@ -258,7 +260,7 @@ AI和Web3时代，大厂之间的竞争会越来越激烈，能提供的高薪�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501527468027904)
+*** [[https://twitter.com/starzqeth/status/1665501527468027904][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 以上是这条🧵的全部了，希望对你有帮助
@@ -270,7 +272,7 @@ AI和Web3时代，大厂之间的竞争会越来越激烈，能提供的高薪�
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665501530701832193)
+*** [[https://twitter.com/starzqeth/status/1665501530701832193][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Web3 和 AI 正在【民主化】生产关系和生产力，并【赋能】个体品牌和企业
@@ -285,4 +287,4 @@ https://t.co/ryqRJrWJOU
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _经济放缓，大厂裁员，应该如何应对？ AI和We..._ by @starzqeth on Twitter
-*** [View Tweet](https://twitter.com/starzqeth/status/1665568215286845440)
+*** [[https://twitter.com/starzqeth/status/1665568215286845440][View Tweet]]

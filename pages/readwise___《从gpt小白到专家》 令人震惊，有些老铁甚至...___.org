@@ -2,6 +2,8 @@
 :title: readwise/《从gpt小白到专家》 令人震惊，有些老铁甚至...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[bitfool1 on Twitter]]
 :full-title: "《从gpt小白到专家》 令人震惊，有些老铁甚至..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1650344223596740608/CFoZsDZq.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《从GPT小白到专家》
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661902454588596225)
+*** [[https://twitter.com/bitfool1/status/1661902454588596225][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. Prompt风暴
@@ -34,7 +36,7 @@ https://t.co/Sf3556cMWO https://t.co/XvpN2QvVAC
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661903366598057984)
+*** [[https://twitter.com/bitfool1/status/1661903366598057984][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2.提示词训练营
@@ -47,7 +49,7 @@ https://t.co/aWxgQtLPgR https://t.co/2moCUpSnkF
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661903818324590592)
+*** [[https://twitter.com/bitfool1/status/1661903818324590592][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. Prompt作弊器
@@ -60,7 +62,7 @@ https://t.co/5sEdk0WeWS https://t.co/meVzfvwwzQ
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661904351542247424)
+*** [[https://twitter.com/bitfool1/status/1661904351542247424][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. ChatGPT 开发者Prompt
@@ -73,7 +75,7 @@ https://t.co/PWsjlGnzwu https://t.co/ME5rnYOoGV
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661904623173763072)
+*** [[https://twitter.com/bitfool1/status/1661904623173763072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5.FlowGPT
@@ -86,7 +88,7 @@ https://t.co/D98Zrblf4h https://t.co/bhUo2qN9Ld
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661905857171587072)
+*** [[https://twitter.com/bitfool1/status/1661905857171587072][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. AI PRM
@@ -99,7 +101,7 @@ https://t.co/wAA7Y3jqmM https://t.co/kGgkwDk0av
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661906145567707137)
+*** [[https://twitter.com/bitfool1/status/1661906145567707137][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7. Prompt工程师指南
@@ -112,7 +114,7 @@ https://t.co/uWq2wnA9vt https://t.co/lLzyUa9ulP
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661906594538622983)
+*** [[https://twitter.com/bitfool1/status/1661906594538622983][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8. Prompt大英雄
@@ -125,7 +127,7 @@ https://t.co/0NKb3oOxVr https://t.co/ZQnoxXNSj3
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661906824923344897)
+*** [[https://twitter.com/bitfool1/status/1661906824923344897][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 本文由令人钦佩的AI大神@rowancheung授权傻哥翻译至中文社区。
@@ -136,4 +138,4 @@ https://t.co/j5AIfGNQqg
 #+END_QUOTE
     date:: [[2023-05-26]]
 *** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661907216193175554)
+*** [[https://twitter.com/bitfool1/status/1661907216193175554][View Tweet]]

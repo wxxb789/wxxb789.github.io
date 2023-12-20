@@ -2,6 +2,8 @@
 :title: readwise/命运的另一个感慨，我在 Hulu 的故事 简单...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[real_kai42 on Twitter]]
 :full-title: "命运的另一个感慨，我在 Hulu 的故事 简单..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1706347168393764864/DoRcb3kd.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 命运的另一个感慨，我在 hulu 的故事
@@ -37,7 +39,7 @@ hulu 当时虽然经历了扩招，但依旧保持了创业公司相对扁平的
 #+END_QUOTE
     date:: [[2023-11-29]]
 *** from _命运的另一个感慨，我在 Hulu 的故事 简单..._ by @real_kai42 on Twitter
-*** [View Tweet](https://twitter.com/real_kai42/status/1729532303037317458)
+*** [[https://twitter.com/real_kai42/status/1729532303037317458][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 当时 layoff 的最后一天还请假回去跟大家玩了一下午，还是蛮感慨的🥹 
@@ -52,4 +54,4 @@ hulu 当时虽然经历了扩招，但依旧保持了创业公司相对扁平的
 #+END_QUOTE
     date:: [[2023-11-29]]
 *** from _命运的另一个感慨，我在 Hulu 的故事 简单..._ by @real_kai42 on Twitter
-*** [View Tweet](https://twitter.com/real_kai42/status/1729536008448811033)
+*** [[https://twitter.com/real_kai42/status/1729536008448811033][View Tweet]]

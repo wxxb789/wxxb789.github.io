@@ -2,6 +2,8 @@
 :title: readwise/Dealing With My Re:Inven...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[gwenshap on Twitter]]
 :full-title: "Dealing With My Re:Inven..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/67259751/twitta.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Dealing with my Re:Invent FOMO by adding a template and a guide on using Nile from AWS Lambda. 
@@ -20,7 +22,7 @@ Spoiler: by using <a href="https://twitter.com/goserverless">@goserverless</a> a
 #+END_QUOTE
     date:: [[2023-11-28]]
 *** from _Dealing With My Re:Inven..._ by @gwenshap on Twitter
-*** [View Tweet](https://twitter.com/gwenshap/status/1729361893448712697)
+*** [[https://twitter.com/gwenshap/status/1729361893448712697][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Guide: https://t.co/ARKKEwhiJQ
@@ -28,4 +30,4 @@ Template:  https://t.co/kJDDOZnP1r
 #+END_QUOTE
     date:: [[2023-11-28]]
 *** from _Dealing With My Re:Inven..._ by @gwenshap on Twitter
-*** [View Tweet](https://twitter.com/gwenshap/status/1729361895814222057)
+*** [[https://twitter.com/gwenshap/status/1729361895814222057][View Tweet]]

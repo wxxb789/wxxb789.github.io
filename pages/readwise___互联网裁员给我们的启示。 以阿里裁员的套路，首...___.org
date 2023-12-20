@@ -2,6 +2,8 @@
 :title: readwise/互联网裁员给我们的启示。 以阿里裁员的套路，首...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[jike_collection on Twitter]]
 :full-title: "互联网裁员给我们的启示。 以阿里裁员的套路，首..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/985403677350346752/tw6tRCVW.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 互联网裁员给我们的启示。
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399882360446976)
+*** [[https://twitter.com/jike_collection/status/1617399882360446976][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 其次，裁算法，尤其是算法高P（P9、P10），校招两年内的低P（P5、P6）。为什么？算法这一轮是最倒霉的，叠加两个波谷：
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399885707476993)
+*** [[https://twitter.com/jike_collection/status/1617399885707476993][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 非传统的新兴方向（端智能、NLP、图形）摸不到实际的变现场景，砸了海量的钱只是刷了一堆文章。从而算法泡沫也逐渐破灭。
@@ -36,7 +38,7 @@
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399887280361474)
+*** [[https://twitter.com/jike_collection/status/1617399887280361474][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果纯算法能赚到钱，商汤港股就不会暴跌 47% 了。
@@ -45,7 +47,7 @@
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399889201364998)
+*** [[https://twitter.com/jike_collection/status/1617399889201364998][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 再次，裁后端和前端。裁后端其实是基操了，因为人数最多的就是后端，技术要裁员，后端怎么都要分走一部分，没办法的。
@@ -54,14 +56,14 @@
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399891063627777)
+*** [[https://twitter.com/jike_collection/status/1617399891063627777][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 因为这几年的前端高 P，习惯于把业务代码交给前端外包去写，然后一堆正式在吭哧吭哧做中台建设，不是中间件就是研发效能，再有就是研发框架。成果斐然，一堆前端靠着可吹的技术建设成果，升上了 P8、P9。 
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399892179320833)
+*** [[https://twitter.com/jike_collection/status/1617399892179320833][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后，到了今年，老板们面对营收减少和成本控制压力，一拍脑袋：既然业务代码都是外包写的，那我把所有正式前端裁了，也不影响业务啊！那些研发效能、中间件平台、框架，都已经建设好了啊！老板狂喜，于是狂裁前端。
@@ -70,32 +72,32 @@
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399893496299520)
+*** [[https://twitter.com/jike_collection/status/1617399893496299520][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 React 和 Vue 和 Svelte 哪个好，单向数据流还是双向数据绑定，要不要全面 stateless。一堆前端兴奋地吵了起 来，各造轮子，成功地造出了一堆轮子海。最 后老板一看，辩NM，没钱养你们了还辩，n+1了慢慢辩去吧。 
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399895228575746)
+*** [[https://twitter.com/jike_collection/status/1617399895228575746][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 为什么不讲客户端？看看周边团队，现在还剩几个客户端？笑。 
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399896289705984)
+*** [[https://twitter.com/jike_collection/status/1617399896289705984][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 客户端研发，作为基本硕果仅存的几个独苗，已经裁无可裁，因为本来很多人就自己放弃客户端的，使得现在互利网大厂的大多数业务，就靠仅有的几个客户端支撑需求，自 然也就维持原状，大概统计来说，阿里客户端的优化比例在 10% 左右。 
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399897812275200)
+*** [[https://twitter.com/jike_collection/status/1617399897812275200][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 所以总结来说，裁员，就是砍掉所有带不了实际利润产出的岗位，包括技术岗位，也是如此。  #科技圈大小事 
 #+END_QUOTE
     date:: [[2023-01-23]]
 *** from _互联网裁员给我们的启示。 以阿里裁员的套路，首..._ by @jike_collection on Twitter
-*** [View Tweet](https://twitter.com/jike_collection/status/1617399899515162628)
+*** [[https://twitter.com/jike_collection/status/1617399899515162628][View Tweet]]

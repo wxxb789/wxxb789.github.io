@@ -2,6 +2,8 @@
 :title: readwise/是懂非懂的金融从业者补充一点信息吧。 为什么「...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[iamshaynez on Twitter]]
 :full-title: "是懂非懂的金融从业者补充一点信息吧。 为什么「..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1182459197788545024/Z8Nb4YiI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 是懂非懂的金融从业者补充一点信息吧。
@@ -27,4 +29,4 @@
 #+END_QUOTE
     date:: [[2023-07-09]]
 *** from _是懂非懂的金融从业者补充一点信息吧。 为什么「..._ by @iamshaynez on Twitter
-*** [View Tweet](https://twitter.com/iamshaynez/status/1677667872141901826)
+*** [[https://twitter.com/iamshaynez/status/1677667872141901826][View Tweet]]

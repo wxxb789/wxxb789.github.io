@@ -2,6 +2,8 @@
 :title: readwise/给有兴趣学Prompt的同学一个思考题：假设我现...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "给有兴趣学Prompt的同学一个思考题：假设我现..."
@@ -10,14 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 给有兴趣学Prompt的同学一个思考题：假设我现在有两个字符串数组，一个英文的数组一个是翻译后的中文数组，但是英文数组长度是11个，中文数组只有6个（翻译时合并了），现在问题是，怎么样让LLM帮助纠正这种错误，基于英文数组的内容把中文数组也变成11个？… 
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _给有兴趣学Prompt的同学一个思考题：假设我现..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1669177049355878402)
+*** [[https://twitter.com/dotey/status/1669177049355878402][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 完整答案在这里：
@@ -25,4 +27,4 @@ https://t.co/glrk7b3Prf
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _给有兴趣学Prompt的同学一个思考题：假设我现..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1670117054236557313)
+*** [[https://twitter.com/dotey/status/1670117054236557313][View Tweet]]

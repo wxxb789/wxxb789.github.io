@@ -2,6 +2,8 @@
 :title: readwise/Tweets From 宝玉
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "Tweets From 宝玉"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 在线编程平台Replit近期发布了一篇关于《如何训练你自己的大型语言模型》的博客文章，分享了他们在训练自家编程大型语言模型（LLM）过程中的经验和教训。
@@ -29,7 +31,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _Tweets From 宝玉_ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1648888752410968067)
+*** [[https://twitter.com/dotey/status/1648888752410968067][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Google的教学视频《Introduction to Generative AI | 生成式AI介绍》（中英双语字幕）
@@ -41,7 +43,7 @@ Google的教学视频《Introduction to Generative AI | 生成式AI介绍》（�
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _Tweets From 宝玉_ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1658709165747970048)
+*** [[https://twitter.com/dotey/status/1658709165747970048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Google教学视频：《解析 Transformers：理解 GPT，BERT 和 T5 模型背后的原理》（中英文字幕）
@@ -50,14 +52,14 @@ Google教学视频：《解析 Transformers：理解 GPT，BERT 和 T5 模型背
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _Tweets From 宝玉_ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1659036897899888641)
+*** [[https://twitter.com/dotey/status/1659036897899888641][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 现在的GPT在生成的时候是不能修改已经生成的内容的，这个*backspace*动作可以帮助模型删除之前生成的字符，纠正错误，生成更好的结果👍🏻 
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Tweets From 宝玉_ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1671739825450262528)
+*** [[https://twitter.com/dotey/status/1671739825450262528][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 谷歌的模拟系统设计面试，从这个视频中你可以学习到：
@@ -69,7 +71,7 @@ Google教学视频：《解析 Transformers：理解 GPT，BERT 和 T5 模型背
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _Tweets From 宝玉_ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1672039511138897920)
+*** [[https://twitter.com/dotey/status/1672039511138897920][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 哇塞，大家来围观一下陶哲轩写的Prompt，解决了一个数学难题：
@@ -88,4 +90,4 @@ https://t.co/6IFOWBlRff
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _Tweets From 宝玉_ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1672835903658823680)
+*** [[https://twitter.com/dotey/status/1672835903658823680][View Tweet]]

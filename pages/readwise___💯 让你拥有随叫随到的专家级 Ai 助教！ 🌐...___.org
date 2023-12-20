@@ -2,6 +2,8 @@
 :title: readwise/💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[scruelt on Twitter]]
 :full-title: "💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1656133492865114112/6_xG-Ajm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 💯 让你拥有随叫随到的专家级 AI 助教！
@@ -33,7 +35,7 @@
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [View Tweet](https://twitter.com/scruelt/status/1661332639922683907)
+*** [[https://twitter.com/scruelt/status/1661332639922683907][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 👉私人 AI 助教直达：
@@ -49,7 +51,7 @@ https://t.co/fJuEOcDDBO
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [View Tweet](https://twitter.com/scruelt/status/1661585358138793985)
+*** [[https://twitter.com/scruelt/status/1661585358138793985][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 简单来说，就是不使用 /continue 命令，而是使用 /start 命令+小节名，让 ChatGPT 从给定的小节开始，个人认为很适合在网页版中用。
@@ -58,7 +60,7 @@ https://t.co/fJuEOcDDBO
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [View Tweet](https://twitter.com/scruelt/status/1661590988568272902)
+*** [[https://twitter.com/scruelt/status/1661590988568272902][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @blackanger 又想到其实完全可以简化 prompt，只摘取 instructions 部分和配置选项来自己定制，因为实际上只需要让 GPT 知道自己的回复风格，并指定计划要学习内容的计划，剩下的分章节学习用法都是一样的。
@@ -66,4 +68,4 @@ https://t.co/fJuEOcDDBO
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [View Tweet](https://twitter.com/scruelt/status/1661608327602921473)
+*** [[https://twitter.com/scruelt/status/1661608327602921473][View Tweet]]

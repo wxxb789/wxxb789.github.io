@@ -2,6 +2,8 @@
 :title: readwise/21｜趋势跟踪：怎样跟着趋势一起赚钱？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "21｜趋势跟踪：怎样跟着趋势一起赚钱？"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/88/71/8825a24e74dfdfe5af7180e1ac86f671.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 什么是趋势跟踪策略？
@@ -22,49 +24,49 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfvvsq74p56866kvz9ee76)
+*** [[https://read.readwise.io/read/01gxrfvvsq74p56866kvz9ee76][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 为什么趋势跟踪策略会有效？ 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfwq05knk9jb1b61j69tx0)
+*** [[https://read.readwise.io/read/01gxrfwq05knk9jb1b61j69tx0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 简单来说，支撑趋势跟踪策略的底层逻辑有三个，分别是信息的传播过程，经济或产业周期的存在，以及投资者情绪的推动。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfwwdnjay3vfajwd8zsff2)
+*** [[https://read.readwise.io/read/01gxrfwwdnjay3vfajwd8zsff2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 先来看信息传播过程。影响一种资产价格的新信息产生之后，它的传播是需要一个过程的，有的是几分钟，有的是几小时到几天。像比特币这种全新的投资机会，当初甚至花了几年的时间才被大部分投资者注意到。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfwz2fw11apavx4cp8rfz1)
+*** [[https://read.readwise.io/read/01gxrfwz2fw11apavx4cp8rfz1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第二个逻辑是经济或产业的固有周期。投资标的所处的行业大多具有一定的周期性，这种周期结构一般是由供需力量的强弱交替变化导致的，在经济上具有一定的惯性。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfx53twjphx4mxyvbv99ed)
+*** [[https://read.readwise.io/read/01gxrfx53twjphx4mxyvbv99ed][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第三个逻辑是投资者情绪的推动。投资者的恐惧和兴奋情绪往往会加剧趋势的波动幅度，理性投资者就可以利用其他投资者的过激反应来借势盈利。当然，在这个过程中你要时刻保持清醒，从标的的上涨幅度走势、交易量走势中去验证其他投资者的情绪是否高涨，一旦发现减弱的趋势，就应该及早结束这次投资。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfxazvnkztyabdkvzwwqzp)
+*** [[https://read.readwise.io/read/01gxrfxazvnkztyabdkvzwwqzp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 但是在实际的投资过程中，我们需要在事前就发现趋势的出现和结束信号，而且这些信号最好是可量化的，不需要人工的观察。接下来，我就列出几个常用的趋势相关指标。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfy8pqkj2ec9dyrdcgt5x6)
+*** [[https://read.readwise.io/read/01gxrfy8pqkj2ec9dyrdcgt5x6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 趋势指标 1：近期涨幅
@@ -73,7 +75,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfycm4c86w4pj5n1xzkkxj)
+*** [[https://read.readwise.io/read/01gxrfycm4c86w4pj5n1xzkkxj][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 趋势指标 2：双均线系统
@@ -84,7 +86,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfyjb5w5x96jncnzk2mmmt)
+*** [[https://read.readwise.io/read/01gxrfyjb5w5x96jncnzk2mmmt][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 趋势指标 3：布林带
@@ -95,42 +97,42 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrfyrcjejg6gj70yyfngkvr)
+*** [[https://read.readwise.io/read/01gxrfyrcjejg6gj70yyfngkvr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/87/40/87e648bddf38a70db7b9d8b15ef73d40.png?wh=957x497) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg0ecqrmqapyh5jbc5qtr6)
+*** [[https://read.readwise.io/read/01gxrg0ecqrmqapyh5jbc5qtr6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/89/07/89a97102193e97660f95d7977ff31007.png?wh=382x95) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg0kedp38y2fh6njk1e5r4)
+*** [[https://read.readwise.io/read/01gxrg0kedp38y2fh6njk1e5r4][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在图 4 中，asset 代表投资标的（蓝色线），stgy 代表趋势策略（橙色线），pos 代表仓位；AnnRet 表示年化收益，AnnVol 表示年化波动率，SR 表示夏普率，MaxDD 表示最大回撤，Calmar 表示年化收益与最大回撤的比值。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg0bcjvwxcbjy25n537bgq)
+*** [[https://read.readwise.io/read/01gxrg0bcjvwxcbjy25n537bgq][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 双均线系统的回测结果 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg1nmgmxvhw54w8e667xyx)
+*** [[https://read.readwise.io/read/01gxrg1nmgmxvhw54w8e667xyx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们再看一下基于双均线系统的趋势跟踪策略。这里我们选取的参数是：短均线回看天数 N1=10，长均线回看天数 N2=60，根据短均线与长均线的比值决定交易方向，看多阈值 1.05，看空阈值 0.95。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg1tdt6h9hjnendd6t7r72)
+*** [[https://read.readwise.io/read/01gxrg1tdt6h9hjnendd6t7r72][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 布林带的回测结果
@@ -139,14 +141,14 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg2stje11wvab3fqv4znd7)
+*** [[https://read.readwise.io/read/01gxrg2stje11wvab3fqv4znd7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 执行趋势跟踪策略时，有哪些需要注意的地方？ 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg3a0jyy44t29qs2bv3ncj)
+*** [[https://read.readwise.io/read/01gxrg3a0jyy44t29qs2bv3ncj][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第一，典型的趋势跟踪策略的特点是：胜率比较低，但胜利幅度比较大。
@@ -155,7 +157,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg3jb3cz27hc87ef82gsp6)
+*** [[https://read.readwise.io/read/01gxrg3jb3cz27hc87ef82gsp6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第二，要多通过回测去确定策略的敏感程度。
@@ -166,7 +168,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg40byajz4sjpapka151y9)
+*** [[https://read.readwise.io/read/01gxrg40byajz4sjpapka151y9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第三，建议个人投资者重点关注中长期趋势跟踪策略。
@@ -175,7 +177,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg462hbz9zg1nd608bmzvq)
+*** [[https://read.readwise.io/read/01gxrg462hbz9zg1nd608bmzvq][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 对趋势跟踪策略最通俗的解释，就是“追涨杀跌”。
@@ -188,14 +190,14 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg4d7av6q5bvqmdp9t21gq)
+*** [[https://read.readwise.io/read/01gxrg4d7av6q5bvqmdp9t21gq][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 趋势交易，是右侧交易的一种。强调纪律。增加止损和分批建仓可以在降低回撤，提升夏普率。 追涨策略，我做的少，但是一些明显的周期股机会其实蛮好做的。比如这几年我做过的猪周期，有色周期，券商。这些股票同质化高，商品没啥差异。而且有反身性。比如券商牛市的时候，股价大涨，业绩也大涨形成戴维斯双击，但是熊市就会戴维斯双杀，标的波动空间大（一般预判涨幅要大于30%）才有利可图。所以先小仓位试探趋势是否形成，强调：基本上所以的策略都不要all in。在每一个突破点加仓。并设置最高点回撤8%离场获利。收益是不错的。 但趋势策略唯一烦人的就是每天看盘，太烦人了。少看盘多学习复盘才是正道 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg5247zwwxfxfm8ytpza34)
+*** [[https://read.readwise.io/read/01gxrg5247zwwxfxfm8ytpza34][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 学到了：工作忙，就用双均线+大涨大跌来判断即可。
@@ -204,7 +206,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg5hp2x8zahrsvjz5412ne)
+*** [[https://read.readwise.io/read/01gxrg5hp2x8zahrsvjz5412ne][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 应该不是巧合，那个年化收益高出一倍的回测结果，应该是引入了更多维度的信息，比如价格跟成交量，还有看年化收益低的仓位，明显它的交易频率比年化收益高的要大，这个应该也会对收益产生一定影响。否则，很难想象仅是相隔十天的回测就能另年化收益相差一倍，纯粹靠运气的话，不太可能。 文中的布林带回测更换为多空布林带是不是会更好些？毕竟多空布林带准确率更高些。
@@ -213,4 +215,4 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _21｜趋势跟踪：怎样跟着趋势一起赚钱？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrg5zpf7y4d3eyans4yekpw)
+*** [[https://read.readwise.io/read/01gxrg5zpf7y4d3eyans4yekpw][View Highlight]]

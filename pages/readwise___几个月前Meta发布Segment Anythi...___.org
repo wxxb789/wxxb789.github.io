@@ -2,6 +2,8 @@
 :title: readwise/几个月前Meta发布Segment Anythi...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "几个月前Meta发布Segment Anythi..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 几个月前Meta发布Segment Anything Model(SAM) https://t.co/THY1dqsHGg ，可以识别、标记图片、视频中的任何物体，而OpenAI刚刚发布了多模态大模型GPT-4V，没想到微软将SAM和GPT-4V结合了起来，先借助SAM对图片上的物体进行标记，然后再交给GPT-4V，可以大幅提升GPT-4V的识别能力。
@@ -31,4 +33,4 @@ Extraordinary Visual Grounding in GPT-4V
 #+END_QUOTE
     date:: [[2023-10-19]]
 *** from _几个月前Meta发布Segment Anythi..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1714822532933582932)
+*** [[https://twitter.com/dotey/status/1714822532933582932][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/最近国内的投资人和很多团队几乎都达成共识， Rl...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[oran_ge on Twitter]]
 :full-title: "最近国内的投资人和很多团队几乎都达成共识， Rl..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1466229791825170436/JPPr3_FG.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 最近国内的投资人和很多团队几乎都达成共识， RLHF 不重要，SFT 就够了。
@@ -22,7 +24,7 @@ Llama2 是第三个用 RLHF 比较成功，并把能力推到 Chatgpt 3.5 水平
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _最近国内的投资人和很多团队几乎都达成共识， Rl..._ by @oran_ge on Twitter
-*** [View Tweet](https://twitter.com/oran_ge/status/1681793774685659136)
+*** [[https://twitter.com/oran_ge/status/1681793774685659136][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We note that reward model accuracy is one of the most important proxies for the final performance of Llama 2-Chat.
@@ -31,14 +33,14 @@ We note that reward model accuracy is one of the most important proxies for the 
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _最近国内的投资人和很多团队几乎都达成共识， Rl..._ by @oran_ge on Twitter
-*** [View Tweet](https://twitter.com/oran_ge/status/1681807170407653377)
+*** [[https://twitter.com/oran_ge/status/1681807170407653377][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 问题在于，开源模型很多，但没有任何人（包括Meta）开源一个好用的奖励模型，这也属于核心技术了。 
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _最近国内的投资人和很多团队几乎都达成共识， Rl..._ by @oran_ge on Twitter
-*** [View Tweet](https://twitter.com/oran_ge/status/1681807612244033542)
+*** [[https://twitter.com/oran_ge/status/1681807612244033542][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果你有了一个准确的RM，就可以通过模型输出让RM打分，科学合理自动化地判断你 RLHF 是不是在提升模型效果。 
@@ -47,7 +49,7 @@ We note that reward model accuracy is one of the most important proxies for the 
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _最近国内的投资人和很多团队几乎都达成共识， Rl..._ by @oran_ge on Twitter
-*** [View Tweet](https://twitter.com/oran_ge/status/1681808313506484224)
+*** [[https://twitter.com/oran_ge/status/1681808313506484224][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 标注员的上限即是模型的上限：
@@ -57,4 +59,4 @@ We note that reward model accuracy is one of the most important proxies for the 
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _最近国内的投资人和很多团队几乎都达成共识， Rl..._ by @oran_ge on Twitter
-*** [View Tweet](https://twitter.com/oran_ge/status/1681811225724997632)
+*** [[https://twitter.com/oran_ge/status/1681811225724997632][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/大模型的未来全在这张脑图里了🤯🤯🤯You Don...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[fuxiangPro on Twitter]]
 :full-title: "大模型的未来全在这张脑图里了🤯🤯🤯You Don..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1646378088576749568/jQV0pTtA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 大模型的未来全在这张脑图里了🤯🤯🤯You don't want to miss this!
@@ -24,7 +26,7 @@ https://t.co/NAqliGG0G9
 #+END_QUOTE
     date:: [[2023-11-07]]
 *** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
-*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503284371042502)
+*** [[https://twitter.com/fuxiangPro/status/1721503284371042502][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 大脑一直是AI发展的灵感源泉：
@@ -37,7 +39,7 @@ https://t.co/NAqliGG0G9
 #+END_QUOTE
     date:: [[2023-11-07]]
 *** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
-*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503287311319321)
+*** [[https://twitter.com/fuxiangPro/status/1721503287311319321][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 \- 网络参数：大脑有超800亿个神经元，大脑皮层有600万亿个突触连接。大模型超千亿神经网络参数。
@@ -46,7 +48,7 @@ https://t.co/NAqliGG0G9
 #+END_QUOTE
     date:: [[2023-11-07]]
 *** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
-*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503289060344289)
+*** [[https://twitter.com/fuxiangPro/status/1721503289060344289][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 两相关的书可以结合起来看：
@@ -59,4 +61,4 @@ https://t.co/NAqliGG0G9
 #+END_QUOTE
     date:: [[2023-11-07]]
 *** from _大模型的未来全在这张脑图里了🤯🤯🤯You Don..._ by @fuxiangPro on Twitter
-*** [View Tweet](https://twitter.com/fuxiangPro/status/1721503291572654131)
+*** [[https://twitter.com/fuxiangPro/status/1721503291572654131][View Tweet]]

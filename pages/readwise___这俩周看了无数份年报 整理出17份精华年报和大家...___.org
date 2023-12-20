@@ -2,6 +2,8 @@
 :title: readwise/这俩周看了无数份年报 整理出17份精华年报和大家...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[rickawsb on Twitter]]
 :full-title: "这俩周看了无数份年报 整理出17份精华年报和大家..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1577139853585973248/VFH3Pxe3.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这俩周看了无数份年报
@@ -26,7 +28,7 @@
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608205294450143233)
+*** [[https://twitter.com/rickawsb/status/1608205294450143233][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1、@QwQiao 的2023web3创业方向报告。本年度看过的最好年报，没有之一。全文干货。非得划重点的话，基础设施，面向消费者应用，零知识证明，defi等部分属个人偏好。
@@ -34,7 +36,7 @@ https://t.co/lTyIDI0Urm
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608205526365769728)
+*** [[https://twitter.com/rickawsb/status/1608205526365769728][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 （本推非投资建议，dyor）
@@ -42,28 +44,28 @@ https://t.co/lTyIDI0Urm
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608205678191206401)
+*** [[https://twitter.com/rickawsb/status/1608205678191206401][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3、@RaoulGMI Raoul pal 年终总结及展望。从宏观到估值，到重点标的点评。视频全长1小时。 https://t.co/fSs8UY6y4a 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608206055821180928)
+*** [[https://twitter.com/rickawsb/status/1608206055821180928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4、@MessariCrypto 报告，属于必修课，对老玩家来说，重点在于及监管，defi，公链三部分。 https://t.co/wcXQHw4O5K 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608206150943768576)
+*** [[https://twitter.com/rickawsb/status/1608206150943768576][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5、@coinbase 报告，重点：机构，以太分析，中间件，layer2，从胖协议到胖应用等 https://t.co/5YfEZ9NLTj 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608206194388381697)
+*** [[https://twitter.com/rickawsb/status/1608206194388381697][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 插播广告：想了解顶级机构投资人对2023趋势对解读，不要错过我们本周日的space👇
@@ -71,7 +73,7 @@ https://t.co/GcgxXod9q7
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608208922187554817)
+*** [[https://twitter.com/rickawsb/status/1608208922187554817][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、ethropy 主理人adam 的2023年预测。文章不长，layer1，defi的重点都列列出来。https://t.co/wTO6o4jqrT…
@@ -79,7 +81,7 @@ https://t.co/GcgxXod9q7
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608209122369081345)
+*** [[https://twitter.com/rickawsb/status/1608209122369081345][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7、去中心化投资dao，@neworderDAO的年报，很短，重点在于zk，eigenlayer等新技术介绍
@@ -87,7 +89,7 @@ https://t.co/wsMkCdSkD3
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608209288593567744)
+*** [[https://twitter.com/rickawsb/status/1608209288593567744][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8、@Huobi_Research
@@ -95,7 +97,7 @@ https://t.co/wsMkCdSkD3
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608209351755563008)
+*** [[https://twitter.com/rickawsb/status/1608209351755563008][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9、@HashKey_Capital defi 年报，defi的宏观和板块分析很全面，ppt格式，可以当教科书用
@@ -103,14 +105,14 @@ https://t.co/iupKXfh7Ar
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608209441484345350)
+*** [[https://twitter.com/rickawsb/status/1608209441484345350][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10、@nftgoio 的nft 年报，nft详细的2022回顾，部分涵盖gamefi和metaverse。https://t.co/cH89v1Ikbp 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608209525903101952)
+*** [[https://twitter.com/rickawsb/status/1608209525903101952][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11、@Cipholio ，投资机构的年报，5个趋势的分析和最后的投资理念关于币圈美林时钟定义很值得一读。
@@ -118,7 +120,7 @@ https://t.co/6nQa1cCInk
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608209602906296320)
+*** [[https://twitter.com/rickawsb/status/1608209602906296320][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @Cipholio 13、Polygon 年度回顾及展望
@@ -126,14 +128,14 @@ https://t.co/jxSXzarPRG
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608210127412416513)
+*** [[https://twitter.com/rickawsb/status/1608210127412416513][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14、@tcg_crypto 投资机构的年报，对于用户获取，手机端dapp，生态增长部分有独特见解：https://t.co/K1IK70tfos 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608210196073164801)
+*** [[https://twitter.com/rickawsb/status/1608210196073164801][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 15、@maxyamp 机构投资人的关于socialfi，保险，品牌nft等细分赛道等2023预测
@@ -141,21 +143,21 @@ https://t.co/vsXMuY9hJb
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608210268181647360)
+*** [[https://twitter.com/rickawsb/status/1608210268181647360][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 16、The Block Research 2023展望 https://t.co/ASK8jnFU60 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608210342798323713)
+*** [[https://twitter.com/rickawsb/status/1608210342798323713][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 17、@AndrewDARMACAP 机构投资人对2023的23个预测：https://t.co/RE6DMNqgBQ 
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608210419692482560)
+*** [[https://twitter.com/rickawsb/status/1608210419692482560][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最后，能看到最后的估计都是像我一样的放假也没有其他娱乐的币圈亏钱人。
@@ -164,4 +166,4 @@ https://t.co/aJbVWAIwJB
 #+END_QUOTE
     date:: [[2022-12-29]]
 *** from _这俩周看了无数份年报 整理出17份精华年报和大家..._ by @rickawsb on Twitter
-*** [View Tweet](https://twitter.com/rickawsb/status/1608211304057298945)
+*** [[https://twitter.com/rickawsb/status/1608211304057298945][View Tweet]]

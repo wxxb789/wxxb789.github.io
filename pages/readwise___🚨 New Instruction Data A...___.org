@@ -2,6 +2,8 @@
 :title: readwise/🚨 New Instruction Data A...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[seungonekim on Twitter]]
 :full-title: "🚨 New Instruction Data A..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1617383013150756866/ux8U1f3j.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🚨 New Instruction Data Alert!   
@@ -21,7 +23,7 @@ https://t.co/1iZp8sbqfr
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660971862468485120)
+*** [[https://twitter.com/seungonekim/status/1660971862468485120][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Recent works showed that CoT Fine-tuning enables smaller LMs to solve new novel tasks more effectively.
@@ -30,7 +32,7 @@ But, up to date, there exists only 9 CoT datasets available, which FLAN-T5 used 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660972367546310658)
+*** [[https://twitter.com/seungonekim/status/1660972367546310658][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 To resolve this issue, we augment CoT rationales using LLMs. 
@@ -41,7 +43,7 @@ Using FLAN Collection as a source, we use ICL and make LLMs generate high qualit
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660972676465430530)
+*** [[https://twitter.com/seungonekim/status/1660972676465430530][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 So how could one use this dataset? 
@@ -54,7 +56,7 @@ Then, we test our model in zero-shot and few-shot settings.
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660972899434639360)
+*** [[https://twitter.com/seungonekim/status/1660972899434639360][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 On the Big Bench Hard (BBH) benchmark, we observe +4.34%, +2.44% improvement across 3B and 11B model scale, respectively.
@@ -65,7 +67,7 @@ Also, naively training T5 on CoT Collection works effectively, considering that 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660973264720760833)
+*** [[https://twitter.com/seungonekim/status/1660973264720760833][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Also, we show that a C2F2 could adapt to new tasks with few instances. 
@@ -76,7 +78,7 @@ On a 64 shot setting, C2F2 + LoRA outperforms FLAN-T5 + Full fine-tuning by +2.9
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660973664920305669)
+*** [[https://twitter.com/seungonekim/status/1660973664920305669][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 To learn more about our work, please check out our draft & code😃
@@ -88,4 +90,4 @@ Joint work w/ @joocjun , @Doe_Young_Kim , @jang_yoel , @SeonghyeonYe , @jshin491
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _🚨 New Instruction Data A..._ by @seungonekim on Twitter
-*** [View Tweet](https://twitter.com/seungonekim/status/1660974225098936320)
+*** [[https://twitter.com/seungonekim/status/1660974225098936320][View Tweet]]

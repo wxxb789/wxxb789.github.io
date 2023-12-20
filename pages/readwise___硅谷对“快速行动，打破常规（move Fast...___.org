@@ -2,6 +2,8 @@
 :title: readwise/硅谷对“快速行动，打破常规（move Fast...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "硅谷对“快速行动，打破常规（move Fast..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 硅谷对“快速行动，打破常规（move fast and break things）”理念的新演绎
@@ -72,4 +74,4 @@ Zuckerberg 的 “快速行动，打破常规” 口号可能在 Meta 的 2019 �
 #+END_QUOTE
     date:: [[2023-12-07]]
 *** from _硅谷对“快速行动，打破常规（move Fast..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732591351487676695)
+*** [[https://twitter.com/dotey/status/1732591351487676695][View Tweet]]

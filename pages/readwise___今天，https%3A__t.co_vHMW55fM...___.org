@@ -2,6 +2,8 @@
 :title: readwise/今天，https:__t.co_vHMW55fM...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[indigo11 on Twitter]]
 :full-title: "今天，https://t.co/vHMW55fM..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天，https://t.co/vHMW55fMjC 对外公开了他们的首款产品 Grok，一个全新的大语言模型，它将具备：
@@ -58,7 +60,7 @@ xAI 强调透明度和与学术界/研究人员的开放合作，它希望避免
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1721071488215007257)
+*** [[https://twitter.com/indigo11/status/1721071488215007257][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 在这些基准测试中，Grok-1 展现出了强劲的性能，超过了其计算等级中的所有其他模型，包括 GPT-3.5 和 Inflection-1。性能仅次于那些使用了大量的训练数据和计算资源进行训练的模型，如 GPT-4。这展示了 xAI 在训练LLMs 上出色的效率🙌 
@@ -67,18 +69,18 @@ xAI 强调透明度和与学术界/研究人员的开放合作，它希望避免
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1721072965452988739)
+*** [[https://twitter.com/indigo11/status/1721072965452988739][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 关于今年七月在 X Space 上讨论 xAI 愿景的完整记录，可以看这篇 INSIGHTS INTO XAI, THE NEW COMPANY FROM ELON MUSK https://t.co/9iuz13fGur 
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1721073659849412669)
+*** [[https://twitter.com/indigo11/status/1721073659849412669][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这里有个 Grok 的使用预览👀 
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _今天，https://t.co/vHMW55fM..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1721075530672533588)
+*** [[https://twitter.com/indigo11/status/1721075530672533588][View Tweet]]

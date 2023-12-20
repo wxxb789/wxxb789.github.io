@@ -2,6 +2,8 @@
 :title: readwise/🚨We Found Adversarial Su...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[andyzou_jiaming on Twitter]]
 :full-title: "🚨We Found Adversarial Su..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1542682314479611904/RGGBmLbr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🚨We found adversarial suffixes that completely circumvent the alignment of open source LLMs. More concerningly, the same prompts transfer to ChatGPT, Claude, Bard, and LLaMA-2…🧵
@@ -22,7 +24,7 @@ Paper: https://t.co/1q4fzjJSyZ
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766170766004224)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766170766004224][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Claude-2 has an additional layer of safety filter. After we bypassed it with a word trick, the generation model was willing to give us the answer as well. 
@@ -31,7 +33,7 @@ Claude-2 has an additional layer of safety filter. After we bypassed it with a w
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766173437771776)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766173437771776][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 With only four adversarial suffixes, some of these best models followed harmful instructions over 60% of the time. 
@@ -40,21 +42,21 @@ With only four adversarial suffixes, some of these best models followed harmful 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766176084377600)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766176084377600][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Manual jailbreaks are rare, often unreliable as demonstrated by the “sure, here’s” jailbreak (see previous figure). But we find an automated way (GCG) of constructing essentially an infinite number of such jailbreaks with high reliability, even for novel instructions and models. 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766178374475776)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766178374475776][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Aligned models are not adversarially aligned! Even though the models were explicitly trained to refuse harmful instructions, our suffixes can make them provide instructions on building a bomb, which is a canonical example that was likely directly trained on in their training set. 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766179855089665)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766179855089665][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Can't we just patch them?
@@ -65,14 +67,14 @@ Companies like OpenAI have just patched the suffixes in the paper, but numerous 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766181381812225)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766181381812225][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 This alarming finding suggests short-term risks of bad actors exploiting these systems for spreading misinformation and manipulating people and politics. Projecting the models’ capabilities and autonomy, they may lower barriers to weapon production or aid in criminal activities. 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766183369986049)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766183369986049][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 So why did we publish it?
@@ -81,14 +83,14 @@ Despite the risks, we believe it to be proper to disclose in full. The attacks p
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766184871546881)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766184871546881][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Through publishing this attack as a research group, our aim is to sound the alarm early 🚨 and help facilitate the discussion. Addressing this issue before deploying more advanced and autonomous agents with substantially higher risks than these chatbots seems crucial. 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766186285019137)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766186285019137][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 So can we fix this?
@@ -97,18 +99,18 @@ It's uncertain. Adversarial examples in vision have persisted for over a decade 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766187853582336)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766187853582336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you’re interested in our work, please check out our website: https://t.co/ja2FPw9aad and paper: https://t.co/1q4fzjJSyZ or drop me an email. 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766189443227648)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766189443227648][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Thanks to my coauthor @_zifan_wang and advisors @zicokolter and Matt Fredrikson. Also to Nicholas Carlini and Milad Nasr for many helpful discussions throughout the project. Shout out to @CadeMetz at the New York Times for the well-written article https://t.co/ncsFAywK1n 
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _🚨We Found Adversarial Su..._ by @andyzou_jiaming on Twitter
-*** [View Tweet](https://twitter.com/andyzou_jiaming/status/1684766191024521216)
+*** [[https://twitter.com/andyzou_jiaming/status/1684766191024521216][View Tweet]]

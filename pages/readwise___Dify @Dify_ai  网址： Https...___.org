@@ -2,6 +2,8 @@
 :title: readwise/Dify @Dify_ai  网址： Https...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[FinanceYF5 on Twitter]]
 :full-title: "Dify @Dify_ai  网址： Https..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 dify @dify_ai 
@@ -27,7 +29,7 @@ https://t.co/WV5BXWWWhU
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658037111621320706)
+*** [[https://twitter.com/FinanceYF5/status/1658037111621320706][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 【10秒钟】搭建自己的塔罗牌机器人
@@ -44,7 +46,7 @@ https://t.co/WV5BXWWWhU
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658037566011211776)
+*** [[https://twitter.com/FinanceYF5/status/1658037566011211776][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 【10秒钟】搭建自己的角色扮演机器人
@@ -63,7 +65,7 @@ https://t.co/WV5BXWWWhU
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658038734045212675)
+*** [[https://twitter.com/FinanceYF5/status/1658038734045212675][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/XA4dln0fSw
@@ -72,7 +74,7 @@ https://t.co/XA4dln0fSw
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658039709963288576)
+*** [[https://twitter.com/FinanceYF5/status/1658039709963288576][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 简体中文帮助文档：https://t.co/5DOMrE4dCA
@@ -81,7 +83,7 @@ blog：https://t.co/2jKA24gnqv
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658041807136231424)
+*** [[https://twitter.com/FinanceYF5/status/1658041807136231424][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 创始人推特：@goocarlos
@@ -90,4 +92,4 @@ https://t.co/QvSJ11Guyk
 #+END_QUOTE
     date:: [[2023-05-15]]
 *** from _Dify @Dify_ai  网址： Https..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658045248050982913)
+*** [[https://twitter.com/FinanceYF5/status/1658045248050982913][View Tweet]]

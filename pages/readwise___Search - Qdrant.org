@@ -2,6 +2,8 @@
 :title: readwise/Search - Qdrant
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[qdrant.tech]]
 :full-title: "Search - Qdrant"
@@ -10,7 +12,7 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 [](https://qdrant.tech/documentation/concepts/search#similarity-search)Similarity search
@@ -19,7 +21,7 @@ Searching for the nearest vectors is at the core of many representational learni
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Search - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4da1qmeb89aqzy10qd54w68)
+*** [[https://read.readwise.io/read/01h4da1qmeb89aqzy10qd54w68][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 [](https://qdrant.tech/documentation/concepts/search#metrics)Metrics
@@ -34,7 +36,7 @@ Qdrant supports these most popular types of metrics:
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Search - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4da266zfyrf1wj3scenv0vd)
+*** [[https://read.readwise.io/read/01h4da266zfyrf1wj3scenv0vd][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Qdrant counts this metric in 2 steps, due to which a higher search speed is achieved. The first step is to normalize the vector when adding it to the collection. It happens only once for each vector.
@@ -43,7 +45,7 @@ The second step is the comparison of vectors. In this case, it becomes equivalen
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Search - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4da67jefb0xjaq2jwx6254r)
+*** [[https://read.readwise.io/read/01h4da67jefb0xjaq2jwx6254r][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Query planning
@@ -62,7 +64,7 @@ You can adjust the threshold using a [configuration file](https://github.com/qdr
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Search - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4da8r3ca5qdd6hcvkn4e9g9)
+*** [[https://read.readwise.io/read/01h4da8r3ca5qdd6hcvkn4e9g9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Values under the key `params` specify custom parameters for the search. Currently, it could be:
@@ -72,4 +74,4 @@ Values under the key `params` specify custom parameters for the search. Currentl
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Search - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4dh1taf5enhamj1br619bax)
+*** [[https://read.readwise.io/read/01h4dh1taf5enhamj1br619bax][View Highlight]]

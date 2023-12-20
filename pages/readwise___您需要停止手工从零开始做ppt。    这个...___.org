@@ -2,6 +2,8 @@
 :title: readwise/您需要停止手工从零开始做ppt。    这个...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[FinanceYF5 on Twitter]]
 :full-title: "您需要停止手工从零开始做ppt。    这个..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 您需要停止手工从零开始做PPT。   
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658949759909126144)
+*** [[https://twitter.com/FinanceYF5/status/1658949759909126144][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 转到 Gamma .app 并注册您的帐户。   
@@ -34,7 +36,7 @@
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658949952704483328)
+*** [[https://twitter.com/FinanceYF5/status/1658949952704483328][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 关于您希望PPT显示的内容，请准确的输入prompt。   
@@ -47,7 +49,7 @@
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658950650351484928)
+*** [[https://twitter.com/FinanceYF5/status/1658950650351484928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 接下来，您必须选择一个主题Theme。  如果您不喜欢它的结果，您可以稍后更改它。   
@@ -58,7 +60,7 @@ AI 将在几秒钟内创建您的幻灯片。 https://t.co/nHx2fMkKyz
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658950909932732417)
+*** [[https://twitter.com/FinanceYF5/status/1658950909932732417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Gamma 将为您创建一张完整的幻灯片，所有这些都来自我们给它的简单提示 
@@ -67,7 +69,7 @@ Gamma 将为您创建一张完整的幻灯片，所有这些都来自我们给�
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658951132293505029)
+*** [[https://twitter.com/FinanceYF5/status/1658951132293505029][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这是最令人难以置信的部分：使用 AI 编辑器，您可以实时编辑内容。    
@@ -76,7 +78,7 @@ Gamma 将为您创建一张完整的幻灯片，所有这些都来自我们给�
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658951344819142656)
+*** [[https://twitter.com/FinanceYF5/status/1658951344819142656][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这是一个闭环！  原作者：@rowancheung
@@ -87,4 +89,4 @@ Gamma 将为您创建一张完整的幻灯片，所有这些都来自我们给�
 #+END_QUOTE
     date:: [[2023-05-18]]
 *** from _您需要停止手工从零开始做ppt。    这个..._ by @FinanceYF5 on Twitter
-*** [View Tweet](https://twitter.com/FinanceYF5/status/1658951639238328320)
+*** [[https://twitter.com/FinanceYF5/status/1658951639238328320][View Tweet]]

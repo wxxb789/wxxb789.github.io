@@ -2,6 +2,8 @@
 :title: readwise/25｜机器学习：我们能用机器学习来建立投资模型吗？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "25｜机器学习：我们能用机器学习来建立投资模型吗？"
@@ -11,21 +13,21 @@
 :image-url: https://static001.geekbang.org/resource/image/d4/53/d4563db2f69c76ea8b518898c42e9a53.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/e9/75/e99539d00942af53aa79eb5878afdc75.jpg?wh=2248x828) 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhapmhvt0jdyn5nst6tstn)
+*** [[https://read.readwise.io/read/01gxrhapmhvt0jdyn5nst6tstn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 接下来，我们也会基于这个问题，讲一讲从样本生成、特征选取、模型训练，再到模型预估的大致思路。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhazvajwa1yfb1svaxds2t)
+*** [[https://read.readwise.io/read/01gxrhazvajwa1yfb1svaxds2t][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 训练样本和特征如何生成？
@@ -38,14 +40,14 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhbamtnzqvn31h3c38mceb)
+*** [[https://read.readwise.io/read/01gxrhbamtnzqvn31h3c38mceb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在滑动过程中，每个窗口内的行情数据就作为历史数据，我们可以从中提取出行情相关的特征。而窗口外右侧的第一帧数据，就作为样本的标签。如果是涨的话，就标记该样本是正样本，跌的话就是负样本。当然，如果你希望训练的是一个回归模型，也可以把股票的涨跌幅度这个连续值当作样本标签。直到向右滑动结束，处理完全部的行情数据，我们就完成了样本的生成。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhbfvnk87traht7pwkd4ba)
+*** [[https://read.readwise.io/read/01gxrhbfvnk87traht7pwkd4ba][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 特征一般分为两大部分，一是场内行情特征，二是场外特征。其中，场内行情特征指的是利用滑动窗口内部的行情数据，比如股票价格、成交量、换手率等信息处理出来的特征。场外特征是当时当刻跟这只股票相关的所有其他数据，比如这家公司基本面的数据，宏观经济数据等等。
@@ -54,49 +56,49 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhbt336y2wny7gn7mv8kpp)
+*** [[https://read.readwise.io/read/01gxrhbt336y2wny7gn7mv8kpp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 什么样的模型结构适合股价预测？ 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhc22r9ayh1aw92y5a3jz0)
+*** [[https://read.readwise.io/read/01gxrhc22r9ayh1aw92y5a3jz0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 如图 3 所示，因为行情数据天然是序列化的，所以序列模型自然就是最适合处理行情数据的模型。事实上，国内的量化投资公司某方，以及国外的量化巨头 two sigma，都披露过序列模型在它们投资场景下的成功应用。序列模型也曾经在 two sigma 举办的股票预测大赛中大放异彩，如果你想具体了解，可以看这个链接。那接下来，我就讲一下序列模型的应用。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhdjng1xp0z020abn7861v)
+*** [[https://read.readwise.io/read/01gxrhdjng1xp0z020abn7861v][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 对于一个序列模型来说，最重要的是要清楚它的基本结构和输入输出。下面的图 4 就是一个经典的序列模型结构示意图。其中 x1 到 xt+1 就是它的输入，y1 到 yt+1 是它的输出，每个蓝色模块间的 at，就是不同状态间传递的权重信息。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhdsxb50fjvm5cc1y1ctr3)
+*** [[https://read.readwise.io/read/01gxrhdsxb50fjvm5cc1y1ctr3][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 那序列模型是如何应用在预测股价这个问题上的呢？其实这个过程是很直观的。输入 xt 其实就代表每一时刻股价相关的特征向量，你可以把我们准备好的多因子特征都放到这个向量中去。比如，向量的第一个维度代表成交量，第二个维度代表上一刻的涨跌幅度，第三个维度代表动量因子，等等。输出 yt 代表的就是我们希望利用 xt 预测出的结果，就是 t 时刻下一刻的股票涨跌结果。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhecfj0dnyr3va120xz48t)
+*** [[https://read.readwise.io/read/01gxrhecfj0dnyr3va120xz48t][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这就是利用序列模型预测股票的全过程。在实际操作中，当然有大量细节工作需要准备，比如特征的选取，样本的处理，预估相关服务的搭建，等等。此外，模型结构的选择也对预测结果有关键性的影响，比如经典的序列模型就包括 RNN、LSTM、GRU 等等。想了解这些模型细节的同学，可以进一步参考机器学习领域的相关资料。在之后的番外篇里，我也会给你推荐一些相关的书籍和文章。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhernfqksr05j3k34smj3s)
+*** [[https://read.readwise.io/read/01gxrhernfqksr05j3k34smj3s][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 根据很多业内人士的经验，序列模型在高频场景下是更容易出效果的，但是在天和月级别的低频领域，每个时刻的结果只跟前一个时刻关系较大，跟更早时刻的特征相关性就很弱了。这个时候，序列模型的特点就很难发挥出来，我们就应该使用更合适的模型去挖掘当前时刻不同因子之间的相互关系。比如，可以使用更善于解决特征交叉问题的 XGboost，或者 DeepFM 等模型。 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhfm60wtykhpc5yxx8fq2q)
+*** [[https://read.readwise.io/read/01gxrhfm60wtykhpc5yxx8fq2q][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 举几个具体的例子来说吧。我们一起来看图 5 展示的 DeepFM 的模型结构，你可以直观地看到，不同输入特征之间存在很多连线，这就意味着 DeepFM 这个模型希望通过特征交叉学到它们之间的相互作用。
@@ -105,14 +107,14 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhg18736bhwzx3d5pkvd1b)
+*** [[https://read.readwise.io/read/01gxrhg18736bhwzx3d5pkvd1b][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/85/a2/851ccbfec150052aa770f1f806bbcba2.jpg?wh=1920x843) 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhg3smxe6jnzk92frgh7zx)
+*** [[https://read.readwise.io/read/01gxrhg3smxe6jnzk92frgh7zx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 魔鬼藏在细节里
@@ -123,7 +125,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhhmtktpn3vh9zvbfg4k79)
+*** [[https://read.readwise.io/read/01gxrhhmtktpn3vh9zvbfg4k79][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 数据清洗问题
@@ -134,7 +136,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhhw172dkabws8ra995gxc)
+*** [[https://read.readwise.io/read/01gxrhhw172dkabws8ra995gxc][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 问题的定义
@@ -143,7 +145,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhjjh38wd9x5ykmraty96r)
+*** [[https://read.readwise.io/read/01gxrhjjh38wd9x5ykmraty96r][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们可以缩小时间区间，比如只利用闭市前 30 分钟的走势来预测第二天的开盘行情。
@@ -154,14 +156,14 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhjb1eqqcw6t15v16tj6ch)
+*** [[https://read.readwise.io/read/01gxrhjb1eqqcw6t15v16tj6ch][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/a6/c9/a6a9cb0e7413a67171bdb484ce9efcc9.jpg?wh=1920x552) 
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhj0ahaq5qw33h2rr14xw3)
+*** [[https://read.readwise.io/read/01gxrhj0ahaq5qw33h2rr14xw3][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 复杂模型容易产生严重的过拟合现象。
@@ -174,7 +176,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhk2st50jwgzfg4gsvcx65)
+*** [[https://read.readwise.io/read/01gxrhk2st50jwgzfg4gsvcx65][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 用机器学习解决投资问题，本质思路跟解决推荐、广告问题是一样的，只不过二者所利用的特征完全不同。
@@ -189,7 +191,7 @@ LSTM、RNN 等序列模型常被用于解决跟走势相关的预测问题，XGb
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhk6rd62tqqynw4g6m0d2t)
+*** [[https://read.readwise.io/read/01gxrhk6rd62tqqynw4g6m0d2t][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在睡梦里，我认为股票的涨停随着我的想法决定涨或停； 在对未来的期望里，我认为预测未来哪只股票会上涨，完全是小菜一碟； 但当我清醒时，我的理智告诉我：预测分钟级的螺纹钢期货涨跌是比较现实的，因为随着时间的推移，各种不可控因素变得越来越多，时间越长，预测准确度越来越低，只有在较短的时间里，才能将各种影响因素缩小到可控范围，提高预测准确度。股票里的技术分析，诸如KDJ，MACD，布林线等，一般都用来预测短期行情，前期好的行情离得越近，越能判断近期涨势，两个离得近的金叉，比两个离得远的金叉可信度要高，我想这跟股市的瞬息万变强相关，上一秒好的行情可能在下一秒就变差了，时间越长，用于预测的有效信息偏离性越大。 由此可见，越是稳定的走势，越有利于预测分析，我能虽然无法准确预测哪只股票会涨，但是我们可以判断哪些股票较差，基于这一点，可不可以利用机器学习使用相同数据周期性进行预测呢？比如：对近期的股票以周为单位进行一次技术分析，通过综合对比，剔除以周为单位走势较差的股票，留下相对平稳的股票，待大范围选取相对好的股票后，再以天为单位对股票进行预测。
@@ -198,4 +200,4 @@ LSTM、RNN 等序列模型常被用于解决跟走势相关的预测问题，XGb
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _25｜机器学习：我们能用机器学习来建立投资模型吗？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxrhkj20nbpf8y2vcb1k5tpx)
+*** [[https://read.readwise.io/read/01gxrhkj20nbpf8y2vcb1k5tpx][View Highlight]]

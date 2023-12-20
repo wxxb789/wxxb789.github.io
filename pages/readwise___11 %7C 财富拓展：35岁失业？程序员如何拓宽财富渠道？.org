@@ -2,6 +2,8 @@
 :title: readwise/11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？"
@@ -11,14 +13,14 @@
 :image-url: https://static001.geekbang.org/resource/image/26/b6/26a3c3d319edcd26da1d8f43c0c63eb6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/ed/f1/ed5388c6b054baf087d1c01661afc2f1.jpg?wh=1920x1624) 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbw7ydfax72xe8e7pa2269)
+*** [[https://read.readwise.io/read/01gxkbw7ydfax72xe8e7pa2269][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这三大财富项分别是：
@@ -31,14 +33,14 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbx1zsvh5ygmexpedjytr2)
+*** [[https://read.readwise.io/read/01gxkbx1zsvh5ygmexpedjytr2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/8e/9a/8e228171901d4153cb54378ac6f1769a.jpg?wh=2248x2166) 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbzzb2p19te15wea06qygx)
+*** [[https://read.readwise.io/read/01gxkbzzb2p19te15wea06qygx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 如果你是一名 80 后、95 前，那你一定知道 2008 到 2010 年左右的时候，移动互联网的概念有多火。那几年创业的团队不胜枚举，我跟几位同学，以及校外的一些创业朋友，也合伙创办了我们的移动互联网工作室“五点工作室”。这个工作室的业务方向主要有三个：
@@ -51,32 +53,32 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkc0rsarvf85rf9qfbzpesp)
+*** [[https://read.readwise.io/read/01gxkc0rsarvf85rf9qfbzpesp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 对我来说，主业和副业最好的关系模式是“主业滋养副业，副业反馈主业”的“榕树关系”。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkc1wgfrqfn1gxk6vqhjdce)
+*** [[https://read.readwise.io/read/01gxkc1wgfrqfn1gxk6vqhjdce][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 首先，如果你的主业不够健壮，在一开始的探索阶段，副业就不可能有一个较高的起点，你就很难在众多竞争者中脱颖而出。举个例子，如果小 H 没有把几百道算法题吃透，他怎么可能由此构建出自己的知识体系，继而输出高质量的内容呢？我也是一样，如果上大学的时候，没有积累扎实的机器学习和编程功底，怎么能够靠这一点来创业和盈利呢？ 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkc24jp1rfe2axrq3hzp99e)
+*** [[https://read.readwise.io/read/01gxkc24jp1rfe2axrq3hzp99e][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 反过来讲，在探索阶段，副业其实也会支持、促进主业的发展。比如，算法题的精进肯定有助于小 H 的面试、跳槽，帮他拿到更好的 offer。而我对副业的投入，更是增加了我算法模型落地的能力，让我在研究生阶段就具备了大量的实践经验，这一点让我受益至今。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkc28jw1676jmg18n2gk1aa)
+*** [[https://read.readwise.io/read/01gxkc28jw1676jmg18n2gk1aa][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/0a/2e/0a7411b3047c6329f2db9b4313bd902e.jpg?wh=2284x1033) 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _11 | 财富拓展：35岁失业？程序员如何拓宽财富渠道？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkc2vk27n2g6019c6gkq3h4)
+*** [[https://read.readwise.io/read/01gxkc2vk27n2g6019c6gkq3h4][View Highlight]]

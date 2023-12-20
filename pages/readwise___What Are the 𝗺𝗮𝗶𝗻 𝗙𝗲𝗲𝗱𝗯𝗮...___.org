@@ -2,6 +2,8 @@
 :title: readwise/What Are the 𝗺𝗮𝗶𝗻 𝗙𝗲𝗲𝗱𝗯𝗮...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Aurimas_Gr on Twitter]]
 :full-title: "What Are the 𝗺𝗮𝗶𝗻 𝗙𝗲𝗲𝗱𝗯𝗮..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1550778008314806272/BssM2zPQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 What are the 𝗺𝗮𝗶𝗻 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝗟𝗼𝗼𝗽𝘀 𝗶𝗻 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀?
@@ -23,7 +25,7 @@ A regular Machine Learning Project consists of 4 main stages:
 #+END_QUOTE
     date:: [[2023-07-09]]
 *** from _What Are the 𝗺𝗮𝗶𝗻 𝗙𝗲𝗲𝗱𝗯𝗮..._ by @Aurimas_Gr on Twitter
-*** [View Tweet](https://twitter.com/Aurimas_Gr/status/1677621649716260864)
+*** [[https://twitter.com/Aurimas_Gr/status/1677621649716260864][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you like the content, be sure to join 14.000+ Data Tech Enthusiasts by subscribing to my newsletter: https://t.co/aI3ps0tcLw 
@@ -32,4 +34,4 @@ If you like the content, be sure to join 14.000+ Data Tech Enthusiasts by subscr
 #+END_QUOTE
     date:: [[2023-07-09]]
 *** from _What Are the 𝗺𝗮𝗶𝗻 𝗙𝗲𝗲𝗱𝗯𝗮..._ by @Aurimas_Gr on Twitter
-*** [View Tweet](https://twitter.com/Aurimas_Gr/status/1677661266603655171)
+*** [[https://twitter.com/Aurimas_Gr/status/1677661266603655171][View Tweet]]

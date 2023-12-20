@@ -2,6 +2,8 @@
 :title: readwise/Google 发布了一个名为 "Generati...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xiaohuggg on Twitter]]
 :full-title: "Google 发布了一个名为 "Generati..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1651448138182578177/H9kcfTCy.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Google 发布了一个名为 "Generative AI learning path" 的学习路径课程，专门为初学者设计。它从基础概念开始，如什么是生成式AI，然后逐步深入到更复杂的主题，如创建图像字幕模型和使用Vertex AI的生成式AI工作室。目标是帮助初学者理解生成式AI的基础知识，以及如何在Google Cloud上使用生成式AI。 
@@ -19,77 +21,77 @@ Google 发布了一个名为 "Generative AI learning path" 的学习路径课程
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530129605439488)
+*** [[https://twitter.com/xiaohuggg/status/1665530129605439488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1、介绍生成式 AI：这是一个入门级微学习课程，旨在解释生成式 AI 是什么，它如何被使用，以及它与传统机器学习方法有何不同。它还涵盖了 Google 工具，以帮助你开发自己的生成式 AI。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530132877156352)
+*** [[https://twitter.com/xiaohuggg/status/1665530132877156352][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2、介绍大型语言模型：这是一个入门级微学习课程，探讨了大型语言模型（LLM）是什么，可以在哪些用例中使用，以及如何使用提示调整来提高 LLM 的性能。它还涵盖了 Google 工具。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530134999498752)
+*** [[https://twitter.com/xiaohuggg/status/1665530134999498752][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3、介绍负责任的 AI：这是一个入门级微学习课程，旨在解释什么是负责任的 AI，为什么它很重要，以及 Google 如何在其产品中实施负责任的 AI。它还介绍了 Google 的7个 AI 原则。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530136928866305)
+*** [[https://twitter.com/xiaohuggg/status/1665530136928866305][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4、介绍图像生成：这门课程介绍了扩散模型，这是一种机器学习模型家族，最近在图像生成领域显示出了潜力。扩散模型从物理学，特别是热力学中汲取灵感。在过去的几年里，扩散模型在研究中变得流行。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530139407527936)
+*** [[https://twitter.com/xiaohuggg/status/1665530139407527936][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5、编码器-解码器架构：这门课程为你提供了编码器-解码器架构的概述，这是一种强大而普遍的机器学习架构，用于序列到序列的任务，如机器翻译、文本摘要和问题回答。你将了解编码器-解码器的主要组成部分。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530141550997505)
+*** [[https://twitter.com/xiaohuggg/status/1665530141550997505][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、注意力机制：这门课程将向你介绍注意力机制，这是一种强大的技术，允许神经网络专注于输入序列的特定部分。你将了解注意力如何工作，以及如何用它来改善。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530143513931777)
+*** [[https://twitter.com/xiaohuggg/status/1665530143513931777][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7、变压器模型和 BERT 模型：这门课程向你介绍了变压器架构和双向编码器表示从变压器（BERT）模型。你将了解变压器架构的主要组成部分，如自我注意力机制，以及它是如何用来构建。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530145724321794)
+*** [[https://twitter.com/xiaohuggg/status/1665530145724321794][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8、创建图像字幕模型：这门课程教你如何使用深度学习创建图像字幕模型。你将了解图像字幕模型的不同组成部分，如编码器和解码器，以及如何训练和评估你的模型。 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530147636641792)
+*** [[https://twitter.com/xiaohuggg/status/1665530147636641792][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9、介绍生成式 AI 工作室：这门课程介绍了生成式 AI 工作室，这是 Vertex AI 上的一个产品，它帮助你原型化和定制生成式 AI 模型，以便你可以在你的应用中使用它们的能力。在这门课程中，你将了解生成式 AI 工作室是什么... 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530150153338881)
+*** [[https://twitter.com/xiaohuggg/status/1665530150153338881][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10、生成式 AI 探索者 - Vertex AI：生成式 AI 探索者 - Vertex Quest 是一系列关于如何在 Google Cloud 上使用生成式 AI 的实验。通过这些实验，你将了解如何使用 Vertex AI PaLM API 家族中的模型... 
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530152552636417)
+*** [[https://twitter.com/xiaohuggg/status/1665530152552636417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这些课程和活动为你提供了深入了解生成式 AI 的机会，包括其工作原理，如何在实际应用中使用它，以及如何在 Google Cloud 上创建和部署生成式 AI 解决方案。
@@ -98,7 +100,7 @@ Google 发布了一个名为 "Generative AI learning path" 的学习路径课程
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530154867732480)
+*** [[https://twitter.com/xiaohuggg/status/1665530154867732480][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果本次分享，觉得对你有用，记得点点关注
@@ -106,4 +108,4 @@ Google 发布了一个名为 "Generative AI learning path" 的学习路径课程
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Google 发布了一个名为 "Generati..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1665530156965044224)
+*** [[https://twitter.com/xiaohuggg/status/1665530156965044224][View Tweet]]

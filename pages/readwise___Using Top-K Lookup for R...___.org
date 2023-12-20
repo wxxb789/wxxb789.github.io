@@ -2,6 +2,8 @@
 :title: readwise/Using Top-K Lookup for R...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[jerryjliu0 on Twitter]]
 :full-title: "Using Top-K Lookup for R..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Using top-k lookup for retrieval in your RAG system is fast but imprecise 🤔
@@ -23,7 +25,7 @@ Here's how to implement it in @llama_index 👇: https://t.co/CCfEzs5LOH https:/
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _Using Top-K Lookup for R..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681816022557560832)
+*** [[https://twitter.com/jerryjliu0/status/1681816022557560832][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Most existing retrieval systems rely on "bi-encoding": the query/context are embedded independently, and lookup is done with a simple dot product.
@@ -32,7 +34,7 @@ Cross-encoding techniques jointly encode query+context; it's slower but more acc
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _Using Top-K Lookup for R..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681816027552944128)
+*** [[https://twitter.com/jerryjliu0/status/1681816027552944128][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We can use cross-encoding as a *reranking step* AFTER  existing top-k lookup. This allows you to set a much larger top-k for retrieval when building an LLM QA system.
@@ -43,7 +45,7 @@ In @llama_index, if you set top_k=10, by default LLM will take ~30 seconds.
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _Using Top-K Lookup for R..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681816031134883840)
+*** [[https://twitter.com/jerryjliu0/status/1681816031134883840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 But with cross-encoding based reranking/pruning, the LLM synthesis takes 4 seconds, and the answer is better.
@@ -58,4 +60,4 @@ Notebook: https://t.co/Pclt2AI0Bg
 #+END_QUOTE
     date:: [[2023-07-20]]
 *** from _Using Top-K Lookup for R..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681816034553237504)
+*** [[https://twitter.com/jerryjliu0/status/1681816034553237504][View Tweet]]

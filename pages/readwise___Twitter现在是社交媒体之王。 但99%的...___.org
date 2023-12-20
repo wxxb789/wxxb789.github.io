@@ -2,6 +2,8 @@
 :title: readwise/Twitter现在是社交媒体之王。 但99%的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xiaoying_eth on Twitter]]
 :full-title: "Twitter现在是社交媒体之王。 但99%的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1668476737389494272/5kE7iqyp.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Twitter现在是社交媒体之王。
@@ -21,7 +23,7 @@ Twitter现在是社交媒体之王。
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435509210333277)
+*** [[https://twitter.com/xiaoying_eth/status/1726435509210333277][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. 找到某人的最受欢迎的推文。
@@ -30,7 +32,7 @@ from:hasantoxr min_faves:1000 <video controls><source src="https://video.twimg.c
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435510703534333)
+*** [[https://twitter.com/xiaoying_eth/status/1726435510703534333][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. 找到回复最多的推文。
@@ -39,7 +41,7 @@ from:hasantoxr min_replies:500 <video controls><source src="https://video.twimg.
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435513174020400)
+*** [[https://twitter.com/xiaoying_eth/status/1726435513174020400][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 搜索精确短语。
@@ -50,7 +52,7 @@ from:hasantoxr min_replies:500 <video controls><source src="https://video.twimg.
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435515606659425)
+*** [[https://twitter.com/xiaoying_eth/status/1726435515606659425][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. 按类型过滤。
@@ -65,7 +67,7 @@ AI工具过滤：图像 <video controls><source src="https://video.twimg.com/ext
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435518060351494)
+*** [[https://twitter.com/xiaoying_eth/status/1726435518060351494][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. "-"操作符将排除包含某个术语的结果。
@@ -74,7 +76,7 @@ javascript -css <video controls><source src="https://video.twimg.com/ext_tw_vide
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435520639909993)
+*** [[https://twitter.com/xiaoying_eth/status/1726435520639909993][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. 使用`until`操作符只返回给定日期（年-月-日）之前的结果。
@@ -83,7 +85,7 @@ GPT-4 until:2023-05-01 <video controls><source src="https://video.twimg.com/ext_
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435523244478917)
+*** [[https://twitter.com/xiaoying_eth/status/1726435523244478917][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7. 使用`since`操作符只返回给定日期（年-月-日）之后的结果。
@@ -92,7 +94,7 @@ ChatGPT since:2023-04-01 <video controls><source src="https://video.twimg.com/ex
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435525597503498)
+*** [[https://twitter.com/xiaoying_eth/status/1726435525597503498][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8. 找到发给特定人的推文。
@@ -101,7 +103,7 @@ from:ihteshamit to:hasantoxr <video controls><source src="https://video.twimg.co
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435527866687576)
+*** [[https://twitter.com/xiaoying_eth/status/1726435527866687576][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9. 按语言搜索。
@@ -110,7 +112,7 @@ ChatGPT lang:es <video controls><source src="https://video.twimg.com/ext_tw_vide
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435530345427064)
+*** [[https://twitter.com/xiaoying_eth/status/1726435530345427064][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10. 使用`near`和`within`操作符根据位置发现推文。
@@ -119,4 +121,4 @@ near:melbourne within:10mi <video controls><source src="https://video.twimg.com/
 #+END_QUOTE
     date:: [[2023-11-20]]
 *** from _Twitter现在是社交媒体之王。 但99%的..._ by @xiaoying_eth on Twitter
-*** [View Tweet](https://twitter.com/xiaoying_eth/status/1726435532572614750)
+*** [[https://twitter.com/xiaoying_eth/status/1726435532572614750][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/The Code Interpreter Plu...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[jerryjliu0 on Twitter]]
 :full-title: "The Code Interpreter Plu..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 The code interpreter plugin for ChatGPT gives it decision superpowers: it can analyze files, plot graphs, and plan with code 🧑‍💻🛠️
@@ -23,7 +25,7 @@ https://t.co/vsPrTweuO9
 #+END_QUOTE
     date:: [[2023-07-18]]
 *** from _The Code Interpreter Plu..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681304143930212357)
+*** [[https://twitter.com/jerryjliu0/status/1681304143930212357][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 With the tool, you can unlock similar capabilities of data analysis/visualization that you can do with ChatGPT.
@@ -34,7 +36,7 @@ Here’s an example where we let the agent analyze the 2016 World Happiness Inde
 #+END_QUOTE
     date:: [[2023-07-18]]
 *** from _The Code Interpreter Plu..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681304150745964548)
+*** [[https://twitter.com/jerryjliu0/status/1681304150745964548][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 It can also plot graphs with matplotlib - and even generate comparisons between happiest and least happy countries. 
@@ -43,7 +45,7 @@ It can also plot graphs with matplotlib - and even generate comparisons between 
 #+END_QUOTE
     date:: [[2023-07-18]]
 *** from _The Code Interpreter Plu..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681304157767229443)
+*** [[https://twitter.com/jerryjliu0/status/1681304157767229443][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Our code interpreter tool can be viewed on LlamaHub here: https://t.co/pJlMbHeppP 
@@ -54,7 +56,7 @@ It prompts ChatGPT to write arbitrary Python code, importing any necessary libra
 #+END_QUOTE
     date:: [[2023-07-18]]
 *** from _The Code Interpreter Plu..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681304164566175746)
+*** [[https://twitter.com/jerryjliu0/status/1681304164566175746][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Warning ⚠️: Obviously security is a huge issue, and an advantage of the ChatGPT code interpreter is the fact that it can execute code in an isolated sandbox 🔐.
@@ -63,11 +65,11 @@ Our interpreter tool just uses Python subprocess, which is obviously unsafe. So 
 #+END_QUOTE
     date:: [[2023-07-18]]
 *** from _The Code Interpreter Plu..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681304168630460421)
+*** [[https://twitter.com/jerryjliu0/status/1681304168630460421][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Are you interested in contributing other (potentially safer) code execution environments? We’d love to have your help here: https://t.co/HVjMzdaFVl 
 #+END_QUOTE
     date:: [[2023-07-18]]
 *** from _The Code Interpreter Plu..._ by @jerryjliu0 on Twitter
-*** [View Tweet](https://twitter.com/jerryjliu0/status/1681304171444842498)
+*** [[https://twitter.com/jerryjliu0/status/1681304171444842498][View Tweet]]

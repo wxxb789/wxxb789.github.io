@@ -2,6 +2,8 @@
 :title: readwise/如何更好进行「主题研究」 创建了一个 Copi...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Tisoga on Twitter]]
 :full-title: "如何更好进行「主题研究」 创建了一个 Copi..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 如何更好进行「主题研究」
@@ -26,7 +28,7 @@ https://t.co/2C0nHIaxIV
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _如何更好进行「主题研究」 创建了一个 Copi..._ by @Tisoga on Twitter
-*** [View Tweet](https://twitter.com/Tisoga/status/1647606126937264129)
+*** [[https://twitter.com/Tisoga/status/1647606126937264129][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Copilot Hub 目前已经上线了多 data source 的功能，非常方便用来进行某一主题的研究。
@@ -37,4 +39,4 @@ Copilot Hub 目前已经上线了多 data source 的功能，非常方便用来�
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _如何更好进行「主题研究」 创建了一个 Copi..._ by @Tisoga on Twitter
-*** [View Tweet](https://twitter.com/Tisoga/status/1647606708066451457)
+*** [[https://twitter.com/Tisoga/status/1647606708066451457][View Tweet]]

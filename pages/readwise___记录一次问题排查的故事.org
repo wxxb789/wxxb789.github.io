@@ -2,6 +2,8 @@
 :title: readwise/记录一次问题排查的故事
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[laixintao]]
 :full-title: "记录一次问题排查的故事"
@@ -10,18 +12,18 @@
 :image-url: https://www.kawabangga.com/wp-content/uploads/2017/04/favicon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 HTTP 再前面就是公司的通用网关了，所以集团外其他用户访问我们的服务链路是 公网 -> 4层网关 -> 7层网关 -> HTTP 转 gRPC 服务 -> 服务本身。 
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _记录一次问题排查的故事_ by laixintao
-*** [View Highlight](https://read.readwise.io/read/01gmzyfyg9xh7ycq67nddh3pra)
+*** [[https://read.readwise.io/read/01gmzyfyg9xh7ycq67nddh3pra][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 然后有一个 BU，他们说调用我们的服务请求并发提不上去，原因是他们那边的 NAT 端口耗尽了。从他们那边访问这个服务的出口是 客户端 -> NAT 设备 -> 公网 -> … 因为我们只在公网上暴露了 2 个 IP，TCP 的五元组里面 4 个基本已经固定了，2IP+协议+目的端口，所以只有他们 NAT 的端口是一个变量，很快就到了瓶颈。 
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _记录一次问题排查的故事_ by laixintao
-*** [View Highlight](https://read.readwise.io/read/01gmzyggsr5ttx2htw2krmx88a)
+*** [[https://read.readwise.io/read/01gmzyggsr5ttx2htw2krmx88a][View Highlight]]

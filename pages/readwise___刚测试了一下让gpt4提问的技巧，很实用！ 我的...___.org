@@ -2,6 +2,8 @@
 :title: readwise/刚测试了一下让gpt4提问的技巧，很实用！ 我的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "刚测试了一下让gpt4提问的技巧，很实用！ 我的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 刚测试了一下让GPT4提问的技巧，很实用！
@@ -22,7 +24,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _刚测试了一下让gpt4提问的技巧，很实用！ 我的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1647786431010467840)
+*** [[https://twitter.com/dotey/status/1647786431010467840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后GPT-4就给我提了5个问题：
@@ -34,7 +36,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _刚测试了一下让gpt4提问的技巧，很实用！ 我的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1647786433346777088)
+*** [[https://twitter.com/dotey/status/1647786433346777088][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 有没有特定的技术、工具或案例，您希望我在文章中包含？
@@ -45,7 +47,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _刚测试了一下让gpt4提问的技巧，很实用！ 我的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1647786434919559170)
+*** [[https://twitter.com/dotey/status/1647786434919559170][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这几个问题都很在点子上，而且还给出了示例，让我很容易对问题进行解答。
@@ -56,4 +58,4 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _刚测试了一下让gpt4提问的技巧，很实用！ 我的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1647786440212791296)
+*** [[https://twitter.com/dotey/status/1647786440212791296][View Tweet]]

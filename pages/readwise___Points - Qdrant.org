@@ -2,6 +2,8 @@
 :title: readwise/Points - Qdrant
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[qdrant.tech]]
 :full-title: "Points - Qdrant"
@@ -10,7 +12,7 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 [](https://qdrant.tech/documentation/concepts/points#points)Points
@@ -21,14 +23,14 @@ You can search among the points grouped in one [collection](https://qdrant.tech/
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Points - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d9htwz9kf1bsjfex2q7hj1)
+*** [[https://read.readwise.io/read/01h4d9htwz9kf1bsjfex2q7hj1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 If the logic of your application requires a guarantee that the vector will be available for searching immediately after the API execution, then use the flag `?wait=true`. In this case, the API will return the result only after the operation is finished 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Points - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d9nc8ne0zr8x3avvdzncbw)
+*** [[https://read.readwise.io/read/01h4d9nc8ne0zr8x3avvdzncbw][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Point IDs
@@ -45,7 +47,7 @@ That means that in every request UUID string could be used instead of numerical 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Points - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d9qgagc64s37p7wgqjehqr)
+*** [[https://read.readwise.io/read/01h4d9qgagc64s37p7wgqjehqr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Point IDs
@@ -62,4 +64,4 @@ That means that in every request UUID string could be used instead of numerical 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Points - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d9rn998fx1yr32x8s1dqfz)
+*** [[https://read.readwise.io/read/01h4d9rn998fx1yr32x8s1dqfz][View Highlight]]

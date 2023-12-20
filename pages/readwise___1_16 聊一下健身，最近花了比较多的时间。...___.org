@@ -2,6 +2,8 @@
 :title: readwise/1_16 聊一下健身，最近花了比较多的时间。...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[yorkzhong on Twitter]]
 :full-title: "1/16 聊一下健身，最近花了比较多的时间。..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1633860454799011840/mpDTNtLk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/16 聊一下健身，最近花了比较多的时间。
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691490030432709)
+*** [[https://twitter.com/yorkzhong/status/1722691490030432709][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/16 健身的关键有三点：
@@ -35,7 +37,7 @@ here's why:
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691492190552550)
+*** [[https://twitter.com/yorkzhong/status/1722691492190552550][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/16
@@ -51,7 +53,7 @@ Vo2Max的高低，大约对人的ACM(全因素死亡率）有3-4倍的提升，�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691494153531737)
+*** [[https://twitter.com/yorkzhong/status/1722691494153531737][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/16 相比之下，抽烟和不抽烟的差别只有1.41倍。
@@ -64,7 +66,7 @@ Vo2Max的高低，大约对人的ACM(全因素死亡率）有3-4倍的提升，�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691497580245115)
+*** [[https://twitter.com/yorkzhong/status/1722691497580245115][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/16 
@@ -77,7 +79,7 @@ zone 2是一种低心率训练方式，大约心率在180-年龄。这对于刚�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691500084269261)
+*** [[https://twitter.com/yorkzhong/status/1722691500084269261][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/16 
@@ -87,7 +89,7 @@ zone 2是一种低心率训练方式，大约心率在180-年龄。这对于刚�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691502139433406)
+*** [[https://twitter.com/yorkzhong/status/1722691502139433406][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/16
@@ -102,7 +104,7 @@ zone 2是一种低心率训练方式，大约心率在180-年龄。这对于刚�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691504135974918)
+*** [[https://twitter.com/yorkzhong/status/1722691504135974918][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/16
@@ -116,7 +118,7 @@ zone 2是一种低心率训练方式，大约心率在180-年龄。这对于刚�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691506186903982)
+*** [[https://twitter.com/yorkzhong/status/1722691506186903982][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/16
@@ -129,7 +131,7 @@ zone 2是一种低心率训练方式，大约心率在180-年龄。这对于刚�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691509081002012)
+*** [[https://twitter.com/yorkzhong/status/1722691509081002012][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/16
@@ -141,7 +143,7 @@ zone 2是一种低心率训练方式，大约心率在180-年龄。这对于刚�
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691511127838863)
+*** [[https://twitter.com/yorkzhong/status/1722691511127838863][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/16
@@ -155,7 +157,7 @@ bmi对人的全因素死亡率有影响，但有趣的是，是一个 J字形。
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691513162121230)
+*** [[https://twitter.com/yorkzhong/status/1722691513162121230][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/16
@@ -173,7 +175,7 @@ bmi对人的全因素死亡率有影响，但有趣的是，是一个 J字形。
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691516051943437)
+*** [[https://twitter.com/yorkzhong/status/1722691516051943437][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13/16
@@ -185,7 +187,7 @@ bmi对人的全因素死亡率有影响，但有趣的是，是一个 J字形。
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691519570928069)
+*** [[https://twitter.com/yorkzhong/status/1722691519570928069][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14/16
@@ -197,7 +199,7 @@ bmi对人的全因素死亡率有影响，但有趣的是，是一个 J字形。
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691521751945517)
+*** [[https://twitter.com/yorkzhong/status/1722691521751945517][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 15/16
@@ -209,7 +211,7 @@ bmi对人的全因素死亡率有影响，但有趣的是，是一个 J字形。
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691523924668709)
+*** [[https://twitter.com/yorkzhong/status/1722691523924668709][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 16/16
@@ -225,4 +227,4 @@ over。
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _1/16 聊一下健身，最近花了比较多的时间。..._ by @yorkzhong on Twitter
-*** [View Tweet](https://twitter.com/yorkzhong/status/1722691526483165282)
+*** [[https://twitter.com/yorkzhong/status/1722691526483165282][View Tweet]]

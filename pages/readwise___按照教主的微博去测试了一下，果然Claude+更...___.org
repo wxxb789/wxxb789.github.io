@@ -2,6 +2,8 @@
 :title: readwise/按照教主的微博去测试了一下，果然Claude+更...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "按照教主的微博去测试了一下，果然Claude+更..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 按照教主的微博去测试了一下，果然Claude+更懂内涵段子😄 
@@ -25,7 +27,7 @@
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _按照教主的微博去测试了一下，果然Claude+更..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636803315387203609)
+*** [[https://twitter.com/dotey/status/1636803315387203609][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 而且教主微博上的截图更“内涵”，“性”致盎然这样的成语变种都用出来了 
@@ -36,7 +38,7 @@
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _按照教主的微博去测试了一下，果然Claude+更..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636805059068428326)
+*** [[https://twitter.com/dotey/status/1636805059068428326][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 百度文心一言虽然不懂段子，但是懂中国：“总之，这段文本涉及到色情、性骚扰、成人内容等敏感话题，因此需要特别小心阅读和评估。”（图片Credit：微博用户@天启元元） 
@@ -45,4 +47,4 @@
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _按照教主的微博去测试了一下，果然Claude+更..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636805991135051807)
+*** [[https://twitter.com/dotey/status/1636805991135051807][View Tweet]]

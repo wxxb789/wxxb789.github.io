@@ -2,6 +2,8 @@
 :title: readwise/FunASR 是一个基础语音识别工具包，http...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Barret_China on Twitter]]
 :full-title: "FunASR 是一个基础语音识别工具包，http..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 FunASR 是一个基础语音识别工具包，https://t.co/dqVAIPl91v，相比 pyannote-audio 它的内容更加全面，包括了语音识别（ASR）、语音端点检测（VAD）、标点恢复、语言模型、说话人验证、说话人分离和多人对话语音识别等模块，而且提供了非常多的预训练模型，https://t.co/HoGlYlE0XW，可供推理和微调。
@@ -27,4 +29,4 @@ FunASR 是一个基础语音识别工具包，https://t.co/dqVAIPl91v，相比 p
 #+END_QUOTE
     date:: [[2023-11-29]]
 *** from _FunASR 是一个基础语音识别工具包，http..._ by @Barret_China on Twitter
-*** [View Tweet](https://twitter.com/Barret_China/status/1729681417137954954)
+*** [[https://twitter.com/Barret_China/status/1729681417137954954][View Tweet]]

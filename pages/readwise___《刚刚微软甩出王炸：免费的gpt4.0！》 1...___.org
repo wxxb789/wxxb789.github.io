@@ -2,6 +2,8 @@
 :title: readwise/《刚刚微软甩出王炸：免费的gpt4.0！》 1...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[bitfool1 on Twitter]]
 :full-title: "《刚刚微软甩出王炸：免费的gpt4.0！》 1..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1650344223596740608/CFoZsDZq.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《刚刚微软甩出王炸：免费的GPT4.0！》
@@ -31,7 +33,7 @@
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661219621033365505)
+*** [[https://twitter.com/bitfool1/status/1661219621033365505][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2、【如何利用GPT4.0在推特吸粉】
@@ -46,7 +48,7 @@ Prompt: "Take this code for the Twitter algorithm and tell best practices to go 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661221593614524416)
+*** [[https://twitter.com/bitfool1/status/1661221593614524416][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3、【如何利用GPT4.0找最热的reddit主题】
@@ -59,7 +61,7 @@ Prompt: "Whats the trending posts on /r/chatgpt today" https://t.co/KSvIGUTzpK
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661222657067716608)
+*** [[https://twitter.com/bitfool1/status/1661222657067716608][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4、【如何利用GPT4.0帮咱刷新闻】
@@ -74,7 +76,7 @@ Prompt: "List 10 things that happened in AI this week" followed with "Put it in 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661223120890638336)
+*** [[https://twitter.com/bitfool1/status/1661223120890638336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5、【让GPT4.0总结新闻并梳理链接】
@@ -87,7 +89,7 @@ Prompt: "Summarize this newsletter by The Rundown for me and create a list of 10
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661225511400423427)
+*** [[https://twitter.com/bitfool1/status/1661225511400423427][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、【让GPT4.0写报告！】
@@ -98,7 +100,7 @@ Prompt: "Create a short essay on the threats of Artificial Intelligence and cite
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661226000775286784)
+*** [[https://twitter.com/bitfool1/status/1661226000775286784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7、【总结】
@@ -115,4 +117,4 @@ https://t.co/gA6zUt3Z7z
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [View Tweet](https://twitter.com/bitfool1/status/1661226761462620161)
+*** [[https://twitter.com/bitfool1/status/1661226761462620161][View Tweet]]

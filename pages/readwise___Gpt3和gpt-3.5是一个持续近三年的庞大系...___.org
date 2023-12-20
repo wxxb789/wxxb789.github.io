@@ -2,6 +2,8 @@
 :title: readwise/Gpt3和gpt-3.5是一个持续近三年的庞大系...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[9hills on Twitter]]
 :full-title: "Gpt3和gpt-3.5是一个持续近三年的庞大系..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 GPT3和GPT-3.5是一个持续近三年的庞大系列，产生成多个模型，其演进和迭代关系非 OpenAI 的人也不一定能说出来。但是可以从公开的论文、文章和采访中得窥一二，不一定正确。
@@ -19,35 +21,35 @@ GPT3和GPT-3.5是一个持续近三年的庞大系列，产生成多个模型，
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _Gpt3和gpt-3.5是一个持续近三年的庞大系..._ by @9hills on Twitter
-*** [View Tweet](https://twitter.com/9hills/status/1673508156931215360)
+*** [[https://twitter.com/9hills/status/1673508156931215360][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. GPT 3.5 系列的起源是GPT-3基础模型 + 大量代码预训练 + 指令微调的 code-davinci-002 模型，也称为 Codex 模型（Github Copilot 用的模型）。对你没看错，这个在很多当时的文章中就已经被就是 GPT 3.5 系列了。 
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _Gpt3和gpt-3.5是一个持续近三年的庞大系..._ by @9hills on Twitter
-*** [View Tweet](https://twitter.com/9hills/status/1673509143779635200)
+*** [[https://twitter.com/9hills/status/1673509143779635200][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. 之后很快发布的 text-danvinci-002 模型和 code-davinci-002 同源，很可能是相同方法训练出来的或者是基于 code-davinci-002 训练出来的。之后产生分支，一个分支是做了 RLHF，发布为 API 的 text-davinci-003，比较早进行发布。 
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _Gpt3和gpt-3.5是一个持续近三年的庞大系..._ by @9hills on Twitter
-*** [View Tweet](https://twitter.com/9hills/status/1673509297312104448)
+*** [[https://twitter.com/9hills/status/1673509297312104448][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 还有一个分支是基于对话数据以及 RLHF 做的 ChatGPT，同时做了一些工程上的优化，提高了吞吐，较晚些发布。这也是为什么 ChatGPT 网页版看到的模型名还是 text-danvinci-002 打头。ChatGPT 在对话上肯定是强于 text-davinci-003，但是在模型基本能力上，两个模型没啥区别。 
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _Gpt3和gpt-3.5是一个持续近三年的庞大系..._ by @9hills on Twitter
-*** [View Tweet](https://twitter.com/9hills/status/1673509338722467841)
+*** [[https://twitter.com/9hills/status/1673509338722467841][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. 之后 OpenAI 因为对话方式的交互更符合 LLM 应用的使用模式，发布了 gpt-3.5-turbo。这个模型和 ChatGPT 网页版的模型，用官方的话来说是相同的（`gpt-3.5-turbo`, is the same model used in the ChatGPT product.）。至少工程上的优化应该是相同的，从和003模型的价格差能看出来。 
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _Gpt3和gpt-3.5是一个持续近三年的庞大系..._ by @9hills on Twitter
-*** [View Tweet](https://twitter.com/9hills/status/1673509370557235201)
+*** [[https://twitter.com/9hills/status/1673509370557235201][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最终结论：gpt-3.5-turbo-0301 和网页版使用的 text-davinci-002-sha-render 虽然模型名字不同，但是可以视为相同能力的模型
@@ -56,4 +58,4 @@ GPT3和GPT-3.5是一个持续近三年的庞大系列，产生成多个模型，
 #+END_QUOTE
     date:: [[2023-06-27]]
 *** from _Gpt3和gpt-3.5是一个持续近三年的庞大系..._ by @9hills on Twitter
-*** [View Tweet](https://twitter.com/9hills/status/1673510169156923392)
+*** [[https://twitter.com/9hills/status/1673510169156923392][View Tweet]]

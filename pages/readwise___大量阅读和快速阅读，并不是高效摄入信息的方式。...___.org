@@ -2,6 +2,8 @@
 :title: readwise/大量阅读和快速阅读，并不是高效摄入信息的方式。...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[OdysseysEth on Twitter]]
 :full-title: "大量阅读和快速阅读，并不是高效摄入信息的方式。..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1495019639264452613/kWM2KtWc.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 大量阅读和快速阅读，并不是高效摄入信息的方式。
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _大量阅读和快速阅读，并不是高效摄入信息的方式。..._ by @OdysseysEth on Twitter
-*** [View Tweet](https://twitter.com/OdysseysEth/status/1607935805158477825)
+*** [[https://twitter.com/OdysseysEth/status/1607935805158477825][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 高效的意义在于「一劳永逸」。
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _大量阅读和快速阅读，并不是高效摄入信息的方式。..._ by @OdysseysEth on Twitter
-*** [View Tweet](https://twitter.com/OdysseysEth/status/1607935807167365120)
+*** [[https://twitter.com/OdysseysEth/status/1607935807167365120][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. 越抽象的底层框架，越能够穿越外在世界的变化。
@@ -37,7 +39,7 @@
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _大量阅读和快速阅读，并不是高效摄入信息的方式。..._ by @OdysseysEth on Twitter
-*** [View Tweet](https://twitter.com/OdysseysEth/status/1607935809294065664)
+*** [[https://twitter.com/OdysseysEth/status/1607935809294065664][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 为什么读经典？
@@ -50,11 +52,11 @@
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _大量阅读和快速阅读，并不是高效摄入信息的方式。..._ by @OdysseysEth on Twitter
-*** [View Tweet](https://twitter.com/OdysseysEth/status/1607935811487498240)
+*** [[https://twitter.com/OdysseysEth/status/1607935811487498240][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 穿过信息万花筒的人，将赢得未来。 
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _大量阅读和快速阅读，并不是高效摄入信息的方式。..._ by @OdysseysEth on Twitter
-*** [View Tweet](https://twitter.com/OdysseysEth/status/1607936912269901826)
+*** [[https://twitter.com/OdysseysEth/status/1607936912269901826][View Tweet]]

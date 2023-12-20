@@ -2,6 +2,8 @@
 :title: readwise/如何直接用自己的Prompt创建一个中英文双语对...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "如何直接用自己的Prompt创建一个中英文双语对..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 如何直接用自己的Prompt创建一个中英文双语对照翻译GPT？
@@ -44,4 +46,4 @@ We pass away, as the fleeting instant of an eye, you know; We come together, lik
 #+END_QUOTE
     date:: [[2023-11-13]]
 *** from _如何直接用自己的Prompt创建一个中英文双语对..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1723925653324452067)
+*** [[https://twitter.com/dotey/status/1723925653324452067][View Tweet]]

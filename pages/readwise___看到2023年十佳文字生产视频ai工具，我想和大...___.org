@@ -2,6 +2,8 @@
 :title: readwise/看到2023年十佳文字生产视频ai工具，我想和大...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[sunyangphp on Twitter]]
 :full-title: "看到2023年十佳文字生产视频ai工具，我想和大..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1506883765754236929/NtxXAmwf.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 看到2023年十佳文字生产视频AI工具，我想和大家分享一下我的看法。这些工具包括
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645433703567351808)
+*** [[https://twitter.com/sunyangphp/status/1645433703567351808][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 💻 软件名：Synthesia 
@@ -36,7 +38,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645436735650942981)
+*** [[https://twitter.com/sunyangphp/status/1645436735650942981][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 📷 软件名：Fliki
@@ -47,7 +49,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645437880356208642)
+*** [[https://twitter.com/sunyangphp/status/1645437880356208642][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎬 软件名：Movio
@@ -58,7 +60,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645438123613245446)
+*** [[https://twitter.com/sunyangphp/status/1645438123613245446][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎥 InVideo
@@ -69,7 +71,7 @@ InVideo是一款在线视频编辑软件，提供多个预设的视频模板和�
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645438763861164032)
+*** [[https://twitter.com/sunyangphp/status/1645438763861164032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎬Veed
@@ -80,7 +82,7 @@ Veed是一款在线视频编辑软件，可帮助用户对视频进行剪辑、�
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645438981927239681)
+*** [[https://twitter.com/sunyangphp/status/1645438981927239681][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎤 Descript
@@ -93,7 +95,7 @@ Descript还提供了一个协作平台，让用户可以与其他人共同编辑
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645439213410877440)
+*** [[https://twitter.com/sunyangphp/status/1645439213410877440][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 💬 SteveAI
@@ -106,7 +108,7 @@ SteveAI是一款基于AI的语音助手，可以回答用户的问题、提供�
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645439371129282561)
+*** [[https://twitter.com/sunyangphp/status/1645439371129282561][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎬 软件名：Veed
@@ -117,7 +119,7 @@ SteveAI是一款基于AI的语音助手，可以回答用户的问题、提供�
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645439523676114944)
+*** [[https://twitter.com/sunyangphp/status/1645439523676114944][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎬 Lumen5
@@ -128,7 +130,7 @@ Lumen5是一款基于AI的在线视频制作工具，可以将文本转换为视
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645439723836682241)
+*** [[https://twitter.com/sunyangphp/status/1645439723836682241][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎨 Pictory
@@ -139,4 +141,4 @@ Lumen5是一款基于AI的在线视频制作工具，可以将文本转换为视
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _看到2023年十佳文字生产视频ai工具，我想和大..._ by @sunyangphp on Twitter
-*** [View Tweet](https://twitter.com/sunyangphp/status/1645439885946535939)
+*** [[https://twitter.com/sunyangphp/status/1645439885946535939][View Tweet]]

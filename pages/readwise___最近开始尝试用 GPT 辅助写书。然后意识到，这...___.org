@@ -2,6 +2,8 @@
 :title: readwise/最近开始尝试用 GPT 辅助写书。然后意识到，这...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[oasisfeng on Twitter]]
 :full-title: "最近开始尝试用 GPT 辅助写书。然后意识到，这..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1731824343/Smile.JPG
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 最近开始尝试用 GPT 辅助写书。然后意识到，这个工具若要发挥出真正威力，整个写作习惯都需要进行范式迁移。
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262601260683735)
+*** [[https://twitter.com/oasisfeng/status/1732262601260683735][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 虽然 GPT 码字的过程和我们的习惯一样，也是从前往后逐字推进。但效率上的差异，决定了它可以运用一种人类难以企及的范式。
@@ -32,7 +34,7 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262605505306740)
+*** [[https://twitter.com/oasisfeng/status/1732262605505306740][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 与 GPT 进行行文对焦，是一个相当反直觉的过程。倘若你尝试告诉它哪些语句写的不好要如何调整，结果往往是事与愿违，累得半死不说，整个段落会变得愈发拧巴。
@@ -41,7 +43,7 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262609129205891)
+*** [[https://twitter.com/oasisfeng/status/1732262609129205891][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 为啥得「多次成文」？因为 GPT 效率比人高得多，但思考却又浅得多，只有这样才能有效地激发其写作灵感。
@@ -52,7 +54,7 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262613453619219)
+*** [[https://twitter.com/oasisfeng/status/1732262613453619219][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 按照常人的思维，我有了各章节的草稿，就可以进入最后的推敲调整阶段了吧？其实不然。
@@ -63,7 +65,7 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262617303974171)
+*** [[https://twitter.com/oasisfeng/status/1732262617303974171][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 别急长叹，因为你有 GPT。
@@ -72,7 +74,7 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262621112377377)
+*** [[https://twitter.com/oasisfeng/status/1732262621112377377][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 在前 GPT 时代，人类写书可以这样操作吗？
@@ -83,4 +85,4 @@
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [View Tweet](https://twitter.com/oasisfeng/status/1732262624975335899)
+*** [[https://twitter.com/oasisfeng/status/1732262624975335899][View Tweet]]

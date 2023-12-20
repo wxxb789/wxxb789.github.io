@@ -2,6 +2,8 @@
 :title: readwise/Did You Have a Chance To...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mjovanovictech on Twitter]]
 :full-title: "Did You Have a Chance To..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Did you have a chance to work with the Outbox pattern?
@@ -25,7 +27,7 @@ The Outbox pattern is a solution for reliably publishing events in a distributed
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788472858017794)
+*** [[https://twitter.com/mjovanovictech/status/1663788472858017794][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Instead of publishing events directly, the Outbox pattern involves storing events in a separate table in your database.
@@ -34,7 +36,7 @@ And then having a background process read from that table and publish the events
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788475911401473)
+*** [[https://twitter.com/mjovanovictech/status/1663788475911401473][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Why would you ever want to introduce this sort of complexity?
@@ -47,7 +49,7 @@ The network isn't available.
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788477714972674)
+*** [[https://twitter.com/mjovanovictech/status/1663788477714972674][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you couple your application requests with notifying other services, directly calling them, or publishing a message to the queue, you are introducing a potential issue.
@@ -56,7 +58,7 @@ The Outbox pattern is used to solve the problem of ensuring that events are publ
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788479430492160)
+*** [[https://twitter.com/mjovanovictech/status/1663788479430492160][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 In a distributed system, it's common to have multiple services that need to be updated when an event occurs.
@@ -65,7 +67,7 @@ For example, if a user updates their profile, you might need to update multiple 
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788481238249474)
+*** [[https://twitter.com/mjovanovictech/status/1663788481238249474][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Using the Outbox pattern, you can ensure that those updates happen reliably, even if some services are temporarily unavailable.
@@ -74,7 +76,7 @@ If you're working with a SQL database, for example, you know that your transacti
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788482999775232)
+*** [[https://twitter.com/mjovanovictech/status/1663788482999775232][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 You can reliably persist your message to the Outbox table and have a background worker process that message at a later time.
@@ -83,21 +85,21 @@ One of the key benefits of the Outbox pattern is that it helps you to ensure con
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788484753084421)
+*** [[https://twitter.com/mjovanovictech/status/1663788484753084421][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 By using a separate table to store events, you can be sure that events are published at least once and that they are published in the correct order. 
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788486338510855)
+*** [[https://twitter.com/mjovanovictech/status/1663788486338510855][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Another benefit is that the Outbox pattern is generally easy to implement and can be used with any message broker or queueing system. 
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788488037216256)
+*** [[https://twitter.com/mjovanovictech/status/1663788488037216256][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Plus, it can help you improve your system's performance and scalability by decoupling the act of publishing events from the rest of your application logic.
@@ -106,7 +108,7 @@ You can also add retries for failed messages and try to publish them again later
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788489807110146)
+*** [[https://twitter.com/mjovanovictech/status/1663788489807110146][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Of course, the Outbox pattern only handles the publishing side of things.
@@ -115,7 +117,7 @@ On the consumer, you still need to think about duplicate messages in case of ret
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788491442888705)
+*** [[https://twitter.com/mjovanovictech/status/1663788491442888705][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 P.S. If you want to learn more about .NET and software architecture, consider subscribing to my newsletter.
@@ -124,7 +126,7 @@ P.S. If you want to learn more about .NET and software architecture, consider su
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788493171052545)
+*** [[https://twitter.com/mjovanovictech/status/1663788493171052545][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you enjoyed this Tweet thread, then:
@@ -134,4 +136,4 @@ If you enjoyed this Tweet thread, then:
 #+END_QUOTE
     date:: [[2023-05-31]]
 *** from _Did You Have a Chance To..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1663788494903205889)
+*** [[https://twitter.com/mjovanovictech/status/1663788494903205889][View Tweet]]

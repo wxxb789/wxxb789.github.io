@@ -2,6 +2,8 @@
 :title: readwise/来一道 \#Prompt思考题  如何能做到像 K...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "来一道 \#Prompt思考题  如何能做到像 K..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 来一道 #Prompt思考题 
@@ -24,4 +26,4 @@
 #+END_QUOTE
     date:: [[2023-08-02]]
 *** from _来一道 #Prompt思考题  如何能做到像 K..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1686597922387906561)
+*** [[https://twitter.com/dotey/status/1686597922387906561][View Tweet]]

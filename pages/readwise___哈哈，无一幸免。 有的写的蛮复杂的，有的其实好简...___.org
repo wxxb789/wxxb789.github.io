@@ -2,6 +2,8 @@
 :title: readwise/哈哈，无一幸免。 有的写的蛮复杂的，有的其实好简...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[ovst36099 on Twitter]]
 :full-title: "哈哈，无一幸免。 有的写的蛮复杂的，有的其实好简..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1688499309741023232/5Qnwhu_d.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 哈哈，无一幸免。
@@ -30,14 +32,14 @@ https://t.co/C3YYcHNfyL
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _哈哈，无一幸免。 有的写的蛮复杂的，有的其实好简..._ by @ovst36099 on Twitter
-*** [View Tweet](https://twitter.com/ovst36099/status/1723005791135768796)
+*** [[https://twitter.com/ovst36099/status/1723005791135768796][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 <a href="https://twitter.com/dotey">@dotey</a> <a href="https://twitter.com/xiaohuggg">@xiaohuggg</a> 老打错别字；最重要的是创意。 
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _哈哈，无一幸免。 有的写的蛮复杂的，有的其实好简..._ by @ovst36099 on Twitter
-*** [View Tweet](https://twitter.com/ovst36099/status/1723009744359567500)
+*** [[https://twitter.com/ovst36099/status/1723009744359567500][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 <a href="https://twitter.com/dotey">@dotey</a> <a href="https://twitter.com/xiaohuggg">@xiaohuggg</a> 不仅仅是提示词哦，附件的内容都一样可以套路。 
@@ -46,4 +48,4 @@ https://t.co/C3YYcHNfyL
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _哈哈，无一幸免。 有的写的蛮复杂的，有的其实好简..._ by @ovst36099 on Twitter
-*** [View Tweet](https://twitter.com/ovst36099/status/1723015513046127016)
+*** [[https://twitter.com/ovst36099/status/1723015513046127016][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/Today We Release LLaMA,...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[GuillaumeLample on Twitter]]
 :full-title: "Today We Release LLaMA,..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1204529916026458112/_kcTUp8s.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Today we release LLaMA, 4 foundation models ranging from 7B to 65B parameters.
@@ -28,7 +30,7 @@ The weights for all models are open and available at https://t.co/q51f2oPZlE
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151231800115202)
+*** [[https://twitter.com/GuillaumeLample/status/1629151231800115202][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Unlike Chinchilla, PaLM, or GPT-3, we only use datasets publicly available, making our work compatible with open-sourcing and reproducible, while most existing models rely on data which is either not publicly available or undocumented.
@@ -38,7 +40,7 @@ Unlike Chinchilla, PaLM, or GPT-3, we only use datasets publicly available, maki
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151234597740550)
+*** [[https://twitter.com/GuillaumeLample/status/1629151234597740550][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 All our models were trained on at least 1T tokens, much more than what is typically used at this scale.
@@ -51,7 +53,7 @@ Interestingly, even after 1T tokens the 7B model was still improving.
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151236640448512)
+*** [[https://twitter.com/GuillaumeLample/status/1629151236640448512][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 On Common Sense Reasoning, Closed-book Question Answering, and Reading Comprehension, LLaMA-65B outperforms Chinchilla 70B and PaLM 540B on almost all benchmarks.
@@ -67,7 +69,7 @@ On Common Sense Reasoning, Closed-book Question Answering, and Reading Comprehen
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151239043702784)
+*** [[https://twitter.com/GuillaumeLample/status/1629151239043702784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 LLaMA-65B outperforms Minerva-62B on GSM8k, even though it has not been fine-tuned on any mathematical dataset. On the MATH benchmark, it outperforms PaLM-62B (but is quite below Minerva-62B)
@@ -77,7 +79,7 @@ LLaMA-65B outperforms Minerva-62B on GSM8k, even though it has not been fine-tun
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151241245798400)
+*** [[https://twitter.com/GuillaumeLample/status/1629151241245798400][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 On code generation benchmarks, LLaMA-62B outperforms cont-PaLM (62B) as well as PaLM-540B. 
@@ -86,7 +88,7 @@ On code generation benchmarks, LLaMA-62B outperforms cont-PaLM (62B) as well as 
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151243548385280)
+*** [[https://twitter.com/GuillaumeLample/status/1629151243548385280][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We also briefly tried instruction finetuning using the approach of Chung et al. (2022).
@@ -103,7 +105,7 @@ The resulting model, LLaMA-I, outperforms Flan-PaLM-cont (62B) on MMLU and showc
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151258119479431)
+*** [[https://twitter.com/GuillaumeLample/status/1629151258119479431][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 With @HugoTouvron, @LavrilThibaut, @gizacard, @javier_m, @MaLachaux, @tlacroix6, @b_roziere, @NamanGoyal21, Eric Hambro, Faisal Azhar, @AurR0d, @armandjoulin, @EXGRV
@@ -111,4 +113,4 @@ With @HugoTouvron, @LavrilThibaut, @gizacard, @javier_m, @MaLachaux, @tlacroix6,
 #+END_QUOTE
     date:: [[2023-02-26]]
 *** from _Today We Release LLaMA,..._ by @GuillaumeLample on Twitter
-*** [View Tweet](https://twitter.com/GuillaumeLample/status/1629151261474844672)
+*** [[https://twitter.com/GuillaumeLample/status/1629151261474844672][View Tweet]]

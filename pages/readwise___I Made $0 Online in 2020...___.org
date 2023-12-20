@@ -2,6 +2,8 @@
 :title: readwise/I Made $0 Online in 2020...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[heyeaslo on Twitter]]
 :full-title: "I Made $0 Online in 2020..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1484538965109907461/VaQu5_PI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 I made $0 online in 2020.
@@ -25,7 +27,7 @@ Here are my 6 simple steps on getting started:
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563716903452672)
+*** [[https://twitter.com/heyeaslo/status/1607563716903452672][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1, Find your community
@@ -40,7 +42,7 @@ I build my initial online presence by participating in daily conversations.
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563725262708736)
+*** [[https://twitter.com/heyeaslo/status/1607563725262708736][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. Grow your audience on social media
@@ -55,7 +57,7 @@ If you can, repurpose your content.
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563727548694534)
+*** [[https://twitter.com/heyeaslo/status/1607563727548694534][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. Create a high-value free offer
@@ -68,7 +70,7 @@ This is how you build a loyal customer base that trusts and believes in your wor
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563729507434496)
+*** [[https://twitter.com/heyeaslo/status/1607563729507434496][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. Leverage your network
@@ -83,7 +85,7 @@ I regret not doing this more.
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563732594425856)
+*** [[https://twitter.com/heyeaslo/status/1607563732594425856][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. Leverage modern tools
@@ -96,7 +98,7 @@ Keep learning and growing.
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563734871859204)
+*** [[https://twitter.com/heyeaslo/status/1607563734871859204][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. Build your systems
@@ -109,7 +111,7 @@ Notion is a great all-in-one workspace for this.
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563736914468864)
+*** [[https://twitter.com/heyeaslo/status/1607563736914468864][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Bonus:
@@ -123,7 +125,7 @@ https://t.co/UnquRyHiqR
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563739074527238)
+*** [[https://twitter.com/heyeaslo/status/1607563739074527238][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That's a wrap!
@@ -135,4 +137,4 @@ If you enjoyed this thread:
 #+END_QUOTE
     date:: [[2022-12-27]]
 *** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607563742002249729)
+*** [[https://twitter.com/heyeaslo/status/1607563742002249729][View Tweet]]

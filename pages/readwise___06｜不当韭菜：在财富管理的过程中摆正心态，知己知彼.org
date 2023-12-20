@@ -2,6 +2,8 @@
 :title: readwise/06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/dc/9d/dc9cd85273fcb9532a43878966b8199d.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 永远要记住，你只是一个普通人
@@ -20,7 +22,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc11g0tej7jmzaak630nk1)
+*** [[https://read.readwise.io/read/01gxjc11g0tej7jmzaak630nk1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 所以，我们绝大多数人在投资前，都应该对自己说三句话：
@@ -33,14 +35,14 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc1g9y69mxf3mkg15qq4ed)
+*** [[https://read.readwise.io/read/01gxjc1g9y69mxf3mkg15qq4ed][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 和专业投资者相比，普通投资者的优势在哪？ 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc2tw3kq0fcx0jph3q2trr)
+*** [[https://read.readwise.io/read/01gxjc2tw3kq0fcx0jph3q2trr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 优势一：长钱优势
@@ -57,7 +59,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc3mdz61tndedje625v1k3)
+*** [[https://read.readwise.io/read/01gxjc3mdz61tndedje625v1k3][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 优势二：专业信息优势
@@ -72,7 +74,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc3s1y4ve609sms7kyaen6)
+*** [[https://read.readwise.io/read/01gxjc3s1y4ve609sms7kyaen6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 优势三：程序员优势
@@ -89,7 +91,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc40dj3br7b1x5vt1knsbf)
+*** [[https://read.readwise.io/read/01gxjc40dj3br7b1x5vt1knsbf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 这一讲的内容很多，但可以简单总结成一个出发点、三个误区、三个优势，以及一条补充观点。希望你再看一遍，加深印象。
@@ -104,18 +106,18 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc66n98hcenzd2ajkx4s2s)
+*** [[https://read.readwise.io/read/01gxjc66n98hcenzd2ajkx4s2s][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/ec/f8/ec83a3b4b6df095cdfbb470cbcc973f8.jpg?wh=2248x1972) 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc5bfkrms22kz2dms8q7gk)
+*** [[https://read.readwise.io/read/01gxjc5bfkrms22kz2dms8q7gk][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 三个误区都烦过，但是有高手指导会很快出来。 比如当时我就每次听朋友或者炒股群的投资观点，我就会去上聚宽这个量化网站，写个策略回测下。在各种回测及调研中，可以发现很多可用因子，再买书慢慢学习量化等投资知识，社区也有好多高手，再加上不断学习冲过了愚昧之峰，发现自己好菜就是个普通人。 投资的知识不比开发语言少简单。 最后我不仅学会了投资，还随手把pandas numpy等数据分析库给学了，也增加了个人价值，后来应为dba里面就我会python，又从存运维dba变为了运维开发平台负责人。 这一系列都是要独立思考，不要人云亦云，别人说的策略，你回测下看看是不是他们说的那么美好。如果这么牛逼的策略他为啥不自己闷头发财了哈哈。 最后就是我其实也在分享知识给周边人，发现真正能投入精力来思考财富，把投资当成一种事业的人微乎其微，基本上都是赌或者跟你杆，很是浮躁。年轻人沉下心多学学没坏处，此处我扮演油腻大叔一把 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _06｜不当韭菜：在财富管理的过程中摆正心态，知己知彼_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjc78xmej17q487z7zft30d)
+*** [[https://read.readwise.io/read/01gxjc78xmej17q487z7zft30d][View Highlight]]

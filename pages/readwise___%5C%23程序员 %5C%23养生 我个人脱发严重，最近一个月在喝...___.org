@@ -2,6 +2,8 @@
 :title: readwise/\#程序员 \#养生 我个人脱发严重，最近一个月在喝...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[lencx_ on Twitter]]
 :full-title: "\#程序员 \#养生 我个人脱发严重，最近一个月在喝..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1085701406470750208/iG_bM0AH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #程序员 #养生 我个人脱发严重，最近一个月在喝“维生素 d3 10000iu + omega-3 鱼油”（进口，具体牌子不推荐，避免广告嫌疑）。明显感觉落发少了，头皮也隐隐看到很多细小头发在生长。目前时间还太短，很难说是否真正有效。比较焦虑的朋友可以试试，应该会有改善。
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711298689921343787)
+*** [[https://twitter.com/lencx_/status/1711298689921343787][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 没想到这条帖子会这么多人关注，我并不是这方面专家，只是恰巧之前刷到柏格醫生讲脱发的视频。就尝试了这两个，对我来说似乎有所缓解。
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711346472237895723)
+*** [[https://twitter.com/lencx_/status/1711346472237895723][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 关于 10000iu 的问题，这个貌似争议很大。我也看过很多相关信息，说啥的都有。有说一天 2 万 iu 也没事的，也有说每天只需几百 iu 即可的。
@@ -39,7 +41,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711349873625498032)
+*** [[https://twitter.com/lencx_/status/1711349873625498032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我也觉得不一定是药物起了作用，一个人的生活作息，心情状态都会对人体产生巨大影响，比如心情愉悦可以增强抵抗力。
@@ -48,7 +50,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711352171017703465)
+*** [[https://twitter.com/lencx_/status/1711352171017703465][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🚨 评论区提供了一个重要信息，补充 d3 的同时需要补充 k2，原因：
@@ -56,7 +58,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711360773530984914)
+*** [[https://twitter.com/lencx_/status/1711360773530984914][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 再补充一点，维生素摄入过量也会适得其反，大家不要盲目尝试。这个话题越聊越深了，已经远远超出了我的认知。
@@ -65,7 +67,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711370604920926525)
+*** [[https://twitter.com/lencx_/status/1711370604920926525][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 继续补充，掉发和洗头频繁也有很大关系，包括用的洗发水牌子。我近期都是几天洗一次，清水洗头。长时间不洗也不好，可能会造成毛囊堵塞。
@@ -74,7 +76,7 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711373649691996346)
+*** [[https://twitter.com/lencx_/status/1711373649691996346][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 评论区总结：如果缺乏维生素，微量元素，千万不要瞎补，它们之间存在依赖关系，一旦打破平衡会得不偿失。最好去正规医院测一下各项指标，谨遵医嘱。命是自己的，请对自己负责！
@@ -83,4 +85,4 @@
 #+END_QUOTE
     date:: [[2023-10-10]]
 *** from _#程序员 #养生 我个人脱发严重，最近一个月在喝..._ by @lencx_ on Twitter
-*** [View Tweet](https://twitter.com/lencx_/status/1711417069915566354)
+*** [[https://twitter.com/lencx_/status/1711417069915566354][View Tweet]]

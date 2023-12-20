@@ -2,6 +2,8 @@
 :title: readwise/How to Make Your EF Quer...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[TheCodeMan__ on Twitter]]
 :full-title: "How to Make Your EF Quer..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1565011872033693698/yzzpv74A.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 How to make your EF queries faster? 🚀
@@ -23,7 +25,7 @@ Compiled Queries allow you to pre-compile a query into a reusable delegate, whic
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _How to Make Your EF Quer..._ by @TheCodeMan__ on Twitter
-*** [View Tweet](https://twitter.com/TheCodeMan__/status/1683762114882686977)
+*** [[https://twitter.com/TheCodeMan__/status/1683762114882686977][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 P.S. If you like posts like this, you should consider subscribing to my free Weekly Newsletter.
@@ -34,4 +36,4 @@ Join 4400+ engineers: https://t.co/9p4ri3lNoR
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _How to Make Your EF Quer..._ by @TheCodeMan__ on Twitter
-*** [View Tweet](https://twitter.com/TheCodeMan__/status/1683762117189533696)
+*** [[https://twitter.com/TheCodeMan__/status/1683762117189533696][View Tweet]]

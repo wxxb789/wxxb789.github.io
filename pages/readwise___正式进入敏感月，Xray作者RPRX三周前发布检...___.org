@@ -2,6 +2,8 @@
 :title: readwise/正式进入敏感月，Xray作者RPRX三周前发布检...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbb on Twitter]]
 :full-title: "正式进入敏感月，Xray作者RPRX三周前发布检..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 正式进入敏感月，Xray作者RPRX三周前发布检测TLS in TLS 工具，GFW表示感谢😂。现在高危协议有:
@@ -27,7 +29,7 @@ VLESS-gRPC-uTLS-REALITY
 #+END_QUOTE
     date:: [[2023-06-01]]
 *** from _正式进入敏感月，Xray作者RPRX三周前发布检..._ by @geekbb on Twitter
-*** [View Tweet](https://twitter.com/geekbb/status/1664090262782738433)
+*** [[https://twitter.com/geekbb/status/1664090262782738433][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 相关链接https://t.co/uQmZ4cn8zM 
@@ -36,4 +38,4 @@ VLESS-gRPC-uTLS-REALITY
 #+END_QUOTE
     date:: [[2023-06-01]]
 *** from _正式进入敏感月，Xray作者RPRX三周前发布检..._ by @geekbb on Twitter
-*** [View Tweet](https://twitter.com/geekbb/status/1664090265945276418)
+*** [[https://twitter.com/geekbb/status/1664090265945276418][View Tweet]]

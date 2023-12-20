@@ -2,6 +2,8 @@
 :title: readwise/🎉大语言模型的安卓时刻真的来了啊!?
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Jeffery Kaneda　金田達也]]
 :full-title: "🎉大语言模型的安卓时刻真的来了啊!?"
@@ -10,11 +12,11 @@
 :image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw_normal.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #Orca模型 
 #+END_QUOTE
     date:: [[2023-06-12]]
 *** from _🎉大语言模型的安卓时刻真的来了啊!?_ by Jeffery Kaneda　金田達也
-*** [View Highlight](https://read.readwise.io/read/01h2nkvk1aq0srs6z0mz2j0r8w)
+*** [[https://read.readwise.io/read/01h2nkvk1aq0srs6z0mz2j0r8w][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/这是文档搜索的未来： 1. 自然语言，不需要各种...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "这是文档搜索的未来： 1. 自然语言，不需要各种..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这是文档搜索的未来：
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636208832069206016)
+*** [[https://twitter.com/dotey/status/1636208832069206016][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这是我在Supabase的文档中用中文搜索的结果，英文文档，中文输入，中文结果！ 
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636211728726781953)
+*** [[https://twitter.com/dotey/status/1636211728726781953][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 忘记输入网址了
@@ -45,7 +47,7 @@ https://t.co/5L1NSoRzsq
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636212460679049217)
+*** [[https://twitter.com/dotey/status/1636212460679049217][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 让它生成代码和让它Debug 
@@ -56,14 +58,14 @@ https://t.co/5L1NSoRzsq
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636215349111652355)
+*** [[https://twitter.com/dotey/status/1636215349111652355][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果你想知道它怎么实现的话，原理可以参考我以前写过的一篇🧵 https://t.co/7kPgVfAXXA 
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636235510568943616)
+*** [[https://twitter.com/dotey/status/1636235510568943616][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 具体到supabase怎么实现的可以看这篇Blog：
@@ -74,7 +76,7 @@ https://t.co/1jKA6pCFDs
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636235512162709506)
+*** [[https://twitter.com/dotey/status/1636235512162709506][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 如果你想找个开源实现参考，那么这是你要的：
@@ -83,7 +85,7 @@ https://t.co/JbO7CEgTfC
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1636235686599704577)
+*** [[https://twitter.com/dotey/status/1636235686599704577][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 背后的原理介绍：
@@ -92,4 +94,4 @@ https://t.co/dYEnLnNbdW
 #+END_QUOTE
     date:: [[2023-03-20]]
 *** from _这是文档搜索的未来： 1. 自然语言，不需要各种..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1637280143981805569)
+*** [[https://twitter.com/dotey/status/1637280143981805569][View Tweet]]

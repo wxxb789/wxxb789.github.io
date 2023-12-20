@@ -2,6 +2,8 @@
 :title: readwise/安全团队管理的几个真相， 1、很多人入职即技术巅...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[WolfTrainer_101 on Twitter]]
 :full-title: "安全团队管理的几个真相， 1、很多人入职即技术巅..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1675642760442028033/h_VyQzAF.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 安全团队管理的几个真相，
@@ -20,7 +22,7 @@
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _安全团队管理的几个真相， 1、很多人入职即技术巅..._ by @WolfTrainer_101 on Twitter
-*** [View Tweet](https://twitter.com/WolfTrainer_101/status/1721393103259697340)
+*** [[https://twitter.com/WolfTrainer_101/status/1721393103259697340][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4、绝大多数人连1day工程师都做不好，漏洞环境稍微变一下，exp都不会改。能分析漏洞的真的是少数人。
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _安全团队管理的几个真相， 1、很多人入职即技术巅..._ by @WolfTrainer_101 on Twitter
-*** [View Tweet](https://twitter.com/WolfTrainer_101/status/1721395491068653963)
+*** [[https://twitter.com/WolfTrainer_101/status/1721395491068653963][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、团队80%以上的产出其实都是靠几个核心人员完成的，但年底打绩效发奖金还得照顾好产出一般的同学。
@@ -36,4 +38,4 @@
 #+END_QUOTE
     date:: [[2023-11-06]]
 *** from _安全团队管理的几个真相， 1、很多人入职即技术巅..._ by @WolfTrainer_101 on Twitter
-*** [View Tweet](https://twitter.com/WolfTrainer_101/status/1721403192263823714)
+*** [[https://twitter.com/WolfTrainer_101/status/1721403192263823714][View Tweet]]

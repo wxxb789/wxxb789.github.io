@@ -2,6 +2,8 @@
 :title: readwise/Binomial Distribution In...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[levikul09 on Twitter]]
 :full-title: "Binomial Distribution In..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1529499292938997762/pr7c3GYG.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Binomial distribution in Python?
@@ -21,7 +23,7 @@ We will calculate through real-life examples
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013639411437570)
+*** [[https://twitter.com/levikul09/status/1608013639411437570][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 In yesterday's thread we had this question:
@@ -34,7 +36,7 @@ https://t.co/Lt3gPKdtRF
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013642104209408)
+*** [[https://twitter.com/levikul09/status/1608013642104209408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 To calculate the answer I will use scipy.stats and the binom.pmf function:
@@ -47,7 +49,7 @@ This code will calculate the probability of observing exactly 3 sales in 200 cli
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013653638533120)
+*** [[https://twitter.com/levikul09/status/1608013653638533120][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Now we will modify the question a bit:
@@ -60,7 +62,7 @@ Now we will calculate the probability of observing 0, 1, 2, or 3 sales in 200 cl
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013657220448256)
+*** [[https://twitter.com/levikul09/status/1608013657220448256][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Instead of binom.pmf. we will use binom.cdf.
@@ -73,7 +75,7 @@ CDF stands for the cumulative distribution function.
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013666452123650)
+*** [[https://twitter.com/levikul09/status/1608013666452123650][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Using the binom function, you can create random samples as well.
@@ -86,7 +88,7 @@ You want to generate a set of random samples that represent the number of people
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013669849509890)
+*** [[https://twitter.com/levikul09/status/1608013669849509890][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 You can use binom.rvs to create them.
@@ -99,7 +101,7 @@ In this example, we create 10 random samples:
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013678040993792)
+*** [[https://twitter.com/levikul09/status/1608013678040993792][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That's it for today.
@@ -114,4 +116,4 @@ Thanks 😉
 #+END_QUOTE
     date:: [[2022-12-28]]
 *** from _Binomial Distribution In..._ by @levikul09 on Twitter
-*** [View Tweet](https://twitter.com/levikul09/status/1608013681752932352)
+*** [[https://twitter.com/levikul09/status/1608013681752932352][View Tweet]]

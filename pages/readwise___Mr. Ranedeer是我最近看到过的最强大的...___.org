@@ -2,6 +2,8 @@
 :title: readwise/Mr. Ranedeer是我最近看到过的最强大的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "Mr. Ranedeer是我最近看到过的最强大的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于GPT的API，但都需要GPT-4。它可以让GPT成为你的导师，指导你学习！
@@ -29,7 +31,7 @@ Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于G
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _Mr. Ranedeer是我最近看到过的最强大的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1661551503004368896)
+*** [[https://twitter.com/dotey/status/1661551503004368896][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这里有个简化版的也不错，Token少很多
@@ -38,7 +40,7 @@ https://t.co/awwKn2zyUX
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _Mr. Ranedeer是我最近看到过的最强大的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1661554834737070080)
+*** [[https://twitter.com/dotey/status/1661554834737070080][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这真是个绝佳的思路，因为每次编辑消息，相当于fork了一个新的分支！
@@ -47,4 +49,4 @@ https://t.co/2OAKpTfczT
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _Mr. Ranedeer是我最近看到过的最强大的..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1661593877927608322)
+*** [[https://twitter.com/dotey/status/1661593877927608322][View Tweet]]

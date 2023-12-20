@@ -2,6 +2,8 @@
 :title: readwise/一人血书！！按头安利！！ 推荐英语口语神器：Ab...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Penny777_eth on Twitter]]
 :full-title: "一人血书！！按头安利！！ 推荐英语口语神器：Ab..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1516067905997205506/i90MTf42.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 一人血书！！按头安利！！
@@ -26,7 +28,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619047902633985)
+*** [[https://twitter.com/Penny777_eth/status/1645619047902633985][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 下面分享几个我常用的功能：
@@ -36,7 +38,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619050784129024)
+*** [[https://twitter.com/Penny777_eth/status/1645619050784129024][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ② 逐句精听精读模式。
@@ -53,7 +55,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619054596755458)
+*** [[https://twitter.com/Penny777_eth/status/1645619054596755458][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ③ 综合模式背单词。
@@ -66,7 +68,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619057654374400)
+*** [[https://twitter.com/Penny777_eth/status/1645619057654374400][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 选择题的方式也适合速刷单词。 
@@ -75,7 +77,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619060615581696)
+*** [[https://twitter.com/Penny777_eth/status/1645619060615581696][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ④ 最喜欢的还是语音模式，里面自带音波还有语调的纠音。不管是记忆整个句子，还是说纠正发音，都非常非常有用，而且好玩，因为里面有评分，所以整个体验下来就很象是玩游戏。
@@ -86,7 +88,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619063559946242)
+*** [[https://twitter.com/Penny777_eth/status/1645619063559946242][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ⑤ 类似 GitHub 的每日打卡功能，让人有种打怪升级的成就感。👇有账号还能加好友，一起刷。 
@@ -95,7 +97,7 @@
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619066399522817)
+*** [[https://twitter.com/Penny777_eth/status/1645619066399522817][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ⑥ 其实还有很多功能可以用，但我一般用得比较多的还是红框的这些。感觉已经够我日常的所有需求了…
@@ -109,7 +111,7 @@ https://t.co/rNzgWu3SkA
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619069499109377)
+*** [[https://twitter.com/Penny777_eth/status/1645619069499109377][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 不夸张的说，我提到的只是这个软件功能的 1/10，有很多好用的点我没有细说。
@@ -121,4 +123,4 @@ https://t.co/rNzgWu3SkA
 #+END_QUOTE
     date:: [[2023-04-12]]
 *** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [View Tweet](https://twitter.com/Penny777_eth/status/1645619072376373249)
+*** [[https://twitter.com/Penny777_eth/status/1645619072376373249][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/我完成了一个账户抽象 &Amp; 合约钱包的开源...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Real_Maxlion on Twitter]]
 :full-title: "我完成了一个账户抽象 &Amp; 合约钱包的开源..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1499593703618404358/CfsqoIsN.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 我完成了一个账户抽象 & 合约钱包的开源知识库
@@ -27,7 +29,7 @@ https://t.co/pJnO2IkId5
 #+END_QUOTE
     date:: [[2023-02-22]]
 *** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [View Tweet](https://twitter.com/Real_Maxlion/status/1627942808912011264)
+*** [[https://twitter.com/Real_Maxlion/status/1627942808912011264][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 一二部分入门够了，三四五六部分还会不断更新和填充细节。
@@ -36,7 +38,7 @@ https://t.co/pJnO2IkId5
 #+END_QUOTE
     date:: [[2023-02-22]]
 *** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [View Tweet](https://twitter.com/Real_Maxlion/status/1627943559843422209)
+*** [[https://twitter.com/Real_Maxlion/status/1627943559843422209][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 虽然是合约钱包知识库，但其实我发现了一些超越钱包的终极解决方案，比如 @dappOS_com ，它是一个应用操作系统。
@@ -49,7 +51,7 @@ https://t.co/pJnO2IkId5
 #+END_QUOTE
     date:: [[2023-02-22]]
 *** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [View Tweet](https://twitter.com/Real_Maxlion/status/1627956852062588928)
+*** [[https://twitter.com/Real_Maxlion/status/1627956852062588928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 它通过SDK、虚拟钱包、DApps集成平台不仅实现开发者的一键多链部署，还帮助用户轻松访问任何DApps。
@@ -62,7 +64,7 @@ DApp 操作系统真的是想象力巨大
 #+END_QUOTE
     date:: [[2023-02-22]]
 *** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [View Tweet](https://twitter.com/Real_Maxlion/status/1627957722904956928)
+*** [[https://twitter.com/Real_Maxlion/status/1627957722904956928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 为什么我会把 @dappOS_com 这类DApp 操作系统放在合约钱包知识库里？
@@ -74,7 +76,7 @@ DApp 操作系统则需要自己重新定义前后端、合约标准，是协议
 #+END_QUOTE
     date:: [[2023-02-22]]
 *** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [View Tweet](https://twitter.com/Real_Maxlion/status/1627959091963502592)
+*** [[https://twitter.com/Real_Maxlion/status/1627959091963502592][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 蚌，期待啥时候 @dappOS_com 能和 @xNFT_Backpack 碰碰。
@@ -91,4 +93,4 @@ Solana 现在一言难尽...
 #+END_QUOTE
     date:: [[2023-02-22]]
 *** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [View Tweet](https://twitter.com/Real_Maxlion/status/1627960659261669376)
+*** [[https://twitter.com/Real_Maxlion/status/1627960659261669376][View Tweet]]

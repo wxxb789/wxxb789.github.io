@@ -2,6 +2,8 @@
 :title: readwise/高潜力项目筛选法—欧奈尔法则 投资大师欧奈尔在...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[oldleek_eth on Twitter]]
 :full-title: "高潜力项目筛选法—欧奈尔法则 投资大师欧奈尔在..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1590322711787556869/kYjx2_-B.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 高潜力项目筛选法—欧奈尔法则
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _高潜力项目筛选法—欧奈尔法则 投资大师欧奈尔在..._ by @oldleek_eth on Twitter
-*** [View Tweet](https://twitter.com/oldleek_eth/status/1649007435980636161)
+*** [[https://twitter.com/oldleek_eth/status/1649007435980636161][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 法则有七个方面的内容，按照首字母组成了著名的CANSLIM，对于加密圈，同样有借鉴意义
@@ -35,7 +37,7 @@ CA主要看中项目的中短期业绩增长情况，在欧奈尔看来，优质
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _高潜力项目筛选法—欧奈尔法则 投资大师欧奈尔在..._ by @oldleek_eth on Twitter
-*** [View Tweet](https://twitter.com/oldleek_eth/status/1649007439965212672)
+*** [[https://twitter.com/oldleek_eth/status/1649007439965212672][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 N：新产品、新管理、新高管
@@ -52,7 +54,7 @@ L：领军/拖油瓶
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _高潜力项目筛选法—欧奈尔法则 投资大师欧奈尔在..._ by @oldleek_eth on Twitter
-*** [View Tweet](https://twitter.com/oldleek_eth/status/1649007442448236544)
+*** [[https://twitter.com/oldleek_eth/status/1649007442448236544][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 I：机构认同度
@@ -65,4 +67,4 @@ M：市场走势
 #+END_QUOTE
     date:: [[2023-04-20]]
 *** from _高潜力项目筛选法—欧奈尔法则 投资大师欧奈尔在..._ by @oldleek_eth on Twitter
-*** [View Tweet](https://twitter.com/oldleek_eth/status/1649007444889321474)
+*** [[https://twitter.com/oldleek_eth/status/1649007444889321474][View Tweet]]

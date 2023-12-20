@@ -2,6 +2,8 @@
 :title: readwise/之前写了一个撰写提示词的提示词（附在最后）。提示...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[thwagn on Twitter]]
 :full-title: "之前写了一个撰写提示词的提示词（附在最后）。提示..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1707295070712647680/uMIsYehm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 之前写了一个撰写提示词的提示词（附在最后）。提示词对于使用ChatGPT真的很重要吗？即重要也不重要。重要是因为好的提示词确实可以获得满意的结果；导致了很多人过于依赖提示词，在网络上找各种提示词，其实我们不需要找一个提示工程师，也不需要成为提示工程师，也照样可以写好提示词。
@@ -29,7 +31,7 @@
 #+END_QUOTE
     date:: [[2023-10-25]]
 *** from _之前写了一个撰写提示词的提示词（附在最后）。提示..._ by @thwagn on Twitter
-*** [View Tweet](https://twitter.com/thwagn/status/1695801501355257916)
+*** [[https://twitter.com/thwagn/status/1695801501355257916][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ```提示词
@@ -70,4 +72,4 @@
 #+END_QUOTE
     date:: [[2023-10-25]]
 *** from _之前写了一个撰写提示词的提示词（附在最后）。提示..._ by @thwagn on Twitter
-*** [View Tweet](https://twitter.com/thwagn/status/1695801865861275823)
+*** [[https://twitter.com/thwagn/status/1695801865861275823][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/Woc，太牛了，这个视频插件竟然还有这种阅读功能...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[sis_nonacosa on Twitter]]
 :full-title: "Woc，太牛了，这个视频插件竟然还有这种阅读功能..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1531291672436699137/027gBxEE.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 WOC，太牛了，这个视频插件竟然还有这种阅读功能！ 
@@ -19,7 +21,7 @@ WOC，太牛了，这个视频插件竟然还有这种阅读功能！
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _Woc，太牛了，这个视频插件竟然还有这种阅读功能..._ by @sis_nonacosa on Twitter
-*** [View Tweet](https://twitter.com/sis_nonacosa/status/1735651994294165596)
+*** [[https://twitter.com/sis_nonacosa/status/1735651994294165596][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我才发现 trancy 这个插件不仅是 Language Reactor 的无敌加强版，他还带了沉浸式翻译的全文翻译 + relingo 的网页生词标注 + AI，太强了, 会员也不贵，18块，链接试用 10 天，真心推荐。
@@ -28,4 +30,4 @@ https://t.co/iSIyPStUZt
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _Woc，太牛了，这个视频插件竟然还有这种阅读功能..._ by @sis_nonacosa on Twitter
-*** [View Tweet](https://twitter.com/sis_nonacosa/status/1735653715741458921)
+*** [[https://twitter.com/sis_nonacosa/status/1735653715741458921][View Tweet]]

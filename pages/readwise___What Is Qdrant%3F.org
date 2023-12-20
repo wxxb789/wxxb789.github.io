@@ -2,6 +2,8 @@
 :title: readwise/What Is Qdrant?
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[qdrant.tech]]
 :full-title: "What Is Qdrant?"
@@ -10,14 +12,14 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Vector databases are optimized for **storing** and **querying** these high-dimensional vectors efficiently, and they often using specialized data structures and indexing techniques such as Hierarchical Navigable Small World (HNSW) – which is used to implement Approximate Nearest Neighbors – and Product Quantization, among others. These databases enable fast similarity and semantic search while allowing users to find vectors that are the closest to a given query vector based on some distance metric. The most commonly used distance metrics are Euclidean Distance, Cosine Similarity, and Dot Product, and these three are fully supported Qdrant. 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _What Is Qdrant?_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4ctrhshen3w8fmsq7es140p)
+*** [[https://read.readwise.io/read/01h4ctrhshen3w8fmsq7es140p][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Here’s a quick overview of the three:
@@ -28,7 +30,7 @@ Here’s a quick overview of the three:
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _What Is Qdrant?_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d72zj8v4g522892xy6fj0p)
+*** [[https://read.readwise.io/read/01h4d72zj8v4g522892xy6fj0p][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 In addition, other benefits of using vector databases include:
@@ -42,14 +44,14 @@ In addition, other benefits of using vector databases include:
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _What Is Qdrant?_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d75a9jhp7jkbbq0mz04yrf)
+*** [[https://read.readwise.io/read/01h4d75a9jhp7jkbbq0mz04yrf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![qdrant](https://raw.githubusercontent.com/ramonpzg/mlops-sydney-2023/main/images/qdrant_overview_high_level.png) 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _What Is Qdrant?_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d761fhrtr281gkk901an8f)
+*** [[https://read.readwise.io/read/01h4d761fhrtr281gkk901an8f][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 The diagram above represents a high-level overview of some of the main components of Qdrant. Here are the terminologies you should get familiar with.
@@ -65,4 +67,4 @@ The diagram above represents a high-level overview of some of the main component
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _What Is Qdrant?_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d7780w1hqxwjb8n2rkaj2j)
+*** [[https://read.readwise.io/read/01h4d7780w1hqxwjb8n2rkaj2j][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/📢Introducing 🔥\#CodeTF🔥,...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[stevenhoi on Twitter]]
 :full-title: "📢Introducing 🔥\#CodeTF🔥,..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/3387991055/614175f7acb7d78e4cdaf13513f77d87.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 📢Introducing 🔥#CodeTF🔥, a one-stop Transformer Library for Code Large Language Models (CodeLLM), with a unified interface for training & inference on code tasks (code generation,summarization,translation,etc)
@@ -22,7 +24,7 @@ Code: https://t.co/GmEN2rOYPE
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _📢Introducing 🔥#CodeTF🔥,..._ by @stevenhoi on Twitter
-*** [View Tweet](https://twitter.com/stevenhoi/status/1664483010954272770)
+*** [[https://twitter.com/stevenhoi/status/1664483010954272770][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 CodeTF library supports both the development and deployment of Code LLMs for code intelligence tasks. The library can support both training and serving code LLM models, code utilities to process code data, and popular research benchmarks to evaluate the model performance. 
@@ -32,7 +34,7 @@ CodeTF library supports both the development and deployment of Code LLMs for cod
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _📢Introducing 🔥#CodeTF🔥,..._ by @stevenhoi on Twitter
-*** [View Tweet](https://twitter.com/stevenhoi/status/1664484250169769984)
+*** [[https://twitter.com/stevenhoi/status/1664484250169769984][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 CodeTF is designed with key principles to provide a user-friendly and easy-to-use platform for code intelligence tasks. It follows a modular architecture, enhancing its extensibility by allowing seamless integration of additional programming languages, models & utilities.
@@ -43,7 +45,7 @@ CodeTF is designed with key principles to provide a user-friendly and easy-to-us
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _📢Introducing 🔥#CodeTF🔥,..._ by @stevenhoi on Twitter
-*** [View Tweet](https://twitter.com/stevenhoi/status/1664487100279054336)
+*** [[https://twitter.com/stevenhoi/status/1664487100279054336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Find out more details from our technical report here: 
@@ -56,11 +58,11 @@ Another great open-source library with our amazing AI Research team: Nghi, @LHun
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _📢Introducing 🔥#CodeTF🔥,..._ by @stevenhoi on Twitter
-*** [View Tweet](https://twitter.com/stevenhoi/status/1664488648224698369)
+*** [[https://twitter.com/stevenhoi/status/1664488648224698369][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/TmTrsOz94a (5/n) 
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _📢Introducing 🔥#CodeTF🔥,..._ by @stevenhoi on Twitter
-*** [View Tweet](https://twitter.com/stevenhoi/status/1664488849580621825)
+*** [[https://twitter.com/stevenhoi/status/1664488849580621825][View Tweet]]

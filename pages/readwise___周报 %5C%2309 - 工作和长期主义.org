@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/周报 \#09 - 工作和长期主义
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[sailfish]]
+:full-title: "周报 \#09 - 工作和长期主义"
+:category: [[articles]]
+:url: https://blog.sailfishc.com/weekly09
+:image-url: https://og-zl.vercel.app/api/default?logo=https://blog.sailfishc.com/favicon.png&siteName=sailfish%20blog&description=%E6%A9%99%E5%AD%90%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2&title=%E5%91%A8%E6%8A%A5%20%2309%20-%20%20%E5%B7%A5%E4%BD%9C%E5%92%8C%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89&summary=%E6%AD%A3%E5%A5%BD%E4%BB%8A%E5%A4%A9%E7%9C%8B%E4%BA%86%E4%B8%A4%E4%B8%AA%E8%A7%86%E9%A2%91%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E4%B9%9F%E5%9C%A8%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%9C%89%E5%80%9F%E9%89%B4%E6%84%8F%E4%B9%89%EF%BC%8C%E5%BC%95%E7%94%A8Xiaowen%E7%9A%84%E9%83%A8%E5%88%86%E8%A7%82%E7%82%B9%E4%B9%9F%E8%AF%B4%E4%B8%8B%E8%87%AA%E5%B7%B1%E5%AF%B9%E4%BA%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%83%B3%E6%B3%95%EF%BC%88%E5%AF%B9%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E6%9D%A5%E8%AF%B4%EF%BC%89%EF%BC%9A%0A%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%88%E5%AD%A6%E7%94%9F%E5%88%B0%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%BD%AC%E5%8F%98%E9%98%B6%E6%AE%B5%EF%BC%89%E8%BF%98%E6%98%AF%E5%BA%94%E8%AF%A5%E5%8A%AA%E5%8A%9B%E7%9A%84%EF%BC%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AD%A6%E4%B9%A0%EF%BC%89&theme=light&border=solid
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
+** 📌
+#+BEGIN_QUOTE
+即便现在社会怎么样，向前看，少点抱怨，多做点事情，《纳瓦尔宝典》中说了四种运气：
+
+我们认为运气分为4种：
+
+•   第一种运气是不期而遇的运气，一个人的好运完全源于他控制范围之外、意料之外的事情，比如获得意外之财、遇到贵人等等。
+
+•   第二种运气源于坚持不懈、孜孜不倦、屡败屡战、不断尝试，是靠个人主动创造机会获得的。因为你的不懈努力，不停奋进，不断的释放能量、积蓄力量，所以好运找到了你。
+
+•   第三种获得好运的方式就是善于发现好远。如果你在某个领域技术娴熟、经验丰富，那么当这个领域实现了意外突破时，你就会在第一时间洞悉，这时，其他不熟悉这个领域的人会无动于衷。这就增加对好运的敏感性，幸运会眷顾有准备的大脑。
+
+•   第四种运气是最奇妙、最难得的一种，那就是打造独特的个性、独特的品牌、独特的心态，让运气找到你。 
+#+END_QUOTE
+    date:: [[2023-12-18]]
+*** from _周报 #09 - 工作和长期主义_ by sailfish
+*** [[https://read.readwise.io/read/01hhxynkdvdbqgn3mdw09f5we9][View Highlight]]

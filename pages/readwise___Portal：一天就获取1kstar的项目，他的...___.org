@@ -2,6 +2,8 @@
 :title: readwise/Portal：一天就获取1kstar的项目，他的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[lxfater on Twitter]]
 :full-title: "Portal：一天就获取1kstar的项目，他的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1695490193007214593/ScJQC8nk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Portal：一天就获取1kstar的项目，他的诞生，爆发，然后沉寂。
@@ -32,7 +34,7 @@ Portal：一天就获取1kstar的项目，他的诞生，爆发，然后沉寂�
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136199838703617)
+*** [[https://twitter.com/lxfater/status/1658136199838703617][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1/n 前情提要：
@@ -45,7 +47,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136205433921536)
+*** [[https://twitter.com/lxfater/status/1658136205433921536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/n 灵感来源
@@ -60,7 +62,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136211733770240)
+*** [[https://twitter.com/lxfater/status/1658136211733770240][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/n 灵感来源
@@ -73,7 +75,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136220097187840)
+*** [[https://twitter.com/lxfater/status/1658136220097187840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/n 灵感来源
@@ -84,7 +86,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136224643829761)
+*** [[https://twitter.com/lxfater/status/1658136224643829761][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/n 灵感来源
@@ -95,7 +97,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136231333724160)
+*** [[https://twitter.com/lxfater/status/1658136231333724160][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/n 灵感来源
@@ -109,7 +111,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136242364600323)
+*** [[https://twitter.com/lxfater/status/1658136242364600323][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/n 代码实现
@@ -122,7 +124,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136246206750720)
+*** [[https://twitter.com/lxfater/status/1658136246206750720][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/n 宣传工作
@@ -135,7 +137,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136250828873729)
+*** [[https://twitter.com/lxfater/status/1658136250828873729][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/n 宣传工作
@@ -148,7 +150,7 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136255518105602)
+*** [[https://twitter.com/lxfater/status/1658136255518105602][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/n 宣传工作
@@ -163,7 +165,7 @@ https://t.co/DHzbaarGWY
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136262124130304)
+*** [[https://twitter.com/lxfater/status/1658136262124130304][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/n 宣传工作
@@ -174,7 +176,7 @@ https://t.co/DHzbaarGWY
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136269246058496)
+*** [[https://twitter.com/lxfater/status/1658136269246058496][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/n 后续开发
@@ -192,7 +194,7 @@ https://t.co/wqv0png3rG
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136274077892614)
+*** [[https://twitter.com/lxfater/status/1658136274077892614][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/n 后续开发
@@ -207,7 +209,7 @@ https://t.co/wqv0png3rG
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136278628700160)
+*** [[https://twitter.com/lxfater/status/1658136278628700160][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13/n 总结
@@ -219,7 +221,7 @@ https://t.co/wqv0png3rG
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136283108245510)
+*** [[https://twitter.com/lxfater/status/1658136283108245510][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14/n 总结
@@ -229,7 +231,7 @@ https://t.co/wqv0png3rG
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136288334323712)
+*** [[https://twitter.com/lxfater/status/1658136288334323712][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 15/n 反思：
@@ -243,7 +245,7 @@ https://t.co/wqv0png3rG
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136294265081856)
+*** [[https://twitter.com/lxfater/status/1658136294265081856][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 15/n 反思：
@@ -255,7 +257,7 @@ https://t.co/wqv0png3rG
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136301458309121)
+*** [[https://twitter.com/lxfater/status/1658136301458309121][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 故事结束了吗？
@@ -266,7 +268,7 @@ https://t.co/yxpvWTo4bZ
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136305442885634)
+*** [[https://twitter.com/lxfater/status/1658136305442885634][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我几乎没有拒绝过别人的分享的邀请，某些不合情理的除外。
@@ -279,4 +281,4 @@ https://t.co/yxpvWTo4bZ
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [View Tweet](https://twitter.com/lxfater/status/1658136309519745024)
+*** [[https://twitter.com/lxfater/status/1658136309519745024][View Tweet]]

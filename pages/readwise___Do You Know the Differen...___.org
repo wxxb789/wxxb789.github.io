@@ -2,6 +2,8 @@
 :title: readwise/Do You Know the Differen...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mwaseemzakir on Twitter]]
 :full-title: "Do You Know the Differen..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1604162937828040706/v1EqKyRK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Do you know the difference b/w Controller and ControllerBase in C#
@@ -24,7 +26,7 @@ Let's see the difference 🧵⏬
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871867617280000)
+*** [[https://twitter.com/mwaseemzakir/status/1643871867617280000][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Controller:
@@ -38,7 +40,7 @@ Controller:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871870599458816)
+*** [[https://twitter.com/mwaseemzakir/status/1643871870599458816][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4) Don’t use this for Web API but  if you want to use same controller for views and API’s then fine
@@ -49,7 +51,7 @@ Controller:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871874919661569)
+*** [[https://twitter.com/mwaseemzakir/status/1643871874919661569][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ControllerBase:
@@ -63,7 +65,7 @@ ControllerBase:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871878992240640)
+*** [[https://twitter.com/mwaseemzakir/status/1643871878992240640][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4) Let me remind you some methods of ControllerBase e.g., BadRequest and NotFound
@@ -74,7 +76,7 @@ ControllerBase:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871883824119809)
+*** [[https://twitter.com/mwaseemzakir/status/1643871883824119809][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you enjoy my posts , consider subscribing my .NET Newsletter which has  now crossed 1000+ milestone.
@@ -84,4 +86,4 @@ If you enjoy my posts , consider subscribing my .NET Newsletter which has  now c
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Do You Know the Differen..._ by @mwaseemzakir on Twitter
-*** [View Tweet](https://twitter.com/mwaseemzakir/status/1643871888593100801)
+*** [[https://twitter.com/mwaseemzakir/status/1643871888593100801][View Tweet]]

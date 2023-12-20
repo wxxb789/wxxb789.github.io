@@ -2,6 +2,8 @@
 :title: readwise/番外二｜王喆对话李腾：程序员对基金经理的灵魂十问（下）
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "番外二｜王喆对话李腾：程序员对基金经理的灵魂十问（下）"
@@ -11,14 +13,14 @@
 :image-url: https://static001.geekbang.org/resource/image/ee/75/ee3b07f65575ab64191b0cfe77504675.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 此外，量化投资领域的头部岗位还是高度内卷的，充斥着大量清北复交藤校的毕业生。要想成为抢手的量化投资从业者，至少要在三个方面比较出众：一是投资的经验和直觉，二是数学建模能力，三是编程能力。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外二｜王喆对话李腾：程序员对基金经理的灵魂十问（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjn2vptbjms010ntz18gtz)
+*** [[https://read.readwise.io/read/01gxzjn2vptbjms010ntz18gtz][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 李：关于程序员面对量化投资时的态度，我有两点建议。
@@ -31,4 +33,4 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外二｜王喆对话李腾：程序员对基金经理的灵魂十问（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjnkxg3j8cg2mt9c3v7g4e)
+*** [[https://read.readwise.io/read/01gxzjnkxg3j8cg2mt9c3v7g4e][View Highlight]]

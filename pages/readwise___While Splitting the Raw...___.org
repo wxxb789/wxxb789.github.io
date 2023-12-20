@@ -2,6 +2,8 @@
 :title: readwise/While Splitting the Raw...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[clusteredbytes on Twitter]]
 :full-title: "While Splitting the Raw..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1637707601864454144/Gqpvj271.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 While splitting the raw text for Retrieval Augmented Generation (RAG), what should be the ideal length of each chunk? What’s the sweet spot?
@@ -23,7 +25,7 @@ Let's see how to use it 👇🧵
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143792831639556)
+*** [[https://twitter.com/clusteredbytes/status/1691143792831639556][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The issue:
@@ -34,7 +36,7 @@ The issue:
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143800809205771)
+*** [[https://twitter.com/clusteredbytes/status/1691143800809205771][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @LangChainAI  ParentDocumentRetriever addresses this issue by creating embedding from the  smaller chunks only as they capture better semantic meaning.
@@ -43,14 +45,14 @@ But while plugging into the LLM input, it uses the larger chunks with better con
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143802814423040)
+*** [[https://twitter.com/clusteredbytes/status/1691143802814423040][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Let’s walk through the example code from LangChain’s website on ParentDocumentRetriever 🧑‍💻 👇 
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143805268086784)
+*** [[https://twitter.com/clusteredbytes/status/1691143805268086784][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We're gonna need two splitters instead of one.
@@ -63,7 +65,7 @@ We're gonna need two splitters instead of one.
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143810426773504)
+*** [[https://twitter.com/clusteredbytes/status/1691143810426773504][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Storing the chunks
@@ -76,7 +78,7 @@ Storing the chunks
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143816261021697)
+*** [[https://twitter.com/clusteredbytes/status/1691143816261021697][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Create the ParentDocumentRetriever object
@@ -87,7 +89,7 @@ We pass the vectorstore, docstore, parent and child splitters to the Constructor
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143823257120772)
+*** [[https://twitter.com/clusteredbytes/status/1691143823257120772][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Adding the documents using retriever.add_documents() method 
@@ -96,7 +98,7 @@ Adding the documents using retriever.add_documents() method
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143829574057984)
+*** [[https://twitter.com/clusteredbytes/status/1691143829574057984][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 After adding, we can see there are 66 keys in the store. That means 66 large chunks have been added.
@@ -107,7 +109,7 @@ Also, if we apply similarity search on the vectorstore itself, we’ll get the s
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143840361492489)
+*** [[https://twitter.com/clusteredbytes/status/1691143840361492489][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Now let's use the retriever for retrieving relevant documents using retriever.get_relevant_documents() method 
@@ -116,21 +118,21 @@ Now let's use the retriever for retrieving relevant documents using retriever.ge
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143846267072518)
+*** [[https://twitter.com/clusteredbytes/status/1691143846267072518][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Thus we use small chunks (with better semantic meaning) for vector similarity matching and return their corresponding larger chunks that have the bigger picture and more context. 
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143849333108743)
+*** [[https://twitter.com/clusteredbytes/status/1691143849333108743][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Hopefully the ParentDocumentRetriever will help you to retrieve better relevant documents while using LangChain for Retrieval Augmented Generation (RAG). 
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143855377137664)
+*** [[https://twitter.com/clusteredbytes/status/1691143855377137664][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Detailed blog post on ParentDocumentRetriever with more explanation and code snippets
@@ -138,7 +140,7 @@ https://t.co/26eIF2nYWa
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143857088454656)
+*** [[https://twitter.com/clusteredbytes/status/1691143857088454656][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Thanks for reading.
@@ -149,4 +151,4 @@ Stay tuned for more ! 🔥 #ChatGPT #LangChain https://t.co/qzXONWESnr
 #+END_QUOTE
     date:: [[2023-08-15]]
 *** from _While Splitting the Raw..._ by @clusteredbytes on Twitter
-*** [View Tweet](https://twitter.com/clusteredbytes/status/1691143858845790225)
+*** [[https://twitter.com/clusteredbytes/status/1691143858845790225][View Tweet]]

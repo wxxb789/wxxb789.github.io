@@ -2,6 +2,8 @@
 :title: readwise/Meta 在从 Metaverse 转向 AI...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[indigo11 on Twitter]]
 :full-title: "Meta 在从 Metaverse 转向 AI..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Meta 在从 Metaverse 转向 AI 之后，研究越来越靠谱了！Seamless Communication 项目主攻无障碍沟通，让不同语言的对话可以无缝进行，通过三个模型协调实现：
@@ -23,7 +25,7 @@ Meta 在从 Metaverse 转向 AI 之后，研究越来越靠谱了！Seamless Com
 #+END_QUOTE
     date:: [[2023-12-10]]
 *** from _Meta 在从 Metaverse 转向 AI..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1733759601961849053)
+*** [[https://twitter.com/indigo11/status/1733759601961849053][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 SeamlessStreaming 是首个只需两秒的延迟还能离线工作的的大规模多语种模型。SeamlessStreaming 基于SeamlessM4T v2 构建，支持近 100 种输入和输出语言的自动语音识别和 speech-to-text 翻译，以及近 100 种输入语言和 36 种输出语言的 speech-to-speech 翻译
@@ -31,4 +33,4 @@ SeamlessStreaming 是首个只需两秒的延迟还能离线工作的的大规�
 #+END_QUOTE
     date:: [[2023-12-10]]
 *** from _Meta 在从 Metaverse 转向 AI..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1733761151555731506)
+*** [[https://twitter.com/indigo11/status/1733761151555731506][View Tweet]]

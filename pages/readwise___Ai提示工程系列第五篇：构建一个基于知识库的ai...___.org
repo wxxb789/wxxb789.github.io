@@ -2,6 +2,8 @@
 :title: readwise/Ai提示工程系列第五篇：构建一个基于知识库的ai...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[StephanCptMax on Twitter]]
 :full-title: "Ai提示工程系列第五篇：构建一个基于知识库的ai..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1511108233695432707/TOvN835h.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 AI提示工程系列第五篇：构建一个基于知识库的AI机器人
@@ -25,7 +27,7 @@ AI提示工程系列第五篇：构建一个基于知识库的AI机器人
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353498657165312)
+*** [[https://twitter.com/StephanCptMax/status/1633353498657165312][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/12 
@@ -36,7 +38,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353502201364480)
+*** [[https://twitter.com/StephanCptMax/status/1633353502201364480][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/12 
@@ -46,7 +48,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353505116409856)
+*** [[https://twitter.com/StephanCptMax/status/1633353505116409856][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/12 
@@ -56,7 +58,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353507653959681)
+*** [[https://twitter.com/StephanCptMax/status/1633353507653959681][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/12 
@@ -70,7 +72,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353511068127233)
+*** [[https://twitter.com/StephanCptMax/status/1633353511068127233][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/12 
@@ -80,7 +82,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353513156870145)
+*** [[https://twitter.com/StephanCptMax/status/1633353513156870145][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/12 
@@ -90,7 +92,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353515392462848)
+*** [[https://twitter.com/StephanCptMax/status/1633353515392462848][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/12 
@@ -102,7 +104,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353519951679488)
+*** [[https://twitter.com/StephanCptMax/status/1633353519951679488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/12 
@@ -112,7 +114,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353523953037312)
+*** [[https://twitter.com/StephanCptMax/status/1633353523953037312][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/12 
@@ -120,7 +122,7 @@ https://t.co/0hZ3124rH1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353526117285888)
+*** [[https://twitter.com/StephanCptMax/status/1633353526117285888][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/12 
@@ -132,7 +134,7 @@ https://t.co/Xt11s1Qna1
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633353529116225536)
+*** [[https://twitter.com/StephanCptMax/status/1633353529116225536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/12
@@ -145,4 +147,4 @@ https://t.co/Bcowblr1GS
 #+END_QUOTE
     date:: [[2023-03-09]]
 *** from _Ai提示工程系列第五篇：构建一个基于知识库的ai..._ by @StephanCptMax on Twitter
-*** [View Tweet](https://twitter.com/StephanCptMax/status/1633356856445001728)
+*** [[https://twitter.com/StephanCptMax/status/1633356856445001728][View Tweet]]

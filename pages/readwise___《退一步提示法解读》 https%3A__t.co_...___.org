@@ -2,6 +2,8 @@
 :title: readwise/《退一步提示法解读》 https:__t.co_...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "《退一步提示法解读》 https://t.co/..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《退一步提示法解读》
@@ -49,4 +51,4 @@ https://t.co/3wRbSNmY9O<img src='https://pbs.twimg.com/media/F9lO7Z5WYAAO8jX.jpg
 #+END_QUOTE
     date:: [[2023-10-29]]
 *** from _《退一步提示法解读》 https://t.co/..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1718491536948654085)
+*** [[https://twitter.com/dotey/status/1718491536948654085][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/LLM_Gpt小模型的机会在哪里？ 大家最近对...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[fi56622380 on Twitter]]
 :full-title: "LLM/Gpt小模型的机会在哪里？ 大家最近对..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 LLM/GPT小模型的机会在哪里？
@@ -27,7 +29,7 @@ LLM/GPT小模型的机会在哪里？
 #+END_QUOTE
     date:: [[2023-05-08]]
 *** from _LLM/Gpt小模型的机会在哪里？ 大家最近对..._ by @fi56622380 on Twitter
-*** [View Tweet](https://twitter.com/fi56622380/status/1655453326102917130)
+*** [[https://twitter.com/fi56622380/status/1655453326102917130][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 再补充一个
@@ -40,7 +42,7 @@ https://t.co/8YdOgKHFXO
 #+END_QUOTE
     date:: [[2023-05-08]]
 *** from _LLM/Gpt小模型的机会在哪里？ 大家最近对..._ by @fi56622380 on Twitter
-*** [View Tweet](https://twitter.com/fi56622380/status/1655458441727725568)
+*** [[https://twitter.com/fi56622380/status/1655458441727725568][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 评论区卧虎藏龙，真的有大佬在做这方面的工作
@@ -49,4 +51,4 @@ https://t.co/7x0xbusMm6
 #+END_QUOTE
     date:: [[2023-05-08]]
 *** from _LLM/Gpt小模型的机会在哪里？ 大家最近对..._ by @fi56622380 on Twitter
-*** [View Tweet](https://twitter.com/fi56622380/status/1655462614921781248)
+*** [[https://twitter.com/fi56622380/status/1655462614921781248][View Tweet]]

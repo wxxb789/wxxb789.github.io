@@ -2,6 +2,8 @@
 :title: readwise/A New Method of Prompt I...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[AlphaSignalAI on Twitter]]
 :full-title: "A New Method of Prompt I..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1599792074336964608/CobSHV8l.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 A new method of Prompt Injection Attack on GPT-4 was just found! 
@@ -21,7 +23,7 @@ By wrapping the malicious prompt in markdown and  instructing GPT to become a "M
 #+END_QUOTE
     date:: [[2023-11-14]]
 *** from _A New Method of Prompt I..._ by @AlphaSignalAI on Twitter
-*** [View Tweet](https://twitter.com/AlphaSignalAI/status/1643271098342014977)
+*** [[https://twitter.com/AlphaSignalAI/status/1643271098342014977][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Markdown based injection: 
@@ -30,7 +32,7 @@ Markdown based injection:
 #+END_QUOTE
     date:: [[2023-11-14]]
 *** from _A New Method of Prompt I..._ by @AlphaSignalAI on Twitter
-*** [View Tweet](https://twitter.com/AlphaSignalAI/status/1643271101236015104)
+*** [[https://twitter.com/AlphaSignalAI/status/1643271101236015104][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Source:
@@ -38,4 +40,4 @@ https://t.co/Co6JY080Dj
 #+END_QUOTE
     date:: [[2023-11-14]]
 *** from _A New Method of Prompt I..._ by @AlphaSignalAI on Twitter
-*** [View Tweet](https://twitter.com/AlphaSignalAI/status/1643271104276971523)
+*** [[https://twitter.com/AlphaSignalAI/status/1643271104276971523][View Tweet]]

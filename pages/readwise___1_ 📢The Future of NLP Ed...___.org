@@ -2,6 +2,8 @@
 :title: readwise/1_ 📢The Future of NLP Ed...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[CohereAI on Twitter]]
 :full-title: "1/ 📢The Future of NLP Ed..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1650250832909152260/760DZ0cv.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/ 📢The future of NLP education is here!
@@ -22,21 +24,21 @@ https://t.co/StlVeZHY4V
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _1/ 📢The Future of NLP Ed..._ by @CohereAI on Twitter
-*** [View Tweet](https://twitter.com/CohereAI/status/1658511788533489664)
+*** [[https://twitter.com/CohereAI/status/1658511788533489664][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ LLMU is your go-to education resource for your NLP journey! Our mission is to equip the next gen of AI enthusiasts with the knowledge and skills you need to build your own apps! 
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _1/ 📢The Future of NLP Ed..._ by @CohereAI on Twitter
-*** [View Tweet](https://twitter.com/CohereAI/status/1658511790043439104)
+*** [[https://twitter.com/CohereAI/status/1658511790043439104][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ 📚LLMU’s curriculum is designed by world-class AI experts at Cohere and covers everything from the basics of language models to advanced topics like attention mechanisms, semantic search, and transformer and event hands-on projects to your own apps! 
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _1/ 📢The Future of NLP Ed..._ by @CohereAI on Twitter
-*** [View Tweet](https://twitter.com/CohereAI/status/1658511791503048704)
+*** [[https://twitter.com/CohereAI/status/1658511791503048704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/ If you are interested in learning with the community, join our LLMU channel on Discord,
@@ -44,7 +46,7 @@ https://t.co/nZ2RpaOK1L
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _1/ 📢The Future of NLP Ed..._ by @CohereAI on Twitter
-*** [View Tweet](https://twitter.com/CohereAI/status/1658511792820166659)
+*** [[https://twitter.com/CohereAI/status/1658511792820166659][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ Our mentors, @JayAlammar @luis_likes_math @sandra_kublik @MeorAmer1 will be conducting regular reading groups to enhance your learning!
@@ -54,4 +56,4 @@ https://t.co/g58Km9vJh3
 #+END_QUOTE
     date:: [[2023-05-25]]
 *** from _1/ 📢The Future of NLP Ed..._ by @CohereAI on Twitter
-*** [View Tweet](https://twitter.com/CohereAI/status/1658511794036408325)
+*** [[https://twitter.com/CohereAI/status/1658511794036408325][View Tweet]]

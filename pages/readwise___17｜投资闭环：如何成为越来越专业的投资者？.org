@@ -2,6 +2,8 @@
 :title: readwise/17｜投资闭环：如何成为越来越专业的投资者？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "17｜投资闭环：如何成为越来越专业的投资者？"
@@ -11,42 +13,42 @@
 :image-url: https://static001.geekbang.org/resource/image/af/15/af4f636a1bc511c4c71bf93520e08915.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 为了建立投资闭环，我们需要对它进行一个小小的改造，就是在退出阶段之后加上“投资复盘”的环节（如图 1）。我们不仅要复盘这次投资中成功的经验，还要复盘失败的经验，让它们都沉淀到你的投资体系里。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnysp34mzbpfy7vnkbandt8)
+*** [[https://read.readwise.io/read/01gxnysp34mzbpfy7vnkbandt8][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/a9/0f/a94360a159f1b2f481da861cc5201b0f.jpg?wh=2248x1151) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnysqkr3tnwrpztdwyd0p9h)
+*** [[https://read.readwise.io/read/01gxnysqkr3tnwrpztdwyd0p9h][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 简单来说，投资跟踪表就像一个漏斗一样，把你的投资想法一层层过滤成可投资的支点，再记录下从投资到退出的整个过程，最后针对整个过程进行复盘。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz2mj34m83k65vk0adgpxn)
+*** [[https://read.readwise.io/read/01gxnz2mj34m83k65vk0adgpxn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 接下来我们详细讲讲。投资跟踪表主要分为“头脑风暴阶段”“支点研究阶段”和“投资跟踪阶段”三大部分。具体形式你可以参照图 5，下面，先来听我介绍下每个阶段吧。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz2qrr80fvh3hccyjm7wb6)
+*** [[https://read.readwise.io/read/01gxnz2qrr80fvh3hccyjm7wb6][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/89/63/8943038cc3b0960a27b1ed17396c3d63.jpg?wh=2248x756) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz27w0m5gmxmms8z354tv1)
+*** [[https://read.readwise.io/read/01gxnz27w0m5gmxmms8z354tv1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第一个阶段是“头脑风暴阶段”，主要负责记录你发现的任何可能的投资机会。这些机会可能是你自己在观察熟悉的投资标的时发现的，可能是你在跟同事朋友讨论时得出的，也可能是你看了一篇文章，或者听了某位专家介绍，觉得有道理而记下的。总之，只要你有新的投资想法，都要新开一条记录，不用管这个想法靠不靠谱，因为这个阶段的目的就是为你积累大量的支点素材。
@@ -59,14 +61,14 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz355hc9wv4a28nq6bnr4v)
+*** [[https://read.readwise.io/read/01gxnz355hc9wv4a28nq6bnr4v][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/89/63/8943038cc3b0960a27b1ed17396c3d63.jpg?wh=2248x756) 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnzhx8ax7dn03nkegrkzpeh)
+*** [[https://read.readwise.io/read/01gxnzhx8ax7dn03nkegrkzpeh][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 最后想说的是，如果你真的坚持使用投资跟踪表，记录你的所有投资过程，你会发现自己正在写一本专属于你自己的理财书。这本书的厉害之处在于，它是最适合你的，你对每一处的细节了如指掌，每看一条记录，就会发现当时的心态、思考、行为都历历在目。
@@ -75,7 +77,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz6bapmsjt7vs7wf30cd0w)
+*** [[https://read.readwise.io/read/01gxnz6bapmsjt7vs7wf30cd0w][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 建立投资闭环，就是在原来支点投资法的流程中加上复盘环节。
@@ -90,7 +92,7 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz6g6ja5p0a42j9eg4vq97)
+*** [[https://read.readwise.io/read/01gxnz6g6ja5p0a42j9eg4vq97][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 1.大a能做空吗？做空是先找券商借，然后赌下跌，下跌之后赚取差价，然后把之前找券商借的股票还上对吧 2.老师这次失败所加的三倍杠杆，具体是怎么加的，抵押房子吗？ 3.老师买蔚来汽车你这次投机性质很强啊，支点很模糊，当时买了几成仓？ 4.“在市场疯狂的时候让利润奔跑”一般设置的心里止盈率是多少呢？
@@ -99,4 +101,4 @@
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _17｜投资闭环：如何成为越来越专业的投资者？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxnz9xgqnpvtncysjqgerw4f)
+*** [[https://read.readwise.io/read/01gxnz9xgqnpvtncysjqgerw4f][View Highlight]]

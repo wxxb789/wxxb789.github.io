@@ -2,6 +2,8 @@
 :title: readwise/开篇词｜练好基本功，优秀工程师成长第一步
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "开篇词｜练好基本功，优秀工程师成长第一步"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/c2/dc/c2d25fa05c3ffee2e4d8863201743bdc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 但若是我们要开发大规模应用系统，如电商服务系统，问题就会变得复杂。比如：
@@ -26,11 +28,11 @@
 #+END_QUOTE
     date:: [[2023-07-01]]
 *** from _开篇词｜练好基本功，优秀工程师成长第一步_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01h46q9r54ef6vfh5b1w2b0w00)
+*** [[https://read.readwise.io/read/01h46q9r54ef6vfh5b1w2b0w00][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/2d/bb/2d89cfa19124af8068bd9f94d9e0b5bb.jpg?wh=4182x2993) 
 #+END_QUOTE
     date:: [[2023-07-01]]
 *** from _开篇词｜练好基本功，优秀工程师成长第一步_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01h46qamcxzhh7xh3113ydm8ev)
+*** [[https://read.readwise.io/read/01h46qamcxzhh7xh3113ydm8ev][View Highlight]]

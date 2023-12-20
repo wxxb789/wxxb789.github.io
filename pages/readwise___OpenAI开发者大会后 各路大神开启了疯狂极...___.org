@@ -2,6 +2,8 @@
 :title: readwise/OpenAI开发者大会后 各路大神开启了疯狂极...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xiaohuggg on Twitter]]
 :full-title: "OpenAI开发者大会后 各路大神开启了疯狂极..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1721488863603118080/VJBC4Z7L.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 OpenAI开发者大会后
@@ -31,7 +33,7 @@ OpenAI开发者大会后
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781696474083436)
+*** [[https://twitter.com/xiaohuggg/status/1721781696474083436][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1、GPT-4-Turbo速度演示
@@ -42,7 +44,7 @@ https://t.co/nbyihWILXP
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781698982269379)
+*** [[https://twitter.com/xiaohuggg/status/1721781698982269379][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2、使用GPT-4V + TTS 创建AI体育解说员
@@ -53,7 +55,7 @@ https://t.co/8Kcle6JDmt
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781701859532889)
+*** [[https://twitter.com/xiaohuggg/status/1721781701859532889][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3、利用OpenAI的最新语音模型，仅用了几分钟就创建了一个NPC交互
@@ -67,7 +69,7 @@ https://t.co/Ga4j3cKnF0
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781704845914459)
+*** [[https://twitter.com/xiaohuggg/status/1721781704845914459][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4、OpenAI最新的GPTs创建示范
@@ -80,7 +82,7 @@ https://t.co/gt4R5pFSt0
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781707832226301)
+*** [[https://twitter.com/xiaohuggg/status/1721781707832226301][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5、使用 <a href="https://twitter.com/OpenAI">@OpenAI</a> 视觉API进行网络摄像头聊天
@@ -89,7 +91,7 @@ https://t.co/KQPzuN3pdC
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781710432735573)
+*** [[https://twitter.com/xiaohuggg/status/1721781710432735573][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、ChatGPT自定义GPTs  
@@ -100,7 +102,7 @@ https://t.co/Z0Rq1IaQZ7
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781713393914344)
+*** [[https://twitter.com/xiaohuggg/status/1721781713393914344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7、WebcamGPT
@@ -115,7 +117,7 @@ https://t.co/6giUPM3nv4
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781716074041563)
+*** [[https://twitter.com/xiaohuggg/status/1721781716074041563][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8、用30分钟构建的GPT-4视觉API的演示。
@@ -126,7 +128,7 @@ https://t.co/OwSnAk1uy1
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781719026778293)
+*** [[https://twitter.com/xiaohuggg/status/1721781719026778293][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9、使用GPT-4-Vision API 将低保真模拟图转化为实际的 HTML
@@ -135,4 +137,4 @@ https://t.co/IStQTWzQyP
 #+END_QUOTE
     date:: [[2023-11-08]]
 *** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1721781721669234816)
+*** [[https://twitter.com/xiaohuggg/status/1721781721669234816][View Tweet]]

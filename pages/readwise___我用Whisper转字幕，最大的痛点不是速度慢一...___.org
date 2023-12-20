@@ -2,6 +2,8 @@
 :title: readwise/我用Whisper转字幕，最大的痛点不是速度慢一...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "我用Whisper转字幕，最大的痛点不是速度慢一..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 我用Whisper转字幕，最大的痛点不是速度慢一点，我等得起。最麻烦的是换行的位置让我很抓狂，非常影响翻译结果和显示效果。所以翻译前我一般要手动调整一下，很费时间。 https://t.co/RddTdJ68bS
@@ -27,7 +29,7 @@ WhisperX相对比较好，是整句整句在一起，这样翻译效果很好，
 #+END_QUOTE
     date:: [[2023-08-29]]
 *** from _我用Whisper转字幕，最大的痛点不是速度慢一..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1696373547109617968)
+*** [[https://twitter.com/dotey/status/1696373547109617968][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 谢谢倪老师夸赞，上次的字幕人工校对过一遍还是有个错别字，后来我发现其实用GPT就可以帮忙校对的，所以这次翻译完就让ChatGPT帮我校对了一遍，果然发现一些问题。
@@ -42,4 +44,4 @@ https://t.co/bQUaM0hxqE
 #+END_QUOTE
     date:: [[2023-08-29]]
 *** from _我用Whisper转字幕，最大的痛点不是速度慢一..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1696383650693001499)
+*** [[https://twitter.com/dotey/status/1696383650693001499][View Tweet]]

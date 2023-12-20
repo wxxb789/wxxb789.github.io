@@ -2,6 +2,8 @@
 :title: readwise/好像 Embedding 对 Db 的需求主要是...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[flaneur2023 on Twitter]]
 :full-title: "好像 Embedding 对 Db 的需求主要是..."
@@ -10,14 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1687404804837101568/jomStiKP.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 好像 embedding 对 db 的需求主要是对高维的向量（比如 1536 维）做 similarity 检索的索引，不知道 GIS 的索引能不能重用上（比如四叉树这种） 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637287957660049410)
+*** [[https://twitter.com/flaneur2023/status/1637287957660049410][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 好像 vector indexing 这个是 milvus 的卖点
@@ -25,28 +27,28 @@ https://t.co/80AI9I3rRV
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637288556212400130)
+*** [[https://twitter.com/flaneur2023/status/1637288556212400130][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 redis 里也有一个 vector simiarity 的扩展 https://t.co/LjyClFle4I ，用的这个库 https://t.co/o7pNW1YDmi 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637289347727908864)
+*** [[https://twitter.com/flaneur2023/status/1637289347727908864][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/UtyUBJRjFJ 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637292224328388608)
+*** [[https://twitter.com/flaneur2023/status/1637292224328388608][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 好像说 nsw 利用小世界网络的思路，为向量空间的每个节点建立连接（通过聚类？），这些连接构成的小世界网络就是索引，小世界网络的性质是大V连接的人多，小透明连接的少，通过大 V 节点，可以快速找到网络中大部分相关的节点，搜索时可以从小世界网络的任意节点开始，顺着大V节点的最近的节点找 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637296020353880069)
+*** [[https://twitter.com/flaneur2023/status/1637296020353880069][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后 HNSW 结合了跳表的性质 随机拣几个节点放在上层 layer，然后顺着往下层 layer 找相邻 
@@ -55,11 +57,11 @@ https://t.co/UtyUBJRjFJ
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637296347073368064)
+*** [[https://twitter.com/flaneur2023/status/1637296347073368064][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 刚才对小世界网络理解的不大准，大V与小透明的关系是一种小世界网络，但是不是所有的小世界网络都是大V小透明这样分布，HNSW 好像是找 K 个近邻，然后 heuristic 随机让当前 cluster 连接一个远端的 cluster 中的节点，这样也是一种小世界网络 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _好像 Embedding 对 Db 的需求主要是..._ by @flaneur2023 on Twitter
-*** [View Tweet](https://twitter.com/flaneur2023/status/1637465735143514113)
+*** [[https://twitter.com/flaneur2023/status/1637465735143514113][View Tweet]]

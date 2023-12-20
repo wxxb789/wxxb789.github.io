@@ -2,6 +2,8 @@
 :title: readwise/纽约时报：Sam Altman，探讨人工智能的未...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "纽约时报：Sam Altman，探讨人工智能的未..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 纽约时报：Sam Altman，探讨人工智能的未来挑战
@@ -64,4 +66,4 @@ https://t.co/JL54STSWtz
 #+END_QUOTE
     date:: [[2023-12-03]]
 *** from _纽约时报：Sam Altman，探讨人工智能的未..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1731115143738667054)
+*** [[https://twitter.com/dotey/status/1731115143738667054][View Tweet]]

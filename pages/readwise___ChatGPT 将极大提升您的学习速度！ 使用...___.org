@@ -2,6 +2,8 @@
 :title: readwise/ChatGPT 将极大提升您的学习速度！ 使用...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[AIWhispers4U on Twitter]]
 :full-title: "ChatGPT 将极大提升您的学习速度！ 使用..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1644511641231556609/MG8xGOwo.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ChatGPT 将极大提升您的学习速度！
@@ -21,7 +23,7 @@ ChatGPT 将极大提升您的学习速度！
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288935154651136)
+*** [[https://twitter.com/AIWhispers4U/status/1658288935154651136][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. 获取最新信息
@@ -32,7 +34,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288937528619009)
+*** [[https://twitter.com/AIWhispers4U/status/1658288937528619009][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. 复杂文章的摘要
@@ -43,7 +45,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288940363939842)
+*** [[https://twitter.com/AIWhispers4U/status/1658288940363939842][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 与他人建立联系
@@ -54,7 +56,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288943174156288)
+*** [[https://twitter.com/AIWhispers4U/status/1658288943174156288][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. 从错误中学习
@@ -65,7 +67,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288946068217861)
+*** [[https://twitter.com/AIWhispers4U/status/1658288946068217861][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. 应用知识
@@ -76,7 +78,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288949079732224)
+*** [[https://twitter.com/AIWhispers4U/status/1658288949079732224][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. 简化复杂信息
@@ -87,7 +89,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288952208654336)
+*** [[https://twitter.com/AIWhispers4U/status/1658288952208654336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7. 制定学习时间表
@@ -98,7 +100,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288955245330434)
+*** [[https://twitter.com/AIWhispers4U/status/1658288955245330434][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8. 记忆重要信息
@@ -109,7 +111,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288957728382977)
+*** [[https://twitter.com/AIWhispers4U/status/1658288957728382977][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9. 寻求反馈
@@ -120,7 +122,7 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288960924430336)
+*** [[https://twitter.com/AIWhispers4U/status/1658288960924430336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10. 进行比较对照
@@ -131,11 +133,11 @@ Prompt：
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288963906605058)
+*** [[https://twitter.com/AIWhispers4U/status/1658288963906605058][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/KN0j3FSn8i 
 #+END_QUOTE
     date:: [[2023-05-16]]
 *** from _ChatGPT 将极大提升您的学习速度！ 使用..._ by @AIWhispers4U on Twitter
-*** [View Tweet](https://twitter.com/AIWhispers4U/status/1658288968595820544)
+*** [[https://twitter.com/AIWhispers4U/status/1658288968595820544][View Tweet]]

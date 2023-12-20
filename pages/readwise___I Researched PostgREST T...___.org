@@ -2,6 +2,8 @@
 :title: readwise/I Researched PostgREST T...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mjovanovictech on Twitter]]
 :full-title: "I Researched PostgREST T..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 I researched PostgREST today.
@@ -28,11 +30,11 @@ Hope that's helpful.
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _I Researched PostgREST T..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1638147600535678978)
+*** [[https://twitter.com/mjovanovictech/status/1638147600535678978][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you enjoyed this Tweet, you would love my weekly .NET newsletter. Join 11k+ engineers: https://t.co/zcETFCDreZ 
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _I Researched PostgREST T..._ by @mjovanovictech on Twitter
-*** [View Tweet](https://twitter.com/mjovanovictech/status/1638147602129510407)
+*** [[https://twitter.com/mjovanovictech/status/1638147602129510407][View Tweet]]

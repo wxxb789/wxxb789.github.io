@@ -2,6 +2,8 @@
 :title: readwise/100+ OOPs Interview Ques...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[swapnakpanda on Twitter]]
 :full-title: "100+ OOPs Interview Ques..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1621910730227449856/iW8AGVCr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 100+ OOPs Interview Questions
@@ -30,7 +32,7 @@ incl. design patterns and class diagrams
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879834053988354)
+*** [[https://twitter.com/swapnakpanda/status/1609879834053988354][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Level: Beginner to Medium
@@ -48,7 +50,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879836511862786)
+*** [[https://twitter.com/swapnakpanda/status/1609879836511862786][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➊ OOPs Basics
@@ -63,7 +65,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879840026660865)
+*** [[https://twitter.com/swapnakpanda/status/1609879840026660865][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➆ Where should OOPs not be used?
@@ -73,7 +75,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879842966876160)
+*** [[https://twitter.com/swapnakpanda/status/1609879842966876160][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➋ Class, Object, Interface
@@ -87,7 +89,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879845269561345)
+*** [[https://twitter.com/swapnakpanda/status/1609879845269561345][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➆ What is an abstract method?
@@ -97,7 +99,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879847773556737)
+*** [[https://twitter.com/swapnakpanda/status/1609879847773556737][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➌ Encapsulation, Abstraction, Polymorphism, Inheritance
@@ -112,7 +114,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879850374037507)
+*** [[https://twitter.com/swapnakpanda/status/1609879850374037507][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➇ Give an example of inheritance.
@@ -124,7 +126,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879852940947461)
+*** [[https://twitter.com/swapnakpanda/status/1609879852940947461][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➀➃ What is polymorphism?
@@ -136,7 +138,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879855449112576)
+*** [[https://twitter.com/swapnakpanda/status/1609879855449112576][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➍ Constructor and Destructor
@@ -150,7 +152,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879858196119553)
+*** [[https://twitter.com/swapnakpanda/status/1609879858196119553][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➆ Is a parent class constructor invoked when a child class constructor is invoked? In what order?
@@ -161,7 +163,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879861388267522)
+*** [[https://twitter.com/swapnakpanda/status/1609879861388267522][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➀➁ Is the destructor invoked automatically or manually?
@@ -172,7 +174,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879863724498944)
+*** [[https://twitter.com/swapnakpanda/status/1609879863724498944][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➎ Design Patterns
@@ -186,7 +188,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879866274635777)
+*** [[https://twitter.com/swapnakpanda/status/1609879866274635777][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➆ Define all structural design patterns.
@@ -199,7 +201,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879868594085888)
+*** [[https://twitter.com/swapnakpanda/status/1609879868594085888][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➀➃ What is a Factory?
@@ -213,7 +215,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879871039352833)
+*** [[https://twitter.com/swapnakpanda/status/1609879871039352833][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➁➁ What is a chain of responsibility?
@@ -225,7 +227,7 @@ https://t.co/VAVMfj59tw
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879873581125636)
+*** [[https://twitter.com/swapnakpanda/status/1609879873581125636][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➁➇ What is MVC?
@@ -237,7 +239,7 @@ Or,
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879875887955968)
+*** [[https://twitter.com/swapnakpanda/status/1609879875887955968][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➏ Class Diagram
@@ -250,7 +252,7 @@ Or,
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879878744297473)
+*** [[https://twitter.com/swapnakpanda/status/1609879878744297473][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ➅ What are generalization and specialization?
@@ -264,7 +266,7 @@ Or,
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879883920052233)
+*** [[https://twitter.com/swapnakpanda/status/1609879883920052233][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🚥 Disclaimer
@@ -277,7 +279,7 @@ Or,
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609879886591660032)
+*** [[https://twitter.com/swapnakpanda/status/1609879886591660032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That's it for this series.
@@ -289,4 +291,4 @@ https://t.co/6lfHZ3ERvB
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [View Tweet](https://twitter.com/swapnakpanda/status/1609880005995286528)
+*** [[https://twitter.com/swapnakpanda/status/1609880005995286528][View Tweet]]

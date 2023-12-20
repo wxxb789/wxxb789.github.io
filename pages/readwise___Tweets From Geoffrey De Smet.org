@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Geoffrey De Smet
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[GeoffreyDeSmet on Twitter]]
 :full-title: "Tweets From Geoffrey De Smet"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1590970837183651840/uhO-5es6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Most @java programmers only use 10% of their... debugger.
@@ -23,4 +25,4 @@ Test your debugger skills with 4 challenges in this thread. Works with @intellij
 #+END_QUOTE
     date:: [[2022-12-11]]
 *** from _Tweets From Geoffrey De Smet_ by @GeoffreyDeSmet on Twitter
-*** [View Tweet](https://twitter.com/GeoffreyDeSmet/status/1577262981427392514)
+*** [[https://twitter.com/GeoffreyDeSmet/status/1577262981427392514][View Tweet]]

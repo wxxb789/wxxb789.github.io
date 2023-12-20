@@ -2,6 +2,8 @@
 :title: readwise/Many Rumors Surrounding...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[PavelSlunkin on Twitter]]
 :full-title: "Many Rumors Surrounding..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1418515859941769217/nZs1qo-V.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Many rumors surrounding the sudden disappearance of the Chinese Foreign Minister Qin Gang. Of course, I don't know where he is or what is happening to him.
@@ -20,7 +22,7 @@ Instead I will share my impressions of our meeting and working together in 2015.
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465198785425408)
+*** [[https://twitter.com/PavelSlunkin/status/1683465198785425408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 He then headed the Protocol Department of the Foreign Ministry and came to Belarus as part of a delegation led by Xi Jinping. You can spot him in this picrure. Or us both in this video https://t.co/qPMqQvBTRT 
@@ -29,21 +31,21 @@ He then headed the Protocol Department of the Foreign Ministry and came to Belar
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465201939632130)
+*** [[https://twitter.com/PavelSlunkin/status/1683465201939632130][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Let me start by saying that the Chinese protocol is a huge machine that employs hundreds of diplomats. The entire Protocol department of Belarus then consisted of 11 people. This is also the reason why a young dilomat like me had a chance to work with Qin Gang and other CH VIPs. 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465204183584769)
+*** [[https://twitter.com/PavelSlunkin/status/1683465204183584769][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Preparations for Xi's visit began a few months before he arrived in Minsk. Chinese diplomats persistently came to the Foreign Ministry literally every day. We discussed exactly the same protocol aspects of the visit several dozen times 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465206029078528)
+*** [[https://twitter.com/PavelSlunkin/status/1683465206029078528][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Like if the head of Belarusian protocol should go up and greet Xi when his plane lands. As you can see here, Chinese were against 
@@ -52,28 +54,28 @@ Like if the head of Belarusian protocol should go up and greet Xi when his plane
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465207778009089)
+*** [[https://twitter.com/PavelSlunkin/status/1683465207778009089][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Our everyday negotiations felt like Groundhog Day. We ended them late in the evening, agreed on all the protocol nuances, but the next day the Chinese colleagues again asked for a meeting. And we discussed the same thing again. And so day after day. 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465209883635713)
+*** [[https://twitter.com/PavelSlunkin/status/1683465209883635713][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 To be honest, we could save a lot of time. Because when Chinese diplomats didn't like something, they called Beijing. And later Beijing called Lukashenka's administration. Surely, almost any whim of China's leadership immediately became a new arrangement. 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465211678695424)
+*** [[https://twitter.com/PavelSlunkin/status/1683465211678695424][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Despite the fact that there is no concept of “state visit”(the most honorable type of visit) in Belarusian protocol practice, Chinese diplomats called Xi’s visit that way. The Chinese Embassy even bought dozens of huge advertising banners all over Minsk to promote it this way 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465213432012800)
+*** [[https://twitter.com/PavelSlunkin/status/1683465213432012800][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Under pressure from China and under the temptation of Chinese investments, Minsk gave in and agreed to call the visit exactly “state”. Here is the screen from the Lukashenka's website 
@@ -82,14 +84,14 @@ Under pressure from China and under the temptation of Chinese investments, Minsk
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465215269126145)
+*** [[https://twitter.com/PavelSlunkin/status/1683465215269126145][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The first day of the visit ended very late. And on the second day, Xi planned to visit the Museum of the Great Patriotic War. At 2 o'clock in the morning, Qin Gang decided to once again check the readiness of the museum to meet his boss. 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465217970405378)
+*** [[https://twitter.com/PavelSlunkin/status/1683465217970405378][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 At 2 am (!!!), at his request, my colleagues woke up the deputy director of the museum and asked him to arrange another excursion to the museum for the Chinese protocol. 
@@ -99,14 +101,14 @@ Pic. Museum of the Great Patriotic War (World War II)
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465219945668608)
+*** [[https://twitter.com/PavelSlunkin/status/1683465219945668608][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 It looked very surreal. Chinese diplomats walked up the stairs of the museum, counted the steps and asked: “When will the solemn music turn on? What step will the Chairman (Xi) step at this moment? Will it be this one? Or that one? Are you sure?!". 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465222344912897)
+*** [[https://twitter.com/PavelSlunkin/status/1683465222344912897][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 At 3 am, I was sure only that I wanted to sleep, and just pointed to a random step. As you guessed, tomorrow the music turned on at a completely different moment 
@@ -117,7 +119,7 @@ At 3 am, I was sure only that I wanted to sleep, and just pointed to a random st
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465224148467712)
+*** [[https://twitter.com/PavelSlunkin/status/1683465224148467712][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The next morning, I had breakfast together with Qin Gan at the "Beiging Hotel" (the Chinese built it in Minsk, among other things, in order to receive large delegations from the PRC). 
@@ -132,21 +134,21 @@ The next morning, I had breakfast together with Qin Gan at the "Beiging Hotel" (
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465226505650176)
+*** [[https://twitter.com/PavelSlunkin/status/1683465226505650176][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 He surprised me with his excellent English and how his subordinates were afraid of him. We briefly discussed the visit and plans for today. He was eating traditional Chinese noodle soup. Very, very, very (!) loudly (no exaggeration here). 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465229521375232)
+*** [[https://twitter.com/PavelSlunkin/status/1683465229521375232][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 When Xi finally flew back to Beijing, I approached one of the Chinese diplomats (subordinates of Qin Gang) and asked him: “What was all this for? These months of useless negotiations about the same thing. This game of arithmetic with steps at the museum at night?". 
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465231362662403)
+*** [[https://twitter.com/PavelSlunkin/status/1683465231362662403][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Perhaps for the first time in months, he was completely honest with me: “In Beijing, there are several hundred people rowing behind me for my position. So, if I don't do this, someone else will." 
@@ -155,4 +157,4 @@ Perhaps for the first time in months, he was completely honest with me: “In Be
 #+END_QUOTE
     date:: [[2023-07-26]]
 *** from _Many Rumors Surrounding..._ by @PavelSlunkin on Twitter
-*** [View Tweet](https://twitter.com/PavelSlunkin/status/1683465233522647040)
+*** [[https://twitter.com/PavelSlunkin/status/1683465233522647040][View Tweet]]

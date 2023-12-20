@@ -2,6 +2,8 @@
 :title: readwise/昨天看到零一智能的模型在 Huggingface...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[op7418 on Twitter]]
 :full-title: "昨天看到零一智能的模型在 Huggingface..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 昨天看到零一智能的模型在 Huggingface 排第一以后，去搜了一下他家的其他产品。
@@ -26,7 +28,7 @@ PopAi率先集成了 GPT-4V 的图像 API，而且调教的比较好，我用一
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _昨天看到零一智能的模型在 Huggingface..._ by @op7418 on Twitter
-*** [View Tweet](https://twitter.com/op7418/status/1722909611748106281)
+*** [[https://twitter.com/op7418/status/1722909611748106281][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 你可以在这里尝试PopAi ：https://t.co/b9U3NAxGKM
@@ -34,4 +36,4 @@ PopAi率先集成了 GPT-4V 的图像 API，而且调教的比较好，我用一
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _昨天看到零一智能的模型在 Huggingface..._ by @op7418 on Twitter
-*** [View Tweet](https://twitter.com/op7418/status/1722909707860595074)
+*** [[https://twitter.com/op7418/status/1722909707860595074][View Tweet]]

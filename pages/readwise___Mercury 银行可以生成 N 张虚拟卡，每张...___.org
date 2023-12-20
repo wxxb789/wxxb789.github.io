@@ -2,6 +2,8 @@
 :title: readwise/Mercury 银行可以生成 N 张虚拟卡，每张...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[tualatrix on Twitter]]
 :full-title: "Mercury 银行可以生成 N 张虚拟卡，每张..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/675270246509350912/lV9-F5ey.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Mercury 银行可以生成 N 张虚拟卡，每张卡可以设定不同周期的消费额度、并限制在某个商家（如 OpenAI）。假如它们做坏事乱扣你钱，直接把卡注销了就好。
@@ -21,4 +23,4 @@ Mercury 银行可以生成 N 张虚拟卡，每张卡可以设定不同周期的
 #+END_QUOTE
     date:: [[2023-11-15]]
 *** from _Mercury 银行可以生成 N 张虚拟卡，每张..._ by @tualatrix on Twitter
-*** [View Tweet](https://twitter.com/tualatrix/status/1724586986621821309)
+*** [[https://twitter.com/tualatrix/status/1724586986621821309][View Tweet]]

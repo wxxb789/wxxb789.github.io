@@ -2,6 +2,8 @@
 :title: readwise/ChatGPT Is Great for Stu...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[JorisTechTalk on Twitter]]
 :full-title: "ChatGPT Is Great for Stu..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1658421689259024386/UTSIX9cO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 ChatGPT is great for studying.
@@ -27,7 +29,7 @@ Let's dive into the workflow and code 🧵
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865629249339393)
+*** [[https://twitter.com/JorisTechTalk/status/1671865629249339393][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Before we dive in, this is day 3 of my '7 days of LangChain'.
@@ -42,7 +44,7 @@ Let's dive in:
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865632994861059)
+*** [[https://twitter.com/JorisTechTalk/status/1671865632994861059][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 High-level overview:
@@ -56,7 +58,7 @@ High-level overview:
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865641345732609)
+*** [[https://twitter.com/JorisTechTalk/status/1671865641345732609][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. Load study material
@@ -69,7 +71,7 @@ Since it splits this into multiple pages, add all text to a single text variable
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865649453228035)
+*** [[https://twitter.com/JorisTechTalk/status/1671865649453228035][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. Split text into chunks
@@ -82,7 +84,7 @@ Larger context window = better understanding and fewer API calls.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865656705155076)
+*** [[https://twitter.com/JorisTechTalk/status/1671865656705155076][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. Create your prompts.
@@ -97,7 +99,7 @@ Try it yourself and see what works best.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865665400066048)
+*** [[https://twitter.com/JorisTechTalk/status/1671865665400066048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. Initialize and run the summary chain
@@ -112,7 +114,7 @@ Always play around with structuring your prompts.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865674124210177)
+*** [[https://twitter.com/JorisTechTalk/status/1671865674124210177][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. Save the mindmap to a markdown file
@@ -125,7 +127,7 @@ Just saving it to import it to Xmind later.
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865682076598274)
+*** [[https://twitter.com/JorisTechTalk/status/1671865682076598274][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. Import the markdown file into @XmindHQ.
@@ -136,7 +138,7 @@ This is still a manual step. Will look into automating this as well. https://t.c
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865728461406210)
+*** [[https://twitter.com/JorisTechTalk/status/1671865728461406210][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That's day 3 out of '7 days of Langchain' done.
@@ -147,7 +149,7 @@ Still looking for a project for tomorrow. What do you want me to cover?
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865732135567360)
+*** [[https://twitter.com/JorisTechTalk/status/1671865732135567360][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Day 3 of '7 days of @LangChainAI' ✅
@@ -158,4 +160,4 @@ What else do you want to see?
 #+END_QUOTE
     date:: [[2023-06-23]]
 *** from _ChatGPT Is Great for Stu..._ by @JorisTechTalk on Twitter
-*** [View Tweet](https://twitter.com/JorisTechTalk/status/1671865734375284736)
+*** [[https://twitter.com/JorisTechTalk/status/1671865734375284736][View Tweet]]

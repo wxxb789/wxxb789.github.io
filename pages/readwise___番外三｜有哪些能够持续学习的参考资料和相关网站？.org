@@ -2,6 +2,8 @@
 :title: readwise/番外三｜有哪些能够持续学习的参考资料和相关网站？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "番外三｜有哪些能够持续学习的参考资料和相关网站？"
@@ -11,42 +13,42 @@
 :image-url: https://static001.geekbang.org/resource/image/34/31/34bbdf7f6b5ef0871b214fd098d34931.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 建立理财观：《富爸爸穷爸爸》 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjq1qe4sb6jwf7jh0gkpp1)
+*** [[https://read.readwise.io/read/01gxzjq1qe4sb6jwf7jh0gkpp1][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 投资指数基金：《漫步华尔街》 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjq52xmahvrdtpsw9khgs3)
+*** [[https://read.readwise.io/read/01gxzjq52xmahvrdtpsw9khgs3][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 了解对冲基金历史：《富可敌国：对冲基金与新精英的崛起》 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjq9p5t1pnze2bqndsbdmv)
+*** [[https://read.readwise.io/read/01gxzjq9p5t1pnze2bqndsbdmv][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 机器学习入门：《机器学习》 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjqc6pa2kz06aq27zs2bbr)
+*** [[https://read.readwise.io/read/01gxzjqc6pa2kz06aq27zs2bbr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 价值投资圣经：《巴菲特致股东的信》 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjqfyxm31gxv394f9p0axr)
+*** [[https://read.readwise.io/read/01gxzjqfyxm31gxv394f9p0axr][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 巴菲特从来不使用艰深的术语或模型，而是用平实却深刻的语言来讲道理，所以这些资料也基本没有阅读门槛。但是，因为这些信内容丰富，信息量很大，需要你投入大量时间消化理解。如果你有精力，最好是读英文版的。我把中英文版本的资料链接都放在了这里，你可以根据自己的需要来学习。
@@ -57,7 +59,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjqn06sj9p8h6ag8d20k32)
+*** [[https://read.readwise.io/read/01gxzjqn06sj9p8h6ag8d20k32][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 深度学习的经典教材：《神经网络与深度学习》
@@ -66,7 +68,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjqttr2n2vhyke2a1zsckp)
+*** [[https://read.readwise.io/read/01gxzjqttr2n2vhyke2a1zsckp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 行业分析框架：各券商研究所的研究报告
@@ -83,7 +85,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjratamyzf1v2bf7a95kgy)
+*** [[https://read.readwise.io/read/01gxzjratamyzf1v2bf7a95kgy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 多因子模型：Barra USE3 handbook（美国股票风险模型手册第 3 版）
@@ -92,7 +94,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjrewk603am2mvgthgtfk3)
+*** [[https://read.readwise.io/read/01gxzjrewk603am2mvgthgtfk3][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 因子投资：《因子投资：方法与实践》
@@ -101,7 +103,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjrhak8p0mbb54eek18twm)
+*** [[https://read.readwise.io/read/01gxzjrhak8p0mbb54eek18twm][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 量化分析圣经：《主动投资组合管理》
@@ -112,11 +114,11 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjrrszvgtzjc5cbtvefacb)
+*** [[https://read.readwise.io/read/01gxzjrrszvgtzjc5cbtvefacb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 tushare有数据 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _番外三｜有哪些能够持续学习的参考资料和相关网站？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjs65pb3ec1ws26dbfw0x2)
+*** [[https://read.readwise.io/read/01gxzjs65pb3ec1ws26dbfw0x2][View Highlight]]

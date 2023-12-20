@@ -2,6 +2,8 @@
 :title: readwise/05｜支点投资法：主动投资是讲逻辑的！
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "05｜支点投资法：主动投资是讲逻辑的！"
@@ -11,14 +13,14 @@
 :image-url: https://static001.geekbang.org/resource/image/0b/39/0bcb2a80b1a45c96c023582150a5b139.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 我首先要纠正的是，长期稳定的 6.8% 的年化收益其实是一个非常优秀的收益率，而能够不受诱惑，十几年如一日地坚持永久组合的配置，本身就是一件极难做到的事情。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb2sa078kfdmcbxg4pnhyg)
+*** [[https://read.readwise.io/read/01gxjb2sa078kfdmcbxg4pnhyg][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 个人情绪是所有投资者的“公敌”
@@ -27,28 +29,28 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb4kqqpw6rynkncy8vzjye)
+*** [[https://read.readwise.io/read/01gxjb4kqqpw6rynkncy8vzjye][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 支点投资法 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb5ctwwmjz60k71w10rz5n)
+*** [[https://read.readwise.io/read/01gxjb5ctwwmjz60k71w10rz5n][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 所谓“支点投资法”，就是要先为你所有的投资行为寻找一个逻辑支点，之后随着时间的推移，不断去验证这个支点还存不存在。一旦这个支点消失，就要毅然决然地选择结束这次投资行为。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb5fzyy9nk85qpsr75ttxy)
+*** [[https://read.readwise.io/read/01gxjb5fzyy9nk85qpsr75ttxy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/68/cc/6851c41339dfd66d0891e916f58f5dcc.jpg?wh=2248x1076) 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb5kww8ac5jzxeef7xmr9w)
+*** [[https://read.readwise.io/read/01gxjb5kww8ac5jzxeef7xmr9w][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 支点投资法主要分为三个阶段，分别是“建仓阶段”“验证阶段”和“退出阶段”。
@@ -61,7 +63,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb6d858fgg8ax8bv52r1c9)
+*** [[https://read.readwise.io/read/01gxjb6d858fgg8ax8bv52r1c9][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 止盈和止损的本质是什么？
@@ -72,7 +74,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjb9wgygppa80dndjk8713b)
+*** [[https://read.readwise.io/read/01gxjb9wgygppa80dndjk8713b][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在这里，我们再从三个不同的角度，用三句话来“翻译翻译”什么叫作“投资支点的崩塌”。
@@ -87,7 +89,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjba2s34g2jg05047wefq0s)
+*** [[https://read.readwise.io/read/01gxjba2s34g2jg05047wefq0s][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 永久组合 6.8% 的年化收益其实是一个非常优秀的收益率，想要通过主动投资获得超过它的收益率，并不是一件容易的事情；
@@ -102,18 +104,18 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjbjxajfqkrxwns8k8q7sqy)
+*** [[https://read.readwise.io/read/01gxjbjxajfqkrxwns8k8q7sqy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 其实每一次投资都当成一次项目来弄，想想工作中的pdca闭环（ plan 计划 do 事实check 检查 act 复牌改进），工作中是不是每次执行一个pdca都会有涨进。投资也是的。投资计划，执行笔记，检查，复牌一次完整买卖逻辑改进交易体系。 高手和新手主要是面对一次失败投资的心态，高手视为一种提升策略的固定成本，新手患得患失。 再来个我投资老师教的小tip，80%资产放到配置，20%的资产主动投资，这样主动投资亏损不会应为仓位太重心态失衡。还有一个就是每次买入强迫自己三个月建仓，给自己留个后路啊。 其实配置能到年化15%，只需要简单的再平衡就可以。再平衡真是投资界免费的晚餐。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjbkgsjrex5m9kx9jb1jk85)
+*** [[https://read.readwise.io/read/01gxjbkgsjrex5m9kx9jb1jk85][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 推荐一本书《止损：如何克服贪婪和恐惧》 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _05｜支点投资法：主动投资是讲逻辑的！_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjbxc6fmxv1e0zy0ve5t7fe)
+*** [[https://read.readwise.io/read/01gxjbxc6fmxv1e0zy0ve5t7fe][View Highlight]]

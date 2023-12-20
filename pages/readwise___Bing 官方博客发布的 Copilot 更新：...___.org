@@ -2,6 +2,8 @@
 :title: readwise/Bing 官方博客发布的 Copilot 更新：...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "Bing 官方博客发布的 Copilot 更新：..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Bing 官方博客发布的 Copilot 更新：
@@ -27,7 +29,7 @@ GPT-4 Turbo 升级 – 很快，Copilot 将能使用 OpenAI 的最新模型 GPT-
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _Bing 官方博客发布的 Copilot 更新：..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732198994145591383)
+*** [[https://twitter.com/dotey/status/1732198994145591383][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 多模态与搜索基础 – 我们结合了 GPT-4 的强大能力和视觉技术，通过 Bing 图像搜索和网络搜索数据，提升了对您查询内容的图像理解。这项新技能不久后就会推出。
@@ -38,14 +40,14 @@ GPT-4 Turbo 升级 – 很快，Copilot 将能使用 OpenAI 的最新模型 GPT-
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _Bing 官方博客发布的 Copilot 更新：..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732199040182374578)
+*** [[https://twitter.com/dotey/status/1732199040182374578][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 效果确实令人印象深刻。如下例所示，传统的多模态系统只能大致描述图片内容，但有了搜索基础，我们能够精准识别出具体的航天飞机及其发射日期。 <video controls><source src="https://video.twimg.com/tweet_video/GAoB712X0AAYVoo.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _Bing 官方博客发布的 Copilot 更新：..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732199152430293201)
+*** [[https://twitter.com/dotey/status/1732199152430293201][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 代码解释器 - 我们正在研发新功能，帮助您完成更精确的计算、编码、数据分析、可视化、数学等复杂任务。我们正在向一批选定用户收集反馈，计划不久后广泛推出。
@@ -56,7 +58,7 @@ Copilot 强大的 Python 环境运行在基于 Azure 容器应用构建的安全
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _Bing 官方博客发布的 Copilot 更新：..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732199255597531484)
+*** [[https://twitter.com/dotey/status/1732199255597531484][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 视频理解与问答 - Copilot in Edge。现在，您可以在 Edge 浏览器观看视频时，对视频进行总结或提问。例如，观看 Satya 的最新 Ignite 主题演讲的 YouTube 视频时，您可以让 Copilot 为您进行总结，如下面的截图所示。 
@@ -65,11 +67,11 @@ Copilot 强大的 Python 环境运行在基于 Azure 容器应用构建的安全
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _Bing 官方博客发布的 Copilot 更新：..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732199370928337134)
+*** [[https://twitter.com/dotey/status/1732199370928337134][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 原文：https://t.co/oNDOYMppSk 
 #+END_QUOTE
     date:: [[2023-12-06]]
 *** from _Bing 官方博客发布的 Copilot 更新：..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1732199373579203059)
+*** [[https://twitter.com/dotey/status/1732199373579203059][View Tweet]]

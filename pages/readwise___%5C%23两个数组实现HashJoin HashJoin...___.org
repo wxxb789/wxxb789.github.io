@@ -2,6 +2,8 @@
 :title: readwise/\#两个数组实现HashJoin HashJoin...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[cystokMsk on Twitter]]
 :full-title: "\#两个数组实现HashJoin HashJoin..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1606365898134020096/_4LduaUy.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #两个数组实现HashJoin
@@ -27,11 +29,11 @@ probe阶段用大表每行去first和next数组里匹配
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _#两个数组实现HashJoin HashJoin..._ by @cystokMsk on Twitter
-*** [View Tweet](https://twitter.com/cystokMsk/status/1606942124221825025)
+*** [[https://twitter.com/cystokMsk/status/1606942124221825025][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 看起来很简单，像玩具，但却是工业级的实现 
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _#两个数组实现HashJoin HashJoin..._ by @cystokMsk on Twitter
-*** [View Tweet](https://twitter.com/cystokMsk/status/1606943158092595205)
+*** [[https://twitter.com/cystokMsk/status/1606943158092595205][View Tweet]]

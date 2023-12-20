@@ -2,6 +2,8 @@
 :title: readwise/🦜 LLM Lit Review 🦜 Toda...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[full_stack_dl on Twitter]]
 :full-title: "🦜 LLM Lit Review 🦜 Toda..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1536728536571998210/qRay1VHA.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🦜 LLM Lit Review 🦜
@@ -25,14 +27,14 @@ https://t.co/sY6Ava8awA
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999513923960833)
+*** [[https://twitter.com/full_stack_dl/status/1643999513923960833][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Along with @jacobandreas's "LMs as Agent Models" (see linked thread) this paper is part of a small body of academic work taking seriously the idea that LMs can be used as _simulators_ of agents -- as creators of _simulacra_. 
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999518290247680)
+*** [[https://twitter.com/full_stack_dl/status/1643999518290247680][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 (@charles_irl, manager of this account, wants to here interject that he "no longer regrets trying to understand Baudrillard in college") 
@@ -41,7 +43,7 @@ Along with @jacobandreas's "LMs as Agent Models" (see linked thread) this paper 
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999525403774978)
+*** [[https://twitter.com/full_stack_dl/status/1643999525403774978][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The authors describe and analyze an LM-assisted design process for online social spaces.
@@ -54,7 +56,7 @@ This concrete example is helpful:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999533310033922)
+*** [[https://twitter.com/full_stack_dl/status/1643999533310033922][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The authors are clear that the "Social Simulacra" are not a silver bullet for the design of online social spaces, nor are they "predictions of the future", nor do they capture the full range of human interactions.
@@ -63,7 +65,7 @@ But they're still useful, for two reasons:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999537084923911)
+*** [[https://twitter.com/full_stack_dl/status/1643999537084923911][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1) As the authors point out repeatedly, the bar here is low. Social spaces are designed via mid-flight repair, with a lot of "testing in production", aka failing in public, and the stakes involve actual human communities. Lots of folks are dissatisfied with this! 
@@ -72,7 +74,7 @@ But they're still useful, for two reasons:
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999545318334465)
+*** [[https://twitter.com/full_stack_dl/status/1643999545318334465][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 And the low barrier to utility is doubly true of the prototyping phase, which is where they put their focus in this paper. 
@@ -81,21 +83,21 @@ And the low barrier to utility is doubly true of the prototyping phase, which is
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999552989728769)
+*** [[https://twitter.com/full_stack_dl/status/1643999552989728769][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2) It's not directly mentioned in the paper, but the vast majority of content on the internet is "low effort". It's not expert humans at their best, it's distracted humans faffing around. The latter is an easier target for LMs to simulate and has more abundant data. 
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999556210937857)
+*** [[https://twitter.com/full_stack_dl/status/1643999556210937857][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Which is to say: maybe we can come together from across the spectrum of positions on capabilities to agree that an LM makes for a solid artificial troll? 
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999558861750279)
+*** [[https://twitter.com/full_stack_dl/status/1643999558861750279][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 There's a lot more to the paper, including a demonstration that annotators perform near random chance when trying to distinguish simulated from real Reddit threads (left) and an interview study on test users of their system (right). 
@@ -106,7 +108,7 @@ There's a lot more to the paper, including a demonstration that annotators perfo
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999571662733312)
+*** [[https://twitter.com/full_stack_dl/status/1643999571662733312][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you want to learn more about LMs, follow us here on Twitter, subscribe to our mailing list, or join our upcoming bootcamp in SF at the end of April!
@@ -115,7 +117,7 @@ https://t.co/tNJpxX8iEe
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999574900744194)
+*** [[https://twitter.com/full_stack_dl/status/1643999574900744194][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Author @carryveggies is doing some of the best work on UX and LMs right now.
@@ -128,4 +130,4 @@ You can also find the other authors here on Twitter! @joon_s_park, @lindsaypopow
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _🦜 LLM Lit Review 🦜 Toda..._ by @full_stack_dl on Twitter
-*** [View Tweet](https://twitter.com/full_stack_dl/status/1643999577673175040)
+*** [[https://twitter.com/full_stack_dl/status/1643999577673175040][View Tweet]]

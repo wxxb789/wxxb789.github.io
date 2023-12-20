@@ -2,6 +2,8 @@
 :title: readwise/从AutoGPT谈起，看大语言模型使用工具的发展...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[realrenmin on Twitter]]
 :full-title: "从AutoGPT谈起，看大语言模型使用工具的发展..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 从AutoGPT谈起，看大语言模型使用工具的发展
@@ -25,7 +27,7 @@ AutoGPT的目的是让大语言模型使用外部工具（例如google）完成�
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638759256150017)
+*** [[https://twitter.com/realrenmin/status/1646638759256150017][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/12
@@ -46,7 +48,7 @@ https://t.co/Y3IWPhY1Z1
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638767669915648)
+*** [[https://twitter.com/realrenmin/status/1646638767669915648][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/12 仔细看一下prompt message
@@ -59,7 +61,7 @@ https://t.co/Y3IWPhY1Z1
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638774405988352)
+*** [[https://twitter.com/realrenmin/status/1646638774405988352][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/12 阅读我之前的CoT和ReAct的读者已经知道，大语言模型的推理（reasoning）是一种涌现行为，具体指:
@@ -69,7 +71,7 @@ https://t.co/nuNjFCcDAL
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638777446850565)
+*** [[https://twitter.com/realrenmin/status/1646638777446850565][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/12 可以确定的是，AutoGPT的prompting 方式没有显性的引入CoT，所以没有解锁reasoning。
@@ -80,7 +82,7 @@ https://t.co/nuNjFCcDAL
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638780215070720)
+*** [[https://twitter.com/realrenmin/status/1646638780215070720][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/12 大语言模型学习使用工具和调用api的发展历程，大概以CoT和ReAct为界。
@@ -93,7 +95,7 @@ https://t.co/R7P6nuC92F
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638787840315393)
+*** [[https://twitter.com/realrenmin/status/1646638787840315393][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/12 ReAct 将CoT动态地引入到LLM学习call api的过程中，用CoT大道至简的思想，让LLM在完成api calling这个decision making前，具有推理过程，轻量级地解决了模型学习api的问题。
@@ -102,7 +104,7 @@ https://t.co/R7P6nuC92F
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638791028006912)
+*** [[https://twitter.com/realrenmin/status/1646638791028006912][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/12 ReAct的进阶MM-REACT
@@ -117,7 +119,7 @@ https://t.co/68b2OWlhCy
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638797902471172)
+*** [[https://twitter.com/realrenmin/status/1646638797902471172][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/12 当我们回顾LLM的使用工具的发展，随着模型越来越大，带来的变化是：
@@ -126,7 +128,7 @@ https://t.co/68b2OWlhCy
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638801694109697)
+*** [[https://twitter.com/realrenmin/status/1646638801694109697][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/12 在这一潮流中
@@ -139,7 +141,7 @@ MM-ReAct进一步将拓展了语言模型的应用边界，超越了语言文字
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638804512686083)
+*** [[https://twitter.com/realrenmin/status/1646638804512686083][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/12 如果此时在此回看AutoGPT, 发现它在middle of no where，它是prompting的本质，既没有reinforcement learning的加持，又没有CoT，它像一个实习生，动力十足，但思维跟不上。
@@ -148,7 +150,7 @@ MM-ReAct进一步将拓展了语言模型的应用边界，超越了语言文字
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638807293493248)
+*** [[https://twitter.com/realrenmin/status/1646638807293493248][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/12 如果你喜欢我的读书笔记，请关注@realrenmin
@@ -159,4 +161,4 @@ thread中有任何错误和疑问，欢迎指出，大家一起讨论，共同�
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _从AutoGPT谈起，看大语言模型使用工具的发展..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1646638809919131648)
+*** [[https://twitter.com/realrenmin/status/1646638809919131648][View Tweet]]

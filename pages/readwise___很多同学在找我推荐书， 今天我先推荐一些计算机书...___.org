@@ -2,6 +2,8 @@
 :title: readwise/很多同学在找我推荐书， 今天我先推荐一些计算机书...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[manateelazycat on Twitter]]
 :full-title: "很多同学在找我推荐书， 今天我先推荐一些计算机书..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/768239262/HaskellIcon.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 很多同学在找我推荐书， 今天我先推荐一些计算机书。
@@ -23,70 +25,70 @@
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674003806168977408)
+*** [[https://twitter.com/manateelazycat/status/1674003806168977408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. C++： C++完全手册， 2000多页， 我高三看的一本书， 全英文， 但是讲的真的太详细了， 而且还有很多实战例子写的非常不错。 作者是C++标准委员会成员， 内容很权威。 20年过去了，不知道有没有更好的C++书籍？ 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674004367018721280)
+*** [[https://twitter.com/manateelazycat/status/1674004367018721280][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. Hasekll： Real World Haskell 一定要推荐这本书， Don Stewart大佬写的， 第一本讲解决真实工程问题的Haskell书籍， 以前其他书籍都太偏学术了， 不接地气。如果是初学， 我建议读 Miran Lipovaca 的《Learn You A Haskell》， 写的诙谐幽默，很有水平。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674005275513352192)
+*** [[https://twitter.com/manateelazycat/status/1674005275513352192][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. Elisp： Emacs自带的 GNU Emacs Lisp Reference Manual, 花几个月通读一遍， 基本上90%的Emacs和Elisp的问题都可以自己搞定。写牛逼插件就更不在话下。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674005776346791936)
+*** [[https://twitter.com/manateelazycat/status/1674005776346791936][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. Rust： 只推荐一本《Rust语言圣经》，其他的Rust书籍不注重循序渐进， 太过于炫技， 导致很多Rust初学者读几章都直接劝退了。 希望这本书后面1/5质量再提升一下， 前面4/5都写的非常非常好， 深入浅出。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674006217361072136)
+*** [[https://twitter.com/manateelazycat/status/1674006217361072136][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. 正则表达式： 也是一本书足矣《精通正则表达式》，Yahoo工程师写的，非常薄，只要读完， 啥正则都会写， 包括分组等高级用法。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674006475788914694)
+*** [[https://twitter.com/manateelazycat/status/1674006475788914694][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7. 重构：《重构 改善既有代码设计》，这本书从最小的地方教你怎么快速重构代码，写出高质量代码。 推荐每个写代码的同学都读一下， 其中重构思想简单容易掌握， 一点都不深奥。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674006738591444992)
+*** [[https://twitter.com/manateelazycat/status/1674006738591444992][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8. Qt/Gtk: 图形编程首推 ZetCode 的在线教程 https://t.co/SA2Ie8Q7Zu ， 篇幅很小， 但是都是代码实践， 核心API讲解， 特别适合图形编程的入门学习。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674007041025916928)
+*** [[https://twitter.com/manateelazycat/status/1674007041025916928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9. 加解密：如果你对非对称加密、加解密以及安全体系的可信根很多概念只是知道名字， 不知道底层原理， 一定首推日本作家结城浩的《图解密码技术》， 一行代码不写， 只通过画架构图让你明白密码领域常用的各种技术以及流程，让你对加解密会有一个体系化的理解， 不会再创造一些自己认为安全的‘弱方案’ 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674007895766347777)
+*** [[https://twitter.com/manateelazycat/status/1674007895766347777][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10. Git: 我写 eaf-git 客户端 https://t.co/Hf0X6bJfkL 之前恶补了一下Git的底层知识， 推荐《Pro Git》这本书， 主要告诉你Git底层文件存储的格式， 你可以基于文件的格式自己编写很多Git高级命令。 
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674008306766188549)
+*** [[https://twitter.com/manateelazycat/status/1674008306766188549][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最后，上面就是我分享的一些IT相关的书籍， 希望对大家的学习有用。
@@ -95,4 +97,4 @@
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _很多同学在找我推荐书， 今天我先推荐一些计算机书..._ by @manateelazycat on Twitter
-*** [View Tweet](https://twitter.com/manateelazycat/status/1674009200865984512)
+*** [[https://twitter.com/manateelazycat/status/1674009200865984512][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/Why Spend Time Reading T...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[akshatvig on Twitter]]
 :full-title: "Why Spend Time Reading T..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1583665064611315715/gVX99Bu_.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Why spend time reading technical papers and how to maximize the learnings from reading them?
@@ -19,7 +21,7 @@ A twitter 🧵on a crucial yet often overlooked skill on reading technical paper
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688145420361728)
+*** [[https://twitter.com/akshatvig/status/1605688145420361728][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Why I read technical papers?
@@ -28,7 +30,7 @@ I read technical papers to gain insights that can be applied to my work & to dee
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688149107253259)
+*** [[https://twitter.com/akshatvig/status/1605688149107253259][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 How do I pick which paper to read?
@@ -37,7 +39,7 @@ I seek recommendations from experts or individuals who frequently engage in read
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688152525623296)
+*** [[https://twitter.com/akshatvig/status/1605688152525623296][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Other approaches I follow to generate a list of papers to read:
@@ -50,7 +52,7 @@ Other approaches I follow to generate a list of papers to read:
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688154744246272)
+*** [[https://twitter.com/akshatvig/status/1605688154744246272][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 How I read a paper?
@@ -63,7 +65,7 @@ How I read a paper?
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688157994983424)
+*** [[https://twitter.com/akshatvig/status/1605688157994983424][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The first pass is a rapid overview of the paper, in which I gain a broad understanding by reading the title, abstract, and introduction, as well as the conclusions.
@@ -72,21 +74,21 @@ I also scan the section and subsection headings, but not concern myself with the
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688160373313536)
+*** [[https://twitter.com/akshatvig/status/1605688160373313536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Upon completing the initial pass, I have a high level understanding of the paper's type, any similar papers I have read in the past, main contributions of the paper, and overall quality of the work. This also allows me to contextualize the paper & assess its value to my interests 
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688163032244225)
+*** [[https://twitter.com/akshatvig/status/1605688163032244225][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 During the second pass, I begin by searching for the paper online. If the paper was presented at a conference, I may be able to find a video by one of the authors. By watching this video, I gain a better understanding of the key points being emphasized by the presenter. 
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688166933045267)
+*** [[https://twitter.com/akshatvig/status/1605688166933045267][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 After the first or second pass, I often discard most of the papers that I have read. Various reasons for discarding include  insufficient knowledge of the subject matter, unfavorable impression of the paper.
@@ -95,21 +97,21 @@ Time is currency and it is important to be selective.
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688170225483778)
+*** [[https://twitter.com/akshatvig/status/1605688170225483778][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 During the third pass, I carefully read the details in the sections after the introduction and make note of key points that stand out to me, whether positively or negatively. After completing this thorough reading, I should be able to summarize the paper. 
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688174742642688)
+*** [[https://twitter.com/akshatvig/status/1605688174742642688][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The third pass is similar to performing code/design reviews for my peers, where I effectively rewrite the code on a piece of paper to fully comprehend the choices made, alternative options that could have been considered, and potential pitfalls. 
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688176407740417)
+*** [[https://twitter.com/akshatvig/status/1605688176407740417][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Blogs I follow https://t.co/kvATbk1ki9 https://t.co/Il4HaoLQLY  and similar ideas presented in this paper on how to read a paper https://t.co/QDvhaetGF1 
@@ -118,11 +120,11 @@ Please share your thoughts if you follow a different approach, I am interested i
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688178907586560)
+*** [[https://twitter.com/akshatvig/status/1605688178907586560][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 An example of a paper that I read and found helpful for gaining a deeper understanding of distributed transactions is - Timestamp based ordering for concurrency control where serialization order is selected a priori & without clock synchronization https://t.co/nyj6m78AJU 
 #+END_QUOTE
     date:: [[2022-12-22]]
 *** from _Why Spend Time Reading T..._ by @akshatvig on Twitter
-*** [View Tweet](https://twitter.com/akshatvig/status/1605688180724076544)
+*** [[https://twitter.com/akshatvig/status/1605688180724076544][View Tweet]]

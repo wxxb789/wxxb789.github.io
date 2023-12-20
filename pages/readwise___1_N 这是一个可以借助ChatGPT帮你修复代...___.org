@@ -2,6 +2,8 @@
 :title: readwise/1_N 这是一个可以借助ChatGPT帮你修复代...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "1/N 这是一个可以借助ChatGPT帮你修复代..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/n 这是一个可以借助ChatGPT帮你修复代码错误的程序，prompt写的很巧妙，感谢 @zhangjintao9020 推荐
@@ -20,7 +22,7 @@ https://t.co/je1sgwyLak
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _1/N 这是一个可以借助ChatGPT帮你修复代..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646273281215823877)
+*** [[https://twitter.com/dotey/status/1646273281215823877][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/n 首先它定义了一个prompt，这是整个程序的精华所在，prompt要求GPT提供JSON格式的返回结果，结果中包含“代码解释”或“操作”。
@@ -33,7 +35,7 @@ https://t.co/je1sgwyLak
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _1/N 这是一个可以借助ChatGPT帮你修复代..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646273283216617475)
+*** [[https://twitter.com/dotey/status/1646273283216617475][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/n 用一个循环执行这样的操作：
@@ -44,7 +46,7 @@ https://t.co/je1sgwyLak
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _1/N 这是一个可以借助ChatGPT帮你修复代..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646273288115560450)
+*** [[https://twitter.com/dotey/status/1646273288115560450][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 n/n 整个原理不复杂，但是配合prompt很巧妙，值得借鉴！
@@ -54,4 +56,4 @@ https://t.co/XbJKaX2XSb
 #+END_QUOTE
     date:: [[2023-04-13]]
 *** from _1/N 这是一个可以借助ChatGPT帮你修复代..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1646273289898057728)
+*** [[https://twitter.com/dotey/status/1646273289898057728][View Tweet]]

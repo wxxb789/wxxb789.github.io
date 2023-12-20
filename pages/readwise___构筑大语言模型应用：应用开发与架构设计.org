@@ -2,6 +2,8 @@
 :title: readwise/构筑大语言模型应用：应用开发与架构设计
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[phodal.com]]
 :full-title: "构筑大语言模型应用：应用开发与架构设计"
@@ -10,7 +12,7 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 **狭义的 Prompt 工程**专注于 AI 领域的 Prompt 优化，即通过优化任务描述来提高自然语言处理模型的性能。典型的做法是将一个或多个任务转换为基于提示的数据集，并通过所谓的“基于提示的学习”来训练语言模型。这有助于训练大型语言模型 ( LLM)，使 AI 能更好地理解需求并完成专业任务。
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-07-12]]
 *** from _构筑大语言模型应用：应用开发与架构设计_ by phodal.com
-*** [View Highlight](https://read.readwise.io/read/01h54kxntmpfc990f1aqb3bg8p)
+*** [[https://read.readwise.io/read/01h54kxntmpfc990f1aqb3bg8p][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 **结论**
@@ -34,7 +36,7 @@
 #+END_QUOTE
     date:: [[2023-07-12]]
 *** from _构筑大语言模型应用：应用开发与架构设计_ by phodal.com
-*** [View Highlight](https://read.readwise.io/read/01h54kxsb19xv4ph8q5cwga68j)
+*** [[https://read.readwise.io/read/01h54kxsb19xv4ph8q5cwga68j][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 [什么时候考虑微调？](https://aigc.phodal.com/misc/faq.html#什么时候考虑微调)
@@ -55,7 +57,7 @@
 #+END_QUOTE
     date:: [[2023-07-12]]
 *** from _构筑大语言模型应用：应用开发与架构设计_ by phodal.com
-*** [View Highlight](https://read.readwise.io/read/01h54ky2vxc5jswjz9rqvadnfw)
+*** [[https://read.readwise.io/read/01h54ky2vxc5jswjz9rqvadnfw][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 [个人的策略？](https://aigc.phodal.com/misc/faq.html#个人的策略)
@@ -71,4 +73,4 @@
 #+END_QUOTE
     date:: [[2023-07-12]]
 *** from _构筑大语言模型应用：应用开发与架构设计_ by phodal.com
-*** [View Highlight](https://read.readwise.io/read/01h54kykymd5xa3pg9barxax8v)
+*** [[https://read.readwise.io/read/01h54kykymd5xa3pg9barxax8v][View Highlight]]

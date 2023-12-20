@@ -2,6 +2,8 @@
 :title: readwise/写代码这么些年以来我个人认为最浪费时间和效率最低...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[jeffdylan535 on Twitter]]
 :full-title: "写代码这么些年以来我个人认为最浪费时间和效率最低..."
@@ -10,56 +12,56 @@
 :image-url: https://pbs.twimg.com/profile_images/1622478931680198656/k89qzVrV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 写代码这么些年以来我个人认为最浪费时间和效率最低的方式是“找本书来读”。尤其是cpp这条恶棍，书写了一本又一本，标准搞了一套又一套，写起代码来里面各种刁难人的奇技淫巧。到最后你会发现自己丧失了对计算机，写代码，赚钱找工作这事的全局理解。编程不是孤立的，你要玩孤立的技术可以从 C 语言👇 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471212539879455)
+*** [[https://twitter.com/jeffdylan535/status/1735471212539879455][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 开始，然后慢慢过渡到Linux。C语言简单纯粹，一本不到200页的K and R就能教你最基本的编码，unix系统接口。然后Python，Java以及后来的Go写代码更香了。以前总认为复杂的技术“更值钱”。实际上“值钱”是个更复杂的事情，至少跟c++那种复杂没有任何关系。 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471214808965408)
+*** [[https://twitter.com/jeffdylan535/status/1735471214808965408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我当年一起工作的同事，一直搞Java。后来时间长了后发现他当年被学校批量生产的这个技术真是个好技术。生态简直无敌，从那什么j2ee，到Android，再到spring Boot。哪里需要搞恶棍那些破事。 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471217040339135)
+*** [[https://twitter.com/jeffdylan535/status/1735471217040339135][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 编程领域另一条恶棍就是算法。编程等于数据结构+算法也是个谣言，难道有了这两样后你就不用理解，需求读别人代码和debug了？算法那一堆书也是又臭又长，读起来实在想砍作者。还不如被leetcode锤炼几百道题后理解得深刻。它的讨论区都比很多算法书写得要简单实在。 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471219154292939)
+*** [[https://twitter.com/jeffdylan535/status/1735471219154292939][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 后来我还发现一些经典的技术和一些领域的root理解后，对整个领域都会有深刻认识。比如gfs，raft，bitcoin论文。花点时间去这些著名论文是非常划算的事情。这些都相当于领域root。懂了后很多事情一通百通。 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471221259768262)
+*** [[https://twitter.com/jeffdylan535/status/1735471221259768262][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 还有些领域流程比细节重要。比如：加解密领域。作为程序员你不需要理解椭圆曲线一类的原理，但知道公钥私钥，和数据加解密流程比数学原理更重要。数学大佬和密码学专家设计的东西你只用知道他们哪些是被另一群大佬严格证明是安全的即可。 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471223302509022)
+*** [[https://twitter.com/jeffdylan535/status/1735471223302509022][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 当你技术不错，啥都能干后，大概率会选择一个工资高的公司去打工。然后在上班的时候你会发现扯皮，kpi，甩锅，老板的饼，三十岁危机各种技术外的破事应接不暇。如果不热爱的话，早晚有一天你会厌倦的。即使是技术大佬，他们的工作也是极其辛苦（即使他们本人不这样认为）。 
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471225529668076)
+*** [[https://twitter.com/jeffdylan535/status/1735471225529668076][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 看我吐槽到这里你可能会很好奇我是干啥的？我现在是一个公司（https://t.co/kZOWf0d2Z1）里面啥都干的打工人，最近做的产品是卡片式笔记  https://t.co/X5RMLe7a4z 
@@ -67,4 +69,4 @@
 #+END_QUOTE
     date:: [[2023-12-15]]
 *** from _写代码这么些年以来我个人认为最浪费时间和效率最低..._ by @jeffdylan535 on Twitter
-*** [View Tweet](https://twitter.com/jeffdylan535/status/1735471227337416915)
+*** [[https://twitter.com/jeffdylan535/status/1735471227337416915][View Tweet]]

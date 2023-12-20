@@ -2,6 +2,8 @@
 :title: readwise/早在2010年，kk就在天涯论坛上发表了一系列关...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[FlagofMuskox on Twitter]]
 :full-title: "早在2010年，kk就在天涯论坛上发表了一系列关..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1413558718940160000/eFsfcuLA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 早在2010年，KK就在天涯论坛上发表了一系列关于国内房地产发展的帖子，其中详细结合国情，对国内房地产市场的形势做出了独到的判断，站在今天的视角回顾过去十几年的楼市变迁，我们可以清晰地看到天涯KK对于国内房价和社会发展的预言几乎全部兑现
@@ -121,11 +123,11 @@
 #+END_QUOTE
     date:: [[2023-09-07]]
 *** from _早在2010年，kk就在天涯论坛上发表了一系列关..._ by @FlagofMuskox on Twitter
-*** [View Tweet](https://twitter.com/FlagofMuskox/status/1699406126205563087)
+*** [[https://twitter.com/FlagofMuskox/status/1699406126205563087][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 “股票和房地产不同，不能创造财富，只是财富再分配的工具。但是财富再分配是庄家分配散户的钱，而不是散户分配庄家的钱。因此，要在股市赚钱，需要具备庄家的思维方式。”——这一段话值得所有炒股和炒币的朋友反复研究学习，作为著名楼市预言家，KK即便面对另一个市场总结的也如此到位 https://t.co/IntMksULm2 
 #+END_QUOTE
     date:: [[2023-09-07]]
 *** from _早在2010年，kk就在天涯论坛上发表了一系列关..._ by @FlagofMuskox on Twitter
-*** [View Tweet](https://twitter.com/FlagofMuskox/status/1699411650422710751)
+*** [[https://twitter.com/FlagofMuskox/status/1699411650422710751][View Tweet]]

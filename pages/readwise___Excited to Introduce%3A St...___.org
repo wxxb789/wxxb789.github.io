@@ -2,6 +2,8 @@
 :title: readwise/Excited to Introduce: St...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[lvwerra on Twitter]]
 :full-title: "Excited to Introduce: St..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1664932984196145153/UDYifACN.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Excited to introduce: StackLlama🦙
@@ -27,7 +29,7 @@ The resulting model is surprisingly fun!🧵
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998302738759683)
+*** [[https://twitter.com/lvwerra/status/1643998302738759683][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The main goal of StackLlama is to serve as a tutorial and walkthrough on how to train models with RLHF and not primarily model performance.
@@ -38,7 +40,7 @@ That said the model is surprisingly comical at generating answers, e.g.: There i
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998306324959232)
+*** [[https://twitter.com/lvwerra/status/1643998306324959232][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Need advice to beat your co-workers at the next Mario cart competition? (👀 @qlhoest @mervenoyann) 
@@ -47,7 +49,7 @@ Need advice to beat your co-workers at the next Mario cart competition? (👀 @q
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998308736593921)
+*** [[https://twitter.com/lvwerra/status/1643998308736593921][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Want to ask better questions on StackOverflow that get good answers? 
@@ -56,7 +58,7 @@ Want to ask better questions on StackOverflow that get good answers?
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998311504855040)
+*** [[https://twitter.com/lvwerra/status/1643998311504855040][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Or maybe you just want to break the sound barrier on foot 🏃🏻‍♂️ 
@@ -65,7 +67,7 @@ Or maybe you just want to break the sound barrier on foot 🏃🏻‍♂️
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998313727893505)
+*** [[https://twitter.com/lvwerra/status/1643998313727893505][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Of course you can also ask it technical questions (correctness not guaranteed!): 
@@ -74,7 +76,7 @@ Of course you can also ask it technical questions (correctness not guaranteed!):
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998316357640192)
+*** [[https://twitter.com/lvwerra/status/1643998316357640192][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 If you are interested in learning how to train models with RLHF read the blog and have a look at the code posted above.
@@ -85,11 +87,11 @@ Keep in mind that this is a toy model and has limitations - see the model cards!
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643998318161285122)
+*** [[https://twitter.com/lvwerra/status/1643998318161285122][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 This was a collaboration with lots of great people involved: @edwardbeeching @younesbelkada @_lewtun @natolambert @nazneenrajani @YJernite @osanseviero and many more! 
 #+END_QUOTE
     date:: [[2023-04-07]]
 *** from _Excited to Introduce: St..._ by @lvwerra on Twitter
-*** [View Tweet](https://twitter.com/lvwerra/status/1643999415877640192)
+*** [[https://twitter.com/lvwerra/status/1643999415877640192][View Tweet]]

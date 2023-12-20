@@ -2,6 +2,8 @@
 :title: readwise/有没被满屏 Ai 之类的帖子弄烦了？要不试试系统...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[hemashushu on Twitter]]
 :full-title: "有没被满屏 Ai 之类的帖子弄烦了？要不试试系统..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 有没被满屏 AI 之类的帖子弄烦了？要不试试系统编程，找回自己的专注力？趁周末到来推荐三本非常nice，友善的书
@@ -25,7 +27,7 @@
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _有没被满屏 Ai 之类的帖子弄烦了？要不试试系统..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1684828603702501376)
+*** [[https://twitter.com/hemashushu/status/1684828603702501376][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 接）
@@ -36,4 +38,4 @@
 #+END_QUOTE
     date:: [[2023-07-28]]
 *** from _有没被满屏 Ai 之类的帖子弄烦了？要不试试系统..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1684828607829725184)
+*** [[https://twitter.com/hemashushu/status/1684828607829725184][View Tweet]]

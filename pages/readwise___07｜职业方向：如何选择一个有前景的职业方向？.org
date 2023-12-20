@@ -2,6 +2,8 @@
 :title: readwise/07｜职业方向：如何选择一个有前景的职业方向？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "07｜职业方向：如何选择一个有前景的职业方向？"
@@ -11,21 +13,21 @@
 :image-url: https://static001.geekbang.org/resource/image/3f/e4/3fa7f0d597856cb0d99d4bfd56be97e4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 一个职业方向好不好，可以从两个维度来判断：从长期来说，要看它的“高度”和“容量”；从短期来说，要看它的“供需关系”。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _07｜职业方向：如何选择一个有前景的职业方向？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjck0bvzfctb8new3g1e129)
+*** [[https://read.readwise.io/read/01gxjck0bvzfctb8new3g1e129][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 总之，一个好的职业方向，一定是高度很高，容量很大且稳定的方向。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _07｜职业方向：如何选择一个有前景的职业方向？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjckwkbdjp3485tjbz6dyas)
+*** [[https://read.readwise.io/read/01gxjckwkbdjp3485tjbz6dyas][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 如果这时你已经有了转换方向的想法，可能还想问我：在转方向的过程中，我到底要具体做些什么呢？我觉得可以分为三大步骤。
@@ -40,7 +42,7 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _07｜职业方向：如何选择一个有前景的职业方向？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjcsq3e9x0ax2g6awyvjbxe)
+*** [[https://read.readwise.io/read/01gxjcsq3e9x0ax2g6awyvjbxe][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 在这一讲的最后，我就把今天的要点重新梳理一遍，帮助你建立严谨的职业方向选择逻辑。
@@ -57,11 +59,11 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _07｜职业方向：如何选择一个有前景的职业方向？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjct5hg3rj5jcvr8bykvr3w)
+*** [[https://read.readwise.io/read/01gxjct5hg3rj5jcvr8bykvr3w][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 分享下我的转方向的经验。 首先推荐看下混沌大学的第二曲线，里面提到两个切换到第二个增长赛道关键点。 一，十倍速变化。 二，击穿阈值。 当要出现新赛道的时候，一般都有一个10倍变化的变量，你一定能发现。我刚12年毕业是oracle dba，但当时注意到mysql的技术文章分享是其他数据库的10倍，评估mysql下一个关键点，主动去学mysql（选择）。 但是要从oracle切换到mysql还是很难的，因为当时mysql dba国内并不多，我自己也没实践，没人带，市面上没系统的课。所以我通读官方文档加阅读源码这条最苦的路子，击穿新赛道的阈值（坚持努力）。 十倍速的变化，大家一定要注意，这是行业变化的一个前置关键点。 击穿阈值，要说的就是只有达到阈值，你的努力才能量变质。 还有其他的一些原理，比如组织心态的束缚，讲的是为啥只有小公司能切换赛道。也许当时我刚毕业是个切换到mysql赛道的好前提，而那些当时的oracle专家基本都没切到mysql赛道。 还有个低端颠覆原理，讲的拼多多，美团如何崛起，也很有意思。我的体会是在运维开发时候，老系统只会越做越倾向高层和领导，比如花大量时间适配老板的pad这个需求，而对普通用户越来越不友好，流程bug甚至忽略，易用性越来越差，oncall只回答领导的提问等等诟病。这是你可提开发一些工具解决这些诟病，慢慢变为系统，最后替代老系统。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _07｜职业方向：如何选择一个有前景的职业方向？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxjcvhemm45sxtgbm307t768)
+*** [[https://read.readwise.io/read/01gxjcvhemm45sxtgbm307t768][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/Released Version 3.0.0 O...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[KStrubeG on Twitter]]
 :full-title: "Released Version 3.0.0 O..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1237516308574396418/IKOUaIXG.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Released version 3.0.0 of my File System Access API Blazor wrapper. This was a really nice update. No new features and 516 deleted lines of code by using Blazor.FileSystem.
@@ -23,7 +25,7 @@ https://t.co/9BGol77RsW
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427247704072193)
+*** [[https://twitter.com/KStrubeG/status/1613427247704072193][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The map above is a dependency map of existing projects and planned ones. If a project is connected with a line to a project above it, it means it depends on it. Black/white boxes and lines are existing projects/dependencies and yellow are planned projects/dependencies.
@@ -31,7 +33,7 @@ The map above is a dependency map of existing projects and planned ones. If a pr
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427250623291392)
+*** [[https://twitter.com/KStrubeG/status/1613427250623291392][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The FileSystemHandles that were previously part of the File System Access API moved their home to be in the new File System API specs. The File System API has a much broader adoption across browsers. So we can even use this on smartphones, which is cool.
@@ -39,7 +41,7 @@ The FileSystemHandles that were previously part of the File System Access API mo
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427252842184704)
+*** [[https://twitter.com/KStrubeG/status/1613427252842184704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The File System API defines a new Synchronous Access Handle which I haven't implemented yet since it can only be used in the context of a Dedicated Worker. But my Blazor.ServiceWorker project works with a dedicated worker so using it in this context will be applicable.
@@ -47,7 +49,7 @@ The File System API defines a new Synchronous Access Handle which I haven't impl
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427255115669508)
+*** [[https://twitter.com/KStrubeG/status/1613427255115669508][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We have not implemented all parts of the File System Access API as I have mentioned before. We are missing the extensions to DataTransferItem. So I plan to create a wrapper for the Drag & Drop API so that I can extend that.
@@ -55,7 +57,7 @@ We have not implemented all parts of the File System Access API as I have mentio
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427257455874048)
+*** [[https://twitter.com/KStrubeG/status/1613427257455874048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Blazor.DragAndDrop will focus on making a counterpart to the existing DragEvent from the Blazor standard library which will be more extendable and open to interop. I will also create some razor components for ease of use as a part of this project.
@@ -63,7 +65,7 @@ Blazor.DragAndDrop will focus on making a counterpart to the existing DragEvent 
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427259544666113)
+*** [[https://twitter.com/KStrubeG/status/1613427259544666113][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The Drag & Drop API uses the File API for which I can use Blazor.FileAPI. Apart from that the DragEvent extends some types from the UI Event specs, so I also plan to wrap that partially. I don't want to cover all of it as some of it is already covered well in Blazor.
@@ -71,7 +73,7 @@ The Drag & Drop API uses the File API for which I can use Blazor.FileAPI. Apart 
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427261809782786)
+*** [[https://twitter.com/KStrubeG/status/1613427261809782786][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 But we are not stopping here. The UIEvent type from the UI Event specs extends the more general Event defined in the DOM specs. The DOM Event specifies common methods that most have used like preventDefault and stopPropagation().
@@ -79,7 +81,7 @@ But we are not stopping here. The UIEvent type from the UI Event specs extends t
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427264171180032)
+*** [[https://twitter.com/KStrubeG/status/1613427264171180032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 A happy side effect is that my Blazor.Streams project which wraps the Streams API also uses a type from the DOM specs which is AbortSignal. So we will create a wrapper class for AbortSignal as well. We will potentially wrap up other parts of the DOM API in the future.
@@ -87,7 +89,7 @@ A happy side effect is that my Blazor.Streams project which wraps the Streams AP
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427266339364866)
+*** [[https://twitter.com/KStrubeG/status/1613427266339364866][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 And I haven't covered all yet on the map! I'm thinking that I will also take up some of my device sensor projects again. These likewise use the DOM Event type a lot.
@@ -95,7 +97,7 @@ And I haven't covered all yet on the map! I'm thinking that I will also take up 
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427268533080068)
+*** [[https://twitter.com/KStrubeG/status/1613427268533080068][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 It is nice to have projects that rely on each other in a big hierarchy as I then naturally get hands-on experience but also because of the general experience with managing packages and dependencies.
@@ -104,4 +106,4 @@ A fun side note: The map was made in my Blazor SVG Editor. 😁
 #+END_QUOTE
     date:: [[2023-01-12]]
 *** from _Released Version 3.0.0 O..._ by @KStrubeG on Twitter
-*** [View Tweet](https://twitter.com/KStrubeG/status/1613427270777176065)
+*** [[https://twitter.com/KStrubeG/status/1613427270777176065][View Tweet]]

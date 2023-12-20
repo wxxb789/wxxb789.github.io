@@ -2,6 +2,8 @@
 :title: readwise/If You Want to Learn Not...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[heyeaslo on Twitter]]
 :full-title: "If You Want to Learn Not..."
@@ -10,14 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1484538965109907461/VaQu5_PI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 If you want to learn Notion for free, open this thread 🧵 
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201083427852289)
+*** [[https://twitter.com/heyeaslo/status/1607201083427852289][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. Ali Abdaal - How I use Notion
@@ -30,7 +32,7 @@ Learn how to improve your productivity for life, work, and studies with Notion.
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201095482212353)
+*** [[https://twitter.com/heyeaslo/status/1607201095482212353][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. Notion - Notion 101
@@ -43,7 +45,7 @@ Learn everything you need to know to get started using Notion.
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201107113025537)
+*** [[https://twitter.com/heyeaslo/status/1607201107113025537][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. Red Gregory - Notion Formulas
@@ -56,7 +58,7 @@ Learn the use cases of basic and advanced formulas in Notion.
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201115560464385)
+*** [[https://twitter.com/heyeaslo/status/1607201115560464385][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. August Bradley - Notion API Automations
@@ -69,7 +71,7 @@ Learn how to improve your workflow by building automations for your Notion syste
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201123043053568)
+*** [[https://twitter.com/heyeaslo/status/1607201123043053568][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. Keep Productive - Notion Tours
@@ -82,7 +84,7 @@ Learn how others use Notion, and get inspiration for your own Notion pages.
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201136016265223)
+*** [[https://twitter.com/heyeaslo/status/1607201136016265223][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. Easlo - Build With Me in Notion
@@ -95,7 +97,7 @@ Learn how to build Notion solutions from scratch with easy-to-follow videos.
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201147646869506)
+*** [[https://twitter.com/heyeaslo/status/1607201147646869506][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 TLDR
@@ -108,7 +110,7 @@ TLDR
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201150251732995)
+*** [[https://twitter.com/heyeaslo/status/1607201150251732995][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @AliAbdaal @NotionHQ @RedGregory1 @AugustBradley @KeepProductive That's a wrap!
@@ -120,4 +122,4 @@ If you enjoyed this thread:
 #+END_QUOTE
     date:: [[2022-12-26]]
 *** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [View Tweet](https://twitter.com/heyeaslo/status/1607201152738754560)
+*** [[https://twitter.com/heyeaslo/status/1607201152738754560][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/VanillaNet: The Power Of...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[ducha_aiki on Twitter]]
 :full-title: "VanillaNet: The Power Of..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/898858078770266114/g3kgFgkG.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 VanillaNet: the Power of Minimalism in Deep Learning
@@ -31,18 +33,18 @@ https://t.co/XagNt0jNLx
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
-*** [View Tweet](https://twitter.com/ducha_aiki/status/1660976837181206531)
+*** [[https://twitter.com/ducha_aiki/status/1660976837181206531][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @wightmanr 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
-*** [View Tweet](https://twitter.com/ducha_aiki/status/1660993789802995712)
+*** [[https://twitter.com/ducha_aiki/status/1660993789802995712][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 At @oliver_batch pointed out, seriesAct is stack of BN(Conv2d 7x7(ReLU))) 
 #+END_QUOTE
     date:: [[2023-05-24]]
 *** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
-*** [View Tweet](https://twitter.com/ducha_aiki/status/1661038531794403329)
+*** [[https://twitter.com/ducha_aiki/status/1661038531794403329][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦"
@@ -11,14 +13,14 @@
 :image-url: https://static001.geekbang.org/resource/image/29/06/295554a58e0e24862deb8ca171902406.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 我们在 12 讲 里反复强调过：对于首套房，要买，但一定要控制预算。在针尖上跳舞确实不容易，但这就是当下最妥当的策略。在未来局势不太明确的情况下，留一定的“粮食”和“弹药”来应对大环境的变化是很有必要的。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjy818dw61h4nv1t71dwn7)
+*** [[https://read.readwise.io/read/01gxzjy818dw61h4nv1t71dwn7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 问题六：如果让你设计一种行业轮动策略，你会怎么设计呢？比如，你会如何确定应该在哪些行业上进行轮动？你选择行业的标准是什么呢？
@@ -33,4 +35,4 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _答疑课堂（二）｜投资实战篇、投资进阶篇思考题集锦_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzjzjkyqrbync7ed7g9ccnb)
+*** [[https://read.readwise.io/read/01gxzjzjkyqrbync7ed7g9ccnb][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/https:__t.co_tv1nkUBfle...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[iamairyland on Twitter]]
 :full-title: "https://t.co/tv1nkUBfle..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1500510285563449346/03jyzwGg.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/tv1nkUBfle 应该是第一个盈利的 GPTs 导航站。作为一个业余快速上线的项目，目前创造了我很多新成就：
@@ -31,7 +33,7 @@ https://t.co/tv1nkUBfle 应该是第一个盈利的 GPTs 导航站。作为一�
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [View Tweet](https://twitter.com/iamairyland/status/1727371133660307777)
+*** [[https://twitter.com/iamairyland/status/1727371133660307777][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/tv1nkUBfle is likely to be the first profitable GPTs directory website.
@@ -60,7 +62,7 @@ https://t.co/tv1nkUBfle is likely to be the first profitable GPTs directory webs
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [View Tweet](https://twitter.com/iamairyland/status/1727371353735500100)
+*** [[https://twitter.com/iamairyland/status/1727371353735500100][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10. 在第10天时域名 DR 达到了 50，获得来自 130 个网站的超过 60k 的反链。 
@@ -69,7 +71,7 @@ https://t.co/tv1nkUBfle is likely to be the first profitable GPTs directory webs
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [View Tweet](https://twitter.com/iamairyland/status/1727426317975785483)
+*** [[https://twitter.com/iamairyland/status/1727426317975785483][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 感谢以下赞助商：
@@ -78,4 +80,4 @@ Monica: https://t.co/yfg7pyyv0U
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [View Tweet](https://twitter.com/iamairyland/status/1727464777985798509)
+*** [[https://twitter.com/iamairyland/status/1727464777985798509][View Tweet]]

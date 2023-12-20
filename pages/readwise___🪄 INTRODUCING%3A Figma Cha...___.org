@@ -2,6 +2,8 @@
 :title: readwise/🪄 INTRODUCING: Figma Cha...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[pwang_szn on Twitter]]
 :full-title: "🪄 INTRODUCING: Figma Cha..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1588988070870786048/JzgCE23L.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🪄 INTRODUCING: Figma Chat Wizard
@@ -25,14 +27,14 @@ Demo, Code explained & Github Link↓
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443402892611584)
+*** [[https://twitter.com/pwang_szn/status/1652443402892611584][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1/ Live Demo: https://t.co/kYcJ9KEefy 
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443436786798593)
+*** [[https://twitter.com/pwang_szn/status/1652443436786798593][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ There are two main files, chatbot[.]py and generateCode[.]py
@@ -45,7 +47,7 @@ This is the script that generates HTML/CSS code based on the provided Figma desi
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443447595528193)
+*** [[https://twitter.com/pwang_szn/status/1652443447595528193][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ We need to first load the Figma design (with the help of Figma File Loader)
@@ -57,7 +59,7 @@ This is the script that generates HTML/CSS code based on the provided Figma desi
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443455128502272)
+*** [[https://twitter.com/pwang_szn/status/1652443455128502272][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/ These are the prompts to generate the code from the Figma designs 👩‍💻 
@@ -66,7 +68,7 @@ This is the script that generates HTML/CSS code based on the provided Figma desi
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443461935841280)
+*** [[https://twitter.com/pwang_szn/status/1652443461935841280][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ ⚙️ This is where we are generating the code for the designs.
@@ -79,7 +81,7 @@ This is the script that generates HTML/CSS code based on the provided Figma desi
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443469305253888)
+*** [[https://twitter.com/pwang_szn/status/1652443469305253888][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/ We generate the code then we save it to the output.html file so that our chatbot can read it. 🌟 
@@ -88,7 +90,7 @@ This is the script that generates HTML/CSS code based on the provided Figma desi
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443476586545152)
+*** [[https://twitter.com/pwang_szn/status/1652443476586545152][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/ Let's over the chatbot[.]py code now..
@@ -99,7 +101,7 @@ This is the Streamlit based chatbot that we use to make changes to the design.
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443486812246016)
+*** [[https://twitter.com/pwang_szn/status/1652443486812246016][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/ *Ahem*, not to toot my own horn but...I'm creating a course to help you build AI projects *like this one*! (Release on May 27.)
@@ -108,7 +110,7 @@ Check it out now (early bird sale): https://t.co/E6MnEmHqjd
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443490742329345)
+*** [[https://twitter.com/pwang_szn/status/1652443490742329345][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/ 🤖 We write the prompt for the chatbot and setup the @langchain LLMChain here. 
@@ -117,7 +119,7 @@ Check it out now (early bird sale): https://t.co/E6MnEmHqjd
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443497474162688)
+*** [[https://twitter.com/pwang_szn/status/1652443497474162688][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/ We have some helper functions to generate responses, interact with users and provide code updates! 😎🖋️ 
@@ -126,7 +128,7 @@ Check it out now (early bird sale): https://t.co/E6MnEmHqjd
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443504768057344)
+*** [[https://twitter.com/pwang_szn/status/1652443504768057344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/ Update the HTML content and display it in the chat. 🔥 
@@ -135,7 +137,7 @@ Check it out now (early bird sale): https://t.co/E6MnEmHqjd
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443512187797504)
+*** [[https://twitter.com/pwang_szn/status/1652443512187797504][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/ Github Link: https://t.co/MtgWmbzO1y
@@ -144,7 +146,7 @@ Worked together with @peternhwang on this one 🤝
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443515069284352)
+*** [[https://twitter.com/pwang_szn/status/1652443515069284352][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13/ Imo there's a huge opportunity in the design space. 💰
@@ -153,7 +155,7 @@ Most backend developers hate doing design (and suck at it, me included..)
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443517631991808)
+*** [[https://twitter.com/pwang_szn/status/1652443517631991808][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14/ 👀 What I'm working on next:
@@ -165,4 +167,4 @@ Lmk any other possible features!
 #+END_QUOTE
     date:: [[2023-05-01]]
 *** from _🪄 INTRODUCING: Figma Cha..._ by @pwang_szn on Twitter
-*** [View Tweet](https://twitter.com/pwang_szn/status/1652443520148594689)
+*** [[https://twitter.com/pwang_szn/status/1652443520148594689][View Tweet]]

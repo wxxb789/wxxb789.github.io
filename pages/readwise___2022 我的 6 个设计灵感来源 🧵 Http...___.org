@@ -2,6 +2,8 @@
 :title: readwise/2022 我的 6 个设计灵感来源 🧵 Http...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[zuozizhen on Twitter]]
 :full-title: "2022 我的 6 个设计灵感来源 🧵 Http..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1535642854286331905/u1uYt91u.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 2022 我的 6 个设计灵感来源 🧵 
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761286840053767)
+*** [[https://twitter.com/zuozizhen/status/1612761286840053767][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. DEX 周刊 by @dingyi：https://t.co/D5fIVwkDX6
@@ -29,7 +31,7 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761291902287874)
+*** [[https://twitter.com/zuozizhen/status/1612761291902287874][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. Sidebar by @SachaGreif：https://t.co/lOvydmKEUl
@@ -39,7 +41,7 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761296675704838)
+*** [[https://twitter.com/zuozizhen/status/1612761296675704838][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3.abdz by @abduzeedo : https://t.co/1tsAS438Iw
@@ -49,7 +51,7 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761302228951040)
+*** [[https://twitter.com/zuozizhen/status/1612761302228951040][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. Figma Community by @figma : https://t.co/fnDYvgGdSE
@@ -59,7 +61,7 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761307677356032)
+*** [[https://twitter.com/zuozizhen/status/1612761307677356032][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. Pinterest by @Pinterest ：https://t.co/kAlpgvzARv
@@ -69,7 +71,7 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761312081367042)
+*** [[https://twitter.com/zuozizhen/status/1612761312081367042][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. Twitter：关注优秀的人
@@ -77,11 +79,11 @@
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761316443447301)
+*** [[https://twitter.com/zuozizhen/status/1612761316443447301][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 欢迎大家分享推荐自己喜欢的资讯灵感来源，一起交流学习 🙌 
 #+END_QUOTE
     date:: [[2023-01-10]]
 *** from _2022 我的 6 个设计灵感来源 🧵 Http..._ by @zuozizhen on Twitter
-*** [View Tweet](https://twitter.com/zuozizhen/status/1612761319278784512)
+*** [[https://twitter.com/zuozizhen/status/1612761319278784512][View Tweet]]

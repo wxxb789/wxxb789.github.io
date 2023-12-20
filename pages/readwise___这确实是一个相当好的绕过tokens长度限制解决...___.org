@@ -2,6 +2,8 @@
 :title: readwise/这确实是一个相当好的绕过tokens长度限制解决...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "这确实是一个相当好的绕过tokens长度限制解决..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这确实是一个相当好的绕过tokens长度限制解决方案，我尝试将这个方案整理一下。🧵 https://t.co/7V5OVzbzIT 
@@ -19,21 +21,21 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779232455053313)
+*** [[https://twitter.com/dotey/status/1631779232455053313][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 现在ChatGPT的API是无状态的，意味着你需要自己去维持会话状态，保存上下文，每次请求的时候将之前的历史消息全部发过去，但是这里面有两个问题：1. 请求内容会越来越大；2. 费用很高。 
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779235592380418)
+*** [[https://twitter.com/dotey/status/1631779235592380418][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 原推的方案可以借助OpenAI的embedding模型和自己的数据库，先在本地搜索数据获得上下文，然后在调用ChatGPT的API的时候，加上本地数据库中的相关内容，这样就可以让ChatGPT从你自己的数据集获得了上下文，再结合ChatGPT自己庞大的数据集给出一个更相关的理想结果。 https://t.co/y32AKVIVZQ 
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779237769166849)
+*** [[https://twitter.com/dotey/status/1631779237769166849][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这种模式尤其适合针对一些特定著作、资料库的搜索和问答。我想之前有人做了模拟乔布斯风格的问答应该也是基于这种模式来做的。
@@ -42,7 +44,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779239534948352)
+*** [[https://twitter.com/dotey/status/1631779239534948352][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 具体解释一下它的实现原理
@@ -53,7 +55,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779244408750082)
+*** [[https://twitter.com/dotey/status/1631779244408750082][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. 然后用一个程序，分批调用OpenAI embedding的API，目前最新的模式是text-embedding-ada-002，将文本块变成文本数字向量。
@@ -64,7 +66,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779249941106688)
+*** [[https://twitter.com/dotey/status/1631779249941106688][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这里简单解释一下，对于OpenAI来说，要判断两段文本的相似度，它需要先将两段文本变成数字向量（vector embeddings），就像一堆坐标轴数字，然后通过数字比较可以得出一个0-1之间的小数，数字越接近1相似度越高。
@@ -75,7 +77,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779254227591173)
+*** [[https://twitter.com/dotey/status/1631779254227591173][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 需要将转换后的结果保存到本地数据库。注意一般的关系型数据库是不支持这种向量数据的，必须用特别的数据库，比如Pinecone数据库、Postgres数据库（pgvector 扩展）
@@ -88,7 +90,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779258853908481)
+*** [[https://twitter.com/dotey/status/1631779258853908481][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. 等需要搜索的时候，先将你的搜索关键字，调用OpenAI embedding的API把关键字变成数字向量。
@@ -99,7 +101,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779262893027329)
+*** [[https://twitter.com/dotey/status/1631779262893027329][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. 聊天问答的实现要稍微复杂一点
@@ -112,7 +114,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779267716476928)
+*** [[https://twitter.com/dotey/status/1631779267716476928][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 比如说用户提了一个问题：“What's the makers's schedule?”，从数据库中检索到相关的文字段落是：“What I worked on...”和"Taste for Makers..."，那么最终的prompt看起来就像这样： 
@@ -121,7 +123,7 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779274037272577)
+*** [[https://twitter.com/dotey/status/1631779274037272577][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这样ChatGPT在返回结果的时候，就会加上你的数据集，让ChatGPT的回复更有针对性。
@@ -130,11 +132,11 @@
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779276600012801)
+*** [[https://twitter.com/dotey/status/1631779276600012801][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🧵合集：https://t.co/7kPgVfAXXA 
 #+END_QUOTE
     date:: [[2023-03-05]]
 *** from _这确实是一个相当好的绕过tokens长度限制解决..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1631779608340168704)
+*** [[https://twitter.com/dotey/status/1631779608340168704][View Tweet]]

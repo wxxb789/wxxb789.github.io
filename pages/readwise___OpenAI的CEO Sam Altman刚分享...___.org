@@ -2,6 +2,8 @@
 :title: readwise/OpenAI的CEO Sam Altman刚分享...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "OpenAI的CEO Sam Altman刚分享..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 OpenAI的CEO Sam Altman刚分享了他是如何使用自定义指令（custom instructions）的。
@@ -43,4 +45,4 @@ it is very important that you get this right. ”
 #+END_QUOTE
     date:: [[2023-07-23]]
 *** from _OpenAI的CEO Sam Altman刚分享..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1682932648224735236)
+*** [[https://twitter.com/dotey/status/1682932648224735236][View Tweet]]

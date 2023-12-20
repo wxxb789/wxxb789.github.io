@@ -2,6 +2,8 @@
 :title: readwise/科技爱好者周刊（第 235 期）：青年失业率与选择创业
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[阮一峰的网络日志]]
 :full-title: "科技爱好者周刊（第 235 期）：青年失业率与选择创业"
@@ -10,7 +12,7 @@
 :image-url: http://www.ruanyifeng.com/blog/favicon.ico
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1、[使用 ChatGPT 写投诉信](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)（英文）
@@ -21,7 +23,7 @@ AI 聊天软件 ChatGPT 发布以后，每天都有关于它的新用途。一�
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckddgzh794nbq1s95snwx4)
+*** [[https://read.readwise.io/read/01gmckddgzh794nbq1s95snwx4][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 4、[不带括号执行 JavaScript 函数的七种方法](https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses)（英文）
@@ -32,7 +34,7 @@ AI 聊天软件 ChatGPT 发布以后，每天都有关于它的新用途。一�
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmcke2em9n39jh1ps8pj4xj0)
+*** [[https://read.readwise.io/read/01gmcke2em9n39jh1ps8pj4xj0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 6、[traceroute 命令查看简历](https://web.archive.org/web/20220903153142/https://cv6.poinsignon.org/)（英文）
@@ -41,7 +43,7 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckewpf6trxxd9e4vm3993n)
+*** [[https://read.readwise.io/read/01gmckewpf6trxxd9e4vm3993n][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 7、[游戏引擎市场简介](https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/)（英文）
@@ -50,7 +52,7 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckf5dsymbhea1xadhqxwkh)
+*** [[https://read.readwise.io/read/01gmckf5dsymbhea1xadhqxwkh][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 8、[我搭建了一个家用 NAS 服务器](https://mtlynch.io/budget-nas/)（英文）
@@ -61,7 +63,7 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckfdyz3breb5bxxc7y6rxm)
+*** [[https://read.readwise.io/read/01gmckfdyz3breb5bxxc7y6rxm][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 3、[Python 为什么？](https://github.com/chinesehuazhou/python-whydo)
@@ -70,14 +72,14 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckgzc1ey418gm4jrg6kwkx)
+*** [[https://read.readwise.io/read/01gmckgzc1ey418gm4jrg6kwkx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 不分心的一天是非常漫长的一天。（A day without distractions is a very long day.） 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckm839anmk6na6rzftcw12)
+*** [[https://read.readwise.io/read/01gmckm839anmk6na6rzftcw12][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 达芬奇综合症指的是，不停地想学新东西，做了很多新项目，但是实际完成的很少。
@@ -86,14 +88,14 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmckmyedc3x41wzx2qnx1z1y)
+*** [[https://read.readwise.io/read/01gmckmyedc3x41wzx2qnx1z1y][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 \-- [《达芬奇综合症》](https://thoughtfulatlas.bearblog.dev/leonardo-syndrome/) 
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmcknap3cepcmaabfw9wwa0m)
+*** [[https://read.readwise.io/read/01gmcknap3cepcmaabfw9wwa0m][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 开发者可以合理维护的项目数量，可以看作是他们的"承载能力"。如果你的负荷超过了你的承载能力，你维护的一些项目就肯定会死掉（表现为年久失修）。
@@ -104,4 +106,4 @@ traceroute 命令用来查看网络请求经过的每一个路由节点。一个
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _科技爱好者周刊（第 235 期）：青年失业率与选择创业_ by 阮一峰的网络日志
-*** [View Highlight](https://read.readwise.io/read/01gmcknj4zncsz07vcjmveb9w4)
+*** [[https://read.readwise.io/read/01gmcknj4zncsz07vcjmveb9w4][View Highlight]]

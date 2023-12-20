@@ -2,6 +2,8 @@
 :title: readwise/Forget ChatGPT, It Costs...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[AdarshChetan on Twitter]]
 :full-title: "Forget ChatGPT, It Costs..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1660613145881362432/d5QcShPh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Forget ChatGPT, It costs $20/M to use.
@@ -23,7 +25,7 @@ Open 🧵
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014288897429809)
+*** [[https://twitter.com/AdarshChetan/status/1721014288897429809][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1 Merlin:
@@ -34,7 +36,7 @@ Try here : https://t.co/E1EayP05tg <video controls><source src="https://video.tw
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014380144558167)
+*** [[https://twitter.com/AdarshChetan/status/1721014380144558167][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2 Poe:
@@ -45,7 +47,7 @@ https://t.co/8bduwCeu8X <video controls><source src="https://video.twimg.com/amp
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014535145070600)
+*** [[https://twitter.com/AdarshChetan/status/1721014535145070600][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3 Bing AI:
@@ -56,7 +58,7 @@ It's powered by GPT-4 and all you have to do is go to their website and start ty
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014612655853620)
+*** [[https://twitter.com/AdarshChetan/status/1721014612655853620][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4 Google Bard
@@ -69,7 +71,7 @@ It  is an artificial intelligence chatbot that can respond to a user's questions
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014630657720628)
+*** [[https://twitter.com/AdarshChetan/status/1721014630657720628][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5 Forefront AI // <a href="https://twitter.com/ForefrontAI">@ForefrontAI</a>
@@ -85,7 +87,7 @@ https://t.co/FqXMVT6XaA <video controls><source src="https://video.twimg.com/amp
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014699716997226)
+*** [[https://twitter.com/AdarshChetan/status/1721014699716997226][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6 Use https://t.co/y9iwX7XLFs
@@ -96,7 +98,7 @@ Go to HuggingFace and navigate to the “Models” tab on the top menu bar. <vid
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014762535023093)
+*** [[https://twitter.com/AdarshChetan/status/1721014762535023093][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7 Perplexity AI
@@ -111,14 +113,14 @@ https://t.co/qnF6K14cAR <video controls><source src="https://video.twimg.com/amp
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014837290172469)
+*** [[https://twitter.com/AdarshChetan/status/1721014837290172469][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 𝐉𝐨𝐢𝐧 𝐭𝐡𝐢𝐬 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐠𝐫𝐨𝐮𝐩 𝐟𝐨𝐫 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐉𝐨𝐛𝐬/Notes: https://t.co/IubP9UUrPc 
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014844835651884)
+*** [[https://twitter.com/AdarshChetan/status/1721014844835651884][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That's a wrap-up for this one 🎁
@@ -133,4 +135,4 @@ Do Follow <a href="https://twitter.com/AdarshChetan">@AdarshChetan</a> for more 
 #+END_QUOTE
     date:: [[2023-11-05]]
 *** from _Forget ChatGPT, It Costs..._ by @AdarshChetan on Twitter
-*** [View Tweet](https://twitter.com/AdarshChetan/status/1721014848396657079)
+*** [[https://twitter.com/AdarshChetan/status/1721014848396657079][View Tweet]]

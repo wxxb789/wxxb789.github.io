@@ -2,6 +2,8 @@
 :title: readwise/这个WebLLM的模型太牛了，真的是在浏览器里面...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "这个WebLLM的模型太牛了，真的是在浏览器里面..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 这个WebLLM的模型太牛了，真的是在浏览器里面离线提供一个ChatGPT的服务，而且还能支持中文，可以翻译中文！
@@ -21,11 +23,11 @@
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _这个WebLLM的模型太牛了，真的是在浏览器里面..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1647140085433810944)
+*** [[https://twitter.com/dotey/status/1647140085433810944][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这是另一部分视频，我试着让它翻译了一段英文，效果也很好，真的是太厉害了👍🏻 https://t.co/Tj673jqBp8 
 #+END_QUOTE
     date:: [[2023-04-16]]
 *** from _这个WebLLM的模型太牛了，真的是在浏览器里面..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1647140303063719936)
+*** [[https://twitter.com/dotey/status/1647140303063719936][View Tweet]]

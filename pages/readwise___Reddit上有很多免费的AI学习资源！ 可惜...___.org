@@ -2,6 +2,8 @@
 :title: readwise/Reddit上有很多免费的AI学习资源！ 可惜...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[OxPanda_ on Twitter]]
 :full-title: "Reddit上有很多免费的AI学习资源！ 可惜..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1683295207800840194/H7Doo91N.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Reddit上有很多免费的AI学习资源！
@@ -25,7 +27,7 @@ Reddit上有很多免费的AI学习资源！
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856801780977664)
+*** [[https://twitter.com/OxPanda_/status/1676856801780977664][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1/ ChatGPT
@@ -35,7 +37,7 @@ https://t.co/PTlNqZ5F7w
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856805480337409)
+*** [[https://twitter.com/OxPanda_/status/1676856805480337409][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ Midjourney
@@ -46,7 +48,7 @@ https://t.co/vHovqIeCjC
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856807451688961)
+*** [[https://twitter.com/OxPanda_/status/1676856807451688961][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ ChatGPTPromptGenius
@@ -57,7 +59,7 @@ https://t.co/CCfGh3elYh
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856809691418624)
+*** [[https://twitter.com/OxPanda_/status/1676856809691418624][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/ StableDiffusion
@@ -68,7 +70,7 @@ https://t.co/dMl5d8Lj4r
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856811616616448)
+*** [[https://twitter.com/OxPanda_/status/1676856811616616448][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ Singularity
@@ -79,7 +81,7 @@ https://t.co/9IOTZHsdkM
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856813621493764)
+*** [[https://twitter.com/OxPanda_/status/1676856813621493764][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/ MachineLearning
@@ -90,7 +92,7 @@ https://t.co/nSiDNMh5KY
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856815630565376)
+*** [[https://twitter.com/OxPanda_/status/1676856815630565376][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/ Artificial
@@ -101,7 +103,7 @@ https://t.co/tbDts8Rrhc
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856817543180288)
+*** [[https://twitter.com/OxPanda_/status/1676856817543180288][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/ Dalle2
@@ -112,7 +114,7 @@ https://t.co/CUMcMg9EJ8
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856819468337154)
+*** [[https://twitter.com/OxPanda_/status/1676856819468337154][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/ OpenAI
@@ -123,7 +125,7 @@ https://t.co/kidSoK1Tmb
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856821380956160)
+*** [[https://twitter.com/OxPanda_/status/1676856821380956160][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 原推文来自 @_alexbrogan 大神 💕
@@ -134,4 +136,4 @@ https://t.co/kidSoK1Tmb
 #+END_QUOTE
     date:: [[2023-07-06]]
 *** from _Reddit上有很多免费的AI学习资源！ 可惜..._ by @OxPanda_ on Twitter
-*** [View Tweet](https://twitter.com/OxPanda_/status/1676856823515877376)
+*** [[https://twitter.com/OxPanda_/status/1676856823515877376][View Tweet]]

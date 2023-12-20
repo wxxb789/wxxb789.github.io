@@ -2,6 +2,8 @@
 :title: readwise/Run acme.sh in Docker
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[acmesh-official]]
 :full-title: "Run acme.sh in Docker"
@@ -10,11 +12,11 @@
 :image-url: https://opengraph.githubassets.com/de8f79f379d237cc81cf4624d9d540edd5ca2dc819fe9bfb1b6058625ac336af/acmesh-official/acme.sh
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 docker run --rm neilpang/acme.sh 
 #+END_QUOTE
     date:: [[2023-02-02]]
 *** from _Run acme.sh in Docker_ by acmesh-official
-*** [View Highlight](https://read.readwise.io/read/01gr80ns5xxwn42csjv1tmdgj0)
+*** [[https://read.readwise.io/read/01gr80ns5xxwn42csjv1tmdgj0][View Highlight]]

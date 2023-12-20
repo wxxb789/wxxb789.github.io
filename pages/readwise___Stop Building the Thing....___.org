@@ -2,6 +2,8 @@
 :title: readwise/Stop Building the Thing....
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[swyx on Twitter]]
 :full-title: "Stop Building the Thing...."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Stop building the thing.
@@ -22,7 +24,7 @@ IMO the most important thing every developer could be doing right now on nights 
 #+END_QUOTE
     date:: [[2023-05-14]]
 *** from _Stop Building the Thing...._ by @swyx on Twitter
-*** [View Tweet](https://twitter.com/swyx/status/1657578738345979905)
+*** [[https://twitter.com/swyx/status/1657578738345979905][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 first thing Tony ever built wasn't a flying suit of armor, fancy weapons, or mini fusion reactor  
@@ -31,7 +33,7 @@ he built the thing that builds the things (and saves his life when the other stu
 #+END_QUOTE
     date:: [[2023-05-14]]
 *** from _Stop Building the Thing...._ by @swyx on Twitter
-*** [View Tweet](https://twitter.com/swyx/status/1657581563784364033)
+*** [[https://twitter.com/swyx/status/1657581563784364033][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 now that GPT4/Claude/RMT/Unlimiformer context is trending to infinity (https://t.co/BW93Ft1HdX) the stuff you can do to improve developer experience is bananas
@@ -44,7 +46,7 @@ just wrote a smol debugger that reads my entire codebase so i can just chuck in 
 #+END_QUOTE
     date:: [[2023-05-14]]
 *** from _Stop Building the Thing...._ by @swyx on Twitter
-*** [View Tweet](https://twitter.com/swyx/status/1657593620579651584)
+*** [[https://twitter.com/swyx/status/1657593620579651584][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 shoutout due to @mlejva who inspired me with e2b_dev (disclosure - i am investing in his new company) and i just wanted to see how far i could get in a weekend + make stupidly scalable with @modal_labs 
@@ -53,7 +55,7 @@ https://t.co/ZhwjNvOqSs
 #+END_QUOTE
     date:: [[2023-05-14]]
 *** from _Stop Building the Thing...._ by @swyx on Twitter
-*** [View Tweet](https://twitter.com/swyx/status/1657595391863554048)
+*** [[https://twitter.com/swyx/status/1657595391863554048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Fermi estimates on the shifting economics of human vs AI junior devs:
@@ -69,11 +71,11 @@ Fermi estimates on the shifting economics of human vs AI junior devs:
 #+END_QUOTE
     date:: [[2023-05-14]]
 *** from _Stop Building the Thing...._ by @swyx on Twitter
-*** [View Tweet](https://twitter.com/swyx/status/1657603239251181570)
+*** [[https://twitter.com/swyx/status/1657603239251181570][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FwEzVCcaMAE7t4h.jpg) 
 #+END_QUOTE
     date:: [[2023-05-14]]
 *** from _Stop Building the Thing...._ by @swyx on Twitter
-*** [View Tweet](https://twitter.com/swyx/status/1657662643413618688)
+*** [[https://twitter.com/swyx/status/1657662643413618688][View Tweet]]

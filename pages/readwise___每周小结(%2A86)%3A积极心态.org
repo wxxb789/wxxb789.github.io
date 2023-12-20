@@ -2,6 +2,8 @@
 :title: readwise/每周小结(*86):积极心态
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[六个周]]
 :full-title: "每周小结(*86):积极心态"
@@ -10,7 +12,7 @@
 :image-url: https://blog.liugezhou.online/favicon.ico
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 文摘
@@ -26,4 +28,4 @@
 #+END_QUOTE
     date:: [[2022-12-16]]
 *** from _每周小结(*86):积极心态_ by 六个周
-*** [View Highlight](https://read.readwise.io/read/01gmct5yyskp5mevtcc0zwyqtc)
+*** [[https://read.readwise.io/read/01gmct5yyskp5mevtcc0zwyqtc][View Highlight]]

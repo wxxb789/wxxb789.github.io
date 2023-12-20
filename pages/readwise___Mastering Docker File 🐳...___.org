@@ -2,6 +2,8 @@
 :title: readwise/Mastering Docker File 🐳...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[devops_tech on Twitter]]
 :full-title: "Mastering Docker File 🐳..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1530153142523863040/UZi9nN1O.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Mastering Docker File 🐳
@@ -21,7 +23,7 @@ A thread explaining everything about a Docker File 👇
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655635420119040)
+*** [[https://twitter.com/devops_tech/status/1685655635420119040][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 📌 Welcome to a thread on mastering Dockerfile! 🚀 In this thread, I'll explain each parameter with an example of a Dockerfile. 
@@ -32,7 +34,7 @@ Dockerfiles are key to building Docker images, so let's dive in! #Docker #Docker
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655638159069184)
+*** [[https://twitter.com/devops_tech/status/1685655638159069184][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1️⃣ FROM: This sets the base image for your Docker image. It's like the starting point for your container. For example:
@@ -43,7 +45,7 @@ This uses the official Ubuntu 20.04 image as the base.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655640977661952)
+*** [[https://twitter.com/devops_tech/status/1685655640977661952][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2️⃣ RUN: Executes commands during the build process. Used to install packages or run any necessary setup tasks. For instance:
@@ -54,7 +56,7 @@ This installs Python 3 in the image.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655643133505536)
+*** [[https://twitter.com/devops_tech/status/1685655643133505536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3️⃣ COPY: Copies files from the host to the container's filesystem. Great for adding application code. Example:
@@ -65,7 +67,7 @@ This copies the 'https://t.co/kI1Lzyzw9r' file from the host to '/app/' in the c
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655645390045186)
+*** [[https://twitter.com/devops_tech/status/1685655645390045186][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4️⃣ WORKDIR: Sets the working directory within the container. Subsequent commands will run from this location. Example:
@@ -76,7 +78,7 @@ This sets '/app' as the working directory.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655647923445761)
+*** [[https://twitter.com/devops_tech/status/1685655647923445761][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5️⃣ EXPOSE: Specifies the port on which the container will listen. It does not publish the port to the host. Example:
@@ -87,7 +89,7 @@ This exposes port 8080 within the container.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655650221826048)
+*** [[https://twitter.com/devops_tech/status/1685655650221826048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6️⃣ CMD: Defines the default command to run when the container starts. It's often the main process of the app. Example:
@@ -98,7 +100,7 @@ This runs 'python3 https://t.co/kI1Lzyzw9r' when the container starts.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655652478353408)
+*** [[https://twitter.com/devops_tech/status/1685655652478353408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7️⃣ ENV: Sets environment variables within the container. Useful for configuring the application. Example:
@@ -109,7 +111,7 @@ This sets the 'DEBUG' environment variable to 'True'.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655655011827712)
+*** [[https://twitter.com/devops_tech/status/1685655655011827712][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8️⃣ ARG: Defines build-time arguments. They can be passed using the --build-arg flag during image build. Example:
@@ -120,7 +122,7 @@ This sets the 'VERSION' argument with a default value of 'latest'.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655657134080000)
+*** [[https://twitter.com/devops_tech/status/1685655657134080000][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9️⃣ ENTRYPOINT: Similar to CMD, but provides an entry point for d container. The CMD will be arguments to this entry point. Example:
@@ -132,7 +134,7 @@ This sets 'python3' as the entry point & 'https://t.co/kI1Lzyzw9r' as the defaul
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655659348664320)
+*** [[https://twitter.com/devops_tech/status/1685655659348664320][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Bonus Time 💰😍 
@@ -141,7 +143,7 @@ Bonus Time 💰😍
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655661613633536)
+*** [[https://twitter.com/devops_tech/status/1685655661613633536][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1️⃣ ADD: Similar to COPY, but with added features. It can handle URLs and automatically unpack archives. Example:
@@ -152,7 +154,7 @@ This fetches 'app.tar.gz' from the web and unpacks it into '/app/'.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655664016982016)
+*** [[https://twitter.com/devops_tech/status/1685655664016982016][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2️⃣ VOLUME: Creates a mount point for external volumes. Used to share data between the host and container. Example:
@@ -163,7 +165,7 @@ This creates a volume named '/data' where data can be persisted outside the cont
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655666156089344)
+*** [[https://twitter.com/devops_tech/status/1685655666156089344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3️⃣ USER: Specifies the user to use when running the container. Helps improve security by avoiding running as root. Example:
@@ -174,7 +176,7 @@ This sets the user to 'appuser' in the container.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655668261535744)
+*** [[https://twitter.com/devops_tech/status/1685655668261535744][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4️⃣ LABEL: Adds metadata to the image in key-value format. Useful for versioning and documenting the image. Example:
@@ -185,7 +187,7 @@ This adds version and maintainer labels to the image.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655670392246272)
+*** [[https://twitter.com/devops_tech/status/1685655670392246272][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5️⃣ ARG: Similar to ENV, but used during build time only. It doesn't persist in the final image. Example:
@@ -196,7 +198,7 @@ This sets the 'BUILD_ENV' argument with a default value of 'production'.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655672489480192)
+*** [[https://twitter.com/devops_tech/status/1685655672489480192][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6️⃣ ONBUILD: Triggers instructions to be executed when this image is used as a base for another image. Example:
@@ -207,7 +209,7 @@ This copies the current directory's content into '/app' when this image is used 
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655674569863168)
+*** [[https://twitter.com/devops_tech/status/1685655674569863168][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7️⃣ STOPSIGNAL: Sets the system call signal that will be sent to the container to stop it gracefully. Example:
@@ -218,7 +220,7 @@ This sets the SIGINT signal as the stop signal.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655676838887426)
+*** [[https://twitter.com/devops_tech/status/1685655676838887426][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8️⃣ HEALTHCHECK: Defines a command to check the container's health. Helps monitor the app's status. Example:
@@ -229,7 +231,7 @@ This checks if 'http://localhost/' is reachable, failing if it's not.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655678969696256)
+*** [[https://twitter.com/devops_tech/status/1685655678969696256][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9️⃣ SHELL: Overrides the default shell used by RUN, CMD, and ENTRYPOINT. Example:
@@ -240,7 +242,7 @@ This sets '/bin/bash -c' as the shell for subsequent commands.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655681280757760)
+*** [[https://twitter.com/devops_tech/status/1685655681280757760][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🔟 .dockerignore: Not a parameter, but a crucial file. Works like .gitignore to exclude files from the image. Example:
@@ -252,14 +254,14 @@ This ignores log files and the 'node_modules' directory during the build.
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655683323305985)
+*** [[https://twitter.com/devops_tech/status/1685655683323305985][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🎉 You're now equipped with more Dockerfile knowledge! These parameters offer greater flexibility and control over your Docker images. Happy containerizing! 🚀 #Docker #Containerization #DevOps #Linux #Automation #Development 
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655685642731520)
+*** [[https://twitter.com/devops_tech/status/1685655685642731520][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Retweet the thread if you find it useful. Thanks!
@@ -268,4 +270,4 @@ https://t.co/UF2150kAVZ
 #+END_QUOTE
     date:: [[2023-07-31]]
 *** from _Mastering Docker File 🐳..._ by @devops_tech on Twitter
-*** [View Tweet](https://twitter.com/devops_tech/status/1685655809190227968)
+*** [[https://twitter.com/devops_tech/status/1685655809190227968][View Tweet]]

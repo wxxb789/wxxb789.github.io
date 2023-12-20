@@ -2,6 +2,8 @@
 :title: readwise/推荐一个有趣又有用的 Python 学习资料，《...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Barret_China on Twitter]]
 :full-title: "推荐一个有趣又有用的 Python 学习资料，《..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 推荐一个有趣又有用的 Python 学习资料，《Python为什么》，https://t.co/CgBAnWKMJz，它是一系列文章的合集，主要关注 Python 的语法、设计、发展、与其它语言的差别等话题，以一个个“为什么”式的问题为切入点，试着展现 Python 的迷人魅力。
@@ -19,4 +21,4 @@
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _推荐一个有趣又有用的 Python 学习资料，《..._ by @Barret_China on Twitter
-*** [View Tweet](https://twitter.com/Barret_China/status/1735967461185593413)
+*** [[https://twitter.com/Barret_China/status/1735967461185593413][View Tweet]]

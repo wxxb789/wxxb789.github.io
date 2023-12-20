@@ -2,6 +2,8 @@
 :title: readwise/每周小结(*92):新年快乐
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[六个周]]
 :full-title: "每周小结(*92):新年快乐"
@@ -10,7 +12,7 @@
 :image-url: https://cdn.staticaly.com/gh/liugezhou/image@master/blog/issue92.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 [好工具周刊～特别放送](https://bestxtools.zhubai.love/posts/2227788146916585472)
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _每周小结(*92):新年快乐_ by 六个周
-*** [View Highlight](https://read.readwise.io/read/01gqfxy41y9fzmjyrvf2hxfzyt)
+*** [[https://read.readwise.io/read/01gqfxy41y9fzmjyrvf2hxfzyt][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 [独立开发者变现周刊](https://www.ezindie.com/weekly)
@@ -30,7 +32,7 @@
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _每周小结(*92):新年快乐_ by 六个周
-*** [View Highlight](https://read.readwise.io/read/01gqfxyvsa61gxe62z6g47swes)
+*** [[https://read.readwise.io/read/01gqfxyvsa61gxe62z6g47swes][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 [独立产品灵感周刊](https://www.decohack.com/Post/28)
@@ -39,7 +41,7 @@
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _每周小结(*92):新年快乐_ by 六个周
-*** [View Highlight](https://read.readwise.io/read/01gqfxz9n94a7e6v9e2v9ptdfe)
+*** [[https://read.readwise.io/read/01gqfxz9n94a7e6v9e2v9ptdfe][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 编码相关
@@ -63,4 +65,4 @@ See You Next Week.
 #+END_QUOTE
     date:: [[2023-01-24]]
 *** from _每周小结(*92):新年快乐_ by 六个周
-*** [View Highlight](https://read.readwise.io/read/01gqfy1gp7xy8s9tnafhzc7c4f)
+*** [[https://read.readwise.io/read/01gqfy1gp7xy8s9tnafhzc7c4f][View Highlight]]

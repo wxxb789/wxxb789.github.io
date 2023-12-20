@@ -2,6 +2,8 @@
 :title: readwise/Distil-Whisper：让语音识别的速度提...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Barret_China on Twitter]]
 :full-title: "Distil-Whisper：让语音识别的速度提..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Distil-Whisper：让语音识别的速度提高 5.8 倍，参数减少 51%，准确度保持在 99%。
@@ -32,7 +34,7 @@ Distil-Whisper 目前开源在 Hugging Face 上，模型地址：https://t.co/4p
 #+END_QUOTE
     date:: [[2023-11-22]]
 *** from _Distil-Whisper：让语音识别的速度提..._ by @Barret_China on Twitter
-*** [View Tweet](https://twitter.com/Barret_China/status/1727146449857871873)
+*** [[https://twitter.com/Barret_China/status/1727146449857871873][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 一般论文中用到的数据集都要公开出处的，例如 Distil-Whisper 中用到的是下图的数据集，2w 多小时的音频。
@@ -43,4 +45,4 @@ OpenAI 开源的 Whisper 属于是开了先河了，论文里头的数据集，�
 #+END_QUOTE
     date:: [[2023-11-22]]
 *** from _Distil-Whisper：让语音识别的速度提..._ by @Barret_China on Twitter
-*** [View Tweet](https://twitter.com/Barret_China/status/1727152556651225323)
+*** [[https://twitter.com/Barret_China/status/1727152556651225323][View Tweet]]

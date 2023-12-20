@@ -2,6 +2,8 @@
 :title: readwise/Over the Past Weeks The...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Thom_Wolf on Twitter]]
 :full-title: "Over the Past Weeks The..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Over the past weeks the H4 team has been busy pushing the Zephyr 7B model to new heights 🗻
@@ -32,4 +34,4 @@ In the meantime the paper is a great starting point: https://t.co/qzZ0tb8Aq1<img
 #+END_QUOTE
     date:: [[2023-10-27]]
 *** from _Over the Past Weeks The..._ by @Thom_Wolf on Twitter
-*** [View Tweet](https://twitter.com/Thom_Wolf/status/1717821614467739796)
+*** [[https://twitter.com/Thom_Wolf/status/1717821614467739796][View Tweet]]

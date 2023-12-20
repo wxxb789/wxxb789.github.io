@@ -2,6 +2,8 @@
 :title: readwise/给大家概括下23年可能发生“车贷危机”的事情经过...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xcl2022 on Twitter]]
 :full-title: "给大家概括下23年可能发生“车贷危机”的事情经过..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1553288133579780096/iUwyZ_zY.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 给大家概括下23年可能发生“车贷危机”的事情经过吧。
@@ -21,42 +23,42 @@
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832218723397632)
+*** [[https://twitter.com/xcl2022/status/1603832218723397632][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2、残值在1万亿的油车贷款市场下降了，也就是说汽车在报废时候更不值钱了。而她@了另一位叫做GuyDealership的人，说他的话解释了这一危机正在进行中，并且木头姐说消费者转向电动车市场，也会加重这一危机。结果Elon Musk在评论区评论，有可能是历史上最大规模的经济危机。 
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832221387063296)
+*** [[https://twitter.com/xcl2022/status/1603832221387063296][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3、那么叫做GuyDealership的这个人是做什么的呢，这个人的自我介绍是：对汽车业务具有高超的洞察力，匿名的CEO，在Verge、《纽约邮报》和Curbed上发表过文章，应该是一个比较资深的汽车行业从业者，有13万左右的推特粉丝，他用十几条推特解释了汽车行业现在发生了什么。 
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832223588704256)
+*** [[https://twitter.com/xcl2022/status/1603832223588704256][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4、今天早上，他发现汽车市场上发生了一些令人震惊的事情，特别是在汽车贷款方面。他现在相信，在2023年将会出现大规模的汽车收回浪潮。以下是他的发现（以及没有人知道的情况）。 
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832225761759232)
+*** [[https://twitter.com/xcl2022/status/1603832225761759232][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5、背景是，在过去两年中，许多人在汽车上进行了高额贷款，汽车价值被抬高。但许多人根本没有选择，买了一辆价格过高的汽车。现在，汽车的估值正在急剧下降。一些汽车的价值按年下降了30%。而这些借了大笔贷款的人现在也是 "水深火热"。他们在汽车上欠银行的钱超过了他们的价值。银行也很清楚这一点。 
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832227892146176)
+*** [[https://twitter.com/xcl2022/status/1603832227892146176][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6、但这件事没有简单的解决办法。每周五这个汽车行业的CEO都会召开团队会议，总结他们这一周的工作。今天早上，他的一位总经理打开了DealerTrack，这是一个经销商用来与汽车贷款人沟通的门户网站，并强调了一些非常令人担忧的事情：他们的9个贷款伙伴已经开始为消费者免除 "开放汽车贷款"的规定。 
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832230144380929)
+*** [[https://twitter.com/xcl2022/status/1603832230144380929][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7、这个规定是什么？想一下这个场景：
@@ -64,7 +66,7 @@
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832232417693697)
+*** [[https://twitter.com/xcl2022/status/1603832232417693697][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8、但经销商不能换车，因为消费者欠了太多的钱。
@@ -74,7 +76,7 @@
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832234955354113)
+*** [[https://twitter.com/xcl2022/status/1603832234955354113][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9、接下来会发生什么？贷款人知道大多数消费者陷入了这种情况，于是决定放弃“开放汽车贷款”的规定。
@@ -85,7 +87,7 @@
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832237178224640)
+*** [[https://twitter.com/xcl2022/status/1603832237178224640][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10、但贷款人这样做是因为他们知道消费者会在另一辆汽车上违约 !这是狗咬狗。
@@ -94,7 +96,7 @@
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832239602532354)
+*** [[https://twitter.com/xcl2022/status/1603832239602532354][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11、他（这个汽车行业CEO）一直是个怀疑者，但在他今天早上看到的情况后，他现在完全相信，在2023年初/中期将出现一波汽车收回的情况。
@@ -105,4 +107,4 @@
 #+END_QUOTE
     date:: [[2022-12-18]]
 *** from _给大家概括下23年可能发生“车贷危机”的事情经过..._ by @xcl2022 on Twitter
-*** [View Tweet](https://twitter.com/xcl2022/status/1603832241775263745)
+*** [[https://twitter.com/xcl2022/status/1603832241775263745][View Tweet]]

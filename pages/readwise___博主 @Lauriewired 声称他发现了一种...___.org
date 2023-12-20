@@ -2,6 +2,8 @@
 :title: readwise/博主 @Lauriewired 声称他发现了一种...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[xiaohuggg on Twitter]]
 :full-title: "博主 @Lauriewired 声称他发现了一种..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1651448138182578177/H9kcfTCy.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 博主 @lauriewired 声称他发现了一种新的ChatGPT"越狱"技术，可以绕过OpenAI的审查过滤系统，让ChatGPT干坏事，如生成勒索软件、键盘记录器等恶意软件。
@@ -23,7 +25,7 @@
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109435001155584)
+*** [[https://twitter.com/xiaohuggg/status/1683109435001155584][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Typoglycemia现象：是一个人脑处理文字的有趣现象！
@@ -32,28 +34,28 @@ Typoglycemia现象：是一个人脑处理文字的有趣现象！
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109437547118592)
+*** [[https://twitter.com/xiaohuggg/status/1683109437547118592][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 推文作者提出了一个理论，就像人脑将单词处理为离散的"块"而不是单个字母一样，像ChatGPT这样的语言模型也依赖于"块"数据的概念，这些"块"被称为tokens。作者的假设是，传统的守护栏/过滤器并未建立来处理极度语法错误的信息。 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109439426162689)
+*** [[https://twitter.com/xiaohuggg/status/1683109439426162689][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 令人惊奇的是，像ChatGPT这样的语言模型似乎也会"受到"字母置换引导效应的影响。尽管作者还不完全理解这是如何工作的，但ChatGPT能够理解字母置换引导文本的语义。 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109441040953344)
+*** [[https://twitter.com/xiaohuggg/status/1683109441040953344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 LaurieWired利用了这种现象，通过改变某些关键词的字母顺序，使得这些关键词在语义上仍然可以被理解，但在句法上却能够绕过了常规的过滤器，从而让ChatGPT生成了他想要的恶意软件代码。 
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109442907418624)
+*** [[https://twitter.com/xiaohuggg/status/1683109442907418624][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 作者提出了一个"jailbreak"技术，即通过将字母置换引导的文本输入到模型中，可以绕过模型的过滤器。
@@ -62,7 +64,7 @@ LaurieWired利用了这种现象，通过改变某些关键词的字母顺序，
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109444958441472)
+*** [[https://twitter.com/xiaohuggg/status/1683109444958441472][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 原推：
@@ -71,7 +73,7 @@ https://t.co/CMPYD5rLYR
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109446636171264)
+*** [[https://twitter.com/xiaohuggg/status/1683109446636171264][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 衍生阅读：
@@ -86,4 +88,4 @@ https://t.co/Ho0oqYIvRn
 #+END_QUOTE
     date:: [[2023-07-24]]
 *** from _博主 @Lauriewired 声称他发现了一种..._ by @xiaohuggg on Twitter
-*** [View Tweet](https://twitter.com/xiaohuggg/status/1683109448460673025)
+*** [[https://twitter.com/xiaohuggg/status/1683109448460673025][View Tweet]]

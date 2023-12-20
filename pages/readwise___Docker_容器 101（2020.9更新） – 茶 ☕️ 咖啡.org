@@ -2,6 +2,8 @@
 :title: readwise/Docker_容器 101（2020.9更新） – 茶 ☕️ 咖啡
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[fastzhong.com]]
 :full-title: "Docker/容器 101（2020.9更新） – 茶 ☕️ 咖啡"
@@ -10,7 +12,7 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 2000：FreeBSD Jail  
@@ -18,7 +20,7 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _Docker/容器 101（2020.9更新） – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmaht3xeg7bwnq334mr3wyyy)
+*** [[https://read.readwise.io/read/01gmaht3xeg7bwnq334mr3wyyy][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 2006-2007：Process Container/cgroups  
@@ -26,7 +28,7 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _Docker/容器 101（2020.9更新） – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmahtkjnn1pf80krb81ygqbm)
+*** [[https://read.readwise.io/read/01gmahtkjnn1pf80krb81ygqbm][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 2008：LXC  
@@ -34,7 +36,7 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _Docker/容器 101（2020.9更新） – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmahtpmyqb33zgpvr018m4zb)
+*** [[https://read.readwise.io/read/01gmahtpmyqb33zgpvr018m4zb][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 2013：LMCTFY  
@@ -44,4 +46,4 @@ CoreOS 发布和 Docker 类似的 Rocket。
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _Docker/容器 101（2020.9更新） – 茶 ☕️ 咖啡_ by fastzhong.com
-*** [View Highlight](https://read.readwise.io/read/01gmahv530fhdg086sx4btp2tp)
+*** [[https://read.readwise.io/read/01gmahv530fhdg086sx4btp2tp][View Highlight]]

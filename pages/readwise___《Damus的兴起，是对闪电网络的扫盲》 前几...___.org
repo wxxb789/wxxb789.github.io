@@ -2,6 +2,8 @@
 :title: readwise/《Damus的兴起，是对闪电网络的扫盲》 前几...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[EvieEvieXia on Twitter]]
 :full-title: "《Damus的兴起，是对闪电网络的扫盲》 前几..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1635106361125249025/PKJIQuZy.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 《Damus的兴起，是对闪电网络的扫盲》
@@ -27,7 +29,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289236324745217)
+*** [[https://twitter.com/EvieEvieXia/status/1623289236324745217][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 本条推特将基于以下几方面展开：
@@ -41,7 +43,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289241336971264)
+*** [[https://twitter.com/EvieEvieXia/status/1623289241336971264][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 闪电网络是比特币网络的Layer2解决方案，旨在在去中心化的情况下，用户能够以更低的成本、更快的速度完成用比特币的支付。
@@ -52,7 +54,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289244306518019)
+*** [[https://twitter.com/EvieEvieXia/status/1623289244306518019][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 闪电网络的运作方式如下：
@@ -67,7 +69,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289247204773889)
+*** [[https://twitter.com/EvieEvieXia/status/1623289247204773889][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2⃣ 双方之间的资金转移不在链上进行，而是只保存在彼此的账本上，当其中一方或双方决定不再需要该通道的时候，结算的余额再在主网上广播。
@@ -78,7 +80,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289252347011073)
+*** [[https://twitter.com/EvieEvieXia/status/1623289252347011073][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3⃣️但是闪电网络不仅仅只是双方的直接连接，可以使得大量单条的通道可以串联起来，从而形成一个相互连接的、广阔的支付网络。
@@ -91,7 +93,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289257489207298)
+*** [[https://twitter.com/EvieEvieXia/status/1623289257489207298][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 使用闪电网络能够：
@@ -105,7 +107,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289262761472000)
+*** [[https://twitter.com/EvieEvieXia/status/1623289262761472000][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2⃣️【降低交易额门槛】：闪电网络可以用单个比特币划分的最小单位——聪来支付（1比特币=1亿聪1聪），这满足了日常小额支付的需求，但同时大家在以聪进行转账时，也要留意单位的转换。
@@ -114,7 +116,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289268012740610)
+*** [[https://twitter.com/EvieEvieXia/status/1623289268012740610][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3⃣️【降低交易费用】：当前比特币交易手续费在1.5美金左右，而在2021年市场巅峰时期则突破了60美金。对于日常的小额支付，如买咖啡，加上手续费就很不划算了。
@@ -127,7 +129,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289271057801217)
+*** [[https://twitter.com/EvieEvieXia/status/1623289271057801217][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2021年萨尔瓦多将比特币法币化后，闪电网络得到了更多的应用，通道中的BTC数量也在快速增长。
@@ -140,7 +142,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289275524718593)
+*** [[https://twitter.com/EvieEvieXia/status/1623289275524718593][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 通道的集中地主要集中在美国、加拿大、德国，仅美国的通道数量就占了30.15%，而在亚洲，仅新加坡的通道数量占比相对较高（1.644%）。
@@ -151,7 +153,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289279555448833)
+*** [[https://twitter.com/EvieEvieXia/status/1623289279555448833][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 在技术逐渐成熟的基础上，支付及社交巨头在推动着闪电网络的普及，当前闪电网络的使用场景包括：
@@ -166,7 +168,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289282441121792)
+*** [[https://twitter.com/EvieEvieXia/status/1623289282441121792][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2⃣️跨境汇款：数字支付平台Strike支持美国和菲律宾的用户之间通过闪电网络进行快速、安全、低成本的汇款。
@@ -177,7 +179,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289286522175488)
+*** [[https://twitter.com/EvieEvieXia/status/1623289286522175488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4⃣️转账交易：Jack Dorsey领导的支付公司Block旗下支付平台Cash APP可支持通过闪电网络发送和接受比特币。
@@ -186,7 +188,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289289458200577)
+*** [[https://twitter.com/EvieEvieXia/status/1623289289458200577][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 闪电网络领域近年也出现了多笔大额融资：
@@ -201,7 +203,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289292348067840)
+*** [[https://twitter.com/EvieEvieXia/status/1623289292348067840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 中本聪在Bitcoin 1.0中就包含了支付通道的代码草稿。之后的几年里，极客们一直推动着闪电网络向前，力求实现比特币的初心——搭建一种完全通过点对点技术实现的电子现金系统，即便这是一条难而远的道路。
@@ -214,7 +216,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289295292489732)
+*** [[https://twitter.com/EvieEvieXia/status/1623289295292489732][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 闪电网络为比特币用于日常支付开辟了新的路径。自2018年正式落地，闪电网络仍处于早期阶段，但2021年来，其发展迅速，逐渐在用户群体间形成共识，并扩展了真实有效的用例。
@@ -223,7 +225,7 @@
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289300124311552)
+*** [[https://twitter.com/EvieEvieXia/status/1623289300124311552][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Damus作为去中心化社交应用，支持用户进行闪电网络支付和打赏，通过这种方式或将有效地培养用户使用比特币进行小额支付的习惯。
@@ -236,7 +238,7 @@ Damus作为去中心化社交应用，支持用户进行闪电网络支付和打
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289303135834114)
+*** [[https://twitter.com/EvieEvieXia/status/1623289303135834114][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 终于对「闪电网络」进行了总结，更详细的内容大家可以点开链接看PDF！参考文章及图片来源也都放在里面啦。
@@ -252,4 +254,4 @@ https://t.co/MmyX6d9obA
 #+END_QUOTE
     date:: [[2023-02-08]]
 *** from _《Damus的兴起，是对闪电网络的扫盲》 前几..._ by @EvieEvieXia on Twitter
-*** [View Tweet](https://twitter.com/EvieEvieXia/status/1623289309028810753)
+*** [[https://twitter.com/EvieEvieXia/status/1623289309028810753][View Tweet]]

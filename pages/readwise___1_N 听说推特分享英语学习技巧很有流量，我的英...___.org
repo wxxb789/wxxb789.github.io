@@ -2,6 +2,8 @@
 :title: readwise/1_N 听说推特分享英语学习技巧很有流量，我的英...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[GIA917229015 on Twitter]]
 :full-title: "1/N 听说推特分享英语学习技巧很有流量，我的英..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1552319982956154880/ovry18-I.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 1/N 听说推特分享英语学习技巧很有流量，我的英语老师（native speaker） 分享给我过一些 tips 
@@ -20,7 +22,7 @@ Verbs, Action Verbs  Adjectives
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [View Tweet](https://twitter.com/GIA917229015/status/1645423635291844608)
+*** [[https://twitter.com/GIA917229015/status/1645423635291844608][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/N 
@@ -31,7 +33,7 @@ Verbs, Action Verbs  Adjectives
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [View Tweet](https://twitter.com/GIA917229015/status/1645424779472826368)
+*** [[https://twitter.com/GIA917229015/status/1645424779472826368][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/N
@@ -40,11 +42,11 @@ Verbs, Action Verbs  Adjectives
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [View Tweet](https://twitter.com/GIA917229015/status/1645425381229617153)
+*** [[https://twitter.com/GIA917229015/status/1645425381229617153][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 原本有 15 点，我筛选出来 8 点，部分可能不认同例如听播客，看剧。我认为最快的方式还是当做工具多交流。 
 #+END_QUOTE
     date:: [[2023-04-11]]
 *** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [View Tweet](https://twitter.com/GIA917229015/status/1645426140990017536)
+*** [[https://twitter.com/GIA917229015/status/1645426140990017536][View Tweet]]

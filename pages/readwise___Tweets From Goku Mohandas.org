@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Goku Mohandas
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[GokuMohandas on Twitter]]
 :full-title: "Tweets From Goku Mohandas"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1185628451157368832/IePlcysA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🦜 The @raydistributed team released Project Aviary today and besides the really fun way to explore LLM outputs (alongside latency, cost, etc.), I was more interested in how they’re serving this LLM model registry (+ evaluation, batch inference, etc.) 🤯 It took me ~30 minutes to… 
@@ -25,4 +27,4 @@
 #+END_QUOTE
     date:: [[2023-06-01]]
 *** from _Tweets From Goku Mohandas_ by @GokuMohandas on Twitter
-*** [View Tweet](https://twitter.com/GokuMohandas/status/1664112657484611584)
+*** [[https://twitter.com/GokuMohandas/status/1664112657484611584][View Tweet]]

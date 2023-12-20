@@ -2,6 +2,8 @@
 :title: readwise/How to Summarize a 4hr L...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[jayzpio on Twitter]]
 :full-title: "How to Summarize a 4hr L..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1637700679287308289/Q71-p3f6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 How To Summarize a 4hr long vid into 3min reading:
@@ -27,7 +29,7 @@ Step 1 - Register OpenAI account and get API🗝️, save it into a ".env" file
 #+END_QUOTE
     date:: [[2023-05-22]]
 *** from _How to Summarize a 4hr L..._ by @jayzpio on Twitter
-*** [View Tweet](https://twitter.com/jayzpio/status/1659784597041827840)
+*** [[https://twitter.com/jayzpio/status/1659784597041827840][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Step 2 - We use the dotenv library to load the API 🗝️saved inside the .env file. 
@@ -38,7 +40,7 @@ Then we set the environment variable OPENAI API KEY. Our program now has access 
 #+END_QUOTE
     date:: [[2023-05-22]]
 *** from _How to Summarize a 4hr L..._ by @jayzpio on Twitter
-*** [View Tweet](https://twitter.com/jayzpio/status/1659784598304202754)
+*** [[https://twitter.com/jayzpio/status/1659784598304202754][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Step 3 - Langchain has several data loaders, one of which can load youtube transcripts📜
@@ -53,7 +55,7 @@ loader.load() and now we can see the transcripts😼
 #+END_QUOTE
     date:: [[2023-05-22]]
 *** from _How to Summarize a 4hr L..._ by @jayzpio on Twitter
-*** [View Tweet](https://twitter.com/jayzpio/status/1659784599843528706)
+*** [[https://twitter.com/jayzpio/status/1659784599843528706][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Step 4 - There are lot of words so we can’t send all the text to chatgpt at once 🙃
@@ -66,7 +68,7 @@ Now the transcript becomes 20 smaller 🦐pieces. we can send them to chatgpt on
 #+END_QUOTE
     date:: [[2023-05-22]]
 *** from _How to Summarize a 4hr L..._ by @jayzpio on Twitter
-*** [View Tweet](https://twitter.com/jayzpio/status/1659784601017909251)
+*** [[https://twitter.com/jayzpio/status/1659784601017909251][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Step 5 - Our goal is to summarize a 4-hr long 😴transcript into 3 min reading 😺
@@ -81,7 +83,7 @@ Run it & in a few mins you'll have a 3min summary!🙌
 #+END_QUOTE
     date:: [[2023-05-22]]
 *** from _How to Summarize a 4hr L..._ by @jayzpio on Twitter
-*** [View Tweet](https://twitter.com/jayzpio/status/1659784602230161408)
+*** [[https://twitter.com/jayzpio/status/1659784602230161408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Link to full code here:
@@ -89,4 +91,4 @@ https://t.co/PxL5EAwwX4
 #+END_QUOTE
     date:: [[2023-05-22]]
 *** from _How to Summarize a 4hr L..._ by @jayzpio on Twitter
-*** [View Tweet](https://twitter.com/jayzpio/status/1659784603391913984)
+*** [[https://twitter.com/jayzpio/status/1659784603391913984][View Tweet]]

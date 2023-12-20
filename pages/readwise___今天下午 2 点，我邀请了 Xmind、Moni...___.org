@@ -2,6 +2,8 @@
 :title: readwise/今天下午 2 点，我邀请了 Xmind、Moni...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[LuoSays on Twitter]]
 :full-title: "今天下午 2 点，我邀请了 Xmind、Moni..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1674581285036265473/Q2yV-4kt.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天下午 2 点，我邀请了 Xmind、Monica、Zeabur 的伙伴们一起做客 @zhuhe 大哥的 “GOO 社群”线上直播，我们会探讨 Product Hunt 发布、Twitter 品牌增长、海外冷启动等话题。
@@ -24,4 +26,4 @@
 #+END_QUOTE
     date:: [[2023-08-24]]
 *** from _今天下午 2 点，我邀请了 Xmind、Moni..._ by @LuoSays on Twitter
-*** [View Tweet](https://twitter.com/LuoSays/status/1694499788878987500)
+*** [[https://twitter.com/LuoSays/status/1694499788878987500][View Tweet]]

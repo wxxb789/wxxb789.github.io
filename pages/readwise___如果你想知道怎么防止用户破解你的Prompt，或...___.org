@@ -2,6 +2,8 @@
 :title: readwise/如果你想知道怎么防止用户破解你的Prompt，或...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "如果你想知道怎么防止用户破解你的Prompt，或..."
@@ -10,11 +12,11 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 如果你想知道怎么防止用户破解你的Prompt，或者输入暴利色情的内容，这一集必看！ 
 #+END_QUOTE
     date:: [[2023-06-02]]
 *** from _如果你想知道怎么防止用户破解你的Prompt，或..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1664337273528131588)
+*** [[https://twitter.com/dotey/status/1664337273528131588][View Tweet]]

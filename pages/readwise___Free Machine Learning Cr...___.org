@@ -2,6 +2,8 @@
 :title: readwise/Free Machine Learning Cr...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[abacusai on Twitter]]
 :full-title: "Free Machine Learning Cr..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1664704905414868994/_CIOI3Xw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Free machine learning crash course from @BerkeleyML.
@@ -23,4 +25,4 @@ https://t.co/ygHNkWxU9X
 #+END_QUOTE
     date:: [[2022-12-24]]
 *** from _Free Machine Learning Cr..._ by @abacusai on Twitter
-*** [View Tweet](https://twitter.com/abacusai/status/1606318746783535105)
+*** [[https://twitter.com/abacusai/status/1606318746783535105][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/63/d4/631a9095c6d982147cfc2cbf598e9fd4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 管理模块：策略顶层配置方案的制定者
@@ -20,7 +22,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj2aptpg5skywtp8kb7vv0)
+*** [[https://read.readwise.io/read/01gxzj2aptpg5skywtp8kb7vv0][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 交易模块：交易的实际执行者
@@ -31,14 +33,14 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj3c8cdeh46t4q1x61x498)
+*** [[https://read.readwise.io/read/01gxzj3c8cdeh46t4q1x61x498][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 另一种是交易员手动交易。交易员会根据量化投资系统生成的交易目标，通过手动下单的方式来完成这个交易目标。 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj3gv5fw6vgz3ptedeam99)
+*** [[https://read.readwise.io/read/01gxzj3gv5fw6vgz3ptedeam99][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第一种方法是我最推荐的，就是场内 ETF 基金。场内基金就是指在股票交易所挂牌上市的基金，像股票一样能够用股票账户进行买卖交易。也就是说，只要你开了股票账户，就能够交易场内基金。而且场内 ETF 基金的交易费率非常低，只有万分之一到万分之五。
@@ -49,7 +51,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj53ykepkz1pk3k5ttd026)
+*** [[https://read.readwise.io/read/01gxzj53ykepkz1pk3k5ttd026][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 业绩分析模块：来看看我们的收益是多少
@@ -58,7 +60,7 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj6mc2kmfsxcf422ypka01)
+*** [[https://read.readwise.io/read/01gxzj6mc2kmfsxcf422ypka01][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 管理模块是整个系统的绝对核心，我们的项目在开盘前调用管理模块，得到当天具体的目标仓位。
@@ -71,11 +73,11 @@
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj818npw7s0xx2shzg129b)
+*** [[https://read.readwise.io/read/01gxzj818npw7s0xx2shzg129b][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 分享几个带源码的策略，帮助大家学习 价值选股：https://www.joinquant.com/view/community/detail/713a60a2a1daaac2276dab73eb322ddc?type=1 海龟交易：https://www.joinquant.com/view/community/detail/4c13f3474a2164f7ea4620105c479c73?type=1 2020优秀文章：https://www.joinquant.com/view/community/detail/e83e772fa0c3292b418a3e43e7eb737e?type=1 
 #+END_QUOTE
     date:: [[2023-04-14]]
 *** from _27｜量化实战：从0到1搭建起一套简单的量化投资系统（下）_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxzj8ckna67cqp83g8xt436f)
+*** [[https://read.readwise.io/read/01gxzj8ckna67cqp83g8xt436f][View Highlight]]

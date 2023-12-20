@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Easyplux
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[easyplux on Twitter]]
 :full-title: "Tweets From Easyplux"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1503274747622162439/6hHPNhAu.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 微软开源了贾维斯（JARVIS）就是钢铁侠那个贾维斯。
@@ -28,4 +30,4 @@ RAM > 24GB
 #+END_QUOTE
     date:: [[2023-04-04]]
 *** from _Tweets From Easyplux_ by @easyplux on Twitter
-*** [View Tweet](https://twitter.com/easyplux/status/1642884426769088517)
+*** [[https://twitter.com/easyplux/status/1642884426769088517][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/使用 Docker Compose 建立你自己的开发环境
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[咸糖 - 自律者自由]]
 :full-title: "使用 Docker Compose 建立你自己的开发环境"
@@ -10,7 +12,7 @@
 :image-url: https://vim0.com/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 什么是 docker-compose
@@ -19,14 +21,14 @@ Compose 是一个用于定义和运行多容器 Docker 应用程序的工具。�
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmas8zj70rkjf56acwcey9zz)
+*** [[https://read.readwise.io/read/01gmas8zj70rkjf56acwcey9zz][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 也就是只需要简单的一句 `docker-compose up` 就可以启动项目中所依赖的相关服务，例如数据库、缓存、微服务等。 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmas952289xkszgygst7ex74)
+*** [[https://read.readwise.io/read/01gmas952289xkszgygst7ex74][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 公司仓库的 private 库
@@ -39,7 +41,7 @@ Compose 是一个用于定义和运行多容器 Docker 应用程序的工具。�
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmasaeghc552pj3js792pak7)
+*** [[https://read.readwise.io/read/01gmasaeghc552pj3js792pak7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 编写 compose 的配置文件
@@ -53,7 +55,7 @@ Compose 有两个重要的概念：
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmasavgkzpraepft3as2205z)
+*** [[https://read.readwise.io/read/01gmasavgkzpraepft3as2205z][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 网络隔离
@@ -68,7 +70,7 @@ docker 是建议使用自己建立的网络，而不是使用默认的网络。
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmasb5bn6x1xt3bjd8wnmwyx)
+*** [[https://read.readwise.io/read/01gmasb5bn6x1xt3bjd8wnmwyx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 常用的最佳实践使用多阶段构建
@@ -77,7 +79,7 @@ docker 是建议使用自己建立的网络，而不是使用默认的网络。
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmasbq9ykf5r6tj0gbhvvfd2)
+*** [[https://read.readwise.io/read/01gmasbq9ykf5r6tj0gbhvvfd2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 调整 Dockerfile 的顺序，因为每一个步骤发生变化后，后面的步骤的缓存都会废纸，所以将变动较大的放在后面比较好。
@@ -86,4 +88,4 @@ docker 是建议使用自己建立的网络，而不是使用默认的网络。
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用 Docker Compose 建立你自己的开发环境_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmasc8t0x3x1c9am9kg62vvf)
+*** [[https://read.readwise.io/read/01gmasc8t0x3x1c9am9kg62vvf][View Highlight]]

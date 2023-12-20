@@ -2,6 +2,8 @@
 :title: readwise/今天中国统计部公布cpi和ppi数据。基本上没有...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Alex_perception on Twitter]]
 :full-title: "今天中国统计部公布cpi和ppi数据。基本上没有..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1692350922599596032/Hz0cOlcE.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天中国统计部公布CPI和PPI数据。基本上没有什么意外的两科全挂了，现在的情况其实没有什么好奇怪的更没有什么好争论的。如果说我再加上点背景，许多人都在说中国统计局为了让数据好看而修改数据，这点绝大部分门内的人都清楚，但即便是下功夫修改之后却依旧是这样，足可见实际可能比我们想象的更深。另外，其实很多身边的案例就可以反映出现实状况，大家其实可以仔细留意一下身边的商业的变化，从我的视角来看现在的衰退是很明显的，当然我就不拿餐厅，商场之类的举例子了，这些现象但凡还出门都应该能看到。
@@ -28,4 +30,4 @@
 #+END_QUOTE
     date:: [[2023-11-11]]
 *** from _今天中国统计部公布cpi和ppi数据。基本上没有..._ by @Alex_perception on Twitter
-*** [View Tweet](https://twitter.com/Alex_perception/status/1722595055800881607)
+*** [[https://twitter.com/Alex_perception/status/1722595055800881607][View Tweet]]

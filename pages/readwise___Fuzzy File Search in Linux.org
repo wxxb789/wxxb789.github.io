@@ -2,6 +2,8 @@
 :title: readwise/Fuzzy File Search in Linux
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Sreenath]]
 :full-title: "Fuzzy File Search in Linux"
@@ -10,14 +12,14 @@
 :image-url: https://itsfoss.com/content/images/2023/06/fuzzy-file-search-linux.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Using `fzf` with `tree` command can help you find the absolute path of a particular file. 
 #+END_QUOTE
     date:: [[2023-06-15]]
 *** from _Fuzzy File Search in Linux_ by Sreenath
-*** [View Highlight](https://read.readwise.io/read/01h2z81xbntzkmrsd1pbsra0w7)
+*** [[https://read.readwise.io/read/01h2z81xbntzkmrsd1pbsra0w7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Now, if you want to copy the location of an item, you don't necessarily need to do it manually. There is a solution for that too.
@@ -34,7 +36,7 @@ This will copy whatever lines you have pressed the enter key, on to your clipboa
 #+END_QUOTE
     date:: [[2023-06-15]]
 *** from _Fuzzy File Search in Linux_ by Sreenath
-*** [View Highlight](https://read.readwise.io/read/01h2z8bvkbg755wxd9pmts3ec7)
+*** [[https://read.readwise.io/read/01h2z8bvkbg755wxd9pmts3ec7][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 •   `cat ~/.bashrc | fzf` - Search Inside Bashrc
@@ -43,7 +45,7 @@ This will copy whatever lines you have pressed the enter key, on to your clipboa
 #+END_QUOTE
     date:: [[2023-06-15]]
 *** from _Fuzzy File Search in Linux_ by Sreenath
-*** [View Highlight](https://read.readwise.io/read/01h2z8c6g5h0d1z2mtj2tbafww)
+*** [[https://read.readwise.io/read/01h2z8c6g5h0d1z2mtj2tbafww][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Another choice: Fzy, the Fuzzy Selector
@@ -52,4 +54,4 @@ Unlike `fzf`, `fzy` is a fuzzy selector, where you will be provided a menu to se
 #+END_QUOTE
     date:: [[2023-06-15]]
 *** from _Fuzzy File Search in Linux_ by Sreenath
-*** [View Highlight](https://read.readwise.io/read/01h2z7zq0p5c53tkvbm8a4rn1t)
+*** [[https://read.readwise.io/read/01h2z7zq0p5c53tkvbm8a4rn1t][View Highlight]]

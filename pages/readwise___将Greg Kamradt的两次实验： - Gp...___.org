@@ -2,6 +2,8 @@
 :title: readwise/将Greg Kamradt的两次实验： - Gp...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "将Greg Kamradt的两次实验： - Gp..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 将Greg Kamradt的两次实验：
@@ -37,7 +39,7 @@ Claude-2.1-200K
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _将Greg Kamradt的两次实验： - Gp..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1727454708627808261)
+*** [[https://twitter.com/dotey/status/1727454708627808261][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我让GPT-4V帮我分析了一下两张图：
@@ -60,4 +62,4 @@ Claude-2.1-200K
 #+END_QUOTE
     date:: [[2023-11-23]]
 *** from _将Greg Kamradt的两次实验： - Gp..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1727456845646733767)
+*** [[https://twitter.com/dotey/status/1727456845646733767][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/问：领导说：“你们开发人员做了这么多年还等着主管...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "问：领导说：“你们开发人员做了这么多年还等着主管..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 问：领导说：“你们开发人员做了这么多年还等着主管给你们下发任务？”，领导这么说是不是不太符合软件工程管理？
@@ -26,4 +28,4 @@
 #+END_QUOTE
     date:: [[2023-06-25]]
 *** from _问：领导说：“你们开发人员做了这么多年还等着主管..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1672649605497131010)
+*** [[https://twitter.com/dotey/status/1672649605497131010][View Tweet]]

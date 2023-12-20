@@ -2,6 +2,8 @@
 :title: readwise/有时候我需要把pdf转成图片，还需要几页合并成一...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
 :full-title: "有时候我需要把pdf转成图片，还需要几页合并成一..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 有时候我需要把PDF转成图片，还需要几页合并成一张图片，以前让GPT-4帮我写过代码本地执行，现在简单了，直接传到Code Interpreter，一个Prompt搞定！
@@ -22,4 +24,4 @@
 #+END_QUOTE
     date:: [[2023-07-08]]
 *** from _有时候我需要把pdf转成图片，还需要几页合并成一..._ by @dotey on Twitter
-*** [View Tweet](https://twitter.com/dotey/status/1677426953207382018)
+*** [[https://twitter.com/dotey/status/1677426953207382018][View Tweet]]

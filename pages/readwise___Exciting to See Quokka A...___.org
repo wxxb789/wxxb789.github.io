@@ -2,6 +2,8 @@
 :title: readwise/Exciting to See Quokka A...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[robertnishihara on Twitter]]
 :full-title: "Exciting to See Quokka A..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/935645282942857216/cemofTPP.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Exciting to see Quokka at the top of Hacker News (written by Ziheng Wang).
@@ -25,14 +27,14 @@ In ~1000 lines of Python, Quokka is a high performance fault-tolerant query engi
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014781540798466)
+*** [[https://twitter.com/robertnishihara/status/1609014781540798466][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 We tried to design #Ray to be as flexible as possible, and this makes it possible to build not only scalable applications with Ray, but also to build entire scalable systems and products on top. 
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014784237658115)
+*** [[https://twitter.com/robertnishihara/status/1609014784237658115][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @raydistributed's flexibility comes from separating functionality into two layers
@@ -42,7 +44,7 @@ We tried to design #Ray to be as flexible as possible, and this makes it possibl
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014786209062913)
+*** [[https://twitter.com/robertnishihara/status/1609014786209062913][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 The lower-level APIs are very general (because they are lower level) and can be used to scale arbitrary Python code.
@@ -51,7 +53,7 @@ The higher-level libraries are performant and easier to use out of the box for s
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014788218028034)
+*** [[https://twitter.com/robertnishihara/status/1609014788218028034][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 I think Python is so successful in large part due to it's great library ecosystem.
@@ -62,7 +64,7 @@ Quokka is a great example of this!
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014790218711041)
+*** [[https://twitter.com/robertnishihara/status/1609014790218711041][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Here's the Quokka code on GitHub.
@@ -71,7 +73,7 @@ https://t.co/qkyWSvdj1l
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014792479457286)
+*** [[https://twitter.com/robertnishihara/status/1609014792479457286][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Also, a gem from the documentation (which has yet to be updated):
@@ -80,11 +82,11 @@ Also, a gem from the documentation (which has yet to be updated):
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609014794555740161)
+*** [[https://twitter.com/robertnishihara/status/1609014794555740161][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @marsupialtail_2 is the author of Quokka 🔥🔥 
 #+END_QUOTE
     date:: [[2022-12-31]]
 *** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [View Tweet](https://twitter.com/robertnishihara/status/1609017205999403008)
+*** [[https://twitter.com/robertnishihara/status/1609017205999403008][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/最近b站看的多 B站上40位宝藏Up主 1_...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Bitturing on Twitter]]
 :full-title: "最近b站看的多 B站上40位宝藏Up主 1/..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 最近B站看的多
@@ -203,4 +205,4 @@ https://t.co/K4WCsDaZne
 #+END_QUOTE
     date:: [[2023-09-05]]
 *** from _最近b站看的多 B站上40位宝藏Up主 1/..._ by @Bitturing on Twitter
-*** [View Tweet](https://twitter.com/Bitturing/status/1698632403449999453)
+*** [[https://twitter.com/Bitturing/status/1698632403449999453][View Tweet]]

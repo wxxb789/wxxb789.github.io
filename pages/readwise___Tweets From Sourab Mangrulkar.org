@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Sourab Mangrulkar
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[sourab_m on Twitter]]
 :full-title: "Tweets From Sourab Mangrulkar"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1725979829898735616/tH8AHKgg.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 🤗PEFT 0.4.0 is out with exciting features! ✨
@@ -28,4 +30,4 @@ Release Notes 📜: https://t.co/775WiLnHN6
 #+END_QUOTE
     date:: [[2023-07-19]]
 *** from _Tweets From Sourab Mangrulkar_ by @sourab_m on Twitter
-*** [View Tweet](https://twitter.com/sourab_m/status/1681238154987339777)
+*** [[https://twitter.com/sourab_m/status/1681238154987339777][View Tweet]]

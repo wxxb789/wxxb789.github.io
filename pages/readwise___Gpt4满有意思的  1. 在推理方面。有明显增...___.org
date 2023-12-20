@@ -2,6 +2,8 @@
 :title: readwise/Gpt4满有意思的  1. 在推理方面。有明显增...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[mtrainier2020 on Twitter]]
 :full-title: "Gpt4满有意思的  1. 在推理方面。有明显增..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1653584496460197889/7cJQMLho.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 GPT4满有意思的 
@@ -18,18 +20,18 @@ GPT4满有意思的
 #+END_QUOTE
     date:: [[2023-03-15]]
 *** from _Gpt4满有意思的  1. 在推理方面。有明显增..._ by @mtrainier2020 on Twitter
-*** [View Tweet](https://twitter.com/mtrainier2020/status/1635820953304457216)
+*** [[https://twitter.com/mtrainier2020/status/1635820953304457216][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这也解释了GPT4在考试方面的优秀表现。2. 数据处理能力。把信用卡账单Excel扔给它，让它做分类，基本上非常准确。可以说是一般bookkeeper也就这样。那么理论上来讲，让它能访问你的邮箱，信用卡账单，基本上能帮你把账目，invoice什么都理得非常清楚。所以demo中用来报税这个应用也是合理的。2/n 
 #+END_QUOTE
     date:: [[2023-03-15]]
 *** from _Gpt4满有意思的  1. 在推理方面。有明显增..._ by @mtrainier2020 on Twitter
-*** [View Tweet](https://twitter.com/mtrainier2020/status/1635820955942662144)
+*** [[https://twitter.com/mtrainier2020/status/1635820955942662144][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 GPT4的technical report 并没有公布它怎么算的，怎么训练的。但是仅仅从表现上看，算法肯定有重大改进。后面Google，FB估计也不会再公布算法的改进了。学界将比较无奈，根本玩不起，也没法实验自己的想法。n/n 
 #+END_QUOTE
     date:: [[2023-03-15]]
 *** from _Gpt4满有意思的  1. 在推理方面。有明显增..._ by @mtrainier2020 on Twitter
-*** [View Tweet](https://twitter.com/mtrainier2020/status/1635820957821726720)
+*** [[https://twitter.com/mtrainier2020/status/1635820957821726720][View Tweet]]

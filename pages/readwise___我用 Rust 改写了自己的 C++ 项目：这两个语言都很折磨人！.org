@@ -2,6 +2,8 @@
 :title: readwise/我用 Rust 改写了自己的 C++ 项目：这两个语言都很折磨人！
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[infoq.cn]]
 :full-title: "我用 Rust 改写了自己的 C++ 项目：这两个语言都很折磨人！"
@@ -10,14 +12,14 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_552953/infoq_icon.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 与 C++编译器相比，通过 rustup 发布的 Rust 工具链似乎已经是优化完成的结果。PGO 加上 BOLT 的组合只带来了不到 10%的性能提升。但有提升就是好的，所以在后续与 C++的竞争中我们会继续使用这个速度最快的工具链。 
 #+END_QUOTE
     date:: [[2023-01-31]]
 *** from _我用 Rust 改写了自己的 C++ 项目：这两个语言都很折磨人！_ by infoq.cn
-*** [View Highlight](https://read.readwise.io/read/01gr2xhq4x705h3ts115varw1z)
+*** [[https://read.readwise.io/read/01gr2xhq4x705h3ts115varw1z][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 优化 C++构建
@@ -26,4 +28,4 @@
 #+END_QUOTE
     date:: [[2023-01-31]]
 *** from _我用 Rust 改写了自己的 C++ 项目：这两个语言都很折磨人！_ by infoq.cn
-*** [View Highlight](https://read.readwise.io/read/01gr2xjg4prjgcr0fh4m66sbwb)
+*** [[https://read.readwise.io/read/01gr2xjg4prjgcr0fh4m66sbwb][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Cal Short
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[imcalshort on Twitter]]
 :full-title: "Tweets From Cal Short"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1596997586338054144/l7fsHW0S.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Using ChatGPT, Jasper or another AI tool to write articles?
@@ -23,4 +25,4 @@ Oh, you can sign up for free too.
 #+END_QUOTE
     date:: [[2023-06-12]]
 *** from _Tweets From Cal Short_ by @imcalshort on Twitter
-*** [View Tweet](https://twitter.com/imcalshort/status/1660686961617805312)
+*** [[https://twitter.com/imcalshort/status/1660686961617805312][View Tweet]]

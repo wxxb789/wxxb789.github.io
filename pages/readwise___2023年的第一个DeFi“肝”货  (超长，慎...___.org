@@ -2,6 +2,8 @@
 :title: readwise/2023年的第一个DeFi“肝”货  (超长，慎...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[0xJamesXXX on Twitter]]
 :full-title: "2023年的第一个DeFi“肝”货  (超长，慎..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1685194033763868672/NsbUN8P6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 2023年的第一个DeFi“肝”货  (超长，慎入!)
@@ -25,7 +27,7 @@
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266991059341317)
+*** [[https://twitter.com/0xJamesXXX/status/1609266991059341317][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2/ 由于DeFi仍处于起步阶段，路线图是大多数协议面对市场和投资者的主要卖点。
@@ -36,7 +38,7 @@
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266992950960128)
+*** [[https://twitter.com/0xJamesXXX/status/1609266992950960128][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3/ @CurveFinance
@@ -54,7 +56,7 @@ https://t.co/CBZblVGuGj
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266994716741632)
+*** [[https://twitter.com/0xJamesXXX/status/1609266994716741632][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4/ @AaveAave
@@ -73,7 +75,7 @@ https://t.co/CBZblVGuGj
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266996730040321)
+*** [[https://twitter.com/0xJamesXXX/status/1609266996730040321][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5/ @AngleProtocol
@@ -90,7 +92,7 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609266998407761920)
+*** [[https://twitter.com/0xJamesXXX/status/1609266998407761920][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6/ @SushiSwap
@@ -109,7 +111,7 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267000404234240)
+*** [[https://twitter.com/0xJamesXXX/status/1609267000404234240][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7/ @GMX_IO
@@ -126,7 +128,7 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267002342006785)
+*** [[https://twitter.com/0xJamesXXX/status/1609267002342006785][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 8/ @LiquityProtocol
@@ -143,7 +145,7 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267003981975553)
+*** [[https://twitter.com/0xJamesXXX/status/1609267003981975553][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 9/ @dYdX
@@ -158,7 +160,7 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267005689036801)
+*** [[https://twitter.com/0xJamesXXX/status/1609267005689036801][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10/ @synthetix_io
@@ -173,7 +175,7 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267007329042432)
+*** [[https://twitter.com/0xJamesXXX/status/1609267007329042432][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 11/ @AlpacaFinance
@@ -192,7 +194,7 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267009048674305)
+*** [[https://twitter.com/0xJamesXXX/status/1609267009048674305][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 12/ @osmosiszone
@@ -207,7 +209,7 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267011087110145)
+*** [[https://twitter.com/0xJamesXXX/status/1609267011087110145][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 13/ @QuickswapDEX
@@ -226,7 +228,7 @@ Polygon上最受欢迎的DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267012899057664)
+*** [[https://twitter.com/0xJamesXXX/status/1609267012899057664][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 14/ @OlympusDAO
@@ -243,7 +245,7 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267014694227969)
+*** [[https://twitter.com/0xJamesXXX/status/1609267014694227969][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 15/ @traderjoe_xyz
@@ -260,7 +262,7 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267016594255872)
+*** [[https://twitter.com/0xJamesXXX/status/1609267016594255872][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 16/  @vela_exchange
@@ -279,7 +281,7 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267018460729345)
+*** [[https://twitter.com/0xJamesXXX/status/1609267018460729345][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 17/ @GearboxProtocol
@@ -296,7 +298,7 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267020310401024)
+*** [[https://twitter.com/0xJamesXXX/status/1609267020310401024][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 18/ @dopex_io
@@ -315,7 +317,7 @@ Arbitrum上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267021900058625)
+*** [[https://twitter.com/0xJamesXXX/status/1609267021900058625][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 19/ @THORChain
@@ -334,7 +336,7 @@ Arbitrum上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267024261435393)
+*** [[https://twitter.com/0xJamesXXX/status/1609267024261435393][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 20/ @BreederDodo
@@ -351,7 +353,7 @@ Arbitrum上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267025968521216)
+*** [[https://twitter.com/0xJamesXXX/status/1609267025968521216][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 21/ @chainlink
@@ -370,7 +372,7 @@ Arbitrum上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267027847569408)
+*** [[https://twitter.com/0xJamesXXX/status/1609267027847569408][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 22/ @spin_fi
@@ -387,7 +389,7 @@ Arbitrum上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267029458178049)
+*** [[https://twitter.com/0xJamesXXX/status/1609267029458178049][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 23/ @ribbonfinance
@@ -404,7 +406,7 @@ Aevo的目标是提供类似CEX的体验，同时保持去中心化。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267031257513984)
+*** [[https://twitter.com/0xJamesXXX/status/1609267031257513984][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 24/@Buffer_Finance
@@ -421,7 +423,7 @@ Aevo的目标是提供类似CEX的体验，同时保持去中心化。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267032784269313)
+*** [[https://twitter.com/0xJamesXXX/status/1609267032784269313][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 25/ @vector_fi
@@ -438,7 +440,7 @@ Trader Joe（TJ）和Echidna Finance的收益率聚合器。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609267034684264448)
+*** [[https://twitter.com/0xJamesXXX/status/1609267034684264448][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 26/ @indexcoop
@@ -455,7 +457,7 @@ Index Coop建立了架构化的DeFi产品。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269056741466113)
+*** [[https://twitter.com/0xJamesXXX/status/1609269056741466113][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 27/ @Platypusdefi
@@ -470,7 +472,7 @@ Index Coop建立了架构化的DeFi产品。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269058507255809)
+*** [[https://twitter.com/0xJamesXXX/status/1609269058507255809][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 28/ @opyn_
@@ -487,7 +489,7 @@ Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269060143034370)
+*** [[https://twitter.com/0xJamesXXX/status/1609269060143034370][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 29/ @pendle_fi
@@ -506,7 +508,7 @@ Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269062420561920)
+*** [[https://twitter.com/0xJamesXXX/status/1609269062420561920][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 30/ @pangolindex
@@ -523,7 +525,7 @@ Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269064500940801)
+*** [[https://twitter.com/0xJamesXXX/status/1609269064500940801][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 31/ @GainsNetwork_io
@@ -542,7 +544,7 @@ Polygon上最受欢迎的永续合约DEX gTrade背后的团队。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269066480652288)
+*** [[https://twitter.com/0xJamesXXX/status/1609269066480652288][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 32/ @vestafinance
@@ -559,7 +561,7 @@ Polygon上最受欢迎的永续合约DEX gTrade背后的团队。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269068447768578)
+*** [[https://twitter.com/0xJamesXXX/status/1609269068447768578][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 33/@redactedcartel
@@ -576,7 +578,7 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269070335213568)
+*** [[https://twitter.com/0xJamesXXX/status/1609269070335213568][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 34/ @Injective_
@@ -593,7 +595,7 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269072491053057)
+*** [[https://twitter.com/0xJamesXXX/status/1609269072491053057][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 35/ @GMDprotocol
@@ -612,7 +614,7 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269074185555968)
+*** [[https://twitter.com/0xJamesXXX/status/1609269074185555968][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 36/ @WOOnetwork
@@ -629,7 +631,7 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269076064632834)
+*** [[https://twitter.com/0xJamesXXX/status/1609269076064632834][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 37/ @NexusMutual
@@ -646,7 +648,7 @@ Nexus V2将允许创建联合体（syndicates），这些syndicates将能够设�
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269077650079744)
+*** [[https://twitter.com/0xJamesXXX/status/1609269077650079744][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 38/ @lyrafinance
@@ -661,7 +663,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269079302627328)
+*** [[https://twitter.com/0xJamesXXX/status/1609269079302627328][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 39/ @PremiaFinance
@@ -678,7 +680,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269080716095488)
+*** [[https://twitter.com/0xJamesXXX/status/1609269080716095488][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 40/ @TeamKujira
@@ -695,7 +697,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269082381221890)
+*** [[https://twitter.com/0xJamesXXX/status/1609269082381221890][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 41/ @rage_trade
@@ -714,7 +716,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269083941502980)
+*** [[https://twitter.com/0xJamesXXX/status/1609269083941502980][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 42/ @UmamiFinance
@@ -731,7 +733,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269085795397632)
+*** [[https://twitter.com/0xJamesXXX/status/1609269085795397632][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 43/ @PlutusDAO_io
@@ -747,7 +749,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269087687028738)
+*** [[https://twitter.com/0xJamesXXX/status/1609269087687028738][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 44/ @DAOJonesOptions
@@ -762,7 +764,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269089725476864)
+*** [[https://twitter.com/0xJamesXXX/status/1609269089725476864][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 45/ @steakhut_fi
@@ -777,7 +779,7 @@ Optimism上最受欢迎的期权DEX。
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269091591917568)
+*** [[https://twitter.com/0xJamesXXX/status/1609269091591917568][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 46/ 希望这个推文可以帮助你大致了解DeFi赛道2023年的发展方向。如果你总结出了一些共性趋势，欢迎在下方评论区留言！
@@ -789,11 +791,11 @@ https://t.co/XqsceKNfdG
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609269093336764416)
+*** [[https://twitter.com/0xJamesXXX/status/1609269093336764416][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 @wublockchain12 @BlockBeatsAsia @TechFlowPost @CTChinaOfficial @BlockDanceCN @ChainCatcher_ @PANewsCN @8BTC_OFFICIAL @Foresight_News 
 #+END_QUOTE
     date:: [[2023-01-02]]
 *** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [View Tweet](https://twitter.com/0xJamesXXX/status/1609430911686410242)
+*** [[https://twitter.com/0xJamesXXX/status/1609430911686410242][View Tweet]]

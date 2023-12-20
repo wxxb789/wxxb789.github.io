@@ -2,6 +2,8 @@
 :title: readwise/Collections - Qdrant
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[qdrant.tech]]
 :full-title: "Collections - Qdrant"
@@ -10,7 +12,7 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Distance metrics are used to measure similarities among vectors. The choice of metric depends on the way vectors obtaining and, in particular, on the method of neural network encoder training.
@@ -23,14 +25,14 @@ Qdrant supports these most popular types of metrics:
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Collections - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d7dw2nxyrv995v8s6ftfet)
+*** [[https://read.readwise.io/read/01h4d7dw2nxyrv995v8s6ftfet][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 For search efficiency, Cosine similarity is implemented as dot-product over normalized vectors. Vectors are automatically normalized during upload 
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Collections - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d7eptehscesrkq4cqy1hww)
+*** [[https://read.readwise.io/read/01h4d7eptehscesrkq4cqy1hww][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Collection with multiple vectors
@@ -41,7 +43,7 @@ It is possible to have multiple vectors per record. This feature allows for mult
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Collections - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d7n7yc5r3epdwc6z23kqg8)
+*** [[https://read.readwise.io/read/01h4d7n7yc5r3epdwc6z23kqg8][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 Collection aliases
@@ -54,4 +56,4 @@ Thus, it is possible to build a second collection in the background and then swi
 #+END_QUOTE
     date:: [[2023-07-03]]
 *** from _Collections - Qdrant_ by qdrant.tech
-*** [View Highlight](https://read.readwise.io/read/01h4d7sm39cbbtm9fgqsps6dma)
+*** [[https://read.readwise.io/read/01h4d7sm39cbbtm9fgqsps6dma][View Highlight]]

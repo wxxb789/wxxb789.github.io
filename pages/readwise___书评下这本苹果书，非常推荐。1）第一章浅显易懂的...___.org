@@ -2,6 +2,8 @@
 :title: readwise/书评下这本苹果书，非常推荐。1）第一章浅显易懂的...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[haoel on Twitter]]
 :full-title: "书评下这本苹果书，非常推荐。1）第一章浅显易懂的..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1013108572501078016/n-XLSBg7.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 书评下这本苹果书，非常推荐。1）第一章浅显易懂的用一个例子讲明白了神经网络，第三章增强神经网络的各种坑和优化，五六章讲深度学习的问题和全貌。2）数学公式非常的多，但是可以略过，也不影响理解。3）对于第二章，得配合“三蓝一棕”的视频着https://t.co/1yEGXUVZsg 4）好些观点都值得思考…… 
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-03-13]]
 *** from _书评下这本苹果书，非常推荐。1）第一章浅显易懂的..._ by @haoel on Twitter
-*** [View Tweet](https://twitter.com/haoel/status/1634874996077256704)
+*** [[https://twitter.com/haoel/status/1634874996077256704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 让我深深思考的三个观点：图1）简单的算法 + 高质量的数据 比复杂的算法更有效，图2）人类因为分工所以设计出来的系统受到“康威定律”制约，但是A I可能能破解康威定律，图3）是否能够通过简单的算法形成智能，作者使用了DNA该做类比…… （最后发现，这本书作者的主业是量子物理学家……） 
@@ -32,4 +34,4 @@
 #+END_QUOTE
     date:: [[2023-03-13]]
 *** from _书评下这本苹果书，非常推荐。1）第一章浅显易懂的..._ by @haoel on Twitter
-*** [View Tweet](https://twitter.com/haoel/status/1634875021574430720)
+*** [[https://twitter.com/haoel/status/1634875021574430720][View Tweet]]

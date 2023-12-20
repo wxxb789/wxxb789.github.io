@@ -2,6 +2,8 @@
 :title: readwise/GPT系列的的优势在于zero Shot的mul...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[realrenmin on Twitter]]
 :full-title: "GPT系列的的优势在于zero Shot的mul..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 GPT系列的的优势在于zero shot的multi-task的能力，简言之，就是集合了问答翻译总结等等等任务于一个API让用户可劲造。
@@ -19,14 +21,14 @@ GPT系列的的优势在于zero shot的multi-task的能力，简言之，就是�
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _GPT系列的的优势在于zero Shot的mul..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1635947636531376128)
+*** [[https://twitter.com/realrenmin/status/1635947636531376128][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 无论用户的产品逻辑搭的多么快，当产品成型之后，逻辑就固定下来，此时multitask就没有那么重要了。反而重要的是稳定性，可靠性。 
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _GPT系列的的优势在于zero Shot的mul..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1635947637978415104)
+*** [[https://twitter.com/realrenmin/status/1635947637978415104][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这就一下击中了gpt系列的软肋，zero shot。一般来说，zero shot是无法跟规模训练甚至微调后的模型的稳定性相比拟的，一般来说要落后50%的performance。
@@ -35,4 +37,4 @@ zero shot
 #+END_QUOTE
     date:: [[2023-03-23]]
 *** from _GPT系列的的优势在于zero Shot的mul..._ by @realrenmin on Twitter
-*** [View Tweet](https://twitter.com/realrenmin/status/1635947639328915458)
+*** [[https://twitter.com/realrenmin/status/1635947639328915458][View Tweet]]

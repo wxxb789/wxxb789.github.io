@@ -2,6 +2,8 @@
 :title: readwise/分享一篇不错的讲解字节对齐的文章： 《Struc...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[hemashushu on Twitter]]
 :full-title: "分享一篇不错的讲解字节对齐的文章： 《Struc..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 分享一篇不错的讲解字节对齐的文章：
@@ -21,7 +23,7 @@ https://t.co/tDwzBTxreo
 #+END_QUOTE
     date:: [[2023-08-18]]
 *** from _分享一篇不错的讲解字节对齐的文章： 《Struc..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1692403194150928630)
+*** [[https://twitter.com/hemashushu/status/1692403194150928630][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 则可能会被分成两段，cpu需要发起两次内存fetch指令然后通过移位等位操作合并，造成性能损耗。这篇文章讲解了基本数字的对齐方式，结构体（struct）字段间填充以及它本身的对齐方式，讲得简单易懂所以分享出来。
@@ -30,7 +32,7 @@ https://t.co/tDwzBTxreo
 #+END_QUOTE
     date:: [[2023-08-18]]
 *** from _分享一篇不错的讲解字节对齐的文章： 《Struc..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1692403196336189945)
+*** [[https://twitter.com/hemashushu/status/1692403196336189945][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 学习 #C / #Rust 一类语言一般会碰到“指针”这个难点，其实只要简单从系统的内存管理/进程的内存布局/函数调用规范以及一丁点组成原理就轻松跃过，很多“高级的”概念其实是“障眼法”，本身是很简单的。Rust 的数据布局可以参考
@@ -40,7 +42,7 @@ https://t.co/nxyVN9tNiA
 #+END_QUOTE
     date:: [[2023-08-18]]
 *** from _分享一篇不错的讲解字节对齐的文章： 《Struc..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1692403198517195110)
+*** [[https://twitter.com/hemashushu/status/1692403198517195110][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后再看看它关于指针的玩法：
@@ -54,4 +56,4 @@ https://t.co/Vz5eQIWLjF
 #+END_QUOTE
     date:: [[2023-08-18]]
 *** from _分享一篇不错的讲解字节对齐的文章： 《Struc..._ by @hemashushu on Twitter
-*** [View Tweet](https://twitter.com/hemashushu/status/1692403200685752606)
+*** [[https://twitter.com/hemashushu/status/1692403200685752606][View Tweet]]

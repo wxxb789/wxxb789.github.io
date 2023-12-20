@@ -2,6 +2,8 @@
 :title: readwise/📌 Frontend Development S...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[reactive_dude on Twitter]]
 :full-title: "📌 Frontend Development S..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1510928172686225411/bTCh20YN.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 📌 Frontend development skills are in high demand and very well paid
@@ -21,7 +23,7 @@ Find all you need to start a programming career in 2023 here:
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812169759117315)
+*** [[https://twitter.com/reactive_dude/status/1609812169759117315][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1. HTML + CSS
@@ -36,7 +38,7 @@ Udemy: https://t.co/QwKkDzHl0A
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812171789328384)
+*** [[https://twitter.com/reactive_dude/status/1609812171789328384][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. Design Inspiration
@@ -45,7 +47,7 @@ https://t.co/AoSiRKEoi2
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812173999538176)
+*** [[https://twitter.com/reactive_dude/status/1609812173999538176][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. Git + GitHub
@@ -60,7 +62,7 @@ YouTube: https://t.co/u5O7OHiD6q
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812175878557697)
+*** [[https://twitter.com/reactive_dude/status/1609812175878557697][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. JavaScript 
@@ -75,7 +77,7 @@ Udacity: https://t.co/fpoAfKzKjz
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812177694740480)
+*** [[https://twitter.com/reactive_dude/status/1609812177694740480][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. React
@@ -90,7 +92,7 @@ Udemy: https://t.co/ymkZInb2V7
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812179426975747)
+*** [[https://twitter.com/reactive_dude/status/1609812179426975747][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Avoid these Common mistakes when looking for a dev job:
@@ -99,7 +101,7 @@ https://t.co/vM3njgLvxe
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812181159215106)
+*** [[https://twitter.com/reactive_dude/status/1609812181159215106][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Resume Tips:
@@ -108,7 +110,7 @@ https://t.co/AJozWKGaT1
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812183071825920)
+*** [[https://twitter.com/reactive_dude/status/1609812183071825920][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Games:
@@ -117,7 +119,7 @@ https://t.co/guvWi0rFet
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812185017978880)
+*** [[https://twitter.com/reactive_dude/status/1609812185017978880][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 That's it!
@@ -130,4 +132,4 @@ Good luck! 🙌
 #+END_QUOTE
     date:: [[2023-01-03]]
 *** from _📌 Frontend Development S..._ by @reactive_dude on Twitter
-*** [View Tweet](https://twitter.com/reactive_dude/status/1609812186880249857)
+*** [[https://twitter.com/reactive_dude/status/1609812186880249857][View Tweet]]

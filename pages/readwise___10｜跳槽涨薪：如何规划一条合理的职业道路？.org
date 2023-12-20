@@ -2,6 +2,8 @@
 :title: readwise/10｜跳槽涨薪：如何规划一条合理的职业道路？
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
 :full-title: "10｜跳槽涨薪：如何规划一条合理的职业道路？"
@@ -11,7 +13,7 @@
 :image-url: https://static001.geekbang.org/resource/image/77/4a/77cbd22e68593a88feddbd5d1480534a.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 那么问题就来了：为什么在互联网行业，内部涨薪的幅度总没有跳槽涨薪大呢？简要来讲，主要有三个原因：
@@ -24,42 +26,42 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbq5qxgrfhyryw810bmrkn)
+*** [[https://read.readwise.io/read/01gxkbq5qxgrfhyryw810bmrkn][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 如果不谈对公司的忠诚问题，只站在自己的角度考虑，我的答案非常简单明了：当一家公司阻碍了你职场价值的提升，或者说职场财富的积累，那么就可以离开这家公司了。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbqj19ta6qkbx1vxtx54f2)
+*** [[https://read.readwise.io/read/01gxkbqj19ta6qkbx1vxtx54f2][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第一种情况：你加入这家公司的时候，就是把它当跳板的。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbqms2dkv6qrbxe9tdspyp)
+*** [[https://read.readwise.io/read/01gxkbqms2dkv6qrbxe9tdspyp][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第二种情况：整个行业出现了不可逆转的问题。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbqpyttpfbejne965gv002)
+*** [[https://read.readwise.io/read/01gxkbqpyttpfbejne965gv002][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 第三种情况：当前公司已经无法给你提供任何技术财富和人脉财富。 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbqt28bgbbjqg7j314wn1c)
+*** [[https://read.readwise.io/read/01gxkbqt28bgbbjqg7j314wn1c][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/1d/3a/1d3da0a21c8d512eb7761fc691e1dd3a.jpg?wh=2248x1656) 
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbs62j2cht7h690wkz89pt)
+*** [[https://read.readwise.io/read/01gxkbs62j2cht7h690wkz89pt][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 要加入新公司了，如何谈 offer？
@@ -74,4 +76,4 @@
 #+END_QUOTE
     date:: [[2023-04-09]]
 *** from _10｜跳槽涨薪：如何规划一条合理的职业道路？_ by geekbang.org
-*** [View Highlight](https://read.readwise.io/read/01gxkbsfmdkd21rr7hsxrdxckg)
+*** [[https://read.readwise.io/read/01gxkbsfmdkd21rr7hsxrdxckg][View Highlight]]

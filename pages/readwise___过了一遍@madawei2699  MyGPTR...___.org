@@ -2,6 +2,8 @@
 :title: readwise/过了一遍@madawei2699  MyGPTR...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[balconychy on Twitter]]
 :full-title: "过了一遍@madawei2699  MyGPTR..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1642760288406769665/YsX3blNL.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 过了一遍@madawei2699  MyGPTReader开发日志，里面有详细的作者在开发过程中使用ChatGPT的对话过程。有不少启发，记录如下：
@@ -19,7 +21,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _过了一遍@madawei2699  MyGPTR..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1647858564726394882)
+*** [[https://twitter.com/balconychy/status/1647858564726394882][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3，不用去翻库函数的文档，直接让ChatGPT给你实例，并详细解释给你听
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _过了一遍@madawei2699  MyGPTR..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1647858567603695622)
+*** [[https://twitter.com/balconychy/status/1647858567603695622][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6，可以直接将代码的错误甩给ChatGPT让他去解决
@@ -36,14 +38,14 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _过了一遍@madawei2699  MyGPTR..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1647858570342576129)
+*** [[https://twitter.com/balconychy/status/1647858570342576129][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第5点，作者在开发landing page时给了chatGPT非常详细的要求，然后五六个continue让chatGPT干完这个页面设计，初看非常震惊https://t.co/MyhjHhgxrU 
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _过了一遍@madawei2699  MyGPTR..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1647858572968202242)
+*** [[https://twitter.com/balconychy/status/1647858572968202242][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 第6点，个人在使用ChatGPT写代码时也有发现，如果BuG几次反馈没有解决，那么就不要纠结，赶紧换方案。所谓条条大路通罗马，要谨记目标是实现功能，而实现的方式是由很多种的，我们需要是高效的解决问题。所以最好的方法就是告诉ChatGPT:
@@ -52,7 +54,7 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _过了一遍@madawei2699  MyGPTR..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1647858575996502022)
+*** [[https://twitter.com/balconychy/status/1647858575996502022][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 重写，是对思路的重写梳理 
@@ -61,4 +63,4 @@
 #+END_QUOTE
     date:: [[2023-04-17]]
 *** from _过了一遍@madawei2699  MyGPTR..._ by @balconychy on Twitter
-*** [View Tweet](https://twitter.com/balconychy/status/1647861664702930944)
+*** [[https://twitter.com/balconychy/status/1647861664702930944][View Tweet]]

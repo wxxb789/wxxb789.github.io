@@ -2,6 +2,8 @@
 :title: readwise/让OpenAI API稳定的输出Json， 1...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[sofasay on Twitter]]
 :full-title: "让OpenAI API稳定的输出Json， 1..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/72534312/me.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 让OpenAI API稳定的输出Json，
@@ -22,4 +24,4 @@ https://t.co/pUwOPBw6sV https://t.co/d0imPmWVNo
 #+END_QUOTE
     date:: [[2023-07-27]]
 *** from _让OpenAI API稳定的输出Json， 1..._ by @sofasay on Twitter
-*** [View Tweet](https://twitter.com/sofasay/status/1684394031131037698)
+*** [[https://twitter.com/sofasay/status/1684394031131037698][View Tweet]]

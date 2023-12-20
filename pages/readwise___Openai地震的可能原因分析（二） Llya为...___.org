@@ -2,6 +2,8 @@
 :title: readwise/Openai地震的可能原因分析（二） Llya为...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Danielw19410 on Twitter]]
 :full-title: "Openai地震的可能原因分析（二） Llya为..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1645991676526342145/VYiNTYG4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 openai地震的可能原因分析（二）
@@ -20,7 +22,7 @@ llya为什么这么做？
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882337379184932)
+*** [[https://twitter.com/Danielw19410/status/1725882337379184932][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 我大概看了大概有这么几种言论：
@@ -32,7 +34,7 @@ llya为什么这么做？
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882340097028583)
+*** [[https://twitter.com/Danielw19410/status/1725882340097028583][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 本次分析我尽量只采用当事人说过的原话或者跟当事人现实关系及其密切的人的消息，让我们开始吧。
@@ -45,7 +47,7 @@ llya为什么这么做？
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882342869467171)
+*** [[https://twitter.com/Danielw19410/status/1725882342869467171][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 很明显，重点在于llya认为现在的模型已经不够安全，但greg和sam认为是足够安全的并且可以继续商业化或者进一步研发。
@@ -56,14 +58,14 @@ https://t.co/EQ8P4B0WeG
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882345826472276)
+*** [[https://twitter.com/Danielw19410/status/1725882345826472276][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/shzDcIV6Q1 
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882348808630544)
+*** [[https://twitter.com/Danielw19410/status/1725882348808630544][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 在lex播客中，lex引用了林肯的一段话然后便问llya对agi的看法，以下是回答：（大概在86分钟） 
@@ -74,7 +76,7 @@ https://t.co/shzDcIV6Q1
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882351660773715)
+*** [[https://twitter.com/Danielw19410/status/1725882351660773715][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后在Dwarkesh Patel的播客中回答了关于硬件限制和安全的问题，当时看来llya似乎对GPT4的效果很满意。（此时在3月底GPT4刚刚发布）。到了今年6月llya已经开始产生了担忧。 
@@ -85,35 +87,35 @@ https://t.co/shzDcIV6Q1
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882354726760815)
+*** [[https://twitter.com/Danielw19410/status/1725882354726760815][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 尤其是最近在开发者大会有人爆料自己上传的专有数据被GPT泄露，可能这才是liya下定今天行动的原因。之前Dwarkesh Patel播客中回答的安全人员能够很好保护数据安全目前看已经很难坚持了。(当然还有很火的老奶奶越狱法。）https://t.co/mk6L8bRhrv 
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882357897675092)
+*** [[https://twitter.com/Danielw19410/status/1725882357897675092][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 一个网络安全的常识是数据的泄露是不可逆的，比如用户上传的各种数据、GPT的架构参数等等。在之前openai已经面临零星的因为训练数据不合规而面临起诉的局面，可以想见假设按照开发者大会的进程继续推荐，面临的数据泄露以及起诉将面临数量级的增长。 
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882360787583176)
+*** [[https://twitter.com/Danielw19410/status/1725882360787583176][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这种局面影视剧《切尔诺贝利》事故前的场景演绎得十分生动，负责人命令技术负责人继续实验，但是技术负责人很清楚现在的情况实验后果可能十分严重但负责人认为几率是可以接受的。那么现在的分歧就是sam和llya各自认为数据安全和相应的泄露是否在可以接受的范围内了。 
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882363295793267)
+*** [[https://twitter.com/Danielw19410/status/1725882363295793267][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这也解释了openai公告说sam沟通不真诚的原因，最有可能的解释是讲数据安全的某些问题（但不知道具体是什么）和greg（因为在一线）通气后给压下来了，llya知道后开始谋划并做出了今天的举动。 
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882365761978739)
+*** [[https://twitter.com/Danielw19410/status/1725882365761978739][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 然后再来看看一些主流的说法，其中投票最高的是微软说（这个具体下期分析），我猜测最有可能的情况是微软CEO知道有不合的情况但不知道今天的行动。有两个佐证一是知道就不会参加开发者大会，二是有小道消息说是微软也只是提前几分钟知道。
@@ -121,7 +123,7 @@ https://t.co/5z2Zoh0iP1
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882368395825601)
+*** [[https://twitter.com/Danielw19410/status/1725882368395825601][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 至于算力不足说就更扯了，这个说法是进一步落地GPT4和研发GPT5只能选一个，先不说llya说过硬件不是最主要的问题。 
@@ -130,7 +132,7 @@ https://t.co/5z2Zoh0iP1
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882371701121395)
+*** [[https://twitter.com/Danielw19410/status/1725882371701121395][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 并且根据已知模型的训练成本得出质量明显提高一个台阶训练成本是要呈指数级增加的，也就是说要么两个方向的算力都够要么都不够。不存在所谓只能选一边的“电车”难题。
@@ -138,11 +140,11 @@ https://t.co/5z2Zoh0iP1
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882374863663410)
+*** [[https://twitter.com/Danielw19410/status/1725882374863663410][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最后的妹妹八卦说就更不靠谱了，这种桃色新闻即使是真的也不会通过这种不通知sam的突袭方式举行以防sam说服其他董事改票，就算是真的也会通过sam知情的方式进行。 
 #+END_QUOTE
     date:: [[2023-11-18]]
 *** from _Openai地震的可能原因分析（二） Llya为..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1725882377996779819)
+*** [[https://twitter.com/Danielw19410/status/1725882377996779819][View Tweet]]

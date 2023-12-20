@@ -2,6 +2,8 @@
 :title: readwise/Announcing AnythingLLM....
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[tcarambat on Twitter]]
 :full-title: "Announcing AnythingLLM...."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1507478666296627205/y_oyZVag.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Announcing AnythingLLM. An open-source (MIT) full-stack app for chatting with... anything.
@@ -28,7 +30,7 @@ Announcing AnythingLLM. An open-source (MIT) full-stack app for chatting with...
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545363761922050)
+*** [[https://twitter.com/tcarambat/status/1666545363761922050][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 First, you can find AnythingLLM on Github here 
@@ -44,7 +46,7 @@ Chatting with your documents is the "hello world" of LLM use-cases, why not make
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545366148460545)
+*** [[https://twitter.com/tcarambat/status/1666545366148460545][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 What is so special about AnythingLLM?
@@ -62,7 +64,7 @@ What is so special about AnythingLLM?
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545367662592000)
+*** [[https://twitter.com/tcarambat/status/1666545367662592000][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 ⚡ Efficient vector-caching
@@ -77,7 +79,7 @@ AnythingLLMs vector caching allows you to use the same document across workspace
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545369336119297)
+*** [[https://twitter.com/tcarambat/status/1666545369336119297][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 💎 Persistent and Useable
@@ -91,7 +93,7 @@ The database is locally saved on your machine.
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545371445862400)
+*** [[https://twitter.com/tcarambat/status/1666545371445862400][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 🔑 Bring-Your-Own-Keys
@@ -104,7 +106,7 @@ This keeps overhead low by just using what is existing, easy and accessible.
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545373782085632)
+*** [[https://twitter.com/tcarambat/status/1666545373782085632][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 AnythingLLM is MIT Licensed so go crazy. Read more about AnythingLLM on Medium at:
@@ -112,4 +114,4 @@ https://t.co/EDIUvZkmCx
 #+END_QUOTE
     date:: [[2023-06-08]]
 *** from _Announcing AnythingLLM...._ by @tcarambat on Twitter
-*** [View Tweet](https://twitter.com/tcarambat/status/1666545375950536704)
+*** [[https://twitter.com/tcarambat/status/1666545375950536704][View Tweet]]

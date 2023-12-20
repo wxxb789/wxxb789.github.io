@@ -2,6 +2,8 @@
 :title: readwise/今天 ChatGPT 对外宣布了流传已久的 Pl...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[indigo11 on Twitter]]
 :full-title: "今天 ChatGPT 对外宣布了流传已久的 Pl..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天 ChatGPT 对外宣布了流传已久的 Plugins 功能 👀
@@ -19,14 +21,14 @@
 #+END_QUOTE
     date:: [[2023-03-24]]
 *** from _今天 ChatGPT 对外宣布了流传已久的 Pl..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1639004382212788224)
+*** [[https://twitter.com/indigo11/status/1639004382212788224][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Browsing 插件将用互联网上最新的信息来回答你的问题，给出它的搜索步骤和内容来源链接。其实 OpenAI 的 WebGPT 还有 Google 的 LaMDA2 都做过类似尝试，通过自主的实时检索，回答超越训练语料库范围的内容，只不过这一次是通过插件形式集成到了 ChatGPT。Browsing 使用了 Bing… https://t.co/slPMKBk5Yk https://t.co/aaZPt2eGUB 
 #+END_QUOTE
     date:: [[2023-03-24]]
 *** from _今天 ChatGPT 对外宣布了流传已久的 Pl..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1639004976465977344)
+*** [[https://twitter.com/indigo11/status/1639004976465977344][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Code Interpreter 是一个实验性的模块，它创造了一个可以运行 Python 解释器的沙盒，在防火墙控制下有短暂的存储空间，能处理文件上传和下载，整个虚拟空间在会话期有效。在最初的用户研究中，已经确定代码解释器可以做：
@@ -37,18 +39,18 @@ Code Interpreter 是一个实验性的模块，它创造了一个可以运行 Py
 #+END_QUOTE
     date:: [[2023-03-24]]
 *** from _今天 ChatGPT 对外宣布了流传已久的 Pl..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1639005736893304832)
+*** [[https://twitter.com/indigo11/status/1639005736893304832][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 Retrieval 用于开发 ChatGPT 插件的开源框架，它让 ChatGPT 可以访问个人与组织内部经许可的数据，例如文件、笔记、电子邮件或公共文件等，它允许用户通过提问或用自然语言表达需求。Retrieval 提供了一个自托管的方案，开发者可以部署自己的插件，并在ChatGPT注册。利用 OpenAI… https://t.co/z5Uyb9VOG1 https://t.co/qzuYkSa6B9 
 #+END_QUOTE
     date:: [[2023-03-24]]
 *** from _今天 ChatGPT 对外宣布了流传已久的 Pl..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1639006575250767872)
+*** [[https://twitter.com/indigo11/status/1639006575250767872][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 最后，分享一篇来自 Wolfram 的文章，ChatGPT现在可以通过 Wolfram 插件调用 Wolfram｜Alpha 的知识库，实现了静态知识结合了 LLMs 之后的“计算超能力"。这一切还处于早期阶段，但表现已经令人印象深刻，甚至可能是革命性的！https://t.co/M5RrxQR1cR 
 #+END_QUOTE
     date:: [[2023-03-24]]
 *** from _今天 ChatGPT 对外宣布了流传已久的 Pl..._ by @indigo11 on Twitter
-*** [View Tweet](https://twitter.com/indigo11/status/1639008850329346057)
+*** [[https://twitter.com/indigo11/status/1639008850329346057][View Tweet]]

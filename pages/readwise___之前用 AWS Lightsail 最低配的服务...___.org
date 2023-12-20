@@ -2,6 +2,8 @@
 :title: readwise/之前用 AWS Lightsail 最低配的服务...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[madawei2699 on Twitter]]
 :full-title: "之前用 AWS Lightsail 最低配的服务..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1501196648281624581/f9xJHYdd.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 之前用 AWS Lightsail 最低配的服务器每月要 3.5 刀，换成 Azure Reserved 后成本骤降到每月只需不到 10 元。又把 https://t.co/jxK69UeIsY 的服务器集群降成单机版了，又节省了 5 刀/月。
@@ -21,7 +23,7 @@
 #+END_QUOTE
     date:: [[2023-03-06]]
 *** from _之前用 AWS Lightsail 最低配的服务..._ by @madawei2699 on Twitter
-*** [View Tweet](https://twitter.com/madawei2699/status/1626403799324819456)
+*** [[https://twitter.com/madawei2699/status/1626403799324819456][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/T9VumG0SzG
@@ -29,4 +31,4 @@ Azure 计费的坑，Reserved 实例三年期的只是把计算的费用包含�
 #+END_QUOTE
     date:: [[2023-03-06]]
 *** from _之前用 AWS Lightsail 最低配的服务..._ by @madawei2699 on Twitter
-*** [View Tweet](https://twitter.com/madawei2699/status/1627277752343859202)
+*** [[https://twitter.com/madawei2699/status/1627277752343859202][View Tweet]]

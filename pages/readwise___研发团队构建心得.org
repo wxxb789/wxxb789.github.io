@@ -2,6 +2,8 @@
 :title: readwise/研发团队构建心得
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[manateelazycat.github.io]]
 :full-title: "研发团队构建心得"
@@ -10,7 +12,7 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 研发团队管理最需要做的几个方面是哪些? 我们按照正向和反向的方式来进行论述。
@@ -19,14 +21,14 @@
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _研发团队构建心得_ by manateelazycat.github.io
-*** [View Highlight](https://read.readwise.io/read/01hhskx1rv4185534zeaw3h7dx)
+*** [[https://read.readwise.io/read/01hhskx1rv4185534zeaw3h7dx][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 检查： 检查工作非常重要， 检查的目的不是为了职位等级。 而是通过检查可以知道每个研发人员是否需要帮助？ 或者资源是否有卡住的地方？ 或者大家之间协作存在障碍？ 还或者只是某个人在摸鱼导致进度很缓慢？ 
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _研发团队构建心得_ by manateelazycat.github.io
-*** [View Highlight](https://read.readwise.io/read/01hhskxjzsqez5sjp1retd6fvk)
+*** [[https://read.readwise.io/read/01hhskxjzsqez5sjp1retd6fvk][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 那说到底， 团队负责人怎么做到绵绵不绝的培训呢？
@@ -37,25 +39,25 @@
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _研发团队构建心得_ by manateelazycat.github.io
-*** [View Highlight](https://read.readwise.io/read/01hhskyg5fmszjyfet5msqccnj)
+*** [[https://read.readwise.io/read/01hhskyg5fmszjyfet5msqccnj][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 思路清晰 逻辑推理能力并不等于思路清晰， 思路清晰是要了解用户需求， 知道大方向的逻辑结构和代码的数据流向。 
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _研发团队构建心得_ by manateelazycat.github.io
-*** [View Highlight](https://read.readwise.io/read/01hhskytdaefk9tw6p31kpm6nv)
+*** [[https://read.readwise.io/read/01hhskytdaefk9tw6p31kpm6nv][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 研发团队最核心的就是解决各种卡住的问题， 思路卡住、 资源卡住、 人力协作卡住等等。 
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _研发团队构建心得_ by manateelazycat.github.io
-*** [View Highlight](https://read.readwise.io/read/01hhskvr954yaqdq38yrt7c5mf)
+*** [[https://read.readwise.io/read/01hhskvr954yaqdq38yrt7c5mf][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 人和人之间的差别就是担当， 就是那股骨子里不服输的劲， 就是埋头多做事， 这才是高手和混日子人的本质差别。 
 #+END_QUOTE
     date:: [[2023-12-16]]
 *** from _研发团队构建心得_ by manateelazycat.github.io
-*** [View Highlight](https://read.readwise.io/read/01hhskwnta7y7enej3am721p3c)
+*** [[https://read.readwise.io/read/01hhskwnta7y7enej3am721p3c][View Highlight]]

@@ -2,6 +2,8 @@
 :title: readwise/使用二八法则省力地学习 Awk
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[咸糖 - 自律者自由]]
 :full-title: "使用二八法则省力地学习 Awk"
@@ -10,14 +12,14 @@
 :image-url: https://vim0.com/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 在文章的开篇中有提到 “篇幅只占20%、然而有效性却达到80%"，叫做 “帕累托法则”。指出约有 20% 的因素可以影响 80% 的结果。 对于学习技术也是十分的适用，用得最多的 20% 的技术知识点，可以完成 80% 的技术工作。也就是说其实我们只需要专注最常用的 case 来针对性学习，防止真正重要的内容会被埋没在细枝末节中。 
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用二八法则省力地学习 Awk_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmas6z6nnrebs5e34dc5meg8)
+*** [[https://read.readwise.io/read/01gmas6z6nnrebs5e34dc5meg8][View Highlight]]
 ** 📌
 #+BEGIN_QUOTE
 我们可以将这 10 步分为两大块
@@ -27,4 +29,4 @@
 #+END_QUOTE
     date:: [[2022-12-15]]
 *** from _使用二八法则省力地学习 Awk_ by 咸糖 - 自律者自由
-*** [View Highlight](https://read.readwise.io/read/01gmas7fmne6xc1zhq7620gz4f)
+*** [[https://read.readwise.io/read/01gmas7fmne6xc1zhq7620gz4f][View Highlight]]

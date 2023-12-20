@@ -2,6 +2,8 @@
 :title: readwise/Tweets From Aurimas Griciūnas
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Aurimas_Gr on Twitter]]
 :full-title: "Tweets From Aurimas Griciūnas"
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1725897062296772608/pkRjNV01.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 Here is a short refresher on 𝗔𝗖𝗜𝗗 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝗶𝗲𝘀 𝗼𝗳 𝗗𝗕𝗠𝗦 (𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺).
@@ -23,7 +25,7 @@ If you are interviewing for Data Engineering…
 #+END_QUOTE
     date:: [[2023-06-05]]
 *** from _Tweets From Aurimas Griciūnas_ by @Aurimas_Gr on Twitter
-*** [View Tweet](https://twitter.com/Aurimas_Gr/status/1665326738140798976)
+*** [[https://twitter.com/Aurimas_Gr/status/1665326738140798976][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 What is 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 (𝗖𝗧) in Machine Learning Systems and what steps are needed to achieve it?
@@ -36,4 +38,4 @@ CT is the process of automated ML Model retraining in Production Environments on
 #+END_QUOTE
     date:: [[2023-06-29]]
 *** from _Tweets From Aurimas Griciūnas_ by @Aurimas_Gr on Twitter
-*** [View Tweet](https://twitter.com/Aurimas_Gr/status/1674343346272186368)
+*** [[https://twitter.com/Aurimas_Gr/status/1674343346272186368][View Tweet]]

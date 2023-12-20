@@ -2,6 +2,8 @@
 :title: readwise/\#BibiGPT 每日热门视频总结 2023-0...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Jimmy_JingLv on Twitter]]
 :full-title: "\#BibiGPT 每日热门视频总结 2023-0..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1344697647576170496/pXUmPT0a.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 #BibiGPT 每日热门视频总结 2023-05-16（YouTube 篇）
@@ -25,7 +27,7 @@ https://t.co/uPT8F7LtUF
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853864051974144)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853864051974144][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2. 📝 Introducing Palantir AIP | Capabilities and Product Demo (7次总结)
@@ -36,7 +38,7 @@ https://t.co/7cCQlxPZ1F
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853866920656897)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853866920656897][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 3. 📝 You can slow down aging with zero weird tricks | Dr Morgan Levine (7次总结)
@@ -47,7 +49,7 @@ https://t.co/FRzEqMhUUq
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853871136002048)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853871136002048][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 4. 📝 Eine neue Weltordnung: Wie umgehen mit China? | Frank Sieren zu Gast bei Precht (7次总结)
@@ -58,7 +60,7 @@ https://t.co/21hHDQT0kc
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853875233992704)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853875233992704][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5. 📝 Fresh water scarcity: An introduction to the problem - Christiana Z_ Peppard (6次总结)
@@ -69,7 +71,7 @@ https://t.co/vG9bkTL7eF
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853879277318144)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853879277318144][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6. 📝 Introduction to Large Language Models (3次总结)
@@ -80,7 +82,7 @@ https://t.co/NYsfzfJMq8
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853882066268162)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853882066268162][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 7. 📝 普通人真的需要去上ChatGPT培训班吗？ (3次总结)
@@ -91,7 +93,7 @@ https://t.co/ZpJ64JZ5SM
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658853886374084608)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658853886374084608][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 https://t.co/2r9i8xqdaK
@@ -102,4 +104,4 @@ https://t.co/2r9i8xqdaK
 #+END_QUOTE
     date:: [[2023-05-17]]
 *** from _#BibiGPT 每日热门视频总结 2023-0..._ by @Jimmy_JingLv on Twitter
-*** [View Tweet](https://twitter.com/Jimmy_JingLv/status/1658855386143936512)
+*** [[https://twitter.com/Jimmy_JingLv/status/1658855386143936512][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/LLM Visualization —— 可视化...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[ftium4 on Twitter]]
 :full-title: "LLM Visualization —— 可视化..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1477903349278453762/0OBeufkj.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 LLM Visualization —— 可视化看懂大模型原理
@@ -23,4 +25,4 @@ LLM Visualization —— 可视化看懂大模型原理
 #+END_QUOTE
     date:: [[2023-12-10]]
 *** from _LLM Visualization —— 可视化..._ by @ftium4 on Twitter
-*** [View Tweet](https://twitter.com/ftium4/status/1733537601821589925)
+*** [[https://twitter.com/ftium4/status/1733537601821589925][View Tweet]]

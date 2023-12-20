@@ -2,6 +2,8 @@
 :title: readwise/有一张“每个llm开发者都应该知道的数字”表格很...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[Danielw19410 on Twitter]]
 :full-title: "有一张“每个llm开发者都应该知道的数字”表格很..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1645991676526342145/VYiNTYG4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 有一张“每个LLM开发者都应该知道的数字”表格很不错，灵感来源于谷歌的Jeff Dean的文档“每个工程师都应该知道的数字”。
@@ -20,7 +22,7 @@
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296361029509279)
+*** [[https://twitter.com/Danielw19410/status/1712296361029509279][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 40- 90%--通过在提示符后附加“Be Concise”(要简洁)节省的金额
@@ -28,7 +30,7 @@
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296364129001814)
+*** [[https://twitter.com/Danielw19410/status/1712296364129001814][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1:3--每个单词的平均标记数
@@ -36,14 +38,14 @@ LLM在token上运行。记号是单词或单词的子部分，因此“eating”
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296366431772994)
+*** [[https://twitter.com/Danielw19410/status/1712296366431772994][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 知道这个比率是很重要的，因为大多数计费是在token中完成的，并且LLM的上下文窗口大小也是在token中定义的。 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296368818233581)
+*** [[https://twitter.com/Danielw19410/status/1712296368818233581][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 50:1 --GPT-4与GPT-3.5 Turbo 3的成本比
@@ -51,14 +53,14 @@ LLM在token上运行。记号是单词或单词的子部分，因此“eating”
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296371083235464)
+*** [[https://twitter.com/Danielw19410/status/1712296371083235464][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 （“大约”是因为GPT-4对提示和生成的输出收取不同的费用）-所以你真的需要检查一下GPT-3.5-Turbo能走多远。GPT-3.5-Turbo对于像摘要这样的任务来说绰绰有余。 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296373444608111)
+*** [[https://twitter.com/Danielw19410/status/1712296373444608111][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 5:1 -使用GPT-3.5-Turbo与OpenAI嵌入生成文本的成本比
@@ -66,7 +68,7 @@ LLM在token上运行。记号是单词或单词的子部分，因此“eating”
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296375965405351)
+*** [[https://twitter.com/Danielw19410/status/1712296375965405351][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10:1 -OpenAI嵌入与自托管嵌入的成本比
@@ -74,14 +76,14 @@ LLM在token上运行。记号是单词或单词的子部分，因此“eating”
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296379090190567)
+*** [[https://twitter.com/Danielw19410/status/1712296379090190567][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 对该速率和该节点类型进行一些基本的数学计算表明，自托管嵌入的成本要低得多（便宜10倍）（这是在你开始考虑入口和出口费用之前）。 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296381736718798)
+*** [[https://twitter.com/Danielw19410/status/1712296381736718798][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 6：1 -OpenAI微调与基本模型查询的成本比
@@ -89,7 +91,7 @@ LLM在token上运行。记号是单词或单词的子部分，因此“eating”
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296384492425496)
+*** [[https://twitter.com/Danielw19410/status/1712296384492425496][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1:1 --自托管基本查询与微调模型查询的成本比
@@ -97,7 +99,7 @@ LLM在token上运行。记号是单词或单词的子部分，因此“eating”
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296387147366854)
+*** [[https://twitter.com/Danielw19410/status/1712296387147366854][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 100万美元：在1.4万亿令牌上训练130亿参数模型的成本
@@ -105,14 +107,14 @@ LLaMa的论文提到，他们花了21天的时间使用2048个GPU A100 80 GB GPU
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296389567459336)
+*** [[https://twitter.com/Danielw19410/status/1712296389567459336][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 这不是大多数公司可以做到的（无耻的插件时间：当然，我们Anyscale可以-这是我们的面包和黄油！联系我们，如果你想了解更多）。关键是，培训自己的LLM是可能的，但它并不便宜。而且每次运行都要花上几天时间。使用预先训练的模型要便宜得多。 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296391983485193)
+*** [[https://twitter.com/Danielw19410/status/1712296391983485193][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 < 0.001：微调与从头开始培训的成本比
@@ -120,7 +122,7 @@ LLaMa的论文提到，他们花了21天的时间使用2048个GPU A100 80 GB GPU
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296394260926746)
+*** [[https://twitter.com/Danielw19410/status/1712296394260926746][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 GPU内存容量
@@ -131,7 +133,7 @@ A100：40/80 GB
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296399319269459)
+*** [[https://twitter.com/Danielw19410/status/1712296399319269459][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 2x参数数量：用于服务的LLM的典型GPU存储器要求
@@ -139,14 +141,14 @@ A100：40/80 GB
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296401546457384)
+*** [[https://twitter.com/Danielw19410/status/1712296401546457384][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 当然，也有努力来减少这一点，特别是llama.cpp，它在6 GB GPU上运行130亿个参数模型，通过积极量化到4位（和8位，没有太大的影响），但这是非典型的。 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296403777765537)
+*** [[https://twitter.com/Danielw19410/status/1712296403777765537][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1GB：嵌入模型的典型GPU内存要求
@@ -155,7 +157,7 @@ A100：40/80 GB
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296405963014625)
+*** [[https://twitter.com/Danielw19410/status/1712296405963014625][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 10倍：通过批处理LLM请求提高吞吐量
@@ -163,7 +165,7 @@ A100：40/80 GB
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296408127250713)
+*** [[https://twitter.com/Danielw19410/status/1712296408127250713][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 1 MB：使用13 B参数模型输出1个令牌所需的GPU内存
@@ -171,14 +173,14 @@ A100：40/80 GB
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296410505429045)
+*** [[https://twitter.com/Danielw19410/status/1712296410505429045][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 好吧，如果你想运行更大的批次它开始加起来。因此，如果你想批量处理16个，你需要8 GB的空间。有一些正在开发的技术可以克服这个问题，但它仍然是一个真实的的问题。 
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296412740976830)
+*** [[https://twitter.com/Danielw19410/status/1712296412740976830][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 感谢看到这里,欢迎点赞本条Thread,并且：
@@ -188,4 +190,4 @@ A100：40/80 GB
 #+END_QUOTE
     date:: [[2023-10-12]]
 *** from _有一张“每个llm开发者都应该知道的数字”表格很..._ by @Danielw19410 on Twitter
-*** [View Tweet](https://twitter.com/Danielw19410/status/1712296415005970939)
+*** [[https://twitter.com/Danielw19410/status/1712296415005970939][View Tweet]]

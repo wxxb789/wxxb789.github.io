@@ -2,6 +2,8 @@
 :title: readwise/茅台2.19万亿，未来5年超过茅台的 1、宁德时...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[vrgoogo on Twitter]]
 :full-title: "茅台2.19万亿，未来5年超过茅台的 1、宁德时..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/1700750101285900288/zSC1ivx_.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 茅台2.19万亿，未来5年超过茅台的
@@ -25,7 +27,7 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _茅台2.19万亿，未来5年超过茅台的 1、宁德时..._ by @vrgoogo on Twitter
-*** [View Tweet](https://twitter.com/vrgoogo/status/1644918560077258752)
+*** [[https://twitter.com/vrgoogo/status/1644918560077258752][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 宁德的技术的确一流，跌到也比较快，公司赌性强，预计会在未来5年依然香的很。
@@ -34,7 +36,7 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _茅台2.19万亿，未来5年超过茅台的 1、宁德时..._ by @vrgoogo on Twitter
-*** [View Tweet](https://twitter.com/vrgoogo/status/1644919149133721600)
+*** [[https://twitter.com/vrgoogo/status/1644919149133721600][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 迈瑞优势明显，未来国产的医疗器械会卡脖子，中国高端医疗器械能有一个成大气候的，目前就是迈瑞了。
@@ -43,11 +45,11 @@
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _茅台2.19万亿，未来5年超过茅台的 1、宁德时..._ by @vrgoogo on Twitter
-*** [View Tweet](https://twitter.com/vrgoogo/status/1644919951361445888)
+*** [[https://twitter.com/vrgoogo/status/1644919951361445888][View Tweet]]
 ** 📌
 #+BEGIN_QUOTE
 中芯国际我不会看好，管理层太烂，芯片也不是5年就能搞出来的，北方华创封测方面不错，总的感到芯片行业对中国来说虚的很。汇川在技巧人上倒是一匹黑马。 
 #+END_QUOTE
     date:: [[2023-04-10]]
 *** from _茅台2.19万亿，未来5年超过茅台的 1、宁德时..._ by @vrgoogo on Twitter
-*** [View Tweet](https://twitter.com/vrgoogo/status/1644920489209638912)
+*** [[https://twitter.com/vrgoogo/status/1644920489209638912][View Tweet]]

@@ -2,6 +2,8 @@
 :title: readwise/今天从小报童“Build 2023”发现Obsi...
 :END:
 
+
+* metadata
 :PROPERTIES:
 :author: [[vista8 on Twitter]]
 :full-title: "今天从小报童“Build 2023”发现Obsi..."
@@ -10,7 +12,7 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-18]]
+* Highlights first synced by [[Readwise]] [[2023-12-20]]
 ** 📌
 #+BEGIN_QUOTE
 今天从小报童“Build 2023”发现Obsidian创始人Steph Ango的Github和博客。
@@ -26,4 +28,4 @@ Github：https://t.co/4ef2w1xn9m
 #+END_QUOTE
     date:: [[2023-11-17]]
 *** from _今天从小报童“Build 2023”发现Obsi..._ by @vista8 on Twitter
-*** [View Tweet](https://twitter.com/vista8/status/1725091668968554652)
+*** [[https://twitter.com/vista8/status/1725091668968554652][View Tweet]]
