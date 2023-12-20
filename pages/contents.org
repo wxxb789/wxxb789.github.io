@@ -1,3 +1,4 @@
+* [[wxxb/blog]]
 * resources
 ** [[Generative AI for Beginners by microsoft]]
 ** [[AI for Beginners by microsoft]]
@@ -7,9 +8,14 @@
 ** [[video]]
 *** [[https://www.youtube.com/@OpenAI][OpenAI YouTube]]
 ** [[Book]]
-*** [[https://book.douban.com/subject/36449803/][这就是ChatGPT (豆瓣) (douban.com)]]
-作者 Stephen Wolfram，计算机科学、数学和理论物理学家，当今科学和技术领域重要的革新者之一。
-**
+*** [[book/这就是ChatGPT]]
+** [[Book/Early Access]]
+*** [[Build a Large Language Model (From Scratch)]]
+* tools
+** [[https://devv.ai/zh][Devv]]
+** [[https://www.phind.com/][Phind]]
+** [[https://www.perplexity.ai][perplexity]]
 * [[llm roadmap]]
 * [[finetuning]]
+*
 *

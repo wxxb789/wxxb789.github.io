@@ -1,0 +1,3 @@
+* [[links]]
+** [[https://book.douban.com/subject/36449803/][这就是ChatGPT]]
+* 作者 Stephen Wolfram，计算机科学、数学和理论物理学家，当今科学和技术领域重要的革新者之一。

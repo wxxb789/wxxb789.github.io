@@ -1,0 +1,3 @@
+* [[links]]
+** [[https://www.manning.com/books/build-a-large-language-model-from-scratch][Build a Large Language Model (From Scratch) (manning.com)]]
+*
