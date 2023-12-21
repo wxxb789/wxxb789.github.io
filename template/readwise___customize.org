@@ -7,6 +7,10 @@ readwise/{{full_title | replace("/", "_") | truncate(96) | trim}}
 
 #+BEGIN_SRC jinja
 {%- if true %}
+
+* metadata
+{%- endif -%}
+{%- if true %}
 :PROPERTIES:
 {%- endif -%}
 {% if author | length < 32 %}
@@ -32,7 +36,7 @@ readwise/{{full_title | replace("/", "_") | truncate(96) | trim}}
 {%- endif -%}
 {% if true %}
 :END:
-{% endif %}
+{%- endif -%}
 #+END_SRC
 * highlights header
 
@@ -46,7 +50,7 @@ New highlights added [[{{date}}]] at {{time}}
 * highlight
 
 #+BEGIN_SRC jinja
-{%- if true %}{{'📌'}}{%- endif -%}\ 
+{%- if true %}{{'📌 '}}[[{{highlight_date}}]]{%- if highlight_tags -%}{% for tag in highlight_tags %} [[{{tag}}]], {% endfor %} {%- endif -%} {%- endif -%}\ 
 {%- if true %}
 {{'#+BEGIN_QUOTE'}}{%- endif -%}\ 
 {%- if true %}
@@ -55,25 +59,11 @@ New highlights added [[{{date}}]] at {{time}}
 {%- if true %}
 {{'#+END_QUOTE'}}
 {%- endif -%}\ 
-{%- if highlight_date %}
-    date:: [[{{highlight_date}}]] 
-{%- endif -%}\ 
-{%- if highlight_tags %}
-    tags:: {% for tag in highlight_tags %}#[[{{tag}}]] {% endfor %} 
-{%- endif %}
-
-    - from _{{title}}_ {% if author %}by {{author}}{% endif %}
-
-{%- if highlight_location and highlight_location_url %}
-    [{{highlight_location}}]({{highlight_location_url}})
-{% elif highlight_location %}
-    ({{highlight_location}})
-{%- endif %}
 
     {% if highlight_note %}
     {%- if true %}{{'Note:'}}{%- endif -%}\ 
         {%- if true %}
-            > {{highlight_note}}
+            {{highlight_note}}
         {%- endif -%}
     {% endif %}
 #+END_SRC
