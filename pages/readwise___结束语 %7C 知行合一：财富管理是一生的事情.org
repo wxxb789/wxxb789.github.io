@@ -13,13 +13,10 @@
 :image-url: https://static001.geekbang.org/resource/image/5e/f4/5ee6d80df31e85b71c0eaf18feafb9f4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-14]]
 #+BEGIN_QUOTE
 为了让你更好地理解这个观点，我想和你分享下我自己的经历。我是在十年前读到格雷厄姆写的《聪明的投资者》的。虽然这本书里讲了很多投资案例、投资思想，但时至今日，我脑海中只留下了一个核心观点：聪明的投资者不会总去寻求战胜市场，更多是顺势而为。普通投资者要做到这一点，长期定投指数基金就是一个非常好的选择。
 
 其实，我在十年前刚读完这本书的时候，很是年轻气盛。我当时觉得，我计算机科班出身，要技术有技术，要智商有智商，要精力有精力，正是大展宏图、大幅战胜市场之际，怎么可能仅仅跟着市场，寻求一个每年 7%-8% 的收益率？那个时候，我可以说是“无知乱行”。 
-#+END_QUOTE
-    date:: [[2023-04-14]]
-*** from _结束语 | 知行合一：财富管理是一生的事情_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxzk266shb3se2hbvb396x97][View Highlight]]
+#+END_QUOTE\

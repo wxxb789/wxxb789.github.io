@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-09-07]]
 #+BEGIN_QUOTE
 开源 EvalGPT 🚀
 
@@ -30,14 +30,8 @@ EvalGPT 是一个使用 Go 语言实现的 Code Interpreter & Agent 框架，借
 项目目前还处在早期阶段，大部分的代码还耦合在 Copilot Hub 的代码库中，未来会慢慢抽离出来到该项目中。
 
 欢迎大家贡献想法 & 提 PR。 
-#+END_QUOTE
-    date:: [[2023-09-07]]
-*** from _开源 EvalGPT 🚀 Https://t...._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1699037337815269599][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-09-07]]
 #+BEGIN_QUOTE
 本地可以直接使用命令行来进行调度，作为一个 local based 的 Code Interpreter，支持替换为开源的 Code Llama 模型。 https://t.co/aLVzsuFAlh 
-#+END_QUOTE
-    date:: [[2023-09-07]]
-*** from _开源 EvalGPT 🚀 Https://t...._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1699038125308436712][View Tweet]]
+#+END_QUOTE\

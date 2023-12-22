@@ -1,0 +1,92 @@
+:PROPERTIES:
+:title: readwise/爆赞!! 必须分享，爱死这款由 @JinaAI_...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "爆赞!! 必须分享，爱死这款由 @JinaAI_..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1737369894994227572
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+爆赞!! 必须分享，爱死这款由 <a href="https://twitter.com/JinaAI_">@JinaAI_</a> 开发的工具了:
+
+https://t.co/N7WGt9KcQJ
+
+我一直在寻找集成Prompts 优化，GPTs和二次AI开发的工具,今天终于如愿
+
+普通使用者, 用它可以极致优化Prompt(提示词)；
+开发者用它, 快速集成到MVP产品
+
+还有，它居然支持优化 SD, MJ 那妖娆的Prompt.
+
+以下是示例： <video controls><source src="https://video.twimg.com/ext_tw_video/1737369696037466113/pu/pl/p9lzjAQ5-xtQyHRD.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1737369696037466113/pu/vid/avc1/536x360/_wHrGjBxyolhIBJ3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1737369696037466113/pu/vid/avc1/402x270/1gvoLTE4N3eOYVn9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1737369696037466113/pu/vid/avc1/1072x720/OKIYJSkd_w1krcQg.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+竞技场：一键对比n大语言模型结果
+
+平时我只用ChatGPT,其实Claude可能提供更好的回答。但是得切换窗口啊, 得复制粘贴 Prompts啊
+
+于是，竞技场应运而生。无论是开源的,闭源的；70B的,还是7B的, 还有最近贼火的Mistral,统统都给你集成进来
+
+平时一次复制,到处粘贴。现在一次输入,到处运行,还给你优化。 
+
+![](https://pbs.twimg.com/media/GBxhH8CW4AEmM7H.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+写文章经常遇到插图版权问题，自从使用Stable Diffusion后，这些问题都迎刃而解了
+
+但Prompt的要求很高，需精确描述场景、艺术风格、相机设置等。我曾看过一个300多种艺术家风格的大汇总。
+
+所以我期待能用中文写Prompt，引擎自动优化适配，并对比模型优劣，https://t.co/K14xKbKCSs 正好满足。 
+
+![](https://pbs.twimg.com/media/GBxhZpWW8AAC8pp.jpg) 
+
+![](https://pbs.twimg.com/media/GBxhcM3XsAAls-w.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+Prompt-AS-A-Service: 快捷部署 GPT 应用,向来都是我的刚需。现在不开 GPT 会员，就能用了。
+
+每次提问都需要输入"假设你精通英文,中文,金融...",相当麻烦
+
+PAAS 尝试把 Few-Shot Prompts 部署成服务, 接收术语，吐出结构化答案，极大地节省了时间。
+
+还能快速将其部成 RESTFul API， 集成到产品里 
+
+![](https://pbs.twimg.com/media/GBxiIKuXoAAwslO.png) 
+
+![](https://pbs.twimg.com/media/GBxiIKyWcAAy0Ff.jpg) 
+
+![](https://pbs.twimg.com/media/GBxiIK6W4AAnf_A.png) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+多LLM系统: 如何在30岁前,赚到 100万
+
+请教古今中外的典型巨富，听听他们怎么说。于是，我把胡雪岩，比尔盖茨，马斯克，马云都请来，当门客
+
+每个门客，使用不同的 LLM 当引擎，引导他们说出各自的技巧，最后汇总起来。这个功能太赞了 
+
+![](https://pbs.twimg.com/media/GBxiTGLXAAAexFH.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+最后，王炸级功能 - 多智能体仿真，简直惊为天人。
+
+我可以雇佣巴菲特,马斯克做资产管理, 要求投资苹果股票,获取年化10%；也可以请咪蒙,马斯克，帮写一篇投资方向上的爆款文案
+
+没有 10年编程功底，这活儿整不了。现在在 https://t.co/N7WGt9KcQJ 易如反掌。 
+
+![](https://pbs.twimg.com/media/GBxic7sW8AA1rxE.jpg) 
+
+![](https://pbs.twimg.com/media/GBxifa2WYAAf5Kh.jpg) 
+#+END_QUOTE\

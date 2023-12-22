@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/Cassandra Recently Moved...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[debasishg on Twitter]]
+:full-title: "Cassandra Recently Moved..."
+:category: [[tweets]]
+:url: https://twitter.com/debasishg/status/1737373722963775815
+:image-url: https://pbs.twimg.com/profile_images/1604091163988103170/he5CJ0_O.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+Cassandra recently moved to trie based memtables from their current implementation based on a combination of concurrent skip list and a hierarchy of B-Trees ..
+
+Rereading this paper which discusses the rationale and details of this transition. I shared this paper before on X. Just ICYMI earlier .. (plus a new video - read till the end)
+
+The Introduction section of the paper makes some very good points explaining drawbacks of comparison based data structures to order data in databases. 
+
+Additionally this paper explains a lot regarding the design changes in Cassandra memtables from comparison based data structures to Tries ..
+
+1. how current implementation of on heap memtables stress the GC on the JVM
+2. how tries improve the lookup complexity from O(lg N) to O(lg k) where k is the size of the key
+3. Details about the implementation of the Trie that avoids complex structures on the heap, does efficient cache line packing ensuring data locality, support multiple node types for space efficiency and may other things
+4. Benchmarking of performance
+
+Here's the paper -
+Trie Memtables in Cassandra by Branimir Lambov
+
+.. and here's the video explaining pluggable memtables in Cassandra (fresh from Cassandra Summit) - https://t.co/WSwHd0TRTb<img src='https://pbs.twimg.com/media/GBxf8erbcAAVHRx.jpg'/> 
+#+END_QUOTE\

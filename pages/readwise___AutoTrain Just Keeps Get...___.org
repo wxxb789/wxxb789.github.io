@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/AutoTrain Just Keeps Get...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[abhi1thakur on Twitter]]
+:full-title: "AutoTrain Just Keeps Get..."
+:category: [[tweets]]
+:url: https://twitter.com/abhi1thakur/status/1737586757489569882
+:image-url: https://pbs.twimg.com/profile_images/1603376537939705856/7evOameA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+AutoTrain just keeps getting better everyday! Now, with several major backend improvements, we also have help/info buttons next to input fields to guide you in case of doubts without leaving the application. 💥 Try AutoTrain NOW! P.S. it also works locally! `pip install… 
+
+![](https://pbs.twimg.com/media/GB0lewEXIAAUXU5.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+To run locally: 
+
+![](https://pbs.twimg.com/media/GB0mM57W8AEU5ht.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+Github repo for issues: https://t.co/EgQoumFGfw
+All issues will be answered and resolved within 24 hours! 💥 
+#+END_QUOTE\

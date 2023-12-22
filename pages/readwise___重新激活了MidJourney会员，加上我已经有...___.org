@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 重新激活了MidJourney会员，加上我已经有的ChatGPT会员（还有Notion AI），目前一共有3个AI助理。打算用这个Thread来记录一下我是如何使用ChatGPT+MidJourney的。不定期更新。Notion AI的thread已经有了，在我之前的贴子里。建议添加到书签保存 ：） 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _重新激活了MidJourney会员，加上我已经有..._ by @bearbig on Twitter
-*** [[https://twitter.com/bearbig/status/1637376503599214592][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 1 / 用ChatGPT写Prompt，再用MidJourney来实现。我让ChatGPT给我两个prompt的思路，用来作为一篇博客文章的题图。出来的风格我还挺喜欢。但图上的文字需要PS一下（也很简单。） 
 
@@ -29,11 +26,8 @@
 ![](https://pbs.twimg.com/media/Frkhyt9acAAPb5l.png) 
 
 ![](https://pbs.twimg.com/media/Frkh00qaQAI7bR4.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _重新激活了MidJourney会员，加上我已经有..._ by @bearbig on Twitter
-*** [[https://twitter.com/bearbig/status/1637377284503130113][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 2 / 用ChatGPT帮我总结播客。把一期3个小时的播客，总结为200字的概要。
 
@@ -42,38 +36,26 @@
 ![](https://pbs.twimg.com/media/Frpsqc_aMAEoKHo.jpg) 
 
 ![](https://pbs.twimg.com/media/FrpsqdDaEAE2NGJ.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _重新激活了MidJourney会员，加上我已经有..._ by @bearbig on Twitter
-*** [[https://twitter.com/bearbig/status/1637740989594099712][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 3 / 用上一步得到的文字概述，让ChatGPT创作出适合生成图像的Prompt，然后用MidJourney来生成主题图。我的要求是：分析下面的文字，为我创作3个Prompts，可以用来生成图片。然后得到这样的三个prompts，下一步，直接在MidJourney生成图片试试：） 
 
 ![](https://pbs.twimg.com/media/Frpth1nakAAI-aH.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _重新激活了MidJourney会员，加上我已经有..._ by @bearbig on Twitter
-*** [[https://twitter.com/bearbig/status/1637741910327693312][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 4 / 在MidJourney里用刚刚的三个Prompt来生成图片。直接在Discord里输入上一步得到的Prompt语句。我加上了16:9的参数 --ar 16:9 。
 
 三组图我都不是太满意。要么太具象，要么和我想要的主题不搭。说明AI是需要人指挥的。下一步，我做了些调整，得到了想要的结果。 
 
 ![](https://pbs.twimg.com/media/Frpt3jUaEAIMUf4.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _重新激活了MidJourney会员，加上我已经有..._ by @bearbig on Twitter
-*** [[https://twitter.com/bearbig/status/1637744170206134272][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 5 / 我觉得第三组图还行，但我想要主色调是紫色和粉色（以配合我的博客主题）。另外只是一个人头看着没有想象力，我希望再抽象一些，于是我在原语句上加了两句描述：Use purple and pink as primary colours, landscape view with many people。然后的结果很不错！直接染出大图！完工。完整流程完成！ 
 
 ![](https://pbs.twimg.com/media/Frpw5x3aYAEflP2.jpg) 
 
 ![](https://pbs.twimg.com/media/Frpw7dlakAEY2Qj.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _重新激活了MidJourney会员，加上我已经有..._ by @bearbig on Twitter
-*** [[https://twitter.com/bearbig/status/1637745666633142272][View Tweet]]
+#+END_QUOTE\

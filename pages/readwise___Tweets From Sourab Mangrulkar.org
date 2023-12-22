@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1725979829898735616/tH8AHKgg.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-19]]
 #+BEGIN_QUOTE
 🤗PEFT 0.4.0 is out with exciting features! ✨
 
@@ -27,7 +27,4 @@ Release Notes 📜: https://t.co/775WiLnHN6
 1/7 
 
 ![](https://pbs.twimg.com/media/F1T1MIXaYAIG6pI.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-19]]
-*** from _Tweets From Sourab Mangrulkar_ by @sourab_m on Twitter
-*** [[https://twitter.com/sourab_m/status/1681238154987339777][View Tweet]]
+#+END_QUOTE\

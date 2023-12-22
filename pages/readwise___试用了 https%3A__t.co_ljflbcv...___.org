@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1611817121453080576/8YPBDnUK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-24]]
 #+BEGIN_QUOTE
 试用了 https://t.co/ljflbcvJqK 这款自称为研发者而生的 AI 搜索引擎，我的评价是在技术信息检索方面 Phind 比 new Bing 和 ChatGPT 的体验要好得多，详见下图。
 
@@ -24,16 +24,10 @@
 ![](https://pbs.twimg.com/media/Fpo_JIIacAA2OkG.jpg) 
 
 ![](https://pbs.twimg.com/media/Fpo_KE5aQAEp8RR.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-24]]
-*** from _试用了 https://t.co/ljflbcv..._ by @mr_easonyang on Twitter
-*** [[https://twitter.com/mr_easonyang/status/1628690381155233793][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-24]]
 #+BEGIN_QUOTE
 图一如果图糊了，记得长按加载 4K 。
 
 另外不得不说简中的内容源质量真是一言难尽，这几天放着 ChatGPT Plus 不用，重度体验 new Bing 的我已经不止一次看到 Bing 推荐的链接中充斥着内容工厂和质量不高的博文了... 
-#+END_QUOTE
-    date:: [[2023-02-24]]
-*** from _试用了 https://t.co/ljflbcv..._ by @mr_easonyang on Twitter
-*** [[https://twitter.com/mr_easonyang/status/1628690386351976449][View Tweet]]
+#+END_QUOTE\

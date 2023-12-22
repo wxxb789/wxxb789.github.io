@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 终于抽空看完了这个视频，收获不少。
 
@@ -68,11 +68,8 @@ A: 在提示中植入额外指令，劫持LLM的生成过程。例如，在图�
 数据污染/后门攻击
 Q: 什么是数据污染/后门攻击？
 A: 在预训练数据中植入特定触发词，被训练的LLM会在出现该词时产生非预期的有害响应。例如，出现“James Bond”时输出无意义内容或错误分类。 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _终于抽空看完了这个视频，收获不少。 然后借助工..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1729501074502103320][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 直接向claude提问，Prompt如下
 
@@ -103,7 +100,4 @@ A: Llama 270b模型训练成本约200万美元。
 模型训练
 Q：基础模型训练时间？
 A：基础模型训练需要数月，成本数百万；调优仅需数日,成本更低，可更频繁迭代。 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _终于抽空看完了这个视频，收获不少。 然后借助工..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1729503326453301753][View Tweet]]
+#+END_QUOTE\

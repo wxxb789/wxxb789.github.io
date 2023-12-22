@@ -12,12 +12,9 @@
 :image-url: https://pbs.twimg.com/profile_images/1085701406470750208/iG_bM0AH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-11]]
 #+BEGIN_QUOTE
 #推荐阅读 一个有趣的交互式 Blog，篇篇都是精品长文。作者用可交互页面元素来讲解各种原理知识，如：自行车，声音，机械表，GPS，内燃机，空间几何，光影，行星等。
 https://t.co/Javo1y9Fku <video controls><source src="https://video.twimg.com/ext_tw_video/1734037998948528128/pu/vid/avc1/348x270/Lh6kfyPwL4nxklep.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1734037998948528128/pu/vid/avc1/464x360/BWxObiFO9DdVEHQR.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1734037998948528128/pu/pl/cFYAB_clKWo6V9Ly.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1734037998948528128/pu/vid/avc1/930x720/R6xjfShaolqBCqY0.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-11]]
-*** from _#推荐阅读 一个有趣的交互式 Blog，篇篇都是..._ by @lencx_ on Twitter
-*** [[https://twitter.com/lencx_/status/1734039013869445308][View Tweet]]
+#+END_QUOTE\

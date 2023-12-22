@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1650344223596740608/CFoZsDZq.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 《从GPT小白到专家》
 
@@ -22,22 +22,16 @@
 使用 ChatGPT 作为我的助手，我的工作效率增加了2倍。
 
 以下是使用 ChatGPT从小白到专家的方法： 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661902454588596225][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 1. Prompt风暴
 
 Google Chrome 扩展程序，投喂提供最佳Prompt，让你轻松玩转ChatGPT 和 Google的Bard。
 
 https://t.co/Sf3556cMWO https://t.co/XvpN2QvVAC 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661903366598057984][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 2.提示词训练营
 
@@ -46,11 +40,8 @@ https://t.co/Sf3556cMWO https://t.co/XvpN2QvVAC
 他们还有一个庞大的Discord 社区，由其他人学习如何提示。
 
 https://t.co/aWxgQtLPgR https://t.co/2moCUpSnkF 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661903818324590592][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 3. Prompt作弊器
 
@@ -59,11 +50,8 @@ https://t.co/aWxgQtLPgR https://t.co/2moCUpSnkF
 当您注册我的 AI 时事通讯时，我会立即免费自动将其发送给所有人。
 
 https://t.co/5sEdk0WeWS https://t.co/meVzfvwwzQ 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661904351542247424][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 4. ChatGPT 开发者Prompt
 
@@ -72,11 +60,8 @@ https://t.co/5sEdk0WeWS https://t.co/meVzfvwwzQ
 该课程教您使用大型语言模型 (LLM) 和最佳实践构建应用程序。
 
 https://t.co/PWsjlGnzwu https://t.co/ME5rnYOoGV 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661904623173763072][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 5.FlowGPT
 
@@ -85,11 +70,8 @@ https://t.co/PWsjlGnzwu https://t.co/ME5rnYOoGV
 他们还偶尔举办提示黑客马拉松，让您通过提交最佳Prompt来赚钱。
 
 https://t.co/D98Zrblf4h https://t.co/bhUo2qN9Ld 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661905857171587072][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 6. AI PRM
 
@@ -98,11 +80,8 @@ ChatGPT 主页的一体化提示工具包。
 获取适用于营销人员、客户支持、销售等的提示模板列表。
 
 https://t.co/wAA7Y3jqmM https://t.co/kGgkwDk0av 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661906145567707137][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 7. Prompt工程师指南
 
@@ -111,11 +90,8 @@ https://t.co/wAA7Y3jqmM https://t.co/kGgkwDk0av
 用于提示工程的指南、论文、讲座、笔记本和资源。
 
 https://t.co/uWq2wnA9vt https://t.co/lLzyUa9ulP 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661906594538622983][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 8. Prompt大英雄
 
@@ -124,18 +100,12 @@ https://t.co/uWq2wnA9vt https://t.co/lLzyUa9ulP
 在一处浏览用于创建这些图像的所有提示。
 
 https://t.co/0NKb3oOxVr https://t.co/ZQnoxXNSj3 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661906824923344897][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-26]]
 #+BEGIN_QUOTE
 本文由令人钦佩的AI大神@rowancheung授权傻哥翻译至中文社区。
 
 AI的浪潮你跟上了吗？不想掉队？抱紧傻哥@bitfool1
 
 https://t.co/j5AIfGNQqg 
-#+END_QUOTE
-    date:: [[2023-05-26]]
-*** from _《从gpt小白到专家》 令人震惊，有些老铁甚至..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661907216193175554][View Tweet]]
+#+END_QUOTE\

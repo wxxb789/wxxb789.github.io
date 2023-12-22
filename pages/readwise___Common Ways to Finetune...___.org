@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-15]]
 #+BEGIN_QUOTE
 Common ways to finetune LLMs are to 
 a) update the output layers vs 
@@ -26,11 +26,8 @@ Small plot twist via https://t.co/UtPqJ2DN5q
 1/3 
 
 ![](https://pbs.twimg.com/media/FwLJ65nXsAE12kG.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-15]]
-*** from _Common Ways to Finetune..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1658111264671911938][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-15]]
 #+BEGIN_QUOTE
 It turns out that a), tuning only the output layer, can be better on out-of-distribution tasks. 
 
@@ -39,11 +36,8 @@ But this maybe expected due to the large number of parameters when finetuning th
 2/3 
 
 ![](https://pbs.twimg.com/media/FwLKwqfWIAAdtnm.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-15]]
-*** from _Common Ways to Finetune..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1658111267054157825][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-15]]
 #+BEGIN_QUOTE
 A suggested technique to get the best of both worlds seems to be a 2-step process that 
 1) trains the output layers first, and 
@@ -52,7 +46,4 @@ A suggested technique to get the best of both worlds seems to be a 2-step proces
 Full paper here: https://t.co/UtPqJ2DN5q 
 
 ![](https://pbs.twimg.com/media/FwLLGSHWwAMjtOI.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-15]]
-*** from _Common Ways to Finetune..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1658111269973393418][View Tweet]]
+#+END_QUOTE\

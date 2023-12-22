@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 微信上看到的一份《OpenAI 闭门讨论会V3纪要》，质量很不错，内容参考图片。 
 
@@ -24,11 +24,8 @@
 ![](https://pbs.twimg.com/media/Fr4z891XsAMzLBK.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr4z89rXgAIjp8X.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804447110348800][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr4z9wRWAAA2u5N.jpg) 
 
@@ -37,11 +34,8 @@
 ![](https://pbs.twimg.com/media/Fr4z9wSWYAEldGj.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr4z9wTWwAU-cmV.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804458900520961][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr4z-akXgAECb0L.jpg) 
 
@@ -50,11 +44,8 @@
 ![](https://pbs.twimg.com/media/Fr4z-alWIAMGcRD.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr4z-akWIAAOV1_.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804468861894657][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr4z_CeWAAA2AZg.jpg) 
 
@@ -63,11 +54,8 @@
 ![](https://pbs.twimg.com/media/Fr4z_ChWcAAQ6zY.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr4z_CfWwAEalSr.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804479209250817][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr4z_pbXoAAnuf5.jpg) 
 
@@ -76,11 +64,8 @@
 ![](https://pbs.twimg.com/media/Fr4z_pZXoAEcRdy.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr4z_pbXgAE835s.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804489443393537][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40ANaWYAIpyZc.jpg) 
 
@@ -89,11 +74,8 @@
 ![](https://pbs.twimg.com/media/Fr40ANdX0AED4pP.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr40ANbXoAITJNg.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804499123822592][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40Ay6WIAEaD3C.jpg) 
 
@@ -102,11 +84,8 @@
 ![](https://pbs.twimg.com/media/Fr40AygXoAEON4c.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr40AyhWcAEG_2O.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804509492117506][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40BaGWwAApPJr.jpg) 
 
@@ -115,11 +94,8 @@
 ![](https://pbs.twimg.com/media/Fr40BaHWcAIRxUJ.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr40BaGWYAEdZhx.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804519919255552][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40B9_WYAAbqST.jpg) 
 
@@ -128,11 +104,8 @@
 ![](https://pbs.twimg.com/media/Fr40B9_WwAA2Q6J.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr40B9-WYAYL9ky.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804529520017412][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40CmEWIAAjCHJ.jpg) 
 
@@ -141,11 +114,8 @@
 ![](https://pbs.twimg.com/media/Fr40CmCWAAEcn4n.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr40CmDXgAIc_dp.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804540240859139][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40DNDXwAE2O7G.jpg) 
 
@@ -154,30 +124,18 @@
 ![](https://pbs.twimg.com/media/Fr40DNGXoAAvJU1.jpg) 
 
 ![](https://pbs.twimg.com/media/Fr40DNHWcAE5y3q.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804551288467460][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/Fr40D3OWYAEuV7_.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804559568195589][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 这是一份关于OpenAI的闭门讨论会纪要，主要讨论了多模态预训练大模型GPT-4的能力演变及边界、AI Native Apps、模型格局和LLM相关的非共识判断等议题。与会者讨论了GPT-4带来的新技术和新能力，以及如何定义GPT的能力边界、AI Native领域的优势企业、GPT是否会抢占应用市场等问题。 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638804805207441409][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 《OpenAI 闭门讨论会V3纪要》合订版：
 
 https://t.co/wJ5BK5Vi3F 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _微信上看到的一份《OpenAI 闭门讨论会V3纪..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1638805080383139842][View Tweet]]
+#+END_QUOTE\

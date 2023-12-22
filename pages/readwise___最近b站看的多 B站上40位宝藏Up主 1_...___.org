@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-09-05]]
 #+BEGIN_QUOTE
 最近B站看的多
 
@@ -202,7 +202,4 @@ https://t.co/K4WCsDaZne
 
 40/https://t.co/QS7E6dvVyp
 「手工耿」是一位脑洞超大的手工UP主。像平常说到手工，我们第一时间想到的可能就是皮具或者一些木制品。但耿哥的画风非常奇特，经常出奇奇怪怪的作品，比如：自制倒立洗头机、自制胸口碎大石套装，很多网友戏称：耿哥出品，必属废品。他独特的视频风格在B站也收割了一大波粉丝，目前关注人数已经220W+。 
-#+END_QUOTE
-    date:: [[2023-09-05]]
-*** from _最近b站看的多 B站上40位宝藏Up主 1/..._ by @Bitturing on Twitter
-*** [[https://twitter.com/Bitturing/status/1698632403449999453][View Tweet]]
+#+END_QUOTE\

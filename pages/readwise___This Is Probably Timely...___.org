@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1686761270429577217/xWISGAtA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 This is probably timely for the ChatGPT era-- Our #CHI2023 Late-Breaking-Work paper raises an interesting question:
 
@@ -22,40 +22,28 @@ Are conversations truly desired by users for every kind of question?
 arXiv: https://t.co/iVImJ9eetU 
 
 ![](https://pbs.twimg.com/media/Ft60H2SWYAANTWP.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _This Is Probably Timely..._ by @windx0303 on Twitter
-*** [[https://twitter.com/windx0303/status/1647964084002758659][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 We asked MTurk workers to rate eight aspects of 500 "asking-for-help" questions from AskReddit, with a focus on personal assistant scenarios. These aspects included their preference for a detailed conversation w/ the answerer vs. just asking the question and waiting for replies. 
 
 ![](https://pbs.twimg.com/media/Ft68AfKXwAA5H_5.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _This Is Probably Timely..._ by @windx0303 on Twitter
-*** [[https://twitter.com/windx0303/status/1647964086632607746][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 We then categorized the questions into 27 domains. We found:
 ✅People are ok with some conversation when asking questions (all domains got a rating > 3 out of 5)
 ✅Domains with the highest "conversation" ratings are *highly social and personal*, e.g., mental health, life advice. 
 
 ![](https://pbs.twimg.com/media/Ft712jdaIAAvPiG.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _This Is Probably Timely..._ by @windx0303 on Twitter
-*** [[https://twitter.com/windx0303/status/1648035564330041344][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 At the other end of the spectrum, we found:
 ✅Conversations are deemed less essential for many utilitarian questions, e.g., food, help finding things, or life hacks.
 ✅People prefer not to engage in conversations when asking about NSFW or sensitive subjects. 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _This Is Probably Timely..._ by @windx0303 on Twitter
-*** [[https://twitter.com/windx0303/status/1648048897099698176][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 This work is led by @Alan_7H7, w/ great support from @appleternity (ML) and Avon (qualitative coding). See more details in the paper & video:
 
@@ -63,7 +51,4 @@ arXiv: https://t.co/iVImJ9eMjs
 video: https://t.co/d2vYyrGrC8
 
 Alan, Avon, and I will all be attending #CHI2023 in person. Come say hi :) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _This Is Probably Timely..._ by @windx0303 on Twitter
-*** [[https://twitter.com/windx0303/status/1648050436136640512][View Tweet]]
+#+END_QUOTE\

@@ -12,72 +12,48 @@
 :image-url: https://pbs.twimg.com/profile_images/1684672202430636033/Rc0AyeRv.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 Watching @karpathy's  "State of GPT" and thought I'd share some tips on doing retrieval augmentation that I've found effective with @LangChainAI ... 👇 
 
 ![](https://pbs.twimg.com/media/FxZieBwaIAADePN.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631626440671232][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 #1: Give the model a persona that includes the sought out expertise.
 
 Example: "You are a senior business analyst who is an expert in strategic planning and creating mission, vision, and core value statements for organizations" 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631628193906688][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 #2: Tell the model that it should only use the provided documents as context and provide citations.
 
 Example: You many ONLY use the provided documents to provide your answer and you should always include a citation that is the document's Id where it is used in the answer. 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631629443796993][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 #3: Use an example selector (see https://t.co/0WNVd8pqQT) to provide examples of expected prompts and correct responses.
 
 Highly recommend using the Similarity, MMR, or NGram Overlap selectors to a) reduce # of examples and b) ensure the use of best examples based on prompt. 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631630697922565][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 #4: Make your document embeddings based on text that is most similar to what your user's will be inputing. There is often a disconnect between human inputs and the documents you want to fetch. 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631631989735425][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 #5: When splitting your text for embeddings, chunk them in sections of 150-200 tokens with an overlap of 0-30 tokens.
 
 This represents an avg. paragraph in English, and assuming a paragraph is usually about a single subject this should improve vector based similarity search. 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631633222885376][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 #6: I have found that sentence-transformers work just fine for embedding your documents with the benefit of being free and smaller/more efficient than OpenAI options. 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631634598625280][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 That's it for now.  Let me know what you think and if you have any particular recommendations and/or tips I might have missed.
 
 Cheers 🍻 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Watching @Karpathy's  "S..._ by @waydegilliam on Twitter
-*** [[https://twitter.com/waydegilliam/status/1663631635793977344][View Tweet]]
+#+END_QUOTE\

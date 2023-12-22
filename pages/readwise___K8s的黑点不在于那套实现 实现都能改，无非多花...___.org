@@ -12,40 +12,25 @@
 :image-url: https://pbs.twimg.com/profile_images/959963905379336192/hH7us6--.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 k8s的黑点不在于那套实现 实现都能改，无非多花几个人月。
 在于那套API，不管用go用java，甚至从零用C艹把apiserver重写一遍，你为了保证其它人用起来像个k8s，就得保留那套渣到爆炸的API： 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _K8s的黑点不在于那套实现 实现都能改，无非多花..._ by @ayanamist on Twitter
-*** [[https://twitter.com/ayanamist/status/1729942162249543996][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 没有精细的权限控制，workload+pod的设计导致防御面放在pod维度就要接受workload controller的ddos，而放workload维度就要穷举各种workload，哪天有人新弄了个workload就又要爆炸。 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _K8s的黑点不在于那套实现 实现都能改，无非多花..._ by @ayanamist on Twitter
-*** [[https://twitter.com/ayanamist/status/1729942163625251209][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 informer全憋内存的设计导致集群规模大了，组件内存开销会N倍上升，而且写频繁了加watch多甚至能因为watch推送打爆apiserver的带宽，被业务吐槽业务本身都没用多少网络带宽，却要为k8s管控面花大价钱离谱的一比 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _K8s的黑点不在于那套实现 实现都能改，无非多花..._ by @ayanamist on Twitter
-*** [[https://twitter.com/ayanamist/status/1729942166313824457][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 各种对象之间缺乏关联关系就更别提了，多对一场景用ownerRef根本没办法描述。声明式面向终态设计缺少过程透出，导致灰度的实现无比困难，天天被稳定性那边挑战（对外售卖的公共云产品有同样的问题，天天被客户diss不敢升级，挂了无法有效回滚） 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _K8s的黑点不在于那套实现 实现都能改，无非多花..._ by @ayanamist on Twitter
-*** [[https://twitter.com/ayanamist/status/1729942169203700116][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 总之k8s就是当年omega团队水了一篇论文后内部无法替代borg然后只能向外输出的大便，后来就彻底沦为GKE的大饼，搭配着现在都讲不清的云原生（实则是k8s原生）被cncf到处兜售，老板们又怕踩空被业界淘汰进而互相卷着上线。 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _K8s的黑点不在于那套实现 实现都能改，无非多花..._ by @ayanamist on Twitter
-*** [[https://twitter.com/ayanamist/status/1729942171959357549][View Tweet]]
+#+END_QUOTE\

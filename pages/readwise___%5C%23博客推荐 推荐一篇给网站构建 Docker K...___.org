@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/\#博客推荐 推荐一篇给网站构建 Docker K...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[iguangzhengli on Twitter]]
+:full-title: "\#博客推荐 推荐一篇给网站构建 Docker K..."
+:category: [[tweets]]
+:url: https://twitter.com/iguangzhengli/status/1737405124291829861
+:image-url: https://pbs.twimg.com/profile_images/1558725699665416198/kzh2dLrr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+#博客推荐 推荐一篇给网站构建 docker k8s  在线 playgrounds 练习环境的博客
+
+之前有想过要不要给我的 https://t.co/vERaMMnBRe 也搭建一个类似的，看完这篇博客后放弃了🤣
+
+作者太强了，有很多讲解容器和 k8s 的博客也讲的非常好，这篇博客更是干货满满
+
+https://t.co/pXch4fknkS 
+#+END_QUOTE\

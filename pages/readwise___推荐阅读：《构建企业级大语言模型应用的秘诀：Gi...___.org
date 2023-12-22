@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 推荐阅读：《构建企业级大语言模型应用的秘诀：GitHub Copilot 的实践之路》
 
@@ -55,7 +55,4 @@ GitHub Copilot 开发团队分享了构建这个产品时的经验教训。整�
 https://t.co/HVslngsjzD
 
 中文翻译：构建企业级大语言模型应用的秘诀：GitHub Copilot 的实践之路 [译] https://t.co/jKs8VV0ntl<img src='https://pbs.twimg.com/media/GAjcm5-WcAAV10c.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _推荐阅读：《构建企业级大语言模型应用的秘诀：Gi..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1731876648302035387][View Tweet]]
+#+END_QUOTE\

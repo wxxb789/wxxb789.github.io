@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 A new programming abstraction that I find very elegant:
 
@@ -22,18 +22,12 @@ A new programming abstraction that I find very elegant:
 - Use the object seamlessly in the… 
 
 ![](https://pbs.twimg.com/media/FwGfF4VaEAYnkTK.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _A New Programming Abstra..._ by @DrJimFan on Twitter
-*** [[https://twitter.com/DrJimFan/status/1657782710344249344][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 The library is open-source: @AskMarvinAI, by @jlowin
 
 `@ai_model` is not the only magic Python decorator. There is also `@ai_fn` that makes any function an ambient LLM processor.
 
 https://t.co/ZXElyA0Ihp 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _A New Programming Abstra..._ by @DrJimFan on Twitter
-*** [[https://twitter.com/DrJimFan/status/1657783331050901506][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 I researched PostgREST today.
 
@@ -27,14 +27,8 @@ Here are 4 lessons I learned in 20 minutes:
 4. Good option for a Blazor backend
 
 Hope that's helpful. 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _I Researched PostgREST T..._ by @mjovanovictech on Twitter
-*** [[https://twitter.com/mjovanovictech/status/1638147600535678978][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 If you enjoyed this Tweet, you would love my weekly .NET newsletter. Join 11k+ engineers: https://t.co/zcETFCDreZ 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _I Researched PostgREST T..._ by @mjovanovictech on Twitter
-*** [[https://twitter.com/mjovanovictech/status/1638147602129510407][View Tweet]]
+#+END_QUOTE\

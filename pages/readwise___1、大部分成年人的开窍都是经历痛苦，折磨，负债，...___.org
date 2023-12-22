@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1696731370150825984/8-1Y3zr_.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 1、大部分成年人的开窍都是经历痛苦，折磨，负债，耻辱，大彻大悟才开窍的，没有贵人高人的指点，肯定是要经历磨难的。
 
@@ -38,7 +38,4 @@
 6、开悟不算什么，开悟以后落地生活，才重要。
 
 高维不算什么，不把这些维度和概念当作自傲的资本，跟人都能好好说话，才重要。 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _1、大部分成年人的开窍都是经历痛苦，折磨，负债，..._ by @NPC888666 on Twitter
-*** [[https://twitter.com/NPC888666/status/1719685437588119685][View Tweet]]
+#+END_QUOTE\

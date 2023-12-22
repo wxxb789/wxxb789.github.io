@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/736374741230071808/rXxAAaar.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 We often take .NET for granted, but do you know what technologies Microsoft offered before it? Unfortunately, I'm old enough to have worked with some of these technologies, including VB6.
 
@@ -21,7 +21,4 @@ We often take .NET for granted, but do you know what technologies Microsoft offe
 #dotnet #microsoft #csharp 
 
 ![](https://pbs.twimg.com/media/FxW9N5dX0AEUvFL.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _We Often Take .NET for G..._ by @nickproud on Twitter
-*** [[https://twitter.com/nickproud/status/1663443686062018563][View Tweet]]
+#+END_QUOTE\

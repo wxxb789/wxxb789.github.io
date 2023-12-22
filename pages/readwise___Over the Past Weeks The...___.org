@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-27]]
 #+BEGIN_QUOTE
 Over the past weeks the H4 team has been busy pushing the Zephyr 7B model to new heights 🗻
 
@@ -31,7 +31,4 @@ Here are the intuitions on it
 
 5/ Share everything openly 😁 the recipes, code, model and dataset will be available at https://t.co/qkKhS8eqvt 
 In the meantime the paper is a great starting point: https://t.co/qzZ0tb8Aq1<img src='https://pbs.twimg.com/media/F9brn0CXkAMj6pd.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-10-27]]
-*** from _Over the Past Weeks The..._ by @Thom_Wolf on Twitter
-*** [[https://twitter.com/Thom_Wolf/status/1717821614467739796][View Tweet]]
+#+END_QUOTE\

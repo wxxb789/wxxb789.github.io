@@ -11,8 +11,8 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-15]]
 #+BEGIN_QUOTE
 Remote Tunnels 已作为一个预览特性添加 VSCode 稳定版中。
 
@@ -23,7 +23,4 @@ Remote Tunnels 已作为一个预览特性添加 VSCode 稳定版中。
     •   授权后，在浏览器中打开 `https://vscode.dev/tunnel/ecstatic-bunting/打开的目录`（终端中会输出）。
     •   后面即可通过任意设备通过浏览器，访问这台个人电脑的 VSCode Server（类似远程多面）。
 •   除了通过浏览器的 vscode.dev 访问外，还可以通过 [Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) 扩展，使用 VSCode 桌面客户端访问。 
-#+END_QUOTE
-    date:: [[2022-12-15]]
-*** from _VSCode 1.74 (2022-11) 更新日志_ by rectcircle96@gmail.com (Rectcircle)
-*** [[https://read.readwise.io/read/01gmat50r1rgtgc53trte8cdgj][View Highlight]]
+#+END_QUOTE\

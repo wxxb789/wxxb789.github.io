@@ -12,37 +12,28 @@
 :image-url: https://cdn.staticaly.com/gh/liugezhou/image@master/blog/issue92.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 [好工具周刊～特别放送](https://bestxtools.zhubai.love/posts/2227788146916585472)
 
 《好工具周刊》从发布第一期到现在马上就满一年了，每期发布了 7 个免费的在线工具，到现在已经累计有 300 多个工具了。
 
 我几乎期期必看必体验，而最新的一期为作者整理的2022年最佳免费在线工具，集合了一系列的年度最佳工具。 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _每周小结(*92):新年快乐_ by 六个周
-*** [[https://read.readwise.io/read/01gqfxy41y9fzmjyrvf2hxfzyt][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 [独立开发者变现周刊](https://www.ezindie.com/weekly)
 
 周刊分享的内容包括几个开源项目、独立开发者变现的经历、经验介绍。 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _每周小结(*92):新年快乐_ by 六个周
-*** [[https://read.readwise.io/read/01gqfxyvsa61gxe62z6g47swes][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 [独立产品灵感周刊](https://www.decohack.com/Post/28)
 
 和独立开发者变现周刊类似，灵感周刊每周罗列的一系列独立开发者的项目。 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _每周小结(*92):新年快乐_ by 六个周
-*** [[https://read.readwise.io/read/01gqfxz9n94a7e6v9e2v9ptdfe][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 编码相关
 
@@ -62,7 +53,4 @@
 
 That's All.  
 See You Next Week. 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _每周小结(*92):新年快乐_ by 六个周
-*** [[https://read.readwise.io/read/01gqfy1gp7xy8s9tnafhzc7c4f][View Highlight]]
+#+END_QUOTE\

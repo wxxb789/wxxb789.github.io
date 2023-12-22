@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1550778008314806272/BssM2zPQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 What is under the hood of 𝗦𝗽𝗮𝗿𝗸?
 
@@ -22,16 +22,10 @@ Apache Spark is an extremely popular distributed processing framework utilizing 
 Let’s look into some of Spark’s Architecture… https://t.co/VhFuGNeneb 
 
 ![](https://pbs.twimg.com/media/F0_-adQWwAE4F7D.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _What Is Under the Hood O..._ by @Aurimas_Gr on Twitter
-*** [[https://twitter.com/Aurimas_Gr/status/1679840964737654786][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 If you like the content, be sure to join 15.000+ Data Tech Enthusiasts by subscribing to my newsletter: https://t.co/aI3ps0tcLw 
 
 ![](https://pbs.twimg.com/media/F1ArDVfXsBMOCWn.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _What Is Under the Hood O..._ by @Aurimas_Gr on Twitter
-*** [[https://twitter.com/Aurimas_Gr/status/1679890106142842881][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 前几天Nvidia的发布会，除了怪物一样的GH200超级芯片，给我印象最深的是这几次技术革命的S型发展曲线
 
@@ -22,16 +22,10 @@
 硬件瓶颈越明显，这个先后趋势越明显… 
 
 ![](https://pbs.twimg.com/media/FxcJdyIacAAlXvh.png) 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _前几天Nvidia的发布会，除了怪物一样的GH2..._ by @fi56622380 on Twitter
-*** [[https://twitter.com/fi56622380/status/1663810580044718080][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 补个图，AI产值的趋势图，在基础硬件瓶颈解决之后，属于软件层和服务层的大时代红利期自然会到来 
 
 ![](https://pbs.twimg.com/media/FxcK-TgaUAAeJmn.png) 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _前几天Nvidia的发布会，除了怪物一样的GH2..._ by @fi56622380 on Twitter
-*** [[https://twitter.com/fi56622380/status/1663811150226817030][View Tweet]]
+#+END_QUOTE\

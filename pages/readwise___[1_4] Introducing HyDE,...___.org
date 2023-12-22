@@ -12,17 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1395780509150629895/k4RhJM6h.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 [1/4] Introducing HyDE, a method to unsupervisedly build dense retrievers. HyDE zero-shot instructs GPT to generate a fictional document and re-encodes it with Contriever to search in its embedding space. Put it simply, casting retrieval-like behavior in GPT into real retrieval. 
 
 ![](https://pbs.twimg.com/media/FkbuYrEXgAAHl5r.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _[1/4] Introducing HyDE,..._ by @luyu_gao on Twitter
-*** [[https://twitter.com/luyu_gao/status/1605232516817752065][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 [2/4] With zero training/fine-tuning, HyDE significantly outperforms its backbone Contriever across tasks and languages. On several query sets, it even shows better performance than strong fine-tuned models. 
 
@@ -31,25 +28,16 @@
 ![](https://pbs.twimg.com/media/FkbujhiWAAAfqen.png) 
 
 ![](https://pbs.twimg.com/media/FkbujhzWYAAGQWV.png) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _[1/4] Introducing HyDE,..._ by @luyu_gao on Twitter
-*** [[https://twitter.com/luyu_gao/status/1605232631502831618][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 [3/4] One of the most interesting problems we encountered while working on this was: if strong generative models can largely improve sole retriever’s performance, should we shift the responsibility of high precision away from the retriever. 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _[1/4] Introducing HyDE,..._ by @luyu_gao on Twitter
-*** [[https://twitter.com/luyu_gao/status/1605232723525787648][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 [4/4] Work led by @xueguang_ma and me, with @lintool @JamieCallan
  
 PDF: https://t.co/MMjTBxVDav
 Code: https://t.co/mzdzU659dB (notebook now, more to come)
 \- No model is trained/fine-tuned; find here the inference code. 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _[1/4] Introducing HyDE,..._ by @luyu_gao on Twitter
-*** [[https://twitter.com/luyu_gao/status/1605232857999241216][View Tweet]]
+#+END_QUOTE\

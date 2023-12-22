@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 最棒的AutoGPT工具 https://t.co/WliYepcsbO，完全免费，不用key。
 
@@ -24,11 +24,8 @@
 网站：https://t.co/I6xlBN7SLf 
 
 ![](https://pbs.twimg.com/media/Ftv9NqZaQAIQkJ8.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _最棒的AutoGPT工具 https://t.c..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1647189070190366720][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 我的问题是：“如何过上幸福的生活”
 发现Bot的问题拆解能力完全碾压自己，相比我就是弱鸡。
@@ -41,7 +38,4 @@
 ![](https://pbs.twimg.com/media/FtwAKZ2aYAATKCu.jpg) 
 
 ![](https://pbs.twimg.com/media/FtwARcoakAAUhbD.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _最棒的AutoGPT工具 https://t.c..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1647192617992728576][View Tweet]]
+#+END_QUOTE\

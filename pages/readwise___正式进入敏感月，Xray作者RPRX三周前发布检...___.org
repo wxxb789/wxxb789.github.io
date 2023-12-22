@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 正式进入敏感月，Xray作者RPRX三周前发布检测TLS in TLS 工具，GFW表示感谢😂。现在高危协议有:
 SS
@@ -26,16 +26,10 @@ VLESS-gRPC-uTLS-REALITY
 高危协议不建议使用，也许存在幸存者偏差，但能探测就是能探测，没什么好得瑟的。 
 
 ![](https://pbs.twimg.com/media/Fxf3p-UaUAA97m9.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _正式进入敏感月，Xray作者RPRX三周前发布检..._ by @geekbb on Twitter
-*** [[https://twitter.com/geekbb/status/1664090262782738433][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 相关链接https://t.co/uQmZ4cn8zM 
 
 ![](https://pbs.twimg.com/media/FxgH9hqagAEPha_.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _正式进入敏感月，Xray作者RPRX三周前发布检..._ by @geekbb on Twitter
-*** [[https://twitter.com/geekbb/status/1664090265945276418][View Tweet]]
+#+END_QUOTE\

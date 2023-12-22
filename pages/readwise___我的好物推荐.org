@@ -12,8 +12,8 @@
 :image-url: https://www.bmpi.dev/images/ico/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-16]]
 #+BEGIN_QUOTE
 好书推荐投资类
 
@@ -23,18 +23,12 @@
 •   [Trading System](https://amzn.to/2UHNJnS)
 •   [Definitive Guide To Position Sizing](https://amzn.to/2SzCj2N)
 •   [Building Winning Algorithmic Trading Systems](https://amzn.to/38pdhuc) 
-#+END_QUOTE
-    date:: [[2022-12-16]]
-*** from _我的好物推荐_ by 构建我的被动收入
-*** [[https://read.readwise.io/read/01gmckrg5546bcndpwg3r3wmwg][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-16]]
 #+BEGIN_QUOTE
 编程类
 
 •   [计算机程序的构造与解释](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEVA1cbXBIyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYEgYQB1IcaxJSV3VTcwdAYXtTPVgiVWliVDEfHFMOHjdUK1sUAxEEXRpZEAciN1Uca0NsEgZUGloUBxMDVitaJQIWDlUZWxQEEgVdHVslBRIOZUcLQFJUUw0YXB0KIjdlGGslMhI3VisZe1caVV1JCxAHFgFSE14QBxJUXB1ZRwoUUFYbXUBRQAdRK1kUAxYO)
 •   [深度学习入门-基于Python的理论与实现](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgRQGlkUBxs3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUBFwZXGl4cMk8PNWZYZXRrZAZlGhxfUUIKQSh1QEQLWStaJQITBlYYUxQAFwJlK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRCxIFVRtfEQAVAVUrXBULIlsFTgtTVkoEUhNTJTIiBGUraxUyETcXdQ8QAxMCABILRQMXU1AYCB1RFldTHV0XAhVSBUhbFAYRN1caWhEL)
 •   [Elixir 程序设计](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgddGloRBBQ3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUCGgZUH10TMndjC2QpEGATZCJPBx1XaA8WcEFhGGILWStaJQITBlYYUxQAFwJlK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRCxIFVRtcFgoaBFwrXBULIlsFTgtTVkoEUhNTJTIiBGUraxUyETcXdQ8UVhoPURIJEgsbAlAcXhdREw5cTloSV0BQAU9TE1JBN1caWhEL) 
-#+END_QUOTE
-    date:: [[2022-12-16]]
-*** from _我的好物推荐_ by 构建我的被动收入
-*** [[https://read.readwise.io/read/01gmckrjyetrehayxabw3nnnxn][View Highlight]]
+#+END_QUOTE\

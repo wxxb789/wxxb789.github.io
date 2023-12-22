@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1622225659304222730/Nc7nbTRR.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 内文更新了 Alan 提到的几本书的链接。
 
@@ -24,7 +24,4 @@ Ted Nelson 《文学机器》（Literary Machines） https://t.co/SoJwbRN2sm
 Seymour Papert 《头脑风暴》（Mindstorms） https://t.co/X1VWe9hNRh
 
 M. Mitchell Waldrop 《梦想机器》（The Dream Machine） 没有找到，只有 Stripe Press 上的简介 https://t.co/cuP52L3lhW 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _内文更新了 Alan 提到的几本书的链接。 D..._ by @lgtwet on Twitter
-*** [[https://twitter.com/lgtwet/status/1733745746497921450][View Tweet]]
+#+END_QUOTE\

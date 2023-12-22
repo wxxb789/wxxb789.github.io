@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 如果 AI 直译+意译后的效果还不理想该怎么办？
 
@@ -72,7 +72,4 @@
 示例会话历史：https://t.co/nc2b4adQcu
 
 博文：https://t.co/cPVXN0qA3d<img src='https://pbs.twimg.com/media/GBNuI_WWMAAyjJP.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _如果 Ai 直译+意译后的效果还不理想该怎么办？..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1734857030140080225][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-17]]
 #+BEGIN_QUOTE
 什么是 AI Agent？相比原生 LLM 的推理，Agent 能带来了哪些能力？为什么 Agent 需要具备这些能力？
 
@@ -26,7 +26,4 @@ LLM 的作用就是进行 Next Token Generation，它的表现跟 System 1 基�
 目前已知的能够很好提升效果的办法包括：1）让多 Agents 进行相互系统；2）能够与环境进行交互；3）具备中短期甚至长期的记忆能力；4）能够在寻求答案的过程中更智能的决策和选择最佳路径。ChatGPT 的 GPTs 提供了上传资料、执行代码、函数调用等能力，本质上也是在补齐 System 2 的能力，等到 GPTs 的生态丰富之后，也可以实现 GPTs 之间的调用，这样就很容易构造一个西部世界了。
 
 十分推荐阅读这篇文章的第一部分，《关于 AI agent 的四个关键问题》，https://t.co/KY6NH6j0EM，文章的第二部分和第三部分讲的是基于 AI Agent 的一些业界实践，以及未来需要去解决的一些问题，文章通俗易懂。<img src='https://pbs.twimg.com/media/F_HNgfMbcAAnAoO.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-17]]
-*** from _什么是 AI Agent？相比原生 LLM 的推..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1725386494716850455][View Tweet]]
+#+END_QUOTE\

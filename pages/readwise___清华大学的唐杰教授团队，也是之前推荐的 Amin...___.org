@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 清华大学的唐杰教授团队，也是之前推荐的 Aminer 论文学习工具的创始人，整理了一份 ICLR 2024 的论文合集，共 47 篇，https://t.co/3g0wfgWp3N，他提到“明年 LLM + Agent 必然大火”，感兴趣的朋友可以提前学习下。
 
 ICLR 是机器学习领域重要的学术会议之一，每年举办一次，2024 年的论文审稿尚未完成，但 openreview 已经可以查看了，这里的信息可以帮助提前预判技术发展的一些新趋势。
 
 对应的 Github 合集地址：https://t.co/ypXvmZkHsk，这个月的学习任务又加重了😅<img src='https://pbs.twimg.com/media/GAlBsb1bAAA2gy5.jpg'/><img src='https://pbs.twimg.com/media/GAlCq-oagAApUVk.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _清华大学的唐杰教授团队，也是之前推荐的 Amin..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1731989033876869611][View Tweet]]
+#+END_QUOTE\

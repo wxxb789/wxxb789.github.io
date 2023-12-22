@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1344772555568250885/ovQQ5Zdb.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Hey #fsharp, if you are using structs, including struct tuples you should avoid (=) operator otherwise performance will be bad. 
 The fix is 
@@ -22,23 +22,14 @@ The fix is
 3-) You need your own List.contains as here 
 
 ![](https://pbs.twimg.com/media/FleTg6iWYAIVALh.png) 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Hey #Fsharp, if You Are..._ by @OnurGumusDev on Twitter
-*** [[https://twitter.com/OnurGumusDev/status/1609917932502499328][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Issue is documented here:
 https://t.co/dxfrfl4GOS 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Hey #Fsharp, if You Are..._ by @OnurGumusDev on Twitter
-*** [[https://twitter.com/OnurGumusDev/status/1609918050480054273][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Example implementation
 https://t.co/hdP63TTB7K 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Hey #Fsharp, if You Are..._ by @OnurGumusDev on Twitter
-*** [[https://twitter.com/OnurGumusDev/status/1609918362972454912][View Tweet]]
+#+END_QUOTE\

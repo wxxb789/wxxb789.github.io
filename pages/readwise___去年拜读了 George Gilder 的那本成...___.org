@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-16]]
 #+BEGIN_QUOTE
 去年拜读了 George Gilder 的那本成名大作《Knowledge and Power》，做为在上世纪九十年代初就开始引领数字经济思潮的自由派经济学家，今年出版了新书《后资本主义生活：财富的意义，未来的经济，以及货币的时间理论》，今天刚好听了万维钢老师的推荐！
 
@@ -31,7 +31,4 @@ Gilder 的明确观点：“走向封闭的趋势是人们的认知错误导致�
 从信息经济学的角度来看，最有价值的创业公司都是能制造意外的公司，它们做的是“从0到1”的事儿，你说从1到N也能赚钱，但那赚的都是辛苦钱 。。
 
 这两周计划抽时间看完这本新书的英文版，再给大家分享更多感悟😌 
-#+END_QUOTE
-    date:: [[2023-08-16]]
-*** from _去年拜读了 George Gilder 的那本成..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1691339747287855104][View Tweet]]
+#+END_QUOTE\

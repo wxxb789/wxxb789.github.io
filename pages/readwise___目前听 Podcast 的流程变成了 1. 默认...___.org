@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/2764568411/58b3e41bd3ea306af98b55459484e0cc.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-20]]
 #+BEGIN_QUOTE
 目前听 podcast 的流程变成了
 1. 默认用小宇宙听
@@ -21,7 +21,4 @@
 3. 听完后音频文件同步到飞书妙计并导出带时间的逐字稿
 4. 逐字稿用 Notion AI 提取总结片段
 5. 逐字稿导入 Readwise 并同步 Snipd 笔记和 Notion 总结 https://t.co/nLA1JhVgEQ 
-#+END_QUOTE
-    date:: [[2023-02-20]]
-*** from _目前听 Podcast 的流程变成了 1. 默认..._ by @humiaozuzu on Twitter
-*** [[https://twitter.com/humiaozuzu/status/1627061132421890048][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-08]]
 #+BEGIN_QUOTE
 有时候我需要把PDF转成图片，还需要几页合并成一张图片，以前让GPT-4帮我写过代码本地执行，现在简单了，直接传到Code Interpreter，一个Prompt搞定！
 
@@ -21,7 +21,4 @@
 “请将这个PDF文件保存成2行2列的图片，每4页一张图片”
 
 等着下载就好了，简直太方便了！ https://t.co/659y1lDQFE https://t.co/P7t2SP7IrI 
-#+END_QUOTE
-    date:: [[2023-07-08]]
-*** from _有时候我需要把pdf转成图片，还需要几页合并成一..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1677426953207382018][View Tweet]]
+#+END_QUOTE\

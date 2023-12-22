@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-09]]
 #+BEGIN_QUOTE
 这是一个 GPTs 的 Prompt 泄露合集：https://t.co/WND8shhHBB，包含了几百个泄露的 prompts 和文件。
 
@@ -26,7 +26,4 @@ GPTs 包含了一个预置的 prompt，能够帮助大模型更好地按照要�
 另外推荐下这个项目：https://t.co/kZzOo5DizW，它不仅告诉你如何攻击来获取 prompts 和文件，同时也给出了一些保护的措施。
 
 在 Prompt 的防御上，目前还没有银弹，因此敏感的信息不要放到 GPTs 中，如果一定要放进去，不要将这个 GPT 设置为公开和分享给其他人使用。<img src='https://pbs.twimg.com/media/GA0uPRyboAAuC7H.jpg'/><img src='https://pbs.twimg.com/media/GA0uPojaEAA3Apx.jpg'/><img src='https://pbs.twimg.com/media/GA0uRena0AARtvk.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-09]]
-*** from _这是一个 GPTs 的 Prompt 泄露合集：..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1733092567166943535][View Tweet]]
+#+END_QUOTE\

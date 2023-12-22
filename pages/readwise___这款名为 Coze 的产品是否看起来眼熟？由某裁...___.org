@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1610997345960984581/oLZPDA7o.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-28]]
 #+BEGIN_QUOTE
 这款名为 Coze 的产品是否看起来眼熟？由某裁员中的大厂“高 Level”团队创作。该产品的完成度其实做得不错，毕竟是重金投入。但社区中屡有朋友向我发来询问，因为实在和 Dify 太像了，连我们选择不恰当的那些英文术语都全盘搬走。简单的说下吧：
 
@@ -38,14 +38,8 @@
 3. 向开源社区做贡献。
 
 就说这些，如果你想以任何形式参与 Dify 的产品，发邮件至 luyu@dify.ai，Do it for you.<img src='https://pbs.twimg.com/media/F_9dMzsa0AEAgvh.jpg'/><img src='https://pbs.twimg.com/media/F_9dPt0bEAAeKtZ.jpg'/><img src='https://pbs.twimg.com/media/F_9dPuBaYAAgIqC.jpg'/><img src='https://pbs.twimg.com/media/F_9jc8JbwAAUAGn.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-28]]
-*** from _这款名为 Coze 的产品是否看起来眼熟？由某裁..._ by @goocarlos on Twitter
-*** [[https://twitter.com/goocarlos/status/1729210688017760324][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-28]]
 #+BEGIN_QUOTE
 这款产品的文档：https://t.co/niT1PG7ZsF 
-#+END_QUOTE
-    date:: [[2023-11-28]]
-*** from _这款名为 Coze 的产品是否看起来眼熟？由某裁..._ by @goocarlos on Twitter
-*** [[https://twitter.com/goocarlos/status/1729323746580976112][View Tweet]]
+#+END_QUOTE\

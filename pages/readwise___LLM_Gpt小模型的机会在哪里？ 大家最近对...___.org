@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 LLM/GPT小模型的机会在哪里？
 
@@ -26,11 +26,8 @@ LLM/GPT小模型的机会在哪里？
 ![](https://pbs.twimg.com/media/FvlYiP_aAAA2sPn.png) 
 
 ![](https://pbs.twimg.com/media/FvlZErEacAEWELN.png) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _LLM/Gpt小模型的机会在哪里？ 大家最近对..._ by @fi56622380 on Twitter
-*** [[https://twitter.com/fi56622380/status/1655453326102917130][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 再补充一个
 
@@ -39,16 +36,10 @@ LLM/GPT小模型的机会在哪里？
 不管在哪个领域，使用门槛的大幅降低，无论是成本上还是流程上，都会打开应用范围的想象力
 
 https://t.co/8YdOgKHFXO 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _LLM/Gpt小模型的机会在哪里？ 大家最近对..._ by @fi56622380 on Twitter
-*** [[https://twitter.com/fi56622380/status/1655458441727725568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 评论区卧虎藏龙，真的有大佬在做这方面的工作
 
 https://t.co/7x0xbusMm6 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _LLM/Gpt小模型的机会在哪里？ 大家最近对..._ by @fi56622380 on Twitter
-*** [[https://twitter.com/fi56622380/status/1655462614921781248][View Tweet]]
+#+END_QUOTE\

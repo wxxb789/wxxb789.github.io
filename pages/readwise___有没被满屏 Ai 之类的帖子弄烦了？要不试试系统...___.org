@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-28]]
 #+BEGIN_QUOTE
 有没被满屏 AI 之类的帖子弄烦了？要不试试系统编程，找回自己的专注力？趁周末到来推荐三本非常nice，友善的书
 
@@ -24,18 +24,12 @@
 （续 
 
 ![](https://pbs.twimg.com/media/F2GzDnNbUAAqO-d.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-28]]
-*** from _有没被满屏 Ai 之类的帖子弄烦了？要不试试系统..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1684828603702501376][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-28]]
 #+BEGIN_QUOTE
 接）
 简称APUE，文字和代码跟上一本一样平易近人，过了许多年我直到看到这本才知道C语言的应用，这本着重讲posix以及c标准库，很适合系统编程入门。
 
 3. Linux/Unix 系统编程手册(可选)
 内容跟APUE相近，多了一些Linux特有/额外增加的内容，示例的操作性较强，作者同时维护https://t.co/CLqPKNMisq 
-#+END_QUOTE
-    date:: [[2023-07-28]]
-*** from _有没被满屏 Ai 之类的帖子弄烦了？要不试试系统..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1684828607829725184][View Tweet]]
+#+END_QUOTE\

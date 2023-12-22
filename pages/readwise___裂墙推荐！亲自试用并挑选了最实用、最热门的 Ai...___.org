@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1641291972530044928/Rw71tBAr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 裂墙推荐！亲自试用并挑选了最实用、最热门的 AI 工具，帮助朋友们在工作与学习上更轻松有效率
 
@@ -26,11 +26,8 @@ https://t.co/2GThJ3nWwO
 
 3、支持31种语言的翻译工具
 https://t.co/IKd7aS5Gxp 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _裂墙推荐！亲自试用并挑选了最实用、最热门的 Ai..._ by @sanyuan2016 on Twitter
-*** [[https://twitter.com/sanyuan2016/status/1638143722239164416][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 4、解读梦境、佛学的玄学人生答疑解惑工具
 https://t.co/ziGCZc4fUR
@@ -48,11 +45,8 @@ https://t.co/4gEVpyBvus
 
 8、动画生成器
 https://t.co/4JoBaIx0RO 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _裂墙推荐！亲自试用并挑选了最实用、最热门的 Ai..._ by @sanyuan2016 on Twitter
-*** [[https://twitter.com/sanyuan2016/status/1638144308388974593][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 9、PT生成器，输入指令就可以生成图文并茂的PPT
 https://t.co/scKs25ZurE
@@ -63,11 +57,8 @@ https://t.co/Gw2QFSMdOM
 
 11、自我介绍生成器
 https://t.co/UDdHjC905Z 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _裂墙推荐！亲自试用并挑选了最实用、最热门的 Ai..._ by @sanyuan2016 on Twitter
-*** [[https://twitter.com/sanyuan2016/status/1638144639684460545][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 12、图片生成器
 https://t.co/t66YyK8EI6
@@ -80,7 +71,4 @@ https://t.co/3aF2vJFtEd
 https://t.co/bNtZv8rQ7i
 
 done，喜欢就收藏吧 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _裂墙推荐！亲自试用并挑选了最实用、最热门的 Ai..._ by @sanyuan2016 on Twitter
-*** [[https://twitter.com/sanyuan2016/status/1638144837252972545][View Tweet]]
+#+END_QUOTE\

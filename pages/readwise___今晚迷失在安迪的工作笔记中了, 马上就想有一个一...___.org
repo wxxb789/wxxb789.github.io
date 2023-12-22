@@ -12,28 +12,22 @@
 :image-url: https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 今晚迷失在安迪的工作笔记中了, 马上就想有一个一模一样的东西，好羡慕这些外国人的生活状态啊。
 
 https://t.co/TVIpZ1gRsS 
 
 ![](https://pbs.twimg.com/media/F_uPSIPacAAvyO2.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _今晚迷失在安迪的工作笔记中了, 马上就想有一个一..._ by @OwenYoungZh on Twitter
-*** [[https://twitter.com/OwenYoungZh/status/1728132551481651392][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 被 cue 了， https://t.co/1ijseKDa8Z 
 
 ![](https://pbs.twimg.com/media/F_uQp_bacAE5_CB.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _今晚迷失在安迪的工作笔记中了, 马上就想有一个一..._ by @OwenYoungZh on Twitter
-*** [[https://twitter.com/OwenYoungZh/status/1728133984406893019][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 刚刚刷到这条，原来 Obsidian 官方已经支持了这种模式，我重新下载了 Obsidian 体验了一下，体验很丝滑！也许是时候重新回到 Obsidian了？（之前离开主要是觉得挺卡的。。
 
@@ -42,7 +36,4 @@ https://t.co/XVIugLUwfN
 ![](https://pbs.twimg.com/media/F_uXCcibgAA4EwF.jpg) 
 
 ![](https://pbs.twimg.com/media/F_uX54QbMAAeR1t.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _今晚迷失在安迪的工作笔记中了, 马上就想有一个一..._ by @OwenYoungZh on Twitter
-*** [[https://twitter.com/OwenYoungZh/status/1728142158270783525][View Tweet]]
+#+END_QUOTE\

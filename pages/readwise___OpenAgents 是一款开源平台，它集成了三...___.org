@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-18]]
 #+BEGIN_QUOTE
 OpenAgents 是一款开源平台，它集成了三个功能强大的代理：DataAgent 专门进行数据分析，PluginsAgent 负责插件的整合，而 WebAgent 则能借助浏览器Sidebar插件，自动操作网页。
 
@@ -29,23 +29,14 @@ WebAgent 是一个浏览器 Sidebar 插件的形式，在Sidebar中可以基于�
 https://t.co/lhtD0YzAeF
 
 另外似乎浏览器插件部分代码并未开源，只是提供了一个打包后的 zip 文件。 
-#+END_QUOTE
-    date:: [[2023-10-18]]
-*** from _OpenAgents 是一款开源平台，它集成了三..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1714363252467970444][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-18]]
 #+BEGIN_QUOTE
 另外有一个在线测试的演示网站：https://t.co/oJaX8HaosD 
-#+END_QUOTE
-    date:: [[2023-10-18]]
-*** from _OpenAgents 是一款开源平台，它集成了三..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1714365017141748007][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-18]]
 #+BEGIN_QUOTE
 WebAgent的实现可以参考这个开源项目：
 
 https://t.co/vXk8G4aVt6 
-#+END_QUOTE
-    date:: [[2023-10-18]]
-*** from _OpenAgents 是一款开源平台，它集成了三..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1714376585162174920][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1659237960259350529/UKhYunL7.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-13]]
 #+BEGIN_QUOTE
 ✨ 做了一个 爬虫(Selenium) GPTs 助手（1.0 版本）
 
@@ -24,21 +24,12 @@
 🐍 我把她命名为 Cyber Scraper: Seraphina。在这里可以联系她：https://t.co/FxrAThHBS6。她也是我制作的另一个 GPTs：「Carpe Diem 教授」的朋友。https://t.co/CfWFB7BctF
 
 🤨 那么 Seraphina 和 Carpe Diem 教授是如何认识的呢？让我们一起看看 Carpe Diem 教授是怎么说的吧 😆：<img src='https://pbs.twimg.com/media/F-w9CEhb0AAmyMC.jpg'/><img src='https://pbs.twimg.com/media/F-w9-CAaoAAxymv.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-13]]
-*** from _✨ 做了一个 爬虫(Selenium) GPTs..._ by @lyson_ober on Twitter
-*** [[https://twitter.com/lyson_ober/status/1723821023601250401][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-13]]
 #+BEGIN_QUOTE
 👉 GPTs 的初次亮相https://t.co/aonnLkNfR7 
-#+END_QUOTE
-    date:: [[2023-11-13]]
-*** from _✨ 做了一个 爬虫(Selenium) GPTs..._ by @lyson_ober on Twitter
-*** [[https://twitter.com/lyson_ober/status/1723821419962724586][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-13]]
 #+BEGIN_QUOTE
 对了，使用的方法大致就是只要你会审查元素，然后把它们 copy 给 Seraphina，让她清楚地知道你的目标元素是啥就行。如果她没明白的话你还可以保存一下当前页面 html 文件（mac 是 cmd shift s）然后上传上去，配合着你 copy 的 element 代码，这样大致上没问题了。相比之下，直接问 GPT-4 需要花费更多的时间达成共识。 
-#+END_QUOTE
-    date:: [[2023-11-13]]
-*** from _✨ 做了一个 爬虫(Selenium) GPTs..._ by @lyson_ober on Twitter
-*** [[https://twitter.com/lyson_ober/status/1723838050365825199][View Tweet]]
+#+END_QUOTE\

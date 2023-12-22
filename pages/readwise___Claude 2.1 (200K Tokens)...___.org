@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1467896309453570052/BGy5XYVQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 Claude 2.1 (200K Tokens) - Pressure Testing Long Context Recall
 
@@ -57,25 +57,16 @@ Notes:
 * Changing your prompt, question, fact to be retrieved and background context will impact performance
 * The Anthropic team reached out and offered credits to repeat this test. They also offered prompt advice to maximize performance. It's important to clarify that their involvement was strictly logistical. The integrity and independence of the results were maintained, ensuring that the findings reflect my unbiased evaluation and are not influenced by their support.
 * This test cost ~$1,016 for API calls ($8 per million tokens)<img src='https://pbs.twimg.com/media/F_eYrDIaAAAsWVp.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _Claude 2.1 (200K Tokens)..._ by @GregKamradt on Twitter
-*** [[https://twitter.com/GregKamradt/status/1727018183608193393][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 Code + overview video of the analysis
 
 https://t.co/v64RHinrNW 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _Claude 2.1 (200K Tokens)..._ by @GregKamradt on Twitter
-*** [[https://twitter.com/GregKamradt/status/1727018572558581938][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 Anthropic Launch of Claude 2.1
 
 https://t.co/XnAI7bFEI9 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _Claude 2.1 (200K Tokens)..._ by @GregKamradt on Twitter
-*** [[https://twitter.com/GregKamradt/status/1727018644964880507][View Tweet]]
+#+END_QUOTE\

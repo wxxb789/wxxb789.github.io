@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 将Greg Kamradt的两次实验：
 \- GPT-4-128K https://t.co/e4hBVBj7TF
@@ -36,11 +36,8 @@ Claude-2.1-200K
 3. System Prompt 放在最前或者最后都可以，放在后面更好
 4. 如果System Prompt 放在前面，对于GPT-4来说，不要超过5%，对于Claude来说不要超过1%
 4. GPTs的Prompt只能放在最前面，所以不要超过不要超过5%也就是128*0.05 = 6.4 K Tokens比较好<img src='https://pbs.twimg.com/media/F_kl-_GXkAAKzcf.jpg'/><img src='https://pbs.twimg.com/media/F_kmA7SXIAAjIF9.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _将Greg Kamradt的两次实验： - Gp..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1727454708627808261][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 我让GPT-4V帮我分析了一下两张图：
 
@@ -59,7 +56,4 @@ Claude-2.1-200K
 对比分析：
 
 两张图展示了两种不同的模型在不同条件下的性能测试。主要的比较点在于模型处理大量信息时的准确性。Claude 2.1的测试覆盖了更宽的上下文长度范围，而GPT-4的测试似乎集中在更小的数据集上，但进行了更多的样本测试以增加结果的稳定性。两张图表的颜色渐变表明，两个模型都在较大的上下文长度下表现出检索准确性下降的趋势，尽管具体的准确性水平和下降趋势在每个模型中是不同的。这些测试对于理解和改进机器学习模型在处理大规模数据时的性能至关重要。<img src='https://pbs.twimg.com/media/F_ko1XOW8AETUYy.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _将Greg Kamradt的两次实验： - Gp..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1727456845646733767][View Tweet]]
+#+END_QUOTE\

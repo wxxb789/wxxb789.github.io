@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1240833934142976003/TvIlPgr9.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 1/6 
 一款翻译软件中很有意思的 Prompt 漏洞：
@@ -23,53 +23,35 @@
 但是重点还不仅仅是这个软件，
 
 还有了解如何利用 Prompt Engineering 优化你的AI工具 🧵 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1/6  一款翻译软件中很有意思的 Prompt..._ by @AxtonLiu on Twitter
-*** [[https://twitter.com/AxtonLiu/status/1661336241059807232][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 2/6 当使用 BOB 的 OpenAI 服务去翻译 Prompt 时，很好玩的是，BOB 给出结果不是翻译结果，而是执行 Prompt 的结果。 
 
 ![](https://pbs.twimg.com/media/Fw5Ag1GaMAEVkn_.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1/6  一款翻译软件中很有意思的 Prompt..._ by @AxtonLiu on Twitter
-*** [[https://twitter.com/AxtonLiu/status/1661336253579792385][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 3/6 这很可能是因为 BOB 的内置 Prompt 中没有分隔指令与待翻译的文本，幸好最新版的 BOB 支持了自定义 Prompt，因此只要简单加个分隔符就解决问题了。 
 
 ![](https://pbs.twimg.com/media/Fw5AhdCaAAEJzyN.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1/6  一款翻译软件中很有意思的 Prompt..._ by @AxtonLiu on Twitter
-*** [[https://twitter.com/AxtonLiu/status/1661336261846769671][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 4/6 而使用分隔符，正是吴恩达和Isa Fulford两位老师的课程当中说过的，撰写清晰明确的 Prompt 的三要素之一。 
 
 ![](https://pbs.twimg.com/media/Fw5Ah8LaAA0JR8z.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1/6  一款翻译软件中很有意思的 Prompt..._ by @AxtonLiu on Twitter
-*** [[https://twitter.com/AxtonLiu/status/1661336276816244737][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 5/6 终于克服了拖延症，准备把我的学习笔记整理成中文分享给大家。感兴趣的朋友请到我的学校首页，使用您的邮箱订阅我的 Newsletter，我用2～3天整理完后通过 Newsletter 发给大家：
 AI 领航者之路 | Axton的AI精英学院 (https://t.co/T1evUkcrec) https://t.co/KAjG9mmDAE 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1/6  一款翻译软件中很有意思的 Prompt..._ by @AxtonLiu on Twitter
-*** [[https://twitter.com/AxtonLiu/status/1661336280423342080][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 6/6 如果你喜欢这样的推文
 
 请关注 <a href="https://twitter.com/AxtonLiu">@AxtonLiu</a> 不错过更多有用有趣的AI内容。
 
 并请帮我点赞/转推第一条推文，谢谢： 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1/6  一款翻译软件中很有意思的 Prompt..._ by @AxtonLiu on Twitter
-*** [[https://twitter.com/AxtonLiu/status/1661336283388735489][View Tweet]]
+#+END_QUOTE\

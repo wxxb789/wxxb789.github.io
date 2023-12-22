@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-19]]
 #+BEGIN_QUOTE
 最近参加了两场 Tiktok 海外广告投放公司的访谈，关于AI工具应用有些有趣的发现：
 
@@ -30,7 +30,4 @@
 他们认为跨语言翻译和配音是个明显的痛点，甚至买了https://t.co/cvRZ6bGFdk的文本转语音服务。
 
 没有AI机器发音感，丰富的音色选择，是这类AI语音产品的致胜点。 
-#+END_QUOTE
-    date:: [[2023-10-19]]
-*** from _最近参加了两场 Tiktok 海外广告投放公司的..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1714666986356265088][View Tweet]]
+#+END_QUOTE\

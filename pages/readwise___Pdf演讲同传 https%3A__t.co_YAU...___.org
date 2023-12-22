@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1348266678430302210/dKh2ImrQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 PDF演讲同传
 https://t.co/YAU2Ba9cMC
@@ -23,14 +23,8 @@ https://t.co/YAU2Ba9cMC
 □ 主讲语音输入并识别待完成
 
 但是，部署到streamlit cloud以后，实际全体共用一套api key, 所以目前搞不下去了。 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Pdf演讲同传 https://t.co/YAU..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1664053487808942081][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 streamlit上还是不能完全前后端一锅端，也许再等几个版本，能够隔离用户才好用。 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Pdf演讲同传 https://t.co/YAU..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1664054253818896386][View Tweet]]
+#+END_QUOTE\

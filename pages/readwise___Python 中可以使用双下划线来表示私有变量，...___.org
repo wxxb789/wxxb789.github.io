@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-14]]
 #+BEGIN_QUOTE
 Python 中可以使用双下划线来表示私有变量，例如 __name，直接访问私有变量会报错，提示不存在，但有趣的是，通过访问 _classname__name 能够获得这个私有变量的值。
 
 有一句广为流传的格言说：“We are all consenting adults here”（我们都是成年人），这句话表达了很多 Python 程序员的一个共同观点：“那就是开放比封闭要好，我们应该自己对自己的行为负责，而不是从语言层面来限制对数据或方法的访问”。
 
 这句话说的很有道理，但其实背后的技术逻辑不是这样。在Python中，使用双下划线作为变量或属性前缀会触发名称修饰（name mangling）机制，名称修饰是一种用于改变变量名以防止命名冲突的机制。<img src='https://pbs.twimg.com/media/GBRTznOboAA2Cit.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-14]]
-*** from _Python 中可以使用双下划线来表示私有变量，..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1735103919196623277][View Tweet]]
+#+END_QUOTE\

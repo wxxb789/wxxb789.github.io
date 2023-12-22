@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 AI 辅助阅读并自动总结网页概要的工具多如牛毛，但把这件事情做好却并不容易，因为网页上存在太多乱七八糟的 DOM，包括导航菜单、广告和推荐模块等等，如果不抓核心内容直接无脑扔给 AI 处理，那效果一定是不佳的，尤其是杂乱内容占比过高时。
 
@@ -36,7 +36,4 @@ AI 辅助阅读并自动总结网页概要的工具多如牛毛，但把这件�
 通过使用这些通用的特征，该算法在多语言环境下表现都还不错，并在实验中优于现有的主要内容提取方法：在最长公共子序列（LCS）F1 得分方面，该方法的平均性能比现有方法提高了 14%；特别是在英语数据集中，性能提高了 25%，在非英语数据集中提高了 16%。
 
 这篇论文没有找到对应的代码实现，感兴趣的同学可以撸一个出来，价值还挺大的。<img src='https://pbs.twimg.com/media/GAHLgKRbAAEG-UO.jpg'/><img src='https://pbs.twimg.com/media/GAHLgkubgAAqYGT.jpg'/><img src='https://pbs.twimg.com/media/GAHM67XagAAqh5Z.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _Ai 辅助阅读并自动总结网页概要的工具多如牛毛，..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1729889136520335606][View Tweet]]
+#+END_QUOTE\

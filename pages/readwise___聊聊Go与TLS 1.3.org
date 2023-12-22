@@ -12,11 +12,8 @@
 :image-url: https://tonybai.com/favicon.ico
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 ![](https://readwise.io/reader/imgproxy?url=http%3A//image.tonybai.com/img/tonybai/imooc-go-column-pgo-with-qr.jpg&hash=f26429a379b35d530efaf03979c82f40) 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _聊聊Go与TLS 1.3_ by bigwhite
-*** [[https://read.readwise.io/read/01gqfwr1hyaf8exq0wsz9y9t27][View Highlight]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-13]]
 #+BEGIN_QUOTE
 在上个月写的那篇「构建外脑」，其中提到的在捕获与记忆信息，提炼思考和表达创作这三个步骤中用到的工具！现在围绕 LLM 设计的新系统，通过向量数据库来记忆，语言模型来加速理解和推理创作，应该很快就可以把这套流程整合成一个更好用的工具了 <a href="https://twitter.com/HallidaiHQ">@HallidaiHQ</a> 正在往这个方向努力✨
 
@@ -27,14 +27,8 @@
 - 可以和自己的外脑知识库对话，代替简单的搜索，因为语言模型强化了搜索，我们能获得更多生成的准确信息，还能自动做外部检索来完善答案；
 
 这款集成软件的目标是让信息无需组织，能够自己思考，帮助我们提升生物大脑的记忆和智能。<img src='https://pbs.twimg.com/media/F-yQwW3W8AA5_tF.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-13]]
-*** from _在上个月写的那篇「构建外脑」，其中提到的在捕获与..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1723911937069609270][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-13]]
 #+BEGIN_QUOTE
 如何构建外脑，实现智能时代的个人知识管理，请看这篇👀 https://t.co/yEdWwR0aWw 
-#+END_QUOTE
-    date:: [[2023-11-13]]
-*** from _在上个月写的那篇「构建外脑」，其中提到的在捕获与..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1723912486464725025][View Tweet]]
+#+END_QUOTE\

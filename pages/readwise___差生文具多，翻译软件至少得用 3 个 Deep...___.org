@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-06]]
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个
 
@@ -30,22 +30,16 @@ DeepL 这个价格似乎太自信了。不过我也能理解 DeepL 的思路，�
 ChatGPT 特别会来事，迷恋 ChatGPT 那种英译中，会失去很多原始信息，就像跟着樊登读书，读的其实不是书、也不是樊登、而是樊登营造的那个满足感
 
 #活到死学到死 
-#+END_QUOTE
-    date:: [[2023-11-06]]
-*** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1693361416781144098][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-06]]
 #+BEGIN_QUOTE
 ChatGPT 翻译的另外一大好处，是用户可以通过指定 prompt，来让 ChatGPT 按照特定风格来翻译
 
 比如英译中时，我可以要求它“按照书面语言”、“做准确的翻译”，又比如中译英时，我可以要求它“以美国大学生的说话习惯”、“轻松地翻译”、“用在社交网站上”……
 
 有时间再分享这方面经验吧 
-#+END_QUOTE
-    date:: [[2023-11-06]]
-*** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1693363065977290875][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-06]]
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个（第二部分）
 
@@ -96,11 +90,8 @@ https://t.co/kIFzYZNhvN
 这是一个学习英语生词、背单词的插件，会在浏览网页时自动标注出生词和解释，还能帮你管理生词本
 
 第二部分结束。<img src='https://pbs.twimg.com/media/F4JdYPmXEAAZTpM.jpg'/><img src='https://pbs.twimg.com/media/F4JeWJKXsAIoUV4.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-06]]
-*** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1694021962102714577][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-06]]
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个（第三部分）
 
@@ -123,11 +114,8 @@ iOS 现在自带的 OCR 功能，也支持翻译。比如这个韩国食品包�
 后来坐地铁买错票，问工作人员怎么补票，他用蹩脚英语问我想到哪一站下车？我看过英文地图、早就准备好了：ueno！ueno！
 
 注：我不喜欢用实时翻译机的感觉，宁可用两个地图咯<img src='https://pbs.twimg.com/media/F95DuVKXIAAG8Lg.jpg'/><img src='https://pbs.twimg.com/media/F95DvGHWMAAa-BR.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-06]]
-*** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1719889183303454993][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-06]]
 #+BEGIN_QUOTE
 差生文具多，翻译软件至少得用 3 个（第四部分）
 
@@ -148,7 +136,4 @@ https://t.co/kIFzYZNhvN
 我自己不用 Relingo，它没法用英语学英语
 
 甭管使用什么软件来翻译单词、记忆单词，如果你能摆脱英译中的思维定式，如果你不再强记“apple的意思是苹果”而是在大量听、说、阅读里使用“apple”，那你就成功一大半了👏 
-#+END_QUOTE
-    date:: [[2023-11-06]]
-*** from _差生文具多，翻译软件至少得用 3 个 Deep..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1721202297936498793][View Tweet]]
+#+END_QUOTE\

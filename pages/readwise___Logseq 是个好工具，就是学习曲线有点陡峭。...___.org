@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-10]]
 #+BEGIN_QUOTE
 Logseq 是个好工具，就是学习曲线有点陡峭。我就走了很多弯路，Logseq 的高阶用法是利用 query 建立自己的工作流 （workflow），但是入门还是建议从基础功能的使用开始 （日志，双链，大纲，本地存储 ）。                              
                                                                                                     
@@ -43,18 +43,12 @@ Logsdq 使用小结（二）
 https://t.co/OjjyocOZIq                                                                  
 Logseq 使用小结（三）
 https://t.co/xkkKD8rLJj 
-#+END_QUOTE
-    date:: [[2023-11-10]]
-*** from _Logseq 是个好工具，就是学习曲线有点陡峭。..._ by @henices on Twitter
-*** [[https://twitter.com/henices/status/1722422760465379364][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-10]]
 #+BEGIN_QUOTE
 工具仅仅是工具，记笔记的态度比笔记方法、第二大脑这些重要的多，这是我更深层次的体会。
 
 其实工具并不是那么重要，最重要的还是平时要记录，要定期输出。IT 界有一个著名的段子，你以为你是在写 blog 其实你只是在折腾 wordpress ：）
 
 https://t.co/jwAZb8DWZS 
-#+END_QUOTE
-    date:: [[2023-11-10]]
-*** from _Logseq 是个好工具，就是学习曲线有点陡峭。..._ by @henices on Twitter
-*** [[https://twitter.com/henices/status/1722426892555280735][View Tweet]]
+#+END_QUOTE\

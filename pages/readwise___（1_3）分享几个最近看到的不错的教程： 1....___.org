@@ -12,30 +12,21 @@
 :image-url: https://pbs.twimg.com/profile_images/1174337829851107329/NOSu6Ng8.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 （1/3）分享几个最近看到的不错的教程：
 1. Python：每节课大概 10 分钟，而且所有练习都在云端，不用管环境，打开就学。另外我很看好 Replit 这个产品。https://t.co/KI4v8uv7ZC
 2. React：官方文档也很不错，如果想看视频，我推荐这个 https://t.co/zUmcziuj4N 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _（1/3）分享几个最近看到的不错的教程： 1...._ by @thinkingjimmy on Twitter
-*** [[https://twitter.com/thinkingjimmy/status/1645262425678295040][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 （2/3）
 3. Introduction to ML and AI ：目前看过讲 ML 最清晰的视频。https://t.co/bjDNEgBLZj
 4. Deep learning：看这个教程前，你可能需要一点 Python 基础。讲得非常好，而且有配套书籍教材  https://t.co/WaRA0d3zVR 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _（1/3）分享几个最近看到的不错的教程： 1...._ by @thinkingjimmy on Twitter
-*** [[https://twitter.com/thinkingjimmy/status/1645262428282982400][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 （3/3）
 最后推荐一个插件吧：我个人觉得它的场景比 AI summary 更有价值，也更高频 https://t.co/isz5IQgipj 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _（1/3）分享几个最近看到的不错的教程： 1...._ by @thinkingjimmy on Twitter
-*** [[https://twitter.com/thinkingjimmy/status/1645262430992478214][View Tweet]]
+#+END_QUOTE\

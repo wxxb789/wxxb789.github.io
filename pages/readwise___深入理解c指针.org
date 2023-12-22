@@ -12,8 +12,8 @@
 :image-url: https://geekinney.com/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-16]]
 #+BEGIN_QUOTE
 指针的用法
 
@@ -24,7 +24,4 @@
 •   **指向常量的指针**: 可以修改指针的指向，但是不能修改指向的数据。
 •   **指向非常量的常量指针**:不可以修改指针的指向，但可以修改指向的数据。
 •   **指向常量的常量指针**:即不可以修改指针的指向，也不可以修改指向的数据。 
-#+END_QUOTE
-    date:: [[2022-12-16]]
-*** from _深入理解c指针_ by Geekinney's Blog
-*** [[https://read.readwise.io/read/01gmcwe2vdy66m4vfm0evkjgyk][View Highlight]]
+#+END_QUOTE\

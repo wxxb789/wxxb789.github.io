@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1588231687988994048/9cnCpAXZ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 Web 开发分享之「如何选择无头 CMS」
 
@@ -23,11 +23,8 @@ Web 开发分享之「如何选择无头 CMS」
 解释：Headless (无头) CMS 中的“无头”指的是不强行绑定渲染层 (大多数“有头” CMS 都只能渲染 HTML，比如 WordPress) 的概念 
 
 ![](https://pbs.twimg.com/media/Fvg-bheaAAAGVbr.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141510994882561][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第一位推荐 https://t.co/YTF2K9f3Id @sanity_io 
 优点
@@ -43,11 +40,8 @@ Web 开发分享之「如何选择无头 CMS」
 ✅… 
 
 ![](https://pbs.twimg.com/media/Fvg-cAaaAAItxtm.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141519396048897][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第二位推荐 payloadcms @payloadcms 
 
@@ -66,11 +60,8 @@ Web 开发分享之「如何选择无头 CMS」
 ❌… 
 
 ![](https://pbs.twimg.com/media/Fvg-ckVaUAIU0Dt.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141529034563586][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第三位推荐 https://t.co/liTKKXWIKL @strapijs 
 
@@ -89,11 +80,8 @@ Web 开发分享之「如何选择无头 CMS」
 ❌ 不完全的 TypeScript… 
 
 ![](https://pbs.twimg.com/media/Fvg-dDWaMAEteq_.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141537410588678][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第四位推荐 https://t.co/qUnuCthvCT @NotionHQ 
 
@@ -112,11 +100,8 @@ Web 开发分享之「如何选择无头 CMS」
 ❌ 无官方开箱即用的… 
 
 ![](https://pbs.twimg.com/media/Fvg-diSaMAAy6Z2.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141545908244480][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第五位推荐 https://t.co/jK762gAUVz @KeystoneJS 
 
@@ -135,11 +120,8 @@ Web 开发分享之「如何选择无头 CMS」
 ❌… 
 
 ![](https://pbs.twimg.com/media/Fvg-eDAaUAEhvxm.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141554783420416][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 非常感谢你的阅读
 如果觉得有用能够帮助到你的话帮忙点赞和转发🙏
@@ -147,7 +129,4 @@ Web 开发分享之「如何选择无头 CMS」
 以后发布更多 web 开发内容，感兴趣的话点个关注，我们下次再见
 
 P.S. 文字与设计内容均为原创，没有利用任何 AI 工具 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _Web 开发分享之「如何选择无头 CMS」 我..._ by @thecalicastle on Twitter
-*** [[https://twitter.com/thecalicastle/status/1655141558847676416][View Tweet]]
+#+END_QUOTE\

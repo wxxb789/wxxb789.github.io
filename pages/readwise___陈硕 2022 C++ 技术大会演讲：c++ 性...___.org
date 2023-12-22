@@ -12,39 +12,30 @@
 :image-url: https://pbs.twimg.com/profile_images/667513356/ChenShuo_square.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 陈硕 2022 C++ 技术大会演讲：C++ 性能、工具、库【现场直播版】
 
 https://t.co/8Y5bjce6te
 
 https://t.co/5Tu98PFj9V 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _陈硕 2022 C++ 技术大会演讲：c++ 性..._ by @bnu_chenshuo on Twitter
-*** [[https://twitter.com/bnu_chenshuo/status/1575643639773949953][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 B 站开始有一点收入，油管还没资格分成。另外我不是很理解，明明我在视频第3分多钟的时候放了 ppt 讲义的链接和二维码，还是有几个人留言说想要我提供讲义的下载链接。 https://t.co/QXnZUVbUT4 
 
 ![](https://pbs.twimg.com/media/Fegk6QpUoAEy5J5.png) 
 
 ![](https://pbs.twimg.com/media/Fegk6RkVEAAFtgd.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _陈硕 2022 C++ 技术大会演讲：c++ 性..._ by @bnu_chenshuo on Twitter
-*** [[https://twitter.com/bnu_chenshuo/status/1578552255736795137][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 B 站的管理员把我这个原创讲座视频标记成了“转载”，刚刚申诉未果。亲自遇到了证明“我是我”的困境。 
 
 ![](https://pbs.twimg.com/media/FehXf7sVEAE6ijh.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _陈硕 2022 C++ 技术大会演讲：c++ 性..._ by @bnu_chenshuo on Twitter
-*** [[https://twitter.com/bnu_chenshuo/status/1578608146628562944][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 为了证明视频中我“是出镜者本人”，客服给的方案是让我“上传手持身份证图片”，呃……
 
@@ -53,16 +44,10 @@ B 站的管理员把我这个原创讲座视频标记成了“转载”，刚刚
 ![](https://pbs.twimg.com/media/Fejw2AaUYAAWUpb.png) 
 
 ![](https://pbs.twimg.com/media/FejyogbVUAEuk2m.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _陈硕 2022 C++ 技术大会演讲：c++ 性..._ by @bnu_chenshuo on Twitter
-*** [[https://twitter.com/bnu_chenshuo/status/1578779041858916353][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 在个人主页https://t.co/Vt0dY0NuC1添加这个视频的链接还是不足以向B站客服证明这个视频是我原创的，客服要求我“辛苦您按照申诉要求在申诉页面上传手持身份证图片以及您的诉求”。于是我再给出最后的证据，即这个视频本身第 49:46 处出现了我在 B 站的网址，如果这还不足以证明原创的话，我也无话可说。 
 
 ![](https://pbs.twimg.com/media/FemP2CBVIAAQz-6.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _陈硕 2022 C++ 技术大会演讲：c++ 性..._ by @bnu_chenshuo on Twitter
-*** [[https://twitter.com/bnu_chenshuo/status/1578952357928239104][View Tweet]]
+#+END_QUOTE\

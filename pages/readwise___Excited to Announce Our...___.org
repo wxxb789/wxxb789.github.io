@@ -12,51 +12,36 @@
 :image-url: https://pbs.twimg.com/profile_images/1562818282872115200/2tRu964e.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 Excited to announce our new course: "Introduction to @LangChainAI : A Framework for Large Language Model Applications"!🎉
 Dive into the world of #LangChain, a software development framework designed to streamline the creation of applications using LLM
 #ChatGPT #LLM #course 
 
 ![](https://pbs.twimg.com/media/Fw6IH12XoAA4iFs.png) 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _Excited to Announce Our..._ by @ankur_maker on Twitter
-*** [[https://twitter.com/ankur_maker/status/1661416704524558336][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 Agenda: We've packed this course with everything from understanding what LangChain is, to building your own application. A complete guide to get you started with LangChain.📚🚀 
 
 ![](https://pbs.twimg.com/media/Fw6IhoUWAAUl7KH.png) 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _Excited to Announce Our..._ by @ankur_maker on Twitter
-*** [[https://twitter.com/ankur_maker/status/1661416706957246468][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 Check our course at the link below. https://t.co/7WJ9DwsEIf
 Repo link: 
 https://t.co/NWF3peraJK 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _Excited to Announce Our..._ by @ankur_maker on Twitter
-*** [[https://twitter.com/ankur_maker/status/1661416709176082432][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 🤞Fingers crossed that you found this thread beneficial! If you did, consider taking the following steps:
 
 1️⃣ Follow me ( @ankur_maker ) for more AI insights and @LangChainAI walkthroughs. 
 2️⃣ Show your appreciation by liking and retweeting the initial tweet below👍🔄:… 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _Excited to Announce Our..._ by @ankur_maker on Twitter
-*** [[https://twitter.com/ankur_maker/status/1661417034674995202][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 @LangChainAI Video tutorials would be added soon on
 https://t.co/mfH6dyVXIZ 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _Excited to Announce Our..._ by @ankur_maker on Twitter
-*** [[https://twitter.com/ankur_maker/status/1661417753247350793][View Tweet]]
+#+END_QUOTE\

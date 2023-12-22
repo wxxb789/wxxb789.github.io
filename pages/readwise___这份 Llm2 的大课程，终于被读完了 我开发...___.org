@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-24]]
 #+BEGIN_QUOTE
 这份 LLM2 的大课程，终于被读完了
 
@@ -26,29 +26,20 @@
 ![](https://pbs.twimg.com/media/F4MH2etXEAAmRcW.jpg) 
 
 ![](https://pbs.twimg.com/media/F4MIJw-WAAAo43q.png) 
-#+END_QUOTE
-    date:: [[2023-08-24]]
-*** from _这份 Llm2 的大课程，终于被读完了 我开发..._ by @huangyun_122 on Twitter
-*** [[https://twitter.com/huangyun_122/status/1694207792087749029][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-24]]
 #+BEGIN_QUOTE
 细思有点恐：工具介绍类视频，就这么被消费完，还有多少 Up 主，会愿意创造视频 ? 这是不是在加大 up 主的“卷”性
 
 情感，娱乐类播主，貌似更容易被剽窃到内容创意，后续的 AI 人，配合音色训练，分分钟还原一个场景
 
 我们似乎来到了一个更卷的时代 ?! 
-#+END_QUOTE
-    date:: [[2023-08-24]]
-*** from _这份 Llm2 的大课程，终于被读完了 我开发..._ by @huangyun_122 on Twitter
-*** [[https://twitter.com/huangyun_122/status/1694212239614722143][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-24]]
 #+BEGIN_QUOTE
 嗯，当资料太多时， 首次突破了 https://t.co/EfiiAXRml7 的使用限制
 
 接下来的目标，该考虑使用 ChatGPT3.5 API 来自动总结这些转录好的文本了，效率更上一步 !! 
 
 ![](https://pbs.twimg.com/media/F4McXOAWEAAJ8EQ.png) 
-#+END_QUOTE
-    date:: [[2023-08-24]]
-*** from _这份 Llm2 的大课程，终于被读完了 我开发..._ by @huangyun_122 on Twitter
-*** [[https://twitter.com/huangyun_122/status/1694229330170175577][View Tweet]]
+#+END_QUOTE\

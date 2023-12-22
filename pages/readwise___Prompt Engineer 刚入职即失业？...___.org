@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-09-08]]
 #+BEGIN_QUOTE
 Prompt Engineer 刚入职即失业？
 
@@ -30,16 +30,10 @@ Google DeepMind 刚刚发表了一篇新的论文，介绍了如何使用 LLM �
 
 详细的论文分析 👇
 https://t.co/IC1SbHTGoC 
-#+END_QUOTE
-    date:: [[2023-09-08]]
-*** from _Prompt Engineer 刚入职即失业？..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1699977952363192475][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-09-08]]
 #+BEGIN_QUOTE
 如何设计一个 Meta Prompt 
 
 ![](https://pbs.twimg.com/media/F5eJEvLa4AAr0_Q.jpg) 
-#+END_QUOTE
-    date:: [[2023-09-08]]
-*** from _Prompt Engineer 刚入职即失业？..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1699978134018564184][View Tweet]]
+#+END_QUOTE\

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/搞到了 GPT 的数据，可以做个野生 GPT S...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Hooopo on Twitter]]
+:full-title: "搞到了 GPT 的数据，可以做个野生 GPT S..."
+:category: [[tweets]]
+:url: https://twitter.com/Hooopo/status/1737654339148427358
+:image-url: https://pbs.twimg.com/profile_images/2978112606/32e688acad9144b583837a87a0aac2d2.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+搞到了 GPT 的数据，可以做个野生 GPT Store? 
+
+![](https://pbs.twimg.com/media/GB1jQQ7bgAAtBhy.jpg) 
+#+END_QUOTE\

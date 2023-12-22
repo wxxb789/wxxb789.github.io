@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-05]]
 #+BEGIN_QUOTE
 这是我最喜欢的图之一。
 上面密密麻麻列出了当时令人忧心的重大事件。
@@ -22,7 +22,4 @@
 类似于“美国政府掐架，可能债务违约”，这样的新闻是否让你有点怕怕呢？ 
 
 ![](https://pbs.twimg.com/media/Fxx_-1GaYAAO7qk.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-05]]
-*** from _这是我最喜欢的图之一。 上面密密麻麻列出了当时令..._ by @raycat2021 on Twitter
-*** [[https://twitter.com/raycat2021/status/1665513010914549760][View Tweet]]
+#+END_QUOTE\

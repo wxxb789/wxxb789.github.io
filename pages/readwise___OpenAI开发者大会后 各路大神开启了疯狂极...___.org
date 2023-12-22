@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1721488863603118080/VJBC4Z7L.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 OpenAI开发者大会后
 
@@ -30,33 +30,24 @@ OpenAI开发者大会后
 👁️ 利用GPT-4 视觉 API 实时地识别正在发生的事情
 
 🧵更多↓ 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781696474083436][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 1、GPT-4-Turbo速度演示
 
 真的特别快...
 
 https://t.co/nbyihWILXP 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781698982269379][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 2、使用GPT-4V + TTS 创建AI体育解说员
 
 将每一帧的足球视频传递给gpt-4-vision-preview，并通过一些简单的提示要求生成解说...
 
 https://t.co/8Kcle6JDmt 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781701859532889][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 3、利用OpenAI的最新语音模型，仅用了几分钟就创建了一个NPC交互
 
@@ -66,11 +57,8 @@ https://t.co/8Kcle6JDmt
 -SDXL
 
 https://t.co/Ga4j3cKnF0 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781704845914459][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 4、OpenAI最新的GPTs创建示范
 
@@ -79,31 +67,22 @@ https://t.co/Ga4j3cKnF0
 它可以在网上查找某个产品类别的最新趋势，然后为其创建原型图像。整个过程不到90秒。
 
 https://t.co/gt4R5pFSt0 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781707832226301][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 5、使用 <a href="https://twitter.com/OpenAI">@OpenAI</a> 视觉API进行网络摄像头聊天
 
 https://t.co/KQPzuN3pdC 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781710432735573][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 6、ChatGPT自定义GPTs  
 
 Gif-PT 自动将Dalle图片转换为gif
 
 https://t.co/Z0Rq1IaQZ7 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781713393914344][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 7、WebcamGPT
 
@@ -114,27 +93,18 @@ https://t.co/Z0Rq1IaQZ7
 现在已经上线了：https://t.co/BOB6ZDmnzG
 
 https://t.co/6giUPM3nv4 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781716074041563][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 8、用30分钟构建的GPT-4视觉API的演示。
 
 随便丢一个URL，将其转换为图像，然后通过GPT-4视觉API处理，以响应自定义的着陆页优化建议。
 
 https://t.co/OwSnAk1uy1 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781719026778293][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 9、使用GPT-4-Vision API 将低保真模拟图转化为实际的 HTML
 
 https://t.co/IStQTWzQyP 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI开发者大会后 各路大神开启了疯狂极..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1721781721669234816][View Tweet]]
+#+END_QUOTE\

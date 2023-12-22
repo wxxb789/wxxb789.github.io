@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1550778008314806272/BssM2zPQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 Here are some notes on 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝘁𝗼 𝗞𝗮𝗳𝗸𝗮.
 
@@ -22,16 +22,10 @@ Kafka is an extremely important 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 �
 𝗦𝗼𝗺𝗲… 
 
 ![](https://pbs.twimg.com/media/FzjCZ2SXgAAGYk2.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Here Are Some Notes on 𝗪..._ by @Aurimas_Gr on Twitter
-*** [[https://twitter.com/Aurimas_Gr/status/1673301040576225283][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 If you like the content, be sure to join 12.000+ Data Tech Enthusiasts by subscribing to my newsletter: https://t.co/aI3ps0tcLw 
 
 ![](https://pbs.twimg.com/media/FzjfVbfWcAY0X4M.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Here Are Some Notes on 𝗪..._ by @Aurimas_Gr on Twitter
-*** [[https://twitter.com/Aurimas_Gr/status/1673332840547622913][View Tweet]]
+#+END_QUOTE\

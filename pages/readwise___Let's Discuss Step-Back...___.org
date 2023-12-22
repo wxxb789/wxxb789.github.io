@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/922432805426130944/Zv5SABlH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 Let's discuss Step-Back Prompting
 
@@ -44,18 +44,12 @@ Armed with this knowledge, we can now easily infer that Laika must have been the
 So in a nutshell, Step-Back Prompting is like zooming out of Google Maps to first see the bigger picture and main roads before searching for a specific store. Going top-down instead of bottom-up.
 
 We teach the LLMs this strategy of abstraction before reasoning by showing them examples of stepping back and extracting high-level concepts. This grounds their thinking and improves complex reasoning. 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [[https://twitter.com/IntuitMachine/status/1712174264747479233][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 BTW, I forgot to mention.  If you want to get a map of the multitude of prompting methods that's been discovered, get my book:  https://t.co/sQXPgWZxIJ 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [[https://twitter.com/IntuitMachine/status/1712174645640581217][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 STEP-BACK Prompting compares favorably to other prompting methods like Chain-of-Thought (CoT) and Take-a-Deep-Breathe (TDB) as well as retrieval augmentation:
 
@@ -82,11 +76,8 @@ Retrieval Augmentation
 - STEP-BACK + RAG boosts it further to 68% 
 
 In summary, STEP-BACK consistently outperforms other prompting methods because it shifts the reasoning to a higher conceptual level via abstraction. This makes the task more manageable for the LLM. 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [[https://twitter.com/IntuitMachine/status/1712175237930860934][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 Step-back prompting and task decomposition are related strategies for improving reasoning in large language models, but have some key differences:
 
@@ -127,14 +118,8 @@ Step-back: What are some major bridges built in New York in the 19th century?
 --
 
 So in summary, decomposition breaks the question down into more bitesized pieces. Step-back reasoning operates at a higher, more conceptual level. 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [[https://twitter.com/IntuitMachine/status/1712176970622964135][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 For more details, join our exponentially exploding community! https://t.co/An53B3CjC8 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _Let's Discuss Step-Back..._ by @IntuitMachine on Twitter
-*** [[https://twitter.com/IntuitMachine/status/1712177386479829485][View Tweet]]
+#+END_QUOTE\

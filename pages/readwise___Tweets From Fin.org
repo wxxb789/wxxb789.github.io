@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 这是一篇打破GPT“涌现”概念神话的论文，终于说出了我一直以来的一个直觉，这才是比较符合事物发展规律的
 
@@ -24,7 +24,4 @@
 ![](https://pbs.twimg.com/media/FvV9ip3acAAO9Xt.jpg) 
 
 ![](https://pbs.twimg.com/media/FvWOTscaYAA1YOw.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _Tweets From Fin_ by @fi56622380 on Twitter
-*** [[https://twitter.com/fi56622380/status/1654386086746132481][View Tweet]]
+#+END_QUOTE\

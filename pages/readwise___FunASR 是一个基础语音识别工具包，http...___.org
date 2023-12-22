@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 FunASR 是一个基础语音识别工具包，https://t.co/dqVAIPl91v，相比 pyannote-audio 它的内容更加全面，包括了语音识别（ASR）、语音端点检测（VAD）、标点恢复、语言模型、说话人验证、说话人分离和多人对话语音识别等模块，而且提供了非常多的预训练模型，https://t.co/HoGlYlE0XW，可供推理和微调。
 
@@ -26,7 +26,4 @@ FunASR 是一个基础语音识别工具包，https://t.co/dqVAIPl91v，相比 p
 当前 FunASR 大部分模块还只支持 CPU 推理，GPU 兼容还在建设中，因此它的一个特点就是慢，https://t.co/qqRFVg9AUW，这篇文章提到，Whisper 4s 能搞定的事儿，交给 FunASR 需要 33s，不过优势也较为显著，FunASR 的标点符号清晰，而且准确率很高。
 
 我翻了一下 FunASR 的 Github issues，https://t.co/9TWhg5L2vz，Bug 量还是挺大的，当然，这无可厚非，毕竟还是一个比较新的产品，距离走向成熟还需要一段时间；Bug 集中在内存回收和时间戳不准等几个问题上，都是能让使用者头疼的问题点。如果你对中文语音识别有强烈诉求，可以考虑围观下，也可以尝鲜试一试。<img src='https://pbs.twimg.com/media/GAENuSaa0AArAtj.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _FunASR 是一个基础语音识别工具包，http..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1729681417137954954][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-17]]
 #+BEGIN_QUOTE
 基于余弦老师的《区块链黑暗森林自救手册》创建了一个 「区块链安全助手 AI」
 
@@ -22,25 +22,16 @@
 https://t.co/4DK83QJ430 
 
 ![](https://pbs.twimg.com/media/Ft55h9jacAIPva9.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-17]]
-*** from _基于余弦老师的《区块链黑暗森林自救手册》创建了一..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1647888359325601792][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-17]]
 #+BEGIN_QUOTE
 另外原生支持多国语言 
 
 ![](https://pbs.twimg.com/media/Ft56HhOaQAESEDw.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-17]]
-*** from _基于余弦老师的《区块链黑暗森林自救手册》创建了一..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1647889071195451392][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-17]]
 #+BEGIN_QUOTE
 推荐大家都把 @evilcos  这本小册子好好读一下，可能可以避免潜在的损失。
 
 https://t.co/Qk3p5eqxYJ 
-#+END_QUOTE
-    date:: [[2023-04-17]]
-*** from _基于余弦老师的《区块链黑暗森林自救手册》创建了一..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1647889073850429441][View Tweet]]
+#+END_QUOTE\

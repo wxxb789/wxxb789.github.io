@@ -12,8 +12,8 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 •   [](https://qdrant.tech/documentation/concepts/search/)
 •   [Filtering](https://qdrant.tech/documentation/concepts/filtering/)
@@ -255,14 +255,8 @@ httppython
     
 
 [](https://qdrant.tech/documentation/concepts/payload#update-payload)Update payload[](https://qdrant.tech/docu 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _Payload - Qdrant_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4d9cw7pf0dw590fe8s6vgx0][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 payload 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _Payload - Qdrant_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4d9gexc7ttv5403dhtemz8g][View Highlight]]
+#+END_QUOTE\

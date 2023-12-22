@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 如何写出一个更好的 ChatGPT Prompt
 
@@ -28,11 +28,8 @@ https://t.co/iTqRPYLyX0
 🧵 
 
 ![](https://pbs.twimg.com/media/FvlDrn7aQAAnwN8.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _如何写出一个更好的 ChatGPT Prompt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1655428760546562048][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第一步：创建 Prompt
 
@@ -45,20 +42,14 @@ I want a prompt that will help me practice my English writing skills
 [具体需求] 部分也可以使用中文描述。 
 
 ![](https://pbs.twimg.com/media/FvlDsJPaEAI1bss.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _如何写出一个更好的 ChatGPT Prompt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1655428769681756160][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第二步：基于 Prompt 来创建一个 Copilot
 
 有了 Prompt 之后，我们就可以基于这个 Prompt 来创建一个 Copilot 了。 https://t.co/6ZDiROBT9Y 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _如何写出一个更好的 ChatGPT Prompt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1655428897599528961][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 第三步：和创建后的 Copilot 进行交互
 
@@ -69,16 +60,10 @@ I want a prompt that will help me practice my English writing skills
 https://t.co/28jT0ltFZc 
 
 ![](https://pbs.twimg.com/media/FvlD0ZJaUAAgIxW.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _如何写出一个更好的 ChatGPT Prompt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1655428912195805184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-08]]
 #+BEGIN_QUOTE
 可以关注 @CopilotHubAI 获取最新的产品信息，或者加入 Telegram 中文社区群组来讨论相关的内容。
 
 https://t.co/pfgN1hxDKz 
-#+END_QUOTE
-    date:: [[2023-05-08]]
-*** from _如何写出一个更好的 ChatGPT Prompt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1655428916713070592][View Tweet]]
+#+END_QUOTE\

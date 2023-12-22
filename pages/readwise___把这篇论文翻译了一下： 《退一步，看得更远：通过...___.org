@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-27]]
 #+BEGIN_QUOTE
 把这篇论文翻译了一下：
 《退一步，看得更远：通过抽象引发大型语言模型中的推理》Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models
@@ -28,7 +28,4 @@ https://t.co/deedtBho8r
 1. 抽象：我们首先提示 LLM 提出一个关于更高层次概念或原则的通用问题，并检索与之相关的信息，而不是直接回答原始问题。
 2. 推理：在获取了关于高层次概念或原则的信息后，LLM 可以基于这些信息对原始问题进行推理。我们将这种方法称为基于抽象的推理。
 在接下来的部分，我们将展示在一系列复杂的 STEM、知识问答和多步推理任务上对退一步提示方法的实证研究。<img src='https://pbs.twimg.com/media/F9au9YSWcAAM8jT.jpg'/><img src='https://pbs.twimg.com/media/F9avOESXgAEQ6xs.jpg'/><img src='https://pbs.twimg.com/media/F9avRVQWoAA2MMP.png'/> 
-#+END_QUOTE
-    date:: [[2023-10-27]]
-*** from _把这篇论文翻译了一下： 《退一步，看得更远：通过..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1717753585771950250][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1553416417126789120/2tHJsO9O.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-05]]
 #+BEGIN_QUOTE
 非常牛逼的大佬做的 #AIGC 聚合平台 #ChatGPT 
 1，可以使用 Gpt3.5+4 mid journey
@@ -23,7 +23,4 @@
 5，或者也可以把它当作副业建立管道收入（有推广收益）
 传送门：https://t.co/znhdEUDmHy
 有兴趣可以去体验 
-#+END_QUOTE
-    date:: [[2023-11-05]]
-*** from _非常牛逼的大佬做的 #AIGC 聚合平台 #Ch..._ by @bishengkegs on Twitter
-*** [[https://twitter.com/bishengkegs/status/1721167937443360873][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1664704905414868994/_CIOI3Xw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-24]]
 #+BEGIN_QUOTE
 Free machine learning crash course from @BerkeleyML.
 
@@ -22,7 +22,4 @@ Highly recommended for anyone looking to start!
 https://t.co/ygHNkWxU9X 
 
 ![](https://pbs.twimg.com/media/FkrKYs2UEAE9Yfg.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-24]]
-*** from _Free Machine Learning Cr..._ by @abacusai on Twitter
-*** [[https://twitter.com/abacusai/status/1606318746783535105][View Tweet]]
+#+END_QUOTE\

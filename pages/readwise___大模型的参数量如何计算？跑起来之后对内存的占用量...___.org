@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 大模型的参数量如何计算？跑起来之后对内存的占用量有多高？进行一次训练需要多少算力？
 
 推荐阅读这篇文章，《分析 transformer 模型的参数量、计算量、中间激活、KV cache》，https://t.co/5jLyB8HCXJ，作者应该是把 transformer 给吃透了，通过一系列的公式推导，给出了比较有用的粗略估算方法。 
 
 ![](https://pbs.twimg.com/media/GBUMUxmaMAA0_lf.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _大模型的参数量如何计算？跑起来之后对内存的占用量..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1735306958880821422][View Tweet]]
+#+END_QUOTE\

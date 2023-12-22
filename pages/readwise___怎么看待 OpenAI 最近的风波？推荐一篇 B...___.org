@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 怎么看待 OpenAI 最近的风波？推荐一篇 Ben Thompson 的长篇分析，我觉得这篇可能最接近真相。https://t.co/4d1Oj7N57r
 
 他的一个结论是，该事件的最大赢家是微软。微软先前就有 OpenAI 所有代码和模型的永久授权，现在又有了 Sam Altman、Greg Brockman 的加盟，实际上相当于以0元收购了 OpenAI。 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _怎么看待 OpenAI 最近的风波？推荐一篇 B..._ by @ruanyf on Twitter
-*** [[https://twitter.com/ruanyf/status/1726588659930165674][View Tweet]]
+#+END_QUOTE\

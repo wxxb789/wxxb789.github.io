@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-13]]
 #+BEGIN_QUOTE
 如何直接用自己的Prompt创建一个中英文双语对照翻译GPT？
 
@@ -43,7 +43,4 @@ We pass away, as the fleeting instant of an eye, you know; We come together, lik
 ----
 
 最终成品：https://t.co/MOmSWW5YDN<video controls><source src="https://video.twimg.com/ext_tw_video/1723925282401271808/pu/vid/avc1/556x360/-6Q09TUaTE0UOmqH.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1723925282401271808/pu/pl/ynVHn60GZ_usmc-T.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1723925282401271808/pu/vid/avc1/416x270/BzATAej7A62837Hq.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1723925282401271808/pu/vid/avc1/1112x720/9C6BNa0sjO4XBpLB.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-11-13]]
-*** from _如何直接用自己的Prompt创建一个中英文双语对..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1723925653324452067][View Tweet]]
+#+END_QUOTE\

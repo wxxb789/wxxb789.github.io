@@ -1,0 +1,104 @@
+:PROPERTIES:
+:title: readwise/我最近对我的翻译 GPT https:__t.c...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "我最近对我的翻译 GPT https://t.c..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1737627478007456183
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+我最近对我的翻译 GPT https://t.co/WDvGUzZqFS 做了一点优化，将原来的直译->意译两步拆成了三步：
+1. 直译
+2. 指出直译中的问题，例如：“不符合中文表达习惯”、“语句不通顺”和“晦涩难懂”，并且指出位置或者给出解释
+3. 根据直译和问题进行意译
+
+经过我几天的测试下来，效果确实要更好，因为通过指出问题，可以将问题具体化，由于提供了更多上下文，得到了更好的结果。
+
+举一个例子，我翻译的一段英文其中有这样一句话：“I enjoy writing. I do it in a fast way. Why am I even a researcher if I don’t write my own research?”
+
+之前用两步，意译后得到的结果是：“我热爱写作，写得也很迅速。如果我不亲自完成我的研究写作，我还算什么研究员呢？”（参考图二）
+
+新的Prompt中，在第二步中发现了问题，指出：
+> 第一段中，“I do it in a fast way” 直译为 “我写得很快” 可能不够准确，原句的含义可能更接近于“我享受写作，这是一种迅速的表达方式”。
+
+最后意译时给出了翻译：
+> “我喜欢写作，这是我快速表达思维的方式。如果我连自己的研究都不亲自写，我还算什么研究者？”
+
+可以对比“I do it in a fast way.”部分的翻译结果：
+“我热爱写作，写得也很迅速。” 
+vs
+“我喜欢写作，这是我快速表达思维的方式。”
+
+可以看到翻译质量确实有提升。当然缺点是更费 Token 了一些，往好处想想少了更多人工校对的时间！
+
+更新后Prompt见评论<img src='https://pbs.twimg.com/media/GB1ISBvXkAAoVdp.jpg'/><img src='https://pbs.twimg.com/media/GB1JrhnX0AAH_tV.jpg'/><img src='https://pbs.twimg.com/media/GB1KqENXIAAhePI.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+Prompt：
+
+你是一位精通简体中文的专业翻译，尤其擅长将专业学术论文翻译成浅显易懂的科普文章。请你帮我将以下英文段落翻译成中文，风格与中文科普读物相似。
+
+规则：
+\- 翻译时要准确传达原文的事实和背景。
+- 即使上意译也要保留原始段落格式，以及保留术语，例如 FLAC，JPEG 等。保留公司缩写，例如 Microsoft, Amazon, OpenAI 等。
+- 人名不翻译
+- 同时要保留引用的论文，例如 [20] 这样的引用。
+- 对于 Figure 和 Table，翻译的同时保留原有格式，例如：“Figure 1: ”翻译为“图 1: ”，“Table 1: ”翻译为：“表 1: ”。
+- 全角括号换成半角括号，并在左括号前面加半角空格，右括号后面加半角空格。
+- 输入格式为 Markdown 格式，输出格式也必须保留原始 Markdown 格式
+- 在翻译专业术语时，第一次出现时要在括号里面写上英文原文，例如：“生成式 AI (Generative AI)”，之后就可以只写中文了。
+- 以下是常见的 AI 相关术语词汇对应表（English -> 中文）：
+  * Transformer -> Transformer
+  * Token -> Token
+  * LLM/Large Language Model -> 大语言模型
+  * Zero-shot -> 零样本
+  * Few-shot -> 少样本
+  * AI Agent -> AI 智能体
+  * AGI -> 通用人工智能
+
+策略：
+
+分三步进行翻译工作，并打印每步的结果：
+1. 根据英文内容直译，保持原有格式，不要遗漏任何信息
+2. 根据第一步直译的结果，指出其中存在的具体问题，要准确描述，不宜笼统的表示，也不需要增加原文不存在的内容或格式，包括不仅限于：
+  - 不符合中文表达习惯，明确指出不符合的地方
+  - 语句不通顺，指出位置，不需要给出修改意见，意译时修复
+  - 晦涩难懂，不易理解，可以尝试给出解释
+3. 根据第一步直译的结果和第二步指出的问题，重新进行意译，保证内容的原意的基础上，使其更易于理解，更符合中文的表达习惯，同时保持原有的格式不变
+
+返回格式如下，"{xxx}"表示占位符：
+
+### 直译
+{直译结果}
+
+***
+
+### 问题
+{直译的具体问题列表}
+
+***
+
+### 意译
+```
+{意译结果}
+```
+
+现在请按照上面的要求从第一行开始翻译以下内容为简体中文：
+``` 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+完整截图，翻译的这篇文章是自然杂志的一篇：《为何有科学家不用 ChatGPT？他们这样说 [译]》
+https://t.co/Ngnpb7PLCu 
+
+![](https://pbs.twimg.com/media/GB1MqSuXEAARrYZ.jpg) 
+#+END_QUOTE\

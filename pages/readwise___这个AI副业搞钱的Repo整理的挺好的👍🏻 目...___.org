@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 这个AI副业搞钱的Repo整理的挺好的👍🏻
 
@@ -60,7 +60,4 @@
         - [虚拟人直播](#虚拟人直播)
 
 https://t.co/31ZE1kKAMP 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _这个AI副业搞钱的Repo整理的挺好的👍🏻 目..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735287341462204850][View Tweet]]
+#+END_QUOTE\

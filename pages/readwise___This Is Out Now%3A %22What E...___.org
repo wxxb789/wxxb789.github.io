@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1668296787696959490/NyAetxNh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-19]]
 #+BEGIN_QUOTE
 This is out now: "What Every Developer Should Know About GPU Computing" 
 https://t.co/9xQibwqEoG
@@ -29,14 +29,8 @@ Here's what you will learn:
 - Dynamic resource partitioning and Occupancy
 
 I hope you enjoy it. I will try to share a summary here later. 
-#+END_QUOTE
-    date:: [[2023-10-19]]
-*** from _This Is Out Now: "What E..._ by @abhi9u on Twitter
-*** [[https://twitter.com/abhi9u/status/1714669373288567233][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-19]]
 #+BEGIN_QUOTE
 I know you might not be able to read the article immediately, but please RT for this to reach a wider audience. Twitter is notorious at suppressing posts with links. 
-#+END_QUOTE
-    date:: [[2023-10-19]]
-*** from _This Is Out Now: "What E..._ by @abhi9u on Twitter
-*** [[https://twitter.com/abhi9u/status/1714707973015302226][View Tweet]]
+#+END_QUOTE\

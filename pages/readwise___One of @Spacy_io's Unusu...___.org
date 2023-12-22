@@ -12,57 +12,42 @@
 :image-url: https://pbs.twimg.com/profile_images/1559391696705961984/tb-JM5Ti.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 One of @spacy_io's unusual features is its strategy to embed lexical items. Instead of using standard embeddings, we use a hashing trick.
  
 We wrote a technical report that benchmarks this process on various NER datasets in different scenarios (1/4) 
 
 ![](https://pbs.twimg.com/media/FkbFi-HaEAE_lHA.png) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _One of @Spacy_io's Unusu..._ by @ljvmiranda921 on Twitter
-*** [[https://twitter.com/ljvmiranda921/status/1605187777423081473][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 You can read the full paper here: https://t.co/Q38u0LgmUH
 
 We dub this hashing trick as the MultiHashEmbed layer. Orthographic features are hashed into a table, then the vectors are pooled into a Maxout layer to get the final embedding. (2/4) 
 
 ![](https://pbs.twimg.com/media/FkbF1HLaAAAWQI9.png) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _One of @Spacy_io's Unusu..._ by @ljvmiranda921 on Twitter
-*** [[https://twitter.com/ljvmiranda921/status/1605187873980157952][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 Our findings show that using hash embeddings is competitive with traditional embeddings in accuracy while being memory-efficient.
  
 We even reduced the number of rows in MultiHashEmbed (10~20% of the usual embeddings), and observed little to no degradation in performance. (3/4) 
 
 ![](https://pbs.twimg.com/media/FkbGA8vaEAEbZM3.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _One of @Spacy_io's Unusu..._ by @ljvmiranda921 on Twitter
-*** [[https://twitter.com/ljvmiranda921/status/1605188092025270274][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 Here's the link again for the paper: https://t.co/Q38u0LgmUH
 
 The hyperparameters are in the appendix as part of the config file, allowing easy reproducibility. We will also release a spaCy project for this very soon! (4/4) 
 
 ![](https://pbs.twimg.com/media/FkbGhwFaMAAHigm.png) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _One of @Spacy_io's Unusu..._ by @ljvmiranda921 on Twitter
-*** [[https://twitter.com/ljvmiranda921/status/1605188702732685312][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 This wouldn't be possible without the help of @akos, the guidance of @OxyKodit , Adriane, & @honnibal , and our collaboration with Anders Søgaard!
 
 Paper: https://t.co/Q38u0LgmUH 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _One of @Spacy_io's Unusu..._ by @ljvmiranda921 on Twitter
-*** [[https://twitter.com/ljvmiranda921/status/1605188922921062400][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-11]]
 #+BEGIN_QUOTE
 强烈推荐这篇文章：《深入探索：AI 驱动的 PDF 布局检测引擎源代码解析 [译]》
 
@@ -35,7 +35,4 @@
 
 原文：Inside Marker: A Guided Source Code Tour for an AI-powered PDF Layout Detection Engine https://t.co/cBwxuqveb0
 翻译：https://t.co/RZRGKwseww<img src='https://pbs.twimg.com/media/GBDco9-XkAAFTop.jpg'/><img src='https://pbs.twimg.com/media/GBDc19dXgAAmJJA.jpg'/><img src='https://pbs.twimg.com/media/GBDc3pMXAAAdpW8.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-11]]
-*** from _强烈推荐这篇文章：《深入探索：ai 驱动的 Pd..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1734129116167729596][View Tweet]]
+#+END_QUOTE\

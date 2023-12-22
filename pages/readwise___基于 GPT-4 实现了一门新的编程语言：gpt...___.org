@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-15]]
 #+BEGIN_QUOTE
 基于 GPT-4 实现了一门新的编程语言：GPTLang
 
@@ -22,11 +22,8 @@
 解释器的代码目前还仅仅是框架，后面会让 GPT-4 慢慢完善，另外语法规则也会优化一下（之前只是测试用的，没有具体设计）。 
 
 ![](https://pbs.twimg.com/media/FrPS4UhaIAE3cpT.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-15]]
-*** from _基于 GPT-4 实现了一门新的编程语言：gpt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1635884757589577728][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-15]]
 #+BEGIN_QUOTE
 起初开启这个项目的原因是想要探索一下 ChatGPT 的能力。
 
@@ -36,25 +33,16 @@
 
 欢迎提 issue & pr，代码仓库 👇
 https://t.co/Pyd7jtKACY 
-#+END_QUOTE
-    date:: [[2023-03-15]]
-*** from _基于 GPT-4 实现了一门新的编程语言：gpt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1635884760286502914][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-15]]
 #+BEGIN_QUOTE
 比如，即使代码运行会有 bug，也把 bug 交给 GPT-4 来进行修复。 
 
 ![](https://pbs.twimg.com/media/FrPUa2lacAAkbdK.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-15]]
-*** from _基于 GPT-4 实现了一门新的编程语言：gpt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1635884762022940673][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-15]]
 #+BEGIN_QUOTE
 最开始一步步调教 ChatGPT 实现这门语言的过程。
 
 https://t.co/RfUMUcMH27 
-#+END_QUOTE
-    date:: [[2023-03-15]]
-*** from _基于 GPT-4 实现了一门新的编程语言：gpt..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1635884764833128448][View Tweet]]
+#+END_QUOTE\

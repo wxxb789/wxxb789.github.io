@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1699588709891608576/6M9I_5oH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-29]]
 #+BEGIN_QUOTE
 这两天整理自己的 Stop-Doing List（「不为清单」），翻到以前写 newsletter 时跟 100+ 位网友征集的他们的各种「不为」条目。
 
@@ -111,7 +111,4 @@
 73、在做一件事之前，不向真正的行家咨询
 74、做任何决策时，不要关注沉没成本，聚焦于机会成本
 75、停止侥幸心理，永远看到事物背后的概率，不在无法干预的事情上浪费时间，努力去优化那些自己能够干预和改变的事情 
-#+END_QUOTE
-    date:: [[2023-08-29]]
-*** from _这两天整理自己的 Stop-Doing List..._ by @XDash on Twitter
-*** [[https://twitter.com/XDash/status/1696320084816568504][View Tweet]]
+#+END_QUOTE\

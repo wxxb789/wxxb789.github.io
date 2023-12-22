@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1517899482121256961/wPhFekEv.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-12]]
 #+BEGIN_QUOTE
 Talk to your PDF with @LangChainAI using just 10 lines of code.
 
@@ -25,14 +25,8 @@ Here's the breakdown:
 5. Ask questions about… 
 
 ![](https://pbs.twimg.com/media/FyUeHHwX0AAmNpM.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-12]]
-*** from _Talk to Your PDF With @L..._ by @assaf_elovic on Twitter
-*** [[https://twitter.com/assaf_elovic/status/1667772622052917251][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-12]]
 #+BEGIN_QUOTE
 I’m getting a lot of questions on chunking strategies. I found this article to be very helpful https://t.co/qOXT18B8R2 
-#+END_QUOTE
-    date:: [[2023-06-12]]
-*** from _Talk to Your PDF With @L..._ by @assaf_elovic on Twitter
-*** [[https://twitter.com/assaf_elovic/status/1668123651202318339][View Tweet]]
+#+END_QUOTE\

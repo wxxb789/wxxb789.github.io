@@ -12,39 +12,30 @@
 :image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE
 我用GPT-4帮忙写了一个浏览器扩展，帮你把Midjourney提示词和对应图片快速保存到Notion中，下面是插件的使用方式介绍、我总结的GPT-4使用技巧以及产品实现的具体过程。@bearbig
 
 详细的过程可以去这里查看：https://t.co/65cgUh2UGl
 
 插件已经开源在这里下载：https://t.co/0Hw5tww7Su https://t.co/TtCoeyW0Qg 
-#+END_QUOTE
-    date:: [[2023-04-09]]
-*** from _我用GPT-4帮忙写了一个浏览器扩展，帮你把Mi..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1644675934803628032][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE
 🧩插件介绍：
 Prompt hunter扩展支持一键将Midjourney图片详情页的图片提示词和其他信息收集到你自己的Notion数据库中，未来也会支持保存到其他工具例如飞书语雀等。也会支持civitai等SD网站的提示词和信息收集。 
 
 ![](https://pbs.twimg.com/media/FtMQNXNaQAA_TIk.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-09]]
-*** from _我用GPT-4帮忙写了一个浏览器扩展，帮你把Mi..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1644676132892196864][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE
 📜本周总结的GPT-4编码技巧
 →在代码编写方面多做要求GPT-4的输出结果可读性会好很多
 →尽量让他多打log，以便能够准确定位问题
 →由于他的数据库就到21年很多事情不知道，所以你需要给他一些输入，例如对应产品的开发文档。比如他就认为Notion API… 
-#+END_QUOTE
-    date:: [[2023-04-09]]
-*** from _我用GPT-4帮忙写了一个浏览器扩展，帮你把Mi..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1644676325293301760][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE
 🧶实现过程
 首先这次我在描述需求的时候比之前细致了非常多我详细描述了需求的背景具体的功能，以及需求涉及到的所有交互链路，还加上了对代码的一些要求。… 
@@ -56,7 +47,4 @@ Prompt hunter扩展支持一键将Midjourney图片详情页的图片提示词和
 ![](https://pbs.twimg.com/media/FtMQljraEAE9Wjb.jpg) 
 
 ![](https://pbs.twimg.com/media/FtMQmq0agAEB_2q.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-09]]
-*** from _我用GPT-4帮忙写了一个浏览器扩展，帮你把Mi..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1644676578910298112][View Tweet]]
+#+END_QUOTE\

@@ -12,16 +12,13 @@
 :image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 如何巧妙地使用 ChatGPT 来增强您的学术写作（包括完整的提示）： 
 [这个过程不涉及作弊和抄袭。] 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733743827356463470][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 1. 首先将 ChatGPT 训练为学术写作助手。您可以使用自定义说明来执行此操作。
 
@@ -54,11 +51,8 @@
 你的回答应该清晰准确，你永远不会使用超过必要的词语。你总是会非常节约地用词，但你不会在答案的清晰度和准确性上妥协。
 
 您将严格遵守我的指示。如果我要求你把你的答案限制在两句话内，你的答案必须只有两句话。<video controls><source src="https://video.twimg.com/ext_tw_video/1733744460511793152/pu/vid/avc1/640x360/pRKuWObfst2ZNIwI.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733744460511793152/pu/pl/0_Wd1TQwou4vhQEO.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1733744460511793152/pu/vid/avc1/480x270/uDG25EwJ66_mDArT.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733744460511793152/pu/vid/avc1/1280x720/bymSoHolMVR16Hp7.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733744508091994485][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 2. 现在你已经训练了 ChatGPT 作为你的写作助手，首先要问一个关于你的研究项目的一般性问题。
 
@@ -71,11 +65,8 @@ ChatGPT 会说它熟悉你的主题。
 问几个后续问题，以缩小项目范围。
 
 这将为您的项目提供 ChatGPT，并给出更多校准的答案。 <video controls><source src="https://video.twimg.com/ext_tw_video/1733744886250401792/pu/vid/avc1/1280x720/zw5EUclXrG2dqQxk.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733744886250401792/pu/vid/avc1/480x270/zIB2ANszw9nh3emn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733744886250401792/pu/vid/avc1/640x360/7p08VdeJTHtdPoHU.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733744886250401792/pu/pl/-ZFCTT7br4wzYFPf.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733745046288310470][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 3. 接下来让 ChatGPT 帮助您集思广益研究问题。
 
@@ -90,11 +81,8 @@ ChatGPT会给你一些研究问题。
 提示：你能给我五个关于以下主题的研究问题吗 [粘贴你觉得最有趣的问题]。
 
 这一次，ChatGPT 将为您提供更多校准的研究问题。<video controls><source src="https://video.twimg.com/ext_tw_video/1733745462803591168/pu/pl/QrHZ33AhHHw5OMe7.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1733745462803591168/pu/vid/avc1/640x360/EbZGKsBrkiitsU02.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733745462803591168/pu/vid/avc1/1280x720/sHMKE4uqCTbQwuoS.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733745462803591168/pu/vid/avc1/480x270/JrLllYODazA0f2nL.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733745658937630790][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 4. 现在，将 ChatGPT 给你的第一个研究问题粘贴到 Word 文档中。
 
@@ -109,11 +97,8 @@ ChatGPT会给你一些研究问题。
 这将是你的零草稿。
 
 为 ChatGPT 给你的所有研究问题写零草稿。<video controls><source src="https://video.twimg.com/ext_tw_video/1733746150258450432/pu/vid/avc1/1280x720/Wb3r5eUjx-c1YnjS.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733746150258450432/pu/pl/G-a7Hnt45IFrtE7t.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1733746150258450432/pu/vid/avc1/640x360/0HZPJGKFe-gCRUqI.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733746150258450432/pu/vid/avc1/480x270/i2S9KA_urTbdNwA0.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733746288808939885][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 5. 拿出你的零草稿之一，然后按照以下提示通过 ChatGPT 运行它：
 
@@ -122,20 +107,14 @@ ChatGPT会给你一些研究问题。
 ChatGPT 会给你一个像样的草稿、整齐的标点符号句子和有组织的段落。
 
 通过 ChatGPT 运行您所有的零草稿，以使它们结构化和有条理。 <video controls><source src="https://video.twimg.com/ext_tw_video/1733754917599498240/pu/pl/nt0qo7_i5diCaZAv.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1733754917599498240/pu/vid/avc1/1280x720/5Emj_nmSgnIMn5Ae.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733754917599498240/pu/vid/avc1/480x270/N-lJizV6np7ReopL.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733754917599498240/pu/vid/avc1/640x360/QawuURczFUBBswcp.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733755137028694359][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 6. 获取 ChatGPT 给你的所有草稿并将它们粘贴到一个新的 Word 文件中。将其命名为 [项目名称 - 初稿]。
 
 这将是一个像样的草稿，但 ChatGPT 可以帮助您进一步完善它。 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733755245778686459][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 7. 在 ChatGPT 中打开一个新的聊天室并启用“高级数据分析”。这将帮助您将文档上传到 ChatGPT。请注意，这仅在 GPT-4 中可用。
 
@@ -156,11 +135,8 @@ ChatGPT 会给你它的批评吗？根据 ChatGPT 的评论重写论文。
 将其命名为 [项目名称 - 第二稿]
 
 现在你有了一个体面的草稿，你可以与你的教授或同事分享，以寻求他们的反馈。<video controls><source src="https://video.twimg.com/ext_tw_video/1733755432127361024/pu/pl/at9jw-epNzgrqJxM.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1733755432127361024/pu/vid/avc1/640x360/B6Qf8earMcERqqh6.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733755432127361024/pu/vid/avc1/480x270/nEcxWyCBKBzA1mUl.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733755432127361024/pu/vid/avc1/1280x720/PqE3D_GmaXtU-bsy.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733755471524471055][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 以上就是全部，原作者： <a href="https://twitter.com/MushtaqBilalPhD">@MushtaqBilalPhD</a>
 
@@ -173,7 +149,4 @@ ChatGPT 会给你它的批评吗？根据 ChatGPT 的评论重写论文。
 3. 关注  <a href="https://twitter.com/FinanceYF5">@FinanceYF5</a>，了解有关如何利用 AI 增强学术写作的更多主题
 
 https://t.co/KbdkK1lHhk 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _如何巧妙地使用 ChatGPT 来增强您的学术写..._ by @FinanceYF5 on Twitter
-*** [[https://twitter.com/FinanceYF5/status/1733772936442769558][View Tweet]]
+#+END_QUOTE\

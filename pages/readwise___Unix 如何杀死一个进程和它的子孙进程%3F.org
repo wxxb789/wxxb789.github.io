@@ -12,43 +12,28 @@
 :image-url: https://vim0.com/post/kill_process_and_its_childs.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-15]]
 #+BEGIN_QUOTE
 如果你只是采用 `kill -9 pid` 来杀死进程，那么它的子进程也会被杀死，但是孙子进程还是会继续存活。 
-#+END_QUOTE
-    date:: [[2022-12-15]]
-*** from _Unix 如何杀死一个进程和它的子孙进程?_ by xiantang
-*** [[https://read.readwise.io/read/01gmas10nvnn5vt92mr048w7f1][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-15]]
 #+BEGIN_QUOTE
 解决方案
 
 查阅了各种资料之后，找到了一个很好的解决方案：使用 pgid 参数来让进程组的进程共享一个进程组号。 
-#+END_QUOTE
-    date:: [[2022-12-15]]
-*** from _Unix 如何杀死一个进程和它的子孙进程?_ by xiantang
-*** [[https://read.readwise.io/read/01gmas1f99z7ygjy7tbhqmrfva][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-15]]
 #+BEGIN_QUOTE
 同时在 kill 进程的时候，也要使用这个 pgid 参数，这样就可以杀死对应的进程组了。可以参考 `man kill`
 
 > Negative PID values may be used to choose whole process groups；see the PGID column in ps command output。 
-#+END_QUOTE
-    date:: [[2022-12-15]]
-*** from _Unix 如何杀死一个进程和它的子孙进程?_ by xiantang
-*** [[https://read.readwise.io/read/01gmas22n5t15gd7f64qwf4xqj][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-15]]
 #+BEGIN_QUOTE
 cmd := exec.Command( some_command ) cmd.SysProcAttr = &syscall.SysProcAttr{Setpgid: true} cmd.Start() pgid, err := syscall.Getpgid(cmd.Process.Pid) if err == nil { syscall.Kill(-pgid, 15) // note the minus sign } cmd.Wait() 
-#+END_QUOTE
-    date:: [[2022-12-15]]
-*** from _Unix 如何杀死一个进程和它的子孙进程?_ by xiantang
-*** [[https://read.readwise.io/read/01gmas40awk7yhrty9frenh1w9][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-15]]
 #+BEGIN_QUOTE
 [間歇高效率的番茄工作法](https://book.douban.com/subject/35119866/)看了一个 news letter 的文章，发现了一个至关重要的[技巧](https://happyxiao.com/pomodoro/)：如果你为一个任务设置了一个番茄钟，但是提早完成了，比方说你为一本书的某个章节记笔记，但你提早完成了 - 你不应该立即进入到下一个任务，或者提早结束这个番茄钟。 
-#+END_QUOTE
-    date:: [[2022-12-15]]
-*** from _Unix 如何杀死一个进程和它的子孙进程?_ by xiantang
-*** [[https://read.readwise.io/read/01gmas4yagm6s0z6xne1rg42es][View Highlight]]
+#+END_QUOTE\

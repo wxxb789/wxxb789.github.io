@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-17]]
 #+BEGIN_QUOTE
 如何更好进行「主题研究」
 
@@ -25,18 +25,12 @@
 https://t.co/2C0nHIaxIV 
 
 ![](https://pbs.twimg.com/media/Ft135b5aQAA2qiD.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-17]]
-*** from _如何更好进行「主题研究」 创建了一个 Copi..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1647606126937264129][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-17]]
 #+BEGIN_QUOTE
 Copilot Hub 目前已经上线了多 data source 的功能，非常方便用来进行某一主题的研究。
 
 通常一个主题的内容可能包含很多文档、书籍、网络文章，在 Copilot Hub 就可以创建一个 Copilot 把这些内容全部索引进去，然后让 AI 来帮助你进行辅助研究。
 
 并且创建完的 Copilot 也可以分享给其他人使用。 
-#+END_QUOTE
-    date:: [[2023-04-17]]
-*** from _如何更好进行「主题研究」 创建了一个 Copi..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1647606708066451457][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-19]]
 #+BEGIN_QUOTE
 #AI开源项目推荐：Taxy AI，使用 GPT-4 自动化您的浏览器
 
@@ -27,7 +27,4 @@
 虽然很酷，但我个人建议你最多测试一下，慎用，万一给你误删什么的会很麻烦。
 
 🔗 https://t.co/3DoaQB7B4k 
-#+END_QUOTE
-    date:: [[2023-10-19]]
-*** from _#AI开源项目推荐：Taxy AI，使用 GPT..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1714451777339146518][View Tweet]]
+#+END_QUOTE\

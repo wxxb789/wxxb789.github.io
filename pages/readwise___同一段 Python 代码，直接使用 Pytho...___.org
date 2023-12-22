@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 同一段 Python 代码，直接使用 python 命令执行，返回的结果是图一，而使用 REPL 执行，返回的结果是图二，实在是没琢磨明白到底是哪里出现的问题导致了差异。
 
@@ -25,7 +25,4 @@
 4）为进一步提升性能，在不同代码块中，新创建整数对象时，如果该对象已被创建，那么直接引用
 
 因此正确的答案应该是 True，False，False。从字节码来看，两边的输出也是一致的，没想明白的是，为啥左侧直接使用 python 执行的结果是三个 True。<img src='https://pbs.twimg.com/media/GBPEwjKaIAA4KDF.jpg'/><img src='https://pbs.twimg.com/media/GBPExEvbAAA7Y9k.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _同一段 Python 代码，直接使用 Pytho..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1734946739109646373][View Tweet]]
+#+END_QUOTE\

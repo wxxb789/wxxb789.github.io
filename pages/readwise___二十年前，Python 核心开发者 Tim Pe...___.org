@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 二十年前，Python 核心开发者 Tim Peter 写了一篇“Python之禅”，《The Zen of Python》，https://t.co/dnTMxs4Coo，给编程工作者一些倡导和建议，如今仍然适用。
 
 在 Python 交互工具中输入“import this”即可看到： 
 
 ![](https://pbs.twimg.com/media/GBME7o3bgAAdo5i.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _二十年前，Python 核心开发者 Tim Pe..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1734735752024789369][View Tweet]]
+#+END_QUOTE\

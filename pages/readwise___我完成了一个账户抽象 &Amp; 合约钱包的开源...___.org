@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1499593703618404358/CfsqoIsN.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 我完成了一个账户抽象 & 合约钱包的开源知识库
 
@@ -26,20 +26,14 @@
 https://t.co/pJnO2IkId5 
 
 ![](https://pbs.twimg.com/media/FpedW0kaAAEp5Dv.png) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [[https://twitter.com/Real_Maxlion/status/1627942808912011264][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 一二部分入门够了，三四五六部分还会不断更新和填充细节。
 
 七部分就是我的结论，思考以及讨论 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [[https://twitter.com/Real_Maxlion/status/1627943559843422209][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 虽然是合约钱包知识库，但其实我发现了一些超越钱包的终极解决方案，比如 @dappOS_com ，它是一个应用操作系统。
 
@@ -48,11 +42,8 @@ https://t.co/pJnO2IkId5
 相比 Layer0 这些跨链协议，DappOS 是把所有公链都虚拟化，帮助用户便捷地管理不同链上的 DApps。
 
 让用户拥有 Web2 App 一样的流畅体验。 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [[https://twitter.com/Real_Maxlion/status/1627956852062588928][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 它通过SDK、虚拟钱包、DApps集成平台不仅实现开发者的一键多链部署，还帮助用户轻松访问任何DApps。
 
@@ -61,11 +52,8 @@ https://t.co/pJnO2IkId5
 对比之下 Solana 上类似的竞品 @xNFT_Backpack 已经得到 @jump_  领投的两千万融资...
 
 DApp 操作系统真的是想象力巨大 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [[https://twitter.com/Real_Maxlion/status/1627957722904956928][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 为什么我会把 @dappOS_com 这类DApp 操作系统放在合约钱包知识库里？
 
@@ -73,11 +61,8 @@ DApp 操作系统真的是想象力巨大
 
 钱包是基于现成基础设施做的应用级用户入口，难度相对更低，但竞争激烈。
 DApp 操作系统则需要自己重新定义前后端、合约标准，是协议层用户入口，难度极大。但竞争少，想象力巨大 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [[https://twitter.com/Real_Maxlion/status/1627959091963502592][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 蚌，期待啥时候 @dappOS_com 能和 @xNFT_Backpack 碰碰。
 
@@ -90,7 +75,4 @@ Solana 现在一言难尽...
 合约钱包的竞争刚开始
 
 而钱包操作系统的战争还没打就要结束了吗😂 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _我完成了一个账户抽象 &Amp; 合约钱包的开源..._ by @Real_Maxlion on Twitter
-*** [[https://twitter.com/Real_Maxlion/status/1627960659261669376][View Tweet]]
+#+END_QUOTE\

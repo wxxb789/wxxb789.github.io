@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 Meta 在从 Metaverse 转向 AI 之后，研究越来越靠谱了！Seamless Communication 项目主攻无障碍沟通，让不同语言的对话可以无缝进行，通过三个模型协调实现：
 
@@ -22,15 +22,9 @@ Meta 在从 Metaverse 转向 AI 之后，研究越来越靠谱了！Seamless Com
 3. SeamlessExpressive 负责控制翻译表达的表情，能够保留谈话的细微之处，比如停顿与语速，还有声调风格和情绪基调;
 
 模型可以直接下载：https://t.co/rCwL25oeTl<video controls><source src="https://video.twimg.com/ext_tw_video/1733759563294543872/pu/vid/avc1/320x320/Ky2O-12aqK05kHxe.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733759563294543872/pu/pl/BzS3Q7JqjwrFwZRr.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1733759563294543872/pu/vid/avc1/400x400/8RFtDmh__993VFYc.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _Meta 在从 Metaverse 转向 AI..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1733759601961849053][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 SeamlessStreaming 是首个只需两秒的延迟还能离线工作的的大规模多语种模型。SeamlessStreaming 基于SeamlessM4T v2 构建，支持近 100 种输入和输出语言的自动语音识别和 speech-to-text 翻译，以及近 100 种输入语言和 36 种输出语言的 speech-to-speech 翻译
 <video controls><source src="https://video.twimg.com/ext_tw_video/1733531977587073024/pu/vid/avc1/480x270/G8uC2yLQBkgxlKiB.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733531977587073024/pu/vid/avc1/1280x720/NrVP06BX002ItcSh.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733531977587073024/pu/vid/avc1/640x360/d3l_wyaaDgut5Jkm.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1733531977587073024/pu/pl/EKNGLNF37-wyg-le.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _Meta 在从 Metaverse 转向 AI..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1733761151555731506][View Tweet]]
+#+END_QUOTE\

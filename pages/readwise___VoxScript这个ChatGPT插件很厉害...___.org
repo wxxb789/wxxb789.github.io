@@ -12,17 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1348266678430302210/dKh2ImrQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-07]]
 #+BEGIN_QUOTE
 VoxScript这个ChatGPT插件很厉害
 https://t.co/V8OIFT7hQD
 检索和阅读都可以完成 
-#+END_QUOTE
-    date:: [[2023-06-07]]
-*** from _VoxScript这个ChatGPT插件很厉害..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1666161362081546241][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-07]]
 #+BEGIN_QUOTE
 一定程度上，可以要求：
 
@@ -31,16 +28,10 @@ https://t.co/V8OIFT7hQD
 但要注意即使是ChatGPT也受到上下文token数量的限制，大概读了2-3篇文献全文以后会开始自己编。
 但已经很厉害了。
 据此启发，大概可以用langchain写一个综述机器人了 
-#+END_QUOTE
-    date:: [[2023-06-07]]
-*** from _VoxScript这个ChatGPT插件很厉害..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1666162707127758849][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-07]]
 #+BEGIN_QUOTE
 很猛啊，一个公司的文章、报道、专利，一个一个都查到，然后交给GPT看。整个过程就是写点prompt，复制粘贴，然后网页后台开着，自己去干点别的事。一会儿就都分析完了。
 
 说起来，需要一个插件，在ChatGPT完成输出以后提醒一下，叮一声就行。 
-#+END_QUOTE
-    date:: [[2023-06-07]]
-*** from _VoxScript这个ChatGPT插件很厉害..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1666197776714317824][View Tweet]]
+#+END_QUOTE\

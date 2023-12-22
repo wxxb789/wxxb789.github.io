@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1426678535893110784/F310H9tA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 看完 State Of GPT https://t.co/knrrEPsPDk，整理了一些关键词，供大家深入研究。想到 OpenAI 在 2022 年 11 月 30 日发布了 ChatGPT，到今天正好过去半年😆
 
@@ -23,11 +23,8 @@
 1. 大数据量收集，几乎是全网规模的数据量，数 T 个tokens
 2. Tokenization
 3. 预训练大模型发展历程… 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _看完 State of GPT Https://..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1663719349188972544][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 2/应用
 
@@ -46,11 +43,8 @@ Low-precision inference
 LLaMA
 Langchain
 Vector… 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _看完 State of GPT Https://..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1663719487865225216][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 3/关于训练的建议
 
@@ -58,11 +52,8 @@ Vector…
 2. 数据处理流程非常关键且复杂，少不了人工成本和时间成本
 3. SFT 相对来说实现起来比较容易，只需要在特定的数据上继续语言建模任务
 4. RLHF 非常不稳定，很难训练 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _看完 State of GPT Https://..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1663719665808576512][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 4/关于应用的建议
 
@@ -70,11 +61,8 @@ Vector…
 2. Prompt 尽可能提供任何相关的上下文和信息，包含详细的任务描述、相关信息和说明。尽可能提供任何相关的上下文和信息
 3. 多测一些 Prompt，学一些 Prompt Engineering
 4. 尝试使用 few-shots… 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _看完 State of GPT Https://..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1663719983204163584][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 5/警惕
 
@@ -85,18 +73,12 @@ Vector…
 5. 可能会出现即时注入、越狱攻击、数据中毒攻击
 
 最好是在低风险场景下使用 LLM，始终和人工监督结合起来，将它们用作灵感和建议的来源，大模型更适合做… 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _看完 State of GPT Https://..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1663720180302893056][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-31]]
 #+BEGIN_QUOTE
 6/带货
 
 我们在小红书上建了个账号 PaperBox，推荐和解读热门论文，欢迎关注🫡 
 
 ![](https://pbs.twimg.com/media/Fxa5jTJaEAEWfsB.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-31]]
-*** from _看完 State of GPT Https://..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1663721719516008449][View Tweet]]
+#+END_QUOTE\

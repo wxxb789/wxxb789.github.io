@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1685194033763868672/NsbUN8P6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 2023年的第一个DeFi“肝”货  (超长，慎入!)
 
@@ -24,22 +24,16 @@
 一个关于DeFi赛道蓝图的超长推文，让我们开始吧! 
 (新年夜肝出来的，欢迎点赞转发支持🙏)
 🧵 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609266991059341317][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 2/ 由于DeFi仍处于起步阶段，路线图是大多数协议面对市场和投资者的主要卖点。
 
 在这个推文中，作者囊括了成熟的DeFi协议以及具有公开路线图的小型创新项目，来带你以最全面的视角了解DeFi行业的发展方向。
 
 让我们深入了解一下👇 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609266992950960128][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 3/ @CurveFinance
 
@@ -53,11 +47,8 @@
 
 LLAMMA将逐步清算借款人的头寸，而不是一次性清算。
 https://t.co/CBZblVGuGj 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609266994716741632][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 4/ @AaveAave
 
@@ -72,11 +63,8 @@ https://t.co/CBZblVGuGj
 - 一个用于社交媒体和DeFi服务的AAVE应用程序
 
 - 一个与代币持有人分享收入的模式 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609266996730040321][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 5/ @AngleProtocol
 
@@ -89,11 +77,8 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 - 推出基于货币和商品的其他挂钩资产
 
 - 更多整合和链上收益机会 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609266998407761920][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 6/ @SushiSwap
 
@@ -108,11 +93,8 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 关于它的更多细节尚待披露。
 
 - 推出永续合约的DEX（在2023年第一季度） 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267000404234240][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 7/ @GMX_IO
 
@@ -125,11 +107,8 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 - 在Avalanche上进行新的交易竞赛
 
 - 开发X4交易所--一个让资金池创建者完全控制其资金池的新型AMM。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267002342006785][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 8/ @LiquityProtocol
 
@@ -142,11 +121,8 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 有了Chicken Bonds，协议可以以最小的成本获得流动资金。
 
 - 找到解决稳定币不可能三角问题的方法 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267003981975553][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 9/ @dYdX
 
@@ -157,11 +133,8 @@ Angle提供agEUR，交易量最大的欧元稳定币和各种收益机会。
 \- dYdX V4 - 一个新版本的协议，将被部署在dYdX自己的Cosmos链上
 
 dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心化的协议。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267005689036801][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 10/ @synthetix_io
 
@@ -172,11 +145,8 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 路线图：
 
 \- 推出Synthetix V3 - 实现合成资产的无权限创建 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267007329042432][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 11/ @AlpacaFinance
 
@@ -191,11 +161,8 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 最有趣的变化之一是，用户将能够列出他们想要的任何资产用于借贷。 
 
 ![](https://pbs.twimg.com/media/FlVC-jsaYAApNW6.png) 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267009048674305][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 12/ @osmosiszone
 
@@ -206,11 +173,8 @@ dYdX V4的目标是在不牺牲可扩展性的情况下构建成完全去中心�
 \- 实现集中流动性（像Uniswap V3那样）。
 
 - 增加对限价订单的支持 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267011087110145][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 13/ @QuickswapDEX
 
@@ -225,11 +189,8 @@ Polygon上最受欢迎的DEX。
 - 建立一个NFT市场
 
 - veQUICK tokenomics升级 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267012899057664][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 14/ @OlympusDAO
 
@@ -242,11 +203,8 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 - 允许跨链原生OHM
 
 - 新的合作伙伴 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267014694227969][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 15/ @traderjoe_xyz
 
@@ -259,11 +217,8 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 - 一个做市奖励计划
 
 - 建立在Liquidity Book AMM之上的新产品，使Trader Joe提供全方位的DEX业务。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267016594255872][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 16/  @vela_exchange
 
@@ -278,11 +233,8 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 \- 公共测试版将于一月上线
 
 - 场外交易和现货的整合将在推出后不久上线。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267018460729345][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 17/ @GearboxProtocol
 
@@ -295,11 +247,8 @@ Olympus DAO正在建立$OHM，一个去中心化的储备货币。
 \- 让DAO评估流动性挖矿计划
 
 - 与其他协议进行新的整合 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267020310401024][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 18/ @dopex_io
 
@@ -314,11 +263,8 @@ Arbitrum上最受欢迎的期权DEX。
 - 与GMX合作发布Atlantic perps保护，允许无清算的杠杆交易
 
 - Polygon上的$MATIC跨期交易 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267021900058625][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 19/ @THORChain
 
@@ -333,11 +279,8 @@ Arbitrum上最受欢迎的期权DEX。
 - 增加对更多链的支持
 
 - 在THORchain上推出订单簿 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267024261435393][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 20/ @BreederDodo
 
@@ -350,11 +293,8 @@ Arbitrum上最受欢迎的期权DEX。
 - 生态系统DAO
 
 - 推出保证金交易 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267025968521216][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 21/ @chainlink
 
@@ -369,11 +309,8 @@ Arbitrum上最受欢迎的期权DEX。
 - 为DeFi衍生品市场(GMX, Synthetix)开发一个新的低延迟Oracle解决方案
 
 ... 更多 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267027847569408][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 22/ @spin_fi
 
@@ -386,11 +323,8 @@ Arbitrum上最受欢迎的期权DEX。
 - 发布Spin代币，同时为早期用户空投。
 
 - 推出DeFi期权金库 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267029458178049][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 23/ @ribbonfinance
 
@@ -403,11 +337,8 @@ Arbitrum上最受欢迎的期权DEX。
 \- 推出Aevo--一个订单式期权DEX
 
 Aevo的目标是提供类似CEX的体验，同时保持去中心化。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267031257513984][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 24/@Buffer_Finance
 
@@ -420,11 +351,8 @@ Aevo的目标是提供类似CEX的体验，同时保持去中心化。
 - 发布高/低二元期权
 
 - 发布Knockouts -有助于对冲策略的杠杆头寸 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267032784269313][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 25/ @vector_fi
 
@@ -437,11 +365,8 @@ Trader Joe（TJ）和Echidna Finance的收益率聚合器。
 - 开发Liquidity Book库，通过为TJ的新AMM提供流动性来产生收益率
 
 - 聚合新的协议 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609267034684264448][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 26/ @indexcoop
 
@@ -454,11 +379,8 @@ Index Coop建立了架构化的DeFi产品。
 \- 多样化质押ETH--将ETH分配到多个流动性质押协议，以获得收益
 
 - 多元化稳定币收益--使买家能够获得DeFi中最大的收益 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269056741466113][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 27/ @Platypusdefi
 
@@ -469,11 +391,8 @@ Index Coop建立了架构化的DeFi产品。
 \- 推出一个名为USP的新稳定币--其机制受到MakerDAO的DAI启发
 
 - 为vePTP持有人创造新的收入来源 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269058507255809][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 28/ @opyn_
 
@@ -486,11 +405,8 @@ Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH
 \- 建立新的Squeeth策略
 
 - 使用户界面更加吸引人 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269060143034370][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 29/ @pendle_fi
 
@@ -505,11 +421,8 @@ Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH
 - 为用户提供新的简化工具，以适用该协议的各种使用情况
 
 - 与市场龙头建立新的伙伴关系 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269062420561920][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 30/ @pangolindex
 
@@ -522,11 +435,8 @@ Squeeth是Opyn团队发明的一种新的金融衍生品，为交易者提供ETH
 - 在每次扩展到新链时，用空投来激励他们的社区
 
 - 建立新的开源、去中心化的产品（更多细节有待公布） 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269064500940801][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 31/ @GainsNetwork_io
 
@@ -541,11 +451,8 @@ Polygon上最受欢迎的永续合约DEX gTrade背后的团队。
 - 过渡到DAO治理
 
 - 增加更多的可交易资产（商品、指数）。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269066480652288][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 32/ @vestafinance
 
@@ -558,11 +465,8 @@ Polygon上最受欢迎的永续合约DEX gTrade背后的团队。
 - 发布Vesta V2
 
 - 多链扩展到其他以太坊L2 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269068447768578][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 33/@redactedcartel
 
@@ -575,11 +479,8 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 - 发行一个名为Dinero的稳定币
 
 - 不断推出更多新产品 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269070335213568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 34/ @Injective_
 
@@ -592,11 +493,8 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 - 用于做市的自动策略库
 
 - 筹款和上市的启动平台 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269072491053057][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 35/ @GMDprotocol
 
@@ -611,11 +509,8 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 - 发布他们自己的合成资产
 
 - 多链扩展（潜在的） 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269074185555968][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 36/ @WOOnetwork
 
@@ -628,11 +523,8 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 - 在WOOFI DEX上增加永续合约DEX
 
 - 全新升级WOOFI质押机制 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269076064632834][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 37/ @NexusMutual
 
@@ -645,11 +537,8 @@ Pirex是Redacted的一个产品，允许未来收益率的代币化。
 Nexus V2将允许创建联合体（syndicates），这些syndicates将能够设定其保单的定价。
 
 一旦V2推出，保险将由可转让的NFT代表。 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269077650079744][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 38/ @lyrafinance
 
@@ -660,11 +549,8 @@ Optimism上最受欢迎的期权DEX。
 \- 提供更多具有多种行权和到期日的工具
 
 - 在Arbitrum上部署Lyra 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269079302627328][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 39/ @PremiaFinance
 
@@ -677,11 +563,8 @@ Optimism上最受欢迎的期权DEX。
 - 新的自动收益率策略
 
 - 实施一种机制，允许流动性提供者部署范围订单 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269080716095488][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 40/ @TeamKujira
 
@@ -694,11 +577,8 @@ Optimism上最受欢迎的期权DEX。
 - 推出Ghost（关于这个产品还没有很多细节）
 
 - 发布@SonarWallet 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269082381221890][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 41/ @rage_trade
 
@@ -713,11 +593,8 @@ Optimism上最受欢迎的期权DEX。
 - 增加Rage的GLP delta neutral vaults上限
 
 - 推出Rage代币 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269083941502980][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 42/ @UmamiFinance
 
@@ -730,11 +607,8 @@ Optimism上最受欢迎的期权DEX。
 - 推出DeFi衍生品LP指数--一种将流动性提供的收益率汇总到衍生品平台的策略。
 
 - 为机构推出ETH质押池 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269085795397632][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 43/ @PlutusDAO_io
 
@@ -746,11 +620,8 @@ Optimism上最受欢迎的期权DEX。
 - 新的金库（目前Plutus有一个GLP金库，自动复利GLP奖励）。
 
 - 与Dopex合作开发Orbital DEX 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269087687028738][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 44/ @DAOJonesOptions
 
@@ -761,11 +632,8 @@ Optimism上最受欢迎的期权DEX。
 \- veJONES tokenomics升级
 
 - 推出2个新的金库，将杠杆化利用GMX的GLP收益率 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269089725476864][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 45/ @steakhut_fi
 
@@ -776,11 +644,8 @@ Optimism上最受欢迎的期权DEX。
 \- 在Trader Joe's Liquidity Book AMM的基础上建立自动金库。
 
 - 可能在Arbitrum上部署（尚未确认） 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269091591917568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 46/ 希望这个推文可以帮助你大致了解DeFi赛道2023年的发展方向。如果你总结出了一些共性趋势，欢迎在下方评论区留言！
 
@@ -788,14 +653,8 @@ Optimism上最受欢迎的期权DEX。
 
 欢迎点赞+转发下方的第一个推文，您的鼓励是我们最大的动力。 新年快乐 Happy New Year！
 https://t.co/XqsceKNfdG 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609269093336764416][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 @wublockchain12 @BlockBeatsAsia @TechFlowPost @CTChinaOfficial @BlockDanceCN @ChainCatcher_ @PANewsCN @8BTC_OFFICIAL @Foresight_News 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _2023年的第一个DeFi“肝”货  (超长，慎..._ by @0xJamesXXX on Twitter
-*** [[https://twitter.com/0xJamesXXX/status/1609430911686410242][View Tweet]]
+#+END_QUOTE\

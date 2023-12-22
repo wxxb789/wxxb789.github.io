@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1659067563647827973/BuHY5YM1.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-20]]
 #+BEGIN_QUOTE
 #英语学习 很多中国人一直在努力学英语，前一代人听力输入不够，还有借口。现在的年轻人英语歌也听，老友记也刷，但是还是很多东西听不懂，也不能自如表达。一位雅思8.5分的大龄英语学习大神的总结如下：
 hearing不等于listening。 英语的listening输入可以为六个阶段：
@@ -32,23 +32,14 @@ Evaluate. 评价 你听到后，开始无意识的去评价“There is a dog out
 听力材料的选择：
 不建议有笑声背景的老友记，美剧推荐《绝望的主妇》，或《艾伦秀》访谈类节目。
 整理自己的重点词汇声音链⛓️，做到听到声音就有画面。 yarn 和 yoglish等网站，提供了搜索某一个单词，对应的油管视频，电影视频的片段。找到一些完整句子的的片段。用笔记软件整理，例如notion的折叠功能，可以把视频隐藏在中间。点开一个新词，就有配套的电影片段和 
-#+END_QUOTE
-    date:: [[2023-10-20]]
-*** from _#英语学习 很多中国人一直在努力学英语，前一代人..._ by @yiqifacai on Twitter
-*** [[https://twitter.com/yiqifacai/status/1714636809890877496][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-20]]
 #+BEGIN_QUOTE
 这个库，我之前投的教培那里做过完整的一套雅思的配套单词演讲和采访原声视频，因为他们有后续的开发需要，不方便分享。现在很多的背单词软件也有同样功能了，例如欧陆就可以收藏原声例句，做自己的库，然后极不推荐的就是百词斩。 
-#+END_QUOTE
-    date:: [[2023-10-20]]
-*** from _#英语学习 很多中国人一直在努力学英语，前一代人..._ by @yiqifacai on Twitter
-*** [[https://twitter.com/yiqifacai/status/1714638694970511816][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-20]]
 #+BEGIN_QUOTE
 用正确的方法，然后相信自己的大脑，剩下交给时间就好。口语和输出和chatGPT一样，是积累输入到一定程度和量级之后的自然涌现，一个人很难通过大声朗读课本学会说英语（更何况你朗读出来的声音可能是错误百出），但完全可能像婴儿一样，竖起耳朵听大人说话，猜测大人意图，突然开口一长串说话。 
 
 ![](https://pbs.twimg.com/media/F8uvo0Eb0AAojPQ.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-20]]
-*** from _#英语学习 很多中国人一直在努力学英语，前一代人..._ by @yiqifacai on Twitter
-*** [[https://twitter.com/yiqifacai/status/1714657212944281745][View Tweet]]
+#+END_QUOTE\

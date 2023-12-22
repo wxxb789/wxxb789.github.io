@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 卧槽 !! Google 的 Gemini Pro 真的要出来砸场子了：
 
@@ -28,7 +28,4 @@ https://t.co/Pnxyk9NqL0
 ![](https://pbs.twimg.com/media/GBeu3jybsAA6IWK.jpg) 
 
 ![](https://pbs.twimg.com/media/GBeu7etbUAAUYnI.png) 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _卧槽 !! Google 的 Gemini Pr..._ by @huangyun_122 on Twitter
-*** [[https://twitter.com/huangyun_122/status/1736049163471896985][View Tweet]]
+#+END_QUOTE\

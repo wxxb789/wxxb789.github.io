@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-07]]
 #+BEGIN_QUOTE
 GitHub Trending is one of the best places to learn what's trending in AI. 
 
@@ -26,18 +26,12 @@ https://t.co/K5aaTs5nCL
 https://t.co/Ca6rrJMPpX 
 
 ![](https://pbs.twimg.com/media/FtC9HwpWIBM7KTv.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-07]]
-*** from _GitHub Trending Is One O..._ by @dair_ai on Twitter
-*** [[https://twitter.com/dair_ai/status/1644023068698746898][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-07]]
 #+BEGIN_QUOTE
 Important to call out how important the community is with these efforts. 
 
 We are always looking for contributors, supporters, and partners. Reach out if you are interested.
 
 Discord: https://t.co/QhTuqbh7wl 
-#+END_QUOTE
-    date:: [[2023-04-07]]
-*** from _GitHub Trending Is One O..._ by @dair_ai on Twitter
-*** [[https://twitter.com/dair_ai/status/1644023790848835584][View Tweet]]
+#+END_QUOTE\

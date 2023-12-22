@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 Building a production-ready LLM app is hard:
 📄 How to load, parse, embed thousands of docs?
@@ -22,11 +22,8 @@ Building a production-ready LLM app is hard:
 We’re incredibly excited to collab with @anyscalecompute: Ray can make LlamaIndex 10x faster + easily deployable to a prod server ⚡️
 
 https://t.co/jpWdNTqfzn 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Building a Production-Re..._ by @llama_index on Twitter
-*** [[https://twitter.com/llama_index/status/1673451316398653440][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 The core @raydistributed toolkit is awesome for easily parallelizing different tasks. In addition, Ray Serve makes it super easy to deploy our query engines to production.
 
@@ -35,7 +32,4 @@ Check out our YouTube video! 🎬
 HUGE s/o to @AmogKamsetty for the help.
 
 https://t.co/JAY5xfE66H 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Building a Production-Re..._ by @llama_index on Twitter
-*** [[https://twitter.com/llama_index/status/1673451318634217473][View Tweet]]
+#+END_QUOTE\

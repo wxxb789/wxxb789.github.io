@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/1357895964925652992/G9tBCoLV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-12]]
 #+BEGIN_QUOTE
 使用 Rime 的另一个好处是，可以通过词库来反查单词，比如我知道 ご飯，但是不想查字典「晚饭」怎么说，可以直接 rg "ご飯"，发音，输入就搞定了。 https://t.co/2twVOSy3QR
 
 ![](https://pbs.twimg.com/media/FjWXKiraMAILnnl.png) 
-#+END_QUOTE
-    date:: [[2022-12-12]]
-*** from _Tweets From Ein Verne_ by @einverne on Twitter
-*** [[https://twitter.com/einverne/status/1600351789504925697][View Tweet]]
+#+END_QUOTE\

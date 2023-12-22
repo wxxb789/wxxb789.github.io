@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 🎉大语言模型的安卓时刻真的来了啊!? 这次又是微软！
 
@@ -34,11 +34,8 @@
 ![](https://pbs.twimg.com/media/FyUGBYuaAAEd8dj.jpg) 
 
 ![](https://pbs.twimg.com/media/FyUGnZpaUAEKbPI.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1667748018899279872][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 他的原理是 #渐进学习：采用了一种叫“渐进学习”或“解释学习”的训练过程。
 
@@ -47,16 +44,10 @@
 而Orca模型从ChatGPT和GPT-4的推理和思考过程来学习，像跟老师上原理和逻辑课一样。因此他拥有 #推理能力，并能够解决没见到过的问题。 
 
 ![](https://pbs.twimg.com/media/FyUHowXaMAEQDKI.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1667748021214523394][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 看 Matthew Berman 的视频有详细的解释：
 
 https://t.co/uPAdByVH0X 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _🎉大语言模型的安卓时刻真的来了啊!? 这次又是微..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1667748548384034816][View Tweet]]
+#+END_QUOTE\

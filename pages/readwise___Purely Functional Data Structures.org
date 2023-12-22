@@ -12,32 +12,20 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 Purely Functional Data Structures 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _Purely Functional Data Structures_ by readwise.io
-*** [[https://read.readwise.io/read/01gnq9pt10qsr0jk0sy41cvht1][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 Purely Functional Data Structures 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _Purely Functional Data Structures_ by readwise.io
-*** [[https://read.readwise.io/read/01gnq9q1ymc11vz666ze18p8cc][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-01]]
 #+BEGIN_QUOTE
 a Structures 
-#+END_QUOTE
-    date:: [[2023-02-01]]
-*** from _Purely Functional Data Structures_ by readwise.io
-*** [[https://read.readwise.io/read/01gr5qyfn4z4884g4fce8p57xf][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-01]]
 #+BEGIN_QUOTE
 D 
-#+END_QUOTE
-    date:: [[2023-02-01]]
-*** from _Purely Functional Data Structures_ by readwise.io
-*** [[https://read.readwise.io/read/01gr5qyh40gkn11vqty4frkaec][View Highlight]]
+#+END_QUOTE\

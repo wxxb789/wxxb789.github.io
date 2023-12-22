@@ -12,8 +12,8 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-14]]
 #+BEGIN_QUOTE
 布尔值和判断函数，命名以 `is/has/should/contains/check` 等开头 (`is` 最常用):
 
@@ -25,11 +25,8 @@
 此条并不绝对，只要用词有「是否」之意即可，比如 `found`：
 
     func Contains(s, part string) (found bool) 
-#+END_QUOTE
-    date:: [[2023-07-14]]
-*** from _浅谈编程中的命名（短文） | 春水煎茶 - 王超的个人博客_ by writings.sh
-*** [[https://read.readwise.io/read/01h59dsj9cfxph5q4jcd4amszn][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-14]]
 #+BEGIN_QUOTE
 只做数据增删改查的函数，考虑用 `Get/Set/Query/List/Update/Delete` 等字眼：
 
@@ -39,7 +36,4 @@
     ListValues()   // 列出多个值
     UpdateValue()  // 更新单个值
     DeleteValue()  // 删除单个值 
-#+END_QUOTE
-    date:: [[2023-07-14]]
-*** from _浅谈编程中的命名（短文） | 春水煎茶 - 王超的个人博客_ by writings.sh
-*** [[https://read.readwise.io/read/01h59dsyn1zvzvqwrqcxyyzn6c][View Highlight]]
+#+END_QUOTE\

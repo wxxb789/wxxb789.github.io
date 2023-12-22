@@ -12,19 +12,16 @@
 :image-url: https://coolshell.cn/wp-content/uploads/2023/02/nostr-aplicacion-descentralizada-1140x570-1-300x150.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-04]]
 #+BEGIN_QUOTE
 通讯过程
 
 •   这个协议中有两个东西，一个是 client，一个是 relay，client 就是用户社交的客户端，relay 就是转发服务器。
 •   用户不需要注册，用户只需要有一个密钥对（公钥+私钥）就好了，然后把要发的信息做签名，发给一组 relays
 •   然后你的 Follower 就可以从这些 relays 上订阅到你的信息。 
-#+END_QUOTE
-    date:: [[2023-02-04]]
-*** from _聊聊 Nostr 和 审查_ by 陈皓
-*** [[https://read.readwise.io/read/01grcew4fyaj1wn4qjc6xwr05d][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-04]]
 #+BEGIN_QUOTE
 技术细节摘要
 
@@ -50,7 +47,4 @@
 •   你还可以很方便的告诉其中的 relay 把你发的信息迁到另一个 relay 上
 •   你的信息是一次发给多个relay的，所以，只要不是所有的热门realy封了你，你就可以发出信息
 •   如果你被全部的relay封了，你还是可以自建你的relay，然后，你可以通过各种方式告诉你身边的人你的relay服务器是什么？这样，他们把这个relay服务器加到他们的client列表中，你又可以从社死中复活了。 
-#+END_QUOTE
-    date:: [[2023-02-04]]
-*** from _聊聊 Nostr 和 审查_ by 陈皓
-*** [[https://read.readwise.io/read/01grcewpbeezkgrx39394wxbvk][View Highlight]]
+#+END_QUOTE\

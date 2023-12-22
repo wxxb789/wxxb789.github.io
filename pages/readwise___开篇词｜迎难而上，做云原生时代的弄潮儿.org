@@ -13,8 +13,8 @@
 :image-url: https://static001.geekbang.org/resource/image/b1/b2/b1bf007a5b2a60cb9bd07c03cae2aab2.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-01]]
 #+BEGIN_QUOTE
 比如在初学的过程中我就遇到过这些疑问，不知道你有没有同感：
 
@@ -29,28 +29,16 @@ Docker、Containerd、K8s、K3s、MicroK8s、Minikube……这么多项目，该
 YAML 文件又长又乱，到哪里能找到说明，能否遵循什么简单规律写出来？
 
 Pod、Deployment、StatefulSet……这么多的对象，有没有什么内在的脉络和联系？ 
-#+END_QUOTE
-    date:: [[2023-07-01]]
-*** from _开篇词｜迎难而上，做云原生时代的弄潮儿_ by geekbang.org
-*** [[https://read.readwise.io/read/01h46jgt9132sb7kh379q7rywn][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-08]]
 #+BEGIN_QUOTE
 我觉得学习 Kubernetes 最好的方式是尽快建立一个全局观和大局观，等到你对这个陌生领域的全貌有了粗略但完整的认识之后，再挑选一个自己感兴趣的方向去研究，才是性价比最高的做法。 
-#+END_QUOTE
-    date:: [[2023-01-08]]
-*** from _开篇词｜迎难而上，做云原生时代的弄潮儿_ by geekbang.org
-*** [[https://read.readwise.io/read/01gp8xtvc0v5s1rxz1tsmfhm57][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-01]]
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/06/9d/0663d692b33c1dee5b08e486d271b69d.jpg?wh=1920x1661) 
-#+END_QUOTE
-    date:: [[2023-07-01]]
-*** from _开篇词｜迎难而上，做云原生时代的弄潮儿_ by geekbang.org
-*** [[https://read.readwise.io/read/01h46tr7c0n2vg9agredk9jyb2][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-01]]
 #+BEGIN_QUOTE
 Kubernetes 里的 4 个重要概念：Deployment、DaemonSet、Service、Ingress 
-#+END_QUOTE
-    date:: [[2023-07-01]]
-*** from _开篇词｜迎难而上，做云原生时代的弄潮儿_ by geekbang.org
-*** [[https://read.readwise.io/read/01h46ts5sgsad8x9scgpcxtp60][View Highlight]]
+#+END_QUOTE\

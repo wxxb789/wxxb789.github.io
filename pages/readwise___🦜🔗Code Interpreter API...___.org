@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-17]]
 #+BEGIN_QUOTE
 🦜🔗Code Interpreter API
 
@@ -26,23 +26,14 @@ Blog & GitHub 👇
 ![](https://pbs.twimg.com/media/F1LDB1hakAEBIpA.jpg) 
 
 ![](https://pbs.twimg.com/media/F1LDFGUaEAAl_b9.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-17]]
-*** from _🦜🔗Code Interpreter API..._ by @hwchase17 on Twitter
-*** [[https://twitter.com/hwchase17/status/1680620252433117184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-17]]
 #+BEGIN_QUOTE
 Excited to share a guest blog post by @Shroominic walking through how he built it and some example use cases:
 
 https://t.co/zTJcurA2S7 
-#+END_QUOTE
-    date:: [[2023-07-17]]
-*** from _🦜🔗Code Interpreter API..._ by @hwchase17 on Twitter
-*** [[https://twitter.com/hwchase17/status/1680620255016816640][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-17]]
 #+BEGIN_QUOTE
 Find the underlying GitHub repo here: https://t.co/yovVn8Nr12 
-#+END_QUOTE
-    date:: [[2023-07-17]]
-*** from _🦜🔗Code Interpreter API..._ by @hwchase17 on Twitter
-*** [[https://twitter.com/hwchase17/status/1680620256107311105][View Tweet]]
+#+END_QUOTE\

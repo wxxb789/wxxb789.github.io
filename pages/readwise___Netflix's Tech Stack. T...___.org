@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1524184008635998209/vOSCJXuk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-09-07]]
 #+BEGIN_QUOTE
 Netflix's Tech Stack.
 
@@ -37,14 +37,8 @@ CI/CD: Netflix employs various tools such as JIRA, Confluence, PagerDuty, Jenkin
 
 –-
 Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://t.co/uc5M7CdXXC 
-#+END_QUOTE
-    date:: [[2023-09-07]]
-*** from _Netflix's Tech Stack. T..._ by @alexxubyte on Twitter
-*** [[https://twitter.com/alexxubyte/status/1699078784480354634][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-09-07]]
 #+BEGIN_QUOTE
 @Zonito87 wrote a blog post about it. Read more details here: https://t.co/VZdIflQryn 
-#+END_QUOTE
-    date:: [[2023-09-07]]
-*** from _Netflix's Tech Stack. T..._ by @alexxubyte on Twitter
-*** [[https://twitter.com/alexxubyte/status/1699079645457686851][View Tweet]]
+#+END_QUOTE\

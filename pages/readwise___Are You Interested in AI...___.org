@@ -12,103 +12,70 @@
 :image-url: https://pbs.twimg.com/profile_images/1522988599100284929/VOdeSjIH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Are you interested in AI and want to create your own ChatGPT based projects? Here are 9 project ideas to get you started, using the powerful @LangChainAI framework. 
 
 Let's dive in! 🧵 
 
 ![](https://pbs.twimg.com/media/FzN-zi6akAEyD8G.png) 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819544648892417][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 1: Book Recommendation
 Make a system that suggests personalized book recommendations based on the books users like. 
 Learning: You'll learn about prompts, chains, and using a large language model. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819547496808449][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 2: Sentiment Analyzer
 Create an app that analyzes the sentiment of text inputs, helping users understand the emotional tone of their written content. 
 Learning: You will learn sequential chains, multiple prompts, and large language models. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819549531045888][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 3: Poetry Generator
 Develop an AI model that generates unique and creative poems based on user prompts or specific themes. 
 Learning: You will learn about serialization, multiple prompts, and working with large language models. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819551913426944][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 4: Code Review Assistant
 Build a tool that analyzes code submissions, provides feedback, and suggests improvements to help programmers in their code review process. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819553960230912][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 5: Resume Analyzer
 Design a system that analyzes and provides feedback on resumes, offering suggestions to improve content, structure, and formatting. 
 Learning: Dive into document loaders, summarization chains, and analyzing documents. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819556313255941][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 6: Recipe Assistant
 Create a chatbot that helps users find and discover new recipes based on their dietary restrictions, preferences, and available ingredients. 
 Learning: Learn about chatbot UI, @chainlit_io, and Prompt Routing. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819558238453763][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 7: Autonomous Agents
 Construct intelligent agents that can operate independently in a given environment, making decisions and taking actions based on provided tools. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819560276860930][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 8: GitHub Q&A
 Develop a tool that automatically analyzes code repositories on GitHub, providing insights and allowing users to ask questions about the code base. 
 Learning: Explore embeddings, vector databases, and Q&A retrieval chains. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819562202075136][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Project 9: Offer Generator
 Build a system that generates personalized offers or recommendations for products or services based on a company's price lists and product descriptions. 
 Learning: Dive into querying multiple documents, @vectara, and using CSV Agent. 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819564211142656][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-23]]
 #+BEGIN_QUOTE
 Check out the @LangChainAI documentation to guide you in creating your own AI-powered applications. Excited to hear about what you're going to build! 🔥
 
 #AIProjects #LangChainAI #ChatGPT #ArtificialIntelligence 
-#+END_QUOTE
-    date:: [[2023-06-23]]
-*** from _Are You Interested in AI..._ by @InternsSchool on Twitter
-*** [[https://twitter.com/InternsSchool/status/1671819566408962048][View Tweet]]
+#+END_QUOTE\

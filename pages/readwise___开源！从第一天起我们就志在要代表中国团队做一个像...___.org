@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/1610997345960984581/oLZPDA7o.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-15]]
 #+BEGIN_QUOTE
 开源！从第一天起我们就志在要代表中国团队做一个像 Docker、Stripe 那样的世界级产品，一个大模型能力上的 OS。虽然过去八周我们没日没夜才做出产品现在的样子，但即使要推倒重来我们也做好了准备，所以开源我们毫不犹豫。Dify 要在开源中学习、成长。
 
 开源只是 Dify 的一小步，但这是全球开发者解锁… 
-#+END_QUOTE
-    date:: [[2023-05-15]]
-*** from _开源！从第一天起我们就志在要代表中国团队做一个像..._ by @goocarlos on Twitter
-*** [[https://twitter.com/goocarlos/status/1657913779898978304][View Tweet]]
+#+END_QUOTE\

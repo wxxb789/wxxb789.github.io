@@ -12,57 +12,36 @@
 :image-url: https://pbs.twimg.com/profile_images/1716636872913608704/nTdxx5Bu.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 没钱时牢记卖鸡蛋思维，看懂不怕缺钱
 
 6线程详解 
 
 ![](https://pbs.twimg.com/media/F94ywvpb0AAOVoB.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867956128350660][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F94yw9MaoAAolAM.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867958334529777][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F94yxMga0AAyNEF.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867960444268545][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F94yxYfbwAAyPH-.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867962491060465][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F94yxkpa8AAn-ec.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867964600774680][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F94yxyEbkAAqevQ.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867966731456512][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-02]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/F94yx7pbcAAUJst.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-02]]
-*** from _没钱时牢记卖鸡蛋思维，看懂不怕缺钱 6线程详解..._ by @Caijingtianxia on Twitter
-*** [[https://twitter.com/Caijingtianxia/status/1719867968694391232][View Tweet]]
+#+END_QUOTE\

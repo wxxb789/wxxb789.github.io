@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1609428924475543552/SsbPLnxc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 This year (2022), I have worked on creating educational resources in various forms, such as blogs, Twitter series, mindmaps and others. In case you missed them, here are all of them:
 
@@ -22,11 +22,8 @@ This year (2022), I have worked on creating educational resources in various for
 \- https://t.co/JqwwUom4eI
 
 🧵 - 1/5 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [[https://twitter.com/harshbothra_/status/1607337942665801728][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 2/5
 
@@ -40,11 +37,8 @@ This year (2022), I have worked on creating educational resources in various for
 4. Android PT Checklist: https://t.co/dRMNnCKl8n
 
 5. Cookie Based Auth Vulnerabilities: https://t.co/rr9TmohNKw 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [[https://twitter.com/harshbothra_/status/1607337945635381248][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 3/5
 
@@ -63,11 +57,8 @@ This year (2022), I have worked on creating educational resources in various for
 4. https://t.co/xOuPs5OHPJ
 
 5. https://t.co/i9mhMDGWNJ 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [[https://twitter.com/harshbothra_/status/1607337948487495682][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 4/5
 
@@ -83,17 +74,11 @@ This year (2022), I have worked on creating educational resources in various for
 11. https://t.co/obLvNkWHqz
 
 12. https://t.co/qKB46T84e2 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [[https://twitter.com/harshbothra_/status/1607337951431888897][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 5/5
 Apart from these, I have shared many threads on my Twitter account: https://t.co/YBs1CjyfY6!
 
 While this year was incredible, next year will be thrilling as I will develop some new content, and some new series. So feel free to drop what you want to see next in the comments. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _This Year (2022), I Have..._ by @harshbothra_ on Twitter
-*** [[https://twitter.com/harshbothra_/status/1607337954380484609][View Tweet]]
+#+END_QUOTE\

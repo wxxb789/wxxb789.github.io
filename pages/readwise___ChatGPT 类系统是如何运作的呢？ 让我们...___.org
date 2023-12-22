@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-05]]
 #+BEGIN_QUOTE
 ChatGPT 类系统是如何运作的呢？
 
@@ -36,7 +36,4 @@ ChatGPT 类系统是如何运作的呢？
 🔹步骤 3-4：如果问题通过内容审核，它就会被送到 ChatGPT 模型处理。如果未通过审核，则直接生成模板式的回答。
 🔹步骤 5-6：模型生成回答后，这个回答再次经过内容审核组件的检查。这一步骤确保所生成的回答是安全的、无害的、无偏见的等。
 🔹步骤 7：如果回答通过了内容审核，它就会展现给用户。如果没有通过审核，系统则提供一个模板化的答案给用户。 
-#+END_QUOTE
-    date:: [[2023-12-05]]
-*** from _ChatGPT 类系统是如何运作的呢？ 让我们..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1731898886388609172][View Tweet]]
+#+END_QUOTE\

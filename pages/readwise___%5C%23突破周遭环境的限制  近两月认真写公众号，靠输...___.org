@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1686939915165302785/vnLo6zNY.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-20]]
 #+BEGIN_QUOTE
 #突破周遭环境的限制 
 近两月认真写公众号，靠输出的内容吸引并认识很多新朋友，而这些文章在熟人朋友圈中感兴趣的寥寥
@@ -23,7 +23,4 @@
 今年夏天开始正经玩X也一样，去认识一些有趣的人，感知外面的世界，真的挺好！ 
 
 ![](https://pbs.twimg.com/media/F82ZO7wa8AA0Tb2.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-20]]
-*** from _#突破周遭环境的限制  近两月认真写公众号，靠输..._ by @Tumeng05 on Twitter
-*** [[https://twitter.com/Tumeng05/status/1715195529196626319][View Tweet]]
+#+END_QUOTE\

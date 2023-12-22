@@ -12,8 +12,8 @@
 :image-url: https://geekinney.com/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-16]]
 #+BEGIN_QUOTE
 •   上班累的时候，写个几行字，不定计划。最终目的当然是想写一手好字，并借此拾起与手写相关的兴趣。好的字看起来赏心悦目，让人心情好。不定计划。
     
@@ -34,7 +34,4 @@
 •   口语表达的第一步就是普通话，我的普通话一言难尽。曾经尝试过一些切实可行的练习办法，现在需要重新拾起。
     
 •   一直想拾起我这个半吊子英语，尤其是口语。我知道提升的方法途径，但一直没认真考虑这件事。理清必要性后，我觉可以认真定个计划了。 
-#+END_QUOTE
-    date:: [[2022-12-16]]
-*** from _谈谈最近「211230」_ by Geekinney's Blog
-*** [[https://read.readwise.io/read/01gmcxhkj3a4g0ebjfzqy7zf2w][View Highlight]]
+#+END_QUOTE\

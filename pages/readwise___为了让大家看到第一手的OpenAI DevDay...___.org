@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-07]]
 #+BEGIN_QUOTE
 为了让大家看到第一手的OpenAI DevDay的信息，对直播的视频的字幕进行了校对和翻译，这里是第一部分。
 
@@ -68,11 +68,8 @@
 我们也在降低 GPT 3.5 Turbo 16K 的成本。此外，现在输入 tokens 的费用减少了 3 倍，输出 tokens 的费用减少了 2 倍。这意味着 GPT 3.5 16K 现在比之前的 GPT 3.5 4K 模型更便宜。运行一个微调的 GPT 3.5 Turbo 16K 版本，其成本甚至比旧的 4K 版本还要低。
 
 好的，我们刚刚详细介绍了这个模型本身。我们希望这些改进能够满足你们的反馈。我们非常兴奋能够立即将所有这些改进带给大家。<video controls><source src="https://video.twimg.com/amplify_video/1721696264352333824/vid/avc1/1280x720/VDlOPT7PfDeISfgj.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1721696264352333824/pl/uTDM9Z5lSmUPxU7B.m3u8?tag=14&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1721696264352333824/vid/avc1/480x270/PhNQSBH54z1fwVs_.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1721696264352333824/vid/avc1/640x360/2qZlCaL2Z67zxmuh.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-11-07]]
-*** from _为了让大家看到第一手的OpenAI DevDay..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1721698031765000607][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-07]]
 #+BEGIN_QUOTE
 第二部分（2/3）
 
@@ -163,7 +160,4 @@ GPT 的设计是为了根据您的指令来选择合适的功能进行操作，�
 - 非常感谢。
 
 在那里，你可以发布你的 GPT，我们也会对最优秀和最受欢迎的 GPT 进行特别推荐。当然，我们会确保只有符合我们政策的 GPT 才会出现在商店里。我们计划将部分收入分给那些创造出最有价值和使用率最高的 GPT 开发者。仅仅是周末的成果就展现了 GPT 商店生态的活力，这让我们非常期待。我们相信将会有许多精彩的作品出现，并且我们很快会有更多激动人心的消息分享。这是 GPT 的力量，我们迫不及待想看到你们的创新。<video controls><source src="https://video.twimg.com/amplify_video/1721740088885862400/vid/avc1/1280x720/rQ98LODbhSLZ_vl8.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1721740088885862400/vid/avc1/640x360/6X84WWl-__RvJDg3.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1721740088885862400/vid/avc1/480x270/EGybxmqomrlfDHzz.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1721740088885862400/pl/xYWrw9q_zI2_VJ5_.m3u8?tag=14&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-11-07]]
-*** from _为了让大家看到第一手的OpenAI DevDay..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1721740546635342190][View Tweet]]
+#+END_QUOTE\

@@ -12,17 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1706347168393764864/DoRcb3kd.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 看到很多人觉得很难写出高质量 prompt，而简单和低质量 prompt 得到的结果较差，可以试试在写 prompt 的时候再套一层优化prompt 的大模型，来提高返回结果的质量
 
 开贴写下我对 prompt 的理解和技巧，主要工具是最近比较火的 PromptPerfect （https://t.co/DVrC014WY1）<a href="https://twitter.com/JinaAI_">@JinaAI_</a>，支持的模型和优化选项都比较全面，持续更新，欢迎补充自己的使用方式<img src='https://pbs.twimg.com/media/GAFNrq1b0AAJLQW.jpg'/><img src='https://pbs.twimg.com/media/GAFNsssasAAKHUl.jpg'/><img src='https://pbs.twimg.com/media/GAFNtj8a4AArIHh.jpg'/><img src='https://pbs.twimg.com/media/GAFNuEabMAAvJMZ.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729750363757232164][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 0.对 prompt 的理解
 
@@ -32,11 +29,8 @@ c.而如何有效应用和什么场景下应该使用什么样的 magic word，�
 d.所以，应该把交互中人类的角色再度提高，从设计合适的 prompt激发 LLM 到仅仅提出需求。需求通过 LLM 对prompt 进行定向优化然后喂给最终模型，来定向的引导模型产出有价值的输出
 e.从 LLM 基于概率生成输出的原理，高质量的 prompt 可以帮助大模型“召回”到与之相关的知识，并产生高质量的回答
 f.考虑到现在 LLM API 的价格，尽可能用少的交互次数或token产生高质量的输出可以节约成本 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729750544036839880][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 1.使用英语 prompt
 
@@ -45,33 +39,24 @@ f.考虑到现在 LLM API 的价格，尽可能用少的交互次数或token产�
 之前常见的技巧是写 中文 prompt 然后翻译成英语进行调用。这里的问题是，无论普通的翻译还是使用LLM 翻译，都是纯粹的翻译任务，而不是针对 prompt 场景优化的。
 
 例如上文提到的magic word 有些就有语言特异性。 所以应该是针对 prompt 场景的定向翻译。 更不用说很多文生图的模型对中文prompt 的支持几乎不可用<img src='https://pbs.twimg.com/media/GAFPJxXbUAAbYJr.jpg'/><img src='https://pbs.twimg.com/media/GAFPKD-bMAATAZ4.jpg'/><img src='https://pbs.twimg.com/media/GAFPKf0boAAx3YA.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729750794751406422][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 2.   降低 API 花费
 人类写 prompt 时很容易出现两个矛盾的问题，第一个是 prompt 过于偷懒，一句话写完自己需求就结束了，第二个是为了保证生成的质量过于繁琐，导致 API 调用价格过高。
 
 这都可以通过定向的 prompt 优化解决，人类只需要一句话描述自己需求，通过让 LLM 对 prompt 进行迭代找到适合该场景的高质量 prompt。 并在需要高频次调用时（例如我之前使用 llm 批量生产例句），对 prompt 进行缩短，且方便地对比缩短前后对生成质量的影响，然后可以在大量调用的时候节约很多钱。
  （上次生成例句花了快 400 刀，缩短 10% 都能省很多钱）<img src='https://pbs.twimg.com/media/GAFPfYGaMAALaVl.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729751141108551802][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 3.绕过过滤器
 
 使用常用的 toC 的 LLM 时也会遇到正常问题被过滤器将整个回答吞掉的问题。且在部分应用场景需要暂时绕过过于强硬的过滤器
 
 这是个典型的双方博弈问题，LLM 不断升级对抗越狱的，prompt 也不断开发出新的越狱方式。不需要每次需要越狱的时候去尝试现在哪种方式最有效，以及最适合自己的需求，可以直接用工具去帮你找到符合场景需求的越狱方式。<img src='https://pbs.twimg.com/media/GAFPnDRaQAALD3o.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729751478963929291][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 4.  不同模型的对比
 
@@ -80,11 +65,8 @@ f.考虑到现在 LLM API 的价格，尽可能用少的交互次数或token产�
 因为很多时候我都在纠结是用 GPT4 还是 GPT3.5 或者其他更便宜的模型，差价往往有几十倍..., 而且也很难分清楚这个任务是否值得使用 GPT4，以及使用 4 能否带来可观的收益，是不是其他开源模型也有比较好的效果… 
 
 ![](https://pbs.twimg.com/media/GAFP3nnaYAAw5oC.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729751588674425210][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 5.  更多工业级功能
 
@@ -95,7 +77,4 @@ f.考虑到现在 LLM API 的价格，尽可能用少的交互次数或token产�
 a. 流水线是多模型的流水式协作，比如你可以用相对便宜的模型对 prompt 进行定向处理，再使用贵的模型生成最终结果，或者使用文生图模型生成图片
 b. 小样本提示词，这个一般不翻译，叫 few-shot 大家更容易理解。这个我日常会使用这个思想，主要就是通过给定几个有代表性的实例，然后让 PromptPerfect 定向优化 prompt
 c. 提示词即服务，这个好理解，就是将上文中的所有功能生成 API 接口进行调用<img src='https://pbs.twimg.com/media/GAFQCehaAAAceJy.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _看到很多人觉得很难写出高质量 Prompt，而简..._ by @real_kai42 on Twitter
-*** [[https://twitter.com/real_kai42/status/1729751763069403260][View Tweet]]
+#+END_QUOTE\

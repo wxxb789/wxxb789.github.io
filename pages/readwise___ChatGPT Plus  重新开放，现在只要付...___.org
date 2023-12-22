@@ -12,19 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1484922138062901251/0hseVVXq.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 ChatGPT Plus  重新开放，现在只要付费就能使用各类 GPTs 了。
 
 再次推荐 IELTS Speaking Simulator。它不仅完整模拟了雅思口语考试流程，并能随机抽取最新题库。对话结束后，除了提供评估外，还可以根据对话内容整理并改善文本。与单独练习相比，这种方式更贴近真实场景。
 
 https://t.co/Dva5HMgFiC 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _ChatGPT Plus  重新开放，现在只要付..._ by @hubeiqiao on Twitter
-*** [[https://twitter.com/hubeiqiao/status/1735845773613650225][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 即便目前没有迫切的雅思考试需求，我仍认为使用这种具有明确标准的练习框架更加合适。坦诚地讲，尽管这个工具已相当惊艳，我甚至认为仅为这项功能每月支付 20 美元甚至更多也物超所值（相对一对一口语的费用），但个人能力的提升仍需时间沉淀，不可能一蹴而就。 
 
@@ -35,7 +32,4 @@ https://t.co/Dva5HMgFiC
 ![](https://pbs.twimg.com/media/GBb2iesbIAAdNGG.jpg) 
 
 ![](https://pbs.twimg.com/media/GBb2ifUbgAAXfIV.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _ChatGPT Plus  重新开放，现在只要付..._ by @hubeiqiao on Twitter
-*** [[https://twitter.com/hubeiqiao/status/1735845790592160232][View Tweet]]
+#+END_QUOTE\

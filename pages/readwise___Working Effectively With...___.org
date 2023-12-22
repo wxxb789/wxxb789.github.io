@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/Working Effectively With...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[leemars on Twitter]]
+:full-title: "Working Effectively With..."
+:category: [[tweets]]
+:url: https://twitter.com/leemars/status/1737356239385059406
+:image-url: https://pbs.twimg.com/profile_images/1186169262/f20e28a6-7bbc-4fd0-9d57-4e0e3dfe0ee1.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+Working Effectively with Legacy Code 这本书真的很好，我当年买的《修改代码的艺术》中文版，为数不多读完的书籍。 
+#+END_QUOTE\

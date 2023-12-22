@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-02]]
 #+BEGIN_QUOTE
 How do you create background jobs in .NET?
 
@@ -26,11 +26,8 @@ A few background job examples:
 - Image processing 
 
 ![](https://pbs.twimg.com/media/FxmJ-JrWAAAuahZ.png) 
-#+END_QUOTE
-    date:: [[2023-06-02]]
-*** from _How Do You Create Backgr..._ by @mjovanovictech on Twitter
-*** [[https://twitter.com/mjovanovictech/status/1664513241152667650][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-02]]
 #+BEGIN_QUOTE
 Quartz is an excellent job scheduling system that I often work with.
 
@@ -41,7 +38,4 @@ Tomorrow, I'll show 22,000+ engineers how to create background jobs with Quartz.
 If you want to join us, subscribe here:
 
 https://t.co/zcETFCDreZ 
-#+END_QUOTE
-    date:: [[2023-06-02]]
-*** from _How Do You Create Backgr..._ by @mjovanovictech on Twitter
-*** [[https://twitter.com/mjovanovictech/status/1664513243413372928][View Tweet]]
+#+END_QUOTE\

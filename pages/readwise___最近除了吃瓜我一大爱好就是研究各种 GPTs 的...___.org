@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 最近除了吃瓜我一大爱好就是研究各种 GPTs 的 Prompt，唯一的问题就是越来越难发现优质的 GPTs。
 
@@ -32,15 +32,9 @@
 ![](https://pbs.twimg.com/media/F_grU1yWkAACtkR.jpg) 
 
 ![](https://pbs.twimg.com/media/F_grbEkXIAAspZe.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _最近除了吃瓜我一大爱好就是研究各种 GPTs 的..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1727178303684096300][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 刚在ProductHunt上帮投了一票👍🏻
 https://t.co/K4ooyVnqqg 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _最近除了吃瓜我一大爱好就是研究各种 GPTs 的..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1727179303480435028][View Tweet]]
+#+END_QUOTE\

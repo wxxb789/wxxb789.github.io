@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-21]]
 #+BEGIN_QUOTE
 新的Function Calling的一种用法：让它返回格式化的JSON数据。
 
@@ -22,18 +22,12 @@
 ![](https://pbs.twimg.com/media/Fy90alCXgAAjsjr.jpg) 
 
 ![](https://pbs.twimg.com/media/Fy936c7WYAANMnH.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-21]]
-*** from _新的Function Calling的一种用法：..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1670686879073574912][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-21]]
 #+BEGIN_QUOTE
 @xicilion FYI 
-#+END_QUOTE
-    date:: [[2023-06-21]]
-*** from _新的Function Calling的一种用法：..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1670687042005618688][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-21]]
 #+BEGIN_QUOTE
 谢谢提醒，function_call 参数确实可以用。
 https://t.co/8aO1TQHoej
@@ -44,7 +38,4 @@ https://t.co/8aO1TQHoej
 这样Prompt里面就不需要特别提了。 
 
 ![](https://pbs.twimg.com/media/Fy_lOE_XgAEbOFl.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-21]]
-*** from _新的Function Calling的一种用法：..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1670806362031288325][View Tweet]]
+#+END_QUOTE\

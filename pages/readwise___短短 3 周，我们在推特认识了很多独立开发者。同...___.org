@@ -12,78 +12,48 @@
 :image-url: https://pbs.twimg.com/profile_images/1679821916776067072/H2FNeCKc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 短短 3 周，我们在推特认识了很多独立开发者。同时，我们邮箱收到了超出往常数量的合作申请。
 
 "数码荔枝"并非 App Store。每次软件上架，都需要我们重度参与：设计海报 / 制作页面 / 撰写文章等。同时，为让用户总能买到满意的软件，我们对合作申请的评估，是基于以下标准，满足 5 条我们就说 YES： 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593471171637677][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 1. 知名软件。谁会拒绝与诸如 Office / Typora / Manico / MenubarX 之类的合作呢？(本条推由 @tualatrix  与 @hzlzh  赞助，哈哈哈) 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593472979366235][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 2. 无广告、无捆绑、无骚扰。懂得都懂。 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593474778755343][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 3. 非同质化，功能让人"眼前一亮"。比如，我们几乎拒绝所有 TODO、记账、笔记 (写作/日记) 开发者的主动合作申请，是因为高度雷同的功能、甚至界面。在以上领域均有佼佼者存在，开发者高回报 = 高响应 = 强用户粘性。我们甚至没法说服自己去用一个可能随时断更的 App —— 除非它拥有实用的创新的功能点: 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593476590694862][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 比如，在一木记账 APP 中，用户可随意说一嘴"午饭吃外卖花了30"就能被正确识别并自动记录。
 
 这种情况下，你根本没机会先找我们，我们都是舔着脸主动打招呼求合作的 (然后经常被婉拒的人，变成了我们，哈哈哈)。 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593478608150906][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 4. 即便是用于处理复杂的需求，交互操作是经过刻意设计，而得以简化的。我真的怕被喷，但在这一点上，我心目中做的最好的，是微信。如果你不认同，那么你说的是对的。 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593480432611549][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 5. App 能使用的场景越有限 (甚至单一) 但却满足 (甚至超越) 用户对这件事情的期望。比如，Downie 作为一款流媒体下载工具，从 2013 年发布 1.0 到如今的 4.6，几乎每2周都会发布更新。10 年下来，核心使用逻辑从未改变：用户将视频网址拖拽到软件界面内，开始下载视频，结束。 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593482232037440][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 而上周，我被 V2EX 的一个老哥震撼到了，他在一个日历 APP 中加入了 50+ 个功能，包括课程表、今日汇率、今日油价等。或许他本身就想做一个 calendarOS 吧: https://t.co/LzTQzN4xt1 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593484111085825][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 6. 界面文案简洁、易懂，不自嗨，不刻意抒情。一些开发者为营造高级感 (或其他什么原因)，会使用陌生的词句替代掉大家有共识的名称。比如魅族给吉利做的 Flyme Auto 车机系统中，用“寒露”“晨风”等词代表空调的制冷/送风模式，并称这是"氛围感的无界"。我不认同这种做法: https://t.co/cThnsEL5x4 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593486086525025][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-22]]
 #+BEGIN_QUOTE
 7. 非套壳软件。套壳，通常意味着开发者对软件功能的绝对控制权，甚至小于 API 的提供方。这也是近几年我们拒绝了所有的 OCR 软件合作申请的重要原因之一。此外，在一些特定细分领域中，厂商会使用盗版 SDK 套壳批量制造软件，在有我参与录制的一个 FM 节目中有所提及: https://t.co/GjNqbpPNex 
-#+END_QUOTE
-    date:: [[2023-08-22]]
-*** from _短短 3 周，我们在推特认识了很多独立开发者。同..._ by @DIGITALYCHEE on Twitter
-*** [[https://twitter.com/DIGITALYCHEE/status/1693593488129171506][View Tweet]]
+#+END_QUOTE\

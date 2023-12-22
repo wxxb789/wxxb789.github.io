@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1639295975817895944/hJBjXstD.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 1. [[https://t.co/Ic7FlTajX3 teacher]] :: 解释概念
 2. [[https://t.co/cnoSRxtMRR][图片描述拆解大师]] :: 反推 DallE 描述语
@@ -49,21 +49,12 @@
 32. [[https://t.co/PRbGKtYxYt][心跳NPC]] :: 对话游戏
 33. [[https://t.co/e6fmzaqnhZ分析]] :: 分析网站信息
 34. [[https://t.co/iTZbGIssrJ Prompt]] :: 帮你生成 Prompt 的 Prompt 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1. [[https://t.co/Ic7FlT..._ by @helenww9 on Twitter
-*** [[https://twitter.com/helenww9/status/1723950654656573592][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 34. [[https://t.co/pBAPfxgZMW Prompt]] :: 帮你生成 Prompt 的 Prompt 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1. [[https://t.co/Ic7FlT..._ by @helenww9 on Twitter
-*** [[https://twitter.com/helenww9/status/1723950806251237835][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 35. [[https://t.co/z7WyyaNJ0u][产品起名器]] :: 给产品起个名儿 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _1. [[https://t.co/Ic7FlT..._ by @helenww9 on Twitter
-*** [[https://twitter.com/helenww9/status/1723950932109545574][View Tweet]]
+#+END_QUOTE\

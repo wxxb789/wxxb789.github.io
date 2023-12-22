@@ -12,29 +12,20 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 现在最火的开源大语言模型当属 mixtral-8x7 了，已经有人基于它微调了一个完全无审查无防护的版本 dolphin-2.5-mixtral-8x7 ，再也不用担心：“作为一个AI助手，我不能……”
 
 模型下载地址：https://t.co/gkDWutvOTg 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _现在最火的开源大语言模型当属 Mixtral-8..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735457201395814770][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 如果要自己部署可以用 https://t.co/YOZL5OfSDg
 
 https://t.co/4RHf0HueXP 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _现在最火的开源大语言模型当属 Mixtral-8..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735465185681235995][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 https://t.co/TvGlAfLPYY 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _现在最火的开源大语言模型当属 Mixtral-8..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735465277934956905][View Tweet]]
+#+END_QUOTE\

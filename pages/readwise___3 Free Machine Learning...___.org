@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1628461327646707713/A3wjBms3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 3 free machine learning courses
 
@@ -26,11 +26,8 @@ Details 👇🏼
 ![](https://pbs.twimg.com/media/F2R_01qaoAATwJA.jpg) 
 
 ![](https://pbs.twimg.com/media/F2R_1GuaAAA2Vs0.png) 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _3 Free Machine Learning..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1685612713979101184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 Introduction to Algorithms @eig, @UMichCSE
 
@@ -43,11 +40,8 @@ The course covers
 & more!
 
 https://t.co/Yzn4djEIei 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _3 Free Machine Learning..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1685612717015793664][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 Reinforcement Learning @paulabartabajo_
 
@@ -56,11 +50,8 @@ Starting from the fundamentals to cutting-edge deep reinforcement learning, the 
 https://t.co/X3e8irF4e7 
 
 ![](https://pbs.twimg.com/media/F2R_1i-bEAAG0NE.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _3 Free Machine Learning..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1685612723760242688][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 Machine Learning @Al_Grigor @DataTalksClub
 
@@ -74,7 +65,4 @@ Machine Learning @Al_Grigor @DataTalksClub
 https://t.co/bzI52v9KiI 
 
 ![](https://pbs.twimg.com/media/F2R_1-AbgAYHIFJ.png) 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _3 Free Machine Learning..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1685612730492014592][View Tweet]]
+#+END_QUOTE\

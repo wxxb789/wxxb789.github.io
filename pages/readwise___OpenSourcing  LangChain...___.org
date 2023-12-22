@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1544737233407819779/ls9hyXlm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 OpenSourcing  LangChain Decorators✨
 the syntactic sugar 🍭 for @LangChainAI 
@@ -28,11 +28,8 @@ the syntactic sugar 🍭 for @LangChainAI
 https://t.co/PYFFNeioj2 
 
 ![](https://pbs.twimg.com/media/FyUbnPWXwAAmAcz.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
-*** [[https://twitter.com/BezdekJuraj/status/1667774691904307201][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 Main principles and benefits:
 
@@ -47,11 +44,8 @@ Main principles and benefits:
 - conditional rendering of prompt parts 
 
 ![](https://pbs.twimg.com/media/FyUf0aOXgAEQTOV.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
-*** [[https://twitter.com/BezdekJuraj/status/1667774694496391169][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 Support for 
 
@@ -64,18 +58,12 @@ Support for
 .. and more 
 
 ![](https://pbs.twimg.com/media/FyUdWYkWYAEC9JB.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
-*** [[https://twitter.com/BezdekJuraj/status/1667774696429846528][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-11]]
 #+BEGIN_QUOTE
 You can also bind the functions to a class and reference the object fields/properties inside the template
 
 Very useful when creating complex chains like agents 
 
 ![](https://pbs.twimg.com/media/FyUedc_WAAMaXRT.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-11]]
-*** from _OpenSourcing  LangChain..._ by @BezdekJuraj on Twitter
-*** [[https://twitter.com/BezdekJuraj/status/1667774699160367104][View Tweet]]
+#+END_QUOTE\

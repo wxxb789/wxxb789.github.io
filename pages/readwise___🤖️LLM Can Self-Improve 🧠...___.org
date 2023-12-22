@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1635756469986689024/lPOWrGg5.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-05]]
 #+BEGIN_QUOTE
 🤖️LLM can self-improve 🧠
 
@@ -24,11 +24,8 @@ But more samples = more comp. requirements. 💻
 2)  but we can train better LLM with self-generated solutions from 1)
 
 https://t.co/kLfyCuc0uL 
-#+END_QUOTE
-    date:: [[2023-02-05]]
-*** from _🤖️LLM Can Self-Improve 🧠..._ by @jkronand on Twitter
-*** [[https://twitter.com/jkronand/status/1621744876298833920][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-05]]
 #+BEGIN_QUOTE
 The naive approach requires:
 
@@ -36,7 +33,4 @@ The naive approach requires:
 - few-shot chain of thought prompts to generate the "pseudo" labels for the self-train pass
 
 Authors show one can also extend a dataset with synthetic questions, to get more pseudo labels, and improve results further 
-#+END_QUOTE
-    date:: [[2023-02-05]]
-*** from _🤖️LLM Can Self-Improve 🧠..._ by @jkronand on Twitter
-*** [[https://twitter.com/jkronand/status/1621745961444986880][View Tweet]]
+#+END_QUOTE\

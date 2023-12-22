@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1085701406470750208/iG_bM0AH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-10]]
 #+BEGIN_QUOTE
 #思考 近三天发的帖子有 3 条引起共鸣，累计获得 344k+ 浏览量。在 X 上高效互动，分享技术或观点，很容易形成正反馈。如果感觉自己的帖子不受关注，原因可能是多方面：
 1. 发两条不发了 (缺乏长期性)
@@ -22,20 +22,14 @@
 ... 
 
 ![](https://pbs.twimg.com/media/F8Cv9o6bQAAY04K.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-10]]
-*** from _#思考 近三天发的帖子有 3 条引起共鸣，累计获..._ by @lencx_ on Twitter
-*** [[https://twitter.com/lencx_/status/1711565341380530241][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-10]]
 #+BEGIN_QUOTE
 在机会来临之前，首先要让自己准备好了。积累需要时间，不断学习，信息摄入都很重要。不然在输出时，很快就枯竭了。
 
 我从 2015 年注册 GitHub 账号，直到去年 ChatGPT 发布，我抓住机会，开源了一个桌面应用，受到巨大关注，它进一步影响到了我的 X 和公众号，此前一直都是默默无闻。 
-#+END_QUOTE
-    date:: [[2023-10-10]]
-*** from _#思考 近三天发的帖子有 3 条引起共鸣，累计获..._ by @lencx_ on Twitter
-*** [[https://twitter.com/lencx_/status/1711576522820288520][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-10]]
 #+BEGIN_QUOTE
 感兴趣的可以看看这 3 篇文章，记录了我的一些心路历程：
 
@@ -47,7 +41,4 @@ https://t.co/cpIgc8PCxT
 
 致而立之年的自己
 https://t.co/dvQEX7qMge 
-#+END_QUOTE
-    date:: [[2023-10-10]]
-*** from _#思考 近三天发的帖子有 3 条引起共鸣，累计获..._ by @lencx_ on Twitter
-*** [[https://twitter.com/lencx_/status/1711577094856359940][View Tweet]]
+#+END_QUOTE\

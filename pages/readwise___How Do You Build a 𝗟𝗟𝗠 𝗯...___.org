@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1550778008314806272/BssM2zPQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-28]]
 #+BEGIN_QUOTE
 How do you build a 𝗟𝗟𝗠 𝗯𝗮𝘀𝗲𝗱 𝗖𝗵𝗮𝘁𝗯𝗼𝘁 𝘁𝗼 𝗾𝘂𝗲𝗿𝘆 𝘆𝗼𝘂𝗿 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗕𝗮𝘀𝗲?
 
@@ -22,16 +22,10 @@ Let’s find out.
 First step is to store the knowledge of your internal documents in a format that is suitable for querying. We do so by embedding it using an… 
 
 ![](https://pbs.twimg.com/media/FznlunDWYAIUq3C.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-28]]
-*** from _How Do You Build a 𝗟𝗟𝗠 𝗯..._ by @Aurimas_Gr on Twitter
-*** [[https://twitter.com/Aurimas_Gr/status/1673621343122726912][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-28]]
 #+BEGIN_QUOTE
 If you like the content, be sure to join 12.000+ Data Tech Enthusiasts by subscribing to my newsletter: https://t.co/aI3ps0tcLw 
 
 ![](https://pbs.twimg.com/media/FzoDaeBWIAQIRZw.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-28]]
-*** from _How Do You Build a 𝗟𝗟𝗠 𝗯..._ by @Aurimas_Gr on Twitter
-*** [[https://twitter.com/Aurimas_Gr/status/1673653988867158017][View Tweet]]
+#+END_QUOTE\

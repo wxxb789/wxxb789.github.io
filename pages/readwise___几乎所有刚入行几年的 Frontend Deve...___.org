@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1635805945732415488/hDe8Tg3k.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 几乎所有刚入行几年的 frontend developer 都想要独立开发 components library，但是有极少可以坚持超过一年。
 
@@ -23,11 +23,8 @@
 
 推荐 @headlessui @radix_ui 
 不推荐 #antd #mui 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
-*** [[https://twitter.com/ThaddeusJiang/status/1610530774847213572][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 @headlessui @radix_ui 2. 不要开发 HTML Elements，例如 button，input, flex/grid 等等
 
@@ -38,11 +35,8 @@ ref:
 \- https://t.co/lAuN3KV0CN
 - https://t.co/uG7YseH7eB
 - https://t.co/9yg2VQCvSr 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
-*** [[https://twitter.com/ThaddeusJiang/status/1610531588567339010][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 @headlessui @radix_ui 3. 组合大于继承，
 
@@ -63,11 +57,8 @@ ref:
 
 ref: 
 \- https://t.co/jqkrM1c42c 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
-*** [[https://twitter.com/ThaddeusJiang/status/1610533067336339458][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 4. 小公司开发产品级 components library，大公司开发通用级 components library。
 
@@ -77,7 +68,4 @@ ref:
 
 ref: 
 \- https://t.co/UqFJFL0mPI 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _几乎所有刚入行几年的 Frontend Deve..._ by @ThaddeusJiang on Twitter
-*** [[https://twitter.com/ThaddeusJiang/status/1610535245887205376][View Tweet]]
+#+END_QUOTE\

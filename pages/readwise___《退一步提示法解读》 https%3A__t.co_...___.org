@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 《退一步提示法解读》
 https://t.co/4Sln0X7nHZ
@@ -48,7 +48,4 @@ https://t.co/ZVr0PuzI25
 
 还有我以前提出的《一个简单的 Prompt 大幅提升 ChatGPT 翻译质量，告别“机翻感”》，也是类似的思路，让 LLM 先对文本直译，直译的内容作为上下文的一部分，这样将原始文本和直译文本放在一起，再去意译，得到的质量就会更高。
 https://t.co/3wRbSNmY9O<img src='https://pbs.twimg.com/media/F9lO7Z5WYAAO8jX.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _《退一步提示法解读》 https://t.co/..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1718491536948654085][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1656133492865114112/6_xG-Ajm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 💯 让你拥有随叫随到的专家级 AI 助教！
 🌐 想怎么学就能怎么学，定制私人学习计划！
@@ -32,11 +32,8 @@
 ![](https://pbs.twimg.com/media/Fw48rXIaIAAzKqg.png) 
 
 ![](https://pbs.twimg.com/media/Fw48sy1aMAEPFjd.png) 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [[https://twitter.com/scruelt/status/1661332639922683907][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 👉私人 AI 助教直达：
 https://t.co/fJuEOcDDBO
@@ -48,24 +45,15 @@ https://t.co/fJuEOcDDBO
 ![](https://pbs.twimg.com/media/Fw8hnwSaEAA14-S.png) 
 
 ![](https://pbs.twimg.com/media/Fw8h-_HaMAEjPjB.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [[https://twitter.com/scruelt/status/1661585358138793985][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 简单来说，就是不使用 /continue 命令，而是使用 /start 命令+小节名，让 ChatGPT 从给定的小节开始，个人认为很适合在网页版中用。
 由于 OpenAI 的 API 目前仍不支持持续对话，tokens 的消耗对于这个 prompt 来说确实有点高，期待继续优化
 另外也可以看看 @blackanger 大佬在尝试的一些有意思的优化 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [[https://twitter.com/scruelt/status/1661590988568272902][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-25]]
 #+BEGIN_QUOTE
 @blackanger 又想到其实完全可以简化 prompt，只摘取 instructions 部分和配置选项来自己定制，因为实际上只需要让 GPT 知道自己的回复风格，并指定计划要学习内容的计划，剩下的分章节学习用法都是一样的。
 当然了，这个 prompt 项目最有意思的点在于，通过 JSON 的结构化表达，让 ChatGPT “活起来了”，很有启发。 
-#+END_QUOTE
-    date:: [[2023-05-25]]
-*** from _💯 让你拥有随叫随到的专家级 Ai 助教！ 🌐..._ by @scruelt on Twitter
-*** [[https://twitter.com/scruelt/status/1661608327602921473][View Tweet]]
+#+END_QUOTE\

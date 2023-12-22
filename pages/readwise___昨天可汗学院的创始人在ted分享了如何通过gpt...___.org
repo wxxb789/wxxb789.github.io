@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1573915848384778241/pONOmFm3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 昨天可汗学院的创始人在TED分享了如何通过GPT-4实现1对1辅导提高学生表现的案例，非常精彩
 
@@ -29,11 +29,8 @@
 1/17 
 
 ![](https://pbs.twimg.com/media/FvUthSAaUAEDSdK.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278492538937351][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 1️⃣ 阅读理解：直接和角色对话，再也不用瞎猜
 
@@ -46,22 +43,16 @@
 可汗给了一个示例：「为什么盖茨比总是盯着绿光？」
 
 2/17 https://t.co/jE8YbbyuBT 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278510696071170][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 这个学生让 Khanmigo (可汗学院基于 GPT-4 的 ChatBot) 化身为盖茨比，这个 Khanmigo 还真的一秒入戏，回答如下
 
 「啊，绿灯，老兄！你知道吗，它是我梦想和渴望的象征。它位于黛西·布坎南的码头尽头，在海湾对面的我的豪宅处。我长久地凝视着它，因为它代表了我对过去的渴望…」
 
 3/17 https://t.co/mGE8t3vjma 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278563049373699][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 「…和与黛西——我生命中的爱人重聚的希望。绿灯不断提醒我们美国梦难以捉摸、现实与愿景之间存在巨大距离。那么，请告诉我，你是否曾经有一个看似遥不可及的梦想或渴望呢？」
 
@@ -74,11 +65,8 @@
 ![](https://pbs.twimg.com/media/FvUtl-gagAIb7sn.jpg) 
 
 ![](https://pbs.twimg.com/media/FvUtmTPakAAr96O.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278580451545088][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 2️⃣  1 对 1 辅导：授之以渔，而不是授之于鱼
 
@@ -87,11 +75,8 @@
 可汗的回应是：无论有没有 GPT，学生都可以抄作业。而且相反，其定制的 Khanmigo 会大大减少抄作业，同时提升学生能力，因为
 
 5/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278584364834816][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 \- Khanmigo上会显示：所有的聊天记录都会被老师看到，避免学生「走捷径」
 - 当学生说，“告诉我答案”时，Khanmigo回答：“你认为解决这个问题的下一步是什么？” 带着学生一步步解题
@@ -99,11 +84,8 @@
 - 这就是一个「授之以渔」的过程，让学生知其然并知其所以然
 
 6/17 https://t.co/IlkV9mOuQG 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278622004523008][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 可汗说他们在去年 8 月就拿到了 GPT-4 的权限，然后花了 6 个月时间做 prompt 工程，以及大量 fine-tune, 让 Khanmigo 学会如何一步步「授之以渔」
 
@@ -112,11 +94,8 @@
 7/17 
 
 ![](https://pbs.twimg.com/media/FvUtpZ9agAIKAFk.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278633186553859][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 3️⃣ AI 辩手：锻炼思辨能力
 
@@ -125,11 +104,8 @@
 众所周知，事情越辩越明，但合适的「辩手」难求。借助 GPT-4 的能力，每一个学生都可以通过苏格拉底式的对话和辩论来进行探究本质的学习
 
 8/17 https://t.co/2j9n6wAym0 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278686055743488][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 4️⃣ AI导师：分享学科意义
 
@@ -142,11 +118,8 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 9/17 
 
 ![](https://pbs.twimg.com/media/FvUttKyaQAE-w4X.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278697883684866][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 意义是我们做绝大多数事情的原因，但作为新人，又很难 get 到为啥要学 xxx, 最后导致很多重要的知识当初没有掌握
 
@@ -157,11 +130,8 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 10/17 
 
 ![](https://pbs.twimg.com/media/FvUttn-aMAAOwo0.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278705647341574][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 总结一下，ChatGPT类工具在教育中的4个重要用法，对成人学习也很有帮助
 
@@ -173,11 +143,8 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 1984年就有研究表明1对1辅导可以大幅提升学生表现，但问题是成本太高，AI 让每个人都可以有机会
 
 11/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278708847611907][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 最后谈谈我对GPT/LLM在教育中的看法
 
@@ -188,11 +155,8 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 新常态：花1年时间成为专家，工作3年，然后再换到新领域
 
 12/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278711506780161][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 没有什么知识和技能可以永恒，我们的一生会在不断地学习新知识新技能中度过
 
@@ -201,22 +165,16 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 这让我想到了 AI 领域的两种范式之争：BERT+Fine tuning vs LLM+prompting
 
 13/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278714128211968][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 \- BERT+Fine tuning (传统 AI)：让一个刚识字的小朋友到流水线上去训练拧螺丝，一直拧到十八岁，变成了优秀的拧螺丝工——但无法胜任其他工作。
 
 - LLM+prompting (ChatGPT)：用大量计算资源培养小朋友一直到大学毕业——虽然没有变成熟练技术工，但很多领域都能触类旁通，举一反三，很快上手。
 
 14/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278716632227841][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 新时代的人才要求，跟打造ChatGPT是一样的，触类旁通的学习能力 >> 某个领域的单一技能
 
@@ -225,11 +183,8 @@ Khanmigo回答「太棒了！作为一名专业运动员，了解尺寸科学可
 所以我的态度是，尽快和教育融合，用 AI 提升 HI(Human Intelligence)
 
 15/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278719236866049][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 最后附上可汗在 TED 演讲的完整视频，感谢他对教育做出的贡献
 
@@ -242,11 +197,8 @@ btw, 昨天在朋友圈看到一位新加坡妈妈分享，其小朋友所在小
 16/17 
 
 ![](https://pbs.twimg.com/media/FvUtu4-akAE_ezB.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278732604145666][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-05]]
 #+BEGIN_QUOTE
 希望这条🧵对你有帮助
 
@@ -254,7 +206,4 @@ btw, 昨天在朋友圈看到一位新加坡妈妈分享，其小朋友所在小
 2.  请Retweet和Like第一条推文👇
 
 17/17 
-#+END_QUOTE
-    date:: [[2023-05-05]]
-*** from _昨天可汗学院的创始人在ted分享了如何通过gpt..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1654278736358043649][View Tweet]]
+#+END_QUOTE\

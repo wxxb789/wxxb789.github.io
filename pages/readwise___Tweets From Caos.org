@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/1055361217588473856/LUjMt3kO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 新年开新坑😂, DApp 构建指南系列文章, 帮助开发者更好的基于区块链技术构建 DApp, 第一篇梳理 DApp 发展历程并尝试总结其特点, 对比传统应用与 DApp 的相似与不同之处
 希望能帮到对 DApp 开发感兴趣的小伙伴, 也欢迎大家提出宝贵意见, 帮助我完善文章内容. 🙏🙏🙏
 https://t.co/jyMKRtapUf 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _Tweets From Caos_ by @caosbad on Twitter
-*** [[https://twitter.com/caosbad/status/1612071112669822976][View Tweet]]
+#+END_QUOTE\

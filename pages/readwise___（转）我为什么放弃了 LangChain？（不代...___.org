@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1652391808465530880/JW126tAa.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-24]]
 #+BEGIN_QUOTE
 （转）我为什么放弃了 LangChain？（不代表本GPTDAO观点）
 
@@ -36,7 +36,4 @@ Max Woolf 是一位 BuzzFeed 的数据科学家。他也使用过 LangChain，�
 浪费了一个月的时间来学习和测试 LangChain，我的这种生存危机在看到 Hacker News 关于有人用 100 行代码重现 LangChain 的帖子后得到了缓解，大部分评论都在发泄对 LangChain 的不满：
 
 LangChain 的问题在于它让简单的事情变得相对复杂，而这种不必要的复杂性造成了一种「部落主义」，损害了整个新兴的人工智能生态系统。所以，如果你是一个只想学习如何使用 ChatGPT 的新手，绝对不要从 LangChain 开始。 
-#+END_QUOTE
-    date:: [[2023-07-24]]
-*** from _（转）我为什么放弃了 LangChain？（不代..._ by @GPTDAOCN on Twitter
-*** [[https://twitter.com/GPTDAOCN/status/1683160710308843520][View Tweet]]
+#+END_QUOTE\

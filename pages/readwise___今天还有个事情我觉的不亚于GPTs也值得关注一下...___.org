@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 今天还有个事情我觉的不亚于GPTs也值得关注一下。
 
@@ -26,23 +26,14 @@ SD图像生成服务的成本会大幅降低。
 
 LCM Lora现在已经可以在Comfy UI上使用了，我自己测试了一下，1.5的模型使用LCM Lora大概比不使用快了4.7倍左右。下面几张图是对应的生成效果和时间。从生成质量上来看没有特别大的区别。感谢<a href="https://twitter.com/SimianLuo">@SimianLuo</a>的工作。
 #stablediffusion #lcm<img src='https://pbs.twimg.com/media/F-lh1o2agAApqtA.jpg'/><img src='https://pbs.twimg.com/media/F-lh33BbQAA6R-i.jpg'/><img src='https://pbs.twimg.com/media/F-lh6l4aEAA1YPo.jpg'/><img src='https://pbs.twimg.com/media/F-lh8VzboAA8_Ue.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _今天还有个事情我觉的不亚于GPTs也值得关注一下..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1723016460220735748][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 想象中的好日子终于来了，LCM Lora搭配Animatediff生成视频，16帧只需要7秒钟的时间。 
 
 ![](https://pbs.twimg.com/media/F-lsZzaboAETKIx.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _今天还有个事情我觉的不亚于GPTs也值得关注一下..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1723027833709076920][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 这是生成的那个视频 <video controls><source src="https://video.twimg.com/tweet_video/F-lsvZvaEAA2rtp.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _今天还有个事情我觉的不亚于GPTs也值得关注一下..._ by @op7418 on Twitter
-*** [[https://twitter.com/op7418/status/1723027915581858018][View Tweet]]
+#+END_QUOTE\

@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: readwise/正好今天也看到一篇类似的文章：《用 RAGAs（...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "正好今天也看到一篇类似的文章：《用 RAGAs（..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1737017381321310709
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+正好今天也看到一篇类似的文章：《用 RAGAs（检索增强生成评估）评估 RAG（检索增强型生成）应用》
+
+它也是四个评估指标，但是略有不同：
+
+1. 上下文精准度： 衡量检索出的上下文中有用信息与无用信息的比率。该指标通过分析 question 和 contexts 来计算。
+2. 上下文召回率： 用来评估是否检索到了解答问题所需的全部相关信息。这一指标依据 ground_truth（此为框架中唯一基于人工标注的真实数据的指标）和 contexts 进行计算。
+3. 真实性：用于衡量生成答案的事实准确度。它通过对比给定上下文中正确的陈述与生成答案中总陈述的数量来计算。这一指标结合了 question、contexts 和 answer。
+4. 答案相关度： 评估生成答案与问题的关联程度。例如，对于问题“法国在哪里及其首都是什么？”，答案“法国位于西欧。”的答案相关度较低，因为它只回答了问题的一部分。
+
+所有指标的评分范围在 [0, 1] 之间，分数越高表示性能越出色。
+
+它在评估时，需要依赖以下几种信息：
+
+\- question：RAG 流程的输入，即用户的查询问题。
+- answer：由 RAG 流程生成的答案，也就是输出结果。
+- contexts：为解答 question 而从外部知识源检索到的相关上下文。
+- ground_truths：question 的标准答案，这是唯一需要人工标注的信息。这个信息仅在评估 context_recall 这一指标时才必须（详见 评估指标）
+
+它在评估数据集时，不必依赖人工标注的标准答案，而是通过底层的大语言模型 (LLM) 来进行评估。
+
+具体参考：Evaluating RAG Applications with RAGAs
+https://t.co/zTnjZpFxbC
+翻译：https://t.co/FTz0R43FM0 
+#+END_QUOTE\

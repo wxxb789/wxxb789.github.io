@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 你知道吗？ OpenAI 的 CTO <a href="https://twitter.com/gdb">@gdb</a> 在 2019年之前几乎不懂机器学习。
 
 他在 2019年写的文章：《我是如何成为一名机器学习从业者的 - 双语版》🫱 https://t.co/nsoWBLwq9J 
 
 ![](https://pbs.twimg.com/media/F_ir8n8aIAA-_Hc.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _你知道吗？ OpenAI 的 CTO @Gdb..._ by @immersivetran on Twitter
-*** [[https://twitter.com/immersivetran/status/1727321063712043251][View Tweet]]
+#+END_QUOTE\

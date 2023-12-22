@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/昨日，熊猫在「通往agi之路」的微信群里分享了他...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[WaytoAGI on Twitter]]
+:full-title: "昨日，熊猫在「通往agi之路」的微信群里分享了他..."
+:category: [[tweets]]
+:url: https://twitter.com/WaytoAGI/status/1737297795391123742
+:image-url: https://pbs.twimg.com/profile_images/1654774036759728128/KCCnFPkO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+昨日，熊猫在「通往AGI之路」的微信群里分享了他的《GPTs从入门、进阶、实践到防护的万字长文》，这是作者熊猫肝了一周多，码了1万多字，希望对大家有点帮助。
+
+https://t.co/CHZxkxKsme 
+
+![](https://pbs.twimg.com/media/GBwfGDSbwAALNqz.jpg) 
+#+END_QUOTE\

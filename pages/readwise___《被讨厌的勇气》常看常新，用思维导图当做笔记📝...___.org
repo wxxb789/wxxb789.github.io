@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1732053500119375874/9lZa-xLs.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 《被讨厌的勇气》常看常新，用思维导图当做笔记📝
 除了经典的“课题分离”、“一切烦恼来自于人际关系之外”
@@ -25,11 +25,8 @@
 -人生不是与他人的比赛，价值在于超越自我 
 
 ![](https://pbs.twimg.com/media/GBVE3CSb0AAbCGO.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _《被讨厌的勇气》常看常新，用思维导图当做笔记📝..._ by @Ni_luvya on Twitter
-*** [[https://twitter.com/Ni_luvya/status/1735368948911358196][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 里面还提到他者信念和共同体感觉，我以前写过：
 
@@ -38,7 +35,4 @@
 
 这两者还有个大前提是自我接纳。能接纳自己，不惧怕信赖可能造成的背叛，愿意奉献。
 再循环更进一步了解和接纳自我，获得共同体感觉和幸福感 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _《被讨厌的勇气》常看常新，用思维导图当做笔记📝..._ by @Ni_luvya on Twitter
-*** [[https://twitter.com/Ni_luvya/status/1735368952325476783][View Tweet]]
+#+END_QUOTE\

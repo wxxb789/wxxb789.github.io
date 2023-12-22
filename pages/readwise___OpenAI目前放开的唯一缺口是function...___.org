@@ -12,14 +12,11 @@
 :image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-08]]
 #+BEGIN_QUOTE
 OpenAI目前放开的唯一缺口是function calling，给开源的专家模型一丝机会。
 但在开源模型的reasoning和调度能力匹配OpenAI模型之前，除非深度定制，不然技术上不存在完全private的enterprise GPT，无法摆脱OpenAI的控制。
 开源大模型的reasoning能力，只能依赖大厂。
 抛开眼花缭乱的prompting engineering，普通AI从业者要牢牢握住简单几样能力，即CoT/ReAct Prompting, 大语言模型Lora微调，小语言模型传统微调，云能力。 
-#+END_QUOTE
-    date:: [[2023-11-08]]
-*** from _OpenAI目前放开的唯一缺口是function..._ by @realrenmin on Twitter
-*** [[https://twitter.com/realrenmin/status/1721811493249769485][View Tweet]]
+#+END_QUOTE\

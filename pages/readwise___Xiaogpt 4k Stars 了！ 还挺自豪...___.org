@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-28]]
 #+BEGIN_QUOTE
 xiaogpt 4k stars 了！
 还挺自豪的，我们二月份实现的东西现在大部分音箱都是用的我们的方案。（当时还没 api）
@@ -24,7 +24,4 @@ https://t.co/fI2xUMfpWX
 ![](https://pbs.twimg.com/media/F9cuq9Ab0AA7BcU.jpg) 
 
 ![](https://pbs.twimg.com/media/F9cvNn1aUAA8Se8.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-28]]
-*** from _Xiaogpt 4k Stars 了！ 还挺自豪..._ by @yihong0618 on Twitter
-*** [[https://twitter.com/yihong0618/status/1717893979507933660][View Tweet]]
+#+END_QUOTE\

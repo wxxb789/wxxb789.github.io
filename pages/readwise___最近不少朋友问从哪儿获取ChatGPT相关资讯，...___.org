@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 最近不少朋友问从哪儿获取ChatGPT相关资讯，目前最好的渠道是Twitter。
 
@@ -24,16 +24,10 @@
 ![](https://pbs.twimg.com/media/Ftce4-sakAAKG8B.jpg) 
 
 ![](https://pbs.twimg.com/media/Ftce6m1acAY_dnM.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _最近不少朋友问从哪儿获取ChatGPT相关资讯，..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1645819308919107584][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 https://t.co/g5huqS3RDl
 
 账号链接在这里，pc打开访问，好像移动端会跳到第一个AI工具导航sheet 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _最近不少朋友问从哪儿获取ChatGPT相关资讯，..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1645947858020073472][View Tweet]]
+#+END_QUOTE\

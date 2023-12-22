@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1660065028891082752/HcDO_udQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 「膝盖使用说明书（更新版）」
 
@@ -90,7 +90,4 @@
 希望推友们的膝盖越来越健康，有力量~
 
 来源：中国医师协会骨科分会<img src='https://pbs.twimg.com/media/GBaxiC4aoAAN44G.jpg'/><img src='https://pbs.twimg.com/media/GBaxiNwaoAAfDg8.jpg'/><img src='https://pbs.twimg.com/media/GBaxiWfaoAAGylN.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _「膝盖使用说明书（更新版）」 人体本身就是一个..._ by @HotmailfromSH on Twitter
-*** [[https://twitter.com/HotmailfromSH/status/1735769915834146900][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-02]]
 #+BEGIN_QUOTE
 如果想学会 ChatGPT、把它作为竞争工具，推荐这个 Prompt Engineering 基础教程
 
@@ -30,7 +30,4 @@ https://t.co/g4MaOkR0YQ
 ![](https://pbs.twimg.com/media/FsmxL_nWYAAmp3M.jpg) 
 
 ![](https://pbs.twimg.com/media/FsmxL_mXgAIIB9B.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-02]]
-*** from _Tweets From 倪爽_ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1642038373589065729][View Tweet]]
+#+END_QUOTE\

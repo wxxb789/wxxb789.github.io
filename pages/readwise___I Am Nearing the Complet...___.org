@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/1492572338600263681/fiVbZMZw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-18]]
 #+BEGIN_QUOTE
 I am nearing the completion of my thesis, and am getting increasingly excited about being able to share it online 
 
 ![](https://pbs.twimg.com/media/FzQCI3bWAAI5Xyz.png) 
-#+END_QUOTE
-    date:: [[2023-07-18]]
-*** from _I Am Nearing the Complet..._ by @bgavran3 on Twitter
-*** [[https://twitter.com/bgavran3/status/1671963908066758656][View Tweet]]
+#+END_QUOTE\

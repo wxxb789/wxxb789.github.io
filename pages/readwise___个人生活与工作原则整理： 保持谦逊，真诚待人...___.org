@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1593178268483534848/yPDOxW8m.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-17]]
 #+BEGIN_QUOTE
 个人生活与工作原则整理：
 
@@ -65,7 +65,4 @@
 - 看不起
 
 https://t.co/GEMeOjVKKh<img src='https://pbs.twimg.com/media/F_GUB4QbIAAtP8D.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-17]]
-*** from _个人生活与工作原则整理： 保持谦逊，真诚待人..._ by @nigdaemon on Twitter
-*** [[https://twitter.com/nigdaemon/status/1725322908007096687][View Tweet]]
+#+END_QUOTE\

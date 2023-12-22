@@ -12,22 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1613527230755536897/O3TdyBVY.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 20221227 今日宏观因子模型 
 
 ![](https://pbs.twimg.com/media/Fk8kVnpacAQM0tp.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _20221227 今日宏观因子模型 Https:..._ by @locean0410 on Twitter
-*** [[https://twitter.com/locean0410/status/1607543560047570945][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 路透还是牛的👍 
 
 ![](https://pbs.twimg.com/media/Fk8k7vvaUAATux9.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _20221227 今日宏观因子模型 Https:..._ by @locean0410 on Twitter
-*** [[https://twitter.com/locean0410/status/1607544206406615040][View Tweet]]
+#+END_QUOTE\

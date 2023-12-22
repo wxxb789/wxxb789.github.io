@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-21]]
 #+BEGIN_QUOTE
 怎么用 GPT 建立自己的人工智能知识库
 
@@ -24,11 +24,8 @@
 这个 Copilot Hub 现在提供了和纳瓦尔聊天、乔布斯思想、创业问答、苏格拉底思想和 CEO 基因几个独立的 AI 问答/知识库 
 
 ![](https://pbs.twimg.com/media/FpXWochXwAAQ_20.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-21]]
-*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1627444608937385984][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-21]]
 #+BEGIN_QUOTE
 2/
 
@@ -46,22 +43,16 @@
 ![](https://pbs.twimg.com/media/FpXYL-MXwAIMTmD.png) 
 
 ![](https://pbs.twimg.com/media/FpXYNB-X0AAh0ZO.png) 
-#+END_QUOTE
-    date:: [[2023-02-21]]
-*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1627444610438930433][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-21]]
 #+BEGIN_QUOTE
 3/
 
 现在 AI 项目多如牛毛，高级到创造国家基础设施级 OpenAI 竞品，细微到用 AI 写周报的小工具，快到拿 AI 做资讯、卖课程赚现钱，慢到试图用 AI 解决“教育”这种影响全人类发展历程的长远项目
 
 我说“专用 AI 知识库”，其实把它说小了几个数量级，它不仅仅是搭个客服系统，或为企业专有信息做个知识库 
-#+END_QUOTE
-    date:: [[2023-02-21]]
-*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1627458053195833345][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-21]]
 #+BEGIN_QUOTE
 4/
 
@@ -72,11 +63,8 @@
 场景的例子：两个中国文化 AI，一个面向学汉语、一个着重于输出中国文化，它们无论外表多相似，输出内容会完全不同
 
 需求的例子：医疗类 AI 需要高度精准，而明星八卦 AI 随便聊 
-#+END_QUOTE
-    date:: [[2023-02-21]]
-*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1627458054412197888][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-21]]
 #+BEGIN_QUOTE
 5/
 
@@ -89,16 +77,10 @@
 1）怎么用很少的原始数据来训练 GPT 这类 AI？
 
 GPT-3 有 1750… https://t.co/63D4sbG9wU 
-#+END_QUOTE
-    date:: [[2023-02-21]]
-*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1627480314535608320][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-21]]
 #+BEGIN_QUOTE
 6/
 
 补充 Copilot Hub 的测试地址 https://t.co/PnBcDhqr2j 
-#+END_QUOTE
-    date:: [[2023-02-21]]
-*** from _怎么用 GPT 建立自己的人工智能知识库 1/..._ by @nishuang on Twitter
-*** [[https://twitter.com/nishuang/status/1627666019488505859][View Tweet]]
+#+END_QUOTE\

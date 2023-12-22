@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: readwise/推荐阅读：《多模态和多模态大模型 (Lmm)[译...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "推荐阅读：《多模态和多模态大模型 (Lmm)[译..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1737925710377820545
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+推荐阅读：《多模态和多模态大模型 (LMM)[译]》
+
+这是一篇相当详尽的讲述多模态和多模态大模型的文章！内容分为三部分。
+
+* 第 1 部分围绕多模态的概念展开，讲述了使用多模态的原因、不同类型的数据模态以及多模态任务的种类。
+
+* 第 2 部分深入探讨了多模态系统的核心原理，以 CLIP 和 Flamingo 为例，分别为未来多模态系统的发展奠定了基础，并通过 Flamingo 的卓越表现引领了大语言模型（LLM）的兴起。
+
+* 第 3 部分聚焦于大语言模型（LLM）的当前研究热点，探讨了生成多模态输出和高效多模态训练适配器的新进展，涉及了像 BLIP-2、LLaVA、LLaMA-Adapter V2、LAVIN 等新兴多模态系统。
+
+如果你想深入了解多模态模型，这是一篇相当好的科普文章！
+
+原文：Multimodality and Large Multimodal Models (LMMs) 
+https://t.co/KQgtC8kNDK
+
+译文：https://t.co/396vFG8Xwi<img src='https://pbs.twimg.com/media/GB5aM35WYAAVaxG.jpg'/> 
+#+END_QUOTE\

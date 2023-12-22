@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-19]]
 #+BEGIN_QUOTE
 StackOverflow 公布了 2023年开发者调查报告：
 
@@ -30,7 +30,4 @@ https://t.co/CR76D6snrC
 5. AWS… https://t.co/946qDdts57 
 
 ![](https://pbs.twimg.com/media/F1XOzVHaYAAjERi.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-19]]
-*** from _StackOverflow 公布了 2023年开..._ by @vikingmute on Twitter
-*** [[https://twitter.com/vikingmute/status/1681477999550689282][View Tweet]]
+#+END_QUOTE\

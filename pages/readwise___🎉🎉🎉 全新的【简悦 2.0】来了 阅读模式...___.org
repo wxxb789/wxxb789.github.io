@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/2731983980/3970ce35c4ea2deb72fb37b404f0aa4f.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 🎉🎉🎉 全新的【简悦 2.0】来了
 
@@ -32,18 +32,12 @@
 ![](https://pbs.twimg.com/media/Ef2As9RUcAQiuQX.jpg) 
 
 ![](https://pbs.twimg.com/media/Ef2AwUoUwAAyEkA.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1296333955591843840][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 关于 #简悦 相关 Thread 也可以看这条 https://t.co/zh8qJl80dB 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1296335188301975552][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 只需六步即可「玩转简悦 · 高级账户」，看下图 ↓
 专治经常被锁/丢失 UID 的「你」 😉 
@@ -51,11 +45,8 @@
 关于这段的详细说明也可看  👉  https://t.co/tamAvxujR9 
 
 ![](https://pbs.twimg.com/media/Egpmd1tUcAAvjbE.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1299964941579907072][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 新增加了帮助中心，汇总了简悦各种渠道的信息，并分类了文档的内容体系，方便查询。
 未来会基于此平台上线更多的自助服务
@@ -64,11 +55,8 @@
 PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo 
 
 ![](https://pbs.twimg.com/media/Eh7OPR7UcAIVn4s.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1305708106219880448][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 好久没发 #简悦 的消息了，给大家来点实惠的，简悦也凑个热闹来波【双十一促销】，趁着没涨价前的促销价  👉  10 元。
 
@@ -78,11 +66,8 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 关于简悦 2.0 的介绍，可以看  👉  https://t.co/6i461jbP8Q 
 
 ![](https://pbs.twimg.com/media/Eltr8v0UYAI9gRr.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1322770902413504514][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 🎉🎉🎉 久等了，#简悦 2.1 来了
 
@@ -101,44 +86,29 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 ![](https://pbs.twimg.com/media/EnfO6JnUcAIwh5F.jpg) 
 
 ![](https://pbs.twimg.com/media/EnfO8UcVoAAFd1Q.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1330760034498666498][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 经典使用案例之二：
 「当你想静下心阅读一篇文章，仔细品读作者的思路，以及随时勾画重点内容，再加上一些脑中闪现的想法，最后导出一篇带笔记的PDF。简悦全部支持你的想法，而且全部做到了。」 
 
 ![](https://pbs.twimg.com/media/En-9cWuVEAAqHGv.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1332992413867016192][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 🎉【上新了】简悦 2.1.0 终于来到了 Edge  👉 https://t.co/AVEhQ4NZEl 
 
 ![](https://pbs.twimg.com/media/EoHkcejUUAAdK3p.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1333598209956925441][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 发现 Readwise 升级后，同步到 https://t.co/dot2mjaLoK 的功能也随之好使了，所以【Windows 用户】使用原来的方式即可将标注同步到 https://t.co/dot2mjaLoK → https://t.co/IFI7UceWg3 的方案。 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1334767217674657792][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 同步助手在坚果云的流量被耗尽了，再加上需要登录坚果云，所以更换了一个新的下载地址：OneDrive  👉  https://t.co/Okg0kqbo9w （无需登录） 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1335127838375071745][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 社区有人问我，简悦跟其它稍后读有什么不同？我整理为以下几点放到这里，希望给有需要的朋友：
 
@@ -155,11 +125,8 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 ![](https://pbs.twimg.com/media/EpLFR4QUwAc2JQs.jpg) 
 
 ![](https://pbs.twimg.com/media/EpLFSwnUcAI7MlI.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1338350147562967041][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 好久没发简悦的技巧了，现在来一发~
 
@@ -167,11 +134,8 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 详细说明请戳  👉 https://t.co/UH9oAZK3v1
 
 #简悦 #简悦小提示 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1341226318982090752][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你是 Obsidian 的用户，可以看看这篇文章 👉 【使用简悦 +  Obsidian 打造一站式知识管理方案】
 细节的话，可以看下这个订阅号 👉  https://t.co/mdaaGaGNKm
@@ -179,21 +143,15 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 #简悦 #简悦小提示 
 
 ![](https://pbs.twimg.com/media/EqZdryuVoAAWcKM.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1343864654976598021][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 再补充一个抽奖渠道：
 通过 https://t.co/NMemuWzncS 五星并好评的话，也具有抽奖资格。
 
 🥳 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1344538113759035392][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 抽奖规则：
 
@@ -202,20 +160,14 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 其它方式的抽奖也是如此，预计1月2日我会公布结果（截图）。
 
 😄 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1344539513507381248][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 再补个简悦的交流通道：
 电报群 👉 https://t.co/RRFX2w6wCD
 订阅频道 👉 https://t.co/e5hhNv1aNU 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1344590667880701954][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 的支付宝直接付款渠道都是我人工发送的邮件。
 
@@ -226,11 +178,8 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 明年继续努力！💪 
 
 ![](https://pbs.twimg.com/media/Eqj1FvdVkAAxspG.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1344595134986346496][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 兑奖啦~
 
@@ -240,11 +189,8 @@ PS：简悦涨价倒计时4天，购买细节请看 https://t.co/YCALMfjgvo
 谢谢各位的参与~ 🙏 
 
 ![](https://pbs.twimg.com/media/Eqtrg1tVgAAi6bP.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1345287739298627584][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 增加了几个 RSS 订阅源：
 
@@ -254,43 +200,31 @@ https://t.co/ewS6IhqqGZ → 插件介绍
 https://t.co/c8vck0g4EX → 详细功能说明
 
 上述链接的详细说明可以在这里查看 👉 https://t.co/2dzWuIZzu7 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1347514091401850882][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 上面几个因为都跟版本发布有关，故更新频率不高，所以
 在上述 Feed 的基础上增加了一个新的 RSS 👉 https://t.co/eAWushn0Xe
 
 此 Feed 更新频率较高，基本上涵盖了 #简悦 的文章/技巧/新玩法/动态/版本更新等内容。 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1348503888769347587][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今天聊聊《简悦为什么不需要登录系统》 👉 https://t.co/ynOrU6J6zv
 
 我会不定期在这里使用 https://t.co/1tG5hcrJaR 写一些简悦的设计理念以及小功能。
 
 并自动同步到 https://t.co/5QqGUpEaOH 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1349207904839032833][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 Obsidian 配合 #简悦 实现方便的来源引用（网页）
 
 如果你也在使用 Obsidian 可以看看这篇文章，通过一个简单的方式，可以让你方便获取引用来源的原页面。（该页面为离线保存页面，并保存在你使用的本地或网盘）
 
 文章作者来自社区的用户，详细说明的原文请戳这里 👉 https://t.co/6ZYCIbFGIw https://t.co/kuRdnOrgXk 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1352512462277361665][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 原本不想广播这个 ID，这两天观察了下玩法，决定（有可能的话），#简悦 下个版本发布后的更新说明放在 Clubhosue 上面，看看效果。
 
@@ -303,11 +237,8 @@ Obsidian 配合 #简悦 实现方便的来源引用（网页）
 🙈
 
 https://t.co/l2SQdzE67g 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1357272991495647236][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 嗨，如果你喜欢 #简悦 或 生产力工具 / 工作流 的 Newsletter 爱好者，可以订阅我的这份简报，下面链接是器负一期  👉 https://t.co/CDe3rQBjx3
 
@@ -318,11 +249,8 @@ https://t.co/l2SQdzE67g
 🙏 
 
 ![](https://pbs.twimg.com/media/EtmSu-pVcAEGUFR.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1358278694725324801][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 🎉 简悦 · 高级账户特价 🎉 
 
@@ -341,22 +269,16 @@ https://t.co/l2SQdzE67g
 ![](https://pbs.twimg.com/media/EwFyMI9VgAgFJiC.png) 
 
 ![](https://pbs.twimg.com/media/EwFyMfhVIAIdfBN.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1369502265627660289][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 也顺道搞一个评论抽奖活动  🎉 
 
 前往 Chrome Webstore https://t.co/blllNsY0we 或 Edge 应用商店 https://t.co/AVEhQ4NZEl 并 【五星好评 + 留言】（真实的使用感受或体验）
 
 每八名用户即抽奖一次，因字数限制细节请看 https://t.co/wRS9bsTq2m 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1369516406157418498][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 我是几乎很少看统计信息的，昨天早上 GA 发了一个内测的产品（名字也没留意）就看了下 GA 的一些数据，就得到了这样一个 #简悦 的小成就：
 简悦已经优化了 36,661,837 个页面了。
@@ -366,41 +288,29 @@ https://t.co/l2SQdzE67g
 谢谢由你相伴！ 
 
 ![](https://pbs.twimg.com/media/EyvXpuMVcAEXjCg.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1381435565342519296][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你也喜欢使用 https://t.co/JvfCUQcFFn 的话，可以试试这个适配规则，可以将将你需要的页面生成简悦的阅读模式，使用方式 👉 https://t.co/ju05QZqxrU
 
 下图就是将 https://t.co/127Pf7Dn85 生成 https://t.co/cCUJLjRLVr 后进入阅读模式后的效果 
 
 ![](https://pbs.twimg.com/media/EzT6O_dVcAc3-cJ.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1384006238099283976][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 推出了 API & 开放平台👉  https://t.co/F3ikBb4QgI
 
 白天没留意到的推油可以看看~ 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1387360447813197824][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 API 涵盖了大多数使用场景，为了方便大家使用，我简单的做了个表格，详细可以看下 https://t.co/RY04nGlnek
 另外，给新手用户制作了一个简单入门指引 https://t.co/7KAzzFZJAz 
 
 ![](https://pbs.twimg.com/media/E0hNZgsUYAYKGKC.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1389445927673290753][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 有些时候人为形成一些摩擦是有益处的。
 
@@ -410,11 +320,8 @@ https://t.co/l2SQdzE67g
 把那些值得加入的内容加入才是「稍后读」
 
 via https://t.co/jwsXYgYeCh 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1389809407861526528][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 嗨，如果你是科研工作者（或经常浏览科研类期刊网站）的话，#简悦 在五一期间适配了以下九种常见的期刊类网站：https://t.co/XZxuPHST5I  https://t.co/66qourKT1m https://t.co/ZQNEXgPaIW https://t.co/S49Ijn9hUw 等。
 关于这部分的说明（及如何使用）请前往 👉  https://t.co/7A83EfEzmO 查看 
@@ -424,22 +331,16 @@ via https://t.co/jwsXYgYeCh
 ![](https://pbs.twimg.com/media/E0qpyxcVkAAv2t3.png) 
 
 ![](https://pbs.twimg.com/media/E0qpziZUYAAITwK.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1390110313777819650][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 自从「成为」 #简悦 客服以来会时常收到一些奇怪的 QA，我都想建一个 Thread 来收集这些奇奇怪怪但又非常有爱的 QA 回复了~
 
 第一次被自己的用户叫「大叔」。 
 
 ![](https://pbs.twimg.com/media/E03AryjVUAElKDG.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1390979814476062725][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 发一个基于 简悦 + Notion 的玩法，简单的说，利用：
 
@@ -453,11 +354,8 @@ Notion + 简悦 · 同步助手 + 简悦 API · 阅读列表 + 简悦 · 阅读�
 ![](https://pbs.twimg.com/media/E1ULADgVgAEmDrg.jpg) 
 
 ![](https://pbs.twimg.com/media/E1ULAwWVEAIWeVA.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1393031866156941312][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 🎉经过一些小波折后：简悦 2.2.0 正式版可以对宣布了。
 
@@ -474,11 +372,8 @@ https://t.co/zCJj1QBKcx
 ![](https://pbs.twimg.com/media/E2Or7yYVgAAR2Ch.jpg) 
 
 ![](https://pbs.twimg.com/media/E2Or8chVkAoCQb1.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1397150831359664129][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 关于这些玩法，尤其是跟双链笔记的互动请看 https://t.co/TzSFL3ZyGD
 
@@ -489,11 +384,8 @@ https://t.co/zCJj1QBKcx
 虽然有些小波折，但都顺利解决了。谢谢各位对 #简悦 一直以来的支持。
 
 🙏 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1397151672648966147][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 因为有些波折，稍微有些激动，忘记几个地址了
 
@@ -501,11 +393,8 @@ https://t.co/zCJj1QBKcx
 简悦的 Telegram Channel https://t.co/e5hhNv1aNU
 简悦的 Telegram Group https://t.co/RRFX2w6wCD
 请订阅简悦的 Newsletter https://t.co/9OLYDYe0ut 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1397154865466417153][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 一个小成就（暂且算
 
@@ -523,29 +412,20 @@ via https://t.co/Z60TDiBqFs
 ![](https://pbs.twimg.com/media/E2nqN2qVgAMxuYP.png) 
 
 ![](https://pbs.twimg.com/media/E2nqRAFVcAYeSot.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1398906921696960515][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的内容（略长），算作是这一大段时间对简悦的一个总结。
 
 因为 2.2 的发布才是简悦真正意义的 2.0 版本。 
 
 ![](https://pbs.twimg.com/media/E2xaSHmVEAMF5NW.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1399592997537255427][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 有朋友反馈说看不清，可能是推的问题，文字版请看这里 👉 https://t.co/PVLNUcT2Ue 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1399703868439621635][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 2.2 今天算正式对外宣传了（之前都在自己的用户渠道中）
 
@@ -558,11 +438,8 @@ via https://t.co/Z60TDiBqFs
 ![](https://pbs.twimg.com/media/E3ghk8bVkAMKBS1.jpg) 
 
 ![](https://pbs.twimg.com/media/E3ghk8cVUAIAl85.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1402908950224199686][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 小假期前的一份鼓励，来自 Microsoft Edge  👉 
 #简悦进入 Edge 最热门的榜单
@@ -576,11 +453,8 @@ Edge 简悦 2.2.0.520 版下载地址 👉 https://t.co/Ef84n8zmfn
 🙏 
 
 ![](https://pbs.twimg.com/media/E3kzV7QVcAAbg_K.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1403211184984117249][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 我制作了一份 #简悦 功能地图一览，方便简悦用户梳理（查找）相关功能，包括：
 
@@ -599,42 +473,30 @@ WorkFlowy 👉 https://t.co/Q8ZkGFoBkE
 不得不说使用 WorkFlowy 生成的效果真不错 
 
 ![](https://pbs.twimg.com/media/E3_6fXvVgAAOICQ.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1405117384713674758][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 自从 #简悦 2.2 发布后，简悦升级为一个真正意义的「思维工具」。有不少新用户问我「你的工作流」是什么，为此抽时间我一直在使用的工作流画了出来。
 
 包括：信息获取 / 灵感收集 / 信息整理 / 项目输出 / 知识输出整个的流程。 
 
 ![](https://pbs.twimg.com/media/E4I1ZgjVEAUB6yb.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1405745744816926724][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 发完上条推后导致问的朋友更多了...（为啥都是私信？）
 所以就有了这个 Thread  👉  https://t.co/MxPLIwDdN2
 
 其中少了一个「检索环节」，简单的再说下： 
 我使用 DEVONthink 3 作为检索工具，结合简悦同步助手的离线保存功能以及双向链接的导出功能，可以方便的检索出想要的一切文档。 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1406857696121290757][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 嗯，就用这个 Thread 记录一下吧，今天又遇到一个可爱的用户。 
 
 ![](https://pbs.twimg.com/media/E4oInZgVEAAL9Gh.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1407947415030669316][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 #简悦 导出到 https://t.co/HmPV8Y4BJu 实现标注的共享与实时协作
 
@@ -644,32 +506,23 @@ WorkFlowy 👉 https://t.co/Q8ZkGFoBkE
 为什么用此方案以及细节请看这里 https://t.co/sVtt9x9jG9 
 
 ![](https://pbs.twimg.com/media/E48icOtVgAQGOD2.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1409393661620604935][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份的鼓励，很喜欢这句话「以为只是一个插件，却给了一个生态」
 这也是简悦从 2.0 开始一直努力的方向。 
 
 ![](https://pbs.twimg.com/media/E5A_-04VEAAMJdm.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1409697391326875650][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 🔥 使用 @revue 生成 #简悦 的 Newsletter 真是舒服，事先准备好了素材，直接添加 Link，改改版面，Done 
 
 「简悦周报  vol.009」就是通过此方式生成的  👉 https://t.co/lL2nbTsxX8
 
 唯一的小问题是自定义域名不支持 SSL 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1410046635120283655][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦 + SuperMemo
 
@@ -680,11 +533,8 @@ WorkFlowy 👉 https://t.co/Q8ZkGFoBkE
 #简悦 为此专门制作一个插件 https://t.co/PSpWxi04ho 方便 SuperMemo 导入以及一个 Quicker 动作 https://t.co/7Hy8HTmem5
 
 更多细节可以看  👉  https://t.co/SuhQk5VpQ0 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1410510903984885761][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 好久没发 #简悦 的插件了，最近更新了两个：
 
@@ -701,11 +551,8 @@ https://t.co/grE4uFEj4i
 ![](https://pbs.twimg.com/media/E5hwKaMUcAECsNg.jpg) 
 
 ![](https://pbs.twimg.com/media/E5hwPAOVoAU5RL7.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1412002684043808769][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 近期有不少老用户「纷纷发来贺电」。
 
@@ -714,11 +561,8 @@ https://t.co/grE4uFEj4i
 🙏  💪 
 
 ![](https://pbs.twimg.com/media/E5mGi5zUUAE96m7.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1412308265522778121][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 再分享一个新出炉的 #简悦 插件  👉  分栏阅读模式https://t.co/iy5LpiB1T2
 
@@ -727,22 +571,16 @@ https://t.co/grE4uFEj4i
 此插件可以【模仿 Safari 阅读模式样式 https://t.co/wb411ShNrP 】配合使用。 
 
 ![](https://pbs.twimg.com/media/E5mb3vjVcAMMeZN.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1412332141401182213][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利于 uBlock 优雅的隐藏在 #简悦 阅读模式中不需要的元素  👉 https://t.co/AgVHaZuCob
 
 相比简悦自带的隐藏元素功能更灵活。 
 
 ![](https://pbs.twimg.com/media/E5wqdEhVkAM_tTv.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1413051126891483138][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 再增加一个新插件：#简悦 自动转换当前页面为 Markdown 并导入到 Taio 中，如何使用请看 👉 https://t.co/Lpc4kYqTFR
 
@@ -755,29 +593,20 @@ https://t.co/grE4uFEj4i
 ![](https://pbs.twimg.com/media/E52L0HqVIAAL8ss.jpg) 
 
 ![](https://pbs.twimg.com/media/E52MC9fVkAUU219.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1413439934824734720][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 两个月前的今天 #简悦 2.2.0 正式上架到 Chrome Webstore，下图是使用 Notion 记录的截至到今天为止，简悦相关发布时间 / 文章 / 教程 / 插件。 
 
 ![](https://pbs.twimg.com/media/E6EkVedVcAQMYmL.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1414454615685296131][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 做客服的快乐。😏 
 
 ![](https://pbs.twimg.com/media/E63uGxnUcAE6Wne.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1418051416703205379][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你经常访问订阅号，并且某些订阅号太花哨的话，使用简悦的阅读模式效果反而不好，这时你可以使用此方式解决 https://t.co/kk1o3NOPsS
 
@@ -791,11 +620,8 @@ PS：通常情况下不需要此方式。
 ![](https://pbs.twimg.com/media/E64FMk0VUAg60M7.jpg) 
 
 ![](https://pbs.twimg.com/media/E64FOPvUcAMkWXs.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1418076860143964164][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你经常上传 markdown 形式的附件到 Notion，上传的附件可以在线浏览，但因为并非是 .md 所以简悦无法识别为阅读模式，这时可以使用这个插件 👉 https://t.co/mRraQH9ssh
 
@@ -804,11 +630,8 @@ PS：通常情况下不需要此方式。
 测试地址 https://t.co/5xTUxUTO7J 
 
 ![](https://pbs.twimg.com/media/E65En1CUUAQ5ciu.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1418146408167735301][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 我是 Notion 用户，几乎每天都在使用它，为了更好的使用它，所以在 #简悦 中也做了很多方便使用 Notion 的功能，包括：
 
@@ -819,33 +642,24 @@ PS：通常情况下不需要此方式。
 5. 一键剪藏到 Notion
 
 详细说明 👉 https://t.co/H4vJmvuV0N 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1419581276671991809][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你喜欢导出长截图在手机上查看的话，可以试试这款插件👉 【导出手机长截图】，可以将阅读模式的页面导出为适合手机查看的截图，包括：
 
 支持快捷键 / 三种导出尺寸 / 支持简悦的主题色（暗色模式） / 包含标注也可截图
 
 https://t.co/jDfGI5vDVc 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1421379444975947781][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你有多个显示器，可以试试这个 #简悦插件 👉 【版面宽度定制器】
 
 让你在不同的显示器（分辨率）定制你需要的版面宽度。
 
 下载地址 👉 https://t.co/XKrI40o8Xg 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1422426613820452866][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将阅读模式的任何内容（文字，图片）生成分享卡，具有一定的定制化，包括：标题 / 题图 / 内容均可定制。
 
@@ -858,11 +672,8 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E8U4mXOVoAQehAI.png) 
 
 ![](https://pbs.twimg.com/media/E8U5Hj4VUAY6swV.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1424608072543002625][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 全文翻译 v 1.0.6
 
@@ -877,11 +688,8 @@ https://t.co/jDfGI5vDVc
 使用教程与插件下载地址，请看这里👉https://t.co/kY9onQf4ju
 
 #简悦 #简悦插件 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1425724266310406144][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 你的产品在地球的另外一面肯定有一个喜欢的它的人在使用它研究它。
 
@@ -896,29 +704,20 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E9I_k7UVgAApbFw.png) 
 
 ![](https://pbs.twimg.com/media/E9I4VwOVUAAQo34.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1428273944570654722][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份的正向思考。 🙏 
 
 ![](https://pbs.twimg.com/media/E9NOUd-VkAMoEj-.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1428571704234704898][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你喜欢在掘金小册上面学习的话，可以使用这个插件  👉  https://t.co/zlu1FjF5Py，让简悦支持掘金小册，然后就可以使用简悦的「KPM学习大礼包」了。
 
 #简悦 #简悦插件 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1428974666534637571][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 适配扇贝阅读
 
@@ -927,11 +726,8 @@ https://t.co/jDfGI5vDVc
 #简悦 #简悦适配站点 
 
 ![](https://pbs.twimg.com/media/E9cn1rRVgAMJ7xx.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1429655391806189568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 嗨，如果你是锤子便签的用户，可以试试简悦专门为锤子便签适配的规则。
 
@@ -949,11 +745,8 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E9iihHVVkAEuxyk.jpg) 
 
 ![](https://pbs.twimg.com/media/E9ijRU-VEAIQfxP.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1430072730079043595][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你是 PDF 爱好者，可以使用 # 简悦的同步助手导出 PDF + Microsoft Edge PDF阅读器 的组合方案。
 
@@ -961,11 +754,8 @@ https://t.co/jDfGI5vDVc
 后者可以完美的产生标注，同时标注也可以完美的导入 https://t.co/C3n7qZsWDU  里面；
 
 细节请看这里 👉  https://t.co/s0Uugw7V5k 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1430483287466676229][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 好久没有抽奖了，跟玉树老师弄了个抽奖
 
@@ -980,11 +770,8 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E9xAB1MUUAcOqar.png) 
 
 ![](https://pbs.twimg.com/media/E9xAPiZUUAIfDTf.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1431090442179805190][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果喜欢在 Web 端使用即刻的话，可以试试简悦的这两个适配规则
 
@@ -997,22 +784,16 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E-Ri4-wVQAY3xoI.png) 
 
 ![](https://pbs.twimg.com/media/E-Ri8RZVEAIVtQJ.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1433380148938612736][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 哪怕是 Step by step 的教程也是要符合新手的「跳坑」习惯。
 
 否则再简单的教程也会有人看不懂。 
 
 ![](https://pbs.twimg.com/media/E-WLsjbVgAA5jAF.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1433706350257709057][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 适配 Apple App Store 故事
 
@@ -1021,11 +802,8 @@ https://t.co/jDfGI5vDVc
 更多说明请看这里 👉 https://t.co/rrpMWj7NvI 
 
 ![](https://pbs.twimg.com/media/E-lC519VQAQ-htG.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1434751841066106880][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 保存阅读模式到 Telegram
 
@@ -1041,11 +819,8 @@ https://t.co/jDfGI5vDVc
 内含使用方法，请前往  👉  https://t.co/XMpnQmXQYB
 
 此插件由 #简悦 电报群用户 @2Lmwx 开发，谢谢 🙏 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1435144731562893312][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 这两天给 #简悦 电报群加了个 bot
 
@@ -1057,11 +832,8 @@ https://t.co/jDfGI5vDVc
 
 简悦通知频道 👉 https://t.co/e5hhNv1aNU
 简悦电报群 👉 https://t.co/RRFX2w6wCD 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1436545008295837699][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 周末在 帮助中心 👉 https://t.co/plykyavxEy 的基础增加了搜索功能，可以直接搜索来自 Github ：
 提问区 https://t.co/CFdawX6nRo
@@ -1075,11 +847,8 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E_IXf5zUUAEBmbQ.jpg) 
 
 ![](https://pbs.twimg.com/media/E_IXgemVUAEX3iS.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1437237640651165698][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份的正向思考
 
@@ -1090,11 +859,8 @@ https://t.co/jDfGI5vDVc
 封闭固然是现今主流，唯开放才是亘古不变的。 
 
 ![](https://pbs.twimg.com/media/E_OLUg9UcAElQaf.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1437645999908921345][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 使用 #简悦 助力你的英文学习
 
@@ -1111,11 +877,8 @@ https://t.co/jDfGI5vDVc
 😁 
 
 ![](https://pbs.twimg.com/media/E_UGC0sUYAAFQI8.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1438062739713245184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 知乎是即微信订阅号 / CSDN 之后第三「麻烦」的页面，中秋期间让简悦完美的适配了知乎，包括：
 
@@ -1130,11 +893,8 @@ https://t.co/jDfGI5vDVc
 如何使用请看这里👉 https://t.co/mRuezdQUxN 
 
 ![](https://pbs.twimg.com/media/E_3B6l2VkAw5EJk.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1440520802663731200][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦最初上线到 Chrome Webstore 是在 2017年6月1日，从上线第一天，我就给自己立下个规矩：
 只要是评价，我都必回复。
@@ -1150,11 +910,8 @@ https://t.co/jDfGI5vDVc
 ![](https://pbs.twimg.com/media/E_4oqwwVEAIYE-R.png) 
 
 ![](https://pbs.twimg.com/media/E_4osePUcA8hAz6.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1440634150923358208][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 双链笔记剪藏用户看过来 ✌ 
 
@@ -1163,32 +920,23 @@ https://t.co/jDfGI5vDVc
 更多说明请看这里 👉 https://t.co/CM5cE7OwrO
 
 @wshuyi 玉树老师制作了一个视频介绍 👉 https://t.co/pTWCf2dN21 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1441294632629927940][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份的正向思考：
 「有的时候，让你烦心的只能是你自己。」 
 
 ![](https://pbs.twimg.com/media/FAQuKskVQAIpEVn.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1442328584123682819][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 假期宅在家？要不拿出你的泡面神器：Android 平板！
 
 支持完美阅读模式，标注 / 稍后读，导出到任意生产力工具！#简悦 2.2 可以让你的 Android 平板设备不再吃灰
 
 更多细节/安装/用法请看这里 👉 https://t.co/AmGO9GVCGq https://t.co/HIK9LIOVE7 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1443421717829861377][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 适配了推特的推文页
 
@@ -1201,11 +949,8 @@ https://t.co/jDfGI5vDVc
 详细说明  👉 https://t.co/ftsKZN6h5z 
 
 ![](https://pbs.twimg.com/media/FBOYcotWQAckjiV.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1446667579980922883][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 #简悦 Webhook + Airtable 实现 No-code 低成本构建自己的公开分享集
 
@@ -1218,11 +963,8 @@ https://t.co/jDfGI5vDVc
 
 细节请看 👉 https://t.co/PHHos994wZ
 教程请看 👉 https://t.co/aCcj3jDIiK https://t.co/GxZZvTL5yt 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1456121645270061058][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你是 Inoreader 用户的话，试想一种完美的信息过滤/保存方案：
 
@@ -1230,22 +972,16 @@ https://t.co/jDfGI5vDVc
 
 细节请看 👉 https://t.co/BxtMQXWLdq
 https://t.co/ZUChS7D8sp https://t.co/7hvANDysn4 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1456466249563586560][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 因为数据都在用户自己的同步盘（坚果云 or Dropbox），简悦无法获取到你的数据，所以需要授权和配置，但难免会出现错误，因为涉及到多个服务，所以排查相对有难度，为了降低难度，可以利用下面的方式测试你的配置是否成功。
 
 https://t.co/wpdnwpnClh
 
 API 2.0 介绍看这里 https://t.co/m61Js0LK5H 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1456924951554891781][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 Inoreader + 简悦 · 阅读模式 / 稍后读 / API 做信息过滤
 
@@ -1256,11 +992,8 @@ API 2.0 介绍看这里 https://t.co/m61Js0LK5H
 via https://t.co/rjGAGSEfiy 
 
 ![](https://pbs.twimg.com/media/FDpgYm0VkAIW-Jk.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1457584567502598144][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 📅 通过微信回顾自己的每日阅读
 
@@ -1275,20 +1008,14 @@ via https://t.co/rjGAGSEfiy
 🙏 
 
 ![](https://pbs.twimg.com/media/FDv0TjJVUAMdeHC.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1458027650023243781][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你是 Instapaper 用户，可以试试此方式，用来弥补Instapaper 「无法真正做到」快照的问题。
 
 利用了 IFTTT 的自动化和 #简悦 Webhook，详情请看 👉 https://t.co/INo5NRZXWr https://t.co/sru0ZRD3tY 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1458323294940119042][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你是 RSS 重度用户的话，可以将简悦变成你的 RSS 阅读器（包括本地快照）
 
@@ -1301,11 +1028,8 @@ via https://t.co/rjGAGSEfiy
 ✅ Done！
 
 via https://t.co/VneBfeDl2i 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1458354279043911682][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 emmm 昨晚买买买完事后，总是觉得忘记点什么... 早上起来刷牙的时候突然想起来了，忘记做... 🤣
 
@@ -1323,11 +1047,8 @@ emmm 昨晚买买买完事后，总是觉得忘记点什么... 早上起来刷�
 ![](https://pbs.twimg.com/media/FD37tk6UUAUykf1.jpg) 
 
 ![](https://pbs.twimg.com/media/FD37v_YVcAQpn-H.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1458598835047960582][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 保存到 Pinboard 同时也保存到简悦（包括本地快照）
 
@@ -1336,11 +1057,8 @@ emmm 昨晚买买买完事后，总是觉得忘记点什么... 早上起来刷�
 至此，已经集合了 https://t.co/Bone3cIZZX · Instapaper · Pocket · Inoreader · https://t.co/xV1is11FOl  的全部教程，基本上涵盖了目前主流的稍后读 / RSS / 等整理服务。 
 
 ![](https://pbs.twimg.com/media/FD-hLtlVcAMt6mx.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1459066222205669376][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦用户 @felixkaman 在他的 Surface Due 上面使用简悦 的效果，使用插件：
 
@@ -1351,11 +1069,8 @@ emmm 昨晚买买买完事后，总是觉得忘记点什么... 早上起来刷�
 💡 简悦支持 Android 平板详细说明 https://t.co/AmGO9GVCGq
 
 哎，我都想弄个双屏设备玩玩了。 https://t.co/szrRQpev4X 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1459375604336267268][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 少数派的文章已经可以正常访问了 👉 
 
@@ -1364,22 +1079,16 @@ https://t.co/FFR4a42oT8
 
 细节看这个 Thread
 https://t.co/c85DBdzWgz 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1461246056893538309][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦社区用户「亮岚」在他的【小米平板4】上运行简悦的效果。
 
 除了可视面积有点小外，小米4可以完美的在键盘 + 鼠标后实现完整意义的标注，稍后读以及自动化，性能方面完全没有任何问题。
 
 细节可以看这里 👉 https://t.co/AmGO9Hde50 https://t.co/6urHwPUmxY 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1462373298508029953][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 感谢开放的互联网，得益于 integromat 的自动化方案。
 
@@ -1390,11 +1099,8 @@ https://t.co/c85DBdzWgz
 细节 👉 https://t.co/dExlUPKnhG 
 
 ![](https://pbs.twimg.com/media/FExJR8hXIAIJKW4.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1462625308679589898][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 用竹白弄了一个可以在微信收取 Newsletter 的方式 👉 https://t.co/jSnYeU9fJd
 
@@ -1407,11 +1113,8 @@ https://t.co/c85DBdzWgz
 ![](https://pbs.twimg.com/media/FEyp5hKXMAEGAj7.png) 
 
 ![](https://pbs.twimg.com/media/FEyp_kJXoAcvCHE.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1462731591357247490][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你也有 Telegram Channle  的话，可以试试这个方式 👉 简悦加入稍后读后自动导出到 Telegram Channel
 
@@ -1420,11 +1123,8 @@ https://t.co/c85DBdzWgz
 更多说明 👉 https://t.co/LCUpRBZVGt
 
 利用 Telegram bot 订阅 RSS 以及此方式可以让你的 Telegram Channle 变成「专属你自己的 Newsletter」 https://t.co/M34EjngTBW 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1463001494253293568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦的稍后读 → RSS
 
@@ -1439,11 +1139,8 @@ https://t.co/c85DBdzWgz
 来自简悦群用户的使用方式 👉 https://t.co/wC1ukKoV41 
 
 ![](https://pbs.twimg.com/media/FE8LnZBWQAA4TCt.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1463401526400106500][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 导入到飞书群（包括：加入稍后读或手动触发）
 
@@ -1458,20 +1155,14 @@ https://t.co/c85DBdzWgz
 
 教程 👉 https://t.co/LTFfY5sv8x
 细节 👉 https://t.co/bDpSRVISuF https://t.co/aIcGs0Xq3U 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1463685662679486468][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 uTools 的简悦插件，在 Windows 上可以直接检索并打开你的稍后读，类似 Alfred 的效果。
 
 来自简悦 Telegram 群用户 SettingDust 的作品 👉 https://t.co/VbIaUsgabC https://t.co/Xhwj0N3TeT 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1465155396193034241][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 📝 利用简悦的阅读列表在 Notion 作笔记
 
@@ -1482,11 +1173,8 @@ https://t.co/c85DBdzWgz
 2️⃣ 在右侧作笔记，支持复制 / 粘贴将左侧的内容（含格式）完美的粘贴到 Notion（也支持图片的粘贴）。
 
 详细请看简悦的官方 Channel 👉  https://t.co/nOqUn45SJ0 https://t.co/LtnUFdk9vb 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1465524425231454214][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 用 Quicker 转换 Obsidian 中的离线 Markdown 文档中的图片为本地图片
 
@@ -1495,11 +1183,8 @@ https://t.co/c85DBdzWgz
 于是有了这个脚本，详情请看 👉 https://t.co/Sd8plQHn5u 
 
 ![](https://pbs.twimg.com/media/FFmDS8oUcAE3G1B.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1466347988041678857][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 通过简悦将任意页面的内容导入到 Craft
 
@@ -1508,22 +1193,16 @@ Craft 支持本地环境系统，这也是我一直推崇的方案，所以我�
 PS：简悦插件系统均可支持开箱即用，即便你是免费用户也可使用。
 
 详细说明 👉 https://t.co/3ujTutbY3B https://t.co/ENWxnnXMiM 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1466671729556688908][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 好久没法今日正向思考了。
 
 谢谢这位用户，周末需要休息休息，多陪家人。 
 
 ![](https://pbs.twimg.com/media/FFvLswvUcAE15LO.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1466990159015002113][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 网页保存到稍后读，电脑端浏览器阅读，阅读时候双语翻译，批注，笔记同步到双链笔记，下次从双链笔记打开永久链接时候就是之前已经翻译好带笔记的网页。
 
@@ -1531,11 +1210,8 @@ PS：简悦插件系统均可支持开箱即用，即便你是免费用户也可
 
 详情 👉 https://t.co/iebFdhjsDU
 教程 👉 https://t.co/llazuz0YZz https://t.co/TPUiXeB9Hw 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1469218295031107584][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将具有付费墙功能的 RSS 加入到简悦的稍后读
 
@@ -1545,21 +1221,15 @@ PS：简悦插件系统均可支持开箱即用，即便你是免费用户也可
 教程请看 👉 https://t.co/wFhAPD08wI 
 
 ![](https://pbs.twimg.com/media/FGTqREAVkAU2rgS.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1469557302227181571][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将简悦的标注导入到 Logseq 来自简悦社区用户 GreenHatHG 的一篇教程和工作流体验。
 
 详细请看 👉 https://t.co/kFHEUlQWbB
 教程请看 👉 https://t.co/itgKbHpi2t https://t.co/VlQysKAMqg 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1470236744914112514][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份「下午茶」加餐到了。
 
@@ -1568,11 +1238,8 @@ QA 的好处之一：当你真正给用户解决问题后，他会毫不吝啬�
 💪 
 
 ![](https://pbs.twimg.com/media/FGd6sH2VkAAa_fb.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1470279707186761732][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 飞书妙记是一个将语音转换为文字的服务，属于飞书文档旗下的一款产品，通过此方式可以让飞书妙记支持简悦的阅读模式。
 
@@ -1580,11 +1247,8 @@ QA 的好处之一：当你真正给用户解决问题后，他会毫不吝啬�
 
 详细 👉 https://t.co/nW1wK9CqP3
 教程 👉 https://t.co/sXfs5fvOr0 https://t.co/dm0uV1emXv 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1470595238305566721][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 我很喜欢维基百科，因为可以从一个知识点到另外一个知识点，但它的页面确实一言难尽，所以简悦最开始就适配了维基百科，但仍只是界面而已。
 
@@ -1595,11 +1259,8 @@ QA 的好处之一：当你真正给用户解决问题后，他会毫不吝啬�
 https://t.co/Xe8VZ69jMr 
 
 ![](https://pbs.twimg.com/media/FGnhhG4UYAA12H4.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1470956116993462275][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 把一本 PDF 导入到 Notion 总共分几步？
 
@@ -1614,11 +1275,8 @@ https://t.co/Xe8VZ69jMr
 如何使用 👉 https://t.co/WhP5CmgkYW
 
 详细说明 👉 https://t.co/mDqhYUKajo https://t.co/B9SPVR0vva 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1471321592361734150][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将需要的部分页面内容生成阅读模式
 
@@ -1627,11 +1285,8 @@ https://t.co/Xe8VZ69jMr
 其中【东京部分】的内容我非常喜欢，使用此方式就可生成阅读模式，并在稍后读中直接查看。
 
 via https://t.co/mvRn869u4S https://t.co/AHXOTRhjx1 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1472461349548556289][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你每天都在长时间使用浏览器，有没有想过，通过将工作与私人分开的方式？这样方便切换工作与私人的不同环境，使用简悦很容易实现这个需求。
 
@@ -1639,11 +1294,8 @@ via https://t.co/mvRn869u4S https://t.co/AHXOTRhjx1
 
 详细 👉 https://t.co/gdVnmjXZED
 教程 👉 https://t.co/l9yFQUdKJF https://t.co/KD15PQRklJ 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1473243109139959808][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 https://t.co/cnJmMS50qZ 
 
@@ -1655,11 +1307,8 @@ https://t.co/cnJmMS50qZ
 
 详细 👉 https://t.co/72rJ7R9JEV
 教程 👉 https://t.co/O7GrOwMksy https://t.co/u0iGWGUWdv 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1473919913316085760][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 通过 Hazel 将简悦导出的 Textbundle 直接导入到 DEVONthink
 
@@ -1667,30 +1316,21 @@ https://t.co/cnJmMS50qZ
 
 详细 👉 https://t.co/7TgWyZ6p3u
 教程 👉 https://t.co/GUWTaIaz6V https://t.co/pmUUOZBDp4 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1474328172158074880][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 Hazel 让 Obsidian 「支持 textbundle 文件格式」
 
 详细 👉 https://t.co/PqKzlc0YX6
 教程 👉 https://t.co/9GBK5Tkuo0 https://t.co/wcUjxzE7Ew 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1475334566869037056][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日加餐。 
 
 ![](https://pbs.twimg.com/media/FHwyOOpVEAQvBXS.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1476110169473896450][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 1️⃣ 使用简悦收集和打造数据完全归使用者所有的知识库（树根/基底）
 
@@ -1705,11 +1345,8 @@ https://t.co/cnJmMS50qZ
 🙏  👍 
 
 ![](https://pbs.twimg.com/media/FH12AlVUUAApAN-.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1476466515583008768][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今天是 2021 年的最后一天，谢谢又陪伴简悦度过了一年的你。🙏
 
@@ -1718,22 +1355,16 @@ https://t.co/cnJmMS50qZ
 2022 年我会给简悦带来一系列适合新用户的内容。🥳 
 
 ![](https://pbs.twimg.com/media/FH6UqSEUUAEbwNT.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1476943730343088177][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 就凭这段话，去年一年就没白忙。
 
 PS：截图中提到的问题早在 2.2.0.520 版（21年5月份）已解决。 
 
 ![](https://pbs.twimg.com/media/FIEDehzVcAIo9GU.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1477466619622293506][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 2021 年度盘点
 
@@ -1748,11 +1379,8 @@ PS：截图中提到的问题早在 2.2.0.520 版（21年5月份）已解决。
 via https://t.co/TyZVdZC7Q1 
 
 ![](https://pbs.twimg.com/media/FIEg9LXVEAAJwoN.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1477499286409838599][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 2021 年度盘点
 
@@ -1765,11 +1393,8 @@ via https://t.co/TyZVdZC7Q1
 via https://t.co/HP7606ELBa 
 
 ![](https://pbs.twimg.com/media/FIEiQuRVUAI_fBe.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1477580431570657284][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 2021 年度盘点
 
@@ -1782,11 +1407,8 @@ via https://t.co/HP7606ELBa
 细节👉https://t.co/jZVBTf7OJS 
 
 ![](https://pbs.twimg.com/media/FILG8P3VcAEqEOB.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1477962976044802049][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 #简悦 2021 年度盘点
 
@@ -1801,33 +1423,24 @@ via https://t.co/HP7606ELBa
 细节 👉 https://t.co/xmQUTIEiMj 
 
 ![](https://pbs.twimg.com/media/FIPe2lMVUAEtkuX.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1478271173502717952][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 有的时候，偶尔也应该刷刷存在感...  😂 
 
 PS：截图中提到的推就在上文。 
 
 ![](https://pbs.twimg.com/media/FIYl-haWUAMXaiI.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1478911787093225472][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 当在 https://t.co/xV1is11FOl 中收藏一篇文章时，自动在 Todoist 中生成一个带有【稍后读】标签的任务，同时将网页离线保存在简悦稍后读中。
 
 以上流程是简悦社区用户利用了 GTD 的思想来解决「稍后读不读」的问题。
 
 via https://t.co/OuQrOf5nRv 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1480862356498432006][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 很多简悦用户都使用同步助手来辅助将 Web 端的内容发送到自己的使用的双链笔记。
 
@@ -1844,22 +1457,16 @@ via https://t.co/OuQrOf5nRv
 ![](https://pbs.twimg.com/media/FI-kJ0FXsAIP7pK.jpg) 
 
 ![](https://pbs.twimg.com/media/FI-kLQDWYAUeNh_.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1481584320661925888][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份快乐~
 
 不枉我腰闪了，但没排上按摩时间，刷知乎刷到的评论。 
 
 ![](https://pbs.twimg.com/media/FJRdkJfWQAUdnIe.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1482913585693184004][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 如果你是 Matter 用户，并经常在桌面浏览器中使用 Matter 扩展端作为导入方式，就知道它做的有「多差劲」。 😂
 
@@ -1868,11 +1475,8 @@ via https://t.co/OuQrOf5nRv
 通过 Live Editor 复制到原文，相当于简悦开放了自己的正文优化、获取能力给任意 Web Cliper。
 
 详情 👉 https://t.co/4UcJan7hUU https://t.co/hPT2harbwr 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1482927434337030144][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 一键将当前阅读模式转换为 Telegraph Page 并发送到你的 Telegram Channel
 
@@ -1881,22 +1485,16 @@ via https://t.co/OuQrOf5nRv
 此方案无需使用同步助手。
 
 细节 👉 https://t.co/pcIrc21y21 https://t.co/IvOVVW4Ocd 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1484432224602640385][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 哈哈，看到这个 ID 能高兴一天。
 
 感觉特像在早市练摊时，买完东西的大爷说了句「东西不错，谢谢小伙子」🤣🤣 
 
 ![](https://pbs.twimg.com/media/FJwnqYgUYAEzHmY.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1485106090920476673][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 在简悦中标注，然后将标注的 Deeplink 一键复制到任意双链笔记
 
@@ -1907,20 +1505,14 @@ via https://t.co/OuQrOf5nRv
 2️⃣ 无论是内部链接 or 外部链接，对应的都是你本地的文件，可以做到真快照。
 
 详细 👉 https://t.co/ht6VYLoZZD https://t.co/IyBqChzW0k 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1485866130623197184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份的快乐。 
 
 ![](https://pbs.twimg.com/media/FKgSWNwVkAI_USX.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1488460107822206978][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 这是春节期间抽空做的一个项目，除此之外，还有很多好玩的东西，这是第一弹。 😁 
 
@@ -1928,11 +1520,8 @@ via https://t.co/OuQrOf5nRv
 
 详细 👉 https://t.co/45i2k6EYSC
 教程  👉 https://t.co/FjaROacoOO 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1490923362360516608][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 极简就是长期探索后的删繁就简。这个体系不仅仅意味着它是一个磨合探索的过程，也意味着它的最终结果是精简后的实用的美。
 
@@ -1943,11 +1532,8 @@ via https://t.co/OuQrOf5nRv
 https://t.co/NCp2bX3CBu 
 
 ![](https://pbs.twimg.com/media/FLN7O8fVkAAzVgb.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1491672055086911488][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 自从使用 Issues 至今（5+年），印象中还从未有过用户一口气提 7 个 Issues 的记录。（截图显示不全）
 
@@ -1956,11 +1542,8 @@ https://t.co/NCp2bX3CBu
 绝对真 · 爱问用户~ 
 
 ![](https://pbs.twimg.com/media/FLXc0MmVkAUJqwr.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1492342382305501184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 Vivaldi + 微信读书 + 文件传输助手 + 简悦让你「脱离」微信体系进行深度阅读
 
@@ -1968,11 +1551,8 @@ https://t.co/NCp2bX3CBu
 
 细节 👉 https://t.co/wzIAEXXGcZ
 教程 👉 https://t.co/qbqGn1ZxaZ https://t.co/H2gbbQayne 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1492381888778063872][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今天是2月14日，晒下简悦在 Chrome Webstore 一镜到地的全五星好评
 
@@ -1981,22 +1561,16 @@ https://t.co/NCp2bX3CBu
 谢谢各位用户~ 
 
 ![](https://pbs.twimg.com/media/FLhc1XIXIAM7RTg.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1493045555274076160][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 感谢 @tiensonqin 提供了这么棒的双链笔记 Logseq，得益于 @pengx17 发布的 Logseq Publish GitHub Action，可以非常方便的使用 Logseq 编写，使用 Git 发布它。
 
 在简悦标注，自动生成 Logseq 的标注文件，并自动发布到 Github Page 的【无代码化全自动方案】。
 
 详细 👉 https://t.co/BPtwhdUgkd https://t.co/2XhWUPOc7s 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1493425846391951360][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 很多双链笔记初学者更关心：配置、主题、插件这些内容，很少有人晒下使用双链笔记的成系统例子。（Obsidian 有一个案例）
 
@@ -2007,11 +1581,8 @@ https://t.co/NCp2bX3CBu
 感谢开源世界~ 
 
 ![](https://pbs.twimg.com/media/FLsKBJZVgAMQAzp.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1493828652554862594][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 我在这个 Thread 中说过，希望通过这些推文形成「正向思考」。
 
@@ -2020,11 +1591,8 @@ https://t.co/NCp2bX3CBu
 这就是「不以善小而不为」最好诠释吧。🥰 
 
 ![](https://pbs.twimg.com/media/FLxTD2nVIAMNycU.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1494161027801358339][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 哈哈，可爱的简悦用户们。
 
@@ -2035,11 +1603,8 @@ https://t.co/NCp2bX3CBu
 喜欢大连的朋友可以看看这期 👉 https://t.co/I8osOhQhvn 
 
 ![](https://pbs.twimg.com/media/FL2JtE9XIAAsBeS.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1494503044372967426][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 前两天做了一次「针对简悦重点功能介绍的直播」
 
@@ -2054,11 +1619,8 @@ https://t.co/NCp2bX3CBu
 请各位帮忙三连、转推
 
 🙏 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1495657051376205828][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 任意网页 → 简悦 → Obsidian + Excalidraw 生成思维导图的全自动化流程
 
@@ -2066,11 +1628,8 @@ https://t.co/NCp2bX3CBu
 
 细节 👉 https://t.co/fGJUznXrfJ
 教程 👉 https://t.co/2CmvifHO9P https://t.co/8HTHxe3nH9 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1496351421586980866][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 很多朋友对 https://t.co/OvtCUos6iN 这篇文章提到的使用 Telegram Channel 做信息收集器的感兴趣。
 
@@ -2080,11 +1639,8 @@ https://t.co/NCp2bX3CBu
 教程 👉 https://t.co/zKIJJ8grDw 
 
 ![](https://pbs.twimg.com/media/FMqdOAaWYAEqbar.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1498182859747520512][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦适配了 @typefullyapp e.g. https://t.co/1YmfMOWGqG
 
@@ -2095,11 +1651,8 @@ https://t.co/NCp2bX3CBu
 适配后 👉 将你的长推文接入到「简悦导出大礼包」，想怎么导出就怎么导出。 
 
 ![](https://pbs.twimg.com/media/FM6BHLzUUAIJbVr.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1499279272577359876][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 基于推特的简悦社群来了，欢迎加入。👏 👏 
 
@@ -2116,20 +1669,14 @@ https://t.co/VOlA2iABHh
 详细 👉 https://t.co/xTUaQw1EVn 
 
 ![](https://pbs.twimg.com/media/FM_HTj5VQAMg-IG.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1499637375365910529][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份的加餐已到~ 
 
 ![](https://pbs.twimg.com/media/FNYDAPDVUAEd90D.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1501390957249384453][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 适配 Instatper 与 Pocket
 
@@ -2139,11 +1686,8 @@ https://t.co/VOlA2iABHh
 
 详细 👉 https://t.co/smmYBuL5Dt
 教程 👉 https://t.co/BXcvxyVaZK 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1501514798936170497][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦 Telegram bot 升级了，更完美的识别来自社交媒体的 URL，包括：推、即刻、微博。
 
@@ -2159,11 +1703,8 @@ https://t.co/VOlA2iABHh
 ![](https://pbs.twimg.com/media/FNjOjZmVEAMtfBU.jpg) 
 
 ![](https://pbs.twimg.com/media/FNjOsEBUcAA_ExM.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1502178046622662662][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 适配了一组 Newsletter
 
@@ -2184,11 +1725,8 @@ https://t.co/VOlA2iABHh
 https://t.co/OvtCUos6iN
 
 我会使用 Newsletter 来阅读的习惯，为此适配了它们。 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1503212908737572866][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 批量导出任意进入阅读模式的页面
 
@@ -2201,11 +1739,8 @@ https://t.co/OvtCUos6iN
 
 详细 👉 https://t.co/uF8eRF7wuo
 教程 👉 https://t.co/yVZyTVkY2X https://t.co/9ySpJIMKex 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1503652483125506050][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦的 Telegram Channel 是最高频率的发布渠道，基本上每周 4 ~ 5 次发布，涵盖了简悦的文章/技巧/玩法/入门/动态/周报等内容。
 
@@ -2215,11 +1750,8 @@ https://t.co/OvtCUos6iN
 
 竹白 👉 https://t.co/jSnYeUqQAL
 订阅中心 👉 https://t.co/G0B1ZK9ghR 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1504004815235346433][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 辅助增强知网的阅读体验
 
@@ -2227,11 +1759,8 @@ https://t.co/OvtCUos6iN
 
 详细 👉 https://t.co/BEEO8nJfoj
 教程 👉 https://t.co/788TzoZyIq https://t.co/H5SGnUPfVs 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1504658533526114313][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 知网是我从开发简悦以来适配最困难的一个网站，感谢那些为此付出时间和心血的简悦用户。
 
@@ -2243,21 +1772,15 @@ https://t.co/OvtCUos6iN
 https://t.co/z0h5nfFcUi 
 
 ![](https://pbs.twimg.com/media/FOG9QiOUYAA3bWc.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1504692905981612032][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦内置 Pandoc 方案，可以将正文导出任意 Pandoc 支持的格式
 
 详细 👉 https://t.co/KOZvS4HOit
 教程 👉 https://t.co/YMFqY8CBKj https://t.co/fg1JOmNh6d 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1505750259577761795][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 得益于简悦强大的正文解析能力与主动适配，可以完美的将正文导入到 Notion 中，不仅如此还支持 Notion 图床功能。
 
@@ -2267,11 +1790,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/LkFcuAlV9k
 教程 👉 https://t.co/yaqDGPu1yn https://t.co/LoLBMUC8xs 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1506831729662652416][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦插件：自动化辅助增强
 
@@ -2283,11 +1803,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/Yt7hPV1skO
 教程 👉 https://t.co/Zr1hEAELyx https://t.co/SlTi0fZ3sk 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1509375778953203713][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份快乐~
 
@@ -2296,11 +1813,8 @@ https://t.co/z0h5nfFcUi
 竟然有种：坐堂大夫看好病的「赶脚」。🤣 
 
 ![](https://pbs.twimg.com/media/FPjGCAuVkAE9LYm.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1511176706354147330][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将简悦的标注导入到 Notion
 
@@ -2310,22 +1824,16 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/EFYCXIphoY
 教程 👉 https://t.co/yaqDGPu1yn https://t.co/493tvzoh4j 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1511902489020276741][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 今日份快乐
 
 帮用户解决问题，TA 也会把解决问题后的喜悦带回给我。 
 
 ![](https://pbs.twimg.com/media/FPugk0xUYAACPKJ.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1511979662519398403][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 作为简悦客服的日常快乐（当然过程稍显艰辛... 🤣
 
@@ -2336,11 +1844,8 @@ https://t.co/z0h5nfFcUi
 ![](https://pbs.twimg.com/media/FP9k4YRWYAEET3K.jpg) 
 
 ![](https://pbs.twimg.com/media/FP9lMgJaMAMpk_r.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1513039659999191040][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 导入到 Obsidian 更新到 1.1.0
 
@@ -2350,11 +1855,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/XZ4wBAwtuL
 教程 👉 https://t.co/KKhwEGJVSr https://t.co/haY6nXBkW8 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1514514110968262656][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 同步助手的命令行版本，可以替代部分同步助手的功能。
 
@@ -2366,11 +1868,8 @@ https://t.co/z0h5nfFcUi
 教程 👉 https://t.co/T1gzy6aMbi 
 
 ![](https://pbs.twimg.com/media/FQWwByuVEAohc-e.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1514812610230685707][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 当简悦导出后自动复制文件到 Logseq 的文件夹中，然后追加标题信息到当天日记中去。若当天日记不存在，就新建一个再追加。
 
@@ -2380,11 +1879,8 @@ https://t.co/z0h5nfFcUi
 教程 👉 https://t.co/aULJuo6N7C 
 
 ![](https://pbs.twimg.com/media/FQrW1eBVgAUp9m5.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1516260726213468166][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 导入到 Obsidian 插件更新到 1.2.0 · 自动导入标注
 
@@ -2393,11 +1889,8 @@ https://t.co/z0h5nfFcUi
 详细 👉 https://t.co/TsQopJPEpF
 教程 👉 https://t.co/A6ls221IZ3
 文档 👉 https://t.co/B0O1dNsJsz https://t.co/C1Nop1SJhf 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1516611398364655620][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 在 iOS 设备上导入任意 URL（含快照）到简悦以及阅读列表
 
@@ -2411,11 +1904,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/n4oJuWKVab
 教程 👉 https://t.co/0l5b802y7f https://t.co/te1tc5gIb5 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1518497908986769408][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将简悦的标注以 org-mode 格式自动导入标注到 Logseq
 
@@ -2426,11 +1916,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/12QVKQhoXK
 教程 👉 https://t.co/BQLiMFba2j https://t.co/6plT6qMNFt 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1519202068489129985][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 利用 Dataview + Blue Topaz + Markdown 辅助增强 + 导入到 Obsidian 插件，实现对标注的汇总与回顾
 
@@ -2442,11 +1929,8 @@ https://t.co/z0h5nfFcUi
 ![](https://pbs.twimg.com/media/FRa0ojkVIAAcN1g.jpg) 
 
 ![](https://pbs.twimg.com/media/FRa0r-LVUAA42hc.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1519601415315853312][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将简悦 · 同步助手部署在远程（ SaasS 化 ），方便多个扩展端共用一个同步助手
 
@@ -2456,11 +1940,8 @@ https://t.co/z0h5nfFcUi
 教程 👉 https://t.co/Fs7Ljuzfg6 
 
 ![](https://pbs.twimg.com/media/FS2i47iUAAA6zhD.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1526073495221723136][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 在网页标注自动同步到 Obsidain 并将快照自动同步到自建的 Vercel 上面
 
@@ -2472,11 +1953,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/js9hvSbhGE
 教程 👉 https://t.co/qJRuqFfLtQ https://t.co/yB6r1TxNQr 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1528607933084250117][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 做简悦马上五年整了（6月1日），没想到突然被 Chrome Webstore 首页推荐了。
 
@@ -2489,11 +1967,8 @@ https://t.co/z0h5nfFcUi
 ![](https://pbs.twimg.com/media/FTffwhhVEAA4qYx.jpg) 
 
 ![](https://pbs.twimg.com/media/FTffwheUsAE9nRZ.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1528937944001572864][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 在网页标注自动同步到 Obsidain 并将快照自动同步到自建的 Surge 上面
 
@@ -2505,22 +1980,16 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/6uDjLKqvvq
 教程 👉 https://t.co/qJRuqFfLtQ https://t.co/57AATycaoG 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1529301924087857152][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将当前阅读模式导入到 Notion 并发布为静态站，支持 Nobelium · NotionNext · https://t.co/byfAWt6knP
 
 演示 👉 https://t.co/0RhH2hZuDh
 详细 👉 https://t.co/RSzloRmUwE
 教程 👉 https://t.co/tGgY2qHcWZ https://t.co/sUk0cqleNb 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1529729352128024576][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 [Obsidian Plugin]SimpRead Unreader Sync - 自动同步简悦的稍后读（标注）到 Obsidian
 
@@ -2528,11 +1997,8 @@ https://t.co/z0h5nfFcUi
 
 详细 👉 https://t.co/xu1x0hYpJ2
 教程👉 https://t.co/QVi1vILQoA https://t.co/UlqPot3yW6 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1531156522826203136][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 同步助手 1.0.2 来啦
 
@@ -2550,11 +2016,8 @@ Linux 版 · 可定制化的 PDF 导出方案 · 优化 & 修复了 60+ Issues
 ![](https://pbs.twimg.com/media/FUx0q6-UYAUuHW9.jpg) 
 
 ![](https://pbs.twimg.com/media/FUx028CUUAEssZx.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1534731494073110528][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 PDF 辅助增强插件
 
@@ -2574,11 +2037,8 @@ PDF 辅助增强插件
 ![](https://pbs.twimg.com/media/FU3EGUSUcAAPut7.jpg) 
 
 ![](https://pbs.twimg.com/media/FU3EHmJUEAAl3rt.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1535098976885608448][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 更好的离线 Markdown 方案：以 md + assets 导入
 
@@ -2588,11 +2048,8 @@ PDF 辅助增强插件
 
 详细 👉 https://t.co/QOcH8Mfqtl
 知乎 👉 https://t.co/eGWkKk9yWx https://t.co/ttlm0FaKHw 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1535492760081342464][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 是的，你没看错，同步助手又双叒升级了，而且还是 1.1.0 版。😄
 
@@ -2607,11 +2064,8 @@ PDF 辅助增强插件
 3️⃣ URL Scheme
 
 详细 👉 https://t.co/BfdDNXeKju https://t.co/LHVo5DW50L 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1538716449660751872][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 Obsidian 这类工具的最大的弊端是：标注与编辑场景分割及标注的规则太弱。
 
@@ -2620,11 +2074,8 @@ Obsidian 这类工具的最大的弊端是：标注与编辑场景分割及标�
 简悦终于解决了这个问题：SimpRead Unreader Sync - 一站式标注及管理解决方案
 
 详细 👉 https://t.co/qkQZDuaNrb https://t.co/tTxyZoreSl 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1539083735324188673][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 基于同步助手 1.1.0 + SimpRead Unreader Sync 2.1.0 的文献笔记一站式解决方案
 
@@ -2636,11 +2087,8 @@ Obsidian 这类工具的最大的弊端是：标注与编辑场景分割及标�
 教程 👉 https://t.co/K3IsDbAY1G
 
 配置完就能实现视频效果。（此视频来自我站 Obsidian  资深大佬的手笔 https://t.co/cotBa5gEyj 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1539448529428414464][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将标注系统内置到 Logseq 的同步助手 1.1.1 来啦。 🎉 
 
@@ -2650,11 +2098,8 @@ Obsidian 这类工具的最大的弊端是：标注与编辑场景分割及标�
 
 详细 👉 https://t.co/0aaUgxTRw6
 教程 👉 https://t.co/drBgUDh1Pf https://t.co/Es7zlMn2AA 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1541613316547629056][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦适配了推文串（ Twitter Thread ）
 
@@ -2664,20 +2109,14 @@ Twitter 一直是我获取信息的重要渠道，很早之前就专门让简悦
 
 详细 👉 https://t.co/7NmKDSYgBq
 我的信息获取观 👉 https://t.co/OvtCUos6iN https://t.co/8GPM9sm990 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1542345068618477568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 在爱发电看到一个「狂热」的用户 😂 
 
 ![](https://pbs.twimg.com/media/FW9uJY2UEAAk_xT.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1544574495427440641][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将标注系统内置到 Roam Research 的同步助手 1.1.2 来啦。 🎉 
 
@@ -2687,22 +2126,16 @@ Twitter 一直是我获取信息的重要渠道，很早之前就专门让简悦
 教程 👉 https://t.co/IOonCH3mVd
 
 针对新用户的一站式教程 👉 https://t.co/llyiDkwOhW https://t.co/3V5RoCn3ay 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1547402772433121281][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 我很少用 wx 群，原因不说了，今天某笔记群让我进一步坚信了少用 wx 群的想法。
 
 为避免负向思维，放几个正向思考的点评「压压惊」。🤣 
 
 ![](https://pbs.twimg.com/media/FXtM3UwUYAIvxxb.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1547929725389119489][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 简悦入选 Edge 最热门榜单啦 🎉
 
@@ -2713,11 +2146,8 @@ Twitter 一直是我获取信息的重要渠道，很早之前就专门让简悦
 发出来算是对自己的一种变相勉励，也谢谢各位使用简悦的 Edge  用户。 
 
 ![](https://pbs.twimg.com/media/FXwn96kUIAEReKF.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1548162941756719105][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 插件管理器
 
@@ -2732,11 +2162,8 @@ Twitter 一直是我获取信息的重要渠道，很早之前就专门让简悦
 
 详细👉https://t.co/vVB74Jd4Fh
 教程👉https://t.co/iksVp8h9ZU https://t.co/vCfNqFunlA 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1548882221238345729][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 Notion 辅助增强 1.2.1 - 解决近期因 Notion API 无法导入的临时解决方案
 
@@ -2750,11 +2177,8 @@ Notion 辅助增强 1.2.1 - 解决近期因 Notion API 无法导入的临时解�
 
 详细👉https://t.co/vOXUjMlydr
 教程👉https://t.co/NVJNZjNBgQ https://t.co/OAztvQeDvd 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1550757241829003264][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 
@@ -2768,11 +2192,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 
 详细 👉 https://t.co/WKmfkZTlBw
 教程 👉 https://t.co/sgI4ZT1Io8 https://t.co/cKAIA8k7c3 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1551422774006059008][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 用滴答清单的 GTD 思路来解决稍后读越积越多的问题。
 
@@ -2784,11 +2205,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 教程 👉 https://t.co/VfSjfKzkDf 
 
 ![](https://pbs.twimg.com/media/FY4e8CYUEAEqle4.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1553213325252521984][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 基于同步助手 · 命令行版的 Docker 版来啦~
 
@@ -2800,11 +2218,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 教程👉https://t.co/xaaMdjgRoi 
 
 ![](https://pbs.twimg.com/media/FZNGSCgUIAItgdY.png) 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1554673669070196736][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 将阅读模式的图片上传到图床后自动触发导出方案，包括：触发插件的动作、导出到本地、导出到生产力工具 等。
 
@@ -2812,11 +2227,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 
 详细 👉 https://t.co/Ui8y6b7wmW
 教程 👉https://t.co/s8EbMwnRYC https://t.co/fNQmUseRab 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1555019485756567557][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 推文适配规则更新了，增加了：
 
@@ -2829,11 +2241,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 推文串👉https://t.co/9JYh6lTt08
 
 简悦用户一键安装👉https://t.co/IbxRU2XiSN https://t.co/lEUnhYstwK 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1555477199045607424][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 1️⃣ Obsidian 用户👉导入到 Obsidian
 2️⃣ Logseq orgmode 用户👉 导出 org-mode
@@ -2845,11 +2254,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 
 详细👉https://t.co/wvReT1ndUI
 教程👉https://t.co/s8EbMwnRYC https://t.co/5fVSVw0UM6 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1555805050877853696][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 近期有用户反馈知乎公式的功能不好使了，我研究了下发现是因为知乎公式从原来的图片模式改变为类似 MathJax 方案导致。
 
@@ -2857,11 +2263,8 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 
 详细👉https://t.co/x6kjAFnVz5
 教程👉https://t.co/lL1yUQUw19 https://t.co/SorSfcLUWF 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1556185866589970432][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 这是简悦官方推出的一个有声视频教程系列，感谢简悦资深用户 Yu jiale 的倾情奉声。😂
 
@@ -2871,7 +2274,4 @@ Logseq SimpRead Sync 已上架到 Logseq 插件中心。
 
 B站👉https://t.co/j08E7oadRf
 详细👉https://t.co/43zxez0D0o 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _🎉🎉🎉 全新的【简悦 2.0】来了 阅读模式..._ by @wanglei001 on Twitter
-*** [[https://twitter.com/wanglei001/status/1556916419022843907][View Tweet]]
+#+END_QUOTE\

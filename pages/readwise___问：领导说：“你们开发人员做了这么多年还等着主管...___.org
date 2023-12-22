@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
 问：领导说：“你们开发人员做了这么多年还等着主管给你们下发任务？”，领导这么说是不是不太符合软件工程管理？
 #软工好问题
@@ -25,7 +25,4 @@
 那么什么样的工具和流程才比较科学呢？… 
 
 ![](https://pbs.twimg.com/media/FzZx8R2aIAE-MM7.png) 
-#+END_QUOTE
-    date:: [[2023-06-25]]
-*** from _问：领导说：“你们开发人员做了这么多年还等着主管..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1672649605497131010][View Tweet]]
+#+END_QUOTE\

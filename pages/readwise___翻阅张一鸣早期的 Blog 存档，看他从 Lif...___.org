@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1699588709891608576/6M9I_5oH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-28]]
 #+BEGIN_QUOTE
 翻阅张一鸣早期的 blog 存档，看他从 lifehack 转了这么一篇《年轻时所不了解的事情》：
 
@@ -31,7 +31,4 @@
 - 狗改不了吃屎。骗子永远会找机会撒谎。忠实的人在众口铄金之下也能保持忠实。
 - 无论你怎么尝试改变，你总是你自己。
 - 世界上最响的声音就是人们的抱怨声。别再让它更响了。 
-#+END_QUOTE
-    date:: [[2023-08-28]]
-*** from _翻阅张一鸣早期的 Blog 存档，看他从 Lif..._ by @XDash on Twitter
-*** [[https://twitter.com/XDash/status/1695993471197475309][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 我们从期货和现货价格的变化上来分析庄家是否在平多建空单，准备砸盘结束。还是以庄家的角度来思考。
 
@@ -45,7 +45,4 @@
 
 当然，最终解释权还是在庄家手里，它永远可以选择不结束拉盘，如果庄家资金量足够庞大的话，或者操作的过程盈利非常充沛。在加密市场永远别做空，以上希望能对您的现货卖出止盈操作有所帮助，不希望用在合约交易上。🤚🤚🤚🤚
 码字不容易，希望来点点赞收藏<img src='https://pbs.twimg.com/media/F-oMW8DbAAA5rNP.jpg'/><img src='https://pbs.twimg.com/media/F-oMW8masAAzzmN.jpg'/><img src='https://pbs.twimg.com/media/F-oMW8GaIAAM405.jpg'/><img src='https://pbs.twimg.com/media/F-oMW8GboAAsozE.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _我们从期货和现货价格的变化上来分析庄家是否在平多..._ by @xiaomucrypto on Twitter
-*** [[https://twitter.com/xiaomucrypto/status/1723203548186624413][View Tweet]]
+#+END_QUOTE\

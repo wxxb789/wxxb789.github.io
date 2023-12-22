@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 精益画布（Lean Canvas）是创业教练Ash Maurya给的一套方法论。
 
@@ -27,14 +27,8 @@ https://t.co/auyf6qtF1R
 ![](https://pbs.twimg.com/media/F8KHJ0da0AAiyRG.jpg) 
 
 ![](https://pbs.twimg.com/media/F8KGGH1bwAAJCT-.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _精益画布（Lean Canvas）是创业教练As..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1712080748440932552][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 虽然是AI套壳工具，但多少有点用 哈哈 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _精益画布（Lean Canvas）是创业教练As..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1712081135059247592][View Tweet]]
+#+END_QUOTE\

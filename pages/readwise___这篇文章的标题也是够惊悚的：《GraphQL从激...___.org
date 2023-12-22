@@ -12,38 +12,26 @@
 :image-url: https://pbs.twimg.com/profile_images/1013108572501078016/n-XLSBg7.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-14]]
 #+BEGIN_QUOTE
 这篇文章的标题也是够惊悚的：《GraphQL从激动到欺诈》。不过文章中的列举的问题却是值得想做架构或软件设计的同学一读。如果你没时间读的话，我来帮你总结一下。https://t.co/ThFyxCEwcY 
-#+END_QUOTE
-    date:: [[2023-04-14]]
-*** from _这篇文章的标题也是够惊悚的：《GraphQL从激..._ by @haoel on Twitter
-*** [[https://twitter.com/haoel/status/1646305086489116678][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-14]]
 #+BEGIN_QUOTE
 1）一个端点干获取多个资源，看上去很爽，但实际上很糟糕。一方面带来了性能问题，另一方面破坏了API的接口契约（你完全不知道这个API的行为和返回的数据是什么），而且很难debug。
 
 2）强类型系统导致前后端的各种重复定义，Rest则是内部类型+ DTO的方式。 
-#+END_QUOTE
-    date:: [[2023-04-14]]
-*** from _这篇文章的标题也是够惊悚的：《GraphQL从激..._ by @haoel on Twitter
-*** [[https://twitter.com/haoel/status/1646305088678535168][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-14]]
 #+BEGIN_QUOTE
 3）没有error code设计，成功出错一律返回200，然后在 payload body的error message 里说明错误，所以，无法做监控（我以前写的《我做系统架构的一些原则》https://t.co/ne03PazvLx 讲过HTTP API设计的这个事）
 
 4）无API版本，分页，缓存全是骗人的，痛苦死了，对数据库的查询放大了。schema 澎胀…… 
 
 ![](https://pbs.twimg.com/media/FtjZwxLacAIdJfL.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-14]]
-*** from _这篇文章的标题也是够惊悚的：《GraphQL从激..._ by @haoel on Twitter
-*** [[https://twitter.com/haoel/status/1646305105292181504][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-14]]
 #+BEGIN_QUOTE
 又想起了那句话，开发一时爽，维护火葬场。代码80%的成本都是在维护，使用约束力强，简单，确定，标准，甚至愚蠢的东西，很多时候看上去并不那么灵活，但是会给你带来更低的维护成本。所谓是 KISS - Keep It Simple Stupid。 
-#+END_QUOTE
-    date:: [[2023-04-14]]
-*** from _这篇文章的标题也是够惊悚的：《GraphQL从激..._ by @haoel on Twitter
-*** [[https://twitter.com/haoel/status/1646305108840570880][View Tweet]]
+#+END_QUOTE\

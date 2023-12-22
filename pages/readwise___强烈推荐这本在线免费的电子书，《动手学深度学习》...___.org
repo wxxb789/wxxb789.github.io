@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/强烈推荐这本在线免费的电子书，《动手学深度学习》...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "强烈推荐这本在线免费的电子书，《动手学深度学习》..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1737459317102747701
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+强烈推荐这本在线免费的电子书，《动手学深度学习》，https://t.co/LY1nMOdebh，上线一年多时间，已经更新到了第二版，光看作者阵容就已经十分强大了，这本书也被上百所名校列为教材或参考书，当前也出版了实体书。
+
+本书的每个章节都是可以直接运行的 Jupyter 记事本，你可以在本地直接跑，也可以克隆到 Google Colab 在云端跑；讲解的时候，不仅结合文字、公式和图示来阐明深度学习里常用的模型和算法，还提供代码来演示如何从零开始实现它们，并使用真实数据来提供一个交互式的学习体验。
+
+第二版的内容是 2023 年更新的，手把手教你搭建 Bert/Transformer，各种语言框架都有，包括 Pytorch/Tensorflow/JAX 等，而且还支持中英文对照，英文域名是 https://t.co/Llb8ItDlOH，它对于初学者和有经验的深度学习从业者都是一份宝贵的资源。<img src='https://pbs.twimg.com/media/GByrvNgawAAHnRp.jpg'/> 
+#+END_QUOTE\

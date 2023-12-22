@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-25]]
 #+BEGIN_QUOTE
 如何让 GPT-4 帮你写Prompt？
 
@@ -40,11 +40,8 @@
 比如说我让它写一个翻译的Prompt，它不会写出先直译再意译的Prompt，只有你明确要求它分成两步翻译，它才能写出先直译再意译的Prompt。
 
 参考聊天会话：https://t.co/G1wmkvomz1 
-#+END_QUOTE
-    date:: [[2023-10-25]]
-*** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1716700422763618653][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-25]]
 #+BEGIN_QUOTE
 参考Prompt：
 
@@ -59,11 +56,8 @@ Prompt的结构：
 3. 限定输出格式，方便程序解析，例如JSON，或者特殊字符隔开的文本，没有无关信息
 
 这条消息只要回复OK，我将在接下来的消息中提出需要你帮助设计和撰写的Prompt。 
-#+END_QUOTE
-    date:: [[2023-10-25]]
-*** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1716700958174970323][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-25]]
 #+BEGIN_QUOTE
 我很喜欢GPT帮我写的一个例子：
 
@@ -93,16 +87,10 @@ Conveyed Meaning Translation:
 江河辽阔，船只远行。
 我们犹如眨眼间即逝的时光；
 我们的相遇如同天际与江水的融合。 
-#+END_QUOTE
-    date:: [[2023-10-25]]
-*** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1716701751410086114][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-25]]
 #+BEGIN_QUOTE
 好问题，如果对结果不满意，是可以进一步提要求的，比如我这个会话：https://t.co/zB45Q7l11N
 
 https://t.co/7Bm9Yj0xyT 
-#+END_QUOTE
-    date:: [[2023-10-25]]
-*** from _如何让 GPT-4 帮你写Prompt？ 很多..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1716702094198026362][View Tweet]]
+#+END_QUOTE\

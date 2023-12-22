@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-17]]
 #+BEGIN_QUOTE
 用phi-2做了一个不严谨的测试，随机生成 JSON dict（随机的key-value对）。让模型从中抽取指定 Key 的 Value。
 
@@ -27,11 +27,8 @@
 ![](https://pbs.twimg.com/media/GBe-r3NbMAA52XH.jpg) 
 
 ![](https://pbs.twimg.com/media/GBe-xqgbcAAbLk3.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-17]]
-*** from _用phi-2做了一个不严谨的测试，随机生成 JS..._ by @9hills on Twitter
-*** [[https://twitter.com/9hills/status/1736065951899234713][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-17]]
 #+BEGIN_QUOTE
 之后检查下脚本发出来代码。
 
@@ -44,7 +41,4 @@ Prompt 和中间 Token 的概率分布见附图。
 ![](https://pbs.twimg.com/media/GBfAgrNakAA2w3Y.png) 
 
 ![](https://pbs.twimg.com/media/GBfA8kcagAA601a.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-17]]
-*** from _用phi-2做了一个不严谨的测试，随机生成 JS..._ by @9hills on Twitter
-*** [[https://twitter.com/9hills/status/1736068339691315639][View Tweet]]
+#+END_QUOTE\

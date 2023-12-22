@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1504383027756994563/hojlV1Uv.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-06]]
 #+BEGIN_QUOTE
 机票怎么买最便宜
 
@@ -26,7 +26,4 @@ https://t.co/VruSAXFGMS
 ![](https://pbs.twimg.com/media/FoMpZTeakAAAmi0.jpg) 
 
 ![](https://pbs.twimg.com/media/FoMpZmXaYAAMMBR.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-06]]
-*** from _Tweets From 微博精选_ by @weibo_read on Twitter
-*** [[https://twitter.com/weibo_read/status/1622185815106523136][View Tweet]]
+#+END_QUOTE\

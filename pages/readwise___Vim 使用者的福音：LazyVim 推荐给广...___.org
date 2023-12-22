@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-18]]
 #+BEGIN_QUOTE
 Vim 使用者的福音：LazyVim
 
@@ -31,7 +31,4 @@ LazyVim是一个由 lazy.nvim 驱动的定制化的Neovim，使得定制和扩�
 ![](https://pbs.twimg.com/media/F1SFccBakAAsUYn.jpg) 
 
 ![](https://pbs.twimg.com/media/F1SFd7-acAIXSrB.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-18]]
-*** from _Vim 使用者的福音：LazyVim 推荐给广..._ by @vikingmute on Twitter
-*** [[https://twitter.com/vikingmute/status/1681115371418583041][View Tweet]]
+#+END_QUOTE\

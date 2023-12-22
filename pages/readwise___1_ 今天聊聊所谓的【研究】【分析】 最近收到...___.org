@@ -12,48 +12,36 @@
 :image-url: https://pbs.twimg.com/profile_images/1471684258364153857/2LP1ZoNw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 1/ 今天聊聊所谓的【研究】【分析】
 
 最近收到了一些分析师的简历，参加活动的时候也会遇到一些人问例如：刚毕业的学生想进入这行，想做研究怎么做？ 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497558999855939585][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 2/ 我先说一个结论啊
 
 做研究是一件很苦逼的事情
 
 大多数时候都挺枯燥的，甚至还有一些让人很厌烦的地方，不是很多不了解的人想的那样非常的 Fancy，在黑板/白班上画非常复杂的图啊流程啊什么的 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497559376021770252][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 3/ 大多数人接触到的 Crypto 的研究，或者说我接触到的也不是很深，不会到密码学、数学、计算机底层那些知识，各种回归模型，计量模型，假设检验也几乎用不到
 
 总之就是跟你想的真的不一样 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497559771188449281][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 4/ 我自己从毕业了之后就进了一个研究院，那是一个互联网金融/股权基金研究院，做的事情也非常枯燥
 
 做了一段时间就让我去研究密码学，还给我买了本密码学原理。说实话非常感谢那时候的领导，名字就不说了也是挺有名的。五道口的博士，哈佛的学者
 
 现在也在国内最顶级的机构做首席经济学家 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497560209686142980][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 5/ 当时说实话看的非常费劲。哈希函数啊，拜占庭将军问题，生日悖论，鸽笼问题等等
 
@@ -65,11 +53,8 @@
 这里分享一下 
 
 ![](https://pbs.twimg.com/media/FMhn1C0acAAuHBd.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497561065311576064][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 6/ 我只限于像我们这样的机构的研究啊，可以理解为炒币性质的研究
 
@@ -78,11 +63,8 @@
 这些人普遍都会有挺大的问题，特别是一些初学者但是自我感觉良好感觉能做好研究的
 
 最大的问题就是，乱、没有逻辑。一般碍于面子不好直接说，但是很多在我看来就是写了一堆垃圾 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497561923747217420][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 7/ 如果你想做好研究，范围是研究机构、基金、vc、交易所甚至媒体的研究，最重要的一点就是学好英文
 
@@ -94,11 +76,8 @@
 研究的结果最终不要怀疑，一定要以文字的形式呈现出来
 
 否则意义真的不大 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497562589928521728][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 8/ 所以记住，一定要写
 想的是一回事，能写下来写清楚又是另外一回事
@@ -108,22 +87,16 @@
 而且不管是任何问题，不管是多么复杂的问题，一定能够用非常非常简单的文字解释清楚
 
 如果你不行，不用怀疑，你一定是还没真的懂 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497563156889346048][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 9/ 我特别喜欢用下面的这个例子【差速器原理】
 对我来说，汽车工程里面的东西应该是挺复杂的
 特别是差速器，但是这个视频让我特别特别容易就理解了差速器到底是什么原理怎么工作的
 
 https://t.co/UzyAUXAs7t 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497563642031927296][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 10/ 解释一个东西一般分两种情况
 
@@ -135,40 +108,28 @@ https://t.co/UzyAUXAs7t
 或者介绍一个项目的时候用非常晦涩或者“高级”的词时
 
 他/她要么是不懂 要么是在装逼想骗你 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497564225040191497][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 11/ 所以回过头来，我在跟内部研究团队沟通的时候
 总会强调我们之前观点可以完全不同，从观点上你可以认为我是傻逼，我也可以认为你是傻逼
 
 但是到内容到逻辑上，即使完全不一样的结论，这个过程依然是可以探讨可以沟通的 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497564634936913923][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 12/ 再回到 Crytpo 的研究
 说了要么多看，要么多写的原则之后
 
 怎么看？怎么写？ 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497564781435580419][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 13/ 再给一个我个人的一些原则观点
 
 \- 拒绝别人二次加工的内容，不要别人已经咀嚼好的东西塞给你，那样你就不需要思考了，你自己在思想上会懒惰。当然如果你能够辨别的清，有经验除外 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497565489023033346][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 14/ 
 \- 尽可能找到新闻的源头，我特别喜欢链闻这个公司/产品
@@ -179,11 +140,8 @@ https://t.co/UzyAUXAs7t
 不是因为他们不好，恰恰是太好了
 
 会形成依赖，会停止思考，会真的【片面】 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497565956188827649][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 15/ 多用 Google，真的，多用谷歌
 
@@ -194,22 +152,16 @@ https://t.co/UzyAUXAs7t
 建议：搜关键词，然后根据关键词的结果看看人家是怎么搜的，然后再学习抄袭，然后再二次搜索 
 
 ![](https://pbs.twimg.com/media/FMhschGaQAI0ThP.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497566323358171139][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 16/ 深度的阅读和写作
 
 说实话我自己也时常焦虑，也能看到很多人（包括我）有时候都会游离于各个社交软件之间，这儿看看消息，那儿看看消息
 
 但是这种情况只能看到观点，或者事件的结果 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497566698383495168][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 17/ 很多人会错误的感觉，自己在什么地方看到了别人的观点，自己同意了
 
@@ -221,11 +173,8 @@ https://t.co/UzyAUXAs7t
 你只是在自我安慰你自己的焦虑
 
 你只是在欺骗自己 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497567025115598850][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 18/ 朋友们，你们相信我，这行的发展，真的没有那么快
 
@@ -234,11 +183,8 @@ https://t.co/UzyAUXAs7t
 真的不是这样
 
 我有时候也会这么说，但是那不都是吃饭聊天或者 social talking 说者无心，你真信啊你傻啊 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497567749559959553][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 19/ 就拿 AMM 来说
 AMM dex 是不是很多，百十来个有吧
@@ -249,11 +195,8 @@ AMM dex 是不是很多，百十来个有吧
 LBP 也能通过 V2 理解
 
 其他细分的赛道也是一样的啊朋友 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497568146462756864][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 20/ 不能项目方/VC 说什么你信什么啊
 他们说自己有创新，各种什么机制，各种名词
@@ -265,11 +208,8 @@ LBP 也能通过 V2 理解
 然后再判断
 
 无法判断的时候不用着急做判断 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497568514387111942][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 21/ 我讲实话可能有挺多人可能
 或者解释不清楚下面几个词的真正含义
@@ -280,11 +220,8 @@ LBP 也能通过 V2 理解
 
 我没有其他意思，我就是想表达
 浅尝辄止 真的很害人 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497569742126981120][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 22/ 我特别讨厌一种人，就是 Freerider，还有就是说的一个事情被人问两句就问住了
 
@@ -293,11 +230,8 @@ LBP 也能通过 V2 理解
 你自己没事的时候问问自己
 想要做到什么程度
 自己真的了解吗真的懂吗真的喜欢吗 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497570303194861568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 23/ 还有
 不要羞于承认自己的不堪，不要羞于承认自己的无知和不足
@@ -308,11 +242,8 @@ LBP 也能通过 V2 理解
 观点有问题也是很正常的
 
 我们都是一群智商差不多的【普通人】 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497570659203186690][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 24/ 静下心来把自己不明白的事情看清楚
 工作研究不是为了考试，不是考试侥幸考过了就过了
@@ -324,22 +255,16 @@ LBP 也能通过 V2 理解
 然后这三个不懂的概念又连带除了三十个不懂的概念
 
 因为一次搜索打开了三十多个网页 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497571213480435712][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 25/ 说了这么多只是为了分享一点新的体会，没有其他意思
 
 其实讲实话，很多问题你自己是知道的
 你只是因为懒惰不想自己去弄
 所以想找捷径 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497571546642382853][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 26/ 我们公司有个美国人
 
@@ -352,11 +277,8 @@ LBP 也能通过 V2 理解
 不踏实其实挺不体面的
 
 人活着毕竟还是要体面一点 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497571894287269889][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-30]]
 #+BEGIN_QUOTE
 27/ 说了太多有点像装逼了
 
@@ -370,7 +292,4 @@ LBP 也能通过 V2 理解
 与君共勉
 
 over 
-#+END_QUOTE
-    date:: [[2023-01-30]]
-*** from _1/ 今天聊聊所谓的【研究】【分析】 最近收到..._ by @0xwayne_z on Twitter
-*** [[https://twitter.com/0xwayne_z/status/1497572640789512194][View Tweet]]
+#+END_QUOTE\

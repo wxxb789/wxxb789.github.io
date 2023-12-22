@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1079879617681543169/3i2gaxfX.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 𝗛𝗼𝘄 𝗚𝗜𝗧 𝗪𝗼𝗿𝗸𝘀
 
@@ -49,14 +49,8 @@ If you like my posts, please follow me, @milan_milanovic, and hit the 🔔 on my
 Grow with me 🚀!
 
 #git #softwareengineering #programming #techworldwithmilan #developers 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _𝗛𝗼𝘄 𝗚𝗜𝗧 𝗪𝗼𝗿𝗸𝘀 Git Is A..._ by @milan_milanovic on Twitter
-*** [[https://twitter.com/milan_milanovic/status/1712102688006050288][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 If you want to learn more about Git, check my free weekly newsletter: https://t.co/RsnZAagwMP 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _𝗛𝗼𝘄 𝗚𝗜𝗧 𝗪𝗼𝗿𝗸𝘀 Git Is A..._ by @milan_milanovic on Twitter
-*** [[https://twitter.com/milan_milanovic/status/1712102822030778569][View Tweet]]
+#+END_QUOTE\

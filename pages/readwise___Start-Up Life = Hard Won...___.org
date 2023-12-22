@@ -12,96 +12,66 @@
 :image-url: https://pbs.twimg.com/profile_images/1378926301382279169/SA7mJnsA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Start-up life = hard won insights. Here are my top 10 for this year.
 
 1. Doing well at a start-up is not simply about skill, it is about mentality.
 
 A start-up mentality values action over correctness, results over process. It suits those that value autonomy over clarity. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609583986896171008][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 2.  Start-ups operate in wartime, not peace.
 
 Founders must therefore lead from the front -- charge into the mud, make decisive calls, and survive to battle another day. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609583989580525569][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 3.  To maximize learning, you need to doubt your knowledge.
 
 To maximize creative production, you need confidence in your knowledge.
 
 The inner game is maintaining this in balance. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609583992290037761][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 4.  Transparency and vulnerability are the fastest ways to earning trust.
 
 Don't hide problems. Run towards them, expose them to light and conversation, and marvel in the power of communal support. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609583994974400514][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 5.  Top performers like accountability.
 
 Accountability means caring, it means excellence matters, it means a commitment to something greater than ourselves. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609583997616816129][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 6.  We care about data because we feel a deeply human need to be masters of our own destinies.
 
 Analysis in the face of uncertainty is one way we wrest control from the whims of fate. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609584000162746374][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 7.  A great company fulfills a win-win exchange: individuals give their talent, effort and heart toward a purpose they find more meaningful and rewarding than the satisfaction of individual egos. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609584002851287041][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 8.  Being "successful" in a particular role at a particular company in a particular chapter of your life is not a reflection of your worth as a person.
 
 We can be objective about the effectiveness of a particular fit while maintaining love and respect for each other as people. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609584005514690568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 9. The price of rapid improvement is repeated failure. Doubt and discomfort are the entry price of excellence.
 
 It's your choice to play this game, of course. But if you do, recognize that there are no shortcuts to hard work and struggle. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609584008140316677][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 10. You sometimes feel things earlier than you can logically articulate them.
 
 Trust yourself enough to explore the feeling and learn something from it. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _Start-Up Life = Hard Won..._ by @joulee on Twitter
-*** [[https://twitter.com/joulee/status/1609584010820485122][View Tweet]]
+#+END_QUOTE\

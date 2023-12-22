@@ -12,55 +12,37 @@
 :image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 前几天预告过的新长文《构建外脑 / 智变时代的个人知识管理》正式发布！本文探讨了在 GenAI 变革之下，如何用新工具来帮助扩展大脑的记忆与思考边界，总结了这一年来积累的知识工作流的新方法，帮助大家激发潜能、构建外脑 🧠 ExoBrain https://t.co/yEdWwR0IM4 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _前几天预告过的新长文《构建外脑 / 智变时代的个..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1716282682530017372][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 语言代表了人类的智能，当我们思考的时候，实际上是在进行内心独白和基于语言的逻辑推理。同样，我们用和 LLM 之间的对话来实现快速理解，记忆唤起、想法连接和驱动外部软件自动完成工作，LLM 就像智能引擎一样成为了我们和外脑之间的心智界面👀 
 
 ![](https://pbs.twimg.com/media/F9F2QwPbwAA9HWx.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _前几天预告过的新长文《构建外脑 / 智变时代的个..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1716283323998429559][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 让外脑来帮助减轻记忆的负担，我们可以释放自己生物大脑的天性，去想象、创造和全神贯注！ INDIGO 的外脑心法流程图 
 
 ![](https://pbs.twimg.com/media/F9F2V8aaMAAjQjF.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _前几天预告过的新长文《构建外脑 / 智变时代的个..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1716283326028566639][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 如果你只想用一款软件来构建自己的外脑，那就是 Apple Notes 📒 
 
 ![](https://pbs.twimg.com/media/F9F2aoZboAApkt3.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _前几天预告过的新长文《构建外脑 / 智变时代的个..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1716283328066888170][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 对于一名日常阅读量巨大还经常要做内容输出的专业用户（Pro User），或者是重度知识工作者，还是希望捕获的效率更高、条理更清晰，有足够的空间让自己思考和创作。我按照自己的工作流，整理更新了一份「INDIGO 的外脑工具集」分享给大家🧐 
 
 ![](https://pbs.twimg.com/media/F9F2h6RbQAA7EHa.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _前几天预告过的新长文《构建外脑 / 智变时代的个..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1716283329576866048][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-29]]
 #+BEGIN_QUOTE
 将来，笔记不会由我们来组织，而是为我们组织，思考的终极工具是让工具会自己思考！强烈推荐阅读 Dan Shipper 的这篇在《The End of Organizing》
 https://t.co/jilITjUz7Q 
-#+END_QUOTE
-    date:: [[2023-10-29]]
-*** from _前几天预告过的新长文《构建外脑 / 智变时代的个..._ by @indigo11 on Twitter
-*** [[https://twitter.com/indigo11/status/1716283331342704864][View Tweet]]
+#+END_QUOTE\

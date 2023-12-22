@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1616018848028962818/k6T_4YLs.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 从某个方面讲，区块链是密码学的产物
 区块链最核心的2点：
@@ -21,21 +21,15 @@
 2）共识，用来确保一致性，属于分布式计算领域
 
 MPC和blockchian都是分布式系统，本篇作为学习笔记（之目录篇），写一下密码学、MPC、blockchian 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051079601721344][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 对称加密、非对称加密、哈希函数，基本上构成了所有密码算法层级
 \- 对称主要用于通信，通信之前需要做密钥（key）分享
 - key的产生用到非对称加密
 - hash做信息完整性校验，确保没有被篡改 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051082487250944][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 密码学协议包括：
 1 多放安全计算MPC
@@ -45,11 +39,8 @@ MPC和blockchian都是分布式系统，本篇作为学习笔记（之目录篇�
 4 机器学习FL
 5 差分隐私DP
 6 可信执行环境TEE 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051084467113985][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 MPC中一个重要概念是simulation，即将理想世界中的假想放到现实世界来实现（尤其指对信任的假想）需要关注的6个特点：
 1 input privacy
@@ -58,11 +49,8 @@ MPC中一个重要概念是simulation，即将理想世界中的假想放到现�
 4 fairness
 5 indentifiable abort
 6 publicly verifiable 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051086878855171][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 基于不可信任的不同等级，密码学中有以下几种安全模型：
 1 恶意的：最难解决
@@ -70,31 +58,22 @@ MPC中一个重要概念是simulation，即将理想世界中的假想放到现�
 3 折中的：以上两者的折中
 4 多数诚实的：假设大多数人是好人，例如2-3门限签名就是假设2人是好人，1人作恶
 5 多数不诚实的：与4同理 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051088963440642][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 混淆电路GC和不经意传输OT，这两个协议
 \- 适合逻辑运算，不适合算数运算
 - 基本都在研究两方而不是多方（虽然有很多人在研究怎么把2pc转为mpc） 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051090720833536][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 MPC最底层的技术：秘密共享SS，其本质是取一些点来拟合出一条曲线
 比较适合做线性运算，也就是加法，乘法不太行
 在构建MPC时，乘法也是一大难题
 SS继续进阶，有可验证的（VSS）和公开可验证的（pVSS）
 pVSS可以作为一个从密码学角度来理解的区块链，到目前为止还没有成熟的方案 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051092457279488][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 MPC完成数字签名的难点在于，如何用TSS完成一次非对称加密
 数字签名：
@@ -104,14 +83,8 @@ MPC完成数字签名的难点在于，如何用TSS完成一次非对称加密
 4 EdDSA
 5 Schnorr：做到了签名的聚合操作！
 6 BLS：基于椭圆曲线的聚合算法，ETH2.0 就在使用 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051094244052993][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 😭 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _从某个方面讲，区块链是密码学的产物 区块链最核心..._ by @0x30cF on Twitter
-*** [[https://twitter.com/0x30cF/status/1628051096240521216][View Tweet]]
+#+END_QUOTE\

@@ -12,21 +12,15 @@
 :image-url: https://pbs.twimg.com/profile_images/1085701406470750208/iG_bM0AH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-25]]
 #+BEGIN_QUOTE
 \- 开发指南：ChatGPT 插件开发（上） https://t.co/7HAXdLbQpc
 - 开发指南：ChatGPT 插件开发（下） https://t.co/6GMtCM5Pbg
 - 代码仓库 https://t.co/FgeDAYEB0V
 #ChatGPT 
-#+END_QUOTE
-    date:: [[2023-03-25]]
-*** from _- 开发指南：ChatGPT 插件开发（上） H..._ by @lencx_ on Twitter
-*** [[https://twitter.com/lencx_/status/1639292798775197697][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-25]]
 #+BEGIN_QUOTE
 昨天真的研究了一整天，饭都没顾上吃。我之前也没写过 python（花了一点时间学习项目配置，还看了一些 python 和依赖相关的文档）。然后把插件文档和 blog 撸了一遍，写下这两篇文章。我已经把服务跑起来了，可惜没有开发插件的权限来部署验证它。 
-#+END_QUOTE
-    date:: [[2023-03-25]]
-*** from _- 开发指南：ChatGPT 插件开发（上） H..._ by @lencx_ on Twitter
-*** [[https://twitter.com/lencx_/status/1639330649470537729][View Tweet]]
+#+END_QUOTE\

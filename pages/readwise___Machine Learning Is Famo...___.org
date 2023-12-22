@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1628461327646707713/A3wjBms3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-20]]
 #+BEGIN_QUOTE
 Machine learning is famous for its open resources.
 
@@ -26,11 +26,8 @@ We collected 3 free courses about ML:
 🧵 
 
 ![](https://pbs.twimg.com/media/FrmKZEqXwAMk0Lm.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-20]]
-*** from _Machine Learning Is Famo..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1637492126358315011][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-20]]
 #+BEGIN_QUOTE
 Introduction to Machine Learning, Leslie Kaelbling
 
@@ -39,11 +36,8 @@ Introduces principles, algorithms, and applications of machine learning from the
 🔗 https://t.co/NzjUGSDW5T 
 
 ![](https://pbs.twimg.com/media/FrmKZaZXsAEXmrw.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-20]]
-*** from _Machine Learning Is Famo..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1637492131269947394][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-20]]
 #+BEGIN_QUOTE
 Mathematics for Computer Science, Albert R Meyer
 
@@ -56,11 +50,8 @@ An interactive introduction to discrete mathematics oriented toward computer sci
 🔗 https://t.co/cw2vOLUHna 
 
 ![](https://pbs.twimg.com/media/FrmKZt6X0AAYolK.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-20]]
-*** from _Machine Learning Is Famo..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1637492136043069441][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-20]]
 #+BEGIN_QUOTE
 Practical Deep Learning, @jeremyphoward
 
@@ -71,7 +62,4 @@ Includes hands-on coding exercises and real-world examples.
 🔗 https://t.co/RmzV88UoYf 
 
 ![](https://pbs.twimg.com/media/FrmKaCBWIAISCUq.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-20]]
-*** from _Machine Learning Is Famo..._ by @TheTuringPost on Twitter
-*** [[https://twitter.com/TheTuringPost/status/1637492141407567872][View Tweet]]
+#+END_QUOTE\

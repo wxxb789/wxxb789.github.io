@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 <a href="https://twitter.com/dotey">@dotey</a> logprobs最直接的用处是计算模型当前输出的困惑度。简单的说就是模型输出的token概率越高，证明模型越确认，困惑度越低。
 
 如果输出的token概率比较低，证明模型自己也比较困惑，此时可能出现幻觉的概率比较大。
 
 你可以让模型输出N个回答，然后选其中困惑度最低为正确答案。 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _Tweets From 九原客_ by @9hills on Twitter
-*** [[https://twitter.com/9hills/status/1735924780212363568][View Tweet]]
+#+END_QUOTE\

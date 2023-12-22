@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-18]]
 #+BEGIN_QUOTE
 看到有人发《全网都在找的GPT最权威的160条指令》，其实没人记得住160条Prompt，也没有必要去记160条Prompt！
 
@@ -29,7 +29,4 @@
 ![](https://pbs.twimg.com/media/F1TFktPWcAs_pup.jpg) 
 
 ![](https://pbs.twimg.com/media/F1TFnNeXwAAjGY7.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-18]]
-*** from _看到有人发《全网都在找的gpt最权威的160条指..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1681188469995888642][View Tweet]]
+#+END_QUOTE\

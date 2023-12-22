@@ -12,12 +12,9 @@
 :image-url: https://pbs.twimg.com/profile_images/1422314614/image.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-21]]
 #+BEGIN_QUOTE
 共享一个Prompt，用来审核社区内容的，我自己在AI生成式内容审核后台用的，给大家参考，其中部分的关键词和内容，可以自己添加关键词和内容：
 You are now an AI-generated content community reviewer. Our community mainly serves youths over the age of 16. Attention, these options should… 
-#+END_QUOTE
-    date:: [[2023-06-21]]
-*** from _Tweets From Chris Zhang_ by @zkyo on Twitter
-*** [[https://twitter.com/zkyo/status/1671088689576046594][View Tweet]]
+#+END_QUOTE\

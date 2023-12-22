@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/898858078770266114/g3kgFgkG.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 VanillaNet: the Power of Minimalism in Deep Learning
 
@@ -30,21 +30,12 @@ https://t.co/XagNt0jNLx
 ![](https://pbs.twimg.com/media/Fwz5gyvXsAIYtE-.jpg) 
 
 ![](https://pbs.twimg.com/media/Fwz5kisXoAAEMbU.png) 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
-*** [[https://twitter.com/ducha_aiki/status/1660976837181206531][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 @wightmanr 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
-*** [[https://twitter.com/ducha_aiki/status/1660993789802995712][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 At @oliver_batch pointed out, seriesAct is stack of BN(Conv2d 7x7(ReLU))) 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _VanillaNet: The Power Of..._ by @ducha_aiki on Twitter
-*** [[https://twitter.com/ducha_aiki/status/1661038531794403329][View Tweet]]
+#+END_QUOTE\

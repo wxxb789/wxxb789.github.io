@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 GPT4ALL，https://t.co/Rsb1xeWetb，是一个可以在本地运行且无需联网的大模型客户端软件，它的特点是在低配如 4G~8G 内存的消费级电脑上也能跑，无 GPU 要求，模型文件的大小在 3G~8G 左右，都是经过定制微调的可插拔 LLMs，效果优于 GPT-3，媲美 GPT-3.5。
 其实这样的模型非常多，基本思路跟斯坦福开源的 Alpaca 是一致的。Alpaca，https://t.co/yPzjhSf3E1，是一个基于 LLaMa-7B 的微调模型，微调指令是使用 175 条种子任务通过 GPT-3.5 泛化生成的，共 5.2w 条，训练后的基准测试效果堪比 GPT-3.5，当然也存在很多缺陷，但瑕不掩瑜。
@@ -23,7 +23,4 @@ GPT4ALL 同样也是基于 LLaMa-7B 微调的，只不过它用到的微调指�
 如果你有自己的数据集，并且具备微调设备和编码能力，当然也可以选择自己来微调 LLMs 来满足需求，但对于大部分不具备条件的人来说，使用 GPT4ALL 来体验开源免费的大模型，还是非常方便的，私密性也可以得到保障。在官网看到不少微调过的大模型可供选择，目前还在持续更新中。
 
 对应的项目源码在这里：https://t.co/jBGUXTvnVb<img src='https://pbs.twimg.com/media/GAqX3pNaMAAIQs2.jpg'/><img src='https://pbs.twimg.com/media/GAqYPVsbcAAwm_w.jpg'/><img src='https://pbs.twimg.com/media/GAqYakNaYAAUIuo.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _GPT4ALL，https://t.co/Rsb..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1732365354943553917][View Tweet]]
+#+END_QUOTE\

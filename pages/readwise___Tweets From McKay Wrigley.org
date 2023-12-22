@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1552979440547704832/WX5crG9I.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-18]]
 #+BEGIN_QUOTE
 LangChain 101: Indexes is up!
 
@@ -28,7 +28,4 @@ Full @Replit project with 50min video that covers @LangChainAI indexes.
 Take course: https://t.co/Ql5fSdQz0o 
 
 ![](https://pbs.twimg.com/media/FwWabClaEAAnVCl.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-18]]
-*** from _Tweets From McKay Wrigley_ by @mckaywrigley on Twitter
-*** [[https://twitter.com/mckaywrigley/status/1658901830313861120][View Tweet]]
+#+END_QUOTE\

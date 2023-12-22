@@ -13,18 +13,12 @@
 :image-url: https://static001.geekbang.org/resource/image/1a/c1/1a82b1ebeb0a1de737d6dbc3d09297c1.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE
 英文中有个词叫“low hanging fruit”，字面意思是“挂得很低的、容易摘的果实”，含义是那些容易实现的目标。我相信，一个真正的聪明人，应该学会用更少的精力去摘到那些生活中的 low hanging fruit。和解决你工作中那些极端刁难人的问题相比，进行有效的财富管理就是“容易摘的果子”。 
-#+END_QUOTE
-    date:: [[2023-04-08]]
-*** from _开篇词｜为什么说程序员最适合学财富管理？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxg4z620vt5jesfaftjbneq5][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/8f/04/8f0bcd30370d206f8572a2d7ab37c504.jpg?wh=2248x2181) 
-#+END_QUOTE
-    date:: [[2023-04-08]]
-*** from _开篇词｜为什么说程序员最适合学财富管理？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxg502bqtq46na3wkqy66jqb][View Highlight]]
+#+END_QUOTE\

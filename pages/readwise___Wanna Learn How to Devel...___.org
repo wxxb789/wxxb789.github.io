@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1658534276441202695/kIUUmbk9.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-09]]
 #+BEGIN_QUOTE
 Wanna learn how to develop and **deploy** a cutting-edge NLP product, using
 
@@ -21,7 +21,4 @@ Wanna learn how to develop and **deploy** a cutting-edge NLP product, using
 → managing 0 infrastructure 🎉
 
 Here is an ML product you can develop and ship today, step-by-step 👩🏽‍💻👨‍💻↓↓↓ 
-#+END_QUOTE
-    date:: [[2023-07-09]]
-*** from _Wanna Learn How to Devel..._ by @paulabartabajo_ on Twitter
-*** [[https://twitter.com/paulabartabajo_/status/1645759412143792128][View Tweet]]
+#+END_QUOTE\

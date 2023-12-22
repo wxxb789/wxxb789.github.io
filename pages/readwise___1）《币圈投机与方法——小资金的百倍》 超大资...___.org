@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1546148012669292545/BdXvKkv9.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 1）《币圈投机与方法——小资金的百倍》
 
@@ -26,11 +26,8 @@
 币圈是投机场，机会多、风险高、迭代快，无非怎么投机。 
 
 ![](https://pbs.twimg.com/media/Fl6yc3iaMAAmqw9.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611921950632476675][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 2）一是重大时机
 
@@ -39,11 +36,8 @@
 我再次通过体制内的关系确认，确信大事要来，让所有群友清仓，漂亮地逃在了高点，纯消息面，但秒杀一切理论和K线。
 
 清仓后，其实投机机会来了。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611923055479238657][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 3）币圈就是一个投机场、消息面，只要你掌握的信息够准、够多、够快，然后就是行动要快了。
 
@@ -52,11 +46,8 @@
 我不记得我有没有开，可能有，但一定仓位很小，因为我沉迷在平常的K线中，对重大机会很麻木。
 
 这是教训，不过后来有用。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611923612294057984][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 4）记得我当时到处发群公告时，另外一个电报群，我偶然看到有人评论我说：大宇那SB又在唱空之类；
 
@@ -67,11 +58,8 @@
 其实，发现了吗？他们也很迟钝。
 
 请大家记住：重大机会或风险来临时，我们很可能都很迟钝！ 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611924166508445699][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 5）例2：
 
@@ -84,11 +72,8 @@ $LUNA 暴雷，当天我在电报群发：跌破63，可能引发死亡螺旋。
 第二天起来崩了。我小仓参与赚了点，但总觉得这么多聪明人总会想办法。
 
 结果：他们也是人。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611925460983906304][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 6）例3：
 
@@ -97,11 +82,8 @@ FTX爆雷，这是我最成功的一次。我是最早在中文区翻译《SBF�
 我不但让群友全部提币成功，自己也做空大赚了一笔——遗憾的是判断有误，对SOL和FTT哪个跌得快判断错误。
 
 这是在前面2次错过机会之后才开始反思，光价值投资没用？ 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611925986899263495][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 7）上面提到合约，我要强调：
 
@@ -112,11 +94,8 @@ FTX爆雷，这是我最成功的一次。我是最早在中文区翻译《SBF�
 不懂的人干脆不要碰，少亏就是赚，相信我！后面我会写合约之外的投机。
 
 懂的推荐在我置顶中的交易视频教程，很系统 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611927172545122307][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 8）二、市场情绪
 
@@ -130,11 +109,8 @@ FTX爆雷，这是我最成功的一次。我是最早在中文区翻译《SBF�
 投资决策
 
 每一步都很重要，我展开讲一下。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611927793583161345][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 9）找到机会
 
@@ -145,11 +121,8 @@ FTX爆雷，这是我最成功的一次。我是最早在中文区翻译《SBF�
 找到什么币在涨不难，很多工具都行，我是在 https://t.co/AQY6Jx7BxU 的app的发现板块注意到。
 
 机会稍纵即逝，得天天关注。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611928324976304132][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 10）研究机会
 
@@ -161,11 +134,8 @@ FTX爆雷，这是我最成功的一次。我是最早在中文区翻译《SBF�
 等等。
 
 其中最重要的一点其实是情绪，这一点在NFT上也一样，核心不是这个项目怎么样，而是这个项目会不会在未来几天获得更大关注？更多人来买？ 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611928777545912320][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 11）投资决策
 
@@ -174,11 +144,8 @@ FTX爆雷，这是我最成功的一次。我是最早在中文区翻译《SBF�
 V神当时发推是一方面，但一定还有别的原因。结合我看到 $BONK 以及这个官网白皮书都没有的土狗，无论是degods还是Magic eden都是顶流，都在讨论。
 
 于是我知道，买 $SOL 和 $BONK 错不了。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611929242312347649][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 12）在sol 10附近满仓买入，研究买多少 $BONK，决定梭80%，分析写在了以前长推不展开，离发推离场，差不多4倍。
 
@@ -187,11 +154,8 @@ V神当时发推是一方面，但一定还有别的原因。结合我看到 $BO
 我在0.0X2时感觉要波动一下，冲着999%ARP的收益，把20%的SOL和等值的币做了LP。
 
 第二天一早，币价涨到45，bonk全变为了SOL，数量从20变为23%，少赚一大笔。😂 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611930722167844866][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 13）损失源于对DeFI认知的缺陷，也是我在 X2Y2 蒙受损失的原因——交易挖矿的后果缺乏敬畏。
 
@@ -200,11 +164,8 @@ V神当时发推是一方面，但一定还有别的原因。结合我看到 $BO
 另外一位DeFI大牛，对交易挖矿的DYDX一路做空，赚到吐血——我甚至还在早期锁仓过少量DYDX😂
 
 能不能把握机会总是取决于你的认知。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611931773566619649][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 14）三是其他
 
@@ -217,11 +178,8 @@ V神当时发推是一方面，但一定还有别的原因。结合我看到 $BO
 无论涨还是跌都赚，如果上下震荡，2个单子锁仓，略亏手续费。
 
 当时发推后删，朋友说人多了不灵。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611933027915173888][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 15）市场情绪有另外一个非常重要的点是用于NFT买卖
 
@@ -230,11 +188,8 @@ V神当时发推是一方面，但一定还有别的原因。结合我看到 $BO
 我总是希望发现那些已经上市，并有更多证据供我判断的项目，我只需要研究后续市场情绪如何，这时候才有机会重仓，不重仓赚个猪脚饭？那是浪费生命！
 
 逻辑和前面BONK是一样的。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611933573921087488][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 16）举一些正面的例子
 
@@ -245,11 +200,8 @@ V神当时发推是一方面，但一定还有别的原因。结合我看到 $BO
 他们不搞推特宣传，T掉各路大V，群里互相喊单。
 
 跌到我成本价1E郁闷离场。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611934846263382018][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 17）这里面其实不就是情绪面占据了主导，导致上升，由于项目方不行，导致了失败。
 
@@ -258,66 +210,48 @@ V神当时发推是一方面，但一定还有别的原因。结合我看到 $BO
 BONK官推每天新增一万，中文区就我在说，海外名人很多转推，那？
 
 反之？卖呀！ 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611935205320953857][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 18）投机很综合，我过去能把握什么项目能涨，但我自己太看重价格，看重长线，所以很难赚到投机的钱。
 
 实际上，回看一下NFT项目，BAYC早期我们把握不住。其他项目除了AZUKI，哪一个不是一波流的热度？包括月鸟之流。
 
 那这个时候不讲投机讲什么呢？那些说着永远不卖的很可能是托或是自我洗脑的傻蛋。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611935927890501632][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 19）哥布林这个项目我一度很看好，不过这个时候我的投资逻辑要比之前好太多了。
 
 因此我在上涨到6E时官方发空投时，就大吃一惊，甚至大失所望，想要全清。在女朋友小红的强烈要求下，才稳住了不卖。
 
 结果后来官方昏招连出，小红让我不卖，我一个接化发就打退了，然后在3.5左右挂地板墙出掉。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611936528611307525][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 20）当时持有哥布林的群友让我你卖就卖，不要去讲了。
 
 而知道我卖了的人在哥布林的群里天天喷我：大宇那个SB懂什么？他根本不是什么好人云云。
 
 其实，上述两类人都不是成熟的投资者，投资一个东西你很看好，其实更需要不同声音——就像我没听我朋友关于X2Y2交易挖矿的一样。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611937121228713987][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 21）换个角度，当某个NFT社区持有者都是这样的人时，你就知道，必须立刻马上清仓！
 
 记得屎兽吗？当时有多狂热？谁说屎兽不好就喷谁，我发了一条推，底下全是喷子，有惊到。
 
 不过我3个ETH清掉的东西，现在零点零几了吧？同样，昨天我发了一个提醒船长炒得太火热小心接盘的，很意外，各种被人身攻击。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611937689363963906][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 22）我AZUKI 在3.5时满仓进场，15左右全清，但仍然看好。
 
 后来在团队出事后，因为我认为团队格局对一个项目太重要，因此判断价值只值1E，但画风值3E，因此稳在5左右OK，后来是6。
 
 不过我后面一直没买AZUKI，因为我在AZUKI的中文区大群，看到了几个和上面一样的持有者，十分高傲且愚蠢，不看好社区。 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611938299098333184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 23）不过，后来经历最严重的FUD后，AZUKI稳在了10，这里面既有团队操盘，也有一个原因：
 
@@ -326,27 +260,18 @@ BONK官推每天新增一万，中文区就我在说，海外名人很多转推�
 回到船长，我怎么捕捉和判断情绪的？还没有发图就火热，白单就炒到3，后面项目方压力很大。
 
 猴子地回看一下？ 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611938715299098625][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 24）此外，也是时候揭开一个小秘密了。当时哥布林项目我卖时，其实我写了很多观点，但大家都不让我说，我也就不说了——这也导致我挨了很多骂：割韭菜、喊单、纸手等
 
 但我当时其实已经偷偷更新在了MIRROR的文档中，有兴趣的去看：
 
 https://t.co/r7xY4nE08g 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611940064946458625][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-09]]
 #+BEGIN_QUOTE
 25）最后，我前几天重新开始在电报群交流，那是感受情绪最直接的地方，有兴趣的可以来聊，永久免费：
 
 https://t.co/6Q2VlsVHej 
-#+END_QUOTE
-    date:: [[2023-01-09]]
-*** from _1）《币圈投机与方法——小资金的百倍》 超大资..._ by @BTCdayu on Twitter
-*** [[https://twitter.com/BTCdayu/status/1611940119015231491][View Tweet]]
+#+END_QUOTE\

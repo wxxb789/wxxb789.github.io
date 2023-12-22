@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/极大降低推理成本！微软提出 LLMLingua...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[nash_su on Twitter]]
+:full-title: "极大降低推理成本！微软提出 LLMLingua..."
+:category: [[tweets]]
+:url: https://twitter.com/nash_su/status/1737674255805079904
+:image-url: https://pbs.twimg.com/profile_images/1113084498197934081/upZQx3_i.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+极大降低推理成本！微软提出 LLMLingua 方案
+超长上下文尤其是RAG类的应用，是现在LLM的主流应用之一，但是超长上下文带来的是超高的成本。
+微软提出的方案是使用小模型对prompt进行压缩，增加信息密度，然后再给大模型推理，最高可以做到20x的压缩，极大的降低了成本。
+https://t.co/pUnsJNotlq 
+
+![](https://pbs.twimg.com/media/GB11T0sbkAAlzjX.jpg) 
+
+![](https://pbs.twimg.com/media/GB11UcTbIAA1XCF.png) 
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1516067905997205506/i90MTf42.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 一人血书！！按头安利！！
 推荐英语口语神器：Aboboo，我发誓这是我用过最好的学英文软件，没有之一！！混币圈，立志要学好英语的，一定一定要下载，每个功能都超级实用！
@@ -25,21 +25,15 @@
 …👇 
 
 ![](https://pbs.twimg.com/media/FtZl-7oacAAPt3w.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619047902633985][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 下面分享几个我常用的功能：
 ① 超级多的线上课件：雅思口语，PTE机经，英语新闻全都有，因为课件也有很多用户上传的内容，所以基本涵盖了方方面面，甚至还有日语，韩语。 
 
 ![](https://pbs.twimg.com/media/FtZmfJBaEAUO5XR.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619050784129024][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 ② 逐句精听精读模式。
 
@@ -52,11 +46,8 @@
 ![](https://pbs.twimg.com/media/FtZnHG7acAIlkrA.jpg) 
 
 ![](https://pbs.twimg.com/media/FtZnHG5aEAAhern.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619054596755458][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 ③ 综合模式背单词。
 
@@ -65,40 +56,28 @@
 记忆模式能选择中文 or 英文。 
 
 ![](https://pbs.twimg.com/media/FtZn2LOacAEfMDW.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619057654374400][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 选择题的方式也适合速刷单词。 
 
 ![](https://pbs.twimg.com/media/FtZn7tcaYAEKP0g.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619060615581696][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 ④ 最喜欢的还是语音模式，里面自带音波还有语调的纠音。不管是记忆整个句子，还是说纠正发音，都非常非常有用，而且好玩，因为里面有评分，所以整个体验下来就很象是玩游戏。
 
 最关键的是：还能自己上传句子！！！ 
 
 ![](https://pbs.twimg.com/media/FtZoBf7aMAAw5P4.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619063559946242][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 ⑤ 类似 GitHub 的每日打卡功能，让人有种打怪升级的成就感。👇有账号还能加好友，一起刷。 
 
 ![](https://pbs.twimg.com/media/FtZoeGfaAAAMecp.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619066399522817][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 ⑥ 其实还有很多功能可以用，但我一般用得比较多的还是红框的这些。感觉已经够我日常的所有需求了…
 
@@ -108,11 +87,8 @@
 https://t.co/rNzgWu3SkA 
 
 ![](https://pbs.twimg.com/media/FtZokenaMAAeNqx.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619069499109377][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE
 不夸张的说，我提到的只是这个软件功能的 1/10，有很多好用的点我没有细说。
 
@@ -120,7 +96,4 @@ https://t.co/rNzgWu3SkA
 
 求求你们，想要学英语一定要去下载试一下。
 （回头就能用英文骂海外项目方了！） 
-#+END_QUOTE
-    date:: [[2023-04-12]]
-*** from _一人血书！！按头安利！！ 推荐英语口语神器：Ab..._ by @Penny777_eth on Twitter
-*** [[https://twitter.com/Penny777_eth/status/1645619072376373249][View Tweet]]
+#+END_QUOTE\

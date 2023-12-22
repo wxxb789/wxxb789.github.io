@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 又重新听了一遍罗翔的《如何在阅读中超越有限的今生》，他的语言总是可以促使人去寻找内心的平静，不卑不亢。他认为阅读分为四个境界，分别是：
 
@@ -42,7 +42,4 @@
 斯威格说，让我们泰然若属，与自己的时代狭路相逢，与自己当下的时刻狭路相逢，做好人生中每一个节点该做的事情，我们有太多要做的事情，但是我们做的事情太少了。
 
 罗翔的很多思考，也是从书中获得的，甚至将书中的世界观、人生观和价值观融入到了自己的行为准则中，这些书籍值得读一读。 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _又重新听了一遍罗翔的《如何在阅读中超越有限的今生..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1734745964928434559][View Tweet]]
+#+END_QUOTE\

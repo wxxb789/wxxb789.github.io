@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1695490193007214593/ScJQC8nk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 我是如何开发我的第一款产品BilibiliSummary，为什么放弃收费，最后如何在放弃开发的！！！
 
@@ -24,11 +24,8 @@
 5. 总结反思
 
 https://t.co/5kDT2rn7W9 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646711735730176][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 1/n 
 灵感获取：
@@ -36,11 +33,8 @@ https://t.co/5kDT2rn7W9
  在上次开发了英语学习软件后，我其实就没有改进这个软件的意思，因为我觉得这个软件太简单了。我一直想做一个属于自己的产品。就是能收费的那种。
 
 我躺在床上思来想去，刷着推特，突然发现，我关注的博主 @oran_ge，下面这么一条推特。 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646714927611904][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 2/n
 灵感获取：
@@ -48,11 +42,8 @@ https://t.co/5kDT2rn7W9
 大意就是他一直想做一款视频总结软件，现在上就有人把youtube视频总结软件做出来了。
 
 我突然间又领悟了，我产品思维不行，但是大佬产品思维行呀，他希望做的东西，我就帮他实现了呗。就这样我凭空多出了个产品经理来给我开发的主意了。 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646717876211718][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 3/n
 产品改进和发展
@@ -63,22 +54,16 @@ https://t.co/5kDT2rn7W9
 如何总结视频，
 长文本如何处理
 https://t.co/vIcLmmJ0EP 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646721227423747][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 4/n
 产品改进和发展
 
 如何总结视频：与其说是对视频总结，不如说是对字幕总结。
 长文本如何处理：作者将长文本抽取出奇数行，设定一个大小，假如没有超出这个，就会讲偶数行插回到文本中。（现在大部分总结应用，都还是保留着这个做法） 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646724389937152][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 5/n
 产品改进和发展
@@ -92,11 +77,8 @@ https://t.co/vIcLmmJ0EP
 ![](https://pbs.twimg.com/media/FwEb-cUaQAAgJ5F.png) 
 
 ![](https://pbs.twimg.com/media/FwEcBe8aAAAJxRt.png) 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646727309168640][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 5/n
 产品改进和发展
@@ -109,11 +91,8 @@ https://t.co/vIcLmmJ0EP
 1. chatgpt连接有时候不稳定，希望使用api
 2. 希望能总结长视频不丢失内容
 3. 有时间线模式 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646730412978176][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 6/n
 产品改进和发展
@@ -124,11 +103,8 @@ https://t.co/vIcLmmJ0EP
 
 逆向的过程中我推测出了plugin模式的加入
 https://t.co/WRRDYEPwoA 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646733424467969][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 6/n
 产品改进和发展
@@ -145,22 +121,16 @@ https://t.co/WRRDYEPwoA
 ![](https://pbs.twimg.com/media/FwEejVfaMAAzIsR.jpg) 
 
 ![](https://pbs.twimg.com/media/FwEewtMaYAY5iFs.png) 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646736607969280][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 7/n
 产品改进和发展
 我的项目上开始聚集了不少issue，开始问我如何实现的。群里，微信里，都有不少人来问我。
 
 说实话我有点反感，因为这个明明是我的核心优势，而且代码还是开源的。 后来想想，还是算了，我几乎都解答了。要不然不是开源了。 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646740105986048][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 8/n
 产品宣传
@@ -174,11 +144,8 @@ https://t.co/WRRDYEPwoA
 ![](https://pbs.twimg.com/media/FwEgNE6acAIZplD.jpg) 
 
 ![](https://pbs.twimg.com/media/FwEjuBLaMAEaGTP.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646743104933889][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 9/n
 为何放弃收费和放弃开发
@@ -188,11 +155,8 @@ https://t.co/WRRDYEPwoA
 后来发现，搞这个人越来越多，而且十分大胆，我没有团队和时间，而且本来就是开源的免费产品，技术的壁垒很容易被跨过。
 
 上班也比较累，鼠标手经常发作。 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646746024173568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 10/n
 为何放弃收费和放弃开发
@@ -203,29 +167,20 @@ https://t.co/WRRDYEPwoA
 
 综合之下，我放弃了开发。
 https://t.co/vvHAql0QbI 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646748582694915][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 总结：
 
 接力打力：从成熟的产品经理中获取有价值的开发思路。
 
 用户反馈：根据用户的需求投入时间，发挥自己的技术长处做出，领先别人的产品。 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646751657103360][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-14]]
 #+BEGIN_QUOTE
 反思;
 
 缺乏团队：没有一个团队，很多问题没时间去调研，也没有人帮忙宣传，考虑各种风险，很难和成熟的团队竞争。
 
 缺乏激励：做得是免费应用，没有激励，技术上过于简单，看到其他新奇的东西就觉得自己太low了。而且因为没有收入，也无法激励别人。 
-#+END_QUOTE
-    date:: [[2023-05-14]]
-*** from _我是如何开发我的第一款产品BilibiliSum..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1657646754295324673][View Tweet]]
+#+END_QUOTE\

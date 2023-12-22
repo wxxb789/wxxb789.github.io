@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/1484538965109907461/VaQu5_PI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 If you want to learn Notion for free, open this thread 🧵 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201083427852289][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 1. Ali Abdaal - How I use Notion
 
@@ -29,11 +26,8 @@ Learn how to improve your productivity for life, work, and studies with Notion.
 🔗  https://t.co/OzjrBn0hLC 
 
 ![](https://pbs.twimg.com/media/Fk3s4K3XgAIHU3O.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201095482212353][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 2. Notion - Notion 101
 
@@ -42,11 +36,8 @@ Learn everything you need to know to get started using Notion.
 🔗 https://t.co/pGgGOzelDM 
 
 ![](https://pbs.twimg.com/media/Fk3s432XEAAo-ep.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201107113025537][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 3. Red Gregory - Notion Formulas
 
@@ -55,11 +46,8 @@ Learn the use cases of basic and advanced formulas in Notion.
 🔗 https://t.co/OI8QjwrRlU 
 
 ![](https://pbs.twimg.com/media/Fk3s5SXWIAMRz89.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201115560464385][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 4. August Bradley - Notion API Automations
 
@@ -68,11 +56,8 @@ Learn how to improve your workflow by building automations for your Notion syste
 🔗 https://t.co/JrDc9zRAuT 
 
 ![](https://pbs.twimg.com/media/Fk3s5x9XgAMxI9C.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201123043053568][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 5. Keep Productive - Notion Tours
 
@@ -81,11 +66,8 @@ Learn how others use Notion, and get inspiration for your own Notion pages.
 🔗 https://t.co/lcSER5a1Vu 
 
 ![](https://pbs.twimg.com/media/Fk3s6gMWAAE3cno.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201136016265223][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 6. Easlo - Build With Me in Notion
 
@@ -94,11 +76,8 @@ Learn how to build Notion solutions from scratch with easy-to-follow videos.
 🔗 https://t.co/5hFsFSbGgO 
 
 ![](https://pbs.twimg.com/media/Fk3s7PDWYAAXzdM.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201147646869506][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 TLDR
 1. Ali Abdaal (@AliAbdaal)
@@ -107,11 +86,8 @@ TLDR
 4. August Bradley (@AugustBradley)
 5. Keep Productive (@KeepProductive)
 6. Easlo (@heyeaslo) 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201150251732995][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-26]]
 #+BEGIN_QUOTE
 @AliAbdaal @NotionHQ @RedGregory1 @AugustBradley @KeepProductive That's a wrap!
 
@@ -119,7 +95,4 @@ If you enjoyed this thread:
 
 1. Follow me @heyeaslo for more tweets like this.
 2. RT the tweet below to share it with more people. https://t.co/uYVxAeLWk9 
-#+END_QUOTE
-    date:: [[2022-12-26]]
-*** from _If You Want to Learn Not..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607201152738754560][View Tweet]]
+#+END_QUOTE\

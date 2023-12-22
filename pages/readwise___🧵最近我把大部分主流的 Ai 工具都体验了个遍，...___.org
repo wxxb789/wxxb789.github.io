@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1623552966837039112/-lRznnfc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 🧵最近我把大部分主流的 AI 工具都体验了个遍，挑了一些好用的推荐给大家 😊
 
@@ -23,21 +23,15 @@ Stable Diffusion：https://t.co/iBiogwp3XY
 DALL·E 2：https://t.co/25pTuY8nQI 
 
 ![](https://pbs.twimg.com/media/Fr4Js1uaQAAdJVx.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _🧵最近我把大部分主流的 Ai 工具都体验了个遍，..._ by @Crypto_QianXun on Twitter
-*** [[https://twitter.com/Crypto_QianXun/status/1638781223941332994][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 💻 代码生成
 Copilot：https://t.co/sh0uFyvPRt
 Codeium：https://t.co/i50MGR2kOP
 Replit：https://t.co/6F2WRkUAx0 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _🧵最近我把大部分主流的 Ai 工具都体验了个遍，..._ by @Crypto_QianXun on Twitter
-*** [[https://twitter.com/Crypto_QianXun/status/1638781226957029376][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 📝 AI辅助写作
 ChatGPT：https://t.co/bnnE30QDDu
@@ -47,11 +41,8 @@ Compose AI：https://t.co/VtV6mBll0f
 https://t.co/cHjlPiF3vt：https://t.co/lImShKVJeE
 Jasper：https://t.co/hBu2arz6ks
 copysmith：https://t.co/gjpiGC0bhh 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _🧵最近我把大部分主流的 Ai 工具都体验了个遍，..._ by @Crypto_QianXun on Twitter
-*** [[https://twitter.com/Crypto_QianXun/status/1638781229293273089][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 🌈 PPT生成
 Tome：https://t.co/P7U7i9seAk
@@ -61,7 +52,4 @@ Murf AI：https://t.co/e5R2rrraN6
 Resemble AI：https://t.co/tDLjwZiPqX
 Synthesia：https://t.co/ivotO9g28v
 Adobe Podcast：https://t.co/que4ISTFp3 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _🧵最近我把大部分主流的 Ai 工具都体验了个遍，..._ by @Crypto_QianXun on Twitter
-*** [[https://twitter.com/Crypto_QianXun/status/1638781231855992833][View Tweet]]
+#+END_QUOTE\

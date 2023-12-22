@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 这篇关于提示工程、RAGs 与微调对比的推文不错，它这个坐标图分成了两个坐标轴：
 1. 所需要外部知识多少
@@ -66,7 +66,4 @@
 🔹如果你不需要上述任一功能，那么提示工程就是你的选择。
 
 🔸如果你的应用既需要定制知识又需要改变模型的行为，那么采用混合方案（RAGs + 微调）将是更佳选择。 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _这篇关于提示工程、RAGs 与微调对比的推文不错..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1732168397989789747][View Tweet]]
+#+END_QUOTE\

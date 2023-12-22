@@ -12,98 +12,62 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 著名投资人霍华德·马克斯（Howard Marks，以下简称「马克斯」）在《周期》里有一个统计，马克斯说，他在投资行业经历了完整的 47 个年度（1970～2016 年），在这期间，美国标普500指数的年化增长率是 10%。这是一个非常符合常理、我们也很熟悉的数字。
 
 如果年化收益为 10% ，我们可以假设，一年的回报在 8%～12% 应该都算是比较「合理」的范围。那么这 47 年里，美国股市有多少年的回报落在这个区间里呢？马克斯说，在具体计算之前他猜测这个数字不会很大，但是实际答案仍然惊到他了——47 年的历史里，只有 3 个年份的回报在这个范围内。换句话说，美国股市每 16 年才有 1 年是「正常」的。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrw7y83mqv7hrwtbcd1rxsx][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 同时，马克斯把偏离 10% 超过 20 个百分点的收益定义为「不正常」，即上涨超过 30%，或者下跌超过 10%，在 47 年里居然有 13 年是「不正常」的。所以他说，*对于股票市场，所谓的常态其实是非常态。* 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrw8e7cw1rha7vnbe3qh2rs][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 我们都知道，股市的波动，一定是无数因素和变量综合作用的结果。*从宏观看，市场周期主要由三个周期影响决定——经济周期、企业盈利周期和情绪周期。* 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrw93vyzehxea82g9zkrsqm][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 那么一个经济体的长期经济发展情况，通常是由人口出生率、劳动生产率、科技发达程度等等这样的因素决定的。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwan7mma4v368d7j5hj18e][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 *企业盈利周期。*实际上，即使 GDP 的变化不大，企业盈利水平的波动也可能会很大。
 
 造成这种现象的原因有多个，其中一个我们第二讲提到过，就是「经营杠杆」的概念。简单来说，利润 = 收入 - 成本，收入每变化一个百分点，引起的利润变化往往是不对等的。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwbspxcvbe0rq391n0vh4a][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 继续以出租汽车公司为例。假如这家公司一年的总收入是 10000 万元，总成本是 6000 万元，另外每年需要支付利息 1000 万元不变，缴纳各种税费 2000 万元不变，留给股东们的净利润就是 1000 万元。如果到了第二年，公司总收入上升至 12000 万元，而总成本不变，那么净利润是 3000 万元。
 
 也就是说，收入只增长了 20%，而净利润却增长了 200%，这就是财务杠杆的作用。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwcgn0zgvntaexse2agc97][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 所以，除去 GDP 变化对企业造成的直接影响，如经营杠杆、财务杠杆，这些因素会更大幅度地改变企业的盈利周期。而我们为股市和公司估值的时候，利润往往是最重要的一个参考指标。所以盈利周期的起伏也为整个市场的起伏做了很大的贡献。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwcs3pk13ce4t6th5qnk5a][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 在美国 60 年代末到 70 年代初，有一个很有趣的名词叫作「漂亮50」（Nifty Fifty），指的是当时 50 家受到投资者追捧、涨势凶猛的大蓝筹公司。它们规模很大、家喻户晓、盈利能力也很强。随便说几个名字吧：美国运通、百威英博、可口可乐、迪士尼、陶氏化学、花旗银行、通用电气、吉列剃须刀、IBM、麦当劳……其实里面相当一部分公司直到今天仍然是所在领域的巨头。
 
 从 1968 年底开始，「漂亮50」走出了一波重要的行情。11 月的时候，标普 500 指数连续下挫，最大跌幅达到 30%，但是「漂亮50」反而逆势上扬 19%。虽然随后也出现回落，最大跌幅（20%）仍低于市场整体。而从阶段低点 1970 年 6 月起的下一轮上涨过程中，「漂亮50」指数涨幅最高达到 96%，显著高于同期标普500上涨 53% 的表现。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwd97ww38y6qcsq3rbn1av][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 而这种强烈的偏好，带来了一个非常直观的结果，就是「漂亮50」公司的整体估值迅速提升。如果以市盈率来计算，这波行情之前，「漂亮50」公司的整体估值在十几倍市盈率的水平，听起来还挺合理；但走完这波行情之后，在 1972 年，这些公司的市盈率中位数变成了 39 倍，而最高的公司有 95 倍之多。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwdy6vs9jg71wb8bxy8ede][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 《股市长线法宝》的作者杰里米·西格尔（以下简称「西格尔」）教授在 1995 年写了一本书，叫《再看「漂亮50」：高价成长股最终是否可以证明自己》。西格尔教授做出了统计——首先，「漂亮50」公司从 1973 年末就开始补跌，开始大幅跑输大盘，直到 1974 年完全触底；而如果从 1972 年 12 月计算到 1995 年 5 月，「漂亮50」公司在 22 年里年化收益是 11% ，而市场总体收益是 11.2% ，几乎没有区别。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwe8wva95dfjjk52pqc06a][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 这就是一次完整的周期：
 
 市场的气氛和叙事开始变化 >> 导致投资者开始追捧某一类股票 >> 随着追捧股价节节走高印证了牛市的故事 >> 更多的人蜂拥而至并让市场产生这种景气不会消失的错觉 >> 市场气氛开始掉转 >> 投资者接连出逃股价大幅下降 >> 公司股价长时间的一蹶不振…… 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwfdr2j07dx2gn95y7x48s][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-09]]
 #+BEGIN_QUOTE
 我们可以发现，经济周期、企业盈利周期、市场情绪周期，波动逐级放大，但终会收敛回归到长期趋势本身，这个长期趋势，也是我们课程里不断强调的一个国家经济和企业盈利的增长。 但是这三个周期，以及各种其他周期（比如信贷周期）与因素的叠加，造成了整个市场的起伏波动，而人心在这里的作用尤其之大。 
-#+END_QUOTE
-    date:: [[2023-02-09]]
-*** from _05 | 为什么市场会有周期？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01grrwfrjw1yyw5fcbye5h41q2][View Highlight]]
+#+END_QUOTE\

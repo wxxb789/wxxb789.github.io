@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-03]]
 #+BEGIN_QUOTE
 纽约时报：Sam Altman，探讨人工智能的未来挑战
 
@@ -63,7 +63,4 @@ OpenAI 最近的一次混乱事件，看似荒唐，实际上却揭示了一个�
 
 原文：Sam Altman, Sugarcoating the Apocalypse
 https://t.co/JL54STSWtz 
-#+END_QUOTE
-    date:: [[2023-12-03]]
-*** from _纽约时报：Sam Altman，探讨人工智能的未..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1731115143738667054][View Tweet]]
+#+END_QUOTE\

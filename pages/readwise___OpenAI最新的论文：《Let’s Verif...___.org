@@ -12,20 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 OpenAI最新的论文：《Let’s Verify Step by Step》
 
 OpenAI训练了一个模型，通过奖励每一个正确的推理步骤（“过程监督”），而不仅仅是奖励正确的最终结果（“结果监督”），在数学问题解决方面达到了新的最高水平。… 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _OpenAI最新的论文：《Let’s Verif..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1664013483841671169][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 CoT很重要❗️ 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _OpenAI最新的论文：《Let’s Verif..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1664014591993454595][View Tweet]]
+#+END_QUOTE\

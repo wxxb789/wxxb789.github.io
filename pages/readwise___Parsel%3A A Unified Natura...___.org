@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1397117048631664647/TdwSD7_s.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-24]]
 #+BEGIN_QUOTE
 Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
@@ -30,28 +30,16 @@ Parsel is a framework enabling automatic implementation and validation of comple
 ![](https://pbs.twimg.com/media/Fkt2OxpXoAcbWkw.jpg) 
 
 ![](https://pbs.twimg.com/media/Fkt2O2JXwAEcKKM.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-24]]
-*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1606507691077165057][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-24]]
 #+BEGIN_QUOTE
 (2/4) .. be used across domains requiring hierarchical reasoning, e.g. code synthesis, theorem proving, and robotic planning. 
-#+END_QUOTE
-    date:: [[2022-12-24]]
-*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1606507692239069184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-24]]
 #+BEGIN_QUOTE
 (3/4) Tweet from an author 👇 https://t.co/3DzSdP1knx 
-#+END_QUOTE
-    date:: [[2022-12-24]]
-*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1606507693056950273][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-24]]
 #+BEGIN_QUOTE
 (4/4) 👉 Follow @papers_daily for daily trending AI research paper updates 
-#+END_QUOTE
-    date:: [[2022-12-24]]
-*** from _Parsel: A Unified Natura..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1606507693811826688][View Tweet]]
+#+END_QUOTE\

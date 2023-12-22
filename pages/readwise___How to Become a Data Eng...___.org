@@ -12,28 +12,22 @@
 :image-url: https://pbs.twimg.com/profile_images/1644878393899462656/Oe3nQ9kH.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 How to become a Data Engineer in 2023.
 
 Tips on job searching, networking, and building the right skills:
 
 👇 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609657585153589249][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Most threads hammer away about the skills you need to break into data, but being good in a technical sense is only half of the battle. 
 
 Let's start with what you should know and discuss what you need to do after you build the right skills. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609657974477279234][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 The skills you'll need and where to learn them: 
 
@@ -44,20 +38,14 @@ The skills you'll need and where to learn them:
 3. Cloud: Stephane Maarek's Courses (AWS CCF > Databases > Data Analytics)
 
 4. DB, Data Warehouses: snowflake/guides 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609658226831679490][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 You can dig into some extra skill building (like airflow), but being privy to how these tools work is a good baseline.
 
 You should try to build a project that utilizes all 4. Ask ChatGPT for project suggestions ;) 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609658481962885120][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Networking: 
 
@@ -66,11 +54,8 @@ Networking:
 - Interact with other learners and people who already DE's
 
 It's not guaranteed, but there are fair odds that your first job will come as a recommendation from someone you've networked with. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609658984369213440][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Job Search: 
 
@@ -79,16 +64,10 @@ Job Search:
 - Message hiring recruiters and engineers of hiring companies (don't just send your resume out into the job board void)
 
 - Share your project(s) with your network to get recommendations 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609659238921502723][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 This is a very broad overview, but it should give you an idea of a solid path to becoming a data engineer this year. 
 
 If you want some more detailed guidance; my DMs are always open and I send out longing form advice on my newsletter (https://t.co/z346pRJ1DY) 🙂👍 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _How to Become a Data Eng..._ by @thoughtsondata on Twitter
-*** [[https://twitter.com/thoughtsondata/status/1609659742661611525][View Tweet]]
+#+END_QUOTE\

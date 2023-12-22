@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/984174464521809920/iLq9JFPK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 Postgres Page Layout
 
@@ -22,17 +22,11 @@ Almost everything in databases end up in a fixed size page. In postges the defau
 Learn more about fundamentals of database engineering get my course https://t.co/FGpyffZA4b 
 
 ![](https://pbs.twimg.com/media/Fkb88BOVEAAQuVR.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Postgres Page Layout Al..._ by @hnasr on Twitter
-*** [[https://twitter.com/hnasr/status/1605248433312641024][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 ⚪️ Headers - 24 bytes - Contains page metadata
 ⚪️ ItemIds - 4 byte each - offset:length pointer to the item or row
 ⚪️ Items - variable length based on size of attributes 
 ⚪️ Special - variable, applicable to B+Tree index leaf pages linking previous and forward pages 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Postgres Page Layout Al..._ by @hnasr on Twitter
-*** [[https://twitter.com/hnasr/status/1605248435417804800][View Tweet]]
+#+END_QUOTE\

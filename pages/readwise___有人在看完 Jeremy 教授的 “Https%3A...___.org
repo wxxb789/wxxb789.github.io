@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-17]]
 #+BEGIN_QUOTE
 有人在看完 Jeremy 教授的 “https://t.co/ph3pstngHq” 深度学习课程后，把他每节课提到的学习建议和忠告都总结了下来：https://t.co/7Q3F4zFRgy，这些内容（或称之为原则）对研究 AI 的很多人来说，都很有价值，可以少走弯路，我摘录了几句：
 
@@ -31,7 +31,4 @@
 
 1. “最好认真倾听 Jeremy 的意见，并按照他的建议安排自己的时间”
 2. “后悔没有听 Jeremy 的建议，刚开始不要花大量时间在理论上，不要尝试立即理解一切”<img src='https://pbs.twimg.com/media/GBiHzOKaUAAIhZg.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-17]]
-*** from _有人在看完 Jeremy 教授的 “Https:..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1736287118077657351][View Tweet]]
+#+END_QUOTE\

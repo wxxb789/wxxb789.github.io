@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-11]]
 #+BEGIN_QUOTE
 半年前，罗翔来厂里做了一次分享，主题是《如何在阅读中超越有限的今生》，那次分享的视频我看了三四遍，感受颇深，摘录了几句话：
 
@@ -29,7 +29,4 @@
 接受有限性，才能过得充足，才能原谅别人的不足。
 
 人最大的功课就是和解，跟他人和解，跟自己和解，跟命运和解。” 
-#+END_QUOTE
-    date:: [[2023-12-11]]
-*** from _半年前，罗翔来厂里做了一次分享，主题是《如何在阅..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1733864893810684280][View Tweet]]
+#+END_QUOTE\

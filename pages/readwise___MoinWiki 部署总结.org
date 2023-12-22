@@ -12,8 +12,8 @@
 :image-url: https://geekinney.com/apple-touch-icon.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-16]]
 #+BEGIN_QUOTE
 部署之前先来了解几个概念：
 
@@ -22,7 +22,4 @@
 •   **uWSGI**: uWSGI是一个是实现了WSGI协议的web服务器。
     
 •   **nginx**: Nginx是一个开源的高性能的HTTP和反向代理web服务器，支持负载均衡、高并发和高效处理静态文件。 
-#+END_QUOTE
-    date:: [[2022-12-16]]
-*** from _MoinWiki 部署总结_ by Geekinney's Blog
-*** [[https://read.readwise.io/read/01gmcwfsk86ff1eadmzeazdv8s][View Highlight]]
+#+END_QUOTE\

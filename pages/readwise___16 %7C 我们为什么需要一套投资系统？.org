@@ -13,36 +13,24 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 我们一起搭建了一套基于「好资产 + 好价格 + 长期持有」的投资系统 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rqpvvyz0fd4k84g00q0tr][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 *学习投资之难，一个很重要的原因就在于缺乏有效且真实的反馈：在熊市底部加仓，大概率短期会亏钱，在牛市顶峰时买入，也很有可能赚到丰厚的「账面财富」。*有趣之处就在于，正确的投资操作，从短期看，结果是随机的，而且很可能是失败的，甚至由于运气的原因，很长一段时间的结果都可能不太理想。这就像做练习题，同样的题目，答案每次都不一样，我们如果用这样的结果来给自己反馈并加以改进的话，就会陷入混乱。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rw8djsxnx76t13tq4hjtb][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 虽然这个账户最终还是赚了钱，但这个结果有很大的运气成分。我曾经做过一个复盘，假如放弃那些主观操作，按照账户最初设计的原则和约束来运行，结果其实会更好。而且还能大幅降低我在整个投资过程中的焦虑。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rwqkqebtjk67nwt1stzw2][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 很多优秀的基金经理都有自己的投资系统，并且在长期的市场考验中获得了超越市场的收益。但我们知道，每种投资理念都有和市场风格不匹配的时期，如果投资者对基金经理的投资系统不理解、不认同，就很难坚持下去，最终也就无法获得收益。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1ryh6v6q56whnqvhxz3yfq][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 马克·泰尔（Mark Tier）在他著名的畅销书《巴菲特和索罗斯的投资习惯》中，曾经描述过一个典型的投资系统的样子，它应该包含以下几个部分：
 
@@ -53,67 +41,40 @@
 •   能力圈和投资标准
     
 •   投资策略 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rr9st6pb5phab74qp9fdr][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 在投资世界里，无论是买还是卖，或者持币不动，一个投资者所做的每一项决策都来自于他对市场运行机制的看法，或者说，来自于他的投资哲学。著名的投资哲学家凡·撒普（Van Tharp） 曾经说过：「你所交易的不是市场，而是有关市场的理念。」 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rz3r4bfns93zqz5ahxq41][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 我们看到的那些投资大师，无论是格雷厄姆、巴菲特、索罗斯、费雪、达利欧，都有自己的投资哲学。他们的每一条投资理念、每一次投资决策，都是从自己的投资哲学发展而来。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rz8nn4k7smvtsvk0djmmr][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 有知有行的《投资第一课》，在「实操篇」之前，花了 11 讲的时间，向你讲述有知有行的世界观以及对投资的理解和认知。背后的原因也是如此，如果你不了解我们的投资理念和哲学，也就无法理解我们所介绍的投资策略。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1rzwtdh4z08fg0ycrcb6h9][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 巴菲特的投资哲学是寻找那些优秀的企业和企业家，持有这些企业很长的时间，靠企业的增长来赚钱。这个投资哲学决定了巴菲特需要寻找到值得托付的企业家，具有竞争优势的企业（结果表现为 ROE 很高），同时这些企业还能保持这个竞争优势很久。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s0enjrzva2t722qse3bwt][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 对于格雷厄姆来说，这个标准是 「当前股价低于企业目前内在价值（净资产或者清算价值）的企业」； 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s11vq2dha9tpze00byw31][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 对于巴菲特来说，这个标准是「当前股价低于未来现金流折现（未来 10～20 年企业一共赚的钱）的优秀企业」； 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s0xgmb3f2fvh2yvjmrs01][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 对于索罗斯来说，这个标准是 「能在市场先生的反身性变换大大改变投资者对价值的认识之前买到（或卖出）的投资」； 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s16b6ep9xm46shfywszn2][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 对于有知有行来说，*这个标准是「能以中等甚至偏低的估值，买入能代表中国经济发展的指数基金」。* 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s1c5grmxxkavqe7dthnhd][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 在《巴菲特和索罗斯的投资习惯》这本书中，马克·泰尔把一个有效的投资策略分为以下 12 个组成部分：
 
@@ -140,11 +101,8 @@
 •   出错了怎么办
     
 •   在系统无效时怎么做 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s1r2w1n2s7vzs7fx8znx8][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 *1）买什么？*
 
@@ -193,77 +151,44 @@
 *12）在系统无效时怎么办*
 
 在系统运行的过程中，有知有行会不断进行观察、反思和迭代。比如在科技大公司等无形资产比较多的公司越来越多的时候，传统的基于 PB 和 PE 百分位的估值方式还是否有效？比如是否能更多加入其它海外市场的投资标的？比如，是否可以结合趋势在牛市卖出时留存更多的利润……这个投资体系也会一直进化下去。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s249n57jgz802hx2gs2rd][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 在「投资哲学」之上，还有一层是「个性」，包括目标、知识、经验、能力、技巧、兴趣，我把这些统一为一个词：*个人认知。*投资哲学，是在「个人认知」之上发展而来的。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s5tex4czsaw8x1sjq37aq][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 每一位优秀的投资者，都会根据自己的投资哲学，最终进化出自己的系统，并根据自己的系统去交易。当系统失灵或者出错的时候，他们会停下来，反思系统的问题，去改进和进化它。与此同时，不管出现什么样的市场情况，他们绝不会违反自己的系统而去做主观交易。无论市场是喧闹还是冷清，恐惧、贪婪、嫉妒、怀疑这些情绪都不会对他们自己的投资系统造成侵蚀。系统错了，可以改进。而一次违反系统的主观交易，即使短期对了，长期来看，却可能带来更大的损失。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s63s1058hpdnxhme27re4][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 无论是我们把钱委托给一个 VC（风险投资）、或是一个私募或公募的基金经理，还是一个组合的主理人，我们都必须知道我们自己的投资哲学和我们喜欢的投资风格。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s6f4cyr4p8beczwtfwnjg][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 格雷厄姆在《聪明的投资者》中写下了这样一句话：*投资不是关于在别人的游戏中打败他们。它是关于在自己的游戏中控制自己。* 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s6t3zbjy59ws5eq0k7f4c][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 1、高度真实 达利欧非常坦诚地把他所有的人生经历和所思所想呈现在我们面前，并不矫揉造作，也不故弄玄虚，都是看起来浅显易懂，但真正要落实到实践中又不容易的一些道理。 2、具体可行 思考、确定自己的原则并且切实地落实到生活实践中，这本身就是个很具备可执行性的链条。很多具体的原则，大部分人一看就懂，很快就可以转化为第二天的行动。 3、极度开放 达利欧本身有丰富的经历，既是企业家，也是投资人，同时是学者和意见领袖，因为他自己的人生宽度足够，作为各个不同领域读者的我们，也总能从中发现适合于自己学习实践的道理。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1s9xpv0f6vqykybwkf020a][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 《原则》这本书可以给到我们构建系统的启示，可以总结为：自我评价、自我管理、自我进化。 更真诚、坦然而积极地面对自己，对每一天的学习成长、进步失误都做出客观评价，在此基础上自我管理，纠正做得不好的地方，完善认知和思考，内化带来积极变化的习惯。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1sak9506ezb4mdgq9y9fx8][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 「你是什么样的人，你看到的世界是什么样的，决定了你会具有什么样的投资哲学。 只有认识清楚了我们自己的投资哲学和我们喜欢的投资风格，我们才能找到一个以我们的方式来管理我们资金的人； 只有这样，当我们的投资遇到了暂时不如意的时候，我们才能坚定的相信他； 也只有这样，我们才能最终收获到好的投资收益，也能同时收获一段美妙的人际关系以及自我的成长。」 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1sbm29sq9zj27pykah4vgh][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 于我而言，投资即人生，是关于越来越深地向内心径直走去，看见那些我所钦羡的品质（果敢、坚韧、冷静、开放）是我所原本就具有的、也是可以被慢慢锤炼形成的，也看见那些贪嗔痴慢疑的瞬间，接受、转化、超越。 这会是一个漫长的进化过程，此刻的我依然兴奋激动...... 经历了也可以预见到无数平淡无奇日子里平淡无奇的阅读、尝试、积累，至少此刻的我依然甘之如饴。 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1scfkb2pkcdne4m6bxd8kp][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 引用《聪明的投资者》中的一段话，来结束自己第一课的学习：「投资的全部意义并不在于所赚取的钱比一般人要多，而在于所赚取的钱足以满足自己的需要。衡量自己的投资是否成功的最好办法，不是看你是否胜过了市场，而是看你是否拥有一个有可能使自己达到目标的财务计划和行为规范。最终，重要的不在于你比他人提前到达终点，而在于确保自己能够达到终点。」 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1sehr5jyx3nyhm0nbs24g1][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-31]]
 #+BEGIN_QUOTE
 当第一次拥有了自己的投资系统时，它大概率是不完美的，我们需要不断地迭代和更新。这里其实我有个疑问，就是如何判断是投资系统出了错误？而不是市场本身出现了问题？此时我们应该修改系统还是坚守系统？ 
-#+END_QUOTE
-    date:: [[2023-01-31]]
-*** from _16 | 我们为什么需要一套投资系统？_ by youzhiyouxing.cn
-*** [[https://read.readwise.io/read/01gr1sfq5skhwz2403gz6kv5n7][View Highlight]]
+#+END_QUOTE\

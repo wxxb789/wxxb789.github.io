@@ -12,19 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1360256374198984706/hc0vKFx_.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 Do you ever need to redirect stdout with #Python?
 
 In this mini-thread, I will show you 3️⃣ different methods to redirect stdout!
 
 🧵🐍👇 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Do You Ever Need to Redi..._ by @driscollis on Twitter
-*** [[https://twitter.com/driscollis/status/1605369198590443521][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 1️⃣ Re-assign `sys.stdout` to a file handle
 
@@ -35,11 +32,8 @@ Now when you call the `print()` function, it writes to a file instead of stdout!
 Don't forget to revert your changes at the end! 
 
 ![](https://pbs.twimg.com/media/FkdqxBdXoAIymJc.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Do You Ever Need to Redi..._ by @driscollis on Twitter
-*** [[https://twitter.com/driscollis/status/1605369203166482435][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 2️⃣ Use a context manager!
 
@@ -48,27 +42,18 @@ Here you use `contextlib.contextmanager` to automatically redirect stdout and th
 This is a nice way to decorate functions that you want to write to a file without modifying all of them. 
 
 ![](https://pbs.twimg.com/media/FkdqxY3X0AA3VaQ.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Do You Ever Need to Redi..._ by @driscollis on Twitter
-*** [[https://twitter.com/driscollis/status/1605369207813808128][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 3️⃣ #Python's `contextlib` module comes with a `redirect_stdout` function context manager built-in 🐍🔥
 
 Here's how you can use it to simplify your code even further! 
 
 ![](https://pbs.twimg.com/media/FkdqxuxWIAc8fPM.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Do You Ever Need to Redi..._ by @driscollis on Twitter
-*** [[https://twitter.com/driscollis/status/1605369212775665664][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 Thanks for checking out my mini-thread on redirecting stdout with #Python.
 
 Follow me for more great tips on tutorials on Python! 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _Do You Ever Need to Redi..._ by @driscollis on Twitter
-*** [[https://twitter.com/driscollis/status/1605369218639314946][View Tweet]]
+#+END_QUOTE\

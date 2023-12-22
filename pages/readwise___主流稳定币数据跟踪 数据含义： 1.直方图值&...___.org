@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1511108233695432707/TOvN835h.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 主流稳定币数据跟踪
 
@@ -27,11 +27,8 @@
 https://t.co/5lXmtcYn2J
 
 #stablecoin #稳定币 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _主流稳定币数据跟踪 数据含义： 1.直方图值&..._ by @StephanCptMax on Twitter
-*** [[https://twitter.com/StephanCptMax/status/1635608827637956610][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 上周数据：
 
@@ -41,29 +38,20 @@ https://t.co/5lXmtcYn2J
 ![](https://pbs.twimg.com/media/FrLZHOUagAQ9Vzt.png) 
 
 ![](https://pbs.twimg.com/media/FrLZJblaIAAuKCs.png) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _主流稳定币数据跟踪 数据含义： 1.直方图值&..._ by @StephanCptMax on Twitter
-*** [[https://twitter.com/StephanCptMax/status/1635608830427136000][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 Mcap/TVL
 
 Mcap/TVL是稳定币的总市值和TVL的比值，反应了链上稳定币的资金使用率情况。
 使用率越高Mcap/TVL比值越小，代表市场情绪倾向乐观，
 使用率越低Mcap/TVL比值越大，代表市场情绪倾向悲观。 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _主流稳定币数据跟踪 数据含义： 1.直方图值&..._ by @StephanCptMax on Twitter
-*** [[https://twitter.com/StephanCptMax/status/1635608836328529943][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-23]]
 #+BEGIN_QUOTE
 Mcap/TVL当前值（3月13日）：1.91，偏悲观情绪，周环比增幅：3.8%
 
 链上资金利用率上看，上周Mcap整体变化不大，TVL却降低了30亿左右，说明链上避险情绪增加。 
 
 ![](https://pbs.twimg.com/media/FrLZX7OagAM05jf.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-23]]
-*** from _主流稳定币数据跟踪 数据含义： 1.直方图值&..._ by @StephanCptMax on Twitter
-*** [[https://twitter.com/StephanCptMax/status/1635608838958387200][View Tweet]]
+#+END_QUOTE\

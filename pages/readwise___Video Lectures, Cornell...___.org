@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/Video Lectures, Cornell...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[caglar_ee on Twitter]]
+:full-title: "Video Lectures, Cornell..."
+:category: [[tweets]]
+:url: https://twitter.com/caglar_ee/status/1737834596878962995
+:image-url: https://pbs.twimg.com/profile_images/539271180306247680/81MZ3E6E.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+Video lectures, Cornell CS 5787 Applied Machine Learning fall 2020, by Volodymyr Kuleshov
+https://t.co/ra8L8XrC6t
+https://t.co/mJGz31kCmI 
+#+END_QUOTE\

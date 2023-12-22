@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1262283153563140096/DYRDqKg6.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-03]]
 #+BEGIN_QUOTE
 When building event-driven applications, no doubt you will have some point-to-point messaging in there. 
 
@@ -23,7 +23,4 @@ Visual and resources to help 👇
 https://t.co/tDid0XLcGc 
 
 ![](https://pbs.twimg.com/media/FoB8ur0XEAAA6D2.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-03]]
-*** from _Tweets From David Boyne 🚀_ by @boyney123 on Twitter
-*** [[https://twitter.com/boyney123/status/1621433664453083137][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 推荐阅读宝玉写的这篇《2023 年，我患上了 AI 焦虑症！》，https://t.co/iwUTPVPauh，作者提到了自己如何患上了 AI 焦虑症，又是如何克服它，并且成功地把 AI 变成自己的得力助手，让自己成为善用 AI 的人。
 
@@ -22,7 +22,4 @@
 搞明白的过程中，学会了使用工具，也产生了更多的疑惑，这会敦促我进一步学习，依次循环。有的时候，一个专题学明白了，会陷入迷茫，不知道下一步该学啥，这个时候，我会去思考利用 AI 能帮我解决啥实际的问题，有了问题就有了课题，能研究的东西又多了。
 
 最后发现，一切又回到了数学和理论，所以不得不去复习基础知识，去研究论文。整个学习周期会很漫长，但也是一种乐趣。 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _推荐阅读宝玉写的这篇《2023 年，我患上了 A..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1734736746099945685][View Tweet]]
+#+END_QUOTE\

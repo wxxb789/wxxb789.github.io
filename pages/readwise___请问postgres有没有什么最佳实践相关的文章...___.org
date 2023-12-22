@@ -12,14 +12,11 @@
 :image-url: https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-18]]
 #+BEGIN_QUOTE
 请问postgres有没有什么最佳实践相关的文章推荐啊？
 例如像是某些业务场景应该用哪些字段，又例如enumerate，composition之类的哪些情况下该用哪些情况下不该用的建议
 以及数据迁移，分片之类的操作规范，参数调优之类的？
 我发现MySQL在这方面的文章相当多，但是postgres方面的就很少 
-#+END_QUOTE
-    date:: [[2023-11-18]]
-*** from _请问postgres有没有什么最佳实践相关的文章..._ by @changwei1006 on Twitter
-*** [[https://twitter.com/changwei1006/status/1725839610004287794][View Tweet]]
+#+END_QUOTE\

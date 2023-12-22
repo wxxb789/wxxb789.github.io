@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-19]]
 #+BEGIN_QUOTE
 这是一条十分强大且很有参考价值的 Prompt：https://t.co/51axmyHjfC，跟它进行第一轮对话后，它会帮助你召唤出适合该任务的专家，在与专家进行第二轮对话后，ChatGPT 会完全明白你的目标，然后给出详细的分解和实施过程。
 
@@ -26,7 +26,4 @@
 而第二阶段其实是在做拆解任务的工作，首先召唤出来的专家会根据目标生成一份执行计划，然后让你参与到对话过程，不断完善这份计划。这有点像之前（https://t.co/6Y38ciBnFF）提到的 CoT + Least to Most prompting + Multi-Persona Self-Collaboration 的结合。
 
 两个阶段的对话内容将会成为 ChatGPT 生成最终内容的重要参考语料，后续的推理权重会更大程度偏向于任务目标和执行计划。因此这个 Prompt 可以说，写的非常非常好，充分利用了大模型底层的运作机制。 
-#+END_QUOTE
-    date:: [[2023-10-19]]
-*** from _这是一条十分强大且很有参考价值的 Prompt：..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1714820412859969594][View Tweet]]
+#+END_QUOTE\

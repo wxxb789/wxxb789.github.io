@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/815624333926297600/oc0lCoJ7.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-11]]
 #+BEGIN_QUOTE
 Odd (but powerful) business context:
 
@@ -26,7 +26,4 @@ Once we knew which quotes were similar, our lead scoring algorithm was able to h
 This 5X-ed our revenue over the next year. 
 
 Shocking what impact a couple of data science algorithms can have on a business. 
-#+END_QUOTE
-    date:: [[2023-12-11]]
-*** from _Odd (But Powerful) Busin..._ by @mdancho84 on Twitter
-*** [[https://twitter.com/mdancho84/status/1733851944609874012][View Tweet]]
+#+END_QUOTE\

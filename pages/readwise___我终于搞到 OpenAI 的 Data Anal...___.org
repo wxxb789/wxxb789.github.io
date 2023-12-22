@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 我终于搞到 OpenAI 的 Data Analysis （以前的Code Interpreter） 的 Prompt 了，比我想象的简洁好多！看来主要还是模型牛逼，而不是 Prompt。
 
@@ -53,7 +53,4 @@ For tasks that require a comprehensive analysis of the files like summarization 
 For questions that are likely to have their answers contained in at most few paragraphs, use the search function to locate the relevant section.
 
 Think carefully about how the information you find relates to the user's request. Respond as soon as you find information that clearly answers the request. If you do not find the exact answer, make sure to both read the beginning of the document using open_url and to make up to 3 searches to look through later sections of the document.<img src='https://pbs.twimg.com/media/F-i2B6zWcAELjCI.jpg'/><img src='https://pbs.twimg.com/media/F-i2McyWYAEYcbl.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _我终于搞到 OpenAI 的 Data Anal..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1722827302352880119][View Tweet]]
+#+END_QUOTE\

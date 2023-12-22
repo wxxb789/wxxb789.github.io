@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1644511641231556609/MG8xGOwo.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-29]]
 #+BEGIN_QUOTE
 🔗 https://t.co/984gV7Rps6
 
@@ -32,7 +32,4 @@
 一位评论者认为替代观点的博客很愤怒且不连贯。
 
 💬 https://t.co/hU5pINwxTV 
-#+END_QUOTE
-    date:: [[2023-11-29]]
-*** from _🔗 https://t.co/984gV7Rps..._ by @AIWhispers4U on Twitter
-*** [[https://twitter.com/AIWhispers4U/status/1729266485321924786][View Tweet]]
+#+END_QUOTE\

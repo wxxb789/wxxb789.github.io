@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/933040995574226945/_ZGasNFx.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 换到了 joshuto，它是 ranger 的 Rust 替代品，终端下的 vim-inspired 文件管理器。
 
 之前一直在用 ranger，但 ranger 实在太慢了，最后一个版本还在 2019 年。把 joshuto 配好用了下就再也不想回去了。
 
 我的配置：https://t.co/4jtVklg7Hy https://t.co/zW8JCzNVdB 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _换到了 Joshuto，它是 Ranger 的..._ by @sxyazi on Twitter
-*** [[https://twitter.com/sxyazi/status/1663917440940613638][View Tweet]]
+#+END_QUOTE\

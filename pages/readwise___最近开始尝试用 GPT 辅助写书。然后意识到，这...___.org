@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1731824343/Smile.JPG
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 最近开始尝试用 GPT 辅助写书。然后意识到，这个工具若要发挥出真正威力，整个写作习惯都需要进行范式迁移。
 
@@ -22,67 +22,46 @@
 用 ChatGPT 虽然也能勉强这样玩，但现在你有了另一个高级玩法。\ 
 
 ![](https://pbs.twimg.com/media/GAoiLcZW8AAsIu3.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262601260683735][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 虽然 GPT 码字的过程和我们的习惯一样，也是从前往后逐字推进。但效率上的差异，决定了它可以运用一种人类难以企及的范式。
 
 文字生成的不确定性，既是 GPT 无法避免的短板，也是它最大的优势。第一遍成文，顶多只能达到 20% 的预期，还远达不到可以开始推敲调整的程度。接下来首先要做的是反复对焦。\ 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262605505306740][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 与 GPT 进行行文对焦，是一个相当反直觉的过程。倘若你尝试告诉它哪些语句写的不好要如何调整，结果往往是事与愿违，累得半死不说，整个段落会变得愈发拧巴。
 
 因为 GPT 不是你自己，它只是你的助理。你真正需要做的是带上一付 OK 镜，跳出细节纵观全局，从思路上对它加以宏观引导，并让它多次成文。\ 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262609129205891][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 为啥得「多次成文」？因为 GPT 效率比人高得多，但思考却又浅得多，只有这样才能有效地激发其写作灵感。
 
 每份成文中，可能有 20% 部分堪用，只要成文次数足够多，你就可以收集到相当数量的行文素材，然后让它将其融于一篇，再重复这个过程，终能得到一份过得去的初稿。
 
 接下来，魔法才刚开始展现。\ 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262613453619219][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 按照常人的思维，我有了各章节的草稿，就可以进入最后的推敲调整阶段了吧？其实不然。
 
 这个阶段你最应该进行的是，与 GPT 深入探讨你的全书初稿。不断深入挖掘其洞见和联想，打开一扇扇全新的天窗，重新激发自己闪现的思维火花。
 
 运气好的话你就能得到不少新点子，然后仰天长叹「我得重写全书了」…\ 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262617303974171][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 别急长叹，因为你有 GPT。
 
 把它看作一个具有函数式编程思维的工具，你要做的就是保存此前每个调用过的函数（引导阶段、糅杂阶段、洗稿阶段 的提示语），再把上一步得到的新点子作为函数输入，让它重新跑一遍整个闭环。这样，你就可以在短时间内再次完成一个大循环的迭代，获得一份灵感加持后的再稿。\ 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262621112377377][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-06]]
 #+BEGIN_QUOTE
 在前 GPT 时代，人类写书可以这样操作吗？
 
 面对巨大的效率鸿沟，除非有整个随叫随到的团队配合，否则大部分作者就望而却步了，过几年看看书的销量不错的话，再版时再加入新的章节吧。
 
 以上只是我的早期尝试和探索，这个新的写作范式还有很大的优化空间，比如把核心函数沉淀为 agent，训练行文风格…\ 
-#+END_QUOTE
-    date:: [[2023-12-06]]
-*** from _最近开始尝试用 GPT 辅助写书。然后意识到，这..._ by @oasisfeng on Twitter
-*** [[https://twitter.com/oasisfeng/status/1732262624975335899][View Tweet]]
+#+END_QUOTE\

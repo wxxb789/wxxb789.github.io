@@ -12,18 +12,15 @@
 :image-url: https://pbs.twimg.com/profile_images/1348266678430302210/dKh2ImrQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-18]]
 #+BEGIN_QUOTE
 更新了“研究助理GPT”
 https://t.co/Eqlyh2sEm4
 现在可以使用变量来记录当前阅读的位置和voxscript的当前chunk，这样在读长文本时可以逐段进行了。
 文献检索和全文中也加入了arxiv 
-#+END_QUOTE
-    date:: [[2023-12-18]]
-*** from _更新了“研究助理gpt” https://t.c..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1736481137965531537][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-18]]
 #+BEGIN_QUOTE
 prompt尚笨拙：
 你应当按如下顺序执行：
@@ -32,18 +29,12 @@ prompt尚笨拙：
 3.更新变量：
    \- 如果对话中提到“全文”，那么在阅读或讨论长文本时暂停时，应当更新'lastReadPointer'变量为当前阅读位置的描述。
    - 如果使用VoxScript获取内容，应当更新currentChunk 
-#+END_QUOTE
-    date:: [[2023-12-18]]
-*** from _更新了“研究助理gpt” https://t.c..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1736481535115837919][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-18]]
 #+BEGIN_QUOTE
 在knowledge中加入了一个json文件：
 包含变量名，变量说明，变量类型和变量值。
 例如：
 "name": "lastReadPointer",
 "description": "When reading a long text paragraph by paragraph, the last sentence of the currently read text is used as a marker.", 
-#+END_QUOTE
-    date:: [[2023-12-18]]
-*** from _更新了“研究助理gpt” https://t.c..._ by @goldengrape on Twitter
-*** [[https://twitter.com/goldengrape/status/1736481824975843337][View Tweet]]
+#+END_QUOTE\

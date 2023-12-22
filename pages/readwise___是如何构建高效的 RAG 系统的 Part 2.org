@@ -12,25 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1735561740136681472/b3-0se7w_normal.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-18]]
 #+BEGIN_QUOTE
 hallucination 
-#+END_QUOTE
-    date:: [[2023-12-18]]
-*** from _是如何构建高效的 RAG 系统的 Part 2_ by Jiayuan (Forrest)
-*** [[https://read.readwise.io/read/01hhxz31bs4z3cgj5fq0mes8bp][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-18]]
 #+BEGIN_QUOTE
 hallucination 
-#+END_QUOTE
-    date:: [[2023-12-18]]
-*** from _是如何构建高效的 RAG 系统的 Part 2_ by Jiayuan (Forrest)
-*** [[https://read.readwise.io/read/01hhxz38sfec7v3crm2evsek2y][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-18]]
 #+BEGIN_QUOTE
 Harmonic Mean（调和平均数） 
-#+END_QUOTE
-    date:: [[2023-12-18]]
-*** from _是如何构建高效的 RAG 系统的 Part 2_ by Jiayuan (Forrest)
-*** [[https://read.readwise.io/read/01hhxz6nbr79sj35fgmmc10hs7][View Highlight]]
+#+END_QUOTE\

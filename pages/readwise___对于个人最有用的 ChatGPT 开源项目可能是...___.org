@@ -12,19 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1608452781832306688/axxoOIal.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-22]]
 #+BEGIN_QUOTE
 对于个人最有用的 ChatGPT 开源项目可能是 Pandora，家里有 NAS 的朋友一定要部署上，只要有 OpenAI 账号全家都能用，几分钟搞定部署，还有 API 可以用来乱搞。
 
 在线使用：https://t.co/9IC6dB2fxx //内置账号，体验和官网一致，可以说是最强 Web 客户端，免费！
 
 项目地址：https://t.co/RAxK7Viggy 
-#+END_QUOTE
-    date:: [[2023-05-22]]
-*** from _对于个人最有用的 ChatGPT 开源项目可能是..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1659947013100695559][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-22]]
 #+BEGIN_QUOTE
 白朴 API 实现自由拓展，可以乱搞应用：
 \- 写一个手机、手表、电脑、音箱都能用的语音助手；
@@ -40,7 +37,4 @@
 ![](https://pbs.twimg.com/media/FwlOW-rWcAY8mC8.jpg) 
 
 ![](https://pbs.twimg.com/media/FwlOdGSWcAE3sUa.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-22]]
-*** from _对于个人最有用的 ChatGPT 开源项目可能是..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1659947016728748038][View Tweet]]
+#+END_QUOTE\

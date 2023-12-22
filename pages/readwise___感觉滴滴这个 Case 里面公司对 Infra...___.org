@@ -12,25 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1687404804837101568/jomStiKP.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 感觉滴滴这个 case 里面公司对 infra 的投入不能说小，你说这个活怎么也得三四十个年薪百万的高级工 https://t.co/H55ooi7VE1，然而即使不出故障这个活的产出完全是负向的：魔改 k8s、给 Pod 固定 IP、在 k8s  里跑了全公司所有的MySQL，可以想见这些技术难题仅仅东半球特有 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _感觉滴滴这个 Case 里面公司对 Infra..._ by @flaneur2023 on Twitter
-*** [[https://twitter.com/flaneur2023/status/1729851405362417765][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 降本增笑只是暴露问题的阶段，不是说你不降本这波就不增笑，相反不懂技术的老板被下面的 ppt 架构师规划的一个big picture分分钟整出来一个大团队，这个团队又为了拉通对齐捆绑一大票兄弟团队的 OKR 共建，把能依赖的一切都依赖到自己的系统、接一堆不该接的拍脑袋需求，堆叠复杂性高了更显得缺人 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _感觉滴滴这个 Case 里面公司对 Infra..._ by @flaneur2023 on Twitter
-*** [[https://twitter.com/flaneur2023/status/1729852242616819796][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 所以这波 elon musk 在大气层，elon 铁定是最不容易被ppt 架构师忽悠的老板。X 前段时间挂归挂，但是 elon musk 是铁定不会养三四十个年薪百万的废物做这一整套东西的。 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _感觉滴滴这个 Case 里面公司对 Infra..._ by @flaneur2023 on Twitter
-*** [[https://twitter.com/flaneur2023/status/1729853638384771346][View Tweet]]
+#+END_QUOTE\

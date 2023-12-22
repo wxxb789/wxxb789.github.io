@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-17]]
 #+BEGIN_QUOTE
 推荐一个检索和学习论文的强大工具，Aminer，https://t.co/IC8AQwDvHD，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。
 
@@ -24,7 +24,4 @@ Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果�
 
 Aminer 还提供了一个 ChatBot 工具，支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。
 另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，https://t.co/8j7AcJKlEZ，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的邮箱。<img src='https://pbs.twimg.com/media/F_D52FHW8AEF6NK.jpg'/><img src='https://pbs.twimg.com/media/F_D5_C1WQAAcz22.jpg'/><img src='https://pbs.twimg.com/media/F_D7Gr6XUAAeGmm.jpg'/><img src='https://pbs.twimg.com/media/F_D87iuWsAAQWpb.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-17]]
-*** from _推荐一个检索和学习论文的强大工具，Aminer，..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1725160515922526517][View Tweet]]
+#+END_QUOTE\

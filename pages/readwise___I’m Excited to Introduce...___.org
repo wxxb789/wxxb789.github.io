@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-22]]
 #+BEGIN_QUOTE
 I’m excited to introduce RAGs - create a “ChatGPT over your data” purely with natural language 💬
 
@@ -35,7 +35,4 @@ Check out the attached video, blog post, and repo.
 Blog: https://t.co/Sft1fXmA6C
 
 Repo: https://t.co/RGAFsMWKDS<video controls><source src="https://video.twimg.com/ext_tw_video/1726999674555641856/pu/vid/avc1/824x720/FwJT4j8joFh5BeLs.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726999674555641856/pu/pl/4UZ2c8orPqg8wRCd.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1726999674555641856/pu/vid/avc1/412x360/j811zXp6MgGv-Hmh.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1726999674555641856/pu/vid/avc1/308x270/lnNvwlXcBhRzxjx6.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-11-22]]
-*** from _I’m Excited to Introduce..._ by @jerryjliu0 on Twitter
-*** [[https://twitter.com/jerryjliu0/status/1726999782105973231][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1619609106225979394/nGhNOk6A.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-15]]
 #+BEGIN_QUOTE
 分享一个群友做的Prompt教程网站：Learn Prompt
 
@@ -24,18 +24,12 @@
 我试用了一下，里面内容非常全面详细，还是喂饭级别的教程，大家有时间去试试看，支持一下作者 
 
 ![](https://pbs.twimg.com/media/FwDk8vOaQAE7fje.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-15]]
-*** from _分享一个群友做的Prompt教程网站：Learn..._ by @cryptocake777 on Twitter
-*** [[https://twitter.com/cryptocake777/status/1657576636043378688][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-15]]
 #+BEGIN_QUOTE
 听作者说后期还会更新3D和ai voice的教程内容，而且网站将会一直开源免费，让中文社区的AI爱好者们更方便接触和学习AIGC的知识和技巧。
 
  有需要合作的也可以找我来联系他们 
 
 ![](https://pbs.twimg.com/media/FwDlDKwaEAIGlHU.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-15]]
-*** from _分享一个群友做的Prompt教程网站：Learn..._ by @cryptocake777 on Twitter
-*** [[https://twitter.com/cryptocake777/status/1657576638790656000][View Tweet]]
+#+END_QUOTE\

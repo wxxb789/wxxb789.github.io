@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1494538245211840513/lM7r52Me.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-08]]
 #+BEGIN_QUOTE
 https://t.co/yLoyroinj7 发布 AI 快讯突破 2000+了，从开始的发布过程半小时缩减到 3 分钟，每天 5～10 分钟全弄完，流程简化到只要按下快捷键就完成。
 
@@ -22,11 +22,8 @@ Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没�
 长帖分享一下当前发稿流水线： 
 
 ![](https://pbs.twimg.com/media/FyAXpAUXgAEU4j6.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-08]]
-*** from _https://t.co/yLoyroinj7..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1666368249502527489][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-08]]
 #+BEGIN_QUOTE
 一、抓取内容（花费 1 秒钟，等待 1 分钟左右）：
 
@@ -35,11 +32,8 @@ Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没�
 3. 完成抓取，自动打开 Finder 显示本地更新。 
 
 ![](https://pbs.twimg.com/media/FyAYwmaWYAAjbAO.png) 
-#+END_QUOTE
-    date:: [[2023-06-08]]
-*** from _https://t.co/yLoyroinj7..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1666368253805965313][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-08]]
 #+BEGIN_QUOTE
 二、内容筛选（花费 1 分钟）：
 
@@ -52,11 +46,8 @@ Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没�
 因为是本地操作，如果搞错了随时 undo，非常方便。 
 
 ![](https://pbs.twimg.com/media/FyAaCYYWIAAEpZD.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-08]]
-*** from _https://t.co/yLoyroinj7..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1666368257878622209][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-08]]
 #+BEGIN_QUOTE
 三、全自动写稿（花费 1 秒钟，等待 5 分钟左右）
 
@@ -65,11 +56,8 @@ Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没�
 完成时会有声音提示。 
 
 ![](https://pbs.twimg.com/media/FyAdYdDXgAASbmj.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-08]]
-*** from _https://t.co/yLoyroinj7..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1666368261796032512][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-08]]
 #+BEGIN_QUOTE
 四、完成发布（花费 1 分钟，自动发布过程 10 分钟）
 
@@ -80,11 +68,8 @@ Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没�
 线上编译完成直接发布，无需任何操作。 
 
 ![](https://pbs.twimg.com/media/FyAeYW7WwAE5mtd.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-08]]
-*** from _https://t.co/yLoyroinj7..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1666368266179100675][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-08]]
 #+BEGIN_QUOTE
 阶段总结：
 
@@ -93,7 +78,4 @@ Google/Bing 全站收录 4000+ 页面，百度还在评估期；广告收入没�
 随着收录内容增加，希望进一步优化一下页面访问，增加广告转化率。
 
 下一次 3000/5000+/100美金收入时再见～ 
-#+END_QUOTE
-    date:: [[2023-06-08]]
-*** from _https://t.co/yLoyroinj7..._ by @xinzhi on Twitter
-*** [[https://twitter.com/xinzhi/status/1666368269970731009][View Tweet]]
+#+END_QUOTE\

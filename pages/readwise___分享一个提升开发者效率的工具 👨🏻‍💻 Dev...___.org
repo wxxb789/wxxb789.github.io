@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 分享一个提升开发者效率的工具 👨🏻‍💻
 
@@ -23,11 +23,8 @@ Devv Search 是一款专门面向中文开发者群体的 AI 搜索引擎，旨�
 
 👇
 https://t.co/G6CvqFi9r9 <video controls><source src="https://video.twimg.com/ext_tw_video/1722403689426829312/pu/pl/Bim-Re9zPxQcFOEW.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1722403689426829312/pu/vid/avc1/952x720/_b0DF5HMecQzm3Yo.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1722403689426829312/pu/vid/avc1/476x360/-Dk-ZsZtcq5Hy-a0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1722403689426829312/pu/vid/avc1/356x270/D4y7vCumdDoMPsp6.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403873141494096][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 使用方式：
 
@@ -38,11 +35,8 @@ https://t.co/G6CvqFi9r9 <video controls><source src="https://video.twimg.com/ext
 /1 
 
 ![](https://pbs.twimg.com/media/F-c1NB3aEAAqJk_.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403887230173472][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 这个工具在「编程 + 中文」这个场景下，做了很多优化：
 
@@ -53,11 +47,8 @@ https://t.co/G6CvqFi9r9 <video controls><source src="https://video.twimg.com/ext
 3. 支持全键盘操作，可以在开发过程中快速检索
 
 /2 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403890765992136][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 有了 ChatGPT 和 GitHub Copilot 之后，我们为什么要再做一个搜索引擎？
 
@@ -66,11 +57,8 @@ Devv Search 最开始来源于我们内部使用的一个工具：Copilot Search
 在使用了市面上大部分生成式 AI 的产品后，我们发现了编程领域一些痛点仍然没有被很好解决：
 
 /3 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403893353787778][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 1. ChatGPT 生成的代码缺乏依据，并经常会使用过时的 library
 
@@ -79,11 +67,8 @@ Devv Search 最开始来源于我们内部使用的一个工具：Copilot Search
 3. GitHub Copilot 在代码补全方面做得很好，但是还会有大量的场景会去 Google / StackOverflow / 文档进行搜索
 
 /4 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403895992021134][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 基于上面的问题，我们构建了一个内部使用的工具，最开始的 MVP 版本实现的功能非常简单，就是基于文档的数据来让 LLM 做生成，以降低模型的幻觉问题。
 
@@ -94,29 +79,20 @@ Devv Search 最开始来源于我们内部使用的一个工具：Copilot Search
 /5 
 
 ![](https://pbs.twimg.com/media/F-c1OBWacAA1Vpw.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403904028389388][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 Devv Search 目前还处在非常早期的阶段，在数据 Retrieve 上还有非常多优化的地方要做。
 
 例如，对于 AWS 开发者来说，有太多文档要读了，我们目前内部构建的一个版本就是专门针对 AWS 文档的数据做了清洗 & 结构化，针对 AWS 的问题能够直接提问并获得比较准确的结果，这个功能也会在未来上线。
 
 /6 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403907870363659][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-09]]
 #+BEGIN_QUOTE
 欢迎大家体验 & 提供反馈，目前 Devv Search 完全免费。
 
 https://t.co/G6CvqFi9r9
 
 /7 
-#+END_QUOTE
-    date:: [[2023-11-09]]
-*** from _分享一个提升开发者效率的工具 👨🏻‍💻 Dev..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1722403910466564135][View Tweet]]
+#+END_QUOTE\

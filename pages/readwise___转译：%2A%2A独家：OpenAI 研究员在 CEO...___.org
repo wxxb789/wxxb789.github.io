@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 转译：**独家：OpenAI 研究员在 CEO 被撤职前向董事会发出 AI 突破警告 — 据知情人士透露**
 
@@ -73,7 +73,4 @@ Ilya 可能并非有意赶走 Sam，但当收入分享方案被提出，而 Sam 
 这并非源于技术突破；而是基于他们已有的技术。这只是一个围绕是否为了利润而将该技术称为 AGI 的争议和冲突。
 
 https://t.co/0uLW0McPS3 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _转译：**独家：OpenAI 研究员在 CEO..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1727510593970561466][View Tweet]]
+#+END_QUOTE\

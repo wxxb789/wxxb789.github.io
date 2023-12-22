@@ -12,35 +12,26 @@
 :image-url: https://pbs.twimg.com/profile_images/1676996471915421697/_3JEcYY0.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 GPT implemented in NumPy in 60 lines of Python code.
 
 A Thread 🧵👇 
 
 ![](https://pbs.twimg.com/media/Fpksk8uaYAEAqTm.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _GPT Implemented in NumPy..._ by @itsafiz on Twitter
-*** [[https://twitter.com/itsafiz/status/1628384403700477952][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 Find the full source code along with other information about the GPT implementation in NumPy👇
 
 https://t.co/kQXqrddXoV 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _GPT Implemented in NumPy..._ by @itsafiz on Twitter
-*** [[https://twitter.com/itsafiz/status/1628384409199198209][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 Thanks to @akshay_pachaar for introducing picoGPT to me. 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _GPT Implemented in NumPy..._ by @itsafiz on Twitter
-*** [[https://twitter.com/itsafiz/status/1628384411531239425][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 I hope you like this content!
 
@@ -53,7 +44,4 @@ RT 🔁 and Like ❤️ the first tweet for better reach!
 Cheers 🎉
 
 https://t.co/p0Z0KT0PsE 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _GPT Implemented in NumPy..._ by @itsafiz on Twitter
-*** [[https://twitter.com/itsafiz/status/1628384562886893575][View Tweet]]
+#+END_QUOTE\

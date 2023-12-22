@@ -12,19 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 如果你会写些Python甚至不会编码，现在用GPT-4 Vision + Streamlit 配合，也能编写很高质量的app。
 
 这篇文章列出了7个应用场景，给我们很强大的方法来快速搭建应用。 
 
 ![](https://pbs.twimg.com/media/F_0szzhawAAJGNv.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593657689952757][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 1️⃣. 绘制原型并运行app
 
@@ -37,11 +34,8 @@
 ![](https://pbs.twimg.com/media/F_0tu90acAEFitT.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0tzomaUAAwtkn.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593659762028651][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 2️⃣ 将任何静态图表转化为动态可视化
 
@@ -50,11 +44,8 @@
 ![](https://pbs.twimg.com/media/F_0uq3uaoAAHDop.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0uuHba8AAJTi_.png) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593661812973666][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 3️⃣. 将图像中的表格数据转换为可完全编辑的表格
 
@@ -65,11 +56,8 @@ ChatGPT Vision非常擅长从从无法复制或下载的表格中提取数据。
 ![](https://pbs.twimg.com/media/F_0vAiLbUAA8uRI.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0vDsqawAAOOdW.png) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593663947935784][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 4️⃣. 通过请求建议来增强应用的用户体验
 
@@ -82,11 +70,8 @@ GPT-4 Vision 还可以帮助您改进应用程序的用户体验并简化多页�
 ![](https://pbs.twimg.com/media/F_0vlItbQAEnJPr.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0wJGSbMAAJVb0.png) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593666464530893][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 5️⃣. 使用RAG克服LLM幻觉
 GPT-4相可能会产生误导性或虚构性的输出，幻觉。
@@ -96,11 +81,8 @@ GPT-4相可能会产生误导性或虚构性的输出，幻觉。
 ![](https://pbs.twimg.com/media/F_0wmy-a0AAt-yX.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0wrrkaYAACW1R.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593668502958327][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 6️⃣. 即使文本日志丢失，也可以调试程序
 
@@ -111,11 +93,8 @@ ChatGPT Vision可以通过从截图中提取相关信息，提供有用的调试
 ![](https://pbs.twimg.com/media/F_0xB8naoAAn1mF.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0xFm8b0AAeQvH.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593671178924477][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 7️⃣. 快速的编写app文档
 
@@ -126,18 +105,12 @@ ChatGPT Vision可以通过从截图中提取相关信息，提供有用的调试
 ![](https://pbs.twimg.com/media/F_0x0hfbMAA4__Z.jpg) 
 
 ![](https://pbs.twimg.com/media/F_0x7HaaQAAr7gN.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593673653493974][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-26]]
 #+BEGIN_QUOTE
 请大家关注：<a href="https://twitter.com/DataChaz">@DataChaz</a> 和 他的文章：https://t.co/z6hTEUME1L
 
 先决条件：
 1) 您需要拥有 ChatGPT Plus 订阅以访问 GPT-4 Vision。
 2) 如果您是 Streamlit 的新手，请按照这里的安装步骤进行操作。https://t.co/Qub8z1sPqC 
-#+END_QUOTE
-    date:: [[2023-11-26]]
-*** from _如果你会写些Python甚至不会编码，现在用GP..._ by @JefferyTatsuya on Twitter
-*** [[https://twitter.com/JefferyTatsuya/status/1728593675922571666][View Tweet]]
+#+END_QUOTE\

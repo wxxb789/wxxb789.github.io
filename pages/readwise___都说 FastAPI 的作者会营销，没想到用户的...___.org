@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: readwise/都说 FastAPI 的作者会营销，没想到用户的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[greylihui on Twitter]]
+:full-title: "都说 FastAPI 的作者会营销，没想到用户的..."
+:category: [[tweets]]
+:url: https://twitter.com/greylihui/status/1737638967233974656
+:image-url: https://pbs.twimg.com/profile_images/1023940777104224257/44cTmkvU.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+都说 FastAPI 的作者会营销，没想到用户的表现也是可圈可点。上次写文章回应过一篇《用它5分钟以后，我放弃用了四年的Flask》，现在又发现一篇《Flask已死，FastAPI是未来》😅 https://t.co/1ExM6HyYlR 
+
+![](https://pbs.twimg.com/media/GB1SmBmaIAATtO4.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+撇开两者不是同等框架不应该被比较这一点不说，这几个「Flask 已死」的论据倒是可以给其他开源项目作者带来一些很有价值的启发：0/4 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+1. 社区活跃度：开源项目千万不要及时处理 issue 和 PR，要让它们积攒起来显得项目足够活跃。最好鼓励用户用 issue 提问，等到有人不停抱怨再把 issue 都转成 discussion。还有就是把十几种语言的翻译都放到项目里，这样就会有源源不断的新 PR 出现： 
+
+![](https://pbs.twimg.com/media/GB135Qyb0AA1bDk.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+2. 讨论度：这个没总结出来什么启发。刚刚在 Stack Overflow 上看了下，结果如下图。不知道作者的感受是怎么得来的？ 
+
+![](https://pbs.twimg.com/media/GB13ztGasAA0cCk.jpg) 
+
+![](https://pbs.twimg.com/media/GB130uya0AApcIi.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+3. 开发迭代的频率：开源项目要多引入一些 bot，定期自动触发以保持开发频率并提高 commit 数量。还有就是可以多更新更新赞助商，用户可能会以为你又 add 了什么高级功能： 
+
+![](https://pbs.twimg.com/media/GB13vrVaEAAIKPS.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-21]]
+#+BEGIN_QUOTE
+4. 灵魂人物的影响力：开源项目一定不要创建 GitHub org，项目再流行也要放在自己的账号下。不要成立什么开发团队，PR 要自己慢慢 review，用户抱怨多了，你自然知道哪个 PR 比较重要。还有就是用自己的账号或头像来设置 bot，这样即使你哪天兴趣转移了，用户会以为你一直在参与。斯人已去，灵魂犹在。 
+#+END_QUOTE\

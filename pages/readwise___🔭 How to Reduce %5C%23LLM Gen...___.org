@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1668811167945441280/3rbesYxR.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🔭 How to reduce #LLM generation toxicity/bias?
 
@@ -28,11 +28,8 @@ Instruction Tuning (e.g. Flan, T0) reduces toxic generations A LOT ✨ w/o any H
 ![](https://pbs.twimg.com/media/FpgPyQLaMAAu79D.jpg) 
 
 ![](https://pbs.twimg.com/media/FpgPyhWaEAEfsJe.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068629983150080][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 Buried in the Scaling Flan Appendix C:
 
@@ -43,11 +40,8 @@ Buried in the Scaling Flan Appendix C:
 📜: https://t.co/lvYsx8kPfF
 
 2/ 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068633904824320][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Finding 1⃣ 🌟
 
@@ -62,11 +56,8 @@ Figures: Flan-PaLM's responses eval less toxic than PaLM's
 ![](https://pbs.twimg.com/media/FpgPzE8agAAwcBV.png) 
 
 ![](https://pbs.twimg.com/media/FpgPzWVaMAAV0ag.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068646508728320][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Finding 2⃣ 🌟
 
@@ -79,11 +70,8 @@ Figures: Religion/Gender/Ethnicity toxicities lower (L), though tail distributio
 ![](https://pbs.twimg.com/media/FpgPz5sagAIiu7Z.jpg) 
 
 ![](https://pbs.twimg.com/media/FpgP0QJaMAEQ8MP.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068662275092482][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Finding 3⃣ 🌟
 
@@ -96,11 +84,8 @@ Table: Flan-PaLM > PaLM by ~13%+ for 0-shot, and ~5%+ for 10-shot.
 5/ 
 
 ![](https://pbs.twimg.com/media/FpgP0x6aAAAhKyC.png) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068670068133889][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 Why is this important?
 
@@ -113,11 +98,8 @@ And larger models may hallucinate non-factual info more (https://t.co/cs8z1ka8Sz
 ![](https://pbs.twimg.com/media/FpgP1OwaYAAyb-E.jpg) 
 
 ![](https://pbs.twimg.com/media/FpgP1hNaAAYiH2b.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068685456998400][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Take-aways 🌟
 
@@ -126,22 +108,16 @@ Much of the discussion on "alignment to human values" has centered on collecting
 But the Flan Collection is simply NLP tasks framed as instructions...
 
 7/ 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068689902972929][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Take-aways 🌟
 
 This isn't to say human feedback doesn't provide stronger benefits, but significant toxicity reduction (or better #AISafety) may be achievable with the tools we already have (simple instruction tuning), even without new large-scale collection efforts.
 
 8/ 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068692562186242][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Take-aways 🌟
 
@@ -150,11 +126,8 @@ TLDR: Care about bias/toxicity? Use your favorite instruction-tuned model.
 (Like Flan-T5: https://t.co/p7gVis9lHM!)
 
 9/ 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068695154229249][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 🌟 Limitations 🌟
 
@@ -163,23 +136,14 @@ TLDR: Care about bias/toxicity? Use your favorite instruction-tuned model.
 ➡️ Review the paper for important details
 
 10/ 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068697763115009][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 Extra credit goes to Kevin Robinson, @Hou_Le, @m_pellat, Dasha Valter, @acastroros who ran these evals.
 
 11/11 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068700443246597][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-22]]
 #+BEGIN_QUOTE
 And thank you to @_jasonwei and @YiTayML for feedback on this thread! 
-#+END_QUOTE
-    date:: [[2023-02-22]]
-*** from _🔭 How to Reduce #LLM Gen..._ by @ShayneRedford on Twitter
-*** [[https://twitter.com/ShayneRedford/status/1628068917708050433][View Tweet]]
+#+END_QUOTE\

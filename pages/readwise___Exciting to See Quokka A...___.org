@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/935645282942857216/cemofTPP.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 Exciting to see Quokka at the top of Hacker News (written by Ziheng Wang).
 
@@ -24,69 +24,45 @@ In ~1000 lines of Python, Quokka is a high performance fault-tolerant query engi
 3⃣ Arrow (@ApacheArrow) - fast I/O 
 
 ![](https://pbs.twimg.com/media/FlRZD3zWQAEOgKI.jpg) 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014781540798466][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 We tried to design #Ray to be as flexible as possible, and this makes it possible to build not only scalable applications with Ray, but also to build entire scalable systems and products on top. 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014784237658115][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 @raydistributed's flexibility comes from separating functionality into two layers
 
 ✅ Lower-level core APIs for scalable Python (tasks and actors).
 ✅ Higher level libraries built on top of the core APIs (for scaling data ingest, deep learning, serving, etc). 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014786209062913][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 The lower-level APIs are very general (because they are lower level) and can be used to scale arbitrary Python code.
 
 The higher-level libraries are performant and easier to use out of the box for specific use cases (data ingest, training, inference, serving, etc). 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014788218028034][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 I think Python is so successful in large part due to it's great library ecosystem.
 
 Similarly, @raydistributed will thrive because of its rich ecosystem of scalable libraries and applications (and it's critical that the interoperate well).
 
 Quokka is a great example of this! 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014790218711041][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 Here's the Quokka code on GitHub.
 
 https://t.co/qkyWSvdj1l 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014792479457286][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 Also, a gem from the documentation (which has yet to be updated):
 
 "Quokka is not fault tolerant, though it will be by the end of 2022. This is how I intend to be collecting my PhD, so you can be pretty darn sure it will happen." 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609014794555740161][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-31]]
 #+BEGIN_QUOTE
 @marsupialtail_2 is the author of Quokka 🔥🔥 
-#+END_QUOTE
-    date:: [[2022-12-31]]
-*** from _Exciting to See Quokka A..._ by @robertnishihara on Twitter
-*** [[https://twitter.com/robertnishihara/status/1609017205999403008][View Tweet]]
+#+END_QUOTE\

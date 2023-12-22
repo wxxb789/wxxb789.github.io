@@ -1,0 +1,119 @@
+:PROPERTIES:
+:title: readwise/初学者如何更好地学习编程 👨🏻‍💻 最近采访了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "初学者如何更好地学习编程 👨🏻‍💻 最近采访了..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1736914281491546251
+:image-url: https://pbs.twimg.com/profile_images/1735561740136681472/b3-0se7w.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+初学者如何更好地学习编程 👨🏻‍💻
+
+最近采访了一些用户，发现很多编程初学者 or 转码的同学把 https://t.co/AgfDhVEASK 作为入门编程的助手，来帮助自己更好地学习。
+
+这个 thread 分享一些使用 https://t.co/AgfDhVEASK 学习编程的方法和技巧。
+
+🧵 
+
+![](https://pbs.twimg.com/media/GBrCVM3aEAAam7C.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+1. 搜索相关课程
+
+比如说我想要找一些 Python 相关的入门课程，可以直接输入「Python 入门课程」的关键词，https://t.co/AgfDhVEASK 就会搜索对应的课程，并给出相关的学习路线。
+
+并且可以点击右边地课程链接进行进一步学习。
+
+https://t.co/c11Ob1jdZ5
+
+1/7 
+
+![](https://pbs.twimg.com/media/GBrCV2laIAA3iHG.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+2. 学习语法
+
+比如说我想要了解 Python 字符串的一些用法，那么可以直接输入「Python 字符串方法」这个关键词。
+
+https://t.co/AgfDhVEASK 会给到常用的字符串方法，并且提供了示例代码，这比直接查询文档更加直接。
+
+https://t.co/aSUwxNcvMG
+
+2/7 
+
+![](https://pbs.twimg.com/media/GBrCWbpbQAAZYnJ.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+3. 查询文档
+
+有时候使用到一些新的 library，需要阅读详细的文档才能知道对应的方法，这个时候就可以利用 https://t.co/AgfDhVEASK 来查询相关的文档。
+
+比如说我想要了解 Python requests 这个库中 POST 方法的具体用法，就可以直接查询。
+
+https://t.co/kaSqppXQZ7
+
+3/7 
+
+![](https://pbs.twimg.com/media/GBrCW_NakAAiDKn.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+4. 优化代码
+
+很多初学者编写的代码都缺乏规范化，例如编码风格、变量名、函数和方法的实现冗余等。
+
+借助 https://t.co/AgfDhVEASK 就可以直接进行结对编程，把代码贴过来让 AI 进行修改。
+
+例如示例里面就是优化了一段爬虫的代码。
+
+4/7 
+
+![](https://pbs.twimg.com/media/GBrCXkobIAAq4v4.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+5. 解释代码
+
+初学者要做的一件非常重要的事情就是阅读别人写的代码，其中一些优秀的开源项目是非常好的学习资料。
+
+例如我们拿 Quake 这个游戏中的一段非常经典的代码让 https://t.co/AgfDhVEASK 来解释。
+
+https://t.co/na8o5QuhYD
+
+5/7 
+
+![](https://pbs.twimg.com/media/GBrCYOFb0AAtUPK.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+6. Debug 错误
+
+在实际编写代码的过程中不可避免得会遇到各种报错，https://t.co/AgfDhVEASK 可以很好地基于报错来指出相关的问题。
+
+例如这个 git merge 的报错，https://t.co/AgfDhVEASK 可以很好地指出对应的问题和原因，并直接提供解决方案。
+
+https://t.co/8Oi1z08Sqx
+
+6/7 
+
+![](https://pbs.twimg.com/media/GBrCYzabIAAOWIB.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+除了上面的用法之外，https://t.co/AgfDhVEASK 基本上可以回答任何与编程相关的问题。
+
+欢迎正在初学编程的推友可以反馈使用 https://t.co/AgfDhVEASK 的一些体验，未来我们也会针对初学者推出一系列的学习路线指导。
+
+7/7 
+#+END_QUOTE\

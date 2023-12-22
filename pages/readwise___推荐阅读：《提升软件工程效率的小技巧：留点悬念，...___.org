@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-17]]
 #+BEGIN_QUOTE
 推荐阅读：《提升软件工程效率的小技巧：留点悬念，让工作更流畅 [译]》
 
@@ -29,7 +29,4 @@
 
 原文：https://t.co/xo9FSJ4Fcd
 翻译：https://t.co/k7xuMphSp3<img src='https://pbs.twimg.com/media/GBftO__XcAAUmoH.jpg'/><img src='https://pbs.twimg.com/media/GBftQGsXUAAKJiz.png'/><img src='https://pbs.twimg.com/media/GBftSbYWcAAXcLd.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-17]]
-*** from _推荐阅读：《提升软件工程效率的小技巧：留点悬念，..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1736117089121743125][View Tweet]]
+#+END_QUOTE\

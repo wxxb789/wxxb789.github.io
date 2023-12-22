@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 自用翻译科技文章的GPT，分两步翻译，先直译再意译，意译后的结果可以直接复制出来。
 
@@ -22,11 +22,8 @@ https://t.co/HfoBodXeG9
 ![](https://pbs.twimg.com/media/F-ieFswWMAA41o5.jpg) 
 
 ![](https://pbs.twimg.com/media/F-ieTJjW4AAx5FE.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _自用翻译科技文章的gpt，分两步翻译，先直译再意..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1722800935028621755][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 我以为你们可以看到Prompt呢，还是完整贴一下：
 
@@ -60,7 +57,4 @@ https://t.co/HfoBodXeG9
 ```
 {意译结果}
 ``` 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _自用翻译科技文章的gpt，分两步翻译，先直译再意..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1722808720264937629][View Tweet]]
+#+END_QUOTE\

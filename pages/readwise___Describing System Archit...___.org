@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: readwise/Describing System Archit...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[rixlabs on Twitter]]
+:full-title: "Describing System Archit..."
+:category: [[tweets]]
+:url: https://twitter.com/rixlabs/status/1737759060701720960
+:image-url: https://pbs.twimg.com/profile_images/1693250889257984000/eERmWshl.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+Describing System Architecture
+
+There was several layer and iterations of technical and business decomposition.
+This is the moment where the DevOps and Infra guys come to you asking: how do you want to deploy and serve your application?
+
+We need a view that goes onto machine, container, servers and load balancers.
+
+The Deployment View gives us this prospective.
+
+The deployment view provides details on:
+
+1. The technical infrastructure utilized for running your system. This includes elements like geographical locations, environments, computers, processors, channels, net topologies, and other relevant infrastructure components.
+    
+2. The mapping of (software) building blocks to these infrastructure elements.
+
+If your system operates in different environments (e.g., development, test, production), ensure documentation covers all pertinent environments.
+
+It is particularly crucial to document the deployment view when:
+
+\- Your software functions as a distributed system with multiple computers, processors, servers, or containers.
+- You are involved in the design and construction of custom hardware processors and chips.
+
+From a software perspective, focus on capturing the necessary infrastructure elements to illustrate the deployment of your building blocks. For hardware architects, the documentation can extend to any level of detail necessary to comprehensively capture the infrastructure.
+
+To run, software relies on hardware, yes even in the cloud! The foundational infrastructure has the potential to impact your system and/or certain cross-cutting concepts. It's imperative to have a solid understanding of the infrastructure.
+
+UML provides deployment diagrams for expressing this view. Consider employing them, potentially with nested diagrams, when the infrastructure is more intricate.
+
+If your hardware stakeholders prefer alternative diagrams over UML deployment diagrams, allow them to use any format capable of illustrating nodes and channels within the infrastructure.
+
+Here is were the old bastards like me have memories of using MS Visio. If this is the case and it is well established in the organisation, let it be 🙂.
+
+As for other decompositions even for deployment we can opt for a multilevel approach.
+
+The first layer should show:
+- the distribution of your system to multiple locations, environments, computers, processors, .. as well as the physical connections between them
+- important justification or motivation for this deployment structure
+- Quality and/or performance features of the infrastructure
+- the mapping of software artifacts (building blocks) to elements of the infrastructure
+
+Any further layer could be used to clarify some internal aspects that could be relevant for the system. Like internal libraries installed on a server for instance.
+
+An example from the arc42 doc.
+
+Bookmark and like this post if you found it useful. 
+
+Follow me, If you are interested in more Software system architecture topic.<img src='https://pbs.twimg.com/media/GB3CpuMXUAAFTu0.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+This post is part of a series about architecture documentation. It is based on arc42 as it is the method I know better. Here the link to the previous chapter: https://t.co/AysIWB7OYO 
+#+END_QUOTE\

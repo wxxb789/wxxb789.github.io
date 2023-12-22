@@ -12,25 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1534116366428807168/goYONywm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-21]]
 #+BEGIN_QUOTE
 四层投研模型：看外面，看里面，看旁边，看前面 
-#+END_QUOTE
-    date:: [[2022-12-21]]
-*** from _分享一下我自己写了50多篇文章后总结的四层投研模型：看外面，看里面，看旁边，看前面_ by Jason
-*** [[https://read.readwise.io/read/01gmr88h76ttbhqx517h5yc1pg][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 仅分享自己的经验，DYOR，附一些我觉得不错的具有原创能力的机构：[@ForesightVen](https://twitter.com/ForesightVen)、[@ANT_Capital](https://twitter.com/ANT_Capital)、[@Mint_Ventures](https://twitter.com/Mint_Ventures)、[@IOSGVC](https://twitter.com/IOSGVC) ，以及博主 [@victalk_eth](https://twitter.com/victalk_eth)、[@0xJamesXXX](https://twitter.com/0xJamesXXX)等，详细的更多信源可看vic和[@CryptoNiels27](https://twitter.com/CryptoNiels27) 之前盘点过的推文 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _分享一下我自己写了50多篇文章后总结的四层投研模型：看外面，看里面，看旁边，看前面_ by Jason
-*** [[https://read.readwise.io/read/01gmppe0gx49jepdvkcpy38a2g][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-20]]
 #+BEGIN_QUOTE
 上篇有人问“新人该如何进行学习”，刚开始全职创业的时候给团队分享过一篇「如何变得 Crypto Native」，回头看近一年来大家的成长，Native 不难，肯下场实践、钻研，加一点聪明和方法就足够 
-#+END_QUOTE
-    date:: [[2022-12-20]]
-*** from _分享一下我自己写了50多篇文章后总结的四层投研模型：看外面，看里面，看旁边，看前面_ by Jason
-*** [[https://read.readwise.io/read/01gmppep2rqeh90y4254wsx5rq][View Highlight]]
+#+END_QUOTE\

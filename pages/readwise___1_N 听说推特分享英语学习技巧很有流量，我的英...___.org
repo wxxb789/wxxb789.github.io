@@ -12,41 +12,29 @@
 :image-url: https://pbs.twimg.com/profile_images/1552319982956154880/ovry18-I.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-11]]
 #+BEGIN_QUOTE
 1/N 听说推特分享英语学习技巧很有流量，我的英语老师（native speaker） 分享给我过一些 tips 
 1. Talk without fear of making mistakes 不要怕语法错误大胆说
 2. Get to grips with the basics 最基础的东西要懂 Possessive Nouns, Pronouns, ‘Be’
 Verbs, Action Verbs  Adjectives 
-#+END_QUOTE
-    date:: [[2023-04-11]]
-*** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [[https://twitter.com/GIA917229015/status/1645423635291844608][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-11]]
 #+BEGIN_QUOTE
 2/N 
 3. Be inquisitive 保持好奇心，英语充满了例外
 4. Immerse yourself within English culture 用英语与家人交流，刷剧
 5. Put it into practice ‘practice makes perfect’
 6. Read, a lot! 
-#+END_QUOTE
-    date:: [[2023-04-11]]
-*** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [[https://twitter.com/GIA917229015/status/1645424779472826368][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-11]]
 #+BEGIN_QUOTE
 3/N
 7. Retrain your brain to think in English 脑子用英语思考，这个蛮重要的，倘若有一天你做了一个英语的梦，那说明真的有在实践。
 8. Learn English, but enjoy doing so 我觉得在 reddit 上面找有意思的社区，进去用英语交流对我来说是很适合，而且容易坚持 
-#+END_QUOTE
-    date:: [[2023-04-11]]
-*** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [[https://twitter.com/GIA917229015/status/1645425381229617153][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-11]]
 #+BEGIN_QUOTE
 原本有 15 点，我筛选出来 8 点，部分可能不认同例如听播客，看剧。我认为最快的方式还是当做工具多交流。 
-#+END_QUOTE
-    date:: [[2023-04-11]]
-*** from _1/N 听说推特分享英语学习技巧很有流量，我的英..._ by @GIA917229015 on Twitter
-*** [[https://twitter.com/GIA917229015/status/1645426140990017536][View Tweet]]
+#+END_QUOTE\

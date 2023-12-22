@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 #烧脑系列分享 （1）
 分享一些初一看无从入手的烧脑技术如何拆解并驾驭
@@ -24,21 +24,15 @@ Btrfs 文件系统被认为是 ext4 —— 目前Linux默认文件系统——�
 （续 
 
 ![](https://pbs.twimg.com/media/F0ztxcVaEAAOcKY.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986265587507200][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）数据发生改变时并不会修改磁盘或SSD等介质上的数据，而是将新的数据写到别的地方，然后更新指针，同理删除数据也并非真的从介质上删除，这种被称为“写时复制 CoW”的特性让数据非常牢固。
 系统支持建立子卷（相当于多棵根目录树）；
 子卷支持随时拍快照（相当于git commit）/还原。
 （续 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986268477394945][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）Btrfs 已经是部分发行版（比如Fedora）的默认文件系统，如果想从ext4转换也相当简单。
 
@@ -47,11 +41,8 @@ Btrfs 文件系统被认为是 ext4 —— 目前Linux默认文件系统——�
 可惜跟很多底层技术一样，文档和资料是分散且难以阅读的：https://t.co/YXFdBvtjFT
 
 (续 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986270985576450][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）下面是我摸索过后整理的一份攻略：
 
@@ -62,11 +53,8 @@ https://t.co/U2Rhkpb2vA
 看 General Concepts，Subvolumes 和 Snapshots 三章。
 
 （续 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986273476997120][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）
 2. （预热）熟悉B-/+Tree数据结构
@@ -80,11 +68,8 @@ https://t.co/yKIuRxDNd7
 https://t.co/xvWHEnchX1 这系列一共3篇
 
 （续 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986275993579520][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）
 3.2 《Building a B-Tree in JavaScript》
@@ -95,11 +80,8 @@ https://t.co/URexgIJgoj
 https://t.co/WftrqxrBWs
 讲解如何持久化（即保持到磁盘）
 (续 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986278585667584][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）
 4. 《Understanding btrfs internals》
@@ -110,15 +92,9 @@ https://t.co/xQNHvDA4Ho
 5. 通过这个教程之后，再回头看 btrfs wiki
 https://t.co/h6k8stM1LA
 （续 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986281215483904][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 续）
 以及官方的文档  https://t.co/mFuGYVlr3X 的 DEVELOPER DOCUMENTATION 章节，你就可以在上一个程序的基础上添加读取文件数据的功能，至此一个 “只读” 版的 Btrfs 驱动就完成了，有兴趣的可以写成一个FUSE模块。至于如何实现“写入”功能，我已经没精力摸索到这个区域，如果大家有资料欢迎补充。 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _#烧脑系列分享 （1） 分享一些初一看无从入手的..._ by @hemashushu on Twitter
-*** [[https://twitter.com/hemashushu/status/1678986285124562944][View Tweet]]
+#+END_QUOTE\

@@ -12,53 +12,38 @@
 :image-url: https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-16]]
 #+BEGIN_QUOTE
 推荐3个大师级投资人物的演讲。
 很花时间但非常值，就像大师给你上免费课一样。
 有了油管真好，简直不能相信这么精彩的内容都是免费的。1/ 
-#+END_QUOTE
-    date:: [[2023-08-16]]
-*** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [[https://twitter.com/raycat2021/status/1691468892038946817][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-16]]
 #+BEGIN_QUOTE
 Joel Greenblatt在哥大给学生上课，他谈了估值，分享了很多案例。那是2005年。
 同一年，Greenblatt出版了一本仅有150页的小书《股市稳赚》，他将自己的投资经验浓缩为一个简单易懂的“神奇公式” 。2/
 https://t.co/TJlhcpbQJP 
-#+END_QUOTE
-    date:: [[2023-08-16]]
-*** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [[https://twitter.com/raycat2021/status/1691468898405945344][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-16]]
 #+BEGIN_QUOTE
 这个公式是从资产收益率高和市盈率低的综合排名中，选择前20-30只股票，形成一个组合，分别买入并持有一年后卖出。
 别小看这样一条看似浅显的公式，如果遵循格林布拉特的投资方法，在1988年至2004年的17年间，投资者的投资组合回报率达到30.8%。
 当然现在已经很难再照这个公式做了。3/ 
-#+END_QUOTE
-    date:: [[2023-08-16]]
-*** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [[https://twitter.com/raycat2021/status/1691468904961581056][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-16]]
 #+BEGIN_QUOTE
 李录2006年在哥大的课，他阐释了选择优质公司的标准。
 李录在哥大读书时受巴菲特的启发，将出版社给的写书预付款投资于股市。
 1996年毕业之前，这笔钱增值到相当规模，甚至觉得可以退休了。
 1997年他创建了喜马拉雅基金，专注于亚洲投资。现在他已经是华尔街大神级人物。4/
 https://t.co/Sq8PqyHuAT 
-#+END_QUOTE
-    date:: [[2023-08-16]]
-*** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [[https://twitter.com/raycat2021/status/1691468908132515840][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-08-16]]
 #+BEGIN_QUOTE
 Terry Smith在2020年Fundsmith年度股东大会上的演讲。
 Terry Smith是英国很受追捧的基金经理。被称为英国的巴菲特。
 他把自己的投资理念总结为三句话:购买好公司，不要多付钱，然后什么也不做。
 2010年Fundsmith发行第一天进行投资，回报远远超过了同期伯克希尔的回报。5/end
 https://t.co/kp3STScMEa 
-#+END_QUOTE
-    date:: [[2023-08-16]]
-*** from _推荐3个大师级投资人物的演讲。 很花时间但非常值..._ by @raycat2021 on Twitter
-*** [[https://twitter.com/raycat2021/status/1691468913845157888][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-29]]
 #+BEGIN_QUOTE
 一个把写 Prompt 门槛降低到膝盖以下的工具网站，ClickPrompt，https://t.co/byGaWQC8ch
 
@@ -22,7 +22,4 @@
 如果还是玩不转，它提供了演示器，手把手教你，一步步实现复杂交互： 
 
 ![](https://pbs.twimg.com/media/FzuAlV9WwAIREdo.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-29]]
-*** from _Tweets From Barret李靖_ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1674073868846387201][View Tweet]]
+#+END_QUOTE\

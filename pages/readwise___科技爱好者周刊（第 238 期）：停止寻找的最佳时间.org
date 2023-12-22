@@ -12,8 +12,8 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-10]]
 #+BEGIN_QUOTE
 一个狭窄的河谷建造了一座巨型水坝，有人对下游居民进行问卷调查，询问他们是否担心水坝倒塌。
 
@@ -28,7 +28,4 @@
 **非理性地拒绝解决已经察觉的问题，这在心理学上叫做"心理否认"。** 这个名词原本用于个人心理学，现在也扩展到社会文化。
 
 如果有件事情让你深感痛苦，你可能就会潜意识地压制或否认这种感觉，以免引起痛苦，尽管这实际上可能带来灾难性的后果。 
-#+END_QUOTE
-    date:: [[2023-01-10]]
-*** from _科技爱好者周刊（第 238 期）：停止寻找的最佳时间_ by 作者： 阮一峰
-*** [[https://read.readwise.io/read/01gpdtzk2y480vzc1z48tkq8ne][View Highlight]]
+#+END_QUOTE\

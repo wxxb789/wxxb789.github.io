@@ -12,67 +12,43 @@
 :image-url: https://pbs.twimg.com/profile_images/937627860256337920/FSgbvhGG.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 1/8 Let's talk about the fundamental principle of concurrency: Amdahl's Law. 
 #SoftwareEngineering #softwaredevelopment 
 
 ![](https://pbs.twimg.com/media/GAxJiZ-aIAEQIBO.png) 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841476294648081][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 2/8 Amdahl's Law, named after Gene Amdahl, is a cornerstone in understanding the limits of concurrency. It tells us that the speedup gained from parallelization is directly limited by the fraction of sequential code in the program. 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841477624242608][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 3/8 In simpler terms, no matter how many threads or processors you use, the sequential part of your code sets an upper bound on how fast your program can run. It's like having a bottleneck that slows everything down. 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841478681206936][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 4/8 Think of going to the mall: many shoppers can browse simultaneously, but when it's time to pay, lines form as there are fewer cashiers. Just like in a concurrent system, speed is limited by sequential segments. 
 
 ![](https://pbs.twimg.com/media/GAxJkpIbIAAL3BK.png) 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841479696228643][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 5/8 To harness the full potential of concurrency, consider these steps:
 Identify Sequential Bottlenecks: Use profiling tools to find the parts of your code that are inherently sequential. 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841481034211507][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 6/8 Optimize Critical Sections: Focus on optimizing these bottlenecks, maybe by rewriting code or using parallel-friendly data structures.
 Leverage Concurrency Techniques: Explore multithreading, multiprocessing, and async programming to distribute work efficiently. 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841482065944630][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 7/8 Balancing parallelism and minimizing sequential bottlenecks is key to concurrency optimization. It requires a deep understanding of your software's architecture. 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841483114520992][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-08]]
 #+BEGIN_QUOTE
 8/8 If you're eager to master concurrency and unlock its true potential, check out my upcoming book, "Grokking Concurrency." It's your comprehensive guide to mastering concurrency concepts and addressing bottlenecks. Grab your copy here: https://t.co/TwSqRbNfJF 
-#+END_QUOTE
-    date:: [[2023-12-08]]
-*** from _1/8 Let's Talk About The..._ by @luminousmen on Twitter
-*** [[https://twitter.com/luminousmen/status/1732841484146385183][View Tweet]]
+#+END_QUOTE\

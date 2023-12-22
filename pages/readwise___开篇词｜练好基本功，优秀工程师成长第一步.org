@@ -13,8 +13,8 @@
 :image-url: https://static001.geekbang.org/resource/image/c2/dc/c2d25fa05c3ffee2e4d8863201743bdc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-01]]
 #+BEGIN_QUOTE
 但若是我们要开发大规模应用系统，如电商服务系统，问题就会变得复杂。比如：
 
@@ -25,14 +25,8 @@
 3. 如何管理长期使用的内存空间？如何避免系统 IO 抖动？
 
 4. 如何处理网络带来的各种问题，比如通信拥堵、拒绝请求，甚至掉线？ 
-#+END_QUOTE
-    date:: [[2023-07-01]]
-*** from _开篇词｜练好基本功，优秀工程师成长第一步_ by geekbang.org
-*** [[https://read.readwise.io/read/01h46q9r54ef6vfh5b1w2b0w00][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-01]]
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/2d/bb/2d89cfa19124af8068bd9f94d9e0b5bb.jpg?wh=4182x2993) 
-#+END_QUOTE
-    date:: [[2023-07-01]]
-*** from _开篇词｜练好基本功，优秀工程师成长第一步_ by geekbang.org
-*** [[https://read.readwise.io/read/01h46qamcxzhh7xh3113ydm8ev][View Highlight]]
+#+END_QUOTE\

@@ -12,22 +12,16 @@
 :image-url: https://pbs.twimg.com/profile_images/1590021763823734785/gRr2Ifrm.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-04]]
 #+BEGIN_QUOTE
 A guide to the DNS system hierarchy👇 
 
 ![](https://pbs.twimg.com/media/FoDBawzaAAALCgn.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-04]]
-*** from _A Guide to the DNS Syste..._ by @Rapid_API on Twitter
-*** [[https://twitter.com/Rapid_API/status/1621508541394882561][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-02-04]]
 #+BEGIN_QUOTE
 Thanks for reading!🐙
 
 Follow us @Rapid_API for more exclusive content. 
-#+END_QUOTE
-    date:: [[2023-02-04]]
-*** from _A Guide to the DNS Syste..._ by @Rapid_API on Twitter
-*** [[https://twitter.com/Rapid_API/status/1621508548374183936][View Tweet]]
+#+END_QUOTE\

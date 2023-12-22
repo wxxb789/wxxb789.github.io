@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1182459197788545024/Z8Nb4YiI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-09]]
 #+BEGIN_QUOTE
 是懂非懂的金融从业者补充一点信息吧。
 
@@ -26,7 +26,4 @@
 - 运营模式存在重大金融风险，不可监管，不可复制。
 
 ---… https://t.co/Qq3DXengv9 
-#+END_QUOTE
-    date:: [[2023-07-09]]
-*** from _是懂非懂的金融从业者补充一点信息吧。 为什么「..._ by @iamshaynez on Twitter
-*** [[https://twitter.com/iamshaynez/status/1677667872141901826][View Tweet]]
+#+END_QUOTE\

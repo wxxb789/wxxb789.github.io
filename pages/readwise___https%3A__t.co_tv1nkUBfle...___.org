@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1500510285563449346/03jyzwGg.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 https://t.co/tv1nkUBfle 应该是第一个盈利的 GPTs 导航站。作为一个业余快速上线的项目，目前创造了我很多新成就：
 
@@ -30,11 +30,8 @@ https://t.co/tv1nkUBfle 应该是第一个盈利的 GPTs 导航站。作为一�
 另外，目前在国内已经无法访问。
 
 #GPTs #GPTStore #GPTsHunter 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [[https://twitter.com/iamairyland/status/1727371133660307777][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 https://t.co/tv1nkUBfle is likely to be the first profitable GPTs directory website.
 
@@ -59,25 +56,16 @@ https://t.co/tv1nkUBfle is likely to be the first profitable GPTs directory webs
 9️⃣ Most open product form, sharing data with 70 group members to explore together (From Day 3)
 
 #GPTs #GPTStore #GPTsHunter 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [[https://twitter.com/iamairyland/status/1727371353735500100][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 10. 在第10天时域名 DR 达到了 50，获得来自 130 个网站的超过 60k 的反链。 
 
 ![](https://pbs.twimg.com/media/F_kNAn8WIAALreX.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [[https://twitter.com/iamairyland/status/1727426317975785483][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-23]]
 #+BEGIN_QUOTE
 感谢以下赞助商：
 FlowGPT: https://t.co/bVp89e4NvL
 Monica: https://t.co/yfg7pyyv0U 
-#+END_QUOTE
-    date:: [[2023-11-23]]
-*** from _https://t.co/tv1nkUBfle..._ by @iamairyland on Twitter
-*** [[https://twitter.com/iamairyland/status/1727464777985798509][View Tweet]]
+#+END_QUOTE\

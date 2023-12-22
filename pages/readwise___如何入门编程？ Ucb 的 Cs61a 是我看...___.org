@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-15]]
 #+BEGIN_QUOTE
 如何入门编程？
 
@@ -25,7 +25,4 @@ UCB 的 CS61A 是我看过所有编程教程里面最适合入门的一门课，
 
 课程地址：https://t.co/KTUAlFMh7g
 YouTube 视频：https://t.co/ckVFoEXyRF<img src='https://pbs.twimg.com/media/F-87aAbawAApGNC.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-15]]
-*** from _如何入门编程？ Ucb 的 Cs61a 是我看..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1724662960092774620][View Tweet]]
+#+END_QUOTE\

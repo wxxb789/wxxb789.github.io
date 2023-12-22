@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1651448138182578177/H9kcfTCy.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-05]]
 #+BEGIN_QUOTE
 ChatGPT 新版本更多功能和OpenAI开发者大会细节曝光：
 
@@ -46,18 +46,12 @@ Microsoft 365：将Microsoft Word、Excel和Powerpoint文件附加到消息中�
 👥Workspace和Team Plan：其中Team Plan有两种类型：灵活计划和年度计划。灵活计划每月30美元，年度计划每年25美元，两种计划都从每月90美元起，最少3个用户开始，团队计划增加了诸如无限高速GPT-4访问、4倍更长的上下文和无限数据分析等好处。
 
 🔍其他传闻：GPT-4 API价格降低，GPT-4速度提升10~20倍（GPT4-TURBO）、32K通用访问令牌的传闻，以及Dali3 API的宣布、图像嵌入和GPT-3开源发布的可能性。<img src='https://pbs.twimg.com/media/F-IutghaUAABhr_.jpg'/><img src='https://pbs.twimg.com/media/F-Iutg0aoAAOVxL.jpg'/><img src='https://pbs.twimg.com/media/F-Iw7QwboAABPue.jpg'/><img src='https://pbs.twimg.com/media/F-Iw86Ta4AAXzTe.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-05]]
-*** from _ChatGPT 新版本更多功能和OpenAI开发..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1720992954947715293][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-05]]
 #+BEGIN_QUOTE
 应用连接器：ChatGPT还将更新一个的“应用连接器”的功能。
 
 这些连接器将允许用户连接应用程序以在ChatGPT中访问它们的信息。例如：  Google Drive和Microsoft 365。 
 
 ![](https://pbs.twimg.com/media/F-IyBrqaIAAF8iO.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-05]]
-*** from _ChatGPT 新版本更多功能和OpenAI开发..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1720993052083564596][View Tweet]]
+#+END_QUOTE\

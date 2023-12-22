@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/1715212547215802368/tqxfSqh3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-09]]
 #+BEGIN_QUOTE
 OpenAI released updates to their API today. This includes support for calling functions with Chat endpoints, which is really cool. But, there are other components to this release that are even more important. Here's the top 3 things to know... 
 
 ![](https://pbs.twimg.com/media/FyhhogYXoAAvAiS.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-09]]
-*** from _OpenAI Released Updates..._ by @cwolferesearch on Twitter
-*** [[https://twitter.com/cwolferesearch/status/1668694954581827598][View Tweet]]
+#+END_QUOTE\

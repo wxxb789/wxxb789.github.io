@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1573915848384778241/pONOmFm3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 GM Saturday
 
@@ -24,7 +24,4 @@ GM Saturday
 玩无限游戏的9条核心原则👇… https://t.co/SKzJomSgBW 
 
 ![](https://pbs.twimg.com/media/F1C5rK5aUAA5KHt.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _GM Saturday 几年前创业的时候读过《..._ by @starzqeth on Twitter
-*** [[https://twitter.com/starzqeth/status/1680048156556533760][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-06]]
 #+BEGIN_QUOTE
 我目前看到的AI绘画资料最全版本
 
@@ -24,7 +24,4 @@
 https://t.co/iUIoi3aN6m 
 
 ![](https://pbs.twimg.com/media/F0UbdCFaUAAFJsF.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-06]]
-*** from _Tweets From 比特图灵_ by @Bitturing on Twitter
-*** [[https://twitter.com/Bitturing/status/1676776736275705863][View Tweet]]
+#+END_QUOTE\

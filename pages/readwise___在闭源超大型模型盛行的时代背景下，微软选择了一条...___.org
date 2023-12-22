@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 在闭源超大型模型盛行的时代背景下，微软选择了一条不同的道路，专注于开发“小而美”的oss模型，正如phi和Wizard。
 
@@ -42,7 +42,4 @@ Wizard模型的核心理念同样也蕴含了深刻的哲学思考，特别是�
 Textbooks Are All You Need https://t.co/g91flOIRnU
 WizardLM、WizardMathWizardCoder
 https://t.co/kWbDViSRpY<img src='https://pbs.twimg.com/media/GBbQOZ1WsAA4Ed9.jpg'/><img src='https://pbs.twimg.com/media/GBbSUGVWoAArp-7.png'/><img src='https://pbs.twimg.com/media/GBbSeK1W4AAS3WS.png'/><img src='https://pbs.twimg.com/media/GBbXFoPW4AAk6KP.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _在闭源超大型模型盛行的时代背景下，微软选择了一条..._ by @realrenmin on Twitter
-*** [[https://twitter.com/realrenmin/status/1735817231601135720][View Tweet]]
+#+END_QUOTE\

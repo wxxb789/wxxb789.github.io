@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-08]]
 #+BEGIN_QUOTE
 今天给朋友解释《一个简单的Prompt大幅提升ChatGPT翻译质量，告别“机翻感”》这个Prompt，开始他没听懂，我说可以这么理解：
 
@@ -26,16 +26,10 @@
 最后将中文老师重写后的结果交给学生阅读。
 
 如果你联系现在比较火的智能体（AI Agent）概念，你也可以想象是在一个Prompt里面用到了两个智能体帮你干活。 
-#+END_QUOTE
-    date:: [[2023-10-08]]
-*** from _今天给朋友解释《一个简单的Prompt大幅提升C..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1710707427933344037][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-08]]
 #+BEGIN_QUOTE
 那为什么不一步到位呢？
 
 其实对于 GPT-4 来说，一次到位的翻译质量也还可以的，这样直译+意译分两次是为了追求更好的质量，类似于 CoT（思维链），借助“一步步”分步骤执行提升最终质量。 
-#+END_QUOTE
-    date:: [[2023-10-08]]
-*** from _今天给朋友解释《一个简单的Prompt大幅提升C..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1710710941430497457][View Tweet]]
+#+END_QUOTE\

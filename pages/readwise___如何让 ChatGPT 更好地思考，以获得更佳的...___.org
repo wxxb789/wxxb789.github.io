@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-18]]
 #+BEGIN_QUOTE
 如何让 ChatGPT 更好地思考，以获得更佳的输出效果，有几个比较成熟的实践和技巧，背后都有对应的论文。
 
@@ -35,7 +35,4 @@
 
 “你可以扮演任何角色，针对我给出的问题，请提供三个最相关的角色，对问题进行两轮讨论，然后你综合讨论结果总结最佳方案。请打印三个角色的讨论过程以及最后的方案。”
 以上，这些技巧的运用并不复杂，但是思想比较重要，掌握了之后，稍微修改下 Prompt，便可以得到更加符合预期的结果。 
-#+END_QUOTE
-    date:: [[2023-10-18]]
-*** from _如何让 ChatGPT 更好地思考，以获得更佳的..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1714578115580833858][View Tweet]]
+#+END_QUOTE\

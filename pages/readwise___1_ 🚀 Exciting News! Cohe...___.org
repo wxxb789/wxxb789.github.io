@@ -12,46 +12,31 @@
 :image-url: https://pbs.twimg.com/profile_images/1650250832909152260/760DZ0cv.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 1/ 🚀 Exciting news! Cohere's multilingual embedding model now enables cross-lingual text classification in 100+ languages! 🌟 Read our latest blog post by @Nils_Reimers, @amrmkayid, & Elliott Choi to learn how you can leverage this groundbreaking tech:
 https://t.co/qqMbBaqgqN 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _1/ 🚀 Exciting News! Cohe..._ by @CohereAI on Twitter
-*** [[https://twitter.com/CohereAI/status/1646984342248275969][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 2/ With this model, you can excel in sentiment analysis, content moderation, and intent recognition, all while outperforming the alternatives! 💪🎯 
 
 ![](https://pbs.twimg.com/media/FttC_mQWYAMsg15.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _1/ 🚀 Exciting News! Cohe..._ by @CohereAI on Twitter
-*** [[https://twitter.com/CohereAI/status/1646984343603105792][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 3/ Forget the hassle of collecting training data in each language individually! 😅 With Cohere's multilingual model, you just need a training dataset in a single language to work automatically across 100+ languages. 🤯 
 
 ![](https://pbs.twimg.com/media/FttDIt9X0AI5q-P.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _1/ 🚀 Exciting News! Cohe..._ by @CohereAI on Twitter
-*** [[https://twitter.com/CohereAI/status/1646984346375708672][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 4/ What's easier than this? In many cases, only a handful of training examples per class are needed to produce a strong text classifier! 🌟 
 
 ![](https://pbs.twimg.com/media/FttDMLbX0AE9QHy.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _1/ 🚀 Exciting News! Cohe..._ by @CohereAI on Twitter
-*** [[https://twitter.com/CohereAI/status/1646984349374615553][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-18]]
 #+BEGIN_QUOTE
 5/ Ready to build text classifiers for 100+ languages using just one language's training data? Look no further and get started building! 📈🌐 https://t.co/SXjkRXmtuq 
-#+END_QUOTE
-    date:: [[2023-04-18]]
-*** from _1/ 🚀 Exciting News! Cohe..._ by @CohereAI on Twitter
-*** [[https://twitter.com/CohereAI/status/1646984351589048321][View Tweet]]
+#+END_QUOTE\

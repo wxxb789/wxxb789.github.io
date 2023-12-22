@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1574653613624131585/HqtztpvQ.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-16]]
 #+BEGIN_QUOTE
 无意间 发现 Numbeo 这个世界上最大的生活成本数据库还挺好玩的！✨🌍
 
@@ -24,7 +24,4 @@
 链接 https://t.co/QsAiBAXAiV 
 
 ![](https://pbs.twimg.com/media/F1J0U-LagAAvuhb.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-16]]
-*** from _无意间 发现 Numbeo 这个世界上最大的生活..._ by @ponyweb3_eth on Twitter
-*** [[https://twitter.com/ponyweb3_eth/status/1680548584364871681][View Tweet]]
+#+END_QUOTE\

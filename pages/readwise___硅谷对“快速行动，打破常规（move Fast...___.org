@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-07]]
 #+BEGIN_QUOTE
 硅谷对“快速行动，打破常规（move fast and break things）”理念的新演绎
 
@@ -71,7 +71,4 @@ Zuckerberg 的 “快速行动，打破常规” 口号可能在 Meta 的 2019 �
 
 转译自：Silicon Valley has a new version of its beloved 'move fast and break things' mantra
  https://t.co/u3nlVZb8nb 
-#+END_QUOTE
-    date:: [[2023-12-07]]
-*** from _硅谷对“快速行动，打破常规（move Fast..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1732591351487676695][View Tweet]]
+#+END_QUOTE\

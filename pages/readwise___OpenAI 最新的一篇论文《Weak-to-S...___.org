@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-15]]
 #+BEGIN_QUOTE
 OpenAI 最新的一篇论文《Weak-to-strong Generalization》，https://t.co/HJGB8I0R7X，读起来还是很让人兴奋的，它甚至提供了 1000 万美元的资助计划，期望更多人参与进来解决这篇论文提出的问题：如何让弱监督模型强化比它更强的模型，以构建超人类人工智能系统，例如，如何使用 GPT-2 作为监督模型让 GPT-4 变得更强。
 
@@ -24,7 +24,4 @@ OpenAI 最新的一篇论文《Weak-to-strong Generalization》，https://t.co/H
 它们通过实验证明，GPT-2 调优 GPT-4 可以得到一个 GPT-3~3.5 的水平，但额外发现了一个有趣的现象是，GPT-2 在调优的过程中变得更加聪明了，假设有一个跟人类差不多水平的 AI 去调优一个更强的 GPT（如 GPT-5），在调优的过程中，这个 AI 可以获得比当前更强的水平，从而就可以更进一步让 GPT-5 演化到 GPT-6 了，听起来还是比较振奋人心的。
 
 为了让大家可以更好地参与到这个项目中，OpenAI 开源了他们使用弱监督 AI 调优更强 AI 的代码，https://t.co/4c7sXGVStc，感兴趣的可以去学习下。<img src='https://pbs.twimg.com/media/GBW-LkSacAAHeU-.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-15]]
-*** from _OpenAI 最新的一篇论文《Weak-to-S..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1735503637542265117][View Tweet]]
+#+END_QUOTE\

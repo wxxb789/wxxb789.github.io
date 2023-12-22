@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1621910730227449856/iW8AGVCr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 100+ OOPs Interview Questions
 
@@ -29,11 +29,8 @@
 incl. design patterns and class diagrams
 
 ⇩ 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879834053988354][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 Level: Beginner to Medium
 Topic:
@@ -47,11 +44,8 @@ Topic:
 
 Read all these questions uninterrupted and download them to a PDF using 👇
 https://t.co/VAVMfj59tw 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879836511862786][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➊ OOPs Basics
 
@@ -62,21 +56,15 @@ https://t.co/VAVMfj59tw
 ➄ Why are OOPs needed?
      Or,
 ➅ Advantages of OOPs 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879840026660865][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➆ Where should OOPs not be used?
 ➇ What are the major features of OOPs?
 ➈ Mention a few popular languages that support OOPs.
 ➉ Does <your_language> support OOPs? How? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879842966876160][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➋ Class, Object, Interface
 
@@ -86,21 +74,15 @@ https://t.co/VAVMfj59tw
 ➃ What does a class provide or define?
 ➄ What is a property in a class?
 ➅ What is a method in a class? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879845269561345][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➆ What is an abstract method?
 ➇ What is an abstract class?
 ➈ What is an interface?
 ➉ What does "static" mean with regard to properties and methods? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879847773556737][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➌ Encapsulation, Abstraction, Polymorphism, Inheritance
 
@@ -111,11 +93,8 @@ https://t.co/VAVMfj59tw
 ➄ What is abstraction?
 ➅ How is abstraction accomplished?
 ➆ What is inheritance? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879850374037507][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➇ Give an example of inheritance.
 ➈ What are the advantages of inheritance?
@@ -123,11 +102,8 @@ https://t.co/VAVMfj59tw
 ➀➀ What are the different types of inheritance?
 ➀➁ Which type of inheritance does <your_language> support?
 ➀➂ What is a superclass or a subclass? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879852940947461][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➀➃ What is polymorphism?
 ➀➄ What are the different types of polymorphism? Explain.
@@ -135,11 +111,8 @@ https://t.co/VAVMfj59tw
 ➀➆ What is method overriding?
 ➀➇ Tell the difference between overloading and overriding.
 ➀➈ How does <your_language> support overloading and overriding? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879855449112576][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➍ Constructor and Destructor
 
@@ -149,33 +122,24 @@ https://t.co/VAVMfj59tw
 ➃ What is a parameterized constructor?
 ➄ What is a copy constructor?
 ➅ When is a constructor invoked? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879858196119553][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➆ Is a parent class constructor invoked when a child class constructor is invoked? In what order?
 ➇ Is the creation of an object mandatory? If not, when?
 ➈ Can an interface have a constructor?
 ➉ What is a destructor?
 ➀➀ When is a destructor invoked? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879861388267522][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➀➁ Is the destructor invoked automatically or manually?
 ➀➂ Does <your_language> support defining a destructor?
 ➀➃ In which order destructors are invoked in case of inheritance?
 ➀➄ What is garbage collection?
 ➀➅ How does <your_language> do garbage collection? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879863724498944][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➎ Design Patterns
 
@@ -185,11 +149,8 @@ https://t.co/VAVMfj59tw
 ➃ What do you mean by creational design pattern?
 ➄ Define all creational design patterns.
 ➅ What do you mean by structural design pattern? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879866274635777][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➆ Define all structural design patterns.
 ➇ What do you mean by behavioral design pattern?
@@ -198,11 +159,8 @@ https://t.co/VAVMfj59tw
 ➀➀ Why is singleton necessary?
 ➀➁ Doesn't Singleton break the purpose of OOPs?
 ➀➂ What is a Facade? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879868594085888][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➀➃ What is a Factory?
 ➀➄ What is a Builder?
@@ -212,11 +170,8 @@ https://t.co/VAVMfj59tw
 ➀➈ What is a decorator? Give some examples.
 20. What is a Proxy?
 ➁➀ Explain different types of proxies. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879871039352833][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➁➁ What is a chain of responsibility?
 ➁➂ What is a bridge?
@@ -224,11 +179,8 @@ https://t.co/VAVMfj59tw
 ➁➄ What is the service locator design pattern?
 ➁➅ What is dependency injection?
 ➁➆ Difference between Service Locator and Dependency Injection. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879873581125636][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➁➇ What is MVC?
 Or,
@@ -236,11 +188,8 @@ Or,
 30. What is a DAO?
 ➂➀ What is a DTO?
 ➂➁ Define the strategy to describe a design pattern. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879875887955968][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➏ Class Diagram
 
@@ -249,11 +198,8 @@ Or,
 ➂ How are private, protected, and public members shown in a class diagram?
 ➃ How is an interface shown in a class diagram?
 ➄ How is an abstract class shown in a class diagram? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879878744297473][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 ➅ What are generalization and specialization?
 ➆ What is an association?
@@ -263,11 +209,8 @@ Or,
 ➀➀ What is a composite structure diagram?
 ➀➁ What are reflexive associations?
 ➀➂ What is an object diagram? 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879883920052233][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 🚥 Disclaimer
 
@@ -276,11 +219,8 @@ Or,
 ⬗ I don't claim that only these types of questions are asked during interviews.
 
 ⬙ Many questions from this series have been shared by me earlier on Twitter. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609879886591660032][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 That's it for this series.
 
@@ -288,7 +228,4 @@ I am sharing interview questions on programming, DSA, databases. Follow me @swap
 
 Did you like these questions? Remember to Like and RT the below tweet:
 https://t.co/6lfHZ3ERvB 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _100+ OOPs Interview Ques..._ by @swapnakpanda on Twitter
-*** [[https://twitter.com/swapnakpanda/status/1609880005995286528][View Tweet]]
+#+END_QUOTE\

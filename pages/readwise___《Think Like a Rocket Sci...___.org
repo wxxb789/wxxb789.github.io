@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-21]]
 #+BEGIN_QUOTE
 《Think Like A Rocket Scientist》中介绍了几种证伪自己的方法
 
@@ -31,7 +31,4 @@
 无论是做项目，还是搞投资，一段时间过后，你都可能不自觉地爱上自己的想法（confirmation bias）。其实，越是重大的事， 我们越要学习科学家的精神，提醒自己要证伪自己的假设。
 
 #note 
-#+END_QUOTE
-    date:: [[2023-11-21]]
-*** from _《Think Like a Rocket Sci..._ by @henices on Twitter
-*** [[https://twitter.com/henices/status/1726904746320015701][View Tweet]]
+#+END_QUOTE\

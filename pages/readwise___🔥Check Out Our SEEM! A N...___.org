@@ -12,24 +12,18 @@
 :image-url: https://pbs.twimg.com/profile_images/1680841506939359233/zMQPCCQK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 🔥Check out our SEEM! A new image segmentation interface with a single model supporting prompts like text, points, boxes, scribbles and even ref images! It is versatile, compositional, interactive, and semantic-aware! 
 Code: https://t.co/8vofaL0JQN
 Demo: https://t.co/ksr82Uw8Vk 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646939294580473856][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 SEEM inherits the spirit of our X-Decoder to build a general-purpose multi-modal interface but focuses on adapting human intents in various formats (texts, UI actions, audios, etc.) to universal prompt space for the decoder, removing the communication barrier between you and AI! 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646943063057780736][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 With SEEM, the power of the segmentation models is fully unleashed and your intents can be fully conveyed! It further shows surprising capacities to generalize to unseen prompts and different visual domains. Some interesting examples for using texts, points and images as prompts! 
 
@@ -38,41 +32,26 @@ With SEEM, the power of the segmentation models is fully unleashed and your inte
 ![](https://pbs.twimg.com/media/Ftsf7wZaEAE92VJ.jpg) 
 
 ![](https://pbs.twimg.com/media/FtsgC2raIAATs46.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646945974592630789][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 Another interesting and promising application is using SEEM for videos! We did NOT train on it with a single video. It works directly for you to segment any entities! With just a simple scribble on the first frame, it can handle deformations, zooms, and blurring in a long range! 
 
 ![](https://pbs.twimg.com/media/Ftsh-JmaQAAFHEz.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646947456662507520][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 It does not only understand the single entities but also the styles and contexts! See these interesting proofs! 
 
 ![](https://pbs.twimg.com/media/Ftsjl2OaAAEn1-f.jpg) 
 
 ![](https://pbs.twimg.com/media/FtsjnEfaIAACnUh.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646949347660304386][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 Seeing these good results, you may wonder whether it fails. Yes! it fails in many cases. It does not handle object parts. it does not have a huge vocabulary size though it was trained for open-vocab. The segmentation preciseness may also not satisfy your requirements sometime. 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646950412568907777][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 At last, you may wonder what we think about moving forward. We do advocate solving vision out of the box and building interactive/universal interfaces for the multi-modal world, particularly the open visual world we are residing! It is not the end, it is just right the beginning! 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _🔥Check Out Our SEEM! A N..._ by @jw2yang4ai on Twitter
-*** [[https://twitter.com/jw2yang4ai/status/1646953187231023104][View Tweet]]
+#+END_QUOTE\

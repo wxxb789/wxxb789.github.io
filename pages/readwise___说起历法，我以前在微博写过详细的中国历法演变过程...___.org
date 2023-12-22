@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1653584496460197889/7cJQMLho.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 说起历法，我以前在微博写过详细的中国历法演变过程。发现我自己的号上还能看到。搬过来一下。//
 很多人以为中华文明在1840年前，与西方文明交流很少的。但是实际上，中华文明在很多方面都有印度文明，伊朗文明，希腊文明，阿拉伯文明交汇的痕迹。 天文历法是个非常好的切入点。1/n 
@@ -23,88 +23,58 @@
 ![](https://pbs.twimg.com/media/FnHrIPOaYAA24-k.jpg) 
 
 ![](https://pbs.twimg.com/media/FnHrIPbaMAAAzU7.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332275926167552][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 根据木星经过的星次用以纪年的方法法被称为岁星纪年。 
 木星是自西向东逆时针旋转，而十二辰（支）的运行是自东向西顺时针旋转，因此岁星纪年在实际运用中很不方便。于是，古人假想出另外一颗“岁星”，与岁星的运行方向相反，称之为“太岁”，以之与十二辰的方向一致。这种纪年方法称作太岁纪年2/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332280284045313][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 古人将太岁运行至十二辰的年份重新命名为：摄提格、单阏、执徐、大荒落、敦牂（zāng）、协洽、涒滩、作鄂、掩茂、大渊献、困敦、赤奋若。
 这套纪年制度很可能是来自于古代波斯文明。
 这套纪年，有很严重的误差，所以汉代之后就废止了。3/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332282829991937][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 东汉建武三十年以后，只按六十甲子的干支顺序来纪年，称作干支纪年。这套历法实际用到现在。比如甲午，戊戌，这些都是干支纪年。这套历法还是不够准确。 唐朝的时候有个和尚搞出来《大衍历》。当时也是说是自主知识产权的。
 4/n 
 
 ![](https://pbs.twimg.com/media/FnHrJO6aUAUzgZX.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332290438443016][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 但是很快有人打官司了，说新法抄袭了翻译自印度的历法《九执历》，而且还得到了“其术未尽”的评价。意思是，《大衍历》是对《九执历》的不完全抄袭，山寨的水平还不够。《大衍历》确实吸收了一部分先进的印度历算成果，但是数学问题很快成为了政治问题。5/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332294536294400][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 控告方反而被被外放二十多年，758年才重回司天台。这也使得唐帝国并没有能充分吸收西方的历法计算技术。直到五百多年以后，元朝的阿拉伯天文家才重新带来了360度分度，以及更正确的日月食计算方法。郭守敬等人在新的方法和测量技术下，搞出来了《授时历》。这套历法的延用至大明。6/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332297027682304][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 在文艺复兴的同时期，西方大传教士将希腊的数学，几何这些东西引进到中国。比如几何原本。但是这些东西并没有给中国的数学与科技带来本质的进步。即便是几何原本也只翻译了前六卷。全本还需要等几百年。
 之后，汤若望将西方的历法结合中国的情况，搞出来了《时宪历》这基本上现在农历的最早的样子7/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332299418472448][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 而汤若望差点因为“反对西方历法引动” 被凌迟处死。
 当时的辅政大臣鳌拜反对西洋学说，康熙三年搞出了“历狱”，汤若望被判凌迟死刑。
 然而康熙四年（1665年），京师恰巧发生地震，免死羁狱，后来汤若望获孝庄太皇太后特旨释放。8/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332302006349824][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 到了清末，袁大头称帝。那西方的那套历法绝不能再用了。所以就用了一个非常搞笑的，黄帝纪年。
 光绪三十一年（1905）宋教仁以《皇极 经世》、《通鉴辑览》等古书为据，拟定是年为黄帝纪年元四千六百○三年。然而大头国运不济，很快完蛋。9/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332304967536640][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 黄帝纪年用至辛亥十一月十二日（1911年12月 13日）止，1912年元旦起改从阳历。从此就是我们现在比较熟悉的阳历。所以，如果真要反对各种西方文化的，建议恢复黄帝纪元。
 另外，
 在2500年前，毕达哥拉斯就认为地球是个球形。
 在2000年前，埃拉托色尼测量出地球的圆周40008千米。
 10/n 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332307710578688][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-24]]
 #+BEGIN_QUOTE
 另外很多中国仁人志士翻译的西方资料，在国内没有引起很大反响，但是在日本受到了很多追捧。
 历史很吊诡。
@@ -114,7 +84,4 @@ n/n
 ![](https://pbs.twimg.com/media/FnHrKstaAAE5mPw.jpg) 
 
 ![](https://pbs.twimg.com/media/FnHrKstaMAAtT8z.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-24]]
-*** from _说起历法，我以前在微博写过详细的中国历法演变过程..._ by @mtrainier2020 on Twitter
-*** [[https://twitter.com/mtrainier2020/status/1617332313666523137][View Tweet]]
+#+END_QUOTE\

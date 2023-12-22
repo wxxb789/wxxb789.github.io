@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1643789779262119936/-EaBjU_f.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 introducing: https://t.co/4G2UilS3DQ ⭐️
 
@@ -22,16 +22,10 @@ a playground to compare different text embedding models from companies like @Ope
 all retrievals are powered by @trychroma 
 
 ![](https://pbs.twimg.com/media/Fxf1XqtWwAI1N1b.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Introducing: https://t.c..._ by @justinliang1020 on Twitter
-*** [[https://twitter.com/justinliang1020/status/1664070025634881536][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-01]]
 #+BEGIN_QUOTE
 inspired by https://t.co/xPDBSLrko6 (@natfriedman) and https://t.co/k6xSC2PYhk (@charliebholtz)
 
 https://t.co/4G2UilS3DQ is OSS and very early, let me know what features y'all want to see (down to build anything broadly in the space of text retrieval) 
-#+END_QUOTE
-    date:: [[2023-06-01]]
-*** from _Introducing: https://t.c..._ by @justinliang1020 on Twitter
-*** [[https://twitter.com/justinliang1020/status/1664070028738584576][View Tweet]]
+#+END_QUOTE\

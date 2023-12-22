@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1477903349278453762/0OBeufkj.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 LLM Visualization —— 可视化看懂大模型原理
 
@@ -22,7 +22,4 @@ LLM Visualization —— 可视化看懂大模型原理
 大语言模型（英文：Large Language Model，缩写LLM）是一种人工智能模型，也就是如今 ChatGPT 等产品的技术基础。这个网站用可视化演示了 GPT-2、GPT-3 的技术原理，还是得有点技术技术才能看懂。 
 
 ![](https://pbs.twimg.com/media/GA7DQa2aoAAFRM8.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _LLM Visualization —— 可视化..._ by @ftium4 on Twitter
-*** [[https://twitter.com/ftium4/status/1733537601821589925][View Tweet]]
+#+END_QUOTE\

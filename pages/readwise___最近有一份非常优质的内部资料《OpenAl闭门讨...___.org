@@ -12,17 +12,14 @@
 :image-url: https://pbs.twimg.com/profile_images/1506883765754236929/NtxXAmwf.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 最近有一份非常优质的内部资料《OpenAl闭门讨论会V3【GPT-4】纪要》在社群内小范围传播，是海外的业内人士对 #OpenAl、#ChatGPT、#GPT4、#大模型的思考，以及对未来技术、商业、创业、机遇的研究预判，由 #拾象科技 整理发布，内容质量也很高，值得一读! 
 
 ![](https://pbs.twimg.com/media/FsNYxXLacAITTLX.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640252306972381184][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNZCCTacAEAYjR.jpg) 
 
@@ -31,11 +28,8 @@
 ![](https://pbs.twimg.com/media/FsNZFu1agAAlIjv.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNZI66aQAMJK9C.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640252741883944961][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNZNdhaMAEwPs-.jpg) 
 
@@ -44,11 +38,8 @@
 ![](https://pbs.twimg.com/media/FsNZRf2aEAAEGQo.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNZUbQaMAE3s6N.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640252910767570944][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNZY6YacAI4YpU.jpg) 
 
@@ -57,11 +48,8 @@
 ![](https://pbs.twimg.com/media/FsNZcgfaMAESUNz.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNZm0KaYAEWdXB.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640253226934210560][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNZrSNakAAR9Ep.jpg) 
 
@@ -70,11 +58,8 @@
 ![](https://pbs.twimg.com/media/FsNZwNuaYAEofs4.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNZ490acAIRLKt.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640253541997776896][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNZ9oJaAAEPwvh.jpg) 
 
@@ -83,11 +68,8 @@
 ![](https://pbs.twimg.com/media/FsNaFkxakAA1zQb.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNaIUzacAA8Tjv.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640253806327001088][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNaMrFagAIkyrV.jpg) 
 
@@ -96,11 +78,8 @@
 ![](https://pbs.twimg.com/media/FsNaQ9iacAIIUFd.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNaaRWaUAAxH3n.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640254113358438400][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNagYSaEAAaQg-.jpg) 
 
@@ -109,11 +88,8 @@
 ![](https://pbs.twimg.com/media/FsNaq55aYAAXdK_.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNauOAaUAEWgQs.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640254457408815104][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNazibaYAAv0jR.jpg) 
 
@@ -122,11 +98,8 @@
 ![](https://pbs.twimg.com/media/FsNa2y1aYAAW0_y.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNa7mgaQAAem6p.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640254685155295232][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNa__haMAAegax.jpg) 
 
@@ -135,11 +108,8 @@
 ![](https://pbs.twimg.com/media/FsNbG1BaUAAyj6U.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNbJcEacAEoluO.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640254924356456449][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 ![](https://pbs.twimg.com/media/FsNbOk7aYAAy-YM.jpg) 
 
@@ -148,14 +118,8 @@
 ![](https://pbs.twimg.com/media/FsNbVMkaYAAZaG5.jpg) 
 
 ![](https://pbs.twimg.com/media/FsNbX1raQAA-S91.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640255168578195456][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-28]]
 #+BEGIN_QUOTE
 《OpenAI 闭门讨论会V3纪要》合订版：https://t.co/JpBpUfFK7j 
-#+END_QUOTE
-    date:: [[2023-03-28]]
-*** from _最近有一份非常优质的内部资料《OpenAl闭门讨..._ by @sunyangphp on Twitter
-*** [[https://twitter.com/sunyangphp/status/1640262814119116801][View Tweet]]
+#+END_QUOTE\

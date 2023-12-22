@@ -12,15 +12,12 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 微软出的 GitHub Copilot 教程，只有 6 堂课，会教你如何有效利用 GitHub Copilot 以及与 AI 结对编程。
 
 课程一共 10 小时，可以体验如何通过 VSCode 和 GitHub Copilot Chat 进行实时协作，学习如何使用 GitHub Copilot 自动补全代码，处理错误和写单元测试，尽可能教会你使用 GitHub Copilot 的最佳实践，让你可以提升写代码的效率和质量。
 
 https://t.co/byZUcx9gmI<img src='https://pbs.twimg.com/media/GBdHDWtWoAAMZ-P.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _微软出的 GitHub Copilot 教程，只..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735935483463467125][View Tweet]]
+#+END_QUOTE\

@@ -12,307 +12,199 @@
 :image-url: https://pbs.twimg.com/profile_images/1503256750085926918/PbvVctJr.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 1/ Why Asia will be leading the next crypto cycle🚀
 
 A mega🧵 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480296361259013][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 2/ Regulatory clarity: after the FTX blowup, a lot of investors will be reluctant to reengage, and are waiting for regulatory clarity.
 
 Japan recently announced they are relaxing listing rules. Korea ,  India and Hong Kong are providing more regulatory clarity. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480298944921601][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 3/ The fact that Hong Kong allows crypto, means that Beijing approves. As Beijing approves, this doesn’t mean crypto will be legal in China, but it means it will likely be condoned by the Chinese government. https://t.co/nFWGEaPaFq 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480301667037186][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 4/ So we can expect:
 
 A) Chinese be able to go to Hong Kong and purchase crypto. Despite capital controls, Chinese high-net-worth individuals have funds overseas (mostly in Hong Kong) that they can invest in crypto.
 
 This is a thesis that @cryptohayes mentioned before 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480304594681857][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 5/ Chinese high net-worth as well as private institutions will allocate more to crypto.
  https://t.co/2gCyLPVSl6. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480307367104514][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 6/ More importantly:
 
 B) that Chinese teams can engage in crypto as long as their clients are overseas. This is key as it will unleash a talent flow of Chinese into crypto. 🚀 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480310118576134][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 7/ For China specifically, this is aided by 2 other catalysts:
 
 1) the crackdown on large web 2 companies such as Alibaba
 
 2) the crackdown on particular tech sectors such as edtech and gaming, This damped investor confidence in consumer internet in China across the board. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480312970711042][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 8/ For tech people at these large web 2 firms, they are realizing that the valuation prospects of their employers are limited
 
 and that the value of their options will likely remain lower than their strike price for a long time. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480315613097984][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 9/ Similarly with firms in other tech sectors such as EdTech, Gaming, and FinTech where there was an explicit crackdown or other consumer tech firms that are now receiving less funding than the previous years. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480318284877826][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 10/ This is due to LPs being spooked by the sudden government interventions, the draconian lockdowns or the China-US trade war, the founders and employees realize they won’t be able to raise their next funding series, let alone at a higher valuation. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480320994390018][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 11/ Web 2 projects or GameFi projects are being spun out or pivoted into.
 
 Seeing your paper net worth evaporate from tens of millions to 0 is a strong impetus to move your project from Web 2 to Web 3 where at least you have some hope for an exit. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480323661967362][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 12/ Asia is having a perfect storm scenario for being dominant in some parts of the next cycle. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480326367309827][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 13/ So what are areas to look out for as an investor?
 
 1) Application layer 📱: 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480329039065088][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 14/ As crypto goes from a valuation of 1 Trillion to 20 Trillion and 50M active wallets to 500M in the next cycle, we will need killer applications to support this adoption. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480331622756354][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 15/ To build out a Web 3 application to support hundreds of millions of users, you require an engineering supply chain of hundreds of engineers. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480334277738497][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 16/ There are only a few places you can get 100+ engineers quickly if you are scaling fast, and centralized teams have a speed advantage versus decentralized ones.
 
 Asian engineers are plenty about, and the salary is much cheaper than in the US. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480336920154114][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 17/ Furthermore, Asia has a track record of building locally and scaling Apps globally or ‘Chu Hai 出海‘.
 
 Over the past years, Asia teams have proven to be very capable of making and scaling global B2C applications such as TikTok, Shein, Zoom, WeBull, Cider…and countless games. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480339596152834][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 18/ Examples of major talent moves are @XterioGames, a GameFi firm, hiring the former CFO of the YouTube of China,
 
 and @KuCoincom who hired several top talents including the former CIO of the finance arm of a top 3 Chinese tech firm. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480342217555968][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 19/ 12 months ago it was unthinkable such talents joined Web3. And this is just the start. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480344880975873][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 20/ But are those skills applicable to Crypto?
 
 I think so.
 
 I agree with @Mapleleafcap that having scaled before and being good at product is much more important than being crypto native when building out applications. https://t.co/C3aSXegYsM 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480347460456448][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 21/ But is the infrastructure good enough to run major applications that challenge Web 2 user adoption rates?
 
 When I talk to investors from the west, the prevalent view is that the infrastructure is not ready yet to carry major applications. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480350325174273][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 22/ In the East, many investors believe the infrastructure is good enough to carry applications.
 
 @Stepnoffical is an example of this, using Solana and BNB to carry millions of users.
 The team previously built out applications in Web 2 and used these learnings to build out StepN. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480353051480069][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 23/ I think the relationship between applications and infrastructure is reflexive.
 
 Killer Apps will push the development of the crypto infrastructure further, and a better crypto infrastructure will allow for more applications to flourish on top of it.
 
 Watch this cycle. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480355710636033][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 24/ 2) NFTs:
 
 Asia is a cycle behind in terms of user and investor adoption. Asia NFTs are less than 0,1% of the total NFT market cap. This gap will close.
 
 This is what @Glimmerdao, the @tributelabsxyz investment DAO focuses on.✨ https://t.co/st6OvNSi5l 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480358403407873][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 25/ Asia has been late to the NFT scene, but thanks to the above catalysts, the Asia NFT landscape is ready to explode. Especially areas like AI art, Generative, NFT infrastructure, Anime and GameFi is attracting a lot of talent. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480361192624129][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 26/ 3) GameFi🎮: new thread on GameFi 2.0 will come later. In short, GameFi 1.0 focuses on bringing in-game coins and assets on-chain so they can be monetized out of the game environment. With 2.0 the asset can be created and nourished by the user in the game. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480363918905346][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 27/ 4) Proof of Physical Work/ DePIN (Decentralized Public Infrastructure Networks)🏗️
 
 Asia has a lower cost of hardware manufacturing aiding the development of DePIN firms specifically. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480366578102273][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 28/ In other crypto hardware manufacturing areas such as mining equipment Asia teams have been dominant, however, in the wallet space, this hasn’t been the case. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480369329565698][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 29/ 5) Regulated Exchanges: Hong Kong is laying the framework for a new type of exchange. It has to reinvent itself due to the harsh lockdowns causing many talents to leave in the past years. The government is explicitly focusing on crypto and laying the groundwork for doing so. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480372114591745][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 30/ 6) Funds:
 
 To catch the above trends, a new type of fund will grow: funds anchored in Asia, with a global footprint. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480374756970497][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 31/ Besides a talent move in engineers setting up new firms, a new class of fund managers will be rising which are attracting new top talents in the investment space. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480377399402496][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 32/ What about China?
 
 China will eventually allow some sort of web 3 domestically as well, but it’s not clear yet how. There are various private ‘chains’, which are more like private databases. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480380134096897][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 33/ They have been rolled out by Alibaba, Tencent and are used for supply chain financing, digital collectibles, and others. As with the internet, we may see some type of nationwide private blockchain with fire-walled addresses, but it’s too early to tell. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480382847778817][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 34/ The opportunities at hand are to invest in teams focusing on the global market, not the domestic Chinese one. 🌐 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480385481822208][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 35/ In conclusion:
 In a way, we go back to the 80s and 90s, when Asia started to become the factory of the world, not for Asia domestic consumption, but mainly for the rest of the world. 🏭 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480388044558336][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-03]]
 #+BEGIN_QUOTE
 36/ Thanks to @punk6529 for the inspiration for this long thread. 
-#+END_QUOTE
-    date:: [[2023-01-03]]
-*** from _1/ Why Asia Will Be Lead..._ by @Brionicx on Twitter
-*** [[https://twitter.com/Brionicx/status/1609480390678577152][View Tweet]]
+#+END_QUOTE\

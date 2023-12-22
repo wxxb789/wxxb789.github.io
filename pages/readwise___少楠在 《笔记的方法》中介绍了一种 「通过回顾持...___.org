@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-15]]
 #+BEGIN_QUOTE
 少楠在 《笔记的方法》中介绍了一种 「通过回顾持续刺激」的笔记技术，我以前曾简称为「漫游笔记」技术。
 
@@ -28,16 +28,10 @@
 想法的迭代：回顾笔记是用新视角去审视旧想法，总体来说人是会不断进步的，经过一段时间后再去重温自己某个时刻的想法，可能以前的一些疑惑现在已经没有了，也可能对某个问题有了更进一步的思路，这是促使想法迭代的一种方法。
 
 影响现实：回顾笔记提供了过去和现在连接的机会。现在是否具备实践的机会？笔记中的思路、方法、知识都已经成功应用了吗？计划是否如期完成？错误是否已经纠正？坦诚地面对过去的自己，回到现实，可能你将迎来崭新的自己。 
-#+END_QUOTE
-    date:: [[2023-11-15]]
-*** from _少楠在 《笔记的方法》中介绍了一种 「通过回顾持..._ by @henices on Twitter
-*** [[https://twitter.com/henices/status/1724430965823389858][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-15]]
 #+BEGIN_QUOTE
 #笔记的方法 
 
 ![](https://pbs.twimg.com/media/F-5qybbWAAAgk6J.jpg) 
-#+END_QUOTE
-    date:: [[2023-11-15]]
-*** from _少楠在 《笔记的方法》中介绍了一种 「通过回顾持..._ by @henices on Twitter
-*** [[https://twitter.com/henices/status/1724433125030195462][View Tweet]]
+#+END_QUOTE\

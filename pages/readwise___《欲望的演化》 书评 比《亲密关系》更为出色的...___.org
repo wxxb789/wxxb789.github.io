@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1495019639264452613/kWM2KtWc.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-16]]
 #+BEGIN_QUOTE
 《欲望的演化》 书评
 
@@ -110,7 +110,4 @@
 “人们总是会责难频繁更换配偶和乱交行为。但是，通常对他们最有好处的，就是在他人心中培养这种道德观点。”
 
 “只有不断探索复杂的人类性策略库，我们才能了解我们从哪里来；只有深入了解为什么这些人类策略能够进化出来，我们才能把握我们将往哪里去。” 
-#+END_QUOTE
-    date:: [[2023-10-16]]
-*** from _《欲望的演化》 书评 比《亲密关系》更为出色的..._ by @OdysseysEth on Twitter
-*** [[https://twitter.com/OdysseysEth/status/1713725212452389300][View Tweet]]
+#+END_QUOTE\

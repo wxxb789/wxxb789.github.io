@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 LLaMA-Adapter: finetuning large language models (LLMs) like LLaMA and matching Alpaca's modeling performance with greater finetuning efficiency
 
@@ -22,41 +22,29 @@ Let's have a look at this new paper (https://t.co/uee1oyxMCm) that proposes an a
 1/5 
 
 ![](https://pbs.twimg.com/media/FsefD4NaYAA4kFv.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _LLaMA-Adapter: Finetunin..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1641457696074334209][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 In contrast to LLaMA-Alpaca, it's not finetuning the whole model end-to-end. Instead, the Adapter-approach adds a small number of 1.2M parameters on top of a pretrained, frozen 7B LLaMA model (as shown in the figure above)
 
 2/5 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _LLaMA-Adapter: Finetunin..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1641457697655496704][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 Using the same 52K Instruction-following data, responses are comparable to Alpaca, but in contrast to Alpaca, which took 3 hours on 8 A100 to finetune, LLaMA adapters can be finetuned in 1h.
  (Caveat: I couldn't find any metrics for the Alpaca modeling performance comparison.)… https://t.co/mooubLrQcs 
 
 ![](https://pbs.twimg.com/media/FsegQtdXoAABOr5.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _LLaMA-Adapter: Finetunin..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1641457699316432897][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 To make it work well in practice, they also propose a gating mechanism, initialized to all zeros, to prevent the adapters from perturbing the performance of the pretrained LLaMA model at the beginning of the training.
 
 4/5 
 
 ![](https://pbs.twimg.com/media/FsegiDCXgAAm00a.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _LLaMA-Adapter: Finetunin..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1641457701338116102][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 Finally, this adapter method is particularly interesting as it allows us to add other input modalities like image and video tokens.
 
@@ -65,7 +53,4 @@ PS: code here, https://t.co/SPKcIz2GIn
 5/5 
 
 ![](https://pbs.twimg.com/media/FsegzwAWAAAXdZz.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _LLaMA-Adapter: Finetunin..._ by @rasbt on Twitter
-*** [[https://twitter.com/rasbt/status/1641457702999138305][View Tweet]]
+#+END_QUOTE\

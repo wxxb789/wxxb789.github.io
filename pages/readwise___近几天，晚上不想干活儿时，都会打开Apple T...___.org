@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 近几天，晚上不想干活儿时，都会打开Apple TV看Youtube的两个频道：
 
@@ -22,7 +22,4 @@ https://t.co/9K3EoIcxGJ
 
 食事史馆：把食物和历史、国家结合起来讲，很有趣的视角。像我这种对吃感兴趣，对历史不懂的人来说，无形中能了解点世界历史和各国风土人情，很开眼界。
 https://t.co/SpRPu9RP4z<img src='https://pbs.twimg.com/media/GAF1rx4bAAABViO.jpg'/><img src='https://pbs.twimg.com/media/GAF3rIGa4AAjyuu.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _近几天，晚上不想干活儿时，都会打开Apple T..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1729795429293076950][View Tweet]]
+#+END_QUOTE\

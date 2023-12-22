@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1678694428691816450/WkLoxvUl.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 60 岁奶奶也能看懂的 BTC L1 新协议简史
 
@@ -107,31 +107,19 @@ Runes 相关文档发布不久，Beny 同志就看到了这个机会，基于 Ru
 最后，过去大半年里，Bitcoin 上的新「协议」实在是太多了，我精力和能力有限，不能全部提到，请见谅。
 
 如果这个小文对你有帮助，请顺手关注一下我 <a href="https://twitter.com/_0xSea_">@_0xSea_</a> 和我的 Web3 播客节目  <a href="https://twitter.com/SeaTalk_">@SeaTalk_</a>，助你打通 Web3 世界里的任督二脉。<img src='https://pbs.twimg.com/media/F-jg3HvboAArEZN.jpg'/><img src='https://pbs.twimg.com/media/F-jhDBaaMAAg46v.png'/><img src='https://pbs.twimg.com/media/F-jhWh3acAAOSmu.png'/><img src='https://pbs.twimg.com/media/F-jhcU7asAAWb8H.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _60 岁奶奶也能看懂的 BTC L1 新协议简史..._ by @_0xSea_ on Twitter
-*** [[https://twitter.com/_0xSea_/status/1722875509569433656][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 现在 Ordi 和 Sats 已经起飞，不用局限在 BRC-20 代币和 Ordinals，而是放眼于整个 BTC 生态。随着 ETF 通过，BTC 承接大资金进来，会有更多资金溢出到 Bitcoin 的子币 / 子协议里 🤔
 https://t.co/lhm3XVCMQX 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _60 岁奶奶也能看懂的 BTC L1 新协议简史..._ by @_0xSea_ on Twitter
-*** [[https://twitter.com/_0xSea_/status/1722875826591723907][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 之前曾借用 <a href="https://twitter.com/0xcryptowizard">@0xcryptowizard</a> 的牛市三定律框架，套在 Ordinals 上，其实也可以放眼整个 BTC 生态，看这个逻辑是否适用。
 https://t.co/iKdM8jot2Z 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _60 岁奶奶也能看懂的 BTC L1 新协议简史..._ by @_0xSea_ on Twitter
-*** [[https://twitter.com/_0xSea_/status/1722875960394191334][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-11]]
 #+BEGIN_QUOTE
 <a href="https://twitter.com/0xcryptowizard">@0xcryptowizard</a> 除了 L1，比特币 L2 也有很多协议和项目在蓬勃发展中。一个重要区别是，这些 L2 都已有机构参与和支持，不像今年爆发的这些 L1 协议，散户都有机会参与拿到便宜筹码。如果你有兴趣，可以看 <a href="https://twitter.com/blockpunk2077">@blockpunk2077</a> 总结的这篇雄文
  https://t.co/AuCHJLC6WC 
-#+END_QUOTE
-    date:: [[2023-11-11]]
-*** from _60 岁奶奶也能看懂的 BTC L1 新协议简史..._ by @_0xSea_ on Twitter
-*** [[https://twitter.com/_0xSea_/status/1722876082628841472][View Tweet]]
+#+END_QUOTE\

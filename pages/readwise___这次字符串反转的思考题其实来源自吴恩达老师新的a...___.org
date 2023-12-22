@@ -12,34 +12,25 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
 这次字符串反转的思考题其实来源自吴恩达老师新的AI课程《Building Systems with the ChatGPT API》系列的第一课“大语言模型、API格式和Token”
 
 如果让ChatGPT把棒棒糖的单词“lollipop”中的字母反转，看起来是一个极其简单的任务，但是即使是GPT4，也不能输出正确的结果。… https://t.co/rVaRGVFKGQ 
-#+END_QUOTE
-    date:: [[2023-06-25]]
-*** from _这次字符串反转的思考题其实来源自吴恩达老师新的a..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1672483111895175170][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
 紐村遁一子 老师的CoT思路，分成两步，先单词拆字母，这样可以让输入的每个字母都是Token，就可以正常反转了。
 
 https://t.co/gSbEXYgcT0 
-#+END_QUOTE
-    date:: [[2023-06-25]]
-*** from _这次字符串反转的思考题其实来源自吴恩达老师新的a..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1672484180276707328][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
 KittenYang的思路类似，也是先拆分成字母，然后反转
 https://t.co/VWWDeAP6Fz 
-#+END_QUOTE
-    date:: [[2023-06-25]]
-*** from _这次字符串反转的思考题其实来源自吴恩达老师新的a..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1672484557843738627][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
 最神奇的可能要算李元魁的解决方案，给GPT一个竖线当镜子🪞，就实现了反转。
 
@@ -48,16 +39,10 @@ https://t.co/VWWDeAP6Fz
 Prompt也可以简化为：
 
 “请将单词反转，例如：book 反转后为 koob 。… 
-#+END_QUOTE
-    date:: [[2023-06-25]]
-*** from _这次字符串反转的思考题其实来源自吴恩达老师新的a..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1672488290493267968][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
 还有很多精彩的回复我就不一一列举了，一如既往感谢大家的支持！
 
 #Prompt思考题 
-#+END_QUOTE
-    date:: [[2023-06-25]]
-*** from _这次字符串反转的思考题其实来源自吴恩达老师新的a..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1672489583488163841][View Tweet]]
+#+END_QUOTE\

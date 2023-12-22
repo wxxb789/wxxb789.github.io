@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1397117048631664647/TdwSD7_s.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm
 
@@ -30,31 +30,19 @@ Using GPT-3 as a case study, we show that 0-shot prompts can significantly outpe
 ![](https://pbs.twimg.com/media/FsdTdohWwAcOFeH.jpg) 
 
 ![](https://pbs.twimg.com/media/FsdTdtdWcAUtUCP.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _Prompt Programming for L..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1641372361113960450][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 (2/4) .. that the function of few- shot examples in these cases is better described as locating an already learned task. 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _Prompt Programming for L..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1641372362242244608][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 (3/4) Here is a popular Tweet about the paper 👇 https://t.co/dkvHRFxWrE 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _Prompt Programming for L..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1641372362921615361][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-31]]
 #+BEGIN_QUOTE
 (4/4) 
 👉 Follow @papers_daily for daily updates.
 
 🚀 Download the iPhone/iPad app: https://t.co/P4jzJvrZHm. 
-#+END_QUOTE
-    date:: [[2023-03-31]]
-*** from _Prompt Programming for L..._ by @papers_daily on Twitter
-*** [[https://twitter.com/papers_daily/status/1641372363727032320][View Tweet]]
+#+END_QUOTE\

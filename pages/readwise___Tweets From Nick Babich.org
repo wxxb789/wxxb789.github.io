@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1484185888984735744/6nGtXACi.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-05]]
 #+BEGIN_QUOTE
 Product Design Cheatsheet
 
@@ -22,7 +22,4 @@ Guide for early-stage product teams on how to rapidly experiment, learn and buil
 https://t.co/C0RBOJNWVh 
 
 ![](https://pbs.twimg.com/media/Fxw-J7hWYAIRm5m.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-05]]
-*** from _Tweets From Nick Babich_ by @101babich on Twitter
-*** [[https://twitter.com/101babich/status/1665274579961389056][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-17]]
 #+BEGIN_QUOTE
 纠正下，Steph ango不是Obsidian创始人，是现在的CEO， 读了他博客几篇内容，感觉非常有趣，翻译概要总结下：
 
@@ -68,7 +68,4 @@ Steph ango的个人风格举例：
 ③ George R. R.Martin在已有40年历史的DOS操作系统上写小说。
 ④ 贝多芬总是准确地数出60颗咖啡豆来煮咖啡。
 ... 
-#+END_QUOTE
-    date:: [[2023-11-17]]
-*** from _纠正下，Steph ango不是Obsidian..._ by @vista8 on Twitter
-*** [[https://twitter.com/vista8/status/1725161224390754574][View Tweet]]
+#+END_QUOTE\

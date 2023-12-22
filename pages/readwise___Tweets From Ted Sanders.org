@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1652122121341124610/cfqF_UjR.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-16]]
 #+BEGIN_QUOTE
 Just dropped: updated guide for Q&A with GPT and embeddings-based search.
 
@@ -25,7 +25,4 @@ Discusses:
 If you have ideas to improve, I'll do them.
 
 https://t.co/6XnbzUmHBF 
-#+END_QUOTE
-    date:: [[2023-04-16]]
-*** from _Tweets From Ted Sanders_ by @sandersted on Twitter
-*** [[https://twitter.com/sandersted/status/1646967124932579328][View Tweet]]
+#+END_QUOTE\

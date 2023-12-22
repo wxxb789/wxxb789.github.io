@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1664874791101427712/UANcm2lh.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （1/10）
 
@@ -35,11 +35,8 @@ Notion治愈了我的摆烂癌；还在我浑噩度日时，作为北极星指�
 也正因此，Notion才能成为你的第二大脑，而非记事本或存资料的云盘。
 
 Notion系列会不断施工…👷‍♀️请收藏关注此推（模版私我要women only）<img src='https://pbs.twimg.com/media/GBC2GMAaoAA9vlX.jpg'/><img src='https://pbs.twimg.com/media/GBC2GMCbYAAeSwH.jpg'/><img src='https://pbs.twimg.com/media/GBC2GMAbsAAupA9.jpg'/><img src='https://pbs.twimg.com/media/GBC2GL_bYAAHXo4.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086079094128971][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （2/10）
 
@@ -60,11 +57,8 @@ Notion系列会不断施工…👷‍♀️请收藏关注此推（模版私我�
 现在就让我们一起来开垦荒原吧！未来想打造成森林、花园、小溪还是后院，都是你的选择。
 
 （图源网络）<img src='https://pbs.twimg.com/media/GBC2GtubEAAEsvv.jpg'/><img src='https://pbs.twimg.com/media/GBC2GtQa0AAC5AU.jpg'/><img src='https://pbs.twimg.com/media/GBC2GtSbcAAQJSS.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086086975201487][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （3/10）
 
@@ -87,11 +81,8 @@ A=Archive 档案
 根据PARA的框架，只要四页就够了（图1）。但据我两年的使用体验来说，强烈建议加上Daily Dashboard每日事项 和 Growth成长（图2）
 
 🎉恭喜你，建完界面就完成50%了，这个框架就是灵魂！<img src='https://pbs.twimg.com/media/GBC2HKXbkAAClvJ.jpg'/><img src='https://pbs.twimg.com/media/GBC2HKYawAAoLbA.jpg'/><img src='https://pbs.twimg.com/media/GBC2HKXboAAyDTq.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086094831177742][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （4/10）
 
@@ -111,11 +102,8 @@ A=Archive 档案
 
 板块三：【Keep Healthy 每日打卡】
 和板块一内容类似，喜欢打卡的可以用这个免费模版（图4）：<img src='https://pbs.twimg.com/media/GBC2HmVbkAAIKby.jpg'/><img src='https://pbs.twimg.com/media/GBC2Hl2aYAA26jW.jpg'/><img src='https://pbs.twimg.com/media/GBC2HmUaoAASw6P.jpg'/><img src='https://pbs.twimg.com/media/GBC2HmTbQAAKENN.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086102796103923][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （5/10）
 
@@ -131,11 +119,8 @@ notion可以把每天任务进度同步到周、周到月、月到年等。但�
 分为两个小部分
 1. 2024总计划
 2. 把总计划切分为具体任务，我个人分成了个人、身体、和专业的部分。（图3）<img src='https://pbs.twimg.com/media/GBC2IBZacAAlk8p.jpg'/><img src='https://pbs.twimg.com/media/GBC2IBbbMAAwX0k.jpg'/><img src='https://pbs.twimg.com/media/GBC2IBaaAAIJ1gS.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086111151214650][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （6/10）
 
@@ -145,11 +130,8 @@ notion可以把每天任务进度同步到周、周到月、月到年等。但�
 这和之前的数据库是一个东西，只是显示的格式不同。可以把自己的感悟、之前创立的数据库内容都连接过来（未来我会加上养宠、和养老的部分）。 
 
 ![](https://pbs.twimg.com/media/GBC2IpSakAA1CMB.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086122811367755][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （7/10）
 
@@ -158,11 +140,8 @@ notion可以把每天任务进度同步到周、周到月、月到年等。但�
 这部分就不多展开啦，可以把她当作个人影音室或者图书馆。可以存储各种纪录片、电影、博客和书籍等。（我大学上过的课也在这里） 
 
 ![](https://pbs.twimg.com/media/GBC2JNkbQAAlO62.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086130163925246][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （8/10）
 
@@ -172,11 +151,8 @@ Area在PARA里指的是ongoing 和没有ddl的事项。但我个人不需要这�
 在这里就记录一些好玩的事情，比如日记，做过的梦，女权内容备份等。 
 
 ![](https://pbs.twimg.com/media/GBC2JmPaMAAW7Dn.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086136237302000][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （9/10）
 
@@ -186,11 +162,8 @@ Area在PARA里指的是ongoing 和没有ddl的事项。但我个人不需要这�
 如果闲着有空，我就会整理后归入档案室和growth成长里，不过大多数情况就是收藏不看。 
 
 ![](https://pbs.twimg.com/media/GBC2KB9a8AAeJAF.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086143615082774][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-12]]
 #+BEGIN_QUOTE
 （10/10）
 
@@ -213,7 +186,4 @@ Area在PARA里指的是ongoing 和没有ddl的事项。但我个人不需要这�
 尽可能保证页面和交互最少化。点击滑动好几次才找到指定页面，成本太高就会懒得用。
 
 ☘️欢迎大家分享自己的使用方式，有问题可以私信留言（限女权）。<img src='https://pbs.twimg.com/media/GBC2KY9bgAAIt7i.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-12]]
-*** from _（1/10） 小浣熊年末巨制！手把手教你用no..._ by @0oi1loli18964 on Twitter
-*** [[https://twitter.com/0oi1loli18964/status/1734086150191817074][View Tweet]]
+#+END_QUOTE\

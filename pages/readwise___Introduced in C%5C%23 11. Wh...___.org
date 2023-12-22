@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1565011872033693698/yzzpv74A.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-02]]
 #+BEGIN_QUOTE
 Introduced in C# 11.
 
@@ -24,18 +24,12 @@ This keyword is especially useful when used alongside nullable reference types a
 #Dotnet 
 
 ![](https://pbs.twimg.com/media/FxhuS_lXwAIvunf.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-02]]
-*** from _Introduced in C# 11. Wh..._ by @TheCodeMan__ on Twitter
-*** [[https://twitter.com/TheCodeMan__/status/1664202044628951040][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-02]]
 #+BEGIN_QUOTE
 P.S. If you want to read such content and have insight into the complete code, make sure you are subscribed.     
 
 Join 3k+ engineers here: https://t.co/SCnnRzSw4R 
 
 ![](https://pbs.twimg.com/media/Fxhu68XWwAE-t3m.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-02]]
-*** from _Introduced in C# 11. Wh..._ by @TheCodeMan__ on Twitter
-*** [[https://twitter.com/TheCodeMan__/status/1664202047011315713][View Tweet]]
+#+END_QUOTE\

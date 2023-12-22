@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/Compile-Time Logging Sou...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[TheCodeMan__ on Twitter]]
+:full-title: "Compile-Time Logging Sou..."
+:category: [[tweets]]
+:url: https://twitter.com/TheCodeMan__/status/1737843303968858474
+:image-url: https://pbs.twimg.com/profile_images/1565011872033693698/yzzpv74A.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+Compile-time logging source generation - 
+
+\- for highly performant logging. 👇 
+
+In the world of .NET software development, logging is a crucial part of keeping track of what's happening inside your applications. 
+
+Imagine you're writing code and you want to log something. 
+
+Instead of writing a bunch of code to set up the logging, you just add this attribute to a partial method, and LoggerMessageAttribute does the heavy lifting for you. 
+
+It's like having a personal assistant for your logging tasks!
+
+It helps you find and fix issues, understand how your software is behaving, and ensure it runs smoothly.
+ 
+With the release of .NET 6, there's a new tool in town called LoggerMessageAttribute, and it's here to make logging better and easier.
+
+I explained how to implement it in my blog post.
+
+You can read it here: https://t.co/bpmD4bX2eP
+
+Be sure to take advantage of the next one. 
+Join almost 10k subscribers here: https://t.co/mNoLmVBguT
+
+#dotnet<img src='https://pbs.twimg.com/media/GB4O_BzbwAEs_Fr.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+📌Did you check my new Design Patterns Simplified ebook?  Go and check out it: https://t.co/ro5cUHzqTk 
+
+![](https://pbs.twimg.com/media/GB4PagWasAAkH79.jpg) 
+#+END_QUOTE\

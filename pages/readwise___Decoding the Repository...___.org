@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1604162937828040706/v1EqKyRK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 Decoding the Repository Pattern in C# 🚀
 
@@ -24,28 +24,19 @@ It's like a buffer that controls how data is accessed and manipulated.
 Let's navigate its essence, and weigh its pros and cons : 
 
 ![](https://pbs.twimg.com/media/F0-cE50XwAIrRm0.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732797290758144][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 Pros:
 1. 𝗦𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗻𝗰𝗲𝗿𝗻𝘀: The repository pattern separates the logic that retrieves the data and maps it to the entity model. 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732799870205953][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 2. 𝗥𝗲𝗱𝘂𝗰𝗲𝘀 𝗰𝗼𝗱𝗲 𝗱𝘂𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻: Your data access logic can be reused across multiple projects.
 
 3. 𝗨𝗻𝗶𝘁 𝗧𝗲𝘀𝘁𝗶𝗻𝗴: It becomes a breeze as the data access logic is decoupled from the business services. 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732801627734017][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 4. 𝗛𝗶𝗱𝗲𝘀 𝗦𝗤𝗟: Hides complex SQL or query language details, offering a cleaner API for accessing data.
 
@@ -53,42 +44,30 @@ But no hero is without its flaws.
 
 Cons:
 1. 𝗢𝘃𝗲𝗿𝗵𝗲𝗮𝗱: Implementing the repository pattern introduces a new layer, which can be an overhead for small projects 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732804148502528][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 2. 𝗚𝗲𝗻𝗲𝗿𝗶𝗰 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: They can limit your ability to perform complex database operations and can lead to performance penalties.
 
 3. 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝘂𝗿𝘃𝗲: It takes time to understand and implement the repository pattern correctly. 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732805901643777][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 📌 I'm diving deeper into implementing the repository design pattern in tomorrow's newsletter. 
 
 Join the 4500+ already on board! https://t.co/K5hhbgfgEP
 
 Repost ♻️ would be appreciated 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732807852081154][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 If you enjoyed it 
 \- Retweet it
 - Follow me for more updates
 
 #dotnet https://t.co/Lbh9fC937U 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679732810779709441][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 📌 Previously in my Newsletter [Last 5]
 
@@ -106,7 +85,4 @@ https://t.co/8qzKCkUYbz
 
 JWT in .NET 
 https://t.co/EWkX3h8GmX 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _Decoding the Repository..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1679774146195070976][View Tweet]]
+#+END_QUOTE\

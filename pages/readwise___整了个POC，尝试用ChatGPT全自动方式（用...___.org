@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-01]]
 #+BEGIN_QUOTE
 整了个POC，尝试用ChatGPT全自动方式（用脚本自动分块自动提交）翻译了经济学人一篇长文，一个字都没改，大家觉得机翻痕迹严重吗？
 \-----------------
@@ -82,15 +82,9 @@ Sequoia 对其投资的33家初创公司进行的一项调查显示，90%的公�
 本文曾在印刷版 Briefing 栏目发布，题为《A second flight》。
 
 https://t.co/4XrWI5407v 
-#+END_QUOTE
-    date:: [[2023-10-01]]
-*** from _整了个POC，尝试用ChatGPT全自动方式（用..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1708181333464211902][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-10-01]]
 #+BEGIN_QUOTE
 视频演示
 https://t.co/ey3UwzPJNo 
-#+END_QUOTE
-    date:: [[2023-10-01]]
-*** from _整了个POC，尝试用ChatGPT全自动方式（用..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1708185489658749431][View Tweet]]
+#+END_QUOTE\

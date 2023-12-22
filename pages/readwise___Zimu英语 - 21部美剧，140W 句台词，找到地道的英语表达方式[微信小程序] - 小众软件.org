@@ -12,8 +12,8 @@
 :image-url: https://www.appinn.com/wp-content/uploads/2022/12/zimu-english.jpgo_.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-02]]
 #+BEGIN_QUOTE
 ![](https://static1.appinn.com/images/202212/zimu-english.jpg!o)
 
@@ -26,7 +26,4 @@ Zimu英语 - 21部美剧，140W 句台词，找到地道的英语表达方式[�
 ![](https://static1.appinn.com/images/202212/204392047-a9031961-754c-45ea-84f8-caccd37b0c8d.jpg)
 
 也可以在微信中直接搜索 「 
-#+END_QUOTE
-    date:: [[2023-01-02]]
-*** from _Zimu英语 - 21部美剧，140W 句台词，找到地道的英语表达方式[微信小程序] - 小众软件_ by 青小蛙
-*** [[https://read.readwise.io/read/01gnq9apmr40mym90e3p8fs5hs][View Highlight]]
+#+END_QUOTE\

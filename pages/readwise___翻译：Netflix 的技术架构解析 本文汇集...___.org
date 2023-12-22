@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-11]]
 #+BEGIN_QUOTE
 翻译：Netflix 的技术架构解析
 
@@ -34,7 +34,4 @@
 数据处理流程：在处理数据方面，Netflix 利用 Flink 和 Spark 完成数据处理任务，并通过 Tableau 工具进行数据可视化展示。此外，Redshift 被用于处理结构化的数据仓库信息。
 
 持续集成与持续部署（CI/CD）：在这一环节，Netflix 采用了包括 JIRA、Confluence、PagerDuty、Jenkins、Gradle、Chaos Monkey、Spinnaker、Altas 等在内的多种工具。 
-#+END_QUOTE
-    date:: [[2023-12-11]]
-*** from _翻译：Netflix 的技术架构解析 本文汇集..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1734070311606182361][View Tweet]]
+#+END_QUOTE\

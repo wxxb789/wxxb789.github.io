@@ -12,31 +12,22 @@
 :image-url: https://pbs.twimg.com/profile_images/1715212547215802368/tqxfSqh3.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 Can large language models (LLMs) train themselves?  The explosion of imitation-based open-source LLMs drew criticism due to cursory evaluation that covered up performance gaps. However, recent research shows powerful open-source LLMs can actually be created by imitating other… 
 
 ![](https://pbs.twimg.com/media/FzkZtu8aEAAJWKM.jpg) 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Can Large Language Model..._ by @cwolferesearch on Twitter
-*** [[https://twitter.com/cwolferesearch/status/1673398297304911872][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 For more details, check out the Orca paper (linked below). It's an awesome read and contains a ton of relevant context that can teach anyone more about the practical details of LLMs. 
 
 https://t.co/iSkHceLrTd 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Can Large Language Model..._ by @cwolferesearch on Twitter
-*** [[https://twitter.com/cwolferesearch/status/1673398568340819969][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-06-27]]
 #+BEGIN_QUOTE
 I also just overviewed Orca (and a lot of the related context around the model) on my newsletter. Feel free to check it out at the link below and let me know what you think!
 
 https://t.co/iGWErsCUeb 
-#+END_QUOTE
-    date:: [[2023-06-27]]
-*** from _Can Large Language Model..._ by @cwolferesearch on Twitter
-*** [[https://twitter.com/cwolferesearch/status/1673398837569011712][View Tweet]]
+#+END_QUOTE\

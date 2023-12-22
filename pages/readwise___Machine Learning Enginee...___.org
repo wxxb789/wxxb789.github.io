@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-10-12]]
 #+BEGIN_QUOTE
 Machine Learning Engineering Guides and Tools
 
@@ -24,7 +24,4 @@ Includes all kinds of tips on methodologies to better train LLMs and multi-modal
 https://t.co/LDbUDXFumy 
 
 ![](https://pbs.twimg.com/media/F8LqZ-cWQAAN4mY.jpg) 
-#+END_QUOTE
-    date:: [[2023-10-12]]
-*** from _Machine Learning Enginee..._ by @omarsar0 on Twitter
-*** [[https://twitter.com/omarsar0/status/1712189447544914201][View Tweet]]
+#+END_QUOTE\

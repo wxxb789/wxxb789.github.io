@@ -12,13 +12,10 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 推荐一个有趣又有用的 Python 学习资料，《Python为什么》，https://t.co/CgBAnWKMJz，它是一系列文章的合集，主要关注 Python 的语法、设计、发展、与其它语言的差别等话题，以一个个“为什么”式的问题为切入点，试着展现 Python 的迷人魅力。
 
 另外也推荐阅读 Python 官方文档的 FAQ 系列，https://t.co/Boa80J0FIT，涉及到编程、设计、代码块、插件、扩展等几百个高频问题，值得花时间读一读。<img src='https://pbs.twimg.com/media/GBdjlRRakAAuOPm.jpg'/><img src='https://pbs.twimg.com/media/GBdk7HZbkAAZhD1.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _推荐一个有趣又有用的 Python 学习资料，《..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1735967461185593413][View Tweet]]
+#+END_QUOTE\

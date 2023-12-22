@@ -13,50 +13,32 @@
 :image-url: https://static001.geekbang.org/resource/image/26/9a/262c27d184c2488b66e6c0d1e920fe9a.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 这里我们再来回顾一下耶鲁组合的配置方案。耶鲁组合的基本构建思路是：尽量多地引入有坚实盈利逻辑的资产类别。根据这一基本原则，我挑选了兼顾收益率和最大回撤指标的三个资产项，组成了我们自己的耶鲁组合。具体配置方案是 30% 中国主动股基，10% 美国股票资产和 60% 的中国债券资产。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnx48gpyk46g7f9axbd67ja][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 我们先来看第一步，基金筛选。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnx6v56v6jb3g0byx9e8eke][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 基金筛选其实有很多专业的评估指标，包括夏普率、阿尔法、波动率等等。使用这些专业指标的确有更好的前瞻性效果，但它们计算复杂，使用上又很讲究方法，个人投资者不容易上手。所以，我建议你可以直接使用一些基金评级机构的评级结果。这些评级一般都考虑了我们刚才提到的复杂指标，并且重点关注过去 3 年或 5 年的长期表现，是非常客观且权威的参考。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnx7354670gkbtjt459c2zd][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 因此，一个简单又较为可靠的基金筛选方法就是看基金评级。你可以先过滤出五星的基金，如果数量太少，再去选四星的基金产品。市场上发布基金评级的机构有一个列表（基金业协会链接），你可以直接去它们的官网搜基金评级的结果，也可以在天天基金网之类的第三方销售平台上，查找汇总多家的评级结果（如图 3）。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnx7whk2qhex6yqnaxk7c44][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 经过层层筛选，我最终选出来招商行业精选、中银中证 100 指数增强、诺安研究精选、工银研究精选和景顺长城沪港深精选这 5 只基金，放入到备选池。那我们到底应该选哪一只呢？下面，我们就通过个基评估来挑选出一只。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxcbjk3dyshv699ejfgrab][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 接下来看第二步，个基评估。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxcetwcp2gayxkrme4h6g8][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 这里，我们再回顾一下整个筛选的流程：
 
@@ -65,39 +47,24 @@
 把这 3 到 5 只基金放入价格比工具，和沪深 300 指数比较，看哪只价格比的曲线斜率更高，走势更平稳。
 
 根据你的风险偏好，选出最适合你的那只基金。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxecswd8tydqaev4x4fhpa][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 因此，在配置美股资产的时候，我建议直接选被动指数基金，既省心效果也不错。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxg3k8tqsaqc4xd7m3m50q][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 选择被动指数基金的思路很简单，就是看基金能不能紧密地追踪目标指数。我们把基金的净值和它的标的指数的净值起点拉到一起，画出两条走势曲线，看这两条线是不是一直贴得很近，就可以了。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxg9zv2gr7w2bwneykqb0n][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 最后，还剩下债券型基金这个财富项。债券型基金是为耶鲁组合提供稳定收益，降低风险的“压舱石”。所以，我推荐你使用长期收益稳定的国债基金作为具体的投资项。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxgkq3pag69qezba3frsxd][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 除了国债基金外，债券型基金还包括“信用债基金”，这里的“信用债基金”会投资于企业债、政府城投债等标的，额外增加了信用违约风险。如果你不打算承担信用风险，建议在选基时注意区分纯国债的基金和包含信用债的基金，并选择只投国债的基金。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxh7s3hrarwbx4tpcd2hh3][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 一般来说，我们可以通过基金名称、业绩基准和投资范围三个要素来核对，筛选出包含信用债的基金。
 
@@ -106,21 +73,12 @@
 业绩基准：业绩基准里包含信用债、企业债或公司债指数的；
 
 投资范围：投资范围包含信用债、企业债、公司债的。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxhdtq1n9qpsgv5yf4yvqq][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 建好仓后，下面的事情就是定期的资产配置再平衡了。作为普通投资者，只要我们在购买基金的时候进行了充足的分析，是没有必要在平时频繁查看这个配置组合的。 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxj7ebhh118trx4xedrk5y][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-10]]
 #+BEGIN_QUOTE
 海通证券基金评价 https://fund.htsec.com/#/fundEval/publicFund 上海证券基金评价 https://www.shzq.com/information/fundEvaluation.html 北京济安金信科技有限公司 http://www.jajxfund.com/ 天相投资顾问 http://www.txsec.com/data/jjsj-txjjpm.asp 天天基金网 http://fund.eastmoney.com/data/fundrating.html 
-#+END_QUOTE
-    date:: [[2023-04-10]]
-*** from _15｜实战知识：如何选出一只优质的基金？_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxnxmsbrf655j1mb36y0dfz9][View Highlight]]
+#+END_QUOTE\

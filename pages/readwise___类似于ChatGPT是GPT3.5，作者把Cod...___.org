@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-11]]
 #+BEGIN_QUOTE
 类似于ChatGPT是GPT3.5，作者把Code Interpreter比作GPT4.5。
 
@@ -23,7 +23,4 @@
 2. 表明新的聊天模式是通用人工智能的未来之路
 
 那么对于Code… https://t.co/zxteY6pe3J 
-#+END_QUOTE
-    date:: [[2023-07-11]]
-*** from _类似于ChatGPT是GPT3.5，作者把Cod..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1678656004869767173][View Tweet]]
+#+END_QUOTE\

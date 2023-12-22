@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1177924061596225539/wLC8H298.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-08-06]]
 #+BEGIN_QUOTE
 昨晚和一位设计师朋友喝咖啡，聊聊设计协作的问题。想起之前在专栏里写过的一段话，算是这些年折腾设计协同产品的一些感受吧。
 
@@ -36,7 +36,4 @@
 协同的目的是为了提升效率，这就意味着我们需要有一个明确的可衡量的目标，否则我们很容易陷入盲目的改进和迷失方向。
 
 一定要先给这件事情定义一个清晰且有意义的目标（无论是定量还是定性），通过设定目标来持续监测改进的效果，并根据实际的情况进行调整和优化。 
-#+END_QUOTE
-    date:: [[2023-08-06]]
-*** from _昨晚和一位设计师朋友喝咖啡，聊聊设计协作的问题。..._ by @5key on Twitter
-*** [[https://twitter.com/5key/status/1688021208389054464][View Tweet]]
+#+END_QUOTE\

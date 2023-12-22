@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-10]]
 #+BEGIN_QUOTE
 转译：什么是“专家混合模型”（Mixture-of-Experts，MoE）？
 
@@ -38,7 +38,4 @@
 - 《GShard：利用条件计算和自动分片扩展巨型模型》(2020)：[点击查看](https://t.co/yGmc3QWERF)
 - 《MegaBlocks：使用专家混合模型进行高效稀疏训练》(2022)：[点击查看](https://t.co/kWS1VGN1A1)
 - 《专家混合模型遇见指令调整》(2023)：[点击查看](https://t.co/DosVXhbveL) 
-#+END_QUOTE
-    date:: [[2023-12-10]]
-*** from _转译：什么是“专家混合模型”（Mixture-O..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1733742097239286215][View Tweet]]
+#+END_QUOTE\

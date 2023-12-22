@@ -12,8 +12,8 @@
 :image-url: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 OpenAI 的 Chat Completions API 新增了 logprobs，那么这个参数是做什么用的呢？
 
@@ -32,38 +32,26 @@ OpenAI 的 Chat Completions API 新增了 logprobs，那么这个参数是做什
 不过对于普通开发者来说，感觉并没有太大的用处，只有真正的 Prompt Engineer 才可能会用的上。
 
 也欢迎评论补充：你觉得这两个参数可以有哪些实用的应用场景？<img src='https://pbs.twimg.com/media/GBbIzyyXUAI5uK6.png'/><img src='https://pbs.twimg.com/media/GBbKPtVWQAA6JNB.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _OpenAI 的 Chat Completion..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735799522792546517][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 另外还有两个参数我以前没注意到，不确认是不是新增的：
 
 n 参数，可以同时返回多个生成结果。比如有时候你可以一次性生成几个不同的结果，让用户选择一个他们觉得最好的结果。（参考图一）
 
 还有一个就是上次开发者大会说到的 seed 参数，这个类似于用 Stable Diffusion 画图的时候用到的 seed 参数，当你每次传入相同的 seed 和其他相同参数时，每次返回的结果会尽可能的保持一致。<img src='https://pbs.twimg.com/media/GBbOXeUWMAAH2TM.jpg'/> 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _OpenAI 的 Chat Completion..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735802381240078497][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 还有两个变化也要注意：
 
 functions 参数和 function_call 已经改名字了，分别对应的是 tools 参数和 tool_choice，参数结果似乎没明显变化。 
 
 ![](https://pbs.twimg.com/media/GBbPhtVW4AEeuPA.png) 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _OpenAI 的 Chat Completion..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735802907390284114][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-16]]
 #+BEGIN_QUOTE
 补充个文档截图 
 
 ![](https://pbs.twimg.com/media/GBbQQ9cXgAE84SF.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-16]]
-*** from _OpenAI 的 Chat Completion..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1735803702563291451][View Tweet]]
+#+END_QUOTE\

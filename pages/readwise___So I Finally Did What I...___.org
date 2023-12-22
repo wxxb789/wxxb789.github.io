@@ -12,50 +12,35 @@
 :image-url: https://pbs.twimg.com/profile_images/1238699624015097857/91WMUadR.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-20]]
 #+BEGIN_QUOTE
 So I finally did what I promised 3mo ago – We wrote a reflection paper on using LLMs to replicate crowdsourcing pipelines, based on an assignment in our Human-Centered NLP course! https://t.co/VwHBdZiNZg
 20+ students implemented 7 crowd. pipelines from prior research & find…
 1/ 
 
 ![](https://pbs.twimg.com/media/F1cZj01aAAA7YnX.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-20]]
-*** from _So I Finally Did What I..._ by @tongshuangwu on Twitter
-*** [[https://twitter.com/tongshuangwu/status/1681841387753570306][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-20]]
 #+BEGIN_QUOTE
 LLMs can replicate these advanced “human-computing algorithms”, but the level of success is variable and influenced by requesters' perceptions of LLM capabilities, the specific skills required for sub-tasks, and the optimal interaction modality for performing these sub-tasks.
 2/ 
 
 ![](https://pbs.twimg.com/media/F1caNdCaUAE3F_r.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-20]]
-*** from _So I Finally Did What I..._ by @tongshuangwu on Twitter
-*** [[https://twitter.com/tongshuangwu/status/1681841813676789766][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-20]]
 #+BEGIN_QUOTE
 Interestingly, LLMs and humans sensitive to different instructions, and LLMs (driven solely by textual commands) receive much less guardrail compared to humans, for example interfaces that can scaffold the output structure (e.g., extract exact phrases through mouse selection).
 3/ 
 
 ![](https://pbs.twimg.com/media/F1cado0aIAAOe4X.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-20]]
-*** from _So I Finally Did What I..._ by @tongshuangwu on Twitter
-*** [[https://twitter.com/tongshuangwu/status/1681842092056936449][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-20]]
 #+BEGIN_QUOTE
 Also, turns out pipeline repl. can be a valuable platform to (1) study the relative strengths of LLMs on diff. tasks (by cross-comparing their performances on sub-tasks set naturally in the same domain) and (2)  assess partial success of LLMs on complex tasks.
 4/ 
-#+END_QUOTE
-    date:: [[2023-07-20]]
-*** from _So I Finally Did What I..._ by @tongshuangwu on Twitter
-*** [[https://twitter.com/tongshuangwu/status/1681842165625016320][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-20]]
 #+BEGIN_QUOTE
 Overall, it was fun writing a paper with students in courses! And def. the best way I can imagine wrapping up my first-ever course. Thanks @Haiyi_Zhu for inspiring me on the assignment design and all the students on their amazing work w.r.t assignment and paper revision! 5/5 
-#+END_QUOTE
-    date:: [[2023-07-20]]
-*** from _So I Finally Did What I..._ by @tongshuangwu on Twitter
-*** [[https://twitter.com/tongshuangwu/status/1681842403916013569][View Tweet]]
+#+END_QUOTE\

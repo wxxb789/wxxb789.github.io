@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1426678535893110784/F310H9tA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-10]]
 #+BEGIN_QUOTE
 推荐陈丹琦主导的科研报告——基于检索的 LM。
 
@@ -25,7 +25,4 @@
 因此外挂一个数据库用来检索是非常必要的，也是现在很前沿的研究方向之一。… https://t.co/uMgW9dbvFW 
 
 ![](https://pbs.twimg.com/media/F0m6baRacAAbPGr.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-10]]
-*** from _推荐陈丹琦主导的科研报告——基于检索的 Lm。..._ by @cosmtrek on Twitter
-*** [[https://twitter.com/cosmtrek/status/1678077835418955781][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1704284782526660608/9ZKAaWQ6.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-09-05]]
 #+BEGIN_QUOTE
 卡梅隆博士的arXiv论文综述研究越来越接近LLM本质问题思考了：
                     ——————————
@@ -29,7 +29,4 @@
 应用损失：要应用下一个令牌预测损失，我们只需在所有预测的下一个令牌上使用交叉熵损失cross-entropy loss。这种损失鼓励模型最大限度地提高我们输入的每个序列中所有令牌的地面真相下一个令牌的概率。值得注意的是，这与我们用于任何正常分类任务的损失相同！我们只是教模型在每个序列的每个位置中正确分类下一个令牌。
 
 实施：要实现这个培训目标，我们不需要做太多！我们只需要为我们的仅解码器变压器创建一个PyTorch模型，编写数据加载器来获取预训练数据，并创建一个可以应用下一个令牌预测损失的训练循环。在所附图像中，我们检查了Andrej Karpathy在NanoGPT中提供的简单实现。在这里，我们可以看到代码与上面提供的语言模型预培训的讨论完全匹配。唯一需要的更改与分布式训练和自动混合精度（AMP）训练有关，这些训练用于提高LLM训练的效率/快速。 
-#+END_QUOTE
-    date:: [[2023-09-05]]
-*** from _卡梅隆博士的arXiv论文综述研究越来越接近LL..._ by @TaNGSoFT on Twitter
-*** [[https://twitter.com/TaNGSoFT/status/1698800631501500793][View Tweet]]
+#+END_QUOTE\

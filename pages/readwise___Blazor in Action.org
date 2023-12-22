@@ -11,11 +11,8 @@
 :image-url: https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/23250142/cover-cover.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-26]]
 #+BEGIN_QUOTE
 ![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/23250142/IFC_F01_Sainty.png-IFC_F01_Sainty.png) 
-#+END_QUOTE
-    date:: [[2023-01-26]]
-*** from _Blazor in Action_ by Chris Sainty
-*** [[https://read.readwise.io/read/01gqmwb6bpyrj26vacnjnf2944][View Highlight]]
+#+END_QUOTE\

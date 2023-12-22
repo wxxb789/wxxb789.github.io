@@ -12,26 +12,20 @@
 :image-url: https://qdrant.tech/images/social_preview.png
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 Vector databases are optimized for **storing** and **querying** these high-dimensional vectors efficiently, and they often using specialized data structures and indexing techniques such as Hierarchical Navigable Small World (HNSW) – which is used to implement Approximate Nearest Neighbors – and Product Quantization, among others. These databases enable fast similarity and semantic search while allowing users to find vectors that are the closest to a given query vector based on some distance metric. The most commonly used distance metrics are Euclidean Distance, Cosine Similarity, and Dot Product, and these three are fully supported Qdrant. 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _What Is Qdrant?_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4ctrhshen3w8fmsq7es140p][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 Here’s a quick overview of the three:
 
 •   [**Cosine Similarity**](https://en.wikipedia.org/wiki/Cosine_similarity) - Cosine similarity is a way to measure how similar two things are. Think of it like a ruler that tells you how far apart two points are, but instead of measuring distance, it measures how similar two things are. It’s often used with text to compare how similar two documents or sentences are to each other. The output of the cosine similarity ranges from 0 to 1, where 0 means the two things are completely dissimilar, and 1 means the two things are exactly the same. It’s a straightforward and effective way to compare two things!
 •   [**Dot Product**](https://en.wikipedia.org/wiki/Dot_product) - The dot product similarity metric is another way of measuring how similar two things are, like cosine similarity. It’s often used in machine learning and data science when working with numbers. The dot product similarity is calculated by multiplying the values in two sets of numbers, and then adding up those products. The higher the sum, the more similar the two sets of numbers are. So, it’s like a scale that tells you how closely two sets of numbers match each other.
 •   [**Euclidean Distance**](https://en.wikipedia.org/wiki/Euclidean_distance) - Euclidean distance is a way to measure the distance between two points in space, similar to how we measure the distance between two places on a map. It’s calculated by finding the square root of the sum of the squared differences between the two points’ coordinates. This distance metric is commonly used in machine learning to measure how similar or dissimilar two data points are or, in other words, to understand how far apart they are. 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _What Is Qdrant?_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4d72zj8v4g522892xy6fj0p][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 In addition, other benefits of using vector databases include:
 
@@ -41,18 +35,12 @@ In addition, other benefits of using vector databases include:
 4.  Ability to handle vectors derived from complex data types such as images, videos, and natural language text.
 5.  Improved performance and reduced latency in machine learning and AI applications.
 6.  Reduced development and deployment time and cost compared to building a custom solution. 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _What Is Qdrant?_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4d75a9jhp7jkbbq0mz04yrf][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 ![qdrant](https://raw.githubusercontent.com/ramonpzg/mlops-sydney-2023/main/images/qdrant_overview_high_level.png) 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _What Is Qdrant?_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4d761fhrtr281gkk901an8f][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-03]]
 #+BEGIN_QUOTE
 The diagram above represents a high-level overview of some of the main components of Qdrant. Here are the terminologies you should get familiar with.
 
@@ -64,7 +52,4 @@ The diagram above represents a high-level overview of some of the main component
     •   [Payload](https://qdrant.tech/documentation/overview/../concepts/payload/): A payload is a JSON object with additional data you can add to a vector.
 •   [Storage](https://qdrant.tech/documentation/overview/../concepts/storage/): Qdrant can use one of two options for storage, **In-memory** storage (Stores all vectors in RAM, has the highest speed since disk access is required only for persistence), or **Memmap** storage, (creates a virtual address space associated with the file on disk).
 •   Clients: the programming languages you can use to connect to Qdrant. 
-#+END_QUOTE
-    date:: [[2023-07-03]]
-*** from _What Is Qdrant?_ by qdrant.tech
-*** [[https://read.readwise.io/read/01h4d7780w1hqxwjb8n2rkaj2j][View Highlight]]
+#+END_QUOTE\

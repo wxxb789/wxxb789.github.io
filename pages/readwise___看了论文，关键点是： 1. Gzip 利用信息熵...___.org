@@ -12,14 +12,11 @@
 :image-url: https://pbs.twimg.com/profile_images/1607983279822737409/fvC2Akzz.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-14]]
 #+BEGIN_QUOTE
 看了论文，关键点是：
 1. gzip 利用信息熵做了无损压缩，同时保留了位置编码。最后得到的压缩串长度作为科尔莫格洛夫复杂度的近似。
 2. 然后利用信息距离计算两个串的相似度。信息距离在直觉上是将两个串互相之间转化所需要的最小信息量（也就是两个串的前述复杂度之差），差越小越相近。
 真的太聪明了 https://t.co/QTBtpE84sP 
-#+END_QUOTE
-    date:: [[2023-07-14]]
-*** from _看了论文，关键点是： 1. Gzip 利用信息熵..._ by @_logp on Twitter
-*** [[https://twitter.com/_logp/status/1679533985888899072][View Tweet]]
+#+END_QUOTE\

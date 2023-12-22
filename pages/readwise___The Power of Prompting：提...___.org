@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1721488863603118080/VJBC4Z7L.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-30]]
 #+BEGIN_QUOTE
 The Power of Prompting：提示的力量，仅通过提示，GPT-4可以被引导成为多个领域的特定专家。
 
@@ -79,7 +79,4 @@ Medprompt在多项基准测试中表现卓越，不仅在医学领域取得了�
 
 官方介绍：https://t.co/L3vbLiQsTB
 论文：https://t.co/HCA12EAvUb<img src='https://pbs.twimg.com/media/GAGspsbbgAAMPj9.jpg'/><img src='https://pbs.twimg.com/media/GAGssoCaAAATt0h.jpg'/><img src='https://pbs.twimg.com/media/GAGu0ilb0AALQ8E.png'/> 
-#+END_QUOTE
-    date:: [[2023-11-30]]
-*** from _The Power of Prompting：提..._ by @xiaohuggg on Twitter
-*** [[https://twitter.com/xiaohuggg/status/1729862138796351499][View Tweet]]
+#+END_QUOTE\

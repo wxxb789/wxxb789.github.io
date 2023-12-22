@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1695490193007214593/ScJQC8nk.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 Portal：一天就获取1kstar的项目，他的诞生，爆发，然后沉寂。
 
@@ -31,11 +31,8 @@ Portal：一天就获取1kstar的项目，他的诞生，爆发，然后沉寂�
 6. 总结和反思 
 
 ![](https://pbs.twimg.com/media/FwLOXaOXoAAnUSq.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136199838703617][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 1/n 前情提要：
 
@@ -44,11 +41,8 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 比如说做一个能将任何视频，音频和字幕，进行翻译和总结的工具。
 
 但是GTP4的发布和微软的办公软件的Copilot的发布让我又燃起了做一款新工具。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136205433921536][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 2/n 灵感来源
 
@@ -59,11 +53,8 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 立刻能获取大家都用不上的GTP4 API，我感觉吸引力还不足够，让大家使用我的软件。 
 
 ![](https://pbs.twimg.com/media/FwLSlu-WcAQiI82.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136211733770240][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 3/n 灵感来源
 
@@ -72,33 +63,24 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 同样的，不是所有用户能使用上这个功能。我心想我能不能做这个功能的平替，让用户在微信，word，都用上GTP4. 
 
 ![](https://pbs.twimg.com/media/FwLSp18XwAILV0Y.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136220097187840][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 4/n 灵感来源
 
 最后，为了能让用户更好用上在任何软件上用上GTP4，我还需要开发提示语模板的功能。 
 
 ![](https://pbs.twimg.com/media/FwLSfrQXoAMm2KJ.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136224643829761][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 5/n 灵感来源
 
 最后我将我的软件定位为能够接入用户工作流的客户端。用户可以通过快捷键，获取高亮的文字，发送到软件中，让chatgpt处理，如果愿意，还能在光标出写会来。 
 
 ![](https://pbs.twimg.com/media/FwLS2LtWAAQgmZ7.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136231333724160][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 6/n 灵感来源
 
@@ -108,11 +90,8 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 3.  通过提示语模板提供多种能力
 
 当时，你很难不去下载这个软件试试 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136242364600323][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 7/n 代码实现
 
@@ -121,11 +100,8 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 是的技术上我就没啥能教大家的了。
 
 我通宵一周就实现了这个软件。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136246206750720][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 8/n 宣传工作
 
@@ -134,11 +110,8 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 白板报老师对我的软件赞不绝口，当时发推说是Copilot的末日，掘墓人。现在看来挺羞耻。
 
 哈哈哈，我就不去翻推特了。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136250828873729][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 9/n 宣传工作
 你没看错，我的软件配置需要出一个20分钟的视频来教学，就算如此还是又很多人，不断地问如何使用。
@@ -147,11 +120,8 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 学习如何使用这个软件的视频多人看，导致我的B站账号还涨粉500粉丝。 
 
 ![](https://pbs.twimg.com/media/FwLVgA4WcAEUgMh.png) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136255518105602][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 10/n 宣传工作
 
@@ -162,22 +132,16 @@ BilibilSummary由于某些不可抗力导致我停止更新后，我尝试过其
 实际上在任何可以码字的对话框都是使用，这样其实在编辑器中也能生成文章
 
 https://t.co/DHzbaarGWY 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136262124130304][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 11/n 宣传工作
 
 为了教会大家使用软件，我还拉了tg群。很快就突破了1000人了。 
 
 ![](https://pbs.twimg.com/media/FwLYDRKXwAMXPtC.png) 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136269246058496][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 11/n 后续开发
 
@@ -191,11 +155,8 @@ https://t.co/DHzbaarGWY
 https://t.co/wqv0png3rG
 
 大部分用户都没能看到这些功能。因为某些原因，我开始将我的B站视频全部删除了，项目换成了英文。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136274077892614][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 12/n 后续开发
 
@@ -206,11 +167,8 @@ https://t.co/wqv0png3rG
 我开始意识到有些东西不是我一个能做好的了。我就放弃了开发。。。
 
 是的我又放弃了。。。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136278628700160][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 13/n 总结
 如何获取灵感：
@@ -218,21 +176,15 @@ https://t.co/wqv0png3rG
 尝试做某些收费软件的开源替代是一个十分不错的项目点子。不过要求你看得项目很多。
 
 我开始尝试做出大公司软件得平替了，多亏我看的代码足够多。有时候，你确实能做某些东西的开源替代，应该能爆发式的增长。因为这个点子有大公司背书说明有价值。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136283108245510][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 14/n 总结
 如何宣传：
 
 分享有价值的信息，提高自己的人气。当产品发布的时候，他们就会主动帮你宣传。不仅仅是我提到了前面的两位老师，我微信上还认识了不少朋友，包括汇聚众多独立开发者的微信群的群主，@vista8。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136288334323712][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 15/n 反思：
 应该使用成功的ui设计方案：
@@ -242,11 +194,8 @@ https://t.co/wqv0png3rG
 后来我仔细看了看，几乎没有人的软件的交互设计和我的一样，大家都和某款界面类似。根本原因是用户需要学习新界面的使用，而用户是不想学习的。
 
 使用成熟的设计是一个永远不会出错的选择 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136294265081856][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 15/n 反思：
 不要做没有前景的项目：
@@ -254,22 +203,16 @@ https://t.co/wqv0png3rG
 随着openai和其他不可抗力对这类应用的打击。我预判我的应用其实没有存在的必要了，因为我一直做免费应用，根本资金没办法对抗风险。
 
 我删除了B站的宣传视频，项目进入封档状态。当时tg群到了1000人后就不能删除了。 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136301458309121][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 故事结束了吗？
          我的故事还没有结束，我几乎尝试了所有的应用类型，浏览器插件，桌面应用，网站。
          我还么没介绍我的网站类型的应用，但是我觉分享得够多了，是时候认真工作，认真生活了，保持健康。
          
 https://t.co/yxpvWTo4bZ 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136305442885634][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-16]]
 #+BEGIN_QUOTE
 我几乎没有拒绝过别人的分享的邀请，某些不合情理的除外。
 
@@ -278,7 +221,4 @@ https://t.co/yxpvWTo4bZ
 大家经常认为只有成功的人才值得分享他们的经验，其实错了，失败往往比成功更加值得分享。
 
 在社区里面学习，然后分享给社区。respect！ 
-#+END_QUOTE
-    date:: [[2023-05-16]]
-*** from _Portal：一天就获取1kstar的项目，他的..._ by @lxfater on Twitter
-*** [[https://twitter.com/lxfater/status/1658136309519745024][View Tweet]]
+#+END_QUOTE\

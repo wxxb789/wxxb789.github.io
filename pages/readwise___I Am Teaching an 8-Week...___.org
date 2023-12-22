@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1671654187657056256/flrMZYLe.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 I am teaching an 8-week course at Oxford on the fundamentals of topological data analysis (including persistent homology, cellular sheaves, & discrete Morse theory).
 
@@ -24,11 +24,8 @@ All Videos: https://t.co/qAQHr0JW4l
 Course thread! (0/8) 
 
 ![](https://pbs.twimg.com/media/FJ4GIu7XwAQZm7w.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1485633735919902726][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 WEEK 1: simplicial complexes, geometric realizations, simplicial maps, Čech and Vietoris-Rips filtrations around data points...
 
@@ -37,11 +34,8 @@ Week 1 Notes: https://t.co/qiut760Sdq
 Week 1 Videos: https://t.co/eIvplFIwWU
 
 (1/8) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1485633741007597578][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 Week 3: euler characteristic, orientations, chain complexes, homology groups, smith normal form,...
 
@@ -50,11 +44,8 @@ Week 3 Notes: https://t.co/a1aFOFXRj3
 Week 3 Videos: https://t.co/VBk3PWhaaF
 
 (3/8) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1490499250505097217][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 Week 5: cohomology, cup and cap products, poincare duality,...
 
@@ -63,11 +54,8 @@ Week 5 Notes: https://t.co/rPihmZkftb
 Week 5 Videos: https://t.co/3a90p4iq0I
 
 (5/8) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1494723686577975296][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 Week 6: persistent homology, barcodes, algorithm for filtrations, interleaving distance, stability theorem,...
 
@@ -76,11 +64,8 @@ Week 6 Notes: https://t.co/lf4eseYzf4
 Week 6 Videos: https://t.co/EadUoKEc0g
 
 (6/8) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1497672505196224515][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 Week 7: sheaves on simplicial complexes, their cohomology, sections and etale spaces, pushforwards and pullbacks,...
 
@@ -89,11 +74,8 @@ Week 7 Notes: https://t.co/nxn7iVf15m
 Week 7 Videos: https://t.co/nxn7iVf15m
 
 (7/8) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1500131139800944646][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-05]]
 #+BEGIN_QUOTE
 Week 8: discrete Morse theory, acyclic partial matchings, gradient paths, the Morse chain complex, simplifying computations of persistent homology and sheaf cohomology,...
 
@@ -102,7 +84,4 @@ Week 8 Notes: https://t.co/Sq3t2a7t8A
 Week 8 Videos: https://t.co/DGslqXzzQK
 
 (8/8) 
-#+END_QUOTE
-    date:: [[2023-01-05]]
-*** from _I Am Teaching an 8-Week..._ by @viditnanda on Twitter
-*** [[https://twitter.com/viditnanda/status/1504829774820220932][View Tweet]]
+#+END_QUOTE\

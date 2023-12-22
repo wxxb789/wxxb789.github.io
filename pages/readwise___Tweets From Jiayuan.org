@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1735561740136681472/b3-0se7w.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-20]]
 #+BEGIN_QUOTE
 又创建了一个有意思的 AI：Mastering Emacs
 
@@ -26,7 +26,4 @@
 https://t.co/bcZMhvcivC 
 
 ![](https://pbs.twimg.com/media/Ft-zzG7aEAAXrFQ.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-20]]
-*** from _Tweets From Jiayuan_ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1648234133834039296][View Tweet]]
+#+END_QUOTE\

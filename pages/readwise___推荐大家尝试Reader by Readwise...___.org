@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1585995910521446400/OXrx3eAV.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-17]]
 #+BEGIN_QUOTE
 推荐大家尝试Reader by Readwise (两个月试用免费)-affiliate 链接:
 https://t.co/KZyt4rHgNE
@@ -45,7 +45,4 @@ https://t.co/KZyt4rHgNE
 如果你最后觉得它对你有用，决定付费订阅，作为合作方，Readwise会给我一定的佣金。
 
 感谢！ 
-#+END_QUOTE
-    date:: [[2023-11-17]]
-*** from _推荐大家尝试Reader by Readwise..._ by @onenewbite on Twitter
-*** [[https://twitter.com/onenewbite/status/1725350331201028205][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1578459356500152321/7qWD4yJO.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-20]]
 #+BEGIN_QUOTE
 Stability 刚刚发布了开源的大语言模型：StableLM
 
@@ -22,16 +22,10 @@ Stability 刚刚发布了开源的大语言模型：StableLM
 https://t.co/SFW292sRo7 
 
 ![](https://pbs.twimg.com/media/FuF31jCakAAKWgi.jpg) 
-#+END_QUOTE
-    date:: [[2023-04-20]]
-*** from _Stability 刚刚发布了开源的大语言模型：..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1648731668348563456][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-20]]
 #+BEGIN_QUOTE
 可以直接在 huggingface 上和这个 7B 的模型交互，简单测试了一下，效果还可以，而且生成速度很快。
 
 https://t.co/eGLil4F53I 
-#+END_QUOTE
-    date:: [[2023-04-20]]
-*** from _Stability 刚刚发布了开源的大语言模型：..._ by @Tisoga on Twitter
-*** [[https://twitter.com/Tisoga/status/1648732253357481984][View Tweet]]
+#+END_QUOTE\

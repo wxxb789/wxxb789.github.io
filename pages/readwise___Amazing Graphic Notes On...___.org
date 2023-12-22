@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-13]]
 #+BEGIN_QUOTE
 Amazing graphic notes on Gilbert Strang's "Linear Algebra for Everyone" book.
 
@@ -26,7 +26,4 @@ Well done, @hiranabe!… https://t.co/KMu1eO5Fu4
 ![](https://pbs.twimg.com/media/F02KuFKXsAATjjL.jpg) 
 
 ![](https://pbs.twimg.com/media/F02KwAhXoAEpdth.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-13]]
-*** from _Amazing Graphic Notes On..._ by @omarsar0 on Twitter
-*** [[https://twitter.com/omarsar0/status/1679150890417025026][View Tweet]]
+#+END_QUOTE\

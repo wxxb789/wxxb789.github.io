@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-11-28]]
 #+BEGIN_QUOTE
 OpenAI 推出的开源免费 Whisper 在语音识别领域（ASR）可以说无出其右，不过它有一个较大的局限性，就是无法进行说话人分类（Speaker diarization），尤其是在重叠语音检测（Overlapped speech detection）方面，Whisper 在训练过程中只识别了一个声音，同时将其他声音视为背景噪声。
 
@@ -36,16 +36,10 @@ https://t.co/sYEMTsce6m，这篇文章提出了一个性能稍微优秀一点点
 4）最后交给 Whisper 进行语音识别
 
 这部分工程的实现已被作者整理成一个开源项目：https://t.co/vluIQH1ElF，目前还没有找到更优的解决方案，不知道有经验的朋友都是如何去做的？ 
-#+END_QUOTE
-    date:: [[2023-11-28]]
-*** from _OpenAI 推出的开源免费 Whisper 在..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1729521472669151516][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-11-28]]
 #+BEGIN_QUOTE
 Whisper 项目的维护者给出了一个解决思路：“如果你有重叠音频的数据集，对 Whisper 直接进行微调，或许是一个效果更好、更加可靠、成本更低的方案”，https://t.co/do5NILbOeQ
 
 还没有找到这么厉害的端到端模型，不知道是不是论文读少了，我再去找找😄 
-#+END_QUOTE
-    date:: [[2023-11-28]]
-*** from _OpenAI 推出的开源免费 Whisper 在..._ by @Barret_China on Twitter
-*** [[https://twitter.com/Barret_China/status/1729526155932553493][View Tweet]]
+#+END_QUOTE\

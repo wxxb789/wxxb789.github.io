@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1715475762516840448/kst_-vG1.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-09-07]]
 #+BEGIN_QUOTE
 🚀This is quite something - web scraping with LLM🚀
 
@@ -70,7 +70,4 @@ A structured tool represents an action an agent can take. It wraps any function 
 ✅2. Like & Retweet this tweet:
 
 #llm #Largelanguagemodels #Llama2 #MachineLearning #ArtificialIntelligence #datascience #nlp #textprocessing #deeplearning #deeplearningai #100daysofmlcode #neuralnetworks #datascience #nlp #textprocessing #tensorflow #pytorch #deeplearning #deeplearningai #100daysofmlcode #neuralnetworks #pythonprogramming #python #100DaysOfMLCode #softwareengineer #dataanalysis #datascienceinterview #python #programming #coding #programmer #developer #coder #code #computerscience #technology #pythonprogramming #software 
-#+END_QUOTE
-    date:: [[2023-09-07]]
-*** from _🚀This Is Quite Something..._ by @rohanpaul_ai on Twitter
-*** [[https://twitter.com/rohanpaul_ai/status/1699163327413526639][View Tweet]]
+#+END_QUOTE\

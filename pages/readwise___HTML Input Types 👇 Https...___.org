@@ -12,31 +12,22 @@
 :image-url: https://pbs.twimg.com/profile_images/1510928172686225411/bTCh20YN.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-01-12]]
 #+BEGIN_QUOTE
 HTML input types 👇 
 
 ![](https://pbs.twimg.com/media/FmL9TKIXEAYZUmm.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-12]]
-*** from _HTML Input Types 👇 Https..._ by @reactive_dude on Twitter
-*** [[https://twitter.com/reactive_dude/status/1613130213298442242][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-12]]
 #+BEGIN_QUOTE
 Light version 
 
 ![](https://pbs.twimg.com/media/FmL8qaZXwAIkkfa.jpg) 
-#+END_QUOTE
-    date:: [[2023-01-12]]
-*** from _HTML Input Types 👇 Https..._ by @reactive_dude on Twitter
-*** [[https://twitter.com/reactive_dude/status/1613130215558873145][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-01-12]]
 #+BEGIN_QUOTE
 It means the world to me whenever you ❤️ or retweet my threads. 
 
 Follow me @reactive_dude for more programming & web development tips. 
-#+END_QUOTE
-    date:: [[2023-01-12]]
-*** from _HTML Input Types 👇 Https..._ by @reactive_dude on Twitter
-*** [[https://twitter.com/reactive_dude/status/1613130217194770433][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://blog.liugezhou.online/favicon.ico
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-16]]
 #+BEGIN_QUOTE
 文摘
 
@@ -25,7 +25,4 @@
 > > 我的想法是，即使"东西没有坏"，你仍然可以改进它。你的客户会喜欢这样，你的竞争对手不会。永远不要停止挑战自己。
 
 编码相关 
-#+END_QUOTE
-    date:: [[2022-12-16]]
-*** from _每周小结(*86):积极心态_ by 六个周
-*** [[https://read.readwise.io/read/01gmct5yyskp5mevtcc0zwyqtc][View Highlight]]
+#+END_QUOTE\

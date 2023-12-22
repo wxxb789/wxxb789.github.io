@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1484538965109907461/VaQu5_PI.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 I made $0 online in 2020.
 
@@ -24,11 +24,8 @@ But 2 years later:
 - 20+ digital products
 
 Here are my 6 simple steps on getting started: 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563716903452672][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 1, Find your community
 
@@ -39,11 +36,8 @@ When I became passionate about Notion, the first step I took was finding the Not
 - Discord community
 
 I build my initial online presence by participating in daily conversations. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563725262708736][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 2. Grow your audience on social media
 
@@ -54,11 +48,8 @@ Build a larger, trusted audience on social media by studying successful accounts
 If you can't manage multiple accounts, focus on one.
 
 If you can, repurpose your content. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563727548694534][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 3. Create a high-value free offer
 
@@ -67,11 +58,8 @@ You lack credibility when you don't have an audience.
 To lower the barrier of entry, put in a lot of work for your first offer and make it free,
 
 This is how you build a loyal customer base that trusts and believes in your work. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563729507434496][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 4. Leverage your network
  
@@ -82,11 +70,8 @@ You gain exposure to people you might not have reached on your own.
 Cold DM people who are two steps ahead of you in your niche.
 
 I regret not doing this more. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563732594425856][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 5. Leverage modern tools
 
@@ -95,11 +80,8 @@ Adaptability and the ability to learn new skills are crucial for success.
 Don't be afraid to try out new tools and technologies, especially AI and no-code tools.
 
 Keep learning and growing. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563734871859204][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 6. Build your systems
 
@@ -108,11 +90,8 @@ Invest in building systems to save time and streamline your work.
 This can be a content creation system, knowledge management system, personal CRM, or any tried and tested processes.
 
 Notion is a great all-in-one workspace for this. 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563736914468864][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 Bonus:
 
@@ -122,11 +101,8 @@ This is the exact system I used to grow my Twitter audience from zero to 200K.
 
 Pre-order now for 50% OFF:
 https://t.co/UnquRyHiqR 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563739074527238][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2022-12-27]]
 #+BEGIN_QUOTE
 That's a wrap!
 
@@ -134,7 +110,4 @@ If you enjoyed this thread:
 
 1. Follow me @heyeaslo for more of these.
 2. RT the tweet below to share it with your audience. https://t.co/K2P6rjrnIo 
-#+END_QUOTE
-    date:: [[2022-12-27]]
-*** from _I Made $0 Online in 2020..._ by @heyeaslo on Twitter
-*** [[https://twitter.com/heyeaslo/status/1607563742002249729][View Tweet]]
+#+END_QUOTE\

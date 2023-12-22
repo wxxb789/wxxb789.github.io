@@ -12,29 +12,20 @@
 :image-url: https://pbs.twimg.com/profile_images/1638907044924387329/_yul1GE8.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 零编程经验，通过 GPT-4 十分钟开发了一个浏览器插件，并成功运行，实现了需求目标！太不可思意了，真正体会到了自然语言编程的魅力！😍 下一步是利用Pinterest 的 API 接口实现自动发图，已经生成好了代码和步骤（看着挺靠谱），等明天开发者权限审核下来验证。下面推文是详细过程： 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948624897015809][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 1. 先讲一下背景：Midjourney 后台有个模块可以给图片打分，每次展示两张图片，让你选择喜欢的一张，说白了就是在帮 Midjouney 炼丹了，这里面有个隐藏福利，当天打分数量前2000名的用户可以免费获得使用时长。有空的时候我就会去点一点，感觉花十几分钟就能获得奖励了。 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948627707219968][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 2. V5 推出后经常能看到一些很喜欢的图，偶然发现每张图的 Prompt 都存在 alt 信息里，完整复制比较麻烦。今天看到宝玉@dotey只花十几分钟就靠 Cursor 编辑器 AI 功能实现了一个手头遇到的需求。于是我也打算通过 GPT 尝试一下。在这里感谢@dotey的启发，推荐大家关注宝玉，了解AI 领域有价值的信息。 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948630257336321][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 3. 很简单的描述了一下需求，GPT 马上给出了一个通过书签运行 JavaScript 代码的方案，运行后会将抓取的信息输出到浏览器控制台。又让它改成把数据复制到剪贴板，马上给出了新的代码。不得不说，GPT-4 生成的指导教程非常细致清晰，让没有编程经验的我也能跟着提示一步一步操作。 
 
@@ -43,22 +34,16 @@
 ![](https://pbs.twimg.com/media/Fr6cvaVaAAEQsMS.png) 
 
 ![](https://pbs.twimg.com/media/Fr6fBkHaQAAhH0m.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948632769753093][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 4. 但我按照步骤执行后报错，将错误丢给 GPT 修改，第一次还是会出现同样的错误，第二次 GPT 找出了问题所在，直接在书签栏编辑会影响代码格式，重新在书签管理器新建书签代码真的运行成功了！ 不知道 GPT 是从训练的资料里学习到的，还是通过分析推理找出了原因，真的很神！更神奇的在后面: 
 
 ![](https://pbs.twimg.com/media/Fr6jqyyakAAAlZj.png) 
 
 ![](https://pbs.twimg.com/media/Fr6jtdKaEAArozS.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948635999363078][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 5. 问它有没有其他办法可以实现这个功能，GPT 给出了创建 Chrome 扩展的示例，甚至连名字都给起好了“image-alt-copier”，还是很贴切的。按照指引一步一步操作，我就用txt 文本编辑器新建了几个文件，网上找到一个图标并用 ps 保存3种分辨率的 png 文件 。GTP 连点击哪个图标和菜单都给说到了。 
 
@@ -69,57 +54,36 @@
 ![](https://pbs.twimg.com/media/Fr6kEToacAEUxFb.png) 
 
 ![](https://pbs.twimg.com/media/Fr6kMnRaMAYaJ5K.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948639241568256][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 6. 结果运行非常顺利，我人生中第一个浏览器插件，或者第一个“编程”作品就这么诞生了！这么说很心虚😅，全程我只是按照 GPT 提供的教程操作，几乎没有难度。我的创造性只体现在提出了一个具体的需求，在图库网站挑了一个图标。通过这次亲身体验，我可以肯定自然语言编程已经是现实了，而且门槛很低。 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948642903179265][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 7. 兴奋劲过去，我又冒出另外一个想法：能不能点击图片直接将图片自动发布到 Pinterest 的画板里，同时将提示词发布为图片备注信息。这样我就可以实现自动维护一个优质 AI 绘图作品的展示空间，这个想法很早就有了，但苦于自己不会撸代码。说干就干，接着给 GPT 提需求 
 
 ![](https://pbs.twimg.com/media/Fr6ybr4aUAAyRLu.png) 
 
 ![](https://pbs.twimg.com/media/Fr6zsUCaMAAuhrU.png) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948646275391489][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 8. GPT 真的很能干，马上又给出了详细的实现步骤，里面提到的链接都是可用的，我已经注册了开发者平台账户并尝试创建应用，目前还要等 Pinterest 的审核，审核过后我将马上测试并分享结果，请关注后续进展，记得关注我 @sundyme 😀 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948649345626112][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 7. 最后说下感想：在已经到来的 AI 时代，AI 工具将打破很多专业技术门槛，比如编程，绘画，摄影，普通人将创意实现变得前所未有的简单，专业人士通过 AI 工具也能极大提升效率，将自己的创作推向一个更高的层次。也许很快我们就能迎来一波内容创作大爆发，请系好安全带！😆 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948651912540161][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 致谢：@Cydiar404 人称 ChatGPT 卡皇，AI 界活菩萨😄，真的是一个热心人，帮很多推友（也包括我）用上了 ChatGPT 、GPT-4 。没有他的帮助我就没有这么快体验到强大的 GPT-4 今天这篇推文也不会诞生。谢谢 𝗖𝘆𝗱𝗶𝗮𝗿! 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948654718517249][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-03-24]]
 #+BEGIN_QUOTE
 8. 再最后，😳冒昧求一下关注👉@sundyme，上推多年很少输出内容，以后我会将推特作为一个窗口，分享一些粗浅的思考，期待与大家交流讨论。最近痴迷 AI 绘图，我会挑选一些高质量作品分享（附带提示词😜）欢迎关注，谢谢啦！下面是我刚刚用 #midjurney 生成的头像和banner，提示词在 ALT 信息里。 
 
 ![](https://pbs.twimg.com/media/Fr6t4VLaMAAcFrU.png) 
 
 ![](https://pbs.twimg.com/media/Fr6wL4qaQAAtse2.jpg) 
-#+END_QUOTE
-    date:: [[2023-03-24]]
-*** from _零编程经验，通过 GPT-4 十分钟开发了一个浏..._ by @sundyme on Twitter
-*** [[https://twitter.com/sundyme/status/1638948658451456001][View Tweet]]
+#+END_QUOTE\

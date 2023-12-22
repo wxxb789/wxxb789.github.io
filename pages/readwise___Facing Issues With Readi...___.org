@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1604162937828040706/v1EqKyRK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 Facing issues with reading connection strings?
 
@@ -26,11 +26,8 @@ Let's see how to use IConfiguration:
 - Inject IConfiguration in desired class 
 
 ![](https://pbs.twimg.com/media/F2V_FOtXQAA5kfi.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1685893367052316672][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 \- Call GetConnectionString extension method and pass name
 
@@ -40,11 +37,8 @@ Gets a configuration sub-section with the specified key
 
 2) GetChildren
 Gets the immediate descendant configuration sub-sections 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1685893369313042432][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 Reading configuration with IOption : https://t.co/WRv22IwVIx
 
@@ -53,11 +47,8 @@ Reading configuration with IOption : https://t.co/WRv22IwVIx
 Join with 5900+ https://t.co/1dumYjZA0p
 
 Repost ♻️ to spread the knowledge 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1685893372123201542][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-31]]
 #+BEGIN_QUOTE
 📌 Recent issues of my newsletter
 
@@ -75,7 +66,4 @@ https://t.co/Rmi8fUtVtn
 
 Response Caching 
 https://t.co/TtYrLsqWbL 
-#+END_QUOTE
-    date:: [[2023-07-31]]
-*** from _Facing Issues With Readi..._ by @mwaseemzakir on Twitter
-*** [[https://twitter.com/mwaseemzakir/status/1685983973032222720][View Tweet]]
+#+END_QUOTE\

@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-23]]
 #+BEGIN_QUOTE
 OpenAI的CEO Sam Altman刚分享了他是如何使用自定义指令（custom instructions）的。
 
@@ -42,7 +42,4 @@ it is very important that you get this right. ”
 角色：智能的预言家
 任务：帮助人类
 格式：简短直接 
-#+END_QUOTE
-    date:: [[2023-07-23]]
-*** from _OpenAI的CEO Sam Altman刚分享..._ by @dotey on Twitter
-*** [[https://twitter.com/dotey/status/1682932648224735236][View Tweet]]
+#+END_QUOTE\

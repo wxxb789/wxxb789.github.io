@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1634060888872484864/P7Huw7gK.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-02-06]]
 #+BEGIN_QUOTE
 分享几个AI人工智能工具集合网站，里面工具超全，聊天，写作，设计，图片，视频，金融，编码等等工具，赶快收藏一下吧，以后肯定用的着。
 
@@ -26,7 +26,4 @@
 ![](https://pbs.twimg.com/media/FoMLEooaAAAYo7b.jpg) 
 
 ![](https://pbs.twimg.com/media/FoMLKbtaQAAqbmg.jpg) 
-#+END_QUOTE
-    date:: [[2023-02-06]]
-*** from _Tweets From Lily🎡_ by @LilyCryptoNFT on Twitter
-*** [[https://twitter.com/LilyCryptoNFT/status/1622154882269712384][View Tweet]]
+#+END_QUOTE\

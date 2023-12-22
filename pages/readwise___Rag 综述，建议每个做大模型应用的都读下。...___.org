@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/Rag 综述，建议每个做大模型应用的都读下。...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "Rag 综述，建议每个做大模型应用的都读下。..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1737451462077399071
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-20]]
+#+BEGIN_QUOTE
+RAG 综述，建议每个做大模型应用的都读下。
+
+非常不错的总结。
+
+https://t.co/XqwoZFseKT 
+#+END_QUOTE\

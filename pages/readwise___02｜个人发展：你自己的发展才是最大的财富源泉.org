@@ -13,29 +13,20 @@
 :image-url: https://static001.geekbang.org/resource/image/1a/c1/1a82b1ebeb0a1de737d6dbc3d09297c1.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE
 其实这是一个很大的误区。相比于投资理财，“个人发展”带来的自身价值的增长，才是我们应该首先关注的财富增长极。而且，如果你有很强的个人发展规划能力，自身价值增长带来的收益绝对不会比投资理财低。 
-#+END_QUOTE
-    date:: [[2023-04-08]]
-*** from _02｜个人发展：你自己的发展才是最大的财富源泉_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxg5mm7e669gqaajdzcrpgaf][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE
 ![](https://static001.geekbang.org/resource/image/98/75/985ac90a5289f79f2eaaabc130496f75.jpg?wh=2284x2296) 
-#+END_QUOTE
-    date:: [[2023-04-08]]
-*** from _02｜个人发展：你自己的发展才是最大的财富源泉_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxg5mrhdgrfx64ypk85btndh][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE
 人的精力确实是有限的，但我们应该关注人生中最重要的那些事情。而践行这个道理的关键点，就在于我们要始终“外包消耗型的工作，积累财富型的资源”。 
-#+END_QUOTE
-    date:: [[2023-04-08]]
-*** from _02｜个人发展：你自己的发展才是最大的财富源泉_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxg5rfbgfhnwepwgqv9fzbvq][View Highlight]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE
 这里的“消耗型的工作”，指的是那些消耗我们的精力，却无法带来财富积累的工作。典型的就是日常的家务，以及办证、办手续等琐碎的流程性工作。
 
@@ -48,7 +39,4 @@
 在孩子出生后，聘请一位全职的育儿嫂，负责除了陪伴、教育以外的全部琐碎工作，每月 7000 元。
 
 这大约 10000 元的外包花销，解放了我大量的业余时间和精力。这样，我晚上至少能有两个小时的时间去积累专业知识，管理各项投资。我用这些时间积累的专业延伸财富，现在产生的直接收益，已经远远超过了这每月 10000 元的花销，更不要提今后的升值潜力了。 
-#+END_QUOTE
-    date:: [[2023-04-08]]
-*** from _02｜个人发展：你自己的发展才是最大的财富源泉_ by geekbang.org
-*** [[https://read.readwise.io/read/01gxg5sazqtg046g00ct228zpd][View Highlight]]
+#+END_QUOTE\

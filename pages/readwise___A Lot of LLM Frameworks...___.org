@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 A lot of LLM frameworks (incl. @llama_index) allow you to build chatbots in ~3-4 lines of code.
 
@@ -22,22 +22,16 @@ But what if you want to *really* learn how to build RAG yourself?
 Learn how to build a chatbot “bottoms-up” with our new tutorials ✨- start with the building blocks!  👇 
 
 ![](https://pbs.twimg.com/media/F1FO4omakAAgeFy.jpg) 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _A Lot of LLM Frameworks..._ by @jerryjliu0 on Twitter
-*** [[https://twitter.com/jerryjliu0/status/1680210875024801792][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 The tutorial series is taught by @LoganMarkewich 🧑‍🏫, and at the end you’ll be able to create a chatbot over LlamaIndex documentation that can help answer questions/generate code. 💬
 
 Learning the fundamentals allows you to customize your own workflows.
 
 Two parts are out 🔥👇 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _A Lot of LLM Frameworks..._ by @jerryjliu0 on Twitter
-*** [[https://twitter.com/jerryjliu0/status/1680210878568992768][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-07-15]]
 #+BEGIN_QUOTE
 Part 1: Learn how to use LLM modules and some prompt templates that are core to RAG systems: https://t.co/EQcygcXHC3
 
@@ -45,7 +39,4 @@ Part 2: Learn all about our Document representations: https://t.co/FgjvC9UR6P
 
 We’ll be tracking everything in a GH repo here: 
 https://t.co/0ufA5ZCNA8 
-#+END_QUOTE
-    date:: [[2023-07-15]]
-*** from _A Lot of LLM Frameworks..._ by @jerryjliu0 on Twitter
-*** [[https://twitter.com/jerryjliu0/status/1680210880460619779][View Tweet]]
+#+END_QUOTE\

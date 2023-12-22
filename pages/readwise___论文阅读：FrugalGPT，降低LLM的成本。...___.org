@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-10]]
 #+BEGIN_QUOTE
 论文阅读：FrugalGPT，降低LLM的成本。
 
@@ -31,18 +31,12 @@ LLM 级联：（重点）
 https://t.co/TFzmogp5X9 
 
 ![](https://pbs.twimg.com/media/Fvu8n1faMAAk5T_.jpg) 
-#+END_QUOTE
-    date:: [[2023-05-10]]
-*** from _论文阅读：FrugalGPT，降低LLM的成本。..._ by @9hills on Twitter
-*** [[https://twitter.com/9hills/status/1656125779569430528][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-10]]
 #+BEGIN_QUOTE
 这个事情的难点是 score function，打分模型。
 
 论文中说是训练一个本地小模型用来打分，那这个小模型就比较类似于 RHLF 中的奖励模型。
 
 这部分做好了比较难，可能从某个特定领域做一个特定领域的奖励模型比较好。 
-#+END_QUOTE
-    date:: [[2023-05-10]]
-*** from _论文阅读：FrugalGPT，降低LLM的成本。..._ by @9hills on Twitter
-*** [[https://twitter.com/9hills/status/1656127580268036096][View Tweet]]
+#+END_QUOTE\

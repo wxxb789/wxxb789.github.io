@@ -12,38 +12,29 @@
 :image-url: https://pbs.twimg.com/profile_images/1646378088576749568/jQV0pTtA.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 一直感觉很多笔记软件的AI功能设计偏了。。最近用Obsidian+AI插件，打造了一套“以我为主”的写作流程。感觉还不错，分享一下。
 
 3步打造“以我为主”的写作流程：
 整个过程，AI的定位就是辅助，想法来自于我，我发表一次讲话，AI做好记录和文字整理。 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _一直感觉很多笔记软件的ai功能设计偏了。。最近用..._ by @fuxiangPro on Twitter
-*** [[https://twitter.com/fuxiangPro/status/1734580043228328198][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 1）列大纲或脑图
 尽可能多的把脑海中的想法先列出来，形式不限，可以用Obsidian的markdown或者“白板”功能，也可以在一张纸上。我习惯用一张大A3纸圈圈画画，然后在Obsidian上整理出一个清晰的架构。
 这一步的目的是梳理头脑中的想法和关联信息，把要讲的文章架构做个定形。 
 
 ![](https://pbs.twimg.com/media/GBJ13AFaAAAGMFx.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _一直感觉很多笔记软件的ai功能设计偏了。。最近用..._ by @fuxiangPro on Twitter
-*** [[https://twitter.com/fuxiangPro/status/1734580045715587531][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 2）语音录音
 用obsidian自带的录音机插件，按第一步梳理的框架开始用语言阐述自己的想法，并录音。这个过程可能有些磕巴或者赘述，但问题不大，放开讲就行。
 有很多朋友特别能说，但写的时候容易卡住，这种录音直接讲的方式也不错。语音讲出来的文字，往往读起来也流畅、有感染力。 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _一直感觉很多笔记软件的ai功能设计偏了。。最近用..._ by @fuxiangPro on Twitter
-*** [[https://twitter.com/fuxiangPro/status/1734580048664129632][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 3）转写&改写
 这一步就要派AI登场了，Obsidian里面有两个插件：Transcription和Copilot。
@@ -53,17 +44,11 @@ Copilot插件是OB的一个chatgpt插件，可以对文章内容进行提问、�
 ![](https://pbs.twimg.com/media/GBJ2A0_boAAlveZ.jpg) 
 
 ![](https://pbs.twimg.com/media/GBJ3GKeaMAAa98k.jpg) 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _一直感觉很多笔记软件的ai功能设计偏了。。最近用..._ by @fuxiangPro on Twitter
-*** [[https://twitter.com/fuxiangPro/status/1734580051264610559][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-12-13]]
 #+BEGIN_QUOTE
 以上3步，核心思考来自于我，观点表达来自于我，AI做好记录和文字整理，这也是它擅长的事情。同时，节省了我不少时间。
 
 再看很多笔记软件都在加AI能力，但真到写东西时基本用不上，根本原因是AI不知道我要写啥，有时候甚至自己都不知道自己要写啥，AI无处发力🤣
 我们对待AI的态度就是AI得为我服务！ 
-#+END_QUOTE
-    date:: [[2023-12-13]]
-*** from _一直感觉很多笔记软件的ai功能设计偏了。。最近用..._ by @fuxiangPro on Twitter
-*** [[https://twitter.com/fuxiangPro/status/1734580055194710393][View Tweet]]
+#+END_QUOTE\

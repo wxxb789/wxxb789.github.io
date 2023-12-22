@@ -12,8 +12,8 @@
 :image-url: https://pbs.twimg.com/profile_images/1650344223596740608/CFoZsDZq.jpg
 :END:
 
-* Highlights first synced by [[Readwise]] [[2023-12-20]]
-** 📌
+* Highlights first synced by [[Readwise]] [[2023-12-22]]
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 《刚刚微软甩出王炸：免费的GPT4.0！》
 
@@ -30,11 +30,8 @@
 先来试试，5个吊炸天的Prompts，感受下。 
 
 ![](https://pbs.twimg.com/media/Fw3WRYRaAAE7KXp.png) 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661219621033365505][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 2、【如何利用GPT4.0在推特吸粉】
 
@@ -45,11 +42,8 @@
 如此操作，所有人都可以做KOL啦。
 
 Prompt: "Take this code for the Twitter algorithm and tell best practices to go viral on Twitter [code]" https://t.co/TJQXsvkOiz 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661221593614524416][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 3、【如何利用GPT4.0找最热的reddit主题】
 
@@ -58,11 +52,8 @@ Reddit上啥都有，各路神仙都在分享。
 让GPT4.0帮我们在reddit冲浪。
 
 Prompt: "Whats the trending posts on /r/chatgpt today" https://t.co/KSvIGUTzpK 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661222657067716608][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 4、【如何利用GPT4.0帮咱刷新闻】
 
@@ -73,11 +64,8 @@ Prompt: "Whats the trending posts on /r/chatgpt today" https://t.co/KSvIGUTzpK
 如此，一大批编辑又要下岗啦。
 
 Prompt: "List 10 things that happened in AI this week" followed with "Put it in a table with links to sources" https://t.co/jiTyv7cTgc 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661223120890638336][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 5、【让GPT4.0总结新闻并梳理链接】
 
@@ -86,22 +74,16 @@ GPT4.0可以总结最新的新闻
 并发连接摆放整齐
 
 Prompt: "Summarize this newsletter by The Rundown for me and create a list of 10 URLs [link]" https://t.co/MDzw8PR4qP 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661225511400423427][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 6、【让GPT4.0写报告！】
 
 GPT4.0能够写报告，写整篇报告，并且做好论文引用。
 
 Prompt: "Create a short essay on the threats of Artificial Intelligence and cite at least 5 sources with URL links to the sources" https://t.co/XOr0t3m4qR 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661226000775286784][View Tweet]]
-** 📌
+#+END_QUOTE\
+** 📌 [[2023-05-24]]
 #+BEGIN_QUOTE
 7、【总结】
 
@@ -114,7 +96,4 @@ AI时代，免费的GPT4.0，早学会10天都是优势。
 傻哥去研究新的工具啦，抱紧傻哥不迷路@bitfool1
 
 https://t.co/gA6zUt3Z7z 
-#+END_QUOTE
-    date:: [[2023-05-24]]
-*** from _《刚刚微软甩出王炸：免费的gpt4.0！》 1..._ by @bitfool1 on Twitter
-*** [[https://twitter.com/bitfool1/status/1661226761462620161][View Tweet]]
+#+END_QUOTE\
