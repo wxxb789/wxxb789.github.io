@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: readwise/推荐阅读：《The Future Is Rust...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "推荐阅读：《The Future Is Rust..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1737983047264346237
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+推荐阅读：《The Future is Rusty —— LLMs Make Programming Language Learning Curves Shallower》
+
+众所周知，Rust 的学习曲线很陡峭，但现在，得益于大语言模型（LLMs）的发展，这个陡峭学习曲线的问题已经变得容易解决了。 无论是 Rust、Haskell 还是其他任何语言，借助大语言模型的帮助，现在学习起来都更加容易。事实上，如果你在学习难懂的材料时没有利用大语言模型的帮助，那么你的学习方式可能不是最佳的。 
+
+文章中提到了一个很有意思的概念叫 “The Intermediate Material Problem”，是指在学习某个技能或领域时，在初级和高级阶段之间存在的一种学习难点。具体来说，在编程语言学习中，这个问题特别明显，尤其是对于像 Rust 这样的复杂语言。
+
+在初级阶段，学习者通过教程和基础课程获得基本的知识和技能。这些资源通常都是易于理解和遵循的，目的是帮助初学者快速入门。然而，当学习者试图从基础过渡到更复杂的应用和项目时，他们常常发现可用的学习材料突然变得稀少并且难度很高。例如，在 Rust 编程中，学习者可能已经掌握了基本的语法和概念，但在尝试开发更复杂的系统（如光线追踪器）时，他们需要理解更高级的概念，比如所有权规则和内存管理，这些通常不在初级教程中详细讲解。
+
+这种情况造成了一个“中阶教材”缺口，学习者必须依靠自己的努力和探索来克服这个难关，这通常包括阅读高级文档、参与社区讨论，甚至通过试错来解决具体的编程难题。这个阶段通常伴随着挫折和困惑，因为学习者不再有清晰的指导和步骤可循，而是需要自己摸索前进。
+
+这个问题并不限于编程或技术领域。在许多学习曲线陡峭的领域中，从初学者过渡到熟练者的过程中都可能遇到类似的“中阶教材问题”。
+
+另外文章中还提到数学家陶哲轩都在借助 ChatGPT 辅助学习。如果我们这个时代最杰出的数学家都在用 ChatGPT 来帮助他进行证明，那么你也没有理由不尝试！
+
+原文：https://t.co/UhdUbBjfm7
+译文：https://t.co/fETU36dCgU<img src='https://pbs.twimg.com/media/GB6NGlZXMAESB6B.jpg'/><img src='https://pbs.twimg.com/media/GB6NH1OXAAAC7ly.jpg'/><img src='https://pbs.twimg.com/media/GB6NI8LWEAMiY9p.jpg'/><img src='https://pbs.twimg.com/media/GB6NKWgXgAETMt3.png'/> 
+#+END_QUOTE\

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/今天下午在公司内部做了个演讲，介绍我们做了五年的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cloudwu on Twitter]]
+:full-title: "今天下午在公司内部做了个演讲，介绍我们做了五年的..."
+:category: [[tweets]]
+:url: https://twitter.com/cloudwu/status/1738169839628562883
+:image-url: https://pbs.twimg.com/profile_images/1385692491/me2.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+今天下午在公司内部做了个演讲，介绍我们做了五年的游戏引擎。反响不错，满座了。讲了一个半小时，问答一个小时，结束后，好些人去我工位继续聊了一个小时。 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+用这个引擎做的游戏也第一次对公司其他人公开。演示非常流畅，没丢我们引擎的脸：屏幕上 5000 个场景对象（pbr 材质，实时光影，蒙皮动画，粒子发射器等）iphone 12 上每帧 9ms ，非常柔顺。 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+这个是我今天演示的场景，运行在我的 iphone 12 mini 上。开了新写的 FSR ，所以比之前有了较大的性能提升，但稍微糊了一点。 <video controls><source src="https://video.twimg.com/ext_tw_video/1738183108476985344/pu/pl/ssOymdi5uPTCzOIp.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1738183108476985344/pu/vid/avc1/584x270/UAy9WcWTh03RqFnf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1738183108476985344/pu/vid/avc1/1280x590/x5dI_-yOFOBRJTL7.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1738183108476985344/pu/vid/avc1/780x360/pqmKEdxHqK_OKGMj.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+上面的视频看不清帧率等调试文字，所以补一张屏幕截图。 
+
+![](https://pbs.twimg.com/media/GB9GRz5akAA6WMU.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+<a href="https://twitter.com/LambdaShell">@LambdaShell</a> 因为整个引擎是用 lua 开发的，所以上手比较快。至少永远不用关心类型系统。 
+#+END_QUOTE\

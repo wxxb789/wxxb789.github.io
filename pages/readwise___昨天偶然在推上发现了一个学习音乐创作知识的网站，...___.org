@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/昨天偶然在推上发现了一个学习音乐创作知识的网站，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "昨天偶然在推上发现了一个学习音乐创作知识的网站，..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1739094793253450166
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+昨天偶然在推上发现了一个学习音乐创作知识的网站，忘了是哪位网友发的了，简直真的是太棒了：
+
+https://t.co/3US9Z9MTO8
+
+多种语言，全交互，完全针对初学者，从零开始介绍了 鼓和节奏，音符和音阶，吉他和和弦，贝斯，旋律和歌曲结构，每一小节都有一首歌曲来分析它的旋律和结构来加强理解。每一章都留有作业。
+认真学完收获特别大，也能简单的创作一首 sample。
+
+我不知不觉就学了3个小时，特别适合零基础想科学的学习关于音乐方方面面的内容。特别感谢这个免费的资源。<img src='https://pbs.twimg.com/media/GCKBJ6qa8AAKOwV.png'/><img src='https://pbs.twimg.com/media/GCKBJ6nasAAOBXb.jpg'/><img src='https://pbs.twimg.com/media/GCKBJ7FboAA4JdJ.jpg'/><img src='https://pbs.twimg.com/media/GCKBN5FbAAAohES.png'/> 
+#+END_QUOTE\

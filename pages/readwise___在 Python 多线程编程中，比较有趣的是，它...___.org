@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/在 Python 多线程编程中，比较有趣的是，它...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "在 Python 多线程编程中，比较有趣的是，它..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1738860186474025212
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-24]]
+#+BEGIN_QUOTE
+在 Python 多线程编程中，比较有趣的是，它是支持线程之间传递对象引用的，这与 Node.js 的设计不同，Node.js 多线程的通讯通过事件机制来传递消息，消息体以对象克隆的方式进行传递。
+
+这样的设计，在简化编程的同时，也引入了一些性能问题，例如使用 worker 对视频编解码时，数据传输效率非常低，虽然可以通过 SharedArrayBuffer 进行内存共享，但是它提供的 Atomics 加锁的原子操作做的比较弱，编程难度很高。
+
+Python 支持进程之间传递对象引用，灵活性很高，但也引入了一些潜在的线程安全性问题，尤其是在数据修改的同时缺乏足够的同步机制。
+
+不过它在语言设计的时候也考虑到了这个问题，例如 threading 模块中提供了丰富的原始锁，包括互斥锁、可重入锁和信号量等，可以满足非常复杂的多线程数据交互和竞态条件控制；另外还有一个 queue 模块，它提供了线程安全的队列数据结构，特性非常强大，例如当队列为空时，它会尝试从队列中获取数据的线程会被阻塞，直到队列中有数据为止，同样，当队列已满时，尝试往队列中放入数据的线程也会被阻塞，直到有空间可以放入数据。
+
+不过，在使用的过程中也会带来一些难以理解的现象，例如下图中，将主进程的事件循环放到子进程中启动，在主进程执行 call_soon 时任务是不会被执行的，需要调用线程安全的 call_soon_threadsafe，这个方法的底层实现也很奇特（https://t.co/cXtXiHgnQq），它是通过主进程给子进程发送一个单字符消息来触发子进程的回调，然后拿到执行结果的。
+
+关于 Python 的多线程编程，推荐阅读官方文档：https://t.co/uDHSUV5L5F<img src='https://pbs.twimg.com/media/GCGqf3RbUAEQv4j.jpg'/> 
+#+END_QUOTE\

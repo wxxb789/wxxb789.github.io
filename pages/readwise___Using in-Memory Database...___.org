@@ -1,0 +1,52 @@
+:PROPERTIES:
+:title: readwise/Using in-Memory Database...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mjovanovictech on Twitter]]
+:full-title: "Using in-Memory Database..."
+:category: [[tweets]]
+:url: https://twitter.com/mjovanovictech/status/1738908449721717225
+:image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+Using in-memory databases for "integration" testing is a waste of time.
+
+I've seen folks do this with the EF in-memory provider.
+
+That's not even a real database.
+
+So, what value can those "integration" tests have?
+Zero, if you ask me.
+
+Instead, spin up an actual database using Docker.
+
+You can connect to this database from your tests.
+
+And now you're writing proper integration tests.
+
+This is even easier in .NET with the Testcontainers library.
+
+Here's how to start working with Testcontainers: https://t.co/vijKp1nMeT
+
+\---
+
+P.S. If you liked this, consider joining The .NET Weekly - my newsletter with 35,000+ engineers that teaches you how to improve at .NET and software architecture.
+
+Subscribe here → https://t.co/2kGSP2ufoa<img src='https://pbs.twimg.com/media/GCHX21rW4AAh2pv.png'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+Want to become a better software engineer?
+
+Each week, I send one piece of practical advice about .NET and software architecture.
+
+It's a 5-minute read (or less) and comes every Saturday morning.
+
+Join 35K+ engineers here: https://t.co/V4i8qjvlSV 
+#+END_QUOTE\

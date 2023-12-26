@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/今天又被出版社问出书意愿了,原因是最近有一些政策...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[changwei1006 on Twitter]]
+:full-title: "今天又被出版社问出书意愿了,原因是最近有一些政策..."
+:category: [[tweets]]
+:url: https://twitter.com/changwei1006/status/1737943919613383142
+:image-url: https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+今天又被出版社问出书意愿了,原因是最近有一些政策项目,上面希望出版一些CSEE相关的特定领域技术书籍
+一直想体验一下写书的感觉,希望毕业后能有机会在下班的时候写一写书(不过这样的话我就得放弃Side Project了)
+之前好几次被问到出书意愿都是因为出版社编辑看到我在知乎写的从0开始写OS的系列专栏文章 
+
+![](https://pbs.twimg.com/media/GB5qyAVbEAASV_b.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+我觉得写书和在知乎或者网上写博客最大的区别在于：书籍内容一旦出版了就很难修改了，不像博客内容，评论区有人指出错误我马上改正就好
+
+所以几百页的书籍里面只要有一丁点错误都会误人子弟遗臭万年
+
+写书的压力会很大，尤其是对于我这种完美主义者来说更痛苦，每一次自我review都觉得还有地方可以改进 
+#+END_QUOTE\
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+写代码也是一样，发现一点小错误，马上修复，推代码，CI构建完马上上线，非常方便
+
+写书就像做离线版客户端，每次发版之前要千万小心反复review，一旦发版出去有BUG就很难挽回了，也会对个人口碑或者产品形象造成很大损失
+
+所以写书和写代码这两件事情对于我这种习惯Web敏捷开发的程序员来说差别很大 
+#+END_QUOTE\

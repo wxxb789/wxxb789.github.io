@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/2014 年的一篇文章：《致亿万富翁》https...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[OwenYoungZh on Twitter]]
+:full-title: "2014 年的一篇文章：《致亿万富翁》https..."
+:category: [[tweets]]
+:url: https://twitter.com/OwenYoungZh/status/1739001116669686200
+:image-url: https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+2014 年的一篇文章：《致亿万富翁》https://t.co/VD4c4mZRAI
+
+“忘掉那些美国如何因你我和乔布斯这种人而伟大的言论吧。如果我们中的任何一个人出生在索马里，我们不过是一个赤脚站在土路旁卖水果的人。索马里并非没有优秀的企业家，只是最好的企业家都在路边卖东西，他们的顾客只能买得起这些东西” 
+
+![](https://pbs.twimg.com/media/GCIqo-TbAAA5tVU.jpg) 
+#+END_QUOTE\

@@ -2,7 +2,6 @@
 :title: readwise/这次的课程让我收获很大，我之前尝试使用gpt-3...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
@@ -11,7 +10,6 @@
 :url: https://twitter.com/dotey/status/1665476562219573249
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-06-05]]
 #+BEGIN_QUOTE
@@ -170,4 +168,84 @@ https://t.co/jXCbJgea6K
 
 一些代码逻辑可以参考：
 https://t.co/h2ROTQ2pmL 
+#+END_QUOTE\
+* New highlights added [[2023-12-26]] at 11:30 PM
+** 📌 [[2023-12-24]]
+#+BEGIN_QUOTE
+这次的课程让我收获很大，我之前尝试使用GPT-3.5帮我翻译字幕，但是数组索引老是对应不上，也无法给我返回JSON格式，我按照这个课程的内容，借助CoT的思路把Prompt拆分成几个Steps后，神奇在GPT-3.5中得到了我想要的结果。
+
+解释一下我的Prompt：
+首先我给GPT传入的字幕文本数组，然后我让GPT在翻译的时候分成三步：
+\- 第一步： 将数组的字符串合并成一个段落，一起翻译成中文
+- 第二步： 再将翻译好的段落拆分成数组，和输入的数组一一匹配
+- 第三步 检查返回的数组长度是不是和输入的数组长度相等，如果不相等返回第二步重试
+
+------
+You are a program responsible for translating subtitles. Your task is to translate the subtitles into 简体中文, maintaining a colloquial tone and style, avoiding long sentences, and ignoring verbal tics such as 'so', 'you know', etc.
+The input will be a JSON-formatted string array, which should be translated in accordance with the following steps:
+Step1: Join the string array to a sentence, then translate it to 简体中文;
+Step2: Split the translated sentence to a string array, each item of which should correspond to an item in the original input array.
+Step3: Verify if the count of items in the output array equals that of the input array. If it doesn't, go back to Step 2 and try again.
+  
+Respond with a JSON-formatted string array:
+------<img src='https://pbs.twimg.com/media/Fxz1EIiX0AAhjHT.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-24]]
+#+BEGIN_QUOTE
+给你们演示一下用不用Prompt对Whisper识别结果的差别，第一张图就是没有任何Prompt的结果，一句话会被拆的很碎，但是如果加上Prompt，在Prompt里面打个样什么时候该换行，生成的结果会好很多，尽可能把一句话连在一起。
+
+这样翻译的时候就容易多了，不至于中文字幕和英文字母因为语序的原因很难对应上。
+
+但Whisper的Prompt有点玄学，有时候也不灵！欢迎分享你的经验。
+
+BTW：<a href="https://twitter.com/tinyfool">@tinyfool</a> 老师的TinyStudio挺好用的，我最近都是用它来识别字幕，推荐一下！
+
+\------
+Whisper, as you transcribe speech into text, please ensure to include punctuation marks as accurately as possible.
+
+Additionally, when creating the timeline for the subtitles, try to split at the punctuation marks to ensure that sentences are not divided across different time segments.
+
+The goal is to have each sentence contained within a single time segment for clarity and coherence.
+------<img src='https://pbs.twimg.com/media/Fx0Mu8PXoAAWtIq.jpg'/><img src='https://pbs.twimg.com/media/Fx0N2XeWcAAaVw6.png'/><img src='https://pbs.twimg.com/media/Fx0OURpXoAE81c2.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-24]]
+#+BEGIN_QUOTE
+Whisper生成的字幕，在翻译前最好校对一下，比如明显的识别错误，比如调整下时间轴，让字幕的分割更加自然。
+
+可以用字幕编辑工具把一些字幕合并，或者重新分割。
+
+happyscribe这个免费工具非常好用：把光标放在要分割的位置回车就可以对字幕分割，点击两条字幕之间的按钮就可以合并，并且可以和视频一起预览字幕。
+
+就像Isa课程中说的工作流，这一步不要省，不然后面你翻译的时候就会影响翻译质量，需要很多额外的校对和调整工作。
+
+https://t.co/y2Ky0tQEzH<img src='https://pbs.twimg.com/media/Fx0bLiZWwAMQu8E.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-24]]
+#+BEGIN_QUOTE
+如果要批量翻译字幕，那么用ChatGPT手动复制粘贴就很慢，最好是用GPT的API。
+
+整个逻辑是：
+
+1. 解析SRT成数组（一条字幕一个记录）
+
+2. 将大数组拆成10-15条的小数组 ，超过15条后GPT返回的JSON结果出错概率大幅上升，并且拆分的时候尽可能让一句完整的话在一个数组里面。否则会导致上下文丢失影响翻译结果。可以按照标点符号去判断是不是该结束了。
+
+3. 分块好了，可以多线程一起去调用API翻译，Prompt参考第一条，但是现在OpenAI的API，超过4个线程就很容易超时。
+
+4. 翻译后拿到JSON数组后，将传入的数组和返回的结果要对比一下看是不是长度一致，不一致需要重新请求，或者手工调整一下，或者其他处理。
+
+5. 每次翻译后的结果可以保存到一个中间文件（参考图1），这样万一中断了下次还可以继续
+
+6. 全部翻译完后，可以将中间文件结果导出成srt或者ass字幕文件格式，如果是ass，需要实现准备一个字幕文件模板。
+
+一些代码逻辑可以参考：
+https://t.co/h2ROTQ2pmL<img src='https://pbs.twimg.com/media/Fx02DqaWYAI58AN.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-24]]
+#+BEGIN_QUOTE
+推荐的Repo代码看不到了，可以看Fork的
+https://t.co/28H2w3UTiJ
+https://t.co/XLGWSY5cPY
+https://t.co/MGvf1kR4F4
+https://t.co/0YJ6oIgq43 
 #+END_QUOTE\

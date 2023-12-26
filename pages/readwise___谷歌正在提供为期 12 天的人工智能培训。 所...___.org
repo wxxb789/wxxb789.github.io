@@ -1,0 +1,65 @@
+:PROPERTIES:
+:title: readwise/谷歌正在提供为期 12 天的人工智能培训。 所...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "谷歌正在提供为期 12 天的人工智能培训。 所..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1739510445000786297
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+谷歌正在提供为期 12 天的人工智能培训。
+
+所有人都可以免费参加这 12 门课程。
+
+以下是这些课程的内容和获取方式... 
+
+![](https://pbs.twimg.com/media/GCP7f18b0AAysrn.png) 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+12门课程总结：
+
+1. 生成式人工智能的解释 - 在短短的一秒视频中对生成式人工智能进行快速的高级描述。
+
+2. 生成式 AI 简介 - AI 基础知识和 Google Cloud 工具，可帮助您开发自己的生成式 AI 应用。
+
+3. 大型语言模型简介 - 如何使用即时调优来增强 LLM 性能。完成课程和后续测验大约需要 30 分钟。
+
+4. 生成式 AI 基础技能徽章 - 完成三门基础级课程和一个测验，即可获得可共享的 Google Cloud 技能徽章
+
+5.什么是Generative AI Studio？ - 了解如何使用 Generative AI Studio 的快速视频。提示：任何人都可以尝试，即使没有任何代码！
+
+6. Generative AI Studio 简介 - Generative AI 帮助用户制作原型并定制模型以在应用程序中使用。
+
+7. 图像生成简介 - 了解扩散模型 - 一系列可用于图像生成的机器学习模型。
+
+8. 负责任的人工智能简介 - 负责任的人工智能概述以及谷歌如何实施负责任的人工智能。
+
+9. 负责任的人工智能：通过这组视频课程了解如何在您的组织中实施负责任的人工智能。
+
+10. The Arcade - 通过免费完成生成式 AI 实验室，获得 Google Cloud 环境中的实践知识。
+
+11. Gen AI 训练营 - 您将从基础主题进展到高级主题。从业者可以从头到尾进行操作，经验丰富的 Gen AI 开发人员可以直接跳入更高级的课程。
+
+12. Codey是什么？ - 了解Codey如何帮助编写代码，即使对于初学者也是如此。只需一分钟即可了解如何操作。 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+这是 Google 官方博客文章，其中包含每门课程的链接 ↓https://t.co/he4RtVtnpq 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+以上就是全部课程内容，原作者<a href="https://twitter.com/itsPaulAi">@itsPaulAi</a>
+
+关注我 <a href="https://twitter.com/FinanceYF5">@FinanceYF5</a> 以获取更多此类AI内容。  
+
+点赞/转发此帖子中的第一篇文章以与其他人分享 👇https://t.co/2veJrngbO9 
+#+END_QUOTE\

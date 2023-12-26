@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/在了解 Python 线程和协程的时候，又看到了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "在了解 Python 线程和协程的时候，又看到了..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1738372659766014266
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-23]]
+#+BEGIN_QUOTE
+在了解 Python 线程和协程的时候，又看到了微线程、纤程、绿色线程、超线程等概念，捋了一下。
+
+之前提到 Python 的 threading 模块并不支持并发，这里的「并发」一词并不准确，threading 是对线程的控制，也就是让多个任务轮流抢占单个 CPU，这个操作就叫做「并发」操作，因此 threading 模块是可以很好支持并发的；而「并行」指的是在多个 CPU 上同时执行，Python 的 multiprocessing 模块会在每个 process 中都启动一个 global interpreter lock（GIL），相互隔离，它是可以做到并行的。
+
+线程是进行 CPU 独立运行和调度的基本单元，协程也是如此，只不过协程不是被内核态所管理，而完全由程序控制，在用户态执行。刚开始看到 Python 协程的时候，以为是个啥新鲜玩意儿，研究了下 asyncio 模块的使用，才发现它跟 JavaScript 的 EventLoop 设计如出一辙，通过 async/await 等指令控制程序的相互协作和调用，由于协程不存在线程上下文切换的开销、没有原子操作锁定及同步的开销，因此可以更高性能压榨 CPU 达到并发效果。所以爬虫的时候使用“multiprocessing+asyncio”可以最高效地调度所有 CPU 执行高并发、高并行的 I/O。
+
+微线程、纤程、绿色线程等术语可以说是协程的代名词，它们的共同特点就是：1）资源调度和程序控制在用户态进行而不是内核态；2）可以便捷地控制程序之间的相互协作，对应的英文名还有 Coroutine、Green Thread、Fiber、Microthread 等等。
+
+而超线程（Hyper-Threading）是硬件层面提供的技术，它可以将一个物理 CPU 模拟划分为多个逻辑 CPU，每个 CPU 都有自己的寄存器和执行单元，这样可以大幅提升 CPU 的利用率，也只有超强的 CPU 才会这么干，如果 CPU 的执行速度还跟不上程序指令的下发速度，自然也没必要再去划分更多逻辑单元了。
+
+关于 Python 协程和任务，推荐阅读这篇文档：https://t.co/qrbPc8CxSH，关于 Python 的事件循环，推荐阅读这篇文档：https://t.co/l5pBX8kpLD，官方文档写的还是很详细的。 
+#+END_QUOTE\

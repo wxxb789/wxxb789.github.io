@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/LLM Interpretability: Th...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[rohanpaul_ai on Twitter]]
+:full-title: "LLM Interpretability: Th..."
+:category: [[tweets]]
+:url: https://twitter.com/rohanpaul_ai/status/1738810511083622416
+:image-url: https://pbs.twimg.com/profile_images/1715475762516840448/kst_-vG1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+LLM Interpretability: The unsung hero of AI advancements.
+
+Delve into this essential yet overlooked field with a repository that's a one-stop-shop for groundbreaking tools and papers. 
+
+![](https://pbs.twimg.com/media/GCF-8FkbUAAZHym.png) 
+#+END_QUOTE\
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+https://t.co/2VS60k2AAw 
+#+END_QUOTE\

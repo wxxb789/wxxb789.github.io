@@ -1,0 +1,79 @@
+:PROPERTIES:
+:title: readwise/What if I Told You That...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[pratyusha_PS on Twitter]]
+:full-title: "What if I Told You That..."
+:category: [[tweets]]
+:url: https://twitter.com/pratyusha_PS/status/1739025292805468212
+:image-url: https://pbs.twimg.com/profile_images/1646666667668439041/CtTAN7GD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+What if I told you that you can simultaneously enhance an LLM's task performance and reduce its size with no additional training?
+
+We find selective low-rank reduction of matrices in a transformer can improve its performance on language understanding tasks, at times by 30% pts!🧵 
+
+![](https://pbs.twimg.com/media/GCI_tsUXsAAHwhg.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+We call this LAyer SElective Rank Reduction (LASER).
+LASER replaces specific weight matrices by their rank-k approximation, sometimes reducing the matrices with only the top 1% of its components, which is much smaller than their effective rank. 
+2/ 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+LASER shows improvements across 3 different models of different sizes and across 8 different datasets evaluating LLM reasoning, factuality, world knowledge, and more! The resulting model is also more robust to paraphrasing the questions. 3/ 
+
+![](https://pbs.twimg.com/media/GCIzRmWWgAATqXM.png) 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+The effect of rank reduction across different layer types is not uniform. This effect is observed predominantly when LASER is performed in the later transformer blocks in the MLP layers but also weakly in the attention layers! 4/ 
+
+![](https://pbs.twimg.com/media/GCIzZIIXEAAM92L.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+LASER performed on multiple layers concurrently further enhances model performance beyond improvements seen with the single-layer application of LASER. At times, more than 2X the original performance of the model! 5/ 
+
+![](https://pbs.twimg.com/media/GCI8mbgXEAAR4KJ.png) 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+Which data points are these improvements on? GPT-J is an ideal test bed for such analysis since its training dataset is publicly available The largest boost in performance occurs for low-frequency samples / on information that is less frequently presented in the training data! 6/ 
+
+![](https://pbs.twimg.com/media/GCI8vy7WIAAoOXP.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+What do higher-order components in the matrix store that disrupt the model? By approximating the learned weight matrix with these components, we discover they occasionally encode high-frequency words or incorrect responses but of the correct semantic type. 7/ 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+We find LASER is also effective beyond just the text domain and can also be used to improve learned policies post-training! 8/ 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+We are excited about the implications of this study on understanding how information is stored in LMs, how models can be compressed, and understanding the behavior of large language models more generally. 9/ 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+Lots of open questions! We do not fully understand (i) why higher-order components in weight matrices accumulate noisy answers in the course of training, (ii) the effect of model architecture and structural choices on the occurrence of this phenomenon, and more 10/ 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+This was work done during a super fun summer internship with Dipendra Misra and <a href="https://twitter.com/jordan_t_ash">@jordan_t_ash</a>  at Microsoft Research NYC! 11/ 
+#+END_QUOTE\
+** 📌 [[2023-12-26]]
+#+BEGIN_QUOTE
+Link to paper: https://t.co/U6Kk67lU7v
+
+12/12 
+#+END_QUOTE\

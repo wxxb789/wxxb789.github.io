@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/几个月前看到 @Taresky 分享他在做时间记...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[watermiz3 on Twitter]]
+:full-title: "几个月前看到 @Taresky 分享他在做时间记..."
+:category: [[tweets]]
+:url: https://twitter.com/watermiz3/status/1738946646715822132
+:image-url: https://pbs.twimg.com/profile_images/1679039011388801024/NJwSTEUZ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+几个月前看到 <a href="https://twitter.com/taresky">@taresky</a> 分享他在做时间记录时，我也打算找机会试试；前阵子机缘巧合看完了「认知觉醒」，作者在其中分享了他的方法（见图）：
+1. 写下当天工作+生活的待办事项（3件重要的+其他简单的）
+2. 根据待办事项，写出当天的时间分布
+3. 根据实际情况，记录下实际的时间使用情况
+4. 对比反思和改进
+
+我自己用这个方法实践了一阵子，换了 Apple Notes 记录，实际的体验是，每天的任务完成度提高了非常多，但是对时间在统计上的占比依旧不太方便。
+
+一直到前几天「纵横四海」的 EP38《时间贫困》来了，里面也有她用的记录方法：在 Google Calendar 中记录时间块，并根据类型的不同来给时间块标上不同色系的颜色，可以一目了然的看到自己的时间分配。
+
+于是我打算 2 个方法结合，Google Calendar 中开2个日历，一个是 Plan 一个是 Done，Plan 让我对全天计划心里有数，Done 用来做事后统计和回顾。
+
+ref：
+https://t.co/NCQXiGZHuR
+https://t.co/V5ujuHeJpf<img src='https://pbs.twimg.com/media/GCH0Uw9aoAA4nN8.jpg'/> 
+#+END_QUOTE\

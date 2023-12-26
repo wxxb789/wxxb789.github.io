@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/加拿大移民润学指南知识库：加拿大移民转码 收集...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Bitturing on Twitter]]
+:full-title: "加拿大移民润学指南知识库：加拿大移民转码 收集..."
+:category: [[tweets]]
+:url: https://twitter.com/Bitturing/status/1739135441700557233
+:image-url: https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-25]]
+#+BEGIN_QUOTE
+加拿大移民润学指南知识库：加拿大移民转码
+
+收集整理关于加拿大移民的各种常见问题和注意事项
+
+例如签证、留学、工作、移民、生活、房产、驾照等
+
+https://t.co/U3LKN4V67q 
+
+![](https://pbs.twimg.com/media/GCKmdk6bYAAJnFy.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/微软前几天发布的 MedPrompt 论文“Ca...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "微软前几天发布的 MedPrompt 论文“Ca..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1738030025859817929
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-23]]
+#+BEGIN_QUOTE
+微软前几天发布的 MedPrompt 论文“Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine” 的中文翻译：
+
+《通用型基础模型能否超越专用调整模型？医学领域的案例研究 [译]》
+
+https://t.co/yNu5V4qACV 
+
+![](https://pbs.twimg.com/media/GB65EQoXkAAiteW.jpg) 
+
+![](https://pbs.twimg.com/media/GB65F51WUAAJAwX.jpg) 
+#+END_QUOTE\

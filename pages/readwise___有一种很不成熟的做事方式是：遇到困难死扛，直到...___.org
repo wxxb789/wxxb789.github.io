@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/有一种很不成熟的做事方式是：遇到困难死扛，直到...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekplux on Twitter]]
+:full-title: "有一种很不成熟的做事方式是：遇到困难死扛，直到..."
+:category: [[tweets]]
+:url: https://twitter.com/geekplux/status/1737848301142360411
+:image-url: https://pbs.twimg.com/profile_images/1616372994515009537/7Jz4Q9pg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-22]]
+#+BEGIN_QUOTE
+有一种很不成熟的做事方式是：遇到困难死扛，直到 deadline 前一刻才说遇到困难了做不了。
+ 
+这种一般要不是学生刚毕业，要不是之前在摸鱼啥都没干怕被看出来……都很不靠谱。
+ 
+成熟的做法是任何 blocker 应该第一时间让队友和领导知道，这样能更快解决或调整优先级。 
+#+END_QUOTE\

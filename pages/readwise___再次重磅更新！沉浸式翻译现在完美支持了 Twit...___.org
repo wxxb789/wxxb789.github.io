@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/再次重磅更新！沉浸式翻译现在完美支持了 Twit...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[immersivetran on Twitter]]
+:full-title: "再次重磅更新！沉浸式翻译现在完美支持了 Twit..."
+:category: [[tweets]]
+:url: https://twitter.com/immersivetran/status/1738182042830156025
+:image-url: https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-26]]
+** 📌 [[2023-12-23]]
+#+BEGIN_QUOTE
+再次重磅更新！沉浸式翻译现在完美支持了 Twitter Space 的双语字幕，直播和录播都可以，而且会根据最新的字幕实时纠正这句话的译文。
+
+至此，我们已经支持了 15 家视频平台的双语字幕！请看视频 Demo： <video controls><source src="https://video.twimg.com/ext_tw_video/1738179380747366400/pu/vid/avc1/1280x720/HyYWFiOZHRWNK3RV.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1738179380747366400/pu/vid/avc1/480x270/crgaYhkLqNR7OJo0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1738179380747366400/pu/pl/3rG_3dBK7DkE5J8d.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1738179380747366400/pu/vid/avc1/640x360/xBcrrd9_4eT_1bRz.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2023-12-23]]
+#+BEGIN_QUOTE
+安装或者查看当前已支持双语字幕的视频平台： https://t.co/sQFHrprhYw 
+#+END_QUOTE\
+** 📌 [[2023-12-23]]
+#+BEGIN_QUOTE
+V0.12.10 版本起支持，请安装最新版～ https://t.co/0zXIQDTf6s 
+#+END_QUOTE\
+** 📌 [[2023-12-23]]
+#+BEGIN_QUOTE
+木头姐和马斯克今天的 Twitter Space 录播：
+
+https://t.co/7tOiaLqdj4 
+#+END_QUOTE\
