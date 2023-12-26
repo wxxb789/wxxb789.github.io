@@ -1,3 +1,18 @@
 #+alias: 咒语,
 
+* techniques
+** [[zero-shot]]
+** [[few-shot]]
+** [[chain-of-thought]]
+** [[tree-of-thoughts]]
+** [[self-consistency]]
+** [[Generated Knowledge]]
+** [[RAG]]
+** [[Automatic Reasoning and Tool-use]]
+** [[Automatic Prompt Engineer]]
+** [[Active-Prompt]]
+** [[Directional Stimulus Prompting]]
+** [[ReAct]]
+** [[Multimodal CoT]]
+** [[GraphPrompts]]
 *

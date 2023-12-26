@@ -17,6 +17,9 @@
 NeuriPS 2020.
 ** Language Models are General-Purpose Interfaces. Yaru Hao, Haoyu Song, Li Dong, Shaohan Huang, Zewen Chi, Wenhui Wang, Shuming Ma, Furu Wei. arXiv 2022.
 * pre-training
+:PROPERTIES:
+:collapsed: true
+:END:
 ** model structure
 *** encoder-only
 *** decoder-only

@@ -11,10 +11,11 @@
 *** [[book/这就是ChatGPT]]
 ** [[Book/Early Access]]
 *** [[Build a Large Language Model (From Scratch)]]
+* [[prompt]]
 * tools
 ** [[https://devv.ai/zh][Devv]]
 ** [[https://www.phind.com/][Phind]]
 ** [[https://www.perplexity.ai][perplexity]]
-* [[llm roadmap]]
+* [[llm/roadmap]]
 * [[finetuning]]
 * chore
