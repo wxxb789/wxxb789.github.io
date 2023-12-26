@@ -1,5 +1,0 @@
-#+title: dotnet/links/tools
-
-* [[https://csharpier.com/][CSharpier]]
-a code formatter
-*

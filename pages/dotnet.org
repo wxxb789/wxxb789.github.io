@@ -2,4 +2,7 @@
 
 * [[pl/csharp]]
 * [[pl/fsharp]]
+* [[tools]]
+** [[https://csharpier.com/][CSharpier]]
+a code formatter
 *

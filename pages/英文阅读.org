@@ -1,7 +1,7 @@
 *
-* links
+* [[links]]
 ** [[https://emacs-china.org/t/topic/22639][【讨论】一种提升英文阅读体验的可能性 - Emacs-general - Emacs China (emacs-china.org)]]
-* #tools
+* [[tools]]
 ** 英语句子语法分析 #tools/online 
 [[http://enpuz.com/][Enpuz - 在线英语句子语法分析]]
 ** NLTK (Natural Language Toolkit), 能够进行英文语句的词性划分
