@@ -7,6 +7,10 @@
 ** [[deeplearning.ai/ShortCourses]]
 ** [[video]]
 *** [[https://www.youtube.com/@OpenAI][OpenAI YouTube]]
+*** [[https://www.youtube.com/@AndrejKarpathy][Andrej Karpathy - YouTube]]
+** [[talks]]
+*** [[https://www.youtube.com/watch?v=zjkBMFhNj_g][[1hr Talk] Intro to Large Language Models]]
+***
 ** [[Book]]
 *** [[book/这就是ChatGPT]]
 ** [[Book/Early Access]]
