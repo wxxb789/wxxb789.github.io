@@ -1,0 +1,2 @@
+* [[links]]
+** [[https://microsoft.github.io/ML-For-Beginners/#/][Machine Learning for Beginners by microsoft]]
