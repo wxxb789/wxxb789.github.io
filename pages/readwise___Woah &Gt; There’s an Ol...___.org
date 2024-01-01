@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Woah &Gt; There’s an Ol...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[eatonphil on Twitter]]
+:full-title: "Woah &Gt; There’s an Ol..."
+:category: [[tweets]]
+:url: https://twitter.com/eatonphil/status/1739632700384837984
+:image-url: https://pbs.twimg.com/profile_images/1514261712148615175/f7HovNJE.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-27]]
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+woah
+
+> There’s an old book, Etudes for Programmers by Charles Wetherell that is similar to this. Projects include compiler, interpreter, loader, compression, game AI, symbolic algebra, etc. I think Knuth or Norvig recommended it, hard to find a physical copy though. 
+
+![](https://pbs.twimg.com/media/GCRqsxkWkAA1Z1B.png) 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+From huntie on lobsters.
+
+https://t.co/jiMnfYEyFd 
+
+![](https://pbs.twimg.com/media/GCRq0PNXcAAmYoD.jpg) 
+#+END_QUOTE\

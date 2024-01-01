@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/回顾 2023，我用的最爽的 10 个效率工具...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cellier_ on Twitter]]
+:full-title: "回顾 2023，我用的最爽的 10 个效率工具..."
+:category: [[tweets]]
+:url: https://twitter.com/cellier_/status/1741692958712439204
+:image-url: https://pbs.twimg.com/profile_images/1565659600631738368/22zA-Zui.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-01]]
+** 📌 [[2024-01-01]]
+#+BEGIN_QUOTE
+回顾 2023，我用的最爽的 10 个效率工具
+
+1. https://t.co/TT9qNGs30Y， 它的 Daily Note 基本取代了我的 GTD 工具；
+
+2. Cron，我的事务都同步上去了，约人约时间取代了 Calendly；
+
+3. Arc，不用说，目前最优雅的浏览器（Sigma.os 也不错）；
+
+4. Raycast，配合各种插件功能，效率飞起；
+
+5. Perplexity，不用多说，日常知识性搜索神器；
+
+6. Journal，日记就用它，让人更有冲动记录，取代了 Dayone；
+
+7. Artifact，新闻软件，推荐很准确，特别是科技行业，可以用播客模式听新闻，也有 AI 提炼；
+
+8. Pitch，自它出了神奇移动功能后，更愿意用它做 PPT 了；
+
+9. Superlist，一直在内测，任务嵌套以及详情页可以当作文档的设计很喜欢；
+
+10. Speak，学习英语的好帮手；<video controls><source src="https://video.twimg.com/ext_tw_video/1741692578859532288/pu/vid/avc1/1234x720/rqWpI9SUJ1CaI2iD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1741692578859532288/pu/pl/hdVm837CmtRqnAkm.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1741692578859532288/pu/vid/avc1/462x270/EQd3yarXEaEM1g1B.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1741692578859532288/pu/vid/avc1/616x360/QRVJxKmqHjCPNELK.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

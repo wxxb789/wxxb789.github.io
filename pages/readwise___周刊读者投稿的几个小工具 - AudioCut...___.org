@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/周刊读者投稿的几个小工具 - AudioCut...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ruanyf on Twitter]]
+:full-title: "周刊读者投稿的几个小工具 - AudioCut..."
+:category: [[tweets]]
+:url: https://twitter.com/ruanyf/status/1740554169411604532
+:image-url: https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-29]]
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+周刊读者投稿的几个小工具
+
+\- AudioCut（图一）：音频文件/播客编辑的 Web 工具。https://t.co/aRbqTKsEpG
+- Tianji（图二）：流量分析 + 业务告警 + 服务器监控三合一的开源工具。https://t.co/8cePdpbB8f
+- Memo Card（图三）：生成文字内容的分享卡片。https://t.co/FOD387CWiB
+- vocal-separate（图四）：人声和背景音乐的分离工具。https://t.co/g9iTDNhN4A
+- cloudflare-ai-web：通过 Cloudflare Worker 搭建自己的 AI 平台。https://t.co/UjbbdBKbxt
+
+#科技爱好者周刊（第 264 期）https://t.co/ZmNYPEtGdX<img src='https://pbs.twimg.com/media/GCewsEvaAAABPdy.jpg'/><img src='https://pbs.twimg.com/media/GCewtmzacAAaF83.jpg'/><img src='https://pbs.twimg.com/media/GCewuvnbQAAJV_Z.jpg'/><img src='https://pbs.twimg.com/media/GCewv2FboAAYZM8.jpg'/> 
+#+END_QUOTE\

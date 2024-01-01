@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/这个视频采访推荐关注美股的朋友看，Tom Lee...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[raycat2021 on Twitter]]
+:full-title: "这个视频采访推荐关注美股的朋友看，Tom Lee..."
+:category: [[tweets]]
+:url: https://twitter.com/raycat2021/status/1739577837324304581
+:image-url: https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-27]]
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+这个视频采访推荐关注美股的朋友看，Tom Lee分析2024年股市走向。 
+Tom Lee被投资者嘲笑为“超级牛吹”(permabull)，这是我自己胡乱翻译的。
+因为他对美股好像永远不停的在看多。
+2022年他和木头姐两个人被经常拿出来骂，但他对2023年的判断基本没错。
+我清楚记得他在22年底的时候很有先见之明地预言，通胀一定会降温，标普指数将上涨20%，至4,750点。 
+展望2024年市场，他认为投资者应该继续看好。他预计标普到明年年底将达到5,200点，大部分涨幅将在下半年，上半年可能会持平甚至下跌5%。 
+他个人建议重点关注优质小盘股和金融股，可能涨幅高达50%。他也非常看好比特币明年的走势。 
+不要轻易嘲笑他，Tom Lee的每一个判断都是有坚实的数据支持。他不是那种拍脑袋胡扯的人。 针对有人说他是牛吹，Tom回说那些都是没谱的人。
+https://t.co/j0yfAn9yZb 
+#+END_QUOTE\

@@ -1,0 +1,50 @@
+:PROPERTIES:
+:title: readwise/之前我分享了@dotey 如何通过优化提示内容来...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ShangjinZhang on Twitter]]
+:full-title: "之前我分享了@dotey 如何通过优化提示内容来..."
+:category: [[tweets]]
+:url: https://twitter.com/ShangjinZhang/status/1739845611506352249
+:image-url: https://pbs.twimg.com/profile_images/1523958385569579010/I0GiweMy.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-27]]
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+之前我分享了<a href="https://twitter.com/dotey">@dotey</a> 如何通过优化提示内容来提供更准确的翻译。现在，我又发现了一种通过编写提示内容来帮助记忆单词的方法。这个方法由<a href="https://twitter.com/luoleiorg">@luoleiorg</a>提出。 
+
+![](https://pbs.twimg.com/media/GCUsQTXbgAA3ajf.jpg) 
+
+![](https://pbs.twimg.com/media/GCUsQTQbMAAUi9l.jpg) 
+
+![](https://pbs.twimg.com/media/GCUsW6AagAAmFUw.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+prompt如下：
+你是世界上最强大的翻译官
+你需要提供给我的信息是
+语种：这个单词或短语的语种。
+发音：这个单词的发音，并且用中文用户能理解的发音解释。
+词根词缀：这个单词的词根词缀
+常用领域：这个单词或短语常出现的领域。
+记忆方法：如何快速理解和记忆这个单词或者短语。 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+根据我提供的内容类型，你将进行以下操作： 如果是单词或短语：提供其含义、日常用法、发音和记忆技巧。 如果是较长的文本：进行翻译，并识别并解释其中的中高级词汇。  下面是我这次输入的内容： 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+在<a href="https://twitter.com/luoleiorg">@luoleiorg</a> 的基础上，我添加了输出词根词缀 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+感谢 <a href="https://twitter.com/yetone">@yetone</a> 的建议，原来图片 ALT 里面还能放文本，涨见识了😄 
+
+![](https://pbs.twimg.com/media/GCVoVzHbwAAKDqf.jpg) 
+#+END_QUOTE\

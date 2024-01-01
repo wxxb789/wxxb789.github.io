@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/RAG Assisted Auto Develo...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[llama_index on Twitter]]
+:full-title: "RAG Assisted Auto Develo..."
+:category: [[tweets]]
+:url: https://twitter.com/llama_index/status/1740549837849088460
+:image-url: https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-29]]
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+RAG Assisted Auto Developer 🔎🧑‍💻
+
+Here’s a neat cookbook by <a href="https://twitter.com/quantoceanli">@quantoceanli</a> to build a devbot that can 1) understand a codebase, 2) write additional code based on the codebase.
+
+It’s a nice mix of different tools: <a href="https://twitter.com/llama_index">@llama_index</a> to index an existing codebase, Autogen / OpenAI Code Interpreter to write/test code, and https://t.co/Y2mLO3pRVB as the orchestration layer to define the flow.
+
+Check it out: https://t.co/7E5RIbSktl<img src='https://pbs.twimg.com/media/GCehF_dawAAm-PR.jpg'/> 
+#+END_QUOTE\

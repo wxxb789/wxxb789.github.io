@@ -1,0 +1,70 @@
+:PROPERTIES:
+:title: readwise/Should You Use EXIST Ins...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[TheCodeMan__ on Twitter]]
+:full-title: "Should You Use EXIST Ins..."
+:category: [[tweets]]
+:url: https://twitter.com/TheCodeMan__/status/1739991327356453199
+:image-url: https://pbs.twimg.com/profile_images/1565011872033693698/yzzpv74A.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-29]]
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+Should you use EXIST instead of IN?
+
+Better performances? 🤔 
+
+To compare, it's important to understand how each of them works and the context in which they are executed. 
+
+IN:
+
+• The Query selects all customers whose customer_id is in the list produced by the subquery.
+• The Subquery generates a list of customer_ids from the orders table for orders placed in the last 30 days.
+• The main query then does a lookup for each customer_id in this list against the customers table.
+
+EXIST:
+
+• The query selects customers where there exists at least one record in the orders table that meets the criteria.
+• The EXISTS clause checks for the presence of a matching record, rather than retrieving a list of customer_ids.
+• The subquery is correlated with the outer query (o.customer_id = c.customer_id), meaning it needs to be evaluated for each row in the customers table.
+
+Performance Comparison:
+
+1. Subquery Evaluation: 
+
+• The IN clause uses a subquery that is executed once, creating a list of customer_ids. 
+• The EXISTS clause's subquery is a correlated subquery and may need to be evaluated for each row in the customers table, potentially leading to more computations.
+
+2. Index Usage: 
+
+• If there are indexes on customer_id in both the customers and orders tables, the IN query might perform better as it can quickly lookup the customer_ids in the customers table. 
+• The performance of the EXISTS query also depends on indexing but can be slower due to repeated evaluations of the subquery.
+
+3. Result Set Size: 
+
+• If the subquery in the IN clause returns a large set of customer_ids, the IN clause might become less efficient. 
+• In such cases, EXISTS could be more efficient as it stops evaluating as soon as a match is found.
+
+What is your experience? 👇 
+
+P.S. If you like the post, be sure to check out my .NET Pro Weekly Newsletter.
+
+Join almost 10k engineers here: https://t.co/6yFkiJyRTG
+
+#Dotnet<img src='https://pbs.twimg.com/media/GCWw38dXgAIg9RA.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+📌 Merry Christmas!   
+
+Hurry up and use the promo code: CHRISTMAS for a 30% discount on my new ebook Design Patterns Simplified.    
+
+Check out it here: https://t.co/ro5cUHyT3M 
+
+![](https://pbs.twimg.com/media/GCWw_36WMAA0jX7.jpg) 
+#+END_QUOTE\

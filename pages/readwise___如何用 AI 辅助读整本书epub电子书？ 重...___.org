@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/如何用 AI 辅助读整本书epub电子书？ 重...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vista8 on Twitter]]
+:full-title: "如何用 AI 辅助读整本书epub电子书？ 重..."
+:category: [[tweets]]
+:url: https://twitter.com/vista8/status/1740720440178532610
+:image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-29]]
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+如何用 AI 辅助读整本书epub电子书？
+
+重读《人类简史》后，想用AI 辅助总结做笔记。但GPT4、Claude上下文窗口都有限。
+
+想到月之暗面的kimi，据说能支持约20 万汉字的上下文，是Anthropic  Claude-100k的2.5倍。 https://t.co/omfkzmXO2I
+
+不巧的是《人类简史》有37w字，如何处理呢？
+
+步骤如下：
+1. 转换格式：把epub电子书转成PDF（kimi不支持epub）
+https://t.co/AZWtS6LCgj
+
+2. 切割PDF：整书超20w字，按页码切成3个文件，每个100多页。
+https://t.co/AT8nwYWOod
+
+3. 提问总结：基于目录和笔记，向大模型提问感兴趣的话题。
+
+效果如下图，质量不错，感兴趣的朋友可以试试。<img src='https://pbs.twimg.com/media/GChGQQ_b0AAOXYh.jpg'/><img src='https://pbs.twimg.com/media/GChGUmwbcAAyrv6.jpg'/> 
+#+END_QUOTE\

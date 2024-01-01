@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/开个小专栏，记录一下我写高质量的 Prompt...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[shengxj1 on Twitter]]
+:full-title: "开个小专栏，记录一下我写高质量的 Prompt..."
+:category: [[tweets]]
+:url: https://twitter.com/shengxj1/status/1740357640205562235
+:image-url: https://pbs.twimg.com/profile_images/1688110986799271936/Pyt9pQSf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-29]]
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+开个小专栏，记录一下我写高质量的 prompt 的心得。最近用 <a href="https://twitter.com/JinaAI_">@JinaAI_</a> 的 https://t.co/b04mTost93 来解读和拓展提示词，把含糊的提示词扔进去，它就能帮你改造成直击要害的版本，还能直接给你看到模型结果的‘前后对比’。
+大多数公司都没空也没多少预算去专门雇人写提示词，让 AI 改 AI… 
+
+![](https://pbs.twimg.com/media/GCb9SpeW0AAw9ru.jpg) 
+
+![](https://pbs.twimg.com/media/GCb9Sp2XcAEI28F.jpg) 
+
+![](https://pbs.twimg.com/media/GCb9SqOWgAAsMDq.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+首先优先使用英文prompt，gpt中文的训练数据不到1%，英语训练数据90%以上，所以优化prompt的一个技巧，除了更加详细的数据，把prompt翻译成英语能够获得更高输出质量。https://t.co/DFL34tN08k 会默认优化成英语，并且可以对比返回数据的质量，极大提高我们使用AI的效率。 
+
+![](https://pbs.twimg.com/media/GCb-I9OXoAA0fYC.jpg) 
+
+![](https://pbs.twimg.com/media/GCb-OGrX0AAVSnw.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+各大厂都在发布自己的AI模型，通常我至少会打开其中两个来对比输出的质量
+promptperfect也可以直接让你选择不同的模型，一站式解决你的AI使用需求，无论是文本还是图形，还有竞技场模式可以直接实时对比各个模型的输出结果。 
+
+![](https://pbs.twimg.com/media/GCb-VMBWwAAzkyn.jpg) 
+#+END_QUOTE\
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+我媳妇现在对我说话就像对 AI 一样，气氛都和谐了。
+    以前的媳妇：【做完饭你记得收拾厨房】
+    现在的媳妇：【做完饭后你记得锅刷一下，灶台和墙上的油也擦一下，洗碗机记得放洗衣皂，而且刷碗记得开盖晾干，垃圾袋最后也系上房门口，如果临时有事叫我来继续收拾就行】
+    PromptPerfect 就是中间这个解读和拓展的角色，把那些含糊的提示词扔进去，它就能帮你改造成直击要害的版本，还能直接给你看个结果的‘前后对比’。用 AI 改 AI 的提示词，简直就是绝招<img src='https://pbs.twimg.com/media/GCb-4RcXwAAiMi6.jpg'/> 
+#+END_QUOTE\

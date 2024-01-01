@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/推荐阅读：《2023 年十篇值得关注的 Ai 研...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "推荐阅读：《2023 年十篇值得关注的 Ai 研..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1741304504736268660
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-31]]
+** 📌 [[2023-12-31]]
+#+BEGIN_QUOTE
+推荐阅读：《2023 年十篇值得关注的 AI 研究论文》
+
+作者精选了 10 篇 AI 论文
+
+1) Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
+https://t.co/7s7gBoBOyi
+2) Llama 2: Open Foundation and Fine-Tuned Chat Models
+https://t.co/8CIrWxoKDp
+3) QLoRA: Efficient Finetuning of Quantized LLMs
+https://t.co/6SdBGZ2Ipk
+4) BloombergGPT: A Large Language Model for Finance
+https://t.co/zXoH2vmwUQ
+5) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+https://t.co/OxXjm4zS5R
+6) Mistral 7B
+https://t.co/5zVXyd5lJ0
+8) ConvNets Match Vision Transformers at Scale
+https://t.co/jzeAukqd2U
+9) Segment Anything
+https://t.co/yDiIz7ZXu9
+10) Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning 
+https://t.co/ndIYLYNVG6
+
+原文：https://t.co/uSI0eWXnsj
+译文：https://t.co/BB7KporjOO 
+#+END_QUOTE\

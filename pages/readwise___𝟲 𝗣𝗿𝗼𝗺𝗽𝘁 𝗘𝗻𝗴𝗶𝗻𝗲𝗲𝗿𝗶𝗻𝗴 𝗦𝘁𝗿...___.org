@@ -1,0 +1,92 @@
+:PROPERTIES:
+:title: readwise/𝟲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗿...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[milan_milanovic on Twitter]]
+:full-title: "𝟲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗿..."
+:category: [[tweets]]
+:url: https://twitter.com/milan_milanovic/status/1739618863933800792
+:image-url: https://pbs.twimg.com/profile_images/1079879617681543169/3i2gaxfX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-27]]
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+𝟲 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗯𝘆 𝗢𝗽𝗲𝗻𝗔𝗜
+
+Guys from OpenAI just released a guide on prompt engineering.
+
+They explained six strategies to get better results, and they are not ChatGPT-specific:
+
+𝟭. 𝗪𝗿𝗶𝘁𝗲 𝗰𝗹𝗲𝗮𝗿 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀
+
+These models cannot read your mind. Suppose outputs are excessively lengthy; request brief responses.
+
+Tactics:
+
+\- Include details in your prompt to get more relevant answers
+- Define the desired output length and complexity.
+- Provide examples
+- Use delimiters to address
+
+𝟮. 𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗿𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝘁𝗲𝘅𝘁
+
+With confidence, language models can generate fictitious responses, particularly when asked about obscure subjects or for URLs and citations.
+
+Tactics:
+
+- Ask the model for reference text, such as a link to a PDF or a website
+- Instruct for citations from a reference text
+
+𝟯. 𝗦𝗽𝗹𝗶𝘁 𝗰𝗼𝗺𝗽𝗹𝗲𝘅 𝘁𝗮𝘀𝗸𝘀 𝗶𝗻𝘁𝗼 𝘀𝗶𝗺𝗽𝗹𝗲𝗿 𝘀𝘂𝗯𝘁𝗮𝘀𝗸𝘀
+
+It is best practice to break down complicated systems into modular components for tasks presented to a language model, just as in software engineering.
+
+Tactics:
+
+- Break down tasks to reduce errors and improve manageability
+- Summarize long documents piece by piece to stay within the limit
+
+𝟰. 𝗚𝗶𝘃𝗲 𝘁𝗵𝗲 𝗺𝗼𝗱𝗲𝗹 𝘁𝗶𝗺𝗲 𝘁𝗼 "𝘁𝗵𝗶𝗻𝗸" <- this is the most exciting part ⚠️
+
+Even though you might not know the answer immediately, you can eventually determine how to multiply 17 by 28. Similarly, models that attempt to respond immediately instead of taking their time to respond commit more logical fallacies.
+
+Tactics:
+
+- Instruct the model to work out its solution before rushing to a conclusion
+- Encourage a "chain of thought" approach for more accurate reasoning
+- Try the following: "Take your time, work step by step," "This matters a lot to me, please," or "I'll give you a $200 tip."
+- Ask the model if it missed anything on previous passes
+
+𝟱. 𝗨𝘀𝗲 𝗲𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝘁𝗼𝗼𝗹𝘀
+
+Feed the model the results of other tools to compensate for shortcomings. For instance, a text retrieval system can inform the model about pertinent documents, often known as retrieval augmented generation, or RAG.
+
+Tactics:
+
+- Use embeddings-based search to implement efficient knowledge retrieval
+- Use code execution to perform more accurate calculations or call external APIs
+- Give the model access to specific functions
+
+𝟲. 𝗧𝗲𝘀𝘁 𝗰𝗵𝗮𝗻𝗴𝗲𝘀 𝘀𝘆𝘀𝘁𝗲𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆
+
+Measuring performance makes it easier to improve. There are situations when changing a prompt will improve performance on a small number of exceptional examples but degrade performance on a larger sample size.
+
+Tactics:
+
+- Measure improvements with an overall testing approach
+- Evaluate model outputs concerning gold-standard answers
+
+#artificialintelligence #chatgpt<img src='https://pbs.twimg.com/media/GCReGiXW8AA5fHF.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+https://t.co/1vYCTjhl2d 
+#+END_QUOTE\
+** 📌 [[2023-12-27]]
+#+BEGIN_QUOTE
+To expand your knowledge and personal growth, subscribe to my free weekly newsletter with 20,000+ people: https://t.co/MMCXxQQR4F. 
+#+END_QUOTE\

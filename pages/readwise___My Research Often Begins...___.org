@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/My Research Often Begins...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[jefffhj on Twitter]]
+:full-title: "My Research Often Begins..."
+:category: [[tweets]]
+:url: https://twitter.com/jefffhj/status/1740750722524704774
+:image-url: https://pbs.twimg.com/profile_images/1609707611552710662/whawDtte.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-31]]
+** 📌 [[2023-12-31]]
+#+BEGIN_QUOTE
+My research often begins with curiosity-driven questions:
+
+1. Are LLMs Leaking Your Personal Information? (https://t.co/3b7q4Mo1Rv)
+2. Are LLMs Really Able to Reason? (https://t.co/tAKoeQzgKg)
+3. Can LLMs Self-Correct Their Reasoning? (https://t.co/jqF94glBHN)
+4. What is Missing from LLMs? (https://t.co/w6bMlGDfE9)
+5. Can (Retrieval-Augmented) Encoder-Decoder LMs Perform In-Context Learning? (https://t.co/2vKYMZZV3s)
+6. Why Do LLMs Fall Short in Providing Truthful Answers? (https://t.co/ZSpxeqiqfc)
+7. Can LMs Be Specific?(https://t.co/2A0puC89D7) (Note: outdated) 
+#+END_QUOTE\
+** 📌 [[2023-12-31]]
+#+BEGIN_QUOTE
+The goal of the research is then to answer my questions and offer insights to the community. 
+#+END_QUOTE\
+** 📌 [[2023-12-31]]
+#+BEGIN_QUOTE
+Depending on the questions and the computational resources available at the time, the research may be conducted as an engineering study, an analytical study, a position paper, a review paper, etc. 
+#+END_QUOTE\

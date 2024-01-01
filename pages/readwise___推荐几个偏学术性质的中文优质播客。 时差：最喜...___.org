@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/推荐几个偏学术性质的中文优质播客。 时差：最喜...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[jiaweizuikeai on Twitter]]
+:full-title: "推荐几个偏学术性质的中文优质播客。 时差：最喜..."
+:category: [[tweets]]
+:url: https://twitter.com/jiaweizuikeai/status/1740293123870523851
+:image-url: https://pbs.twimg.com/profile_images/1278294506954055681/qvh0YlqZ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2023-12-29]]
+** 📌 [[2023-12-29]]
+#+BEGIN_QUOTE
+推荐几个偏学术性质的中文优质播客。
+
+时差：最喜欢之一，已停更。
+例外状态：偏哲学向
+唯理：博雅教育组织，话题很杂。
+中间地带：偏历史向
+
+其它不错的学术对谈中文播客：天书广播、忽明忽暗、不合时宜、双重意识、随机游走。
+
+（尽量用国外应用订阅，这些节目在国内应用平台被大量审查删减） 
+
+![](https://pbs.twimg.com/media/GCbDW_bbEAAwg7x.jpg) 
+
+![](https://pbs.twimg.com/media/GCbDW_ZbUAAzjAU.jpg) 
+
+![](https://pbs.twimg.com/media/GCbDW_dbYAApGyu.jpg) 
+
+![](https://pbs.twimg.com/media/GCbDW_aaUAAeQAY.jpg) 
+#+END_QUOTE\
