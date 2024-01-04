@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/How Code Empowers LLMs...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "How Code Empowers LLMs..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1742215295907811613
+:image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-03]]
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+How Code Empowers LLMs
+
+A comprehensive overview of the benefits of training LLMs with code-specific data. 
+
+Some capabilities include enhanced code generation, enabling reasoning, function calling, automated self-improvements, and serving intelligent agents. 
+
+This is probably one of the more important surveys that I've seen in the past few months. 
+
+Great read to start the year as we know LLM-powered agents will be a huge emphasis this year and code understanding and generation will be core to progress.
+
+https://t.co/kTKtFiJekq<img src='https://pbs.twimg.com/media/GC2WQY9WgAAl6Qa.jpg'/> 
+#+END_QUOTE\

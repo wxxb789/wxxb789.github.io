@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/2024 年初的大语言模型编程实践 [译]
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Antirez]]
+:full-title: "2024 年初的大语言模型编程实践 [译]"
+:category: [[articles]]
+:url: https://baoyu.io/translations/llm/llms-and-programming-in-the-first-days-of-2024
+:image-url: https://jimliu.vercel.app/static/favicons/apple-touch-icon.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-04]]
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+面对大语言模型一些新的无法解释的能力，谨慎的科学家们反而低估了它们。许多人认为，大语言模型不过是稍微高级点的马尔科夫链 (Markov chains)，最多只能重复训练集里有限变化的内容。然而，越来越多的证据表明，这种看法几乎可能是大错特错的。 
+#+END_QUOTE\

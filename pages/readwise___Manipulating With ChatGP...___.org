@@ -1,0 +1,163 @@
+:PROPERTIES:
+:title: readwise/Manipulating With ChatGP...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FCamiade on Twitter]]
+:full-title: "Manipulating With ChatGP..."
+:category: [[tweets]]
+:url: https://twitter.com/FCamiade/status/1742580255431266526
+:image-url: https://pbs.twimg.com/profile_images/1650763832300654593/sf-BHWuW.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-04]]
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Manipulating with ChatGPT?
+
+That's just wrong...
+
+These 5 mega-prompts should be illegal (but they work)🧵: 
+
+![](https://pbs.twimg.com/media/GC7hUIRWEAAD_9w.png) 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+There are 5 major principles of persuasion, according to Robert Cialdini in his book Influence:
+The Psychology of Persuasion.
+
+These powerful psychological levers have long been recognized for their potency.
+
+Here's how to harness their power with ChatGPT.
+
+The example is every time for a fitness coach for weight loss. 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+1. Reciprocity
+
+Someone buy you a drink?
+You'll feel indebted.
+
+Here's how to make it your own: <video controls><source src="https://video.twimg.com/ext_tw_video/1742578071813738496/pu/vid/avc1/1058x720/nCpkeJAHQk65cjEb.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578071813738496/pu/pl/a9np0D0ya0jj5QkP.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1742578071813738496/pu/vid/avc1/396x270/AxyPyLM2XyMjfEzU.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578071813738496/pu/vid/avc1/528x360/SxqDE3uRi1l0gMo1.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Prompt:
+
+My Offering: [Describe your product or service here]
+
+My Audience: [Define your target audience here]
+
+Objective: I'm seeking creative marketing strategies that apply the principle of Reciprocity to boost my marketing initiatives. This concept, highlighted by Robert Cialdini in his book "Influence," suggests that people tend to return a favor when they receive something first.
+
+Context and Examples: Cialdini illustrates this with the Hare Krishna Society's strategy of offering flowers at airports, leading to more donations, and Dennis Regan's study showing increased raffle ticket sales after offering sodas to participants.
+
+Challenge: How can I proactively offer value to my customers or prospects, encouraging them to engage with my product/service? This could be through informative content, gifts, or unique experiences, at various stages of their journey from initial awareness to the point of purchase.
+
+Task: Please develop 4 innovative marketing campaign ideas that employ the Reciprocity principle. Each idea should clearly demonstrate how initiating a gesture of giving can motivate customers to reciprocate, potentially leading to increased engagement or sales. 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+2. Commitment and Consistency
+
+Commitment can take us a long way.
+Especially when you make a public one. <video controls><source src="https://video.twimg.com/ext_tw_video/1742578425250844672/pu/vid/avc1/538x360/Ipx38ituuuVcZubu.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578425250844672/pu/vid/avc1/404x270/FLmKlexGqhu031Pn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578425250844672/pu/pl/CET037N6Bd6quRtZ.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1742578425250844672/pu/vid/avc1/1078x720/aDs5EhIATJuaeGZl.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Prompt:
+
+My Offering: [Insert details about your product or service here]
+
+My Audience: [Specify your target audience here]
+
+Objective: I'm looking for innovative strategies that harness the principle of Commitment and Consistency to enhance my marketing efforts. This psychological principle suggests that people tend to act in alignment with their earlier decisions and actions.
+
+Background: As explained by Robert Cialdini in "Influence," one example of this principle is the 'toy marketing strategy,' where parents committed to buying a toy advertised before Christmas, and, due to its scarcity, later felt compelled to purchase it post-Christmas to stay true to their initial commitment.
+
+Challenge: How can I foster a sense of commitment in my customers or prospects, and utilize this commitment to cultivate consistent behaviors that are beneficial for my business? Approaches might include subscription models, pre-order campaigns, loyalty programs, or public pledges.
+
+Task: Please propose 4 creative marketing campaign ideas that leverage the principle of Commitment and Consistency. Each campaign should clearly show how an initial commitment by the customer can lead to a pattern of consistent behavior, ultimately benefiting both the customer and my business. 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+3. Social Proof
+
+If people are queuing outside a restaurant, it's probably good.
+
+And it gets your attention. <video controls><source src="https://video.twimg.com/ext_tw_video/1742578587813769216/pu/vid/avc1/412x270/dJtIFlFGe4E-gmLb.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578587813769216/pu/vid/avc1/1102x720/JxdPLWPRPNYVuR5W.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578587813769216/pu/pl/6_aDnFoQYdF430Em.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1742578587813769216/pu/vid/avc1/550x360/yazvdZBi11Yz28kI.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Prompt:
+
+My Offering: [Detail your product or service here]
+
+My Audience: [Identify your target audience here]
+
+Objective: I seek assistance in crafting strategies that utilize the concept of Social Proof to elevate my marketing efforts. Social Proof is a psychological phenomenon where people emulate the actions of others in an attempt to reflect correct behavior in a given situation.
+
+Context: Robert Cialdini's book "Influence" cites the use of 'laughter tracks' in TV sitcoms as an instance of Social Proof. Despite mixed reactions to canned laughter, it remains effective as it encourages viewers to laugh, enhancing their enjoyment of the show.
+
+Challenge: How can I demonstrate to potential customers that my product/service is a popular and trusted choice? This could be through showcasing testimonials, user ratings, user-generated content, or emphasizing the volume of satisfied customers.
+
+Task: Please devise 4 inventive marketing campaign ideas that employ the principle of Social Proof. Each idea should clearly illustrate how the actions or endorsements of others can sway the perceptions and decisions of potential customers. 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+4. Authority
+
+If someone popular validates a product, they can turn it into a viral tornado.
+
+And by adding scientific proof, no one can contradict you. <video controls><source src="https://video.twimg.com/ext_tw_video/1742578849504804864/pu/vid/avc1/418x270/J9JkTy_DQonPj1OV.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578849504804864/pu/vid/avc1/1114x720/KHXgYlT-7oLWW6HN.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578849504804864/pu/vid/avc1/556x360/8Beyz2HG86khr-xq.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742578849504804864/pu/pl/2pSpqBvH7tl4u9PF.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Prompt:
+
+My Offering: [Describe your product or service here]
+
+My Audience: [Define your target audience here]
+
+Objective: I am seeking strategies that effectively utilize the principle of Authority to boost my marketing efforts. This principle suggests that people are more inclined to follow the advice or direction of someone perceived as an expert or authority figure.
+
+Background: As illustrated by Robert Cialdini in "Influence," advertisers have historically used doctors to endorse products like cigarettes, leveraging their authoritative image to enhance product credibility, regardless of the doctors' actual knowledge of the product.
+
+Challenge: How can I establish my brand as a trusted authority in its field or show that my product/service is endorsed by credible experts? This could involve showcasing credentials, highlighting industry awards or recognitions, featuring testimonials from industry authorities, or providing expert, insightful content.
+
+Task: Please create 4 innovative marketing campaign ideas that apply the principle of Authority. Each campaign should demonstrate how showcasing expertise or endorsements from authoritative figures can influence the decision-making of potential customers. 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+5. Scarcity
+
+Not everyone can have your product?
+
+This will put pressure on customers, and add value. <video controls><source src="https://video.twimg.com/ext_tw_video/1742579022280761345/pu/vid/avc1/402x270/BRJ_Mf_3HliA6go1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742579022280761345/pu/vid/avc1/538x360/VfnUHKmYuubJUTG9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1742579022280761345/pu/pl/5Z6S2420e6p5JXXC.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1742579022280761345/pu/vid/avc1/1076x720/PMou2Ex-q1oOYn_L.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Prompt:
+
+My Offering: [Insert details about your product or service here]
+
+My Audience: [Specify your target audience here]
+
+Objective: I aim to apply the principle of Scarcity, as described by Robert Cialdini in "Influence", to instill a sense of urgency and exclusivity in my marketing initiatives. Scarcity is the psychological tendency where limited availability or high demand increases an item's perceived value, often triggering the fear of missing out (FOMO) and motivating action.
+
+Context: An example highlighted in "Influence" is the surge in demand for Tickle Me Elmo dolls in the mid-90s, where their scarcity led to heightened eagerness and extraordinary efforts by consumers to obtain them.
+
+Challenge: How can I harness the principle of Scarcity to create compelling marketing for my product/service? This could involve tactics like time-limited offers, exclusive membership options, or underscoring the unique, scarce attributes of my offering.
+
+Task: Please develop 4 distinct marketing campaign concepts that effectively utilize the principle of Scarcity. Each idea should focus on enhancing demand and appeal for my product/service by emphasizing its limited availability or exclusive nature. 
+#+END_QUOTE\
+** 📌 [[2024-01-04]]
+#+BEGIN_QUOTE
+Hope this helps!
+
+Follow me and share the first post if you found it useful:
+https://t.co/kQirXARfpE 
+#+END_QUOTE\

@@ -1,0 +1,228 @@
+:PROPERTIES:
+:title: readwise/我想想找一个管理工具，给自己用，但是选来选去总是...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[beihuo on Twitter]]
+:full-title: "我想想找一个管理工具，给自己用，但是选来选去总是..."
+:category: [[tweets]]
+:url: https://twitter.com/beihuo/status/1742350183709671744
+:image-url: https://pbs.twimg.com/profile_images/1182400217800302592/yFy4Ghlv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-03]]
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+我想想找一个管理工具，给自己用，但是选来选去总是感觉不顺手。今天我在对比工具的时候，忽然意识到并不是工具不顺手，而是我不知道该如何管理项目开发，我不知道该如何正确使用这些工具。
+
+于是我去学习了 Github 团队是如何管理产品开发的，并做了一些笔记：
+
+1/19 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+Github 内部，对于产品开发的管理，分为以下几个阶段：
+
+1.  Opportunities Backlog 机会待办
+2.  Project Overview - 项目概览
+3.  Feature Overview - 功能概览
+4.  Other Backlogs - 其他待办（文档，市场，等）
+
+2/19 
+
+![](https://pbs.twimg.com/media/GC4SREKbsAAFQLq.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+他们的工作流是这样的：
+
+1. 所有的想法、计划和提案，都先放在 Opportunities Backlog 里面。所以这里包含所有的要做和要调研的事情。
+
+2. 当决定开始做一个项目的时候，在 Project Overview 里面新建一个事项。这个 project 是团队了解目前进行中的工作的地方，管理者是重度用户。
+
+3/19 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+3. 因为 Project Overview 包含了太多的东西，牵扯到太多的团队。所以每一个 feature 都会有一个 Feature Overview Project。
+
+4. 一些由辅助团队做的事项，比如市场营销，可以单独放在其他的 project 中。所以这些事项，会同时存在于这些单独的 project 和 feature overview project 里面。
+
+4/19 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+可以看到，每一级的 project 都和上一级有所重复。这方便特定团队的工作的同时，也可以让更大范围的团队知晓每一项的进度。
+
+再仔细检视，对于每一个 project，最开始的问题只有两个：
+
+1. 使用者是谁？
+2. 需要回答使用者的什么问题？
+
+其他的问题，都是次要的问题。
+
+5/19 
+
+![](https://pbs.twimg.com/media/GC4SSA2bYAA8wtY.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+Opportunities Backlog 的使用者是所有关心整个产品进展的人。回答的问题是：
+
+\- 哪个团队适合负责某个事项？
+- 某个想法能实现什么样的目标？
+- 某个事项的当前进展如何？
+
+在 Github，这个阶段的 project 名字叫 Planning & Tracking Pitches。
+
+6/19 
+
+![](https://pbs.twimg.com/media/GC4SSj9a0AAt7XE.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+当一个 Pitch 被接受之后，流程进入 Program Overview。这个 project 的使用者是 manager 们。所以使用更关心的是：
+
+\- 进度如何？
+- 有没有风险？
+- 如果我有问题，该找谁问？
+- 下一步的计划是什么？
+
+在 Github，这个阶段的 project 名字叫 Planning & Tracking Roadmap。
+
+7/19 
+
+![](https://pbs.twimg.com/media/GC4STTzaQAAO7g9.jpg) 
+
+![](https://pbs.twimg.com/media/GC4STnsaEAA6ApN.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+从 Github 分享的截图中可以看到，他们使用不同的栏（Field）来回答使用者的问题。
+
+比如 Trending 这一栏，让使用者知道进度和是否有延迟交付的风险，而 Target  Changelog 可以让使用者知道这个事项最终会在哪一版发布。
+
+他们也会用不同的视图，比如 Next/Later 就可以看到下一步的计划。
+
+8/19 
+
+![](https://pbs.twimg.com/media/GC4SUYuakAA8ChH.jpg) 
+
+![](https://pbs.twimg.com/media/GC4SUvRawAAGG9p.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+现在规划阶段已经完成了，接下来，就要转到 Feature Overview 阶段。每一个规划的事项，都会有一个*单独*的 project。
+
+这一点，我们可以从截图中看到，每一个事项的描述里面，都放了一个 project 的链接。他们使用 template 功能，来确保这一点。
+
+9/19 
+
+![](https://pbs.twimg.com/media/GC4SVYjaAAAf0SD.jpg) 
+
+![](https://pbs.twimg.com/media/GC4SVtqbAAAE0uo.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+OK，说到 Feature Overview 啦！这一阶段，使用者主要关心产品的交付：
+
+\- 为了完成某个功能，一共需要做哪些工作？
+- 我当前被分配了什么工作？
+- 这些工作的先后顺序是什么？
+- 我可以开始做哪些工作？
+- 团队成员之间的工作分配是否合理？
+
+10/19 
+
+![](https://pbs.twimg.com/media/GC4SWRlaoAAzFeH.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+创建这个阶段的 project，可以先把所有的事项都列出来。然后创建新的栏（Field），回答刚才列出来的使用者会关心的问题。
+
+ 比如想知道需要做哪些类的工作，可以做一些分组，比如设计、市场、测试等。然后是时间，我们可以在 Github Projects 有一个非常有用的 Iteration 栏，来规划开发周期。
+
+11/19 
+
+![](https://pbs.twimg.com/media/GC4SW7NbMAAjR_D.jpg) 
+
+![](https://pbs.twimg.com/media/GC4SXPUb0AA-jsr.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+我特别喜欢这个 Planning View，按照 Iteration 来进行分栏。当你决定要做某个事项的时候，就拖动到相应的 Iteration 里面。然后可以点击按钮将其转换成一个 Issue。在这个事项里面，还可以用 Task 来进一步细分工作，每一个 Task 也可以是一个 Issue。规划完毕之后，可以将其放到总 View 中。
+
+12/19 
+
+![](https://pbs.twimg.com/media/GC4SXxOaMAA6iuN.jpg) 
+
+![](https://pbs.twimg.com/media/GC4SYFcaQAAIDVT.jpg) 
+
+![](https://pbs.twimg.com/media/GC4SYZmaoAE-b-T.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+然后将 Overview 按照 Area 分组，一个最基本的项目管理，就完成了。
+
+哦，对了，每一个 Tasklist 都可以包含一个 Tasklist，所以我们继续细分工作成具体的 Issue。
+
+13/19 
+
+![](https://pbs.twimg.com/media/GC4SZFKbUAA_4NP.jpg) 
+
+![](https://pbs.twimg.com/media/GC4SZZcbIAAQeZD.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+Github Projects 在移动端可用，这是对我来说很有用的。Linear 只支持桌面端。
+
+14/19 
+
+![](https://pbs.twimg.com/media/GC4SZ5sbQAASR8I.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+最后，总结如何做项目管理：
+
+1. 确定哪些群体是使用者
+2. 确定使用者关心的问题
+3. 在不确定的情况下，先尝试，再逐步改进
+
+15/19 
+
+![](https://pbs.twimg.com/media/GC4Sad4agAAR7do.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+看完 Github 团队的整个视频，对我这种产品管理小白，帮助非常大。作为小团队或者一人团队，我认为可以从只设置一个阶段开始，没有必要分成多个 Github Projects。
+
+上述策略，也可以应用到其他管理工具中，比如 Trello。但是我决定先尝试 Github Projects。等我用一段时间，会分享使用体验。
+
+16/19 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+来自 Github 的视频，From disarray to delight: planning with GitHub Projects - Universe 2022
+
+https://t.co/Ae8oNpBFh9
+
+17/19 
+
+![](https://pbs.twimg.com/media/GC4SbOqasAAhlwk.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+您可以点击这里到 Typefully 上查看全文：
+
+https://t.co/0PHoCDhmdo
+
+18/19 
+#+END_QUOTE\
+** 📌 [[2024-01-03]]
+#+BEGIN_QUOTE
+如果这个学习笔记对你有帮助的话，欢迎关注/点赞/转发一下。🙏
+
+19/19 
+#+END_QUOTE\
