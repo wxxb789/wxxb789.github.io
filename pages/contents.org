@@ -28,6 +28,7 @@
 ** [[https://www.gptsurl.com/][Discover the GPTs Store by OpenAI | GPTsURL - Share and search GPTs url to use ChatGPT]]
 * tools
 ** [[https://devv.ai/zh][Devv]]
+** [[https://float32.app/][float32]]
 ** [[https://www.phind.com/][Phind]]
 ** [[https://www.perplexity.ai][perplexity]]
 ** [[https://consensus.app/][Consensus: AI Search Engine for Research]]
