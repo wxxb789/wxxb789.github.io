@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: readwise/小白凑个热闹，我的目标是英英，但有的时候水平不够...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[sis_nonacosa on Twitter]]
+:full-title: "小白凑个热闹，我的目标是英英，但有的时候水平不够..."
+:category: [[tweets]]
+:url: https://twitter.com/sis_nonacosa/status/1745347613485092879
+:image-url: https://pbs.twimg.com/profile_images/1531291672436699137/027gBxEE.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-11]]
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+小白凑个热闹，我的目标是英英，但有的时候水平不够，英英会陷入一种递归（解释中依然有生词），最终导致失去兴趣，我以前也是字典收集者，我的做法是折中下：找个双语词典进行过度，我最终使用了「牛津高阶英汉双解词典」，这个词典7g大小，我强制自己先看英文解释，看不懂再看看中文解释，带图和IDM 
+
+![](https://pbs.twimg.com/media/GDi2IzdasAAXOfk.jpg) 
+
+![](https://pbs.twimg.com/media/GDi2OQXbkAA-WPJ.jpg) 
+
+![](https://pbs.twimg.com/media/GDi2TLHbkAAAXtF.jpg) 
+
+![](https://pbs.twimg.com/media/GDi2ZXwaMAEvf-K.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+实在想不起来在哪里下载的了，我上传到网盘了，mdx + mdd 格式的，我用欧陆，仅供参考
+
+链接: https://t.co/00rnNc49YD 提取码: 1024 
+\--来自百度网盘超级会员v5的分享 
+#+END_QUOTE\

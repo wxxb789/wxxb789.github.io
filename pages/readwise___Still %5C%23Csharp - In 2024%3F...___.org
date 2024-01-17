@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Still \#Csharp - In 2024?...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[SchlenkR on Twitter]]
+:full-title: "Still \#Csharp - In 2024?..."
+:category: [[tweets]]
+:url: https://twitter.com/SchlenkR/status/1745119867127173393
+:image-url: https://pbs.twimg.com/profile_images/1659167920985985025/QfvAHYZ_.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-11]]
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+Still #csharp - in 2024? Come on! Together with my friend "The Postman Killer", we show a real-world use case using a functional language - for Fun and Profit ( ❤️ <a href="https://twitter.com/ScottWlaschin">@ScottWlaschin</a> 🙏)
+
+Source:
+https://t.co/lu9P188xSa
+
+Video:
+https://t.co/k3iQKSo5VL
+
+cc <a href="https://twitter.com/sergey_tihon">@sergey_tihon</a> <a href="https://twitter.com/fsharponline">@fsharponline</a> 
+#+END_QUOTE\

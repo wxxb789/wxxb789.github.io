@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: readwise/🧠 🧵 [𝟭_𝟱] 𝗛𝗼𝘄 𝗯𝗿𝗮𝗶𝗻 𝗹𝗲𝗮𝗿...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[AlexanyanWolf on Twitter]]
+:full-title: "🧠 🧵 [𝟭/𝟱] 𝗛𝗼𝘄 𝗯𝗿𝗮𝗶𝗻 𝗹𝗲𝗮𝗿..."
+:category: [[tweets]]
+:url: https://twitter.com/AlexanyanWolf/status/1732687156659843356
+:image-url: https://pbs.twimg.com/profile_images/1718623296374104064/OhMg3kdj.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-10]]
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+🧠 🧵 [𝟭/𝟱] 𝗛𝗼𝘄 𝗯𝗿𝗮𝗶𝗻 𝗹𝗲𝗮𝗿𝗻𝘀 (𝗹𝗮𝘁𝗲𝘀𝘁 𝘂𝗽𝗱𝗮𝘁𝗲)
+Each neuron has thousands of synapses (connecting the neuron to thousands of other neurons)
+When 2 neurons spike at the same time, they strengthen connection between them. 
+
+![](https://pbs.twimg.com/media/GAu9yLVWIAAlMjM.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+🧠 [𝟮/𝟱]
+When we learn something, the connections are strengthened, and when we forget something, the connections are weakened.
+This is what's called "Hebbian Learning".
+For many years, it was believed that the connections between neurons in an adult brain were fixed. 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+🧠 [𝟯/𝟱]
+Learning, it was believed, involved increasing or decreasing the strength of synapses. 
+This is still how learning occurs in most artificial neural networks. 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+🧠 [𝟰/𝟱]
+Over the past few decades, scientists have discovered that in many parts of the brain, new synapses form and old ones disappear. 
+
+You may ask "So what?"
+Short answer: scientists will develop new drugs to help save your brain from Parkinson's and Alzheimer's disease. 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+🧠 [𝟱/𝟱]
+Long answer: The fact that the environment is so important can change the way people live and make decisions in the future. Thus, it might turn out that instead of following "experiences," people should follow and seek certain environments. 
+#+END_QUOTE\

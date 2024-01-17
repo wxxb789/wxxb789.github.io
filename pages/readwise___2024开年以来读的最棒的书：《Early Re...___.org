@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/2024开年以来读的最棒的书：《Early Re...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[DottChen on Twitter]]
+:full-title: "2024开年以来读的最棒的书：《Early Re..."
+:category: [[tweets]]
+:url: https://twitter.com/DottChen/status/1747157685315805349
+:image-url: https://pbs.twimg.com/profile_images/1434930648926482438/iJ1RzVOU.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-16]]
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+2024开年以来读的最棒的书：《Early Retirement Extreme》，一个愤世嫉俗的物理博士站在最极端的角度对消费主义进行的彻头彻尾的批判。
+
+不同于许多介绍 FIRE 观念的书强调方法论，这本书关注的是底层的哲学思辨，并提供了广泛的工具辅助你进行生活方式设计。
+
+换言之这是一本授人以渔的书，让你可以根据自己的情况来设计你理想中的 FIRE。FIRE 令人诟病之处是其往往以降低欲望和生活质量来作为财务独立的基础，却没有对你是否应该做出这些牺牲进行思考，很容易手段目标化。
+
+要知道财务独立的目的是为了生活中更大的自由，而不是让你的生活束手束脚。这本书提供给我的一个新的视角是将学习技能以降低消费视作丰富人生层次的手段，重点在于学习技能而不是降低消费，算是对传统意义上 FIRE 内涵的补充。
+
+Bad for the economy but maybe good for you.<img src='https://pbs.twimg.com/media/GD8mOxbXEAAFZI6.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+这是 2010 年的书，作者有一个活跃更新的博客：https://t.co/EoXKYtnMDa 
+#+END_QUOTE\

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/今天买了三个月的美元人民币掉期存款，又学习了点新...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cloudwu on Twitter]]
+:full-title: "今天买了三个月的美元人民币掉期存款，又学习了点新..."
+:category: [[tweets]]
+:url: https://twitter.com/cloudwu/status/1747191055106363576
+:image-url: https://pbs.twimg.com/profile_images/1385692491/me2.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-16]]
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+今天买了三个月的美元人民币掉期存款，又学习了点新知识：可以用不同货币之间的利差套取比普通定期存款更高的收益。 
+#+END_QUOTE\

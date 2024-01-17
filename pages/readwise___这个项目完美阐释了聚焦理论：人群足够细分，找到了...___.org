@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/这个项目完美阐释了聚焦理论：人群足够细分，找到了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "这个项目完美阐释了聚焦理论：人群足够细分，找到了..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1747087035360489561
+:image-url: https://pbs.twimg.com/profile_images/583101789483859969/soayV1UA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-16]]
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+这个项目完美阐释了聚焦理论：人群足够细分，找到了垂类市场入口
+
+但难点在于：
+1、如何识别并选择痛点群体（线上找工作体验vs传统找工作体验）
+2、如何找到用户的聚集地，进行快速冷启动
+3、假如我是需求方，我是如何找人的？比如，按地域？那衍生出另一个问题，职业需求有地域性供需差异吗？如果某些区域有集中需求，现行解决方案是什么？得去对比搞明白这些方案，确定哪一类的人会在网上找这类工作
+
+作者一定不是空穴来风拍下脑袋做的，他对于魔术行业有自己的观察和了解，才会发现这个机会。
+
+黄页项目太多了，最早卖广告格子的也好，导航站也罢，核心还是人群需求+聚焦定位<img src='https://pbs.twimg.com/media/GD7mZVhbEAAw2ai.jpg'/> 
+#+END_QUOTE\

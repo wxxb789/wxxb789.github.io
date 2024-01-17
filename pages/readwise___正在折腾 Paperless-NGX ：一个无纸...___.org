@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/正在折腾 Paperless-NGX ：一个无纸...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "正在折腾 Paperless-NGX ：一个无纸..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1740284431494238503
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-09]]
+** 📌 [[2024-01-09]]
+#+BEGIN_QUOTE
+正在折腾 Paperless-ngx ：一个无纸化开源文档管理系统，我计划将家中的所有说明书、票据、发票、合同、重要档案、人情记账本和账单等一概电子化备份存档。更棒的是它还支持 OCR 文本识别，不用再到处找纸质文档而烦恼了。NAS 应用 + 1👏🏻
+ngx https://t.co/lkjOxx8ihz
+GitHub https://t.co/qNTLcx3CFW 
+
+![](https://pbs.twimg.com/media/GCa2cHKbEAAhOX2.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/很多人知道Google Gemini，但觉得质量...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[JefferyTatsuya on Twitter]]
+:full-title: "很多人知道Google Gemini，但觉得质量..."
+:category: [[tweets]]
+:url: https://twitter.com/JefferyTatsuya/status/1743784863197729187
+:image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-07]]
+** 📌 [[2024-01-07]]
+#+BEGIN_QUOTE
+很多人知道Google Gemini，但觉得质量不如ChatGPT，不知道怎么使用。但Gemini是免费的，不用很可惜。
+
+现在可以通过Glarity来释放Gemini，瞬间让这个免费资源一下派上用场了。看下面视频：
+
+1. 在Glarity设置页里，按引导，轻松点击几下就可以配置Gemini模式
+2. 视频和搜索的总结很不错
+
+#Gemini <video controls><source src="https://video.twimg.com/ext_tw_video/1743784617810026496/pu/vid/avc1/486x270/hyHLJ4OhcaYefFed.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1743784617810026496/pu/pl/CiCgrcRQD0l1PFi4.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1743784617810026496/pu/vid/avc1/1296x720/FJsKIWfeV5_ZARn8.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1743784617810026496/pu/vid/avc1/648x360/pdJvoJLGJgbdIZHV.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-07]]
+#+BEGIN_QUOTE
+3. 问答也很正常
+4. 跨语言搜索流程也很顺畅。
+
+这样Glarity的ChatGPT模式和Gemini模式都是免费的。而且Gemini的Context比ChatGPT模式大，对大视频来说总结的更加到位。 
+#+END_QUOTE\
+** 📌 [[2024-01-07]]
+#+BEGIN_QUOTE
+不过要提醒大家，在Gemini模式下，不要打开side-by-side翻译功能，因为Gemini有每小时使用次数限制，而翻译功能的请求特别多，所以容易碰到这个限制。 
+#+END_QUOTE\

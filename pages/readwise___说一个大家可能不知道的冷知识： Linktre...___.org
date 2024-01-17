@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/说一个大家可能不知道的冷知识： Linktre...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[LuoSays on Twitter]]
+:full-title: "说一个大家可能不知道的冷知识： Linktre..."
+:category: [[tweets]]
+:url: https://twitter.com/LuoSays/status/1745958860186329435
+:image-url: https://pbs.twimg.com/profile_images/1735526136405434368/CgtbRyhq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-14]]
+** 📌 [[2024-01-14]]
+#+BEGIN_QUOTE
+说一个大家可能不知道的冷知识：
+
+Linktree 的 MVP 从开发到上线只花了 6 个小时，但是现在 Linktree 已经估值 16 亿美金了。
+
+Stop dreaming, start building。 
+#+END_QUOTE\

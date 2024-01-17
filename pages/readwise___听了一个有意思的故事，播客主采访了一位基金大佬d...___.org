@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/听了一个有意思的故事，播客主采访了一位基金大佬d...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[raycat2021 on Twitter]]
+:full-title: "听了一个有意思的故事，播客主采访了一位基金大佬d..."
+:category: [[tweets]]
+:url: https://twitter.com/raycat2021/status/1744709441411530978
+:image-url: https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-10]]
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+听了一个有意思的故事，播客主采访了一位基金大佬Dan Tapiero。
+此人过去是很传统的对冲基金从业者，为Druckenmiller等多个投资界巨头工作过。
+他说2014年他就多少了解比特币，只觉得这个想法很牛，但不太理解所以然。此后4年多他眼睁睁看着比特币就这么狂涨上去。
+2018年比特币大跌，从近万元回到了4000美元。他觉得机会来了。如果比特币不是归零的话，那么便是打不死的小强。
+于是他在一两个月内开始恶补，从阅读白皮书到听大量的播客。终于对比特币的未来和价值有理解了，自此开始入坑。
+就这个故事感慨一下：超常规投资来自于认知，认知则来自于及时的研究和学习。机会永远都存在，但机会只会留给做足功课的人。
+https://t.co/G1qL0uBQ1s 
+#+END_QUOTE\

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/用 https:__t.co_bIPQQ6SyV...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "用 https://t.co/bIPQQ6SyV..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1747497186412433849
+:image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-17]]
+** 📌 [[2024-01-17]]
+#+BEGIN_QUOTE
+用 https://t.co/bIPQQ6SyVi 来看 Lex 的播客视频非常方便，边看边问，理解加深，效率倍增！产品要是再增加手工 Highlight 和 Notes 功能，就更方便了，直接把自己的思考和 AI 的生成混合起来存入“外脑”，以便未来的自己快速访问😄 
+
+![](https://pbs.twimg.com/media/GEBbU9nb0AAlgUA.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/下一步谁来把这个SoM性能提高，然后通用视觉的大...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[JefferyTatsuya on Twitter]]
+:full-title: "下一步谁来把这个SoM性能提高，然后通用视觉的大..."
+:category: [[tweets]]
+:url: https://twitter.com/JefferyTatsuya/status/1745338428932403301
+:image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-11]]
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+下一步谁来把这个SoM性能提高，然后通用视觉的大量应用就可以释放出来。
+
+SoM利用了SAM对图像进行预先分割和标记，对图像中的每一个物品都进行编号，然后再喂给GPT4V，发现可以极大增强GPT4V的识别能力，甚至可以实现例如识别谷歌图片验证码，玩马里奥游戏等能力
+
+https://t.co/EBYRX80igF <video controls><source src="https://video.twimg.com/ext_tw_video/1745337760490418176/pu/vid/avc1/922x720/xbEBllLuDvxYR3QH.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1745337760490418176/pu/pl/U-PaZNfaUckb4rKF.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1745337760490418176/pu/vid/avc1/346x270/06jG34tjjYoYouJd.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1745337760490418176/pu/vid/avc1/460x360/euVVgYcW2a1sLtDI.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+原来所有的计算机视觉专家模型，都归零了。用SoM能做通用的事情。
+
+这就是像GPT出来后，原来各种专家NLG模型也都归零了。 
+
+![](https://pbs.twimg.com/media/GDivsaLa4AAnU3f.jpg) 
+
+![](https://pbs.twimg.com/media/GDivsbubMAA88XW.jpg) 
+
+![](https://pbs.twimg.com/media/GDivscvaAAAbaEZ.jpg) 
+
+![](https://pbs.twimg.com/media/GDivsdwaMAAM2Mp.jpg) 
+#+END_QUOTE\

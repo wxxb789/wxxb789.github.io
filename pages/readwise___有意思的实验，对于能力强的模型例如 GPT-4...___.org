@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/有意思的实验，对于能力强的模型例如 GPT-4...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "有意思的实验，对于能力强的模型例如 GPT-4..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1746322853387960570
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-14]]
+** 📌 [[2024-01-14]]
+#+BEGIN_QUOTE
+有意思的实验，对于能力强的模型例如 GPT-4 ，有些格式并非必要的 
+#+END_QUOTE\
+** 📌 [[2024-01-14]]
+#+BEGIN_QUOTE
+对于能力强的模型，格式并没有那么重要，但是few-shot和CoT（链式思考）的作用无论是能力一般的模型还是能力强的模型，都是很有价值的。
+
+我以前分享过一篇《如何写出高质量的 Prompt？》
+
+将写提示词分成了几个阶段：
+
+一、基础用法，直接输入你希望的指令。
+就是你想让 AI 完成什么任务就自然语言写就完了，这基本上可以解决绝大部分问题
+
+二、进阶用法，few-shot
+提供一到多个示例，通过示例来让 GPT 按照你期望的格式输出
+
+三、高级用法，链式思考（分多步做）+ 慢思考（打印每一步的结果）
+就比如我的翻译Prompt，就是将翻译拆分成2-3步，并且打印每一步结果，得到较好质量的翻译
+
+《如何写出高质量的 Prompt？》https://t.co/SfGHYPf9TR
+《我试验了高级 AI 提示词的效果，结论：它们并不值得 [译]》https://t.co/ZtJ5YMLLpL 
+#+END_QUOTE\

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/周末 Polish 了一下我们的新玩具，基于 L...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[yadong_xie on Twitter]]
+:full-title: "周末 Polish 了一下我们的新玩具，基于 L..."
+:category: [[tweets]]
+:url: https://twitter.com/yadong_xie/status/1746779337658183847
+:image-url: https://pbs.twimg.com/profile_images/1333285196825673728/j8v0PvXM.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-16]]
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+周末 polish 了一下我们的新玩具，基于 Lepton AI 不到 500 行代码就可以实现 perplexity 的效果，这就是 Build AI The Simple Way
+
+https://t.co/QpHeGI4wb3
+
+只有一台开发机，访问不了多试几次 
+
+![](https://pbs.twimg.com/media/GD3ORJ_bsAEd5Yr.jpg) 
+#+END_QUOTE\

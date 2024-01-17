@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/\#独立开发  Sass模板真是独立开发神器好用啊...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[shengxj1 on Twitter]]
+:full-title: "\#独立开发  Sass模板真是独立开发神器好用啊..."
+:category: [[tweets]]
+:url: https://twitter.com/shengxj1/status/1744078257853448622
+:image-url: https://pbs.twimg.com/profile_images/1688110986799271936/Pyt9pQSf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-08]]
+** 📌 [[2024-01-08]]
+#+BEGIN_QUOTE
+#独立开发 
+sass模板真是独立开发神器好用啊，俩个小时，登录，邮件，定价页面，聊天，支付，博客，部署啥都有了 ，后端直接默认对接supabase（我还没有stripe账号, 以后再搞支付）
+2024做个Vue的版本卖钱看起来是个不错的生意
+付费：https://t.co/QnUYtzzyGk
+免费：https://t.co/N9xbomKNZh 
+
+![](https://pbs.twimg.com/media/GDQ13DsXMAANyM5.jpg) 
+#+END_QUOTE\

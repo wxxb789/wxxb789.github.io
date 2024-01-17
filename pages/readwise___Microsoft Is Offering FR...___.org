@@ -1,0 +1,101 @@
+:PROPERTIES:
+:title: readwise/Microsoft Is Offering FR...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[akshay_pachaar on Twitter]]
+:full-title: "Microsoft Is Offering FR..."
+:category: [[tweets]]
+:url: https://twitter.com/akshay_pachaar/status/1742886111456989218
+:image-url: https://pbs.twimg.com/profile_images/1578327351544360960/YFpWSWIX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-07]]
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+Microsoft is offering FREE courses in following areas:
+
+\- AI
+- IOT
+- Data Science
+- Machine Learning
+
+A project-based pedagogy that allows you to learn while building! 🚀
+
+Read More ...👇 
+
+![](https://pbs.twimg.com/media/GC_5rlMacAAIkI1.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+1️⃣ AI for beginners
+
+A 12-week, 24-lesson curriculum all about Artificial Intelligence.
+
+You'll learn about:
+\- Neural Nets
+- Deep Learning
+- Knowledge representation
+- Genetic Algorithms & multi-agent systems
+
+Check this out 👇
+https://t.co/CMlsTfqfqk 
+
+![](https://pbs.twimg.com/media/GC_5sGsakAAzPKK.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+2️⃣ IOT
+
+Learn about IOT by doing project that cover the journey of food from farm to table.
+
+This includes farming, logistics, manufacturing, retail and consumer - all popular industry areas for IoT devices.
+
+Check this out 👇
+https://t.co/zj4Eiu82ZK 
+
+![](https://pbs.twimg.com/media/GC_5s5BacAAaXVb.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+3️⃣ Machine Learning
+
+A great course on classical machine learning, using Scikit-learn!
+
+Check this out👇 https://t.co/uJoCNkJOtB <video controls><source src="https://video.twimg.com/tweet_video/GC_5tqyaYAAeSho.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+4️⃣ Data Science
+
+This course covers Deep Learning & Data Science in more details!
+
+Each lesson includes:
+\- hands-on assignments
+- pre & post-lesson quizzes
+- instructions to complete the lesson & solutions
+
+Check this out👇
+https://t.co/QbivVp8hIC 
+
+![](https://pbs.twimg.com/media/GC_5udebwAA8xy0.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+That's a wrap!
+
+If you interested in:
+
+\- Python 🐍
+- ML/MLOps 🛠
+- CV/NLP 🗣
+- LLMs 🧠
+- AI Engineering ⚙️
+
+Find me → <a href="https://twitter.com/akshay_pachaar">@akshay_pachaar</a> ✔️
+Everyday, I share tutorials on above topics!
+
+Cheers! 
+#+END_QUOTE\

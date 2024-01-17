@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Blending Is All You Need...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "Blending Is All You Need..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1744765981270950343
+:image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-10]]
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+Blending Is All You Need
+
+Based on the last month of LLM research papers, it's obvious to me that we are on the verge of seeing some incredible innovation around small language models.
+
+Llama 7B and Mistral 7B made it clear to me that we can get more out of these small language models on tasks like coding and common sense reasoning.
+
+Phi-2 (2.7B) made it even more clear that you can push these smaller models further with curated high-quality data. 
+
+What's next? More curated and synthetic data?  Innovation around Mixture of Experts and improved architectures? Combining models? Better post-training approaches? Better prompt engineering techniques? Better model augmentation? 
+
+I mean, there is just a ton to explore here as demonstrated in this new paper that integrates models of moderate size (6B/13B) which can compete or surpass ChatGPT performance.  
+
+https://t.co/8fLpjcclpz<img src='https://pbs.twimg.com/media/GDaiU_RWkAcPf12.jpg'/> 
+#+END_QUOTE\

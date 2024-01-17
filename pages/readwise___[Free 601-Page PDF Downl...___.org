@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/[Free 601-Page PDF Downl...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[KirkDBorne on Twitter]]
+:full-title: "[Free 601-Page PDF Downl..."
+:category: [[tweets]]
+:url: https://twitter.com/KirkDBorne/status/1743079514014470299
+:image-url: https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-07]]
+** 📌 [[2024-01-05]]
+#+BEGIN_QUOTE
+[Free 601-page PDF download] Mathematical Introduction to #DeepLearning — Methods, Implementations, and Theory: https://t.co/jxW43uTdJG
+————
+#AI #Mathematics #BigData #DataScience #Algorithms #MachineLearning #Calculus #LinearAlgebra #DataScientists 
+
+![](https://pbs.twimg.com/media/GDCpkv5W0AAC1ih.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/我说咋和 Uptime Kuma 风格一模模一样...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "我说咋和 Uptime Kuma 风格一模模一样..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1747037446078972097
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-16]]
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+我说咋和 Uptime Kuma 风格一模模一样呢，原来作者的新作：Dockge ，一个精美且易于使用的 docker compose.yaml 堆栈管理器。https://t.co/1URKrVyhXh
+Dockge是Portainer的平替吗？
+Dockge 专注于使用更好的用户界面和体验来处理docker-compose。如果您只想用docker-compose来管理容器，答案是肯定的 
+
+![](https://pbs.twimg.com/media/GD4vPt4aUAAKzq1.jpg) 
+
+![](https://pbs.twimg.com/media/GD4vSs8acAA4-gh.jpg) 
+
+![](https://pbs.twimg.com/media/GD4vT0PacAAhvLB.jpg) 
+
+![](https://pbs.twimg.com/media/GD4vVcNaQAAXAfi.jpg) 
+#+END_QUOTE\

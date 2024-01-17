@@ -1,0 +1,63 @@
+:PROPERTIES:
+:title: readwise/Awesome Quant | 神器博客
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[heheapp.com]]
+:full-title: "Awesome Quant | 神器博客"
+:category: [[articles]]
+:url: https://heheapp.com/hello-world/
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-16]]
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+书籍
+
+•   [My Life as a Quant: Reflections on Physics and Finance](http://www.amazon.com/My-Life-Quant-Reflections-Physics/dp/0470192739) - In My Life as a Quant, Emanuel Derman relives his exciting journey as one of the first high-energy particle physicists to migrate to Wall Street.
+•   [量化交易](https://book.douban.com/subject/25878150/) - Ernest P. Chan撰写的量化投资理论
+•   [量化投资与对冲基金丛书：波动率交易](https://book.douban.com/subject/25711100/)
+•   [Following the Trend](https://book.douban.com/subject/19990593/)
+•   [Statistical Inference](https://book.douban.com/subject/1464795/) - 统计推断入门
+•   [All of Nonparametric Statistics](https://book.douban.com/subject/4251603/) - 非参统计入门
+•   [The Elements of Statistical Learning](https://book.douban.com/subject/3294335/) - Data Mining, Inference, and Prediction
+•   [Analysis of Financial Time Series](https://book.douban.com/subject/4719140/) - Ruey S. Tsay 的时间序列分析
+•   [Options, Futures, and Other Derivatives](https://book.douban.com/subject/6127888/) - 期权期货等衍生品 
+#+END_QUOTE\
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+论文
+
+•   [awesome-quant/papers.md](https://github.com/thuquant/awesome-quant/blob/master/papers.md) 
+#+END_QUOTE\
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+值得关注的信息源
+
+•   [Quantitative Finance arxiv](https://arxiv.org/archive/q-fin)
+•   [雪球工程师1号](http://xueqiu.com/engineer) - 财经社交网络雪球的量化相关账号。
+•   [Ricequant量化](http://xueqiu.com/ricequant) - Ricequant量化平台的雪球账号。
+•   [量化哥-优矿Uqer](http://xueqiu.com/4105947155) - 优矿Uqer量化平台的雪球账号。
+•   [宽客 (Quant) - 索引 - 知乎](https://www.zhihu.com/topic/19557481)
+•   量化投资与机器学习 - 微信公众号
+•   THU量协 - 微信公众号
+•   优矿量化实验室 - 微信公众号
+•   Ricequant - 微信公众号
+•   鲁明量化全视角 - 微信公众号 
+#+END_QUOTE\
+** 📌 [[2024-01-16]]
+#+BEGIN_QUOTE
+政策
+
+•   [中国证券监督管理委员会](http://www.csrc.gov.cn/pub/newsite/)
+•   [考试报名-中国证券业协会](http://www.sac.net.cn/cyry/kspt/ksbm/) - 证券从业资格报名
+•   [中国证券投资基金业协会](http://www.amac.org.cn/) - 内有相关法规教育和从业资格报名入口
+•   [大连商品交易所](http://www.dce.com.cn/)
+•   [上海期货交易所首页](http://www.shfe.com.cn/)
+•   [郑州商品交易所网站](http://www.czce.com.cn/portal/index.htm)
+•   [上海证券交易所](http://www.sse.com.cn/)
+•   [深圳证券交易所](http://www.szse.cn/) 
+#+END_QUOTE\

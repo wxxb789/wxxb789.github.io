@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/\#工程师学习 看到编程 Roadmap 网上新出...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#工程师学习 看到编程 Roadmap 网上新出..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1743785015685927188
+:image-url: https://pbs.twimg.com/profile_images/1540397753586528256/SFkyn7LD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-07]]
+** 📌 [[2024-01-07]]
+#+BEGIN_QUOTE
+#工程师学习 看到编程 Roadmap 网上新出了一个 AI and Data Scientist Roadmap，也即 AI 和数据科学的学习路线图，给出一个脑图，你可以按照他的路线去系统学习，同时可以找到其他你感兴趣的学科学习路线图。
+🤖 https://t.co/Oc4NTnMe7W 
+
+![](https://pbs.twimg.com/media/GCw76WoakAAwsh4.jpg) 
+#+END_QUOTE\

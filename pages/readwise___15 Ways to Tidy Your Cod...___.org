@@ -1,0 +1,44 @@
+:PROPERTIES:
+:title: readwise/15 Ways to Tidy Your Cod...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[alexxubyte on Twitter]]
+:full-title: "15 Ways to Tidy Your Cod..."
+:category: [[tweets]]
+:url: https://twitter.com/alexxubyte/status/1744619169587531843
+:image-url: https://pbs.twimg.com/profile_images/1524184008635998209/vOSCJXuk.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-10]]
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+15 Ways to Tidy Your Code
+
+I recently finished the book "Tidy First" by <a href="https://twitter.com/KentBeck">@KentBeck</a> . It's an absolute masterpiece, and I strongly recommend it to others.
+
+In the first part, it provides 15 ways to tidy your code.
+1. Guard Clauses
+2. Dead Code
+3. Normalize Symmetries
+4. New Interface, Old Implementation
+5. Reading Order
+6. Cohesion Order
+7. Move Declaration and Initialization Together
+8. Explaining Variables
+9. Explaining Constants
+10. Explicit Parameters
+11. Chunk Statements
+12. Extract Helper
+13. One Pile
+14. Explaining Comments
+15. Delete Redundant Comments
+
+In the second and third parts, it delves deeply into the tidying process and theory.
+
+It's a short book, and I read it cover to cover, taking only about 2 hours (bonus).
+
+If you are interested, you can check out the book here: https://t.co/naUGhYi9TN<img src='https://pbs.twimg.com/media/GDYhqKDasAEE31a.jpg'/> 
+#+END_QUOTE\

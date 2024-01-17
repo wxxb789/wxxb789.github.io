@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: readwise/GPTsTop100深度体验分析报告 根据这份...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xiaohuggg on Twitter]]
+:full-title: "GPTsTop100深度体验分析报告 根据这份..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaohuggg/status/1745421998963183773
+:image-url: https://pbs.twimg.com/profile_images/1721488863603118080/VJBC4Z7L.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-12]]
+** 📌 [[2024-01-12]]
+#+BEGIN_QUOTE
+GPTsTop100深度体验分析报告
+
+根据这份报告来看，目前GPTs的使用量非常小，大家基本还在同一起跑线，机会还很多。
+
+\- Chats超过1000的GPTs，共458个
+
+- Top100 为头部 GPTs，门槛是 5.2k Chats
+
+- Top20 为顶级 GPTs，门槛是 20.2k Chats
+
+- Top20中，40%调用了action，Top100中，25%调用了 action
+
+数据洞见：
+
+- 顶级插件（Plugin）玩家和顶级GPTs玩家（Top20）具有较高重合度，这里包括：
+
+Ai PDF
+AskYourPDF
+ScholarAI
+WebPilot
+
+- 在 Top100 的 GPTs 中，中文和日文是除英文外最大的两种语言。
+
+- 中文有6款：AI算命，科技文章翻译，小红书写作专家，GPTs查找，提示精灵小富贵（Prompt Pet），英文翻译专家
+
+- 日文有5款：Paper Interpreter (Japanese)，スーパーロゴデザイナ「ロゴ作る君」，私立GPT北高校｜GPT North High School，孫子 - saysay ai，日本語ChatGPT
+
+- 在Top100 的 GPTs 中，最大的类目是「GPTs 查找与推荐」，有12个
+
+目前来看，ChatGPT 生态的隐形冠军是 WebPilot
+
+Top1 Plugin，按份额
+Top1 Action，按份额
+Top20 GPTs，按 Chats 排序
+
+作者：椒盐玉兔
+详细下载报告：https://t.co/nwNYK98Tdh<img src='https://pbs.twimg.com/media/GDj73SCbEAAhkE3.jpg'/> 
+#+END_QUOTE\

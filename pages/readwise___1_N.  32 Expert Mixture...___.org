@@ -1,0 +1,58 @@
+:PROPERTIES:
+:title: readwise/1_N.  32 Expert Mixture...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[IntuitMachine on Twitter]]
+:full-title: "1/N.  32 Expert Mixture..."
+:category: [[tweets]]
+:url: https://twitter.com/IntuitMachine/status/1744697518305231014
+:image-url: https://pbs.twimg.com/profile_images/1740015728105832448/fRPNehGE.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-10]]
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+1/n.  32 expert Mixture of Expert (Moe) model using Mamba achieves impressive results!
+
+A recent paper ("MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts"_ proposes combining the efficient sequence modeling of Mamba architecture with the scaling benefits of Mixture of Experts (MoE). Specifically, it introduces MoE-Mamba which interleaves Mamba layers with MoE feedforward layers. Experiments compare MoE-Mamba against Transformer, vanilla Mamba, and Transformer-MoE baselines.
+
+A key result is that MoE-Mamba with 32 experts significantly outperforms other models, achieving the same performance as vanilla Mamba in just 46% of training steps. This demonstrates that integrating Mamba with MoE improves efficiency over using either technique alone. Further analysis reveals that performance continues improving as more experts are added, with 32 experts striking the right balance between specialization and data availability.
+
+The strengths of 32 expert MoE-Mamba include state-of-the-art results, faster training convergence, and retaining Mamba's computational performance. This shows the promise of combining selective state space models with conditional computation like MoE for better sequence modeling. While limitations remain around model scale and design choices, the paper delivers very promising initial results.
+
+In conclusion, using 32 expert MoE-Mamba provides both strong performance and improved efficiency. The results indicate that complementary approaches of sparse models and efficient architectures can advance the field towards more capable and scalable sequence learning. Further work is warranted in this direction to fully unlock this potential. 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+2/n The paper reports the best performance with MoE-Mamba using 32 experts. Some key details:
+
+\- MoE-Mamba with 32 experts achieves a loss of 3.41 after 100k steps
+- This is lower than all other models - 46% faster time to match vanilla Mamba's loss
+- MoE enables scaling up models leading to better performance
+- With more experts, each one likely learns to specialize better
+- Routing algorithm can effectively assign tokens to suitable expert
+
+Potential reasons for 32 experts working best:
+
+- More experts allows better specialization on different aspects  
+- But too many experts could lead to less data per expert, hindering specialization
+- 32 experts seems to strike a balance between these factors
+- Also leads to sufficient model capacity to fit the data better 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+3/n Here's the paper: 
+
+![](https://pbs.twimg.com/media/GDZqDsKXIAA9tX7.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+4/n Here's the code: https://t.co/5FOvSl8HAo 
+#+END_QUOTE\
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+5/n Subscribe to my feed to get the latest summaries of the relevant LLM papers! 
+#+END_QUOTE\

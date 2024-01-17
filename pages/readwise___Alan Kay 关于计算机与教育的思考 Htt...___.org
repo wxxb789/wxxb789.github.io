@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/Alan Kay 关于计算机与教育的思考 Htt...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[arui_kisi on Twitter]]
+:full-title: "Alan Kay 关于计算机与教育的思考 Htt..."
+:category: [[tweets]]
+:url: https://twitter.com/arui_kisi/status/1743852364724072890
+:image-url: https://pbs.twimg.com/profile_images/1614818155637145600/vwvpSnEU.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-11]]
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+Alan Kay 关于计算机与教育的思考
+https://t.co/bvWyXBOqEK
+
+终于写完了，这一篇算是对最近一年学习的总结。 
+#+END_QUOTE\

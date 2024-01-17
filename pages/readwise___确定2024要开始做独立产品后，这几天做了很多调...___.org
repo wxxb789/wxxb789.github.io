@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/确定2024要开始做独立产品后，这几天做了很多调...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[shengxj1 on Twitter]]
+:full-title: "确定2024要开始做独立产品后，这几天做了很多调..."
+:category: [[tweets]]
+:url: https://twitter.com/shengxj1/status/1718561351059296456
+:image-url: https://pbs.twimg.com/profile_images/1688110986799271936/Pyt9pQSf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-10]]
+** 📌 [[2024-01-10]]
+#+BEGIN_QUOTE
+确定2024要开始做独立产品后，这几天做了很多调研
+1. 海内外可以白嫖的技术服务，Cloudflare, Vercel, Aircode,zeabur
+2. 用到的开源技术栈，这个我比较熟了，React or Vue+Nest/serverless其实就够了，electron+RN
+3. <a href="https://twitter.com/Cydiar404">@Cydiar404</a> 的帮助下给openai充值了，感觉开发各种app有gpt4的助力会好一些
+4. web3相关的技术栈整理了一下
+5. 注册相关账号，支付，统计，表单，客服，邮件啥的 ，感觉还是得注册一个海外的公司  ，12月去趟欧洲转转看
+感觉真有意思，独立开发太好玩了，求推荐其他服务测试<img src='https://pbs.twimg.com/media/F9mOb1LbIAAIPBS.jpg'/> 
+#+END_QUOTE\

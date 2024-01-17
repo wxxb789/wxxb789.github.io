@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: readwise/Grasping the Concept Of...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mdancho84 on Twitter]]
+:full-title: "Grasping the Concept Of..."
+:category: [[tweets]]
+:url: https://twitter.com/mdancho84/status/1745132721641226656
+:image-url: https://pbs.twimg.com/profile_images/815624333926297600/oc0lCoJ7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-11]]
+** 📌 [[2024-01-11]]
+#+BEGIN_QUOTE
+Grasping the concept of P-Values is key to enhancing regression models. Discover in 2 minutes what I learned over 2 years.
+
+1. Understanding the p-value: In statistics, the p-value is a crucial metric used to evaluate the evidence against a null hypothesis.
+
+2. What is the Null Hypothesis (H0)?: It's a baseline assumption that there's no correlation between two observed phenomena or no link between groups. For instance, a specific regressor might not influence the outcome.
+
+3. Exploring the Alternative Hypothesis (H1): This hypothesis is what you're testing against the null. It usually proposes the contrary of H0, like a regressor impacting the outcome.
+
+4. How to Calculate the p-value: Calculating the p-value for each coefficient typically involves the t-test. Here are the key steps involved.
+
+5. Estimating Coefficients: In any regression model, coefficients (β) are estimated for each predictor. These coefficients signify the variation in the dependent variable due to a one-unit change in the predictor, keeping other predictors constant.
+
+6. The Standard Error of the Coefficient: This standard error measures how well a sample reflects a population. In regression, it's about the variability in the estimated coefficient.
+
+7. The Test Statistic (T): For each coefficient in your model, the test statistic (t-value) is derived by dividing the Coefficient Estimate by its Standard Error.
+
+8. Determining Degrees of Freedom: The degrees of freedom (df) for the test are calculated as the total number of observations minus the number of estimated parameters (including intercept).
+
+9. Process of P-Value Calculation: This involves comparing the t-value against the t-distribution with the appropriate degrees of freedom. The p-value is then found from the area under the curve of the t-distribution, beyond your t-value.
+
+10. Making Sense of the P-Value: Generally, a p-value ≤ 0.05 suggests a low likelihood of such data occurring if the null hypothesis were true, indicating a significant influence of the predictor in your model.
+
+Now, there's a lot more to becoming a business data scientist. If interested, read on...
+
+===
+
+Ready to learn Data Science for Business?
+
+I put together a free on-demand workshop that covers the 10 skills that helped me make the transition to Data Scientist: https://t.co/LR39RJ5XKB
+
+And if you'd like to speed it up, I have a live workshop where I'll share how to use ChatGPT for Data Science: https://t.co/EaMpKrJiqX
+
+If you like this post, please reshare ♻️ it so others can get value.<img src='https://pbs.twimg.com/media/GDfzQ0kWMAAMn_5.jpg'/> 
+#+END_QUOTE\

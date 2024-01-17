@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/初学者如何更好地理解某个编程概念 在 Http...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "初学者如何更好地理解某个编程概念 在 Http..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1744255324947988640
+:image-url: https://pbs.twimg.com/profile_images/1735561740136681472/b3-0se7w.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-09]]
+** 📌 [[2024-01-09]]
+#+BEGIN_QUOTE
+初学者如何更好地理解某个编程概念
+
+在 https://t.co/AgfDhVEASK 中，可以使用下面的模式来进行搜索：
+
+explain [想要了解的主题] like I'm 5
+
+比如说，现在想要了解 goroutine 相关的概念，就可以搜索：explain goroutine like I'm 5
+
+未来会把这个专门做成一种 context mode。 
+
+![](https://pbs.twimg.com/media/GDTW2AibgAAxuQ6.jpg) 
+#+END_QUOTE\
