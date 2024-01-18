@@ -1,0 +1,116 @@
+:PROPERTIES:
+:title: readwise/Rag 应该是最近最火的技术之一 下面是我最近...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[JefferyTatsuya on Twitter]]
+:full-title: "Rag 应该是最近最火的技术之一 下面是我最近..."
+:category: [[tweets]]
+:url: https://twitter.com/JefferyTatsuya/status/1747784030358233114
+:image-url: https://pbs.twimg.com/profile_images/1088218171083878400/cdo7t7mw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-18]]
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+RAG 应该是最近最火的技术之一
+
+下面是我最近看到的几个突破性进展，必看🔥：
+
+🔎 更优的检索（ColBert）
+🔄 更优的重排（ColBert）
+✂️ 更优的分块（Sematic Chunking）
+🧮 更优的嵌入（long Monarch）
+🗣️ 更优的提示生成（DSPy）
+🌟 更优的few shot（metadata RAG）
+📊 更优的表格问答（Pandas,SQL） 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+1️⃣🔎 更好的检索
+
+ColBERT 检索模型现在易于使用！而且海量文档也不影响它的速度
+
+为什么它比其他人工智能方法返回更好的结果、更快
+
+https://t.co/EMqicnqrzR 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+现在，ColBert可以很容易地用于检索： https://t.co/Fj3PaC4i2L 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+2️⃣🔄更好的重排
+
+ColBERT用于重排
+
+https://t.co/rQPCotUHJf 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+3️⃣✂️ 更好的分块
+如何分割长文档是保留其含义的关键
+
+基于文本内容的语义分块 
+
+https://t.co/9yNaNhLwm3
+https://t.co/NjyO1xppmn 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+Programming-language -specific chunking:特定于编程语言的分块：
+https://t.co/5jehL6f2dg 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+4️⃣🧮 Better embeddings 更好的嵌入
+
+将块转化为嵌入，然后检索
+
+使用 Monarch Mixer 进行长文档检索，序列长度高达 32K
+
+https://t.co/fapbg02BwY 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+<a href="https://twitter.com/togethercompute">@togethercompute</a> 有API
+ https://t.co/fnxTwka9ys
+
+https://t.co/1L9SuzrNrg 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+5️⃣🗣️ Better prompting 更好的提示
+
+使用 DSPy 创建更好的 RAG 提示和链。 许多工作将在这里进行。
+https://t.co/NUlvJUoAI2
+
+https://t.co/4iBROKQs92 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+关于DSPy和ColBert的一个详细的对话
+
+Omar对DSPy和ColBERT进行了非常清晰的解释，并分享了对人工智能现状的看法🎙️
+
+https://t.co/HzDVWHuOy0 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+6️⃣🌟动态元数据检索
+
+使用 RAG 来获取少样本示例，给prompt当做few shot，大大提高LLM生成的稳定性
+
+https://t.co/6ILFZndHih 
+#+END_QUOTE\
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+7️⃣📊 更好的表格问答 QA over Tabular Data
+
+更多的技术引入，让表格的理解和问答变得更加的精准
+
+https://t.co/IGx2EkDkHu 
+#+END_QUOTE\

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise/前几天看到哪里在聊现在除了 Express_Ko...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "前几天看到哪里在聊现在除了 Express/Ko..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1747795830923477431
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-18]]
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+前几天看到哪里在聊现在除了 express/koa 这两个老古董还有什么快速上手的 node 框架？我来推荐两个我本人用过的：
+
+第一个是 Nitro
+
+https://t.co/w6ZTDrAF4B
+
+它就是 nuxt 服务器端使用的框架，基于更底层的 h3，虽然是非常 opinionated 的框架。但是真的很舒服，写代码很快。我最近就在用它写课程。
+比如：
+* TS 支持
+* 极简设计
+* 文件路由
+* 全局自动导入
+
+第二个是 Hono
+
+https://t.co/HOhjlo1pqi
+
+主打超快速，API 极简，Typescript 支持，我浅用了一下，语法特别简单，有 express 基础的上手特别快，还有很多内置的 helper / JSX / 验证/ 测试的支持，一般后端项目需要的也都差不多有。
+
+Stars： 10.3K<img src='https://pbs.twimg.com/media/GEFqzL9bgAAQyTZ.jpg'/><img src='https://pbs.twimg.com/media/GEFqzL9bsAAkzRD.jpg'/> 
+#+END_QUOTE\

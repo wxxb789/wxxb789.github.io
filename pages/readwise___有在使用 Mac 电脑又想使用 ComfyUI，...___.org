@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/有在使用 Mac 电脑又想使用 ComfyUI，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[thinkingjimmy on Twitter]]
+:full-title: "有在使用 Mac 电脑又想使用 ComfyUI，..."
+:category: [[tweets]]
+:url: https://twitter.com/thinkingjimmy/status/1747558242220453986
+:image-url: https://pbs.twimg.com/profile_images/1174337829851107329/NOSu6Ng8.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-18]]
+** 📌 [[2024-01-18]]
+#+BEGIN_QUOTE
+有在使用 Mac 电脑又想使用 ComfyUI，但因为安装困难而放弃的朋友吗？可以试试我们的新产品！
+
+我们最近基于 ComfyUI 二次开发了一款产品，使用功能上与 ComfyUI 一致，但我们对其进行了很多优化：
+
+\- 支持 workflow 管理功能，你可以在此查看你的所有历史 workflow。有了它，你不再需要手动导出保存 workflow。另外，我们还提供了多 tab 功能，让你可以同时打开和运行多个 workflow，提升多任务操作效率。
+- 支持 ComfyUI 没有的模板功能，可以一键使用我撰写的 ComfyUI 教程中提供的所有模板。
+- 优化了非常多 ComfyUI 的体验问题，使用起来更方便和简单。
+
+完整介绍可以看这里：https://t.co/9Q8jxd6Nkd
+下载链接：https://t.co/qyBUHU5ptI
+
+对了，目前这个产品也是开源的，欢迎各位 fork 或者一起共建🥰 
+#+END_QUOTE\
