@@ -1,5 +1,5 @@
 * [[book]]
 * [[papers]]
-* [[Reading/web]]
-* [[Reading/微信读书]]
+* [[reading/web]]
+* [[reading/微信读书]]
 *

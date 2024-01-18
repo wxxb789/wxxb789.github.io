@@ -1,0 +1,3 @@
+*
+* 同步微信读书笔记
+** [[https://notepal.randynamic.org/][Notepal - 同步读书笔记 (randynamic.org)]]

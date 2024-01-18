@@ -1,6 +1,6 @@
 * [[course/GeekTime]]
 * [[Course/Pluralsight]]
-* [[Reading/微信读书]]
+* [[reading/微信读书]]
 * [[book]]
 * [[y2b]]
 * [[bilibili]]

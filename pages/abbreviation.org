@@ -1,7 +1,16 @@
 #+alias: abbr,
 
 * abbr is better for file name
-* [[lrn]] is abbr. for [[learning]]
-* [[pl]] is abbr. for [[Programming Language]]
-* [[crse]] is abbr. for [[course]]
-* [[cs]] is abbr. for [[computer science]]
+* [[learning]]
+** [[lrn]]
+* [[Programming Language]]
+** [[pl]]
+:PROPERTIES:
+:id: 65a8d5f3-e947-4424-822c-99f2aabb21d7
+:END:
+* [[course]]
+** [[crse]]
+** [[tutorial]]
+** [[tut]]
+* [[computer science]]
+** [[cs]]

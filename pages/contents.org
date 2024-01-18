@@ -1,14 +1,14 @@
 * [[wxxb/blog]]
 * resources
-** tutorial
-*** [[Generative AI for Beginners by microsoft]]
-*** [[AI for Beginners by microsoft]]
-*** [[Machine Learning for Beginners by microsoft]]
+** [[tutorial]]
+*** [[tut/microsoft/Generative AI for Beginners]]
+*** [[tut/microsoft/AI for Beginners]]
+*** [[tut/microsoft/Machine Learning for Beginners]]
 *** [[Hands-on AI]]
 *** [[OpenAI Cookbook]]
 *** [[OpenAI Blog]]
 *** [[deeplearning.ai/ShortCourses]]
-** visualization
+** [[visualization]]
 *** [[https://bbycroft.net/llm][LLM Visualization (bbycroft.net)]]
 ** [[papers]]
 *** [[https://trendingpapers.com/papers?o=pagerank_growth&pd=Since+beginning&cc=Cited+and+uncited+papers&c=All+categories][Trending Papers]]
@@ -18,7 +18,7 @@
 *** [[https://www.youtube.com/@AndrejKarpathy][Andrej Karpathy - YouTube]]
 ** [[talks]]
 *** [[https://www.youtube.com/watch?v=zjkBMFhNj_g][[1hr Talk] Intro to Large Language Models]]
-** [[Book]]
+** [[book]]
 *** [[book/这就是ChatGPT]]
 ** [[Book/Early Access]]
 *** [[Build a Large Language Model (From Scratch)]]
@@ -38,3 +38,4 @@
 * [[podcast]]
 ** [[https://podfest.tech/zh-CN][2023技术播客节 (podfest.tech)]]
 * chore
+*
