@@ -1,5 +1,7 @@
 #+alias: 咒语,
 
+* resources
+**
 * techniques
 ** [[zero-shot]]
 ** [[few-shot]]
@@ -15,4 +17,5 @@
 ** [[ReAct]]
 ** [[Multimodal CoT]]
 ** [[GraphPrompts]]
+*
 *

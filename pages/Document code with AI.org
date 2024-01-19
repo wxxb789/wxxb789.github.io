@@ -1,0 +1,21 @@
+#+tags: prompt,
+
+* prompt 1st
+#+begin_quote
+Document every function in this code.
+Use the reStructuredText format for the docstrings.
+Do not modify the file, just insert the docstrings.
+
+Here is the code:
+
+"""
+{paste code here}
+"""
+#+end_quote
+
+* prompt 2nd
+#+begin_quote
+First extract the docstrings you generated in the previous reply.
+Then take the code  I provided at the beginning and add these docstrings into it.
+Under no circumstance omit any code for brevity.
+#+end_quote
