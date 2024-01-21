@@ -26,7 +26,7 @@
 * [[GPTs]]
 ** [[https://github.com/linexjlin/GPTs][linexjlin/GPTs: leaked prompts of GPTs (github.com)]]
 ** [[https://www.gptsurl.com/][Discover the GPTs Store by OpenAI | GPTsURL - Share and search GPTs url to use ChatGPT]]
-* tools
+* [[tools]]
 ** [[https://devv.ai/zh][Devv]]
 ** [[https://float32.app/][float32]]
 ** [[https://www.phind.com/][Phind]]

@@ -1,1 +1,4 @@
-* [[https://ast-grep.github.io/][ast-grep | structural search/rewrite tool for many languages]]
+#+tags: tools,
+
+* [[https://ast-grep.github.io/][ast-grep]]
+*
