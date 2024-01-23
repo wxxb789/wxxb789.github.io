@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/我瞅瞅大家用的什么方案搭建博客，总结一下： -...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "我瞅瞅大家用的什么方案搭建博客，总结一下： -..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1748599800185200856
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-20]]
+** 📌 [[2024-01-20]]
+#+BEGIN_QUOTE
+我瞅瞅大家用的什么方案搭建博客，总结一下：
+\- Hugo、Hexo、WordPress、NotionNext + Vercel、Typecho、GitHub Page 嗯，这都是目前主流方案了吧。
+原贴 https://t.co/L3JTmQdaur 
+
+![](https://pbs.twimg.com/media/GEREwt6acAMokCI.jpg) 
+#+END_QUOTE\

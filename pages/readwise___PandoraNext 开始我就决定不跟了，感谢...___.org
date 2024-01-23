@@ -1,0 +1,76 @@
+:PROPERTIES:
+:title: readwise/PandoraNext 开始我就决定不跟了，感谢...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xinzhi on Twitter]]
+:full-title: "PandoraNext 开始我就决定不跟了，感谢..."
+:category: [[tweets]]
+:url: https://twitter.com/xinzhi/status/1749656986202087786
+:image-url: https://pbs.twimg.com/profile_images/1608452781832306688/axxoOIal.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-23]]
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+PandoraNext 开始我就决定不跟了，感谢作者对 AI 民主做出的贡献。
+
+分享一下我在 macOS 上的平替方案，基于 POE Bot+Automator/Shortcuts+Safari，从本地读取文件，通过剪切板发送到 Safari，获取状态并将结果保存到本地，模拟 API 请求获取结果的过程。
+
+方案稳定使用超过半年，手拉手白朴教程： / 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+一、根据个人需求定制 https://t.co/PTbRPauwdW Bot，Prompt 要求返回内容使用 Code 包裹，这样可以方便使用「复制代码」按钮一键保存目标内容到本地。这一步需要多次调试结果稳定输出，一般通过提示词反复强调洗脑再给个样板就可以；防止上下文会话干扰结果，可以每次对话都开启一个副本，阅后即焚。\ 
+
+![](https://pbs.twimg.com/media/GEf99fpbQAAbgr_.jpg) 
+
+![](https://pbs.twimg.com/media/GEf-YZqb0AAr0pQ.jpg) 
+
+![](https://pbs.twimg.com/media/GEf-5XJbkAAi5x1.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+二、Am/捷径自动化操作，Am 模拟键盘操作、通过 Safari 运行 Javascript，捷径可以调用 OCR 获取屏幕内容判断状态。
+
+根据 POE 页面获取标题含「新建聊天」即对话进行中，等待完成后点击「复制」按钮。
+
+代码简单到只有几行，都是 ChatGPT 生成，不需要自己写。
+
+完整代码：
+https://t.co/drozklIIYl \ 
+
+![](https://pbs.twimg.com/media/GEgA_nGbIAAsYq1.jpg) 
+
+![](https://pbs.twimg.com/media/GEgBdgGbUAAgWUp.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+三、循环进行内容读取、处理、保存过程，以上处理过程反复独立运行即可，不涉及逻辑，内容读取和保存也可以通过捷径实现，通过系统设置、Raycast 绑定快捷键，方便 Am 模拟键盘调用，可以完全手动灵活运用，也可以全自动。
+
+捷径参考：
+读取：
+https://t.co/zODCh2ps2Q
+保存：
+https://t.co/fpt6HKs5W6 
+
+![](https://pbs.twimg.com/media/GEgFJ0KaMAAWg_e.jpg) 
+
+![](https://pbs.twimg.com/media/GEgFLEbbQAA__mT.jpg) 
+
+![](https://pbs.twimg.com/media/GEgFrysb0AAl9KD.jpg) 
+
+![](https://pbs.twimg.com/media/GEgF2keaoAAbnNh.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+以上就是我的平替方案了，完全可视化运行，维护超简单，如果有问题可以私信交流。如果你觉得内容对你有用，万一可能想要表示一下感谢，这里是收款码（微信小号：toc0707） https://t.co/4XQh5Ykn1j： 
+
+![](https://pbs.twimg.com/media/GEgG-_cbwAA6Ucx.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+视频演示： <video controls><source src="https://video.twimg.com/ext_tw_video/1749660765349658624/pu/vid/avc1/320x458/0f0kJNd4QDUHVOc-.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749660765349658624/pu/pl/h1IkfM6wo-WRFAND.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1749660765349658624/pu/vid/avc1/480x688/1Qiog6xLw1csGKWD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749660765349658624/pu/vid/avc1/720x1032/J8o2QwXZ5fW-Kt-R.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

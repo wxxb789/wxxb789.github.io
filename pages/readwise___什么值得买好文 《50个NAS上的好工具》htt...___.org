@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/什么值得买好文 《50个NAS上的好工具》htt...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "什么值得买好文 《50个NAS上的好工具》htt..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1749707951378731017
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-23]]
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+什么值得买好文 《50个NAS上的好工具》https://t.co/Uy5BtkjLsy，看了一下，嗯基本都折腾了。
+现在 NAS 上 Portainer 管理 Docker 没有更新提示，这篇文章中有两个工具 Watchtower & What's Up Docker 可以实现，抽时间弄弄。
+https://t.co/tHI0C2BOAk
+https://t.co/N31Wo1bDPx 
+
+![](https://pbs.twimg.com/media/GEg1WrHaMAAbg15.jpg) 
+#+END_QUOTE\

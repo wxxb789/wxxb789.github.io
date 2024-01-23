@@ -1,0 +1,67 @@
+:PROPERTIES:
+:title: readwise/这两天看到的收获很大的一篇论文《AlphaCod...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "这两天看到的收获很大的一篇论文《AlphaCod..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1748503587682967775
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-20]]
+** 📌 [[2024-01-20]]
+#+BEGIN_QUOTE
+这两天看到的收获很大的一篇论文《AlphaCodium：引领代码生成新境界，从提示工程到流程工程》，它提出了一种新的生成代码的方法，比传统的直接基于Prompt生成代码的方式准确率更高。
+
+它用的测试集是CodeContests ，这是由 Deepmind 推出的一项挑战性编程数据集。相对来说还是很权威的。以 GPT-4 为例的话，准确率从19%提升到了44%。
+
+它的原理有些复杂，但是如果你有过LeetCode刷题经验，相对比较好理解一些。
+
+普通人刷 LeetCode，上来就做，这样有可能得到答案，也有可能做不出来，这就类似于你把题目直接丢给GPT-4，让它直接给出答案，准确率相对要低一些。
+
+高手刷LeetCode，会有个做题的流程，同样的水平，做出来的概率会大一些。
+高手做题时会大概分成几个步骤：
+1. 先把题目中的要点一条条列出来，确保不会遗漏任何重要信息
+2. 通常LeetCode会提供 1 个或多个测试用例，仔细看测试用例，分析为什么给定的输入能得到给定的输出
+3. 在写代码前，列出几种可能的解决方案，例如暴力算法、递归、动态规划，每一种方案写下思路和伪代码
+4. 对于列出来的几种方案进行评估，选出最佳方案
+5. 可能还会补充一些测试用例帮助事后验证
+\---
+以下部分是迭代过程：
+6. 根据选中的解决方案写代码，如果代码不能运行则修改代码直至能运行
+7. 将代码提交到LeetCode的测试集去验证，如果无法通过所有测试，则修改错误，如果通过到第8步
+8. 用第 5 步生成的测试用例验证代码，如果运行不通过则继续优化代码
+
+这里留个思考题：如果第8步出错，怎么判断是代码有问题还是自己生成的测试用例有问题？
+
+而 AlphaCodium 就是完美遵循了以上的步骤来解题，只不过每一步都是由大语言模型帮助完成！
+
+这给了我一些启示：
+1. 不必寄希望于将复杂的任务在一个 Prompt 中完成，拆分成若干子任务成功概率会高一些
+2. AI 可以借鉴人类的优秀实践，例如高手是如何解决编程难题的，让 AI 按照高手的步骤去一步步做
+3. AI 的潜力还有很大挖掘空间
+
+完整的文章参考：https://t.co/VsUn04h3Ly
+中文译文：https://t.co/k3Ba7t01U1<video controls><source src="https://video.twimg.com/ext_tw_video/1748493089587572736/pu/vid/avc1/432x270/NT4Sr2hpO9kroNxM.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748493089587572736/pu/vid/avc1/1728x1080/dH__63nzcTH-7eJQ.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748493089587572736/pu/pl/AoNDg2AJtQ1wvUTF.m3u8?tag=14&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1748493089587572736/pu/vid/avc1/1152x720/Gnz6C3S-BphAYk4C.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748493089587572736/pu/vid/avc1/576x360/i92LMT9zvwPEziAK.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-20]]
+#+BEGIN_QUOTE
+AlphaCodium的流程图参考
+
+项目源码：https://t.co/Zg50HQEe6d
+Prompt和运行结果参考：https://t.co/9i1otCCmNp 
+
+![](https://pbs.twimg.com/media/GEPvGVsX0AAUF-A.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-20]]
+#+BEGIN_QUOTE
+它的输出格式采用的是YAML而不是JSON，两个原因：
+1. Token更少
+2. 更容易解析，容错率更高 
+
+![](https://pbs.twimg.com/media/GEPwCrrXYAAQ0c-.jpg) 
+#+END_QUOTE\

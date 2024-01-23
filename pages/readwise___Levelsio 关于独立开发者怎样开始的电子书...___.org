@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/Levelsio 关于独立开发者怎样开始的电子书...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "Levelsio 关于独立开发者怎样开始的电子书..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1749247922494161353
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-22]]
+** 📌 [[2024-01-22]]
+#+BEGIN_QUOTE
+Levelsio 关于独立开发者怎样开始的电子书《The indie maker handbook》已经卖了 20000 份，赚了 50万 美金，很好的书，也是很久之前我就读过的书。
+
+https://t.co/dswMQTZklq
+
+他的这本书不依赖任何平台，没有出版社，分销商，就是自己架设一个网站，购买了以后发电子版给用户，也可以通过 Web 阅读，所以100%利润都是自己的，现在这种完全 self publish 的形式也越来越流行，他的这本书是完全电子版，一直有更新，有更新就直接发送给购买的读者，有个网友算了一笔账：
+
+假如这本书在不同平台要赚 50 万美元
+
+* $1.25M self-publishing a paperback on Amazon 在亚马逊自出版纸质书并且卖125万美元
+
+~ $1.4M self-publishing on Kindle  在 Kindle 自出版并且卖 140万美元
+
+~$2.5M self-publishing an audiobook 自出版 audiobook 并且卖 250万美元
+
+ ~ $8-10M going via a traditional publisher 通过传统出版社卖 800万-1000万 美元
+
+可见传统行业的纸质书太不划算了。因为我之前也出版过书，就会发现根本赚不了太多钱。
+
+我不知道国内有没有像他一样，完全不通过各种渠道自己架个网站售卖图书的？ 
+#+END_QUOTE\

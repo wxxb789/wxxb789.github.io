@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/ReFT: Reasoning With Rei...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[iScienceLuvr on Twitter]]
+:full-title: "ReFT: Reasoning With Rei..."
+:category: [[tweets]]
+:url: https://twitter.com/iScienceLuvr/status/1747811782545318138
+:image-url: https://pbs.twimg.com/profile_images/1553508977735962624/nnlSwBmu.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-19]]
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+ReFT: Reasoning with Reinforced Fine-Tuning
+
+abs: https://t.co/zCH2uu0WCl
+
+SOTA for math problem in the past relied on SFT over CoT but many CoT paths could result in correct response. Here, PPO is used to explore other CoT paths and not limit the model to the golden-truth CoT, harming generalization. Note that no reward model is needed since the ground truth for the math problems is given (reward of 1 for correct answer, 0 for incorrect). This approach significantly outperforms plain SFT on a variety of math benchmark tasks.<img src='https://pbs.twimg.com/media/GEF5jFCaoAAFZlC.jpg'/> 
+#+END_QUOTE\

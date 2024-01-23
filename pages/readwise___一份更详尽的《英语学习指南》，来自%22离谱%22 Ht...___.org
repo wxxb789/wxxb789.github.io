@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/一份更详尽的《英语学习指南》，来自"离谱" Ht...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "一份更详尽的《英语学习指南》，来自"离谱" Ht..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1748907435757289610
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-21]]
+** 📌 [[2024-01-21]]
+#+BEGIN_QUOTE
+一份更详尽的《英语学习指南》，来自"离谱" https://t.co/h9oNGf8j0I
+在线阅读：
+🔸GitHub Pages https://t.co/Q0UXlB0hav
+🔸GitBook https://t.co/F5h6UsMqiZ 
+
+![](https://pbs.twimg.com/media/GEVdCwaagAEVVjl.jpg) 
+
+![](https://pbs.twimg.com/media/GEVdSl6bkAAWMsT.jpg) 
+#+END_QUOTE\

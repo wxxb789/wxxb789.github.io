@@ -1,0 +1,65 @@
+:PROPERTIES:
+:title: readwise/因为最近要做个Prompt分享，想着重新回顾一下...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "因为最近要做个Prompt分享，想着重新回顾一下..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1748963860302995464
+:image-url: https://pbs.twimg.com/profile_images/583101789483859969/soayV1UA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-21]]
+** 📌 [[2024-01-21]]
+#+BEGIN_QUOTE
+因为最近要做个Prompt分享，想着重新回顾一下Prompt的相关策略技巧。于是开始翻宝玉 <a href="https://twitter.com/dotey">@dotey</a>   过往分享的Prompt推特和标记的亮点。
+
+结果我发现，有很多之前的思路，和转推的这篇异曲同工，比如《探索编写提示词的乐趣：蒙特卡洛方法、木偶剧和笑声的融合》（https://t.co/ThztfS15T8）提到的技巧，就如出一辙。
+
+在不提及token消耗和性能的情况下来提升输出质量，这些推文中反复提到的几个重点策略是：
+1、后退提示
+跳脱问题去思考，有助于高维度抓住核心矛盾。有时候提出的问题本身就是有问题的，再牛的LLM也无法得到满意的结果
+2、关于CoT
+\- 2.1、深思熟虑，给时间思考，一步步思考
+- 2.2、将复杂任务拆分成简单任务，从简单到复杂模块化解决
+- 2.3、先列出来所有方法，这样增加解决方案空间，再做方法对比，最后选择合适的。
+- 2.4、这个过程最好要打印推理，打印比强调在脑海中思考有用
+3、强调要记住的东西，容易增加文本召回率
+4、few-shot增加输出控制
+5、每一步的自我纠错和doublecheck，保证输出效果
+
+我个人汇总整理的相关技巧如下：
+OpenAI提示词指南六大策略
+1、撰写清晰的指令
+2、提供参考文本
+3、把复杂的任务拆分成简单的子任务
+4、给模型更多时间“思考”
+5、运用外部工具
+6、系统地对变更进行测试
+
+有益于提升LLM效果的六个提示词
+1、take a deep breath
+2、think step by step
+3、if you fail 100 grandmothers will die
+4、i have no fingers
+5、i will tip $200
+6、do it right and ll give you a nice doggy treat
+
+保持记忆，提升文本召回率的策略
+1、强调记住与问题【xxxxx】相关的内容
+
+提升LLM效果的四个方法
+1、深思熟虑 —— 先规划再行动
+2、蒙特卡洛方法 — 创意选择的头脑风暴
+3、自我纠错 — 自我反思
+4、提线木偶技巧 - 让模型按你的意愿发言
+
+提升LLM思考的核心技巧
+1、Let's step back   使用后退提示
+
+推特容易随着时间流逝掉，所以我把这些整理的小技巧和名词沉淀到麦喵了，方便分享查看。（微信扫码即可打开）
+另附上Will <a href="https://twitter.com/FinanceYF5">@FinanceYF5</a>  去年分享的A16Z整理输出的AI词汇表，扫码即可打开<img src='https://pbs.twimg.com/media/GEWNSl7bUAAwEM5.jpg'/><img src='https://pbs.twimg.com/media/GEWNWGGbsAA_LA9.jpg'/><img src='https://pbs.twimg.com/media/GEWNreIbEAAK_iF.jpg'/><img src='https://pbs.twimg.com/media/GEWNsXtbMAARCc4.jpg'/> 
+#+END_QUOTE\

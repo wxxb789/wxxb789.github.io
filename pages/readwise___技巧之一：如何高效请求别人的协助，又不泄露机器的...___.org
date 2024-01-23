@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/技巧之一：如何高效请求别人的协助，又不泄露机器的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "技巧之一：如何高效请求别人的协助，又不泄露机器的..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1747813560150094264
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-19]]
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+技巧之一：如何高效请求别人的协助，又不泄露机器的密码。当然是快速通过github 取到这人的公钥，打到你的机器上。办完事删掉公钥就好
+
+比如我的公钥：https://t.co/jfHuwRXGAV  取其中一个，一般人只有一个
+
+https://t.co/AfGcuF6BZU 
+#+END_QUOTE\

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/\#程序员的螺丝刀 Tc（traffic Cont...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "\#程序员的螺丝刀 Tc（traffic Cont..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1749085441540972956
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-22]]
+** 📌 [[2024-01-22]]
+#+BEGIN_QUOTE
+#程序员的螺丝刀 tc（traffic control） 模拟丢包率、设置时延等等简直太香了。我不知道不会用的程序员是怎么搞的 延时设置： 
+give packets from eth0 a delay of 2ms 
+$ tc qdisc add dev eth0 root netem delay 2ms
+
+change the delay to 300ms 
+$ tc qdisc change dev eth0 root netem 
+
+如图 
+
+![](https://pbs.twimg.com/media/GEXyH2Ua0AA0fwl.png) 
+#+END_QUOTE\

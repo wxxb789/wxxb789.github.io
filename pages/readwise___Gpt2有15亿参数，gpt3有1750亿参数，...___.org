@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: readwise/Gpt2有15亿参数，gpt3有1750亿参数，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[fi56622380 on Twitter]]
+:full-title: "Gpt2有15亿参数，gpt3有1750亿参数，..."
+:category: [[tweets]]
+:url: https://twitter.com/fi56622380/status/1671411447723851776
+:image-url: https://pbs.twimg.com/profile_images/1617438471773360129/PuNEnXyH.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-23]]
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+GPT2有15亿参数，GPT3有1750亿参数，GPT-4有多少参数一直是个迷，今天终于有线索了
+
+Meta的PyTorch founding engineer暗示，从不止一个来源的消息来看，GPT-4是8个一模一样的220B模型连起来做的，只是训练数据不同，8个专家模型mixture expert model，一共1.76T参数，每次推理要做16次循环推理
+
+这个消息我认为比较合理，有一定可信度，解释了长久以来我的一些疑惑：
+
+为什么openAIGPT1/2/3都第一时间公布参数，但在GPT4阶段对参数守口如瓶？
+
+为什么openAI一直宣称暂时没有训练GPT5的计划？
+
+当时看的第一眼就觉得很奇怪（图二），为什么GPT4和GPT3.5的base model的factuality差距那么小？
+
+真没想到，最先开始组合路线ensemble method的是大力出奇迹路线闻名于世的openAI
+
+\------------------------------------------
+
+这也算是之前对Hype Cycle的想法的一个论据：
+
+要了解一个技术到什么阶段，可以看表现方式是大力出奇迹还是组合出奇迹
+
+当一个技术还在最早期发展阶段时，基本上就是按着scale up的路径。只有当scale up获得的边际收益太小的时候，才会开始找组合的路径
+
+比如说在机器学习里，最开始都是单个的model，当单个model的潜力挖掘的差不多到瓶颈之后，就开始了ensemble method，这时候就是stacking发挥作用的地方，也就是用一群model做推理，通过处理投票结果方式或者锦标赛模式组合来达到更好的效果，这就是典型的组合模式
+
+再比如早期的CPU基本是按着频率和工艺制程scale up，到后来就是多核或者大小核的组合，和专用处理器GPU的组合，到SoC就是更大的组合，来满足算力的新需求(最新的苹果MR Vision pro为了达到低延迟，甚至开启了新的R1专门处理传感器融合问题，这也是组合)
+
+当然了这个大力阶段和组合阶段不会是单向的，"ML在应用领域的趋势一直都是从multiple components on one stack到end to end solution 这也算是从组合到规模的变化方向" --<a href="https://twitter.com/yangqch">@yangqch</a> 
+
+所以更可能是一种循环：
+
+规模scale up->组合->更大尺度上的规模变大->更大尺度的组合循环<img src='https://pbs.twimg.com/media/FzIK4HNaEAQ2kry.png'/><img src='https://pbs.twimg.com/media/FzILLz0agAAMFch.png'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+关于消息来源，嘉宾背景，播客细节，详见这篇长推： 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+假定这个消息属实，其实又引发了无数的新问题：
+
+为什么GPT4要分成8个cluster，这个数字是怎么定的？
+
+为什么推理的时候要做16次循环推理？
+
+分成多少cluster可能是根据训练token数来定的，但我觉得奇怪的是，GPT4的训练token数肯定是超过168B的，为什么还是选择8个cluster，是不是成本和硬件算力限制
+
+另外的问题还有，从图二的GPT3和GPT4的差距来看，是不是用很多个LLaMA，比如16个65B的LLaMA，也能实现GPT3到GPT4那么大的性能飞跃？
+
+如果65B的LLaMA也能复制这个技术实现飞跃，那么openAI的护城河可能真的没有那么深了
+
+毕竟模型每增大两个数量级，cross entropy loss降低一个数量级，随着资源的投入和不可避免的技术扩散diffusion，这个差距可能会缩小，行业的秘密可能保鲜期越来越短(GPT4的保鲜期这才三个多月)<img src='https://pbs.twimg.com/media/FzNU6kVaAAAA98s.png'/><img src='https://pbs.twimg.com/media/FzNVbQWaMAAWDSD.jpg'/> 
+#+END_QUOTE\

@@ -1,0 +1,50 @@
+:PROPERTIES:
+:title: readwise/是一种新的不改变模型权重的微调方法——代理调整（...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "是一种新的不改变模型权重的微调方法——代理调整（..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1748036696774480292
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-19]]
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+是一种新的不改变模型权重的微调方法——代理调整（proxy-tuning）
+
+作者解释的很专业，但看起来还是挺复杂的，超出了我的知识范围，这里仅对作者的原文进行翻译：
+
+刘等人提出了一种全新的大语言模型（LLM）微调方法，不需要改变模型权重，这种方法被称为代理调整（proxy-tuning）（参见 Liu et al. https://t.co/2CqiXFJxB7）。那么，它是如何工作的呢？代理调调整是一种在解码时使用的简单技术，它通过修改目标大语言模型的 logits 值来实现。具体来说，你需要计算一个较小的基础模型与微调模型之间的 logits 差异，然后将这个差异应用到目标模型的 logits 上。
+
+具体例子来说，如果目标是提升一个大型目标模型（M1）的性能。
+
+这个方法的核心思想是使用两个小型模型：
+\- 一个小型基础模型（M2）
+- 一个经过微调的基础模型（M3）
+
+接着，你只需要将这两个小型模型在预测上的差异（即输出词汇上的 logits 差异）应用到目标模型 M1 上。
+
+通过这种方式，改进后的目标模型的输出可以表示为 M1\*(x) = M1(x) + [M3(x) - M2(x)]。
+
+根据实验结果，这种方法效果出乎意料地好。作者们在以下几个方面进行了测试：
+A. 指令式调整（instruction-tuning）
+B. 针对特定领域的适应（domain adaptation）
+C. 特定任务的微调（task-specific finetuning）
+
+为了简洁，我们只关注指令式调整这一点。具体例子如下：
+
+1) 目标是将 Llama 2 70B Base 模型的性能提升到与 Llama 2 70B Chat 相当，但不通过任何从 Base 到 Chat 的增强学习和人类反馈（RLHF）来实现。
+
+2) 他们使用了一个体积是 Llama 2 70B 的十分之一的 Llama 2 7B 模型，并对其进行了指令式微调。
+
+3) 微调后，他们计算了 7B Base 和 7B Finetuned 之间输出词汇表上的 logits 差异。
+
+4) 然后，他们将这种差异应用到 Llama 2 70B Base 模型上，这使得 70B Base 模型的性能极大地接近了 70B Chat 模型。
+
+这种方法的唯一限制是，较小的模型必须使用与较大模型相同的词汇表进行训练。理论上，如果有人知道 GPT-4 的词汇表并且能够访问其 logits 输出，那么就可以使用这种方法来创建专门定制的 GPT-4 模型。 
+#+END_QUOTE\

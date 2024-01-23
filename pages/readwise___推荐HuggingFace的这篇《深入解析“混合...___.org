@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/推荐HuggingFace的这篇《深入解析“混合...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "推荐HuggingFace的这篇《深入解析“混合..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1734366237629526108
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-23]]
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+推荐HuggingFace的这篇《深入解析“混合专家模型（Mixtral of Experts）” | Mixture of Experts Explained》
+
+完整的讲述了混合专家模型的各个方面。主要内容如下：
+1. 相较于密集型模型，预训练速度更快
+2. 拥有比同等参数的模型更快的推理速度
+3. 对显存要求高，因为需要将所有专家模型都加载到内存中
+4. 虽然在微调方面存在挑战，但近期关于 MoE 的指令调优研究显示出了光明前景
+
+原文：https://t.co/TqG8dK338W
+翻译：https://t.co/xVgBOhi0lf<img src='https://pbs.twimg.com/media/GBG0zSsWEAAVlvc.png'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+配合 <a href="https://twitter.com/realrenmin">@realrenmin</a> 老师这条一起看
+https://t.co/wIZeH7asnE 
+#+END_QUOTE\

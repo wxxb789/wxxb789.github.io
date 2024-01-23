@@ -1,0 +1,91 @@
+:PROPERTIES:
+:title: readwise/现在你可以通过转录音频和视频文件获得每小时150...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wanerfu on Twitter]]
+:full-title: "现在你可以通过转录音频和视频文件获得每小时150..."
+:category: [[tweets]]
+:url: https://twitter.com/wanerfu/status/1749624276389630063
+:image-url: https://pbs.twimg.com/profile_images/1695073712612016128/xjiHduPl.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-23]]
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+现在你可以通过转录音频和视频文件获得每小时150美元。
+
+以下是具体步骤： 
+
+![](https://pbs.twimg.com/media/GEfp89ybwAAUkOo.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+推荐 Notta AI
+
+→ 一款由人工智能驱动的记事工具，可以将讲座、会议、播客和其他音频/视频文件即时转换成100多种语言的文本。简单、快捷、准确。
+
+在这里免费试用：👉 https://t.co/BhUAxN9gzr 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+1/ 自动转录音频和视频文件
+
+→ 只需将文件从您的设备或通过Google Drive/Dropbox链接导入，Notta将立即开始转录工作，同时添加时间戳以便您引用。 <video controls><source src="https://video.twimg.com/ext_tw_video/1749624223109369856/pu/vid/avc1/588x360/mGJEjIJAqu0Ku5R9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624223109369856/pu/vid/avc1/1178x720/ci3VG-Fh9x5qCdM4.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624223109369856/pu/vid/avc1/440x270/-4ZvylYRD9Lw-2Zc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624223109369856/pu/pl/Vw4IaV8_XED3kypc.m3u8?tag=12&container=fmp4" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+2/ 实时将语音转换成文本**
+
+→ 通过我们的人工智能语音识别系统，可以准确将线上或线下的对话转换成文本。 <video controls><source src="https://video.twimg.com/ext_tw_video/1749624229912547328/pu/vid/avc1/440x270/AaIp9_V0DOziZPB1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624229912547328/pu/vid/avc1/1178x720/sGvAoGLGNPhWBWHc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624229912547328/pu/pl/wP4dw5Ft_Mt8BRsj.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1749624229912547328/pu/vid/avc1/588x360/EMZj7De89gPhItgb.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+3/ 充当您的会议个人记事工具
+
+→ 让 Notta 机器人参加您的线上会议（Zoom、Google Meet、Teams和Webex），以便能够准确记录会议的详细笔记，让您能够全神贯注地参与会议。 <video controls><source src="https://video.twimg.com/ext_tw_video/1749624235713318913/pu/vid/avc1/440x270/O_JNtVZwMSwtqS23.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624235713318913/pu/pl/MdvDAR26hsM7ulAu.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1749624235713318913/pu/vid/avc1/588x360/QmBb8_Bsl7NmRqHM.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624235713318913/pu/vid/avc1/1178x720/lLi03F0a7NyrOZud.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+4/ 借助人工智能生成简明摘要
+
+→ 自动将冗长的录音转换为简明扼要的要点和行动项摘要，为您节省提取信息的时间。 
+
+![](https://pbs.twimg.com/media/GEfp-hIa8AAj6tO.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+5/ 编辑就像轻轻一点
+
+→ 利用创意编辑器，您可以轻松查看、修改、复制、标记和搜索转录内容。 <video controls><source src="https://video.twimg.com/ext_tw_video/1749624244538146816/pu/vid/avc1/588x360/AfAN7WfMOi38ESVj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624244538146816/pu/pl/BxlZML5k7EIdbkcv.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1749624244538146816/pu/vid/avc1/440x270/8Ap992nO45IBvYgs.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624244538146816/pu/vid/avc1/1176x720/z4G31wpr29V31Uxh.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+6/ 将转录内容导出到您的工作环境
+
+→ 将转录内容导出为文本、Word、PDF和SRT等各种格式
+
+→ 直接将其同步到Notion或Salesforce。 <video controls><source src="https://video.twimg.com/ext_tw_video/1749624251261636608/pu/vid/avc1/1176x720/MKw_cqnnCGgrcVJD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624251261636608/pu/pl/7c_gAD82qWmYlAdy.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1749624251261636608/pu/vid/avc1/440x270/xB_LQME0dMb5R37y.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1749624251261636608/pu/vid/avc1/588x360/kWwD7FNIHVthC6NG.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+7/ 共享以最大化内容的影响
+
+→ 与您工作空间的所有成员共享
+
+→ 通过密码安全地与外部成员共享笔记
+
+→ 将转录文本作为营销资产与社交媒体共享。 
+
+![](https://pbs.twimg.com/media/GEfp_aDbwAAt_k5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+8/ 创建可搜索的知识空间
+
+→ 利用我们的多级文件夹系统将您或您的团队的所有笔记整理成一个集中的空间。 
+
+![](https://pbs.twimg.com/media/GEfp_klbAAA1pa5.jpg) 
+#+END_QUOTE\

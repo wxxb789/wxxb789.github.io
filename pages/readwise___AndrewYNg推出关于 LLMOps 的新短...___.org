@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/AndrewYNg推出关于 LLMOps 的新短...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "AndrewYNg推出关于 LLMOps 的新短..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1748186560347128142
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-19]]
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+AndrewYNg推出关于 LLMOps 的新短期课程！
+
+本课程不假设您之前有任何 MLOps 或 LLMOps 经验。在此注册以了解这个新兴领域！ https://t.co/ZC6JChiHvf…<video controls><source src="https://video.twimg.com/ext_tw_video/1748005266094727168/pu/vid/avc1/480x270/dQsPzc0ZAt8qXXmX.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748005266094727168/pu/vid/avc1/1280x720/nCBW_wuSRp5At3qN.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748005266094727168/pu/pl/EMRVcNhN0CM28gdV.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1748005266094727168/pu/vid/avc1/640x360/Iddh22dovunxFBE9.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+LLMOps（大型语言模型操作）是一个快速发展的领域，它从 MLOps（机器学习操作）中汲取灵感，专门用于构建和部署基于 LLM 的应用程序。在本课程中，由 <a href="https://twitter.com/googlecloud">@googlecloud</a> 的 Erwin Huizenga 教授，您将学习如何使用自动化来构建、调整和部署基于 LLM 的应用程序，从而减少手动操作并提高效率。
+
+您将学习如何：
+\- 应用监督微调来调整LLM以适应特定任务
+- 通过自定义预构建的调整管道来自动化和编排LLM-调整和部署
+- 应用最佳实践来准备训练数据以进行LLM的监督微调
+- 创建一个 LLMOps 工作流程，您可以适应其他LLM-调整作业 
+#+END_QUOTE\

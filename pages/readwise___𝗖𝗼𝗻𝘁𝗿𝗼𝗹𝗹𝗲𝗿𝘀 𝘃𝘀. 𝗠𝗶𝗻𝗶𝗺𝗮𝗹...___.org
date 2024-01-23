@@ -1,0 +1,79 @@
+:PROPERTIES:
+:title: readwise/𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿𝘀 𝘃𝘀. 𝗠𝗶𝗻𝗶𝗺𝗮𝗹...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mjovanovictech on Twitter]]
+:full-title: "𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿𝘀 𝘃𝘀. 𝗠𝗶𝗻𝗶𝗺𝗮𝗹..."
+:category: [[tweets]]
+:url: https://twitter.com/mjovanovictech/status/1747892694339277102
+:image-url: https://pbs.twimg.com/profile_images/1627966190491430912/mBfznjgr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-19]]
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿𝘀 𝘃𝘀. 𝗠𝗶𝗻𝗶𝗺𝗮𝗹 𝗔𝗣𝗜𝘀 - Which one is better?
+
+Here's how to decide which one is better for YOU.
+
+Some people will claim controllers are better.
+
+Others will swear that Minimal APIs are better.
+
+The truth is somewhere in the middle.
+
+The problem with controllers is that they become complex as the number of endpoints grows.
+
+Each endpoint could introduce its required services.
+
+So, the constructor grows to accommodate this.
+
+And you end up injecting many services used from one or two endpoints.
+
+Minimal APIs take a different approach.
+
+They use method injection for services.
+
+An endpoint declares the specific services it needs.
+
+The cohesion is much better, as opposed to controllers.
+
+Another benefit of Minimal APIs is that they're more performant. But it's essential to understand how. You can get more throughput with Minimal APIs. This means being able to process more requests per second. This is because they work on a lower level and have a smaller memory footprint.
+
+Should you move all controllers to Minimal APIs?
+
+No.
+
+But start thinking about Minimal APIs for new projects.
+
+They're my default way of building new APIs.
+
+The .NET ecosystem around Minimal APIs is also growing.
+
+P.S. If you liked this, consider joining The .NET Weekly - my newsletter with 37,000+ engineers that teaches you how to improve at .NET and software architecture.
+
+Subscribe here → https://t.co/YhPEF23ufg
+
+Did you start using Minimal APIs?
+
+\---
+
+P.P.S. Follow me for more practical tips, and repost ♻️ this to share with your friends.<img src='https://pbs.twimg.com/media/GEHC0VIXMAAabcp.jpg'/><img src='https://pbs.twimg.com/media/GEHC0VRXIAA4vmt.jpg'/><img src='https://pbs.twimg.com/media/GEHC0VJXwAEZETM.jpg'/><img src='https://pbs.twimg.com/media/GEHC0VJXQAA_UWu.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+📌 Here are a few ideas on how you can structure your Minimal APIs:
+
+https://t.co/qKJMGZWuBM 
+#+END_QUOTE\
+** 📌 [[2024-01-19]]
+#+BEGIN_QUOTE
+Want to become a better software engineer?
+
+I share one practical article on .NET and software architecture every Saturday morning.
+
+Join 37,000+ engineers here: https://t.co/yqpRa5bEyc 
+#+END_QUOTE\

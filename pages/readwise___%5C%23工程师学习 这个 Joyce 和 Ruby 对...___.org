@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/\#工程师学习 这个 Joyce 和 Ruby 对...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#工程师学习 这个 Joyce 和 Ruby 对..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1748496057753899151
+:image-url: https://pbs.twimg.com/profile_images/1540397753586528256/SFkyn7LD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-20]]
+** 📌 [[2024-01-20]]
+#+BEGIN_QUOTE
+#工程师学习 这个 Joyce 和 Ruby 对 Al 科学家李飞飞自传新书《The Worlds I See》的播客很推荐一听，第一代美国移民，能够保持不随波逐流，有好奇心，知道自己想要什么非常重要，要是家人也有这个觉悟那就牛到顶了，很期待中文版「我看见的世界」的出版。
+https://t.co/f8qLiRJxqE 
+
+![](https://pbs.twimg.com/media/GENNY21a4AAdZsf.jpg) 
+#+END_QUOTE\

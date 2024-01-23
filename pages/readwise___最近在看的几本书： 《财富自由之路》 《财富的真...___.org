@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/最近在看的几本书： 《财富自由之路》 《财富的真...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wshuyi on Twitter]]
+:full-title: "最近在看的几本书： 《财富自由之路》 《财富的真..."
+:category: [[tweets]]
+:url: https://twitter.com/wshuyi/status/1749561987288502576
+:image-url: https://pbs.twimg.com/profile_images/1278528308603260928/jnD1feVs.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-23]]
+** 📌 [[2024-01-23]]
+#+BEGIN_QUOTE
+最近在看的几本书：
+《财富自由之路》
+《财富的真相》
+《让时间陪你慢慢变富》
+《韭菜的自我修养》
+《把时间当作朋友》
+《自学是门手艺》 
+#+END_QUOTE\
