@@ -9,7 +9,6 @@
 *** [[OpenAI Blog]]
 *** [[deeplearning.ai/ShortCourses]]
 *** [[https://github.com/mlabonne/llm-course][mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.]]
-*** [[https://github.com/uncomplicate/deep-diamond][uncomplicate/deep-diamond: A fast Clojure Tensor & Deep Learning library]]
 ** [[visualization]]
 *** [[https://bbycroft.net/llm][LLM Visualization (bbycroft.net)]]
 ** [[papers]]

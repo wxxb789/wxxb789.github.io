@@ -1,1 +1,4 @@
 #+alias: 十万个为什么, why is that,
+#+tags: 十万,
+
+*
