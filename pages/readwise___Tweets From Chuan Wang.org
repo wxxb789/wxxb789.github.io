@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/Tweets From Chuan Wang
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Svwang1 on Twitter]]
+:full-title: "Tweets From Chuan Wang"
+:category: [[tweets]]
+:url: https://twitter.com/Svwang1
+:image-url: https://pbs.twimg.com/profile_images/1206267442546167808/hizG_npB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-01-24]]
+** 📌 [[2024-01-24]]
+#+BEGIN_QUOTE
+短暂 (30秒到一两分钟) 的高强度训练 (心跳接近最大值的 90%) 可以促进大脑分泌生长激素 (Human Growth Hormone，这就是传说中的“青春的源泉”), 有研究说可以增加六倍，并在大脑中停留长达四个小时。成年人大脑的 HGH 浓度是小孩的十分之一，这可能是为什么年纪大了后，感觉自己缺乏小时候那种生理上的幸福感，但又说不清为什么的原因。以前的运动没有刻意去摸索强度的极限，因此对 HGH 的体验比较浅。现在要刻意去朝这个方向努力和摸索。<img src='https://pbs.twimg.com/media/GEkITLAbAAA_mcC.jpg'/><img src='https://pbs.twimg.com/media/GEkITaTbQAAw4xl.jpg'/><img src='https://pbs.twimg.com/media/GEkITpWaQAAeEoL.jpg'/><img src='https://pbs.twimg.com/media/GEkIT9ibEAAt01A.jpg'/> 
+#+END_QUOTE\
