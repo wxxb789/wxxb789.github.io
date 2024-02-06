@@ -1,0 +1,109 @@
+:PROPERTIES:
+:title: readwise/1_N Introducing RAPTOR...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[IntuitMachine on Twitter]]
+:full-title: "1/N Introducing RAPTOR..."
+:category: [[tweets]]
+:url: https://twitter.com/IntuitMachine/status/1753044020601696317
+:image-url: https://pbs.twimg.com/profile_images/1740015728105832448/fRPNehGE.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+1/n Introducing RAPTOR
+
+Existing RAG methods suffer from a major limitation: they can only retrieve short, contiguous passages of text. This restricts their capacity to represent cross-document discourse structure and leverage thematic information scattered across lengthy corpora. As a result, performance suffers on complex questions requiring multi-step inference or synthesis of knowledge from multiple sections. 
+
+Fixed language models also face challenges staying up-to-date, as baking vast world knowledge into model parameters makes it arduous to edit or append facts. Yet relying on outdated embedded knowledge severely impairs real-world reliability and accuracy.
+
+This paper introduces RAPTOR, a novel recursive abstraction paradigm that overcomes both issues through hierarchical multi-document representation. RAPTOR segments text, then recursively clusters, summarizes, and embeds passages. This structures corpora into multi-layer trees encoding information at varying levels of abstraction. 
+
+Querying this rich tree representation allows integrating details and high-level themes simultaneously. Controlled experiments exhibit consistent improvements over baseline retrievers across several QA datasets. Moreover, by augmenting powerful readers like GPT-4, RAPTOR reaches new state-of-the-art results on multifaceted reasoning tasks requiring nuanced understanding of lengthy narratives.
+
+Modularizing knowledge into RAPTOR’s index also facilitates updating world facts. As corpus contents evolve, the reader persists unaltered, flexibly adapting to current information needs. This crucial agility makes RAPTOR invaluable for dynamic real-world deployments.  
+
+In summary, RAPTOR provides a sorely lacking solution for multi-document reasoning and updatable retrieval-based QA. Leveraging recursive summarization and abstraction, it encodes corpora with sufficient semantic depth for complex queries. RAPTOR delivers substantial gains; its strong empirical performance confirms the merits of tree-based hierarchical retrieval augmentation.<img src='https://pbs.twimg.com/media/GFQQPHmXIAAGyLI.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+2/n The RAPTOR process:
+
+1. Text Segmentation
+\- Split retrieval corpus into short, contiguous chunks of 100 tokens, similar to traditional methods
+- Keep sentences intact even if over 100 tokens to preserve coherence
+
+2. Text Embedding  
+- Embed text chunks using SBERT to get dense vector representations
+
+3. Clustering
+- Employ soft clustering using Gaussian Mixture Models and UMAP dimensionality reduction
+- Vary UMAP parameters to identify global and local clusters
+- Use Bayesian Information Criterion for model selection to determine optimal number of clusters
+
+4. Summarization
+- Summarize the chunks in each cluster using a language model 
+- Results in a condensed summary capturing key information
+
+5. Node Creation
+- Clustered chunks + corresponding summary = new tree node 
+
+6. Recursive Processing
+- Repeat steps 2-5: Re-embed summaries, cluster nodes, generate higher level summaries
+- Forming a multi-layer tree from the bottom up 
+- Until clustering is infeasible (final root node summarizes the entire corpus)
+
+7. Retrieval
+- Two methods: tree traversal (top-down layer by layer) or collapsed tree (flattened view)
+- For each, compute cosine similarity between query and nodes to find most relevant
+
+So in summary, RAPTOR leverages recursive clustering and summarization of text chunks to create a hierarchical tree structure for more effective contextual retrieval.<img src='https://pbs.twimg.com/media/GFQcJP4W8AADhww.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+3/n Summary of key related work 
+
+Retrieval Methods 
+\- Use standard chunking to index passages
+- RAPTOR creates recursive tree structure with hierarchical summarization  
+
+Joint Passage Retrieval
+- Tree decoding to handle passage diversity
+- RAPTOR clusters semantically related passages
+
+Summarization Models
+- Recursive summarization using task decomposition  
+- RAPTOR allows flexible grouping and keeps intermediate details
+
+Dense Hierarchical Retrieval   
+- Combines document and passage retrievals  
+- RAPTOR focuses on passage-level, adds recursive abstraction 
+
+Long Context Models 
+- Expand context lengths models can handle
+- RAPTOR provides relevant subsets of text 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+4/n  Related paper with similar approach that was discussed earlier:
+https://t.co/itXL5eovcP 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+5/n RAPTOR paper:
+https://t.co/XukDghMRj9 
+
+![](https://pbs.twimg.com/media/GFQdbOkWMAASecr.png) 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+Please buy me a coffee by subscribing to my feed if you find these summaries to be beneficial! 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+Here's the source code:  https://t.co/nFEn8dnbEK 
+#+END_QUOTE\

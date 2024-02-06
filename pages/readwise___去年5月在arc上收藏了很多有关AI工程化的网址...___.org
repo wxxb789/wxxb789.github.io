@@ -1,0 +1,65 @@
+:PROPERTIES:
+:title: readwise/去年5月在arc上收藏了很多有关AI工程化的网址...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "去年5月在arc上收藏了很多有关AI工程化的网址..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1754814622039945483
+:image-url: https://pbs.twimg.com/profile_images/583101789483859969/soayV1UA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+去年5月在arc上收藏了很多有关AI工程化的网址，有些项目甚至现在仍在更新，值得学习参考。
+其中有不少网站对做AI工程化上起到了很大帮助，顺手分享一下：
+
+LLM
+一站式LLM底层技术原理入门指南
+https://t.co/APqO00fve4
+
+LLM入门实战系列
+https://t.co/efQC3AkveP
+
+AI笔记（这个项目收集了好多领域知识）
+https://t.co/6QgXRG5hiX
+\----------
+Langchain和工程化
+Langchain
+https://t.co/cXQvYSdja4
+
+这个项目是用来做LLM约束生成的
+https://t.co/M0suLG9Npo
+
+AI Tutorials
+这网站很多实操方法教学
+https://t.co/asWSJt2DdH
+----------
+Prompt
+如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南
+https://t.co/G0UbDVk94g
+
+ChatGPT中文指南
+https://t.co/YyfKljyTEy
+
+Prompt学习指南（绘画啥的也有）
+https://t.co/bZ8UhhVgfi
+
+提示词工程指南
+https://t.co/PsoMVwvTwG
+
+之前吴恩达老师的官方提示词工程（但只有第一期的）
+https://t.co/D3IZBRnZ6r
+
+Mr.-Ranedeer-AI-Tutor（一个很牛的Prompt工程示例）
+https://t.co/8MYhQy05XS
+-----
+应用侧
+The Ultimate GPT-4 Guide
+（比较综合的应用层居多的收藏指南，不过也很久没更新了）
+https://t.co/yHpJPBh89e<img src='https://pbs.twimg.com/media/GFpWHVUbAAA_8X9.png'/> 
+#+END_QUOTE\

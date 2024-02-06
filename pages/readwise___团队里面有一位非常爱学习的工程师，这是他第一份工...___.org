@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: readwise/团队里面有一位非常爱学习的工程师，这是他第一份工...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[beihuo on Twitter]]
+:full-title: "团队里面有一位非常爱学习的工程师，这是他第一份工..."
+:category: [[tweets]]
+:url: https://twitter.com/beihuo/status/1752533879918145729
+:image-url: https://pbs.twimg.com/profile_images/1182400217800302592/yFy4Ghlv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-31]]
+#+BEGIN_QUOTE
+团队里面有一位非常爱学习的工程师，这是他第一份工作。我发现他能快速理解其他人写的代码，但是不明白“为什么这么写”。于是我推荐了这本《A Philosophy of Software Design》。
+
+他看完之后给了很高的评价：“这本书真的很好，而且阅读起来很轻松。我感觉在阅读和编写代码的过程中，很多时候我不得不依靠自己从经验中积累的直觉来做决定，比如什么是最易读、最可维护、最简单的代码，但我之前无法用言语表达为什么会这样。我认为这本书很好地解释了这些原则，并对它们进行了深入的阐述。总的来说，这本书在构建编写非复杂代码的整体视角方面做得非常好。”
+
+这本书我当时也 Highlight 了不少内容，摘几个我比较喜欢的 👇<img src='https://pbs.twimg.com/media/GFJARl8bMAAQ6ru.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-31]]
+#+BEGIN_QUOTE
+关于 Complexity 
+
+![](https://pbs.twimg.com/media/GFJAk2nasAAZbBl.jpg) 
+
+![](https://pbs.twimg.com/media/GFJAk2iaEAALFkw.jpg) 
+
+![](https://pbs.twimg.com/media/GFJAk2hbQAAJ1yk.jpg) 
+
+![](https://pbs.twimg.com/media/GFJAk2ha4AAYzNH.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-31]]
+#+BEGIN_QUOTE
+关于如何组织代码 
+
+![](https://pbs.twimg.com/media/GFJAzp4bcAAvVhH.jpg) 
+
+![](https://pbs.twimg.com/media/GFJAzpfb0AAN081.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-31]]
+#+BEGIN_QUOTE
+关于管理 exception 
+
+![](https://pbs.twimg.com/media/GFJBAYWbUAAvgUQ.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/As Many of You Know, Ove...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xamat on Twitter]]
+:full-title: "As Many of You Know, Ove..."
+:category: [[tweets]]
+:url: https://twitter.com/xamat/status/1752565060864704789
+:image-url: https://pbs.twimg.com/profile_images/1604207106692747264/xY9VnZ1y.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-01]]
+#+BEGIN_QUOTE
+As many of you know, over the past few months I have been sharing Prompt Engineering resources in different forms. I have now compiled them all into a cohesive publication and uploaded to arxiv: https://t.co/7TZgGF67lj 
+
+![](https://pbs.twimg.com/media/GFJcoJzaUAApp5G.png) 
+#+END_QUOTE\

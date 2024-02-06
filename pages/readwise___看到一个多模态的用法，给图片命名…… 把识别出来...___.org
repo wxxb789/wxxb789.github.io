@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/看到一个多模态的用法，给图片命名…… 把识别出来...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "看到一个多模态的用法，给图片命名…… 把识别出来..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1751436030903812569
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+看到一个多模态的用法，给图片命名……
+把识别出来的图片信息用向量保存下来，后续还可以用做图片搜索
+
+有点杀鸡牛刀的感觉！ 
+
+![](https://pbs.twimg.com/media/GE5ZPCMWsAAMPKO.png) 
+
+![](https://pbs.twimg.com/media/GE5ZQlRXUAAysC2.png) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+这个案例也不错 
+#+END_QUOTE\

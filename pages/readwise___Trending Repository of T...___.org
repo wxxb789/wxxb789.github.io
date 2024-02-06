@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Trending Repository of T...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[trending_repos on Twitter]]
+:full-title: "Trending Repository of T..."
+:category: [[tweets]]
+:url: https://twitter.com/trending_repos/status/1752994641300099556
+:image-url: https://pbs.twimg.com/profile_images/1166400472665808897/wn7Cs5GU.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+Trending repository of the day 📈
+  
+LLMs-from-scratch by <a href="https://twitter.com/rasbt">@rasbt</a>
+
+Implementing a ChatGPT-like LLM from scratch, step by step
+
+Last 24h: 1384 ⭐
+Total: 7080 ⭐️
+https://t.co/6nA5XzpvYL 
+#+END_QUOTE\

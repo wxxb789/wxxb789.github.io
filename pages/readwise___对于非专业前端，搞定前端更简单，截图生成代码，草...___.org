@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/对于非专业前端，搞定前端更简单，截图生成代码，草...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[i5ting on Twitter]]
+:full-title: "对于非专业前端，搞定前端更简单，截图生成代码，草..."
+:category: [[tweets]]
+:url: https://twitter.com/i5ting/status/1753062040070246569
+:image-url: https://pbs.twimg.com/profile_images/1740052345160179712/Jsu6-Yok.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+对于非专业前端，搞定前端更简单，截图生成代码，草图生产代码，d2c，aigc等，只要你要求不高，那真是妥妥的神器。有了ui简单做字段绑定，真的是有手就行。
+所以有服务端背景或者产品、运营等，他们是具备这种能力的。
+想提升10x真的不难。
+难的是走出去，接受它，用好它。
+
+我们再讨论融合职业以及深度职业，各有好处。融合可能更适合独立做，深度对于工资保值，个人成长可能更好。没有对错，看个人选择。
+
+#AI时代的全栈<img src='https://pbs.twimg.com/media/GFQglxpaYAAMQt4.png'/> 
+#+END_QUOTE\

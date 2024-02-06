@@ -1,0 +1,112 @@
+:PROPERTIES:
+:title: readwise/Self-Attention Clearly E...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[akshay_pachaar on Twitter]]
+:full-title: "Self-Attention Clearly E..."
+:category: [[tweets]]
+:url: https://twitter.com/akshay_pachaar/status/1751221018679759168
+:image-url: https://pbs.twimg.com/profile_images/1578327351544360960/YFpWSWIX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Self-attention clearly explained: 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Before we start a quick primer on tokenization!
+
+Raw text → Tokenization → Embedding → Model
+
+Embedding is a meaningful representation of each token (roughly a word) using a bunch of numbers.
+
+This embedding is what we provide as an input to our language models.
+
+Check this👇 
+
+![](https://pbs.twimg.com/media/GE2WPzZaYAA-mAU.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+The core idea of Language modelling is to understand the structure and patterns within language.
+
+By modeling the relationships between words (tokens) in a sentence, we can capture the context and meaning of the text. 
+
+![](https://pbs.twimg.com/media/GE2WQhgaAAAVzZK.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Now self attention is a communication mechanism that help establish these relationships, expressed as probability scores.
+
+Each token assigns the highest score to itself and additional scores to other tokens based on their relevance.
+
+You can think of it as a directed graph 👇 
+
+![](https://pbs.twimg.com/media/GE2WRJCaIAAoe9m.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+To understand how these probability/attention scores are obtained:
+
+We must understand 3 key terms:
+
+\- Query Vector
+- Key Vector
+- Value Vector
+
+These vectors are created by multiplying the input embedding by three weight matrices that are trainable.
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/GE2WRwubYAA9tlm.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Now here's a broader picture of how input embeddings are combined with Keys, Queries & Values to obtain the actual attention scores.
+
+After acquiring keys, queries, and values, we merge them to create a new set of context-aware embeddings.
+
+Check this out👇 
+
+![](https://pbs.twimg.com/media/GE2WSXZakAA7KQW.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Implementing self-attention using PyTorch, doesn't get easier! 🚀
+
+It's very intuitive! 💡
+
+Check this out 👇 
+
+![](https://pbs.twimg.com/media/GE2WTEgb0AE7ADn.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Working with LLMs is going to to be a high leverage skill!
+
+<a href="https://twitter.com/LightningAI">@LightningAI</a> provides state of the art tutorials on LLMs & LLMOps!
+
+On top of that you get an integrated AI developer platform with access to FREE GPUs & VSCode right in your browser!
+
+Check this: https://t.co/hW40oZxmya 
+#+END_QUOTE\
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+That's a wrap, hope you enjoyed reading!
+
+If you're interested in:
+
+• Python 🐍
+• ML/MLOps 🛠
+• LLMs/AI Engineering 🧠
+
+Don't forget to follow me: <a href="https://twitter.com/akshay_pachaar">@akshay_pachaar</a> ✔️
+Everyday, I share tutorials on above topics!
+
+I also write a weekly newsletter on AI Engineering: <a href="https://twitter.com/ML_Spring">@ML_Spring</a> 
+#+END_QUOTE\

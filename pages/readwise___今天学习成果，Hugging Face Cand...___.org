@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/今天学习成果，Hugging Face Cand...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[blackanger on Twitter]]
+:full-title: "今天学习成果，Hugging Face Cand..."
+:category: [[tweets]]
+:url: https://twitter.com/blackanger/status/1753101641551851611
+:image-url: https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+今天学习成果，Hugging Face candle 框架里的 bert transformer 模型结构
+
+得益于 Rust 代码的简洁，换成其他语言的话，我就放弃学习 AI 了。 
+
+![](https://pbs.twimg.com/media/GFREb1fbIAEM5Gu.jpg) 
+#+END_QUOTE\

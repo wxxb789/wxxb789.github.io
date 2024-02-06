@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Exponential 的作者 @Azeem 带...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "Exponential 的作者 @Azeem 带..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1752969444404650060
+:image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+Exponential 的作者 <a href="https://twitter.com/azeem">@azeem</a> 带来了达沃斯世界经济年会之后的 2024 趋势预测，这篇最新的 Podcast 对 AI、能源转型还有去中心化做了趋势概述！https://t.co/n8dISSdDwA
+
+用 https://t.co/BjZbgAVhTi 刚上线的 Apple Podcast 音频解析功能，边听，边看 transcript 边提问，既可加速理解，也能保存外脑加深记忆。当然，让 maimo 扮演成播客主讲来回答问题是最有趣的😄
+
+下面是 Azeem 视角的内容简介：
+
+在 2023 年，我进行了数百次对话，这些对话帮助我形成了对 2024 年的分析。这些对话的对象包括各种各样的人，从内阁级别的部长和国家领导人，到几乎每一个大型 AI 实验室的领导者，以及几十家 AI 初创公司，还有在欧洲、亚洲和美国的公共和私人市场投资者，横跨全谱系的风险投资家，从美国硅谷到英国和亚洲，以及负责 AI 规制、净零和能源转型政策的政策制定者。
+
+在我的完整展望中，我覆盖了从 AI 采用到地缘政治，再到去中心化和能源转型等 12 个主题。在今天的播客独家概览中，我将走过其中的一些主题。但如果你想了解所有 12 个主题，请查看节目说明中的链接，或者访问 https://t.co/thYL4Vo9LE<video controls><source src="https://video.twimg.com/amplify_video/1752968846632443904/vid/avc1/1202x720/Z9mqXYY0wUvgY1v1.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1752968846632443904/vid/avc1/450x270/wzNEaEzacuNAmOUN.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1752968846632443904/vid/avc1/600x360/jG0pdKVNA_QuW4Ow.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1752968846632443904/pl/srGbCoNJs5mdy-Ey.m3u8?tag=14&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+在 Harvard Business Review 上有整理好的文字稿 https://t.co/oq06xJD4Vt 
+#+END_QUOTE\

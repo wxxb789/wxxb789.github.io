@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Some ✨awesome✨ YouTube C...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[LangChainAI on Twitter]]
+:full-title: "Some ✨awesome✨ YouTube C..."
+:category: [[tweets]]
+:url: https://twitter.com/LangChainAI/status/1751313371369251195
+:image-url: https://pbs.twimg.com/profile_images/1750187002157481984/pL2AibsQ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Some ✨awesome✨ YouTube content on LangGraph by <a href="https://twitter.com/Sam_Witteveen">@Sam_Witteveen</a> 
+
+Sam has awesome, high-quality guides, and this new one on LangGraph is no exception
+
+a GREAT weekend watch
+
+https://t.co/mqhP8eMG32 
+
+![](https://pbs.twimg.com/media/GEygxJgbIAAY3kD.jpg) 
+#+END_QUOTE\

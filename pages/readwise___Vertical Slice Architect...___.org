@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: readwise/Vertical Slice Architect...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Dave_DotNet on Twitter]]
+:full-title: "Vertical Slice Architect..."
+:category: [[tweets]]
+:url: https://twitter.com/Dave_DotNet/status/1751946497426428388
+:image-url: https://pbs.twimg.com/profile_images/1538166477743919105/duZ2oBrg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-30]]
+#+BEGIN_QUOTE
+Vertical Slice Architecture example
+(from yesterday) refactored  ⬇
+
+I posted a VSA sample yesterday. 
+I've refactored it to make it more concise by  ...
+
+1. Using a Primary Constructor from C# 12, to remove a bit of boiler plate. I really  ❤  primary constructors. 
+
+2. Remove the Entity Framework Include as it's not needed with projections. 
+
+3. Switch the ViewModels to use records rather than classes for more concise syntax.
+
+4. Remove MediatR as it was simply not adding value. 
+
+From the namespace statement down, lines were reduced from 72-28. 
+
+No repository pattern, no specification pattern, no MediatR, no indirection, no abstraction fetish that we typically see in our apps, no bloat ...
+
+Everyone want's an easy life so do yourself a favour and at least consider if this type of approach will work for your apps, it's sooooo easy to work with. 
+
+What do you think? 
+
+#dotnet #softwarearchitecture<img src='https://pbs.twimg.com/media/GFAkb7eWsAAAkMx.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-30]]
+#+BEGIN_QUOTE
+Here's the example from yesterday -> 
+
+![](https://pbs.twimg.com/media/GFAwhFCX0AA0AGC.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-01-30]]
+#+BEGIN_QUOTE
+I forgot one of my favourite new features in #csharp in recent years, file scoped namespace, which allow us to reduce indentation by one level. 
+
+Also have qualified the namespace more in case of naming conflicts with other order related use cases.
+
+Thanks <a href="https://twitter.com/pauldbentley">@pauldbentley</a> for the… 
+
+![](https://pbs.twimg.com/media/GFBVm90W8AAEQCW.jpg) 
+#+END_QUOTE\

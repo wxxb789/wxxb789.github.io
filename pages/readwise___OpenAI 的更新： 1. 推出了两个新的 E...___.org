@@ -1,0 +1,54 @@
+:PROPERTIES:
+:title: readwise/OpenAI 的更新： 1. 推出了两个新的 E...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "OpenAI 的更新： 1. 推出了两个新的 E..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1750617466219172097
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-26]]
+#+BEGIN_QUOTE
+OpenAI 的更新：
+1. 推出了两个新的 Embedding 模型
+
+\- `text-embedding-3-small`，体积更小效率更高，价钱只有原来的 1/5，从每1000个 token 的价格 $0.0001 降至 $0.00002。支持 512 维和 1536 维两种大小
+
+- `text-embedding-3-large`，新一代大型 Embedding 模型，最高能到 3072 维向量空间，定价为每1000个 token $0.00013，是小模型的 6.5 倍。
+
+新的模型支持 dimensions 参数来控制精度，可以灵活在大小、性能和成本之间平衡。
+
+2. GPT-3.5 Turbo 下周新版上线，并且价格下调
+
+新模型的数据输入费用降低了 50%，现为每千个Token $0.0005，而数据输出费用降低了 25%，为每Token $0.0015。此外，新模型在多个方面都有所改进，比如能够更准确地按照指定格式回应，还解决了一个影响非英文语言功能调用的文本编码问题。
+
+3. GPT-4 Turbo 预览版更新
+
+推出了最新的 GPT-4 Turbo 预览版 `gpt-4-0125-preview`。这一版本在完成诸如代码生成等任务上比之前的版本更加出色，有效减少了模型在执行任务时出现的不足。同时，它还修复了一个影响非英文字符生成的问题。
+
+计划在未来几个月推出集成了视觉功能的 GPT-4 Turbo 正式版。
+
+4. 内容审核模型更新
+
+发布了迄今为止最强大的内容审核模型 `text-moderation-007`，可以免费使用它来识别有害信息。
+
+5. 更好地管理 API 密钥
+
+首先，开发者现可在 API 密钥页面对密钥进行权限设置。比如，你可以设定某个密钥仅限于读取数据，以便查看公司的内部跟踪仪表板，或者仅允许它访问特定的API。
+
+其次，通过启用追踪功能后，将能够提供基于每个 API 密钥的详细使用指标。这意味着，只需为每个功能、团队、产品或项目分别设置不同的 API 密钥，就可以轻松地监控它们各自的使用情况。
+
+详情查看：https://t.co/DPrsVpB2da<img src='https://pbs.twimg.com/media/GEtxE5mW0AA78eu.png'/><img src='https://pbs.twimg.com/media/GEtxOWDW4AAQyGJ.png'/><img src='https://pbs.twimg.com/media/GEtxTZ1XsAEaiYL.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-01-26]]
+#+BEGIN_QUOTE
+另外解决了之前传闻的模型变懒的问题…… 
+
+![](https://pbs.twimg.com/media/GEuDjGlWYAAX8_0.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/1_N Introducing Chain-Of...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[IntuitMachine on Twitter]]
+:full-title: "1/N Introducing Chain-Of..."
+:category: [[tweets]]
+:url: https://twitter.com/IntuitMachine/status/1753026912983630123
+:image-url: https://pbs.twimg.com/profile_images/1740015728105832448/fRPNehGE.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+1/n Introducing Chain-of-Abstraction
+
+Leveraging external knowledge is key to improving language models, but inefficient tool integration hampers progress. Enter Chain-of-Abstraction - a technique that boosts reasoning accuracy while slashing costs. 
+
+Sequential tool interactions have slowed augmented language models, forcing them to wait on responses before continuing. Each additional call cascades delays as reasoning chains grow, hampering real-world use. Chain-of-Abstraction breaks the sequence by creating an abstract plan then parallelizing execution.
+
+Without explicit connections between steps, models also struggle to use tools effectively in multi-step scenarios. They treat each operation as independent rather than interdependent. Chain-of-Abstraction makes relationships clear and planable upfront through placeholders, enabling robust strategies. 
+
+By decoupling reasoning from retrieval, Chain-of-Abstraction rescues state-of-the-art models from missteps. Testing on mathematical and open-domain question answering tasks confirms consistent accuracy improvements upwards of 7.5% on benchmark leaderboards, even boosting out-of-distribution generalization.
+
+Meanwhile runtime plummets due to deferred execution, clocking near 1.5x faster inferences than previous augmentation techniques. The efficiency unlocks new real-time applications for technology still hindered by impractical latency tradeoffs.
+
+But it’s more than speed and accuracy gains - human evaluations reveal models make nearly 8% fewer reasoning errors when equipped with Chain-of-Abstraction planning, sticking to credible logic chains. Steady reasoning is vital where trust matters.
+
+The modular approach concentrates expertise too - integrating specialized tools for knowledge retrieval preserves their precision advantages as models advance. It’s a framework poised to scale impact.
+
+At heart Chain-of-Abstraction buys time - time saved over sequential calls at inference.<img src='https://pbs.twimg.com/media/GFQAEmeWUAAR6ky.jpg'/> 
+#+END_QUOTE\

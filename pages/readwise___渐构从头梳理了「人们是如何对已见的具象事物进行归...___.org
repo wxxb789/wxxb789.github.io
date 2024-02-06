@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/渐构从头梳理了「人们是如何对已见的具象事物进行归...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "渐构从头梳理了「人们是如何对已见的具象事物进行归..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1754776748607394082
+:image-url: https://pbs.twimg.com/profile_images/583101789483859969/soayV1UA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+渐构从头梳理了「人们是如何对已见的具象事物进行归纳，抽象出共有属性，建立判别模型，从而构建出对应概念，进行不同的行为处理。」
+
+让我想起了古早读的《Thinking in Java》，逻辑并没有什么较大的差异。
+很多人无法进行抽象的本质原因，就是“已见”不够多，“归纳”不够多。
+
+要见，就要行动。要归纳，就要思考。这就是刻意练习。
+如果你读过几百篇论文，看过几百个开源项目，你在面对一个功能时瞬间知道要拿什么来缝合。
+人和人在某些方面的差距，就是如此拉开的。
+
+世界也是在这样一个一体两面的一元论中不断螺旋上升<img src='https://pbs.twimg.com/media/GFo4JRvaIAApPc-.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+这个案例也很有意思：
+农民工被拖欠工资，找老板讨薪。老板拉了横幅说恶意讨薪，不明就里的人们就开始指责。
+
+这里重新强化了一种利用大脑转换人们的判别模型，从而有效忽略掉事实细节，达到目的的方法。
+
+很多营销理论，也是基于此演绎出来的。 
+
+![](https://pbs.twimg.com/media/GFo9T_BboAAe5uS.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/对我来说是这么几点（in That Order）...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[laike9m on Twitter]]
+:full-title: "对我来说是这么几点（in That Order）..."
+:category: [[tweets]]
+:url: https://twitter.com/laike9m/status/1752183812308758854
+:image-url: https://pbs.twimg.com/profile_images/554257566008483840/CzOgjPoY.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-30]]
+#+BEGIN_QUOTE
+对我来说是这么几点（in that order）
+
+1. 想拥有属于自己的看得见的产品，而非成为巨大机器里的的一枚无名零件
+2. 想做让人们的生活变得更好而不是更糟的东西
+3. 想继续拥有创造的快乐
+4. 为裁员最准备 
+#+END_QUOTE\

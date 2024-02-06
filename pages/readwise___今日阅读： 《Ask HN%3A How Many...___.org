@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/今日阅读： 《Ask HN: How Many...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "今日阅读： 《Ask HN: How Many..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1754688931671773400
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+今日阅读：
+《Ask HN: How many of you are self employed? 自由职业都在干什么？》
+
+https://t.co/ixGOdOula0
+
+非常有趣的 HackerNews 论坛帖子，没想到在美国有这么多有趣的自由职业的方式，虽然是程序员的论坛，没想到好多人都在干和计算机毫无相干的行业。
+
+1 有做 coin dealer 的，靠卖旧硬币来赚钱，是儿时就有的爱好。
+
+2 有做 furniture maker 的，给别人做手工家具
+
+3 剩下最多的就是创业/做外包/独立开发/写技术文章，但是每个人的经历都不同，非常有趣，强烈建议大家读一读。
+
+我很喜欢其中一个做独立设计师的一段经验：
+
+1 减少开支，开源节流，不要负债。
+2 对别人友好，和之前的优秀的同事保持关系，他们有可能给你介绍客户。
+3 永远做自己感兴趣的项目，并且从中可以学习新的经验，假如对别人也有帮助，尝试分享这些内容。
+4 做计划，做 todo list，创造一个灵感盒子，日常有意思的想法都写张卡片扔进去，当你感觉到枯竭的时候，就随机拿出一张寻找灵感。
+5 每天照镜子问自己是否对明天还充满兴趣和斗志，如果很多天都陷入焦虑，那么就说明该改变了，目前的自由职业不适合你。
+
+不知道大家自由职业都在做什么？不妨也分享一下。
+
+还有就是有没有什么HackerNews 更好的阅读器啊，现在看的实在是太累了，评论没有层次看起来太累了。<img src='https://pbs.twimg.com/media/GFnoMfMa8AA5Voj.jpg'/> 
+#+END_QUOTE\

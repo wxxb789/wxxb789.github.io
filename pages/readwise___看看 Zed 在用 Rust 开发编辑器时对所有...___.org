@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/看看 Zed 在用 Rust 开发编辑器时对所有...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[liruifengv on Twitter]]
+:full-title: "看看 Zed 在用 Rust 开发编辑器时对所有..."
+:category: [[tweets]]
+:url: https://twitter.com/liruifengv/status/1752520301232210391
+:image-url: https://pbs.twimg.com/profile_images/1575140014912000001/pMRGEcaN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-01]]
+#+BEGIN_QUOTE
+看看 Zed 在用 Rust 开发编辑器时对所有权和数据流的一些思考。
+
+GPUI 是他们实现的一套 Rust GUI 库，并且实现了发布订阅等。挺干的一篇文章，本来想翻译一下，但是不太好翻，直接放原文吧。
+
+https://t.co/n4CYz3lmse 
+#+END_QUOTE\
+** 📌 [[2024-02-01]]
+#+BEGIN_QUOTE
+别吵用 TS 还是 JS 啦，看会儿 Rust 长长脑子。 
+#+END_QUOTE\

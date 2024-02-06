@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/一些朋友可能不理解 Dify 为什么选择现在这个...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[goocarlos on Twitter]]
+:full-title: "一些朋友可能不理解 Dify 为什么选择现在这个..."
+:category: [[tweets]]
+:url: https://twitter.com/goocarlos/status/1750531961297518698
+:image-url: https://pbs.twimg.com/profile_images/1610997345960984581/oLZPDA7o.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-26]]
+#+BEGIN_QUOTE
+一些朋友可能不理解 Dify 为什么选择现在这个时候推出 Agent 能力：这不是一个“古早”技术了吗？AutoGen 等等都玩了好久了。
+
+最早我开始研究 Agent 是去年三月份，但创业团队要做的不是搞出兰博基尼，而是人人都可以开的丰田车。因此我们一直对将 Agent 能力纳入产品较为审慎，选择现在是因为：
+1. 技术已突破临界点，模型、推理模式和开发范式基本定型；
+2. 有一定数量的情景，我们在许多开发者那里看到 Agent 在一些“工序”上已经发挥了作用；
+3. 我们自己做好了准备，工程上我们有了技术储备，包括对 DSL 的定义等等，以及 Dify 有了相当大的开发者基数，刚看了下近期 Docker 镜像下载量已经接近了 14 万。
+
+我们一直不是最技术激进的团队，而是让用户对 Dify 一直有稳定的认知：简单、克制、可投产。
+
+目前的 Agent 只是一个底座，潘多拉魔盒才刚刚打开。<img src='https://pbs.twimg.com/media/GEshUlpbUAAygd6.jpg'/> 
+#+END_QUOTE\

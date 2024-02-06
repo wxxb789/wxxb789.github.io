@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Ray 在 2023 年投资总结的 YouTub...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[henices on Twitter]]
+:full-title: "Ray 在 2023 年投资总结的 YouTub..."
+:category: [[tweets]]
+:url: https://twitter.com/henices/status/1751414662480937029
+:image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-28]]
+#+BEGIN_QUOTE
+Ray 在 2023 年投资总结的 YouTube 视频中，列了一份书单，我觉得不错。
+
+The Uncertainty Solution: How to Invest with Confidence in the Face of the Unknown
+
+Clear Thinking: Turning Ordinary Moments into Extraordinary Results
+
+Just Keep Buying: Proven ways to save money and build your wealth
+
+Same as Ever: A Guide to What Never Changes 
+#+END_QUOTE\

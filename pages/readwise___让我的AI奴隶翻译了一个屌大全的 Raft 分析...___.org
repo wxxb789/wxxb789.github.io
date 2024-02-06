@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/让我的AI奴隶翻译了一个屌大全的 Raft 分析...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[drmingdrmer on Twitter]]
+:full-title: "让我的AI奴隶翻译了一个屌大全的 Raft 分析..."
+:category: [[tweets]]
+:url: https://twitter.com/drmingdrmer/status/1752531787698647064
+:image-url: https://pbs.twimg.com/profile_images/1535809672682557440/0Xwhx_vg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+让我的AI奴隶翻译了一个屌大全的 Raft 分析:
+<<Raft（不是）全能：如何使其更加健壮>>
+https://t.co/dnbKGQDarE 
+
+![](https://pbs.twimg.com/media/GFI-Wt_aMAEhfik.jpg) 
+#+END_QUOTE\

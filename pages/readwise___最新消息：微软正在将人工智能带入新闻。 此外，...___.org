@@ -1,0 +1,109 @@
+:PROPERTIES:
+:title: readwise/最新消息：微软正在将人工智能带入新闻。 此外，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "最新消息：微软正在将人工智能带入新闻。 此外，..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1754788162898202997
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+最新消息：微软正在将人工智能带入新闻。
+
+此外，Roblox、Apple、Bumble、阿里巴巴、Sam Altman、拜罗伊特大学、华为的巨大发展，以及一些疯狂的深度造假骗局。
+
+以下是您需要了解的所有内容： 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+微软刚刚宣布与媒体机构建立新的合作伙伴关系，为新闻编辑室提供人工智能工具。
+
+人工智能将用于研究--记者仍将撰写文章（暂时如此）。
+
+合作机构包括 Semafor、纽约市立大学新闻学院、The GroundTruth Project 等。 <video controls><source src="https://video.twimg.com/ext_tw_video/1754788475130523648/pu/vid/avc1/1280x720/v_vm_FIuggnqIche.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1754788475130523648/pu/vid/avc1/480x270/umUMsKsVWBF7vDaC.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1754788475130523648/pu/vid/avc1/640x360/F9R-lvqsMp3DHgs4.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1754788475130523648/pu/pl/U2mCjh_GNS_jg4X8.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+Roblox 刚刚推出了实时人工智能聊天翻译器。
+
+使用不同语言的玩家现在可以通过游戏中的文本进行无缝交流。
+
+很快，每个平台都可能拥有自己的人工智能系统，从而消除我们所知的沟通障碍。 <video controls><source src="https://video.twimg.com/ext_tw_video/1754788683465863168/pu/pl/318nJlju4XcXq76s.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1754788683465863168/pu/vid/avc1/658x360/vlmZLW1YapAA5pf2.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1754788683465863168/pu/vid/avc1/1002x548/0Qal9sgjgr2CI1fc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1754788683465863168/pu/vid/avc1/492x270/0l6AdLJ7PczsiiSj.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+苹果公司的研究人员刚刚推出了一种新方法，帮助语音识别模型更好地理解陌生单词和名称。
+
+看来，我们可能很快就要对 Siri 进行一次重大（也是急需的）升级了 👀 
+
+![](https://pbs.twimg.com/media/GFpDMEJagAA11BA.png) 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+Bumble 推出了一款名为 "欺骗探测器"（Deception Detector）的人工智能新工具。
+
+该功能可自动识别并阻止约会平台上 95% 的垃圾信息和虚假资料。
+
+记下来，Twitter。 
+
+![](https://pbs.twimg.com/media/GFpDWS3bwAA7vOG.png) 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+阿里巴巴研究人员发布了 Qwen1.5，开源了六种不同大小的型号。
+
+据报道，在某些基准测试中，其性能超过了 GPT 3.5 + Mistral-Medium，甚至超过了 GPT 4。
+
+中国的 LLM 竞争对手开始认真起来了。https://t.co/YT38Kg18JX 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+Sam Altman 表示，GPT-4 在假期期间表现“懒惰”，其性能应该得到提升。
+
+即使人工智能也难以实现新年决心：https://t.co/SvE8pSCu56 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+拜罗伊特大学的科学家正在使用人工智能来分析星系结构和行为。
+
+由于我们对宇宙知之甚少，一些新发现可能会变得疯狂。 
+
+![](https://pbs.twimg.com/media/GFpG0OUaAAAWFKt.png) 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+尽管华为已成为中国智能手机销量的领先者，但其手机生产仍在放缓。
+
+原因？在全球需求激增的情况下优先考虑人工智能芯片。
+
+这家科技巨头对人工智能未来发展方向的看法相当明确。 
+
+![](https://pbs.twimg.com/media/GFpHDQ1bwAA0ay_.png) 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+人工智能深度造假占据了各大媒体的头条新闻。两个疯狂的新东西：
+
+\-OnlyFake，一个利用人工智能创建近乎即时的假身份证的网站。
+
+- 在香港发生的 2560 万美元抢劫案，诈骗者利用 Deepfake 技术说服员工转移资金。https://t.co/2snlkG5qHL 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+以上就是全部，订阅作者<a href="https://twitter.com/rowancheung">@rowancheung</a>了解有关人工智能的更多信息👇 
+https://t.co/AduvAjpilb 
+#+END_QUOTE\
+** 📌 [[2024-02-06]]
+#+BEGIN_QUOTE
+<a href="https://twitter.com/rowancheung">@rowancheung</a> 欢迎关注我<a href="https://twitter.com/FinanceYF5">@FinanceYF5</a>
+
+点赞转发这条推特
+https://t.co/UdRqBkKbDt 
+#+END_QUOTE\

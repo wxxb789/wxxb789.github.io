@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/展开说一下我用ai编程的具体感受  1. Ai擅...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[llennchan2003 on Twitter]]
+:full-title: "展开说一下我用ai编程的具体感受  1. Ai擅..."
+:category: [[tweets]]
+:url: https://twitter.com/llennchan2003/status/1752808872895799440
+:image-url: https://pbs.twimg.com/profile_images/1182317342887305216/BFVLlBvC.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-01]]
+#+BEGIN_QUOTE
+展开说一下我用AI编程的具体感受 
+1. AI擅长一个文件内能独立完成的东西（比如说py，sql，算法），但是特别不擅长新的，变化大的，分文件的东西，比如说前端 
+
+2. AI在处理竞态问题，多线程和异步的编程问题上很弱,但是背诵相关概念很强，这些问题一般需要人类处理，但是可以依靠AI了解背景知识 
+
+3. 不是所有的问题都适合用自然语言描述，有的时候代码中出现了反模式的东西，和主流设计不一样，GPT往往理解不了，这种特别细节的代码需要人工来写 ，有的问题单纯就是代码比自然语言更好描述，不如直接写代码。
+
+4. AI特别擅长推荐各种包和API，描述需求让AI看看有没有简单现成的方案
+
+5. 很多时候用AI并不一定开发速度更快，只是把一部分工作offload给AI，可以轻松一点，免得在一天的持续开发中，累的太快 
+#+END_QUOTE\

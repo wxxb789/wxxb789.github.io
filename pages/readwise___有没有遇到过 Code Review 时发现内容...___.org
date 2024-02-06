@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/有没有遇到过 Code Review 时发现内容...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[alswl on Twitter]]
+:full-title: "有没有遇到过 Code Review 时发现内容..."
+:category: [[tweets]]
+:url: https://twitter.com/alswl/status/1753269221872771463
+:image-url: https://pbs.twimg.com/profile_images/1511909031643807746/FN2dmQij.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+有没有遇到过 Code Review 时发现内容太多，想拆分 Commit 却没法下手？
+我以前使用的方案是提交多个连续 PR，然后在 PR B 里面写清楚本 PR 依赖于 A PR，请先合并 A 再 Code Review。
+
+有没有更好的方案？当然有：git rebase 自带一个 --onto 功能可以快速拆分 Commits，高效又可靠。 
+
+![](https://pbs.twimg.com/media/GFTcZ1nbYAAU770.png) 
+#+END_QUOTE\

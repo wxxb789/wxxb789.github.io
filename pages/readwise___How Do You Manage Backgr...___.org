@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/How Do You Manage Backgr...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[richcampbell on Twitter]]
+:full-title: "How Do You Manage Backgr..."
+:category: [[tweets]]
+:url: https://twitter.com/richcampbell/status/1753085857668514263
+:image-url: https://pbs.twimg.com/profile_images/3319695661/a2ee3550d299dc1641acc062290ce374.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+How do you manage background tasks in .NET?
+
+<a href="https://twitter.com/odinserj">@odinserj</a> talks on DotNetRocks at https://t.co/FJKcnyJLad about the Hangfire open-source library.
+
+All the things you could code for yourself to deal with background processing - but why bother? Sergey has done an awesome job of it! 
+#+END_QUOTE\

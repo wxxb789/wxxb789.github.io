@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/说个暴论：年薪50以上的人换工作成本越来越高，甚...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[i5ting on Twitter]]
+:full-title: "说个暴论：年薪50以上的人换工作成本越来越高，甚..."
+:category: [[tweets]]
+:url: https://twitter.com/i5ting/status/1752696115068301427
+:image-url: https://pbs.twimg.com/profile_images/1740052345160179712/Jsu6-Yok.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-01]]
+#+BEGIN_QUOTE
+说个暴论：年薪50以上的人换工作成本越来越高，甚至是换工作等于失业。没有危机感的人，会成为真的傻白甜。
+
+一个很好的6，被迫出走之后，去了一家小公司，只有40个。这大概不算个特别坏的例子。甚至主动要大礼包，回去2年之后，开始发慌进账的。
+
+实话讲，5年8年以上以工资做为奶嘴的程序员，是不具备断奶能力的。买方市场，早做准备吧。 
+#+END_QUOTE\

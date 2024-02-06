@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/今年对我帮助最大的 2本书： @Tferriss...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[AndrewBBoo on Twitter]]
+:full-title: "今年对我帮助最大的 2本书： @Tferriss..."
+:category: [[tweets]]
+:url: https://twitter.com/AndrewBBoo/status/1752120576859414918
+:image-url: https://pbs.twimg.com/profile_images/1712101951981412352/egla00dg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-30]]
+#+BEGIN_QUOTE
+今年对我帮助最大的 2本书：
+<a href="https://twitter.com/tferriss">@tferriss</a> 的《每周工作4小时》
+几个印象深刻的点：
+1. 如果做一个决定，自己认为是对的，但家人朋友不理解，那就先做然后请求理解，而不是先请求许可然后才能做。
+2. 80% 的客户会给你带来绝大部分的客服售后沟通等工作量，但在你的收入比例中可能只占了 20%，这时候就要放弃这些用户，服务那 20% 的用户。其他事情也一样，80% 的时间放在那真正重要的 20% 的事情上。
+3. 不要成为生意运转中的一环，打造一个脱离了自己也能运转的生意，而自己只是“拥有”它
+<a href="https://twitter.com/levelsio">@levelsio</a> 的https://t.co/Bx6ABxltJb
+这个就不用过多介绍了，传奇独立开发者，干货满满，必读了 
+#+END_QUOTE\

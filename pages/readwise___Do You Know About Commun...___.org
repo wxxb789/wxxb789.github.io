@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/Do You Know About Commun...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[KarenPayneMVP on Twitter]]
+:full-title: "Do You Know About Commun..."
+:category: [[tweets]]
+:url: https://twitter.com/KarenPayneMVP/status/1753076448976621753
+:image-url: https://pbs.twimg.com/profile_images/643911912716021760/AUSOPy2Y.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-02-02]]
+#+BEGIN_QUOTE
+Do you know about
+CommunityToolkit.Diagnostics Guard.IsBetween ?
+
+Sample code
+
+https://t.co/4RgTjqhEaf 
+
+![](https://pbs.twimg.com/media/GFQtdc1bYAAbt5C.jpg) 
+#+END_QUOTE\

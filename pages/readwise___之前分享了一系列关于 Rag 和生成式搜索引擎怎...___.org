@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/之前分享了一系列关于 Rag 和生成式搜索引擎怎...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "之前分享了一系列关于 Rag 和生成式搜索引擎怎..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1751875892476043582
+:image-url: https://pbs.twimg.com/profile_images/1735561740136681472/b3-0se7w.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-06]]
+** 📌 [[2024-01-30]]
+#+BEGIN_QUOTE
+之前分享了一系列关于 RAG 和生成式搜索引擎怎么做的文章（包括最近在中关村论坛也做了一个关于生成式搜索引擎的演讲）。最近 <a href="https://twitter.com/jiayq">@jiayq</a> <a href="https://twitter.com/yadong_xie">@yadong_xie</a> 团队的 Lepton Search 开源了，大家可以阅读一下源码，非常简洁，核心部分用了 500 行 Python 就实现了一个类似 Perplexity 的生成式搜索引擎。
+
+https://t.co/Gy96eBMQRZ
+
+https://t.co/jgjk1NmDE1 底层的 RAG 部分大概有 2 万行左右的 Go，我们依然 focus 在开发者这个细分的场景中，在 RAG 的每一步都做了非常多的优化。
+
+扬清老师的一个观点我觉得非常对，RAG 的核心在 R 不在 G，这个应该做过 RAG 的都有体验。
+
+And 如果未来我们把 https://t.co/jgjk1NmDE1 依赖的这套 Go 语言的 RAG framework 开源大家会感兴趣么，相比较 Python，我们测试下来可以以极少的资源来支持百万级别的搜索 RAG。 
+#+END_QUOTE\
