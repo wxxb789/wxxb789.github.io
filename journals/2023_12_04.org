@@ -1,4 +1,0 @@
-* [[https://llm.datasette.io/_/downloads/en/stable/pdf/][llm.datasette.io]]
-* [[https://github.com/friuns2/BlackFriday-GPTs-Prompts][friuns2/BlackFriday-GPTs-Prompts: List of free GPTs that doesn't require plus subscription (github.com)]]
-* [[https://chat.openai.com/g/g-tXRU6PcBN-devops-gpt][ChatGPT - DevOps GPT (openai.com)]]
-* [[https://www.reddit.com/r/OpenAI/comments/17vg0p1/i_wish_most_that_this_was_already_fixed_with/][I wish most that this was already fixed with ChatGPT - GPT-4 : r/OpenAI (reddit.com)]]

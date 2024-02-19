@@ -1,5 +1,0 @@
-* [[links]], [[book/online]]
-** [[https://github.com/luckrnx09/python-guide-for-javascript-engineers?tab=readme-ov-file][luckrnx09/python-guide-for-javascript-engineers: An open-source ebook helps JavaScript engineers quickly master the Python language (github.com)]]
-一本基于 [[https://github.com/luckrnx09/abook][abook]] 编写的开源电子书，涵盖了从 Python 环境安装到项目开发的方方面面。通过大量案例对比 JavaScript 和 Python 语言的异同，帮助 JavaScript 工程师快速掌握 Python 语言
-** [[https://github.com/google/generative-ai-python][google/generative-ai-python: The Google AI Python SDK enables developers to use Google's state-of-the-art generative AI models (like Gemini and PaLM) to build AI-powered features and applications. (github.com)]]
-*
