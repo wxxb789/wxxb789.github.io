@@ -1,4 +1,3 @@
-#+title: Math/Linear Algebra/Concept
 #+tags: math, linear algebra,
 
 * Vector 向量

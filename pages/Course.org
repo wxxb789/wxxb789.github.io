@@ -1,1 +1,3 @@
 #+alias: crse, tut, tutorial,
+
+* crse is [[abbr]] of course, course of study
