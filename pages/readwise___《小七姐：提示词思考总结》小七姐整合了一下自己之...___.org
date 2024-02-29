@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/《小七姐：提示词思考总结》小七姐整合了一下自己之...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[WaytoAGI on Twitter]]
+:full-title: "《小七姐：提示词思考总结》小七姐整合了一下自己之..."
+:category: [[tweets]]
+:url: https://twitter.com/WaytoAGI/status/1763013775727464505
+:image-url: https://pbs.twimg.com/profile_images/1654774036759728128/KCCnFPkO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+《小七姐：提示词思考总结》小七姐整合了一下自己之前关于提示词的总结，做了一篇比较系统的说明，干货满满的一篇内容，有 PPT、视频详解和文字稿。
+
+她认为学习提示词本质上只需要做两件事：
+1.了解大模型的特性
+2.了解自己的需求和表达
+而最终如何把上述学习融入生产力。
+
+https://t.co/pCLLCLmUzv 
+
+![](https://pbs.twimg.com/media/GHd7NwJbkAAIIok.jpg) 
+#+END_QUOTE\

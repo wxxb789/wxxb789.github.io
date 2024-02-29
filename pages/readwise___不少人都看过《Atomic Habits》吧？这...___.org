@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/不少人都看过《Atomic Habits》吧？这...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[beihuo on Twitter]]
+:full-title: "不少人都看过《Atomic Habits》吧？这..."
+:category: [[tweets]]
+:url: https://twitter.com/beihuo/status/1762745092283195414
+:image-url: https://pbs.twimg.com/profile_images/1182400217800302592/yFy4Ghlv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+不少人都看过《Atomic Habits》吧？这本书讲述了如何通过建立微小的习惯来实现巨大的个人蜕变。建立习惯是有技巧的，要养成良好习惯的关键是：确定具体行动、设定明确的时间和地点，最关键的是塑造与之相符的自我认同。
+
+如果你看完这本书，需要按照书中的方法论来实践，可能想要一个顺手的软件。好消息是，这本书刚刚发布了一个配套 app。我下载试了试，确实和普通的习惯养成软件有很大的理念差异。<img src='https://pbs.twimg.com/media/GHaHUZeaEAAfHZz.jpg'/><img src='https://pbs.twimg.com/media/GHaHUZda4AAK3Gg.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+创建了一个习惯。这种感觉真不一样，相比其他提醒软件，更强调一个愿景，从而自我鼓励。 
+
+![](https://pbs.twimg.com/media/GHaJKqqbQAA7cMX.jpg) 
+#+END_QUOTE\

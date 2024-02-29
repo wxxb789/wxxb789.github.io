@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/想请教一下各位公司一般是怎么样避免由于工程师配置...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[VoidAsuka on Twitter]]
+:full-title: "想请教一下各位公司一般是怎么样避免由于工程师配置..."
+:category: [[tweets]]
+:url: https://twitter.com/VoidAsuka/status/1763076225806053386
+:image-url: https://pbs.twimg.com/profile_images/1729345509205442560/3zpyKNaI.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+想请教一下各位公司一般是怎么样避免由于工程师配置参数设置不合理导致的线上事故的。我的一部分工作是帮助公司开发和维护数据库连接相关的SDK，发现有不少线上事故是因为使用SDK的工程师配置了不适合PRD的参数导致的，比如对他们业务来说明显不合理的timeout，有什么SOP可以尽量避免这种human err？已知每次配置参数都会经过review才会上线，无法避免reviewer直接approve而忽略参数实际的意义和应该设定的value。SDK也做了基础的参数校验和log warn，文档也做了相应的解释。 
+#+END_QUOTE\

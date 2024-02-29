@@ -1,0 +1,67 @@
+:PROPERTIES:
+:title: readwise/感谢@dotey 分享这样一个有意思的项目！ 简...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "感谢@dotey 分享这样一个有意思的项目！ 简..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1762354574378303595
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+感谢<a href="https://twitter.com/dotey">@dotey</a> 分享这样一个有意思的项目！
+简单分享几个我认为可以尝试的副业方向，只是思路，未做验证。
+另外付一个方法可以利用AI快速构建shorts视频，以便获取公域流量：
+
+实体类
+1、使用printify+这个sticker网站，来制作“贴纸”，“冰箱贴”，“纪念章”等等你能想到的任何东西。printify只需要你提供图片，其他的生产配送这些他们全部都帮你解决了，你来定价，配合etsy的商城就可以联通赚美元。
+
+解决了货品，接下来的问题就是如何获客。
+可以通过tiktok/youtube shorts/pinterest/ins去找到合适的购买用户。这也可以使用AI来解决。下面我贴一个如何快速构建youtube shorts的视频。
+
+2、通过倒卖信息差，在国内闲鱼，淘宝之类的商城也可以完成整体交易流程。
+小红书是很好的获客方式，内容围绕人们身边的东西来构建即可。记得要给贴纸赋予“纪念”意义，最好能围绕着客户的产品，比如一场活动，一次经历等等。这种结合了人的情感因素和品牌元素的东西，往往有更高溢价空间。
+
+举个例子：品牌贴纸徽章设计
+很多时候人们都希望有一个独一无二的奖章。初创公司也都喜欢将品牌sticker贴在自己的mac上。
+设计成本还是挺高的，如果能结合这个项目，将极大节约时间。这或许有一定的尝试空间。
+
+但凡能赋予图片意义的，都是很好的切入点。
+
+虚拟类
+1、换汤不换药的场景心智切换，以便寻找到niche市场
+\- 视频video素材（插件）
+这种贴纸可以丰富你的视频内容，可以通过一些有意思的视频形式附带上这些贴纸，甚至是做一个视频教程。
+底层API来用宝玉老师分享的这个项目，在上面重新封装一个“心智”。
+
+- PPT素材（插件）
+相同的逻辑你还可以用在PPT里
+
+2、抱着大树吃饭，在平台上寻找场景机会
+我们可以借助平台来反向思考：
+- shopify上的商家，什么时候会用到贴纸？
+- youtuber什么时候会用到贴纸？
+- 推友什么时候会用到贴纸？
+
+当你开始遍历你熟悉的平台时，你就会找到机会。
+比如：
+shopify的商品图片上，是否会需要一些贴纸广告宣传语？看起来会不会更酷？
+或者他们发送给客户的电邮里，会不会因为有个贴纸让用户更愿意分享？
+
+再或者：
+canva会不会用贴纸？他的贴纸都是素材库，如果把这些素材提供给canva，当个中间商是不是也可以赚钱？
+
+这些小的场景都适合去脑暴，然后再进一步做调研确定是否可行，以及是否能形成一个小的商业闭环。<video controls><source src="https://video.twimg.com/amplify_video/1762349897372803072/pl/m8ahbAiuxzoBu1XL.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1762349897372803072/vid/avc1/1280x720/y6hP4iogK5PiHaaD.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762349897372803072/vid/avc1/640x360/3dMoYnViE6bLBFzI.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762349897372803072/vid/avc1/480x270/8nvwNmJNPNRoTaAE.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+<a href="https://twitter.com/dotey">@dotey</a> <a href="https://twitter.com/sama">@sama</a> Sticker Gift. 
+
+![](https://pbs.twimg.com/media/GHUlm5DaQAAW_E-.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,54 @@
+:PROPERTIES:
+:title: readwise/Figma群里有个设计师朋友，挺牛的，自己写代码...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "Figma群里有个设计师朋友，挺牛的，自己写代码..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1762849253528142220
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+figma群里有个设计师朋友，挺牛的，自己写代码。
+
+最近聊天得知也裁员了，问他有何打算，准备转独立开发。然后我就问他有什么想做的事情，他点子也多，说起来我们逐一分析pass掉了很多，最终结合他设计师->独立开发的经历，我们找到了有极大优势的领域。
+
+不断挖掘不断分析，直到发现自己擅长的，自己喜欢的，和能商业化的交集：
+
+凭借自己设计的优势，其实可以帮助那些“设计能力不够强”的人获得一个较好的设计效果；帮助那些“优秀设计者”以更短的时间拿到优质结果。
+
+说到这里，可能你大概已经猜到是做什么了，这个领域就是Mockups＆Template
+
+没错，为用户做模板！
+
+万物皆可模板，但做什么样的模板才有更好的商业化空间呢？
+
+我们看了看市场上都有哪些做模板的服务：
+\-比如https://t.co/tAh8NeE82f 这个项目，它是专注在appstore的宣传图，看标语，帮助你提升商店页30%下载转化。
+-比如cleanshotX，依靠模板帮你美化截图
+-比如https://t.co/v2RlBGV226 网页内的数字模板
+-比如https://t.co/H3DACh31kR 通过模板帮你美化paywall
+-比如小吉做的吉光卡片，通过模板生成分享文案
+-再比如谜底，用模板点缀桌面
+
+有太多太多可以通过设计模板化进行提升的地方了。
+这些场景里，赚钱空间最大的，往往是让人感觉能帮助别人赚钱的。
+其次是帮别人省时间的。
+最后是设计愉悦人心的。
+
+基于这个顺序，朋友自己找到了几个可以商业化的方向准备开始尝试了，期待他能成功。
+
+如果你也是喜欢设计，擅长设计，并愿意动手实践的，不妨从一些设计模板化的项目开始，先搞几个设计稿就出去找用户，做访谈收反馈，看看会不会有人愿意付费！ 
+#+END_QUOTE\
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+顺便帮 <a href="https://twitter.com/hixiaoji">@hixiaoji</a> 推荐一下“吉光卡片”，填入自己想写的卡片，就可以生成一张文艺的分享卡！ 
+
+![](https://pbs.twimg.com/media/GHbn6-4bgAAVm5l.jpg) 
+#+END_QUOTE\

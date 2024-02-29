@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/Network Visualization With R
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[kateto.net]]
+:full-title: "Network Visualization With R"
+:category: [[articles]]
+:url: http://www.kateto.net/wp-content/uploads/2019/06/Sunbelt%202019%20R%20Network%20Visualization%20Workshop.pdf
+:image-url: https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+The main concern in designing a network visualization is the purpose it has to serve. 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+![](https://readwise-assets.s3.amazonaws.com/media/reader/pub/8b32100da0419a6ab512dc1228b0f935.png)?t=1709013439701 
+#+END_QUOTE\

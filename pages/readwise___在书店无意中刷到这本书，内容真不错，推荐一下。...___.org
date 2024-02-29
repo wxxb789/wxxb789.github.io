@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/在书店无意中刷到这本书，内容真不错，推荐一下。...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[hemashushu on Twitter]]
+:full-title: "在书店无意中刷到这本书，内容真不错，推荐一下。..."
+:category: [[tweets]]
+:url: https://twitter.com/hemashushu/status/1763049567648702465
+:image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+在书店无意中刷到这本书，内容真不错，推荐一下。
+
+它最大特点是配有大量的图片，比如引导和启动过程，每个步骤内存里的布局和内容是什么，都用图片画出来了，非常直接明了。
+
+我早前也写过类似的文章，但实在太难了，制作图片要花巨量的时间，一天画三张已到极限后面还要修改。可想这书花了多少精力。 
+
+![](https://pbs.twimg.com/media/GHeaoBVbYAAXJ5y.jpg) 
+#+END_QUOTE\

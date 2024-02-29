@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: readwise/OPSEC: 什么情况下警察可以追踪到我的Twi...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HatimiCat on Twitter]]
+:full-title: "OPSEC: 什么情况下警察可以追踪到我的Twi..."
+:category: [[tweets]]
+:url: https://twitter.com/HatimiCat/status/1762342217598066987
+:image-url: https://pbs.twimg.com/profile_images/1754068468989607936/T_Pp4PFV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+OPSEC: 什么情况下警察可以追踪到我的Twitter、如何安全注册Twitter账户、如何确保账户安全性，以及如何防止被盗取和一系列简单的安全建议
+
+此建议适用于新手小白
+(1/2) 
+
+![](https://pbs.twimg.com/media/GHUYIlEbsAAf48W.jpg) 
+
+![](https://pbs.twimg.com/media/GHUYKbwa4AA-yxw.jpg) 
+
+![](https://pbs.twimg.com/media/GHUYMO8aoAAAz4Y.jpg) 
+
+![](https://pbs.twimg.com/media/GHUYOaDaEAAykMy.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+(2/2) 
+
+![](https://pbs.twimg.com/media/GHUYRquaEAAmi8R.jpg) 
+
+![](https://pbs.twimg.com/media/GHUYS2TakAArvQg.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+更正一点 第二条: 电信运营商只能看到访问的https的域名 
+#+END_QUOTE\
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+有关于iPhone，请不要登录中国大陆区Apple ID
+登录即送中
+
+如果有能力，请使用类原生Android手机，或者不使用移动设备
+
+这篇文章仅面向新手 
+#+END_QUOTE\

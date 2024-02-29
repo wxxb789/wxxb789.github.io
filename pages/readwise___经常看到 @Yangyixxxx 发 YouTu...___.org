@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/经常看到 @Yangyixxxx 发 YouTu...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[kuroko_xh on Twitter]]
+:full-title: "经常看到 @Yangyixxxx 发 YouTu..."
+:category: [[tweets]]
+:url: https://twitter.com/kuroko_xh/status/1762675678129099243
+:image-url: https://pbs.twimg.com/profile_images/1164040604092784640/G97J1N12.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+经常看到 <a href="https://twitter.com/Yangyixxxx">@Yangyixxxx</a> 发 YouTube 的 10X INCOME 的视频和分析，被种草了，我也来分析一下他的产品运营模式，发现了这 5 点
+
+1. YT 发布 AI 副业项目的视频作品，增加粉丝和曝光
+2. YT 简介里为自己的其他平台引流，如 Discord
+3. 透露自己的 YT 频道的增长的策略！通过邮箱订阅收集种子用户 
+
+![](https://pbs.twimg.com/media/GHZICEobMAAF6Zj.jpg) 
+
+![](https://pbs.twimg.com/media/GHZIC0laEAESIvH.jpg) 
+
+![](https://pbs.twimg.com/media/GHZIEbIbAAAnQ5t.png) 
+#+END_QUOTE\
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+4. 引流到免费的私域（discord），目前人数已经破 W，当人数满足预期时，再开始预告后面有【付费】的 VIP 社群
+
+5. 做付费小册，将他油管频道中出现的副业工具和方法，汇集成单个的小册子进行售卖，因为很多思路是相同的，把一个个副业实操课简化成一本本小册 
+
+![](https://pbs.twimg.com/media/GHZJP4OboAAj2gu.jpg) 
+
+![](https://pbs.twimg.com/media/GHZJQr9a0AAbTEu.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+同步到国内的做法
+1. 各大社交平台发作品引流到微信，当群满 500 人开始说付费社群，如知识星球
+2. 不断分享收益和跑通的项目，通过工具来收集付费意向的种子用户
+3. 出一个自媒体底层思维课，将新的【变现思路和实操】汇集成付费小册，如小报童
+4. 知识星球和小报童开启分销模式
+5. 循环以上步骤 
+#+END_QUOTE\

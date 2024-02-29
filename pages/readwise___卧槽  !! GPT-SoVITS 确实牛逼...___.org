@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/卧槽  !! GPT-SoVITS 确实牛逼...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "卧槽  !! GPT-SoVITS 确实牛逼..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1762157845091426401
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+卧槽  !! GPT-SoVITS 确实牛逼 
+
+https://t.co/ZrgSCRgKYv
+
+比起上次的 Birt-VITS, 耗时大大缩短了。下面克隆了海瑟薇小姐姐的声音，把她经典的时尚女魔头，街头变装的桥段，用女性视角，再重现一遍（最喜欢的一幕）
+
+SOP:
+
+1/ GPT-SoVITS 训练和推理声音
+2/ ChatGPT 4 写脚本台词
+3/ 剪映出片（居然识别音频准确得一塌糊涂，牛逼）
+
+看来要为剪映付费了，神器啊<video controls><source src="https://video.twimg.com/ext_tw_video/1762157144722251776/pu/vid/avc1/640x360/sRVqe9acbyEI51sD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762157144722251776/pu/vid/avc1/1280x720/Sl0g_1q2HmtJE1cf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762157144722251776/pu/vid/avc1/480x270/CXgqS5u3Y4LNcrF5.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762157144722251776/pu/pl/0Tn6qntnc7W6a2Lx.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+卧槽，这个视频好糊啊。美感全无 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+这是海瑟薇小姐姐原声。对比来听，70% 以上克隆过来了。而且是一刀成型，GPT-SoVITS 确实牛逼 <video controls><source src="https://video.twimg.com/ext_tw_video/1762338346829807616/pu/vid/avc1/480x270/cUJPLvdormbxYzQR.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762338346829807616/pu/pl/qrMhItvpBgKpaOlV.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762338346829807616/pu/vid/avc1/1280x720/F9X6QqI1CSi-bH8g.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762338346829807616/pu/vid/avc1/640x360/-1U_u_82DXLfzGi_.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

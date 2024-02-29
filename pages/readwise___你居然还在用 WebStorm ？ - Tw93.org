@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/你居然还在用 WebStorm ？ - Tw93
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Tw93]]
+:full-title: "你居然还在用 WebStorm ？ - Tw93"
+:category: [[articles]]
+:url: https://tw93.fun/2021-07-09/webstorm.html
+:image-url: https://gw.alicdn.com/imgextra/i1/O1CN016ppOn21DVGJ1mVHho_!!6000000000221-0-tps-420-420.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+![](https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/wMkuOY.gif) 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+**Coderpillr Theme**：超级好看的一个主题，之前试过很多如 One Dark、Material Theme Ul 都不是很满意，其实最爱 Dracula Theme，但遗憾在这里不好看，刚好 Coderpillr 这个小众的很有 Dracula 风格，深得我心。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+**WakaTime**：需要稍微配置一下，可以将你所有敲代码的地方装上这个插件，可以很访问的统计你敲了多长时间的代码，详细见[官网](https://wakatime.com/)。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+**提交前 CR 代码改动**：很建议保持这个习惯，每次提交前都对比一下改动了下，快捷键为`command + 0`，这个 diff 对比超级清晰，同时很容易发现粗心的代码，这样的 [效果](https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/vgy10n.png)，确定无误后 `command+k` 填写提交记录，`command+shift+k` 提交代码，提交完成后 `command+1` 切回到代码开发。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+**查看当前分支和主干的改动点**：这个是我觉得最好用的地方，也叫「**救命操作**」，比如说线上出现了问题，想对比上线版本和上一个版本的全部代码改动点就用得上他了，或者你需要合并 master 之前用于最后的 CR 也是很合适的，快捷键为 `control+shift+d`，或者在对应的总文件夹上面点击右键找到 git 里面的「与分支比较」,就可看到如下效果，同时可以按下 F7 来看下一个改动点。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+**可以将某一块代码提炼成一个方法使用**：找到一块可以提炼成方法的代码，选中，然后 `command+option+m` 即可抽象方法并智能帮你方法命名。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+•   **可替换成使用 Prettier 作为默认格式化**：这个功能可以更好的和其他同事 VSCode 开发场景中代码格式保持一致，可见 [设置演示](https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/06rBw9.png)。 
+#+END_QUOTE\

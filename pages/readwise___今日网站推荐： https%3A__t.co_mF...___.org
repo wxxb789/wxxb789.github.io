@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/今日网站推荐： https:__t.co_mF...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "今日网站推荐： https://t.co/mF..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1761927752054370637
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+今日网站推荐：
+
+https://t.co/mFYLGCwxmu
+
+太强了，准备技术面试最佳拍档，我很惊异于它怎么能这么厉害，输入一个问题，就能将所有相关的知识以大纲的形式罗列出来，还包括文章/视频/图片。
+
+最好用英文关键词，我试了几个前端相关的，回答质量非常高。 
+
+![](https://pbs.twimg.com/media/GHOf3n7aEAAL7U7.jpg) 
+
+![](https://pbs.twimg.com/media/GHOf3oCaEAAOPPj.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+不仅仅是技术问题，任何方面都可以，我问了自然科学的问题“Please explain the reasons for the delayed appearance of iron compared to bronze in history. 为什么在历史上铁比青铜出现的要晚”，回答令我非常满意，而且图配的特别棒。
+
+一定程度上可以代替Google 和 ChatGPT 
+
+![](https://pbs.twimg.com/media/GHOhobXaMAAfjPU.jpg) 
+#+END_QUOTE\

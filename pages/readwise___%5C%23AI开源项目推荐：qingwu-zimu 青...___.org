@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/\#AI开源项目推荐：qingwu-zimu 青...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "\#AI开源项目推荐：qingwu-zimu 青..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1762516011419369722
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+#AI开源项目推荐：qingwu-zimu
+
+青梧字幕是一款基于whisper的AI字幕提取工具，有完整的字幕提取、翻译和导出功能。
+
+项目地址：https://t.co/yK2DUFoU0W 
+
+![](https://pbs.twimg.com/media/GHW2T6RWkAAtByX.jpg) 
+
+![](https://pbs.twimg.com/media/GHW2ZhiXkAAkx5P.jpg) 
+#+END_QUOTE\

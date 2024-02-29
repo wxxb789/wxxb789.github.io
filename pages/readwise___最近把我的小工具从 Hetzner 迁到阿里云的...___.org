@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/最近把我的小工具从 Hetzner 迁到阿里云的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cosmtrek on Twitter]]
+:full-title: "最近把我的小工具从 Hetzner 迁到阿里云的..."
+:category: [[tweets]]
+:url: https://twitter.com/cosmtrek/status/1763146176457773542
+:image-url: https://pbs.twimg.com/profile_images/1426678535893110784/F310H9tA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+最近把我的小工具从 hetzner 迁到阿里云的 99 块一年的机器上。
+
+利用 docker compose 部署 cloudflare tunnel、traefik 和小工具，流量经过 tunnel 和 traefik 转发到小工具容器里，不用再配置 nginx 比较省心。这样机器无需开放端口，IP 隐藏在 cloudflare 后面，最重要的是根本不用备案。
+
+🤡最后加个软广，如果想开阿里云机器，欢迎用我的 referral https://t.co/FxvRhpyxYT<img src='https://pbs.twimg.com/media/GHfzVbjaIAAXkDC.jpg'/><img src='https://pbs.twimg.com/media/GHfzxvZb0AA9U3G.jpg'/> 
+#+END_QUOTE\

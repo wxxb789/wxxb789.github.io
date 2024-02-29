@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise/贾扬清质疑 Groq CEO “其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！
+:END:
+
+
+* metadata
+:PROPERTIES:
+:full-title: "贾扬清质疑 Groq CEO “其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！"
+:category: [[articles]]
+:url: https://mp.weixin.qq.com/s/venR81KhfYLW9_mIVHlWcw
+:image-url: https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOkzN9ZDGPJFfOPDdVgFcpdNIOibErxxFKl4bYDL5VM7k7aLeakXVuMeG0EpBBfSlhoAY6yicia4iau2iaA/0?wx_fmt=jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+在一次公开技术分享中，Groq CEO Ross 透露， Groq 芯片的架构从头开始设计的，其中包含数千个并行处理推理查询的多线程处理器。每个芯片周围都有一个独特的、确定性的数据流架构，可最大限度地提高吞吐量，同时最大限度地减少延迟和功耗。
+
+Groq 的 TSP 处理器绕过了造成时序不可预测性的缓存和控制逻辑。相反，结果按照软件定义的序列直接从一个执行单元流向下一个执行单元，从输入到输出仅花费几微秒。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+根据推特上与 Groq 关系密切的投资人 k_zeroS 分享，LPU 的工作原理与 GPU 截然不同。**它采用了时序指令集计算机（Temporal Instruction Set Computer）架构**，这意味着它无需像使用高带宽存储器（HBM）的 GPU 那样频繁地从内存中加载数据。这一特点不仅有助于避免 HBM 短缺的问题，还能有效降低成本。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+不同于英伟达 GPU 需要依赖高速数据传输，Groq 的 LPU 在其系统中没有采用高带宽存储器（HBM）。它使用的是 SRAM，其速度比 GPU 所用的存储器快约 20 倍。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+在编译器部分，Groq 也做了大量创新。Jonathan Ross 坚持将编译器作为公司技术能力的基石，因此设计团队在做芯片的前六个月的时间里专注于设计和构建编译器。只有在团队对编译器感到满意后，才开始研究芯片架构。
+
+与传统编译器不同，Groq 不依赖内核或手动干预。通过编译器和硬件的软件优先协同设计方法，Groq 构建了编译器，自动将模型直接映射到底层架构。自动编译过程允许编译器优化硬件上的模型执行，而无需手动开发或调整内核。 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+Groq/Grok 这个词来自 Robert Heinlein 于 1961 年创作的科幻小说《异乡异客》（Stranger in a Strange Land），本身的意思是“深刻而直观地理解”。也许正是为了达成这样的效果，众多 AI 厂商才争相用它来形容自己的 AI 产品。 
+#+END_QUOTE\

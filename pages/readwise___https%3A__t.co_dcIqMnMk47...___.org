@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/https:__t.co_dcIqMnMk47...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[qiufenghyf on Twitter]]
+:full-title: "https://t.co/dcIqMnMk47..."
+:category: [[tweets]]
+:url: https://twitter.com/qiufenghyf/status/1762399057828561388
+:image-url: https://pbs.twimg.com/profile_images/895162340202754049/Bw4yD4l3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+https://t.co/dcIqMnMk47 上线新功能，在10天内完成了$1.2k+ 的收入，虽然这笔收入不是特别多，但是在0投入营销费用的情况下 + 现在这个增长趋势，我已经很满足了。接下来也会去尝试学习去做一下如何投放广告来进一步地扩大影响力，当然另一方面是继续打磨产品，<a href="https://twitter.com/GoEnhance"><a href="https://twitter.com/GoEnhance">@GoEnhance</a></a> 马上也会迎来新风格 + 新的功能。
+
+然后来复盘一下这10天的情况： 
+1.在 sora 如此火热的时候，我来推出AI视频相关的应用，其实是非常冒险的，很容易被铺天的sora消息盖过去，但是我是准备上线的前一天看到了 sora 上线了，这个时候箭在弦上不得不发，之后大家如果做类似产品还是尽量不要撞上这些时候。 
+2.从一开始我发布sora视频的风格化，大家对此似乎并不感兴趣，我觉得可能大概率是因为那几天sora相同的视频太多了，大家已经看惯了不新鲜了，我转而去做了一个和竞品的对比视频，因为做完对比之后，一开始我想主打的是高清2k + 60fps，但是后面发现从还原度上面也是有优势的，没想到通过这个视频就开始了第一波的爆发，有了第一波的爆发，我就尝试做了更多内容发现的探索，从MMD 转 动漫，再到游戏视频转绘。
+3.第二波的爆发是来源于一个俄罗斯TG频道，大概有150w用户，群主转发了一波 <a href="https://twitter.com/GoEnhance"><a href="https://twitter.com/GoEnhance">@GoEnhance</a></a> 那篇博文大约30w的阅读,  带来了巨大的用户，这也是没想到的，期间导致GPU资源非常紧缺，之后在做产品的时候也要想好这方面的预案。
+4.产品居然也受到A16Z的关注了 😆
+
+#buildinpublic<img src='https://pbs.twimg.com/media/GHVLetSbEAAjAq3.jpg'/><img src='https://pbs.twimg.com/media/GHVL-fVboAAxAzM.jpg'/> 
+#+END_QUOTE\

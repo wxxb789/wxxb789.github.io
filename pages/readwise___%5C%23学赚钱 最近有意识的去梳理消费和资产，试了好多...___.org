@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/\#学赚钱 最近有意识的去梳理消费和资产，试了好多...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#学赚钱 最近有意识的去梳理消费和资产，试了好多..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1761048213338095741
+:image-url: https://pbs.twimg.com/profile_images/1758076307181826049/C8g29_EW.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+#学赚钱 最近有意识的去梳理消费和资产，试了好多个App，最后发现这两个不错，为感谢开发者最后给买断和订阅了，并推荐给大伙～
+第一个叫 Cookie 记账，做得精致美观，很适合程序员的消费习惯，不少设计细节做得很用心，同样支持 Mac 端，这个可以每天顺手使用。
+第二个是 Capivot 资产管家，可以把股票、现金这类理财类资产汇集起来管理，还一点很方便的是支持自动调用股价和汇率更新，省去了理财类账号的经常手动去更新，这个每月顺手更新一下 Cookie 中的总钱就好了。<img src='https://pbs.twimg.com/media/GHB-oyia4AAJC2E.jpg'/> 
+#+END_QUOTE\

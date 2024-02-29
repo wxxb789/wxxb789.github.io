@@ -1,0 +1,93 @@
+:PROPERTIES:
+:title: readwise/推特现在是社交媒体之王 但是99%的人都不知道...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xiaoying_eth on Twitter]]
+:full-title: "推特现在是社交媒体之王 但是99%的人都不知道..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaoying_eth/status/1762276931880558685
+:image-url: https://pbs.twimg.com/profile_images/1668476737389494272/5kE7iqyp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+推特现在是社交媒体之王
+
+但是99%的人都不知道它的“高级搜索”功能
+
+这里有10个推特高级搜索的技巧，让你变成专家！
+
+🧵🧵🧵 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+1. 查找某人最受欢迎的推文。
+
+from:hasantoxr min_faves:1000 <video controls><source src="https://video.twimg.com/ext_tw_video/1762276865367318528/pu/vid/avc1/1220x720/pGN7WqBTevQZzjsr.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276865367318528/pu/pl/else6Wfc_IisdnaA.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276865367318528/pu/vid/avc1/456x270/5MrOTsZHDTD6s1dT.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276865367318528/pu/vid/avc1/610x360/9dszYU1e7luC9xkp.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+2. 查找回复最多的推文。
+
+from:hasantoxr min_replies:500 <video controls><source src="https://video.twimg.com/ext_tw_video/1762276873638379520/pu/vid/avc1/610x360/OGhSlrYbj_mH-9J0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276873638379520/pu/pl/UmoSRNq0z_IeIkS1.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276873638379520/pu/vid/avc1/456x270/Yn_HmAFgNnJ7mAuD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276873638379520/pu/vid/avc1/1220x720/kP8KbM9eMyCZlBXh.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+3. 搜索精确短语。
+
+你可以使用引号。
+
+“CHATGPT GUIDE” <video controls><source src="https://video.twimg.com/ext_tw_video/1762276879732752384/pu/vid/avc1/1220x720/orDZL3srfMRXL9ZW.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276879732752384/pu/vid/avc1/456x270/OJCZ8MvrzpkVaqs-.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276879732752384/pu/vid/avc1/610x360/GCx8Igb_oc3cvrPF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276879732752384/pu/pl/o4ZaD818iFv2GSe9.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+4. 按类型过滤。
+
+可用类型：
+\- 媒体（图片或视频）
+- 原生视频
+- 图片
+- 链接
+
+AI工具过滤：图片 <video controls><source src="https://video.twimg.com/ext_tw_video/1762276885369954304/pu/pl/i5eBxLIVJLV6T6q9.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276885369954304/pu/vid/avc1/610x360/ZIEJrUsn21gfooyC.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276885369954304/pu/vid/avc1/1220x720/vtUEPZKZqz0LGBla.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276885369954304/pu/vid/avc1/456x270/WWFp79b5OsnwTcUG.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+5. 使用“-”运算符来排除包含特定词语的结果。
+
+javascript -css <video controls><source src="https://video.twimg.com/ext_tw_video/1762276889899704320/pu/vid/avc1/604x360/ZBYoGU3gGtgKlWRi.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276889899704320/pu/pl/kwlwCOXC3zmK51IF.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276889899704320/pu/vid/avc1/1208x720/dR5WF3KtX-HCTalc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276889899704320/pu/vid/avc1/452x270/ET4Ois2iCXg-Reg3.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+6. 使用`until`运算符只返回某个日期之前的结果（年-月-日）
+
+GPT-4 until:2023-05-01 <video controls><source src="https://video.twimg.com/ext_tw_video/1762276894559588352/pu/vid/avc1/604x360/-lxPQuVDigzPKtim.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276894559588352/pu/vid/avc1/1208x720/v3_uTPc9sA-c1_CU.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276894559588352/pu/pl/zHJWE039RDnXPjgZ.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276894559588352/pu/vid/avc1/452x270/aAsgPC2McwBGXfZq.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+7. 使用`since`运算符只返回某个日期之后的结果（年-月-日）。
+
+ChatGPT since:2023-04-01 <video controls><source src="https://video.twimg.com/ext_tw_video/1762276899852881920/pu/vid/avc1/452x270/r43SAcrYmi5v3LfP.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276899852881920/pu/pl/pV0XsxDXG9A890g-.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276899852881920/pu/vid/avc1/604x360/YYrLHMf1qwxtjcRu.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276899852881920/pu/vid/avc1/1208x720/pQwCgKyUEvE6XZma.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+8. 查找发送给某个特定人的推文。
+
+from:ihteshamit to:hasantoxr <video controls><source src="https://video.twimg.com/ext_tw_video/1762276904772816896/pu/vid/avc1/604x360/ALvOdLk4JiaDEkVk.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276904772816896/pu/pl/mvCXf8st0Lh-vkJu.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276904772816896/pu/vid/avc1/1208x720/cdiTcpe5K4jM1yOW.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276904772816896/pu/vid/avc1/452x270/lLa0W9BFPHHiAFDI.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+9. 按语言搜索。
+
+ChatGPT lang:es <video controls><source src="https://video.twimg.com/ext_tw_video/1762276909889835009/pu/vid/avc1/604x360/70gJ9tD8tzbQGGAg.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276909889835009/pu/pl/s8n8MrQoRyqKcGra.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276909889835009/pu/vid/avc1/1208x720/OWKkTalD-MKXB_J9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276909889835009/pu/vid/avc1/452x270/a1O3467Mb6oVzYc4.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+10. 使用`near`和`within`运算符根据位置查找推文。
+
+near:melbourne within:10mi <video controls><source src="https://video.twimg.com/ext_tw_video/1762276915698872321/pu/pl/XPyDnvlYJLjzM2oM.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1762276915698872321/pu/vid/avc1/1208x720/yDyeUe3m4CEP2sRX.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276915698872321/pu/vid/avc1/452x270/xmIPEdydUmmaXXrd.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1762276915698872321/pu/vid/avc1/604x360/95uXe-TIJHo_gh-j.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

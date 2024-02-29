@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/可能是暴论，但我想说 App 开发的第一选择永远...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[unixzii on Twitter]]
+:full-title: "可能是暴论，但我想说 App 开发的第一选择永远..."
+:category: [[tweets]]
+:url: https://twitter.com/unixzii/status/1762402263824523506
+:image-url: https://pbs.twimg.com/profile_images/1662772448696365056/m4N0QjDP.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+可能是暴论，但我想说 app 开发的第一选择永远都是 native 技术。因为 Web 无论如何也没办法享受到原生应用里的所有特性，而大部分应用的复杂度也远不需要使用 Web 才能开发。类似 Electron 的框架在极大程度降低了桌面端 app 开发门槛的同时，其实也伤害了所有人的用户体验。 
+#+END_QUOTE\
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+更具体地说应该是使用平台框架，在 JavaScript 里用 FFI 调 AppKit 甚至 RN 也都是可以的。但用 Flutter、Qt 这种纯自绘的 native 框架其实除了性能更好一点，本质上跟 Web 的差别不大，因为都比较难利用到平台特性。但比较遗憾的现实就是在市场的面前，用户体验都可以往后放。 
+#+END_QUOTE\
+** 📌 [[2024-02-28]]
+#+BEGIN_QUOTE
+Gnome 里也有很多 Python、GJS 写的 apps，但体验都很好，因为无一例外地使用了各种 GTK bindings 来开发。像 libadwaita 这种二方库也提供了很多风格统一的控件，主题、动画都有很好的支持。 
+#+END_QUOTE\

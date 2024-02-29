@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/最近看到最有想象力的开源项目：Pglite Ht...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "最近看到最有想象力的开源项目：Pglite Ht..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1762289745697329186
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+最近看到最有想象力的开源项目：Pglite
+https://t.co/NqYgFYIa6D
+
+把 Postgres 使用 WASM 实现，然后直接集成到 Typescript 中，然后你就可以在浏览器/Node/Bun 中直接使用了，可以选择内存/文件系统/indexedDB 存储数据。
+
+大小不大，压缩后之后 3.7m。
+
+我在想 electron 用这个数据库肯定非常舒服，除了 SQLite 之外又多了一个选项。
+
+Stars：1.9K<img src='https://pbs.twimg.com/media/GHToEMpaYAAuF6l.jpg'/> 
+#+END_QUOTE\
+** 📌 [[2024-02-27]]
+#+BEGIN_QUOTE
+谢谢 <a href="https://twitter.com/TooooooBug">@TooooooBug</a>  和 <a href="https://twitter.com/horizon0514">@horizon0514</a> 两位提出：
+
+SQLite 也有 WASM 支持，官网网站在这里：
+https://t.co/OsWlEIbyTt
+
+很棒的实现，喜欢 SQLite 的朋友们不能错过。 
+#+END_QUOTE\

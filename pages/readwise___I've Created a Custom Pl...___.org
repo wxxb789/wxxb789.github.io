@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/I've Created a Custom Pl...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ardalis on Twitter]]
+:full-title: "I've Created a Custom Pl..."
+:category: [[tweets]]
+:url: https://twitter.com/ardalis/status/1762930876696920549
+:image-url: https://pbs.twimg.com/profile_images/738068168137048065/jU9eXmoG.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-02-29]]
+** 📌 [[2024-02-29]]
+#+BEGIN_QUOTE
+I've created a custom Pluralsight channel, Software Engineering with .NET. If you're a subscriber, check it out. If you've completed it, send me a screenshot and congratulations!
+https://t.co/wO0znp1dbd 
+
+![](https://pbs.twimg.com/media/GHcwShQW8AA2P0e.jpg) 
+#+END_QUOTE\
