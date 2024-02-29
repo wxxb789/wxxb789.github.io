@@ -1,0 +1,4 @@
+#+alias: Certified Public Accountant,注册会计师，
+
+* CPA is abbreviation of Certified Public Accountant. 注册会计师
+*

@@ -1,0 +1,8 @@
+#+tags: prompt,
+
+* [[https://github.com/prompt-engineering/prompt-patterns][GitHub - prompt-engineering/prompt-patterns: Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt]]
+* [[https://github.com/bigscience-workshop/promptsource][GitHub - bigscience-workshop/promptsource: Toolkit for creating, sharing and using natural language prompts.]]
+* [[https://github.com/prompt-engineering/click-prompt][prompt-engineering/click-prompt: ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。 (github.com)]]
+* [[../assets/image_1679761919338_0.png]]
+* [[../assets/image_1679761957448_0.png]]
+*

@@ -1,0 +1,12 @@
+*
+* history
+** symbolic nlp
+** statistical nlp
+** neural nlp
+* recently years
+** NN as Feature Extractors
+** End-to-End Neural NLP
+** Pre-training + Finetuning
+** In-context Learning
+** General-Purpose Interface
+*

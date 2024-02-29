@@ -1,0 +1,17 @@
+#+tags: github,
+
+* [[https://github.com/apify/crawlee][apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. (github.com)]] [[nodejs]],
+:PROPERTIES:
+:collapsed: true
+:END:
+** Single interface for *HTTP and headless browser* crawling
+** Persistent *queue* for URLs to crawl (breadth & depth first)
+** Pluggable *storage* of both tabular data and files
+** Automatic *scaling* with available system resources
+** Integrated *proxy rotation* and session management
+** Lifecycles customizable with *hooks*
+** *CLI* to bootstrap your projects
+** Configurable *routing*, *error handling* and *retries*
+** *Dockerfiles* ready to deploy
+** Written in *TypeScript* with generics
+*
