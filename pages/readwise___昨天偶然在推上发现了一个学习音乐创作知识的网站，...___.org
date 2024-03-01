@@ -2,7 +2,6 @@
 :title: readwise/昨天偶然在推上发现了一个学习音乐创作知识的网站，...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[vikingmute on Twitter]]
@@ -11,7 +10,6 @@
 :url: https://twitter.com/vikingmute/status/1739094793253450166
 :image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-26]]
 ** 📌 [[2023-12-25]]
 #+BEGIN_QUOTE

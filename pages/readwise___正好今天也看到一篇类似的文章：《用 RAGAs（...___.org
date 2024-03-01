@@ -2,7 +2,6 @@
 :title: readwise/正好今天也看到一篇类似的文章：《用 RAGAs（...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
@@ -11,7 +10,6 @@
 :url: https://twitter.com/dotey/status/1737017381321310709
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-12-20]]
 #+BEGIN_QUOTE

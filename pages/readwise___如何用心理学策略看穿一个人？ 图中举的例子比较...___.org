@@ -2,7 +2,6 @@
 :title: readwise/如何用心理学策略看穿一个人？ 图中举的例子比较...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[crypto_chanshi on Twitter]]
@@ -11,7 +10,6 @@
 :url: https://twitter.com/crypto_chanshi/status/1738822700976701899
 :image-url: https://pbs.twimg.com/profile_images/1596795312084897792/1SNk3pZZ.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-26]]
 ** 📌 [[2023-12-25]]
 #+BEGIN_QUOTE
