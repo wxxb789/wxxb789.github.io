@@ -1,4 +1,0 @@
-#+alias: ms-work/vm/CjkCompliance,
-
-* it's a physical machine in Beijing site
-*
