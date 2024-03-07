@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/当我想看一下今年能不能突击一下深度学习的时候，发...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[liumengxinfly on Twitter]]
+:full-title: "当我想看一下今年能不能突击一下深度学习的时候，发..."
+:category: [[tweets]]
+:url: https://twitter.com/liumengxinfly/status/1729082690740351434
+:image-url: https://pbs.twimg.com/profile_images/1571735154728783872/b5hATGP0.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+当我想看一下今年能不能突击一下深度学习的时候，发现进度要按千分比来算 
+
+![](https://pbs.twimg.com/media/F_7vZ9QaQAAxukU.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Localhost Is Dead! Exci...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[swyx on Twitter]]
+:full-title: "Localhost Is Dead! Exci..."
+:category: [[tweets]]
+:url: https://twitter.com/swyx/status/1765423982415872454
+:image-url: https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Localhost is dead!
+
+Excited to see <a href="https://twitter.com/daytonaio">@daytonaio</a>'s new OSS dev platform - instant cloud workspaces for every dev env across any infra! 
+
+https://t.co/Mc1p9TnBJQ
+
+Very cool to see <a href="https://twitter.com/ivanburazin">@ivanburazin</a> senpai launch. "Codespaces taken seriously" has been a long time coming. 
+
+![](https://pbs.twimg.com/media/GIALuU-bAAAfYjN.jpg) 
+#+END_QUOTE\

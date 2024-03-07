@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/\#Fsharp Cheatsheet - 1 H...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[jonas1ara on Twitter]]
+:full-title: "\#Fsharp Cheatsheet - 1 H..."
+:category: [[tweets]]
+:url: https://twitter.com/jonas1ara/status/1765615014138761647
+:image-url: https://pbs.twimg.com/profile_images/1724859662552461313/XKCbS1yX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+#fsharp cheatsheet - 1 
+
+![](https://pbs.twimg.com/media/GIC5Z-nWoAAcXXX.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+#fsharp cheatsheet - 2 
+
+![](https://pbs.twimg.com/media/GIC5c2PXcAAhdlX.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+#fsharp cheatsheet - 3 
+
+![](https://pbs.twimg.com/media/GIC5fxAXgAASM3Z.jpg) 
+#+END_QUOTE\

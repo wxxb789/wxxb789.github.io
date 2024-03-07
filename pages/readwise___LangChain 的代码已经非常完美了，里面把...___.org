@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/LangChain 的代码已经非常完美了，里面把...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[KittenYang on Twitter]]
+:full-title: "LangChain 的代码已经非常完美了，里面把..."
+:category: [[tweets]]
+:url: https://twitter.com/KittenYang/status/1765009018253435213
+:image-url: https://pbs.twimg.com/profile_images/1742463089185017856/15tTIozY.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+LangChain 的代码已经非常完美了，里面把每个功能都模块化、协议化支持拓展。不过手写代码还是太繁琐了。我感觉完全可以把 LangChain 做成低代码平台嘛，UI 就和 SD ComfyUI 一样拖拖拽拽，通过「连线」的方式让小白也能玩。 
+
+![](https://pbs.twimg.com/media/GH6SVU_asAAR01y.jpg) 
+#+END_QUOTE\

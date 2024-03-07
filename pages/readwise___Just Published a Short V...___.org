@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/Just Published a Short V...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ardalis on Twitter]]
+:full-title: "Just Published a Short V..."
+:category: [[tweets]]
+:url: https://twitter.com/ardalis/status/1765474418611061054
+:image-url: https://pbs.twimg.com/profile_images/738068168137048065/jU9eXmoG.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Just published a short video covering what's new in my Clean Architecture Template:
+https://t.co/G9jGMEwDrr
+
+#dotnet #cleanarchitecture 
+#+END_QUOTE\

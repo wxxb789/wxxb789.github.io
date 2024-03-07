@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: readwise/前端福利：你不该错过的7 个免费的 Tailwi...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[knowledgefxg on Twitter]]
+:full-title: "前端福利：你不该错过的7 个免费的 Tailwi..."
+:category: [[tweets]]
+:url: https://twitter.com/knowledgefxg/status/1765405769896177721
+:image-url: https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+前端福利：你不该错过的7 个免费的 Tailwind CSS 库
+
+1. Flowbite
+https://t.co/GiQFrvi0tA
+
+2. Preline UI
+https://t.co/8tI8C06NEl
+
+3. Ripple UI
+https://t.co/EudgBHTMnk
+
+4. Daisy UI
+https://t.co/bB6H3CDzvZ
+
+5. Tailwind Elements
+https://t.co/TTHohWzV0a
+
+6. Mamba UI
+https://t.co/Z7wyyr3rqx
+
+7. Kutty
+https://t.co/amcVwrZyD2<img src='https://pbs.twimg.com/media/GH_7LNDXsAAqBzi.jpg'/> 
+#+END_QUOTE\

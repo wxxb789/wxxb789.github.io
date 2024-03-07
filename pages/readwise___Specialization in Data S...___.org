@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: readwise/Specialization in Data S...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[clcoding on Twitter]]
+:full-title: "Specialization in Data S..."
+:category: [[tweets]]
+:url: https://twitter.com/clcoding/status/1765649025133424817
+:image-url: https://pbs.twimg.com/profile_images/1322567643253993472/K_VrVLtx.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Specialization in Data Science
+ 🧵: 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Introduction to Data Science Specialization
+https://t.co/9TBP2inr9Q 
+
+![](https://pbs.twimg.com/media/GIDV72GXUAE7O8Q.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Data Science Fundamentals with Python and SQL Specialization
+https://t.co/RpNhcy2oKp 
+
+![](https://pbs.twimg.com/media/GIDWe52X0AAUk5j.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+IBM & Darden Digital Strategy Specialization
+https://t.co/u051AWxKDm 
+
+![](https://pbs.twimg.com/media/GIDWqWoXsAAyTP4.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+IBM AI Foundations for Business Specialization
+https://t.co/t5OpPTQp5G 
+
+![](https://pbs.twimg.com/media/GIDX8ktWcAAN-Up.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Data Analysis and Visualization Foundations Specialization
+https://t.co/BClMZDKnyb 
+
+![](https://pbs.twimg.com/media/GIDYGuqXgAAa7Gv.jpg) 
+#+END_QUOTE\

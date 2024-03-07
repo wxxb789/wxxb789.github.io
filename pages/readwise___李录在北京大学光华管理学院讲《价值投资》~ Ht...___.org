@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/李录在北京大学光华管理学院讲《价值投资》~ Ht...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Morris_LT on Twitter]]
+:full-title: "李录在北京大学光华管理学院讲《价值投资》~ Ht..."
+:category: [[tweets]]
+:url: https://twitter.com/Morris_LT/status/1765521824752992705
+:image-url: https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+李录在北京大学光华管理学院讲《价值投资》~ <video controls><source src="https://video.twimg.com/amplify_video/1765521156726255616/vid/avc1/1280x720/hLuNIhtfyiLzxNzi.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1765521156726255616/vid/avc1/480x270/nDhqAhkgYtqOslT4.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1765521156726255616/pl/AiYq7V4uj-hqmUQk.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1765521156726255616/vid/avc1/640x360/s9-CEyiSJeHZ4Mpa.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

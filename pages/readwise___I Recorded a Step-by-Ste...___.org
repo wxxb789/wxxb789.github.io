@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/I Recorded a Step-by-Ste...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[svpino on Twitter]]
+:full-title: "I Recorded a Step-by-Ste..."
+:category: [[tweets]]
+:url: https://twitter.com/svpino/status/1765067021866418491
+:image-url: https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+I recorded a step-by-step tutorial on building a RAG application from scratch.
+
+It's a 1-hour YouTube video where I show you how to use Langchain, Pinecone, and OpenAI.
+
+You'll learn how to build a simple application to answer questions from YouTube videos using an LLM.
+
+But the video is not just about the code (the code is usually the least important thing!) The video is about helping you understand the reason for every component and how to build a chain to solve the problem.
+
+Here is the video: https://t.co/VC1jWTSbur 
+#+END_QUOTE\

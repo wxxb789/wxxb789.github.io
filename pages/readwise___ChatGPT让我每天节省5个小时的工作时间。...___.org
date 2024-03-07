@@ -1,0 +1,101 @@
+:PROPERTIES:
+:title: readwise/ChatGPT让我每天节省5个小时的工作时间。...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xiaoying_eth on Twitter]]
+:full-title: "ChatGPT让我每天节省5个小时的工作时间。..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaoying_eth/status/1765201226432684219
+:image-url: https://pbs.twimg.com/profile_images/1668476737389494272/5kE7iqyp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+ChatGPT让我每天节省5个小时的工作时间。
+
+但前提是你提供好的指令。
+
+这里是使用ChatGPT快速完成工作的终极指令：（我离不开的）： 
+
+![](https://pbs.twimg.com/media/GH9BE9SasAAPO6d.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+1. 请教埃隆·马斯克
+
+指令：我将提供我自己的一个观点或意见，请你批评它，就好像你是[马斯克]一样 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201137542856704/pu/pl/ttxTioHE62Gg3Cyi.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201137542856704/pu/vid/avc1/386x270/WS5W4BrryQ-Ko8_8.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201137542856704/pu/vid/avc1/516x360/Loi9fqSEdBaG-59U.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201137542856704/pu/vid/avc1/1034x720/blNXSjPWNK1AA3J3.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+2. 让ChatGPT自动生成指令（baby AGI）
+
+指令：你是GPT-4，OpenAI的先进语言模型。今天，你的工作是为GPT-4生成指令。你能生成出关于[你想要的]的最好的指令吗 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201144224374784/pu/vid/avc1/1034x720/stOTdUCRXYq63bzF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201144224374784/pu/pl/-DBFXDo-H3UVdtkb.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201144224374784/pu/vid/avc1/386x270/0P18xLw0lsbRjbJ9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201144224374784/pu/vid/avc1/516x360/k8rFjjSEphF90rlp.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+3. 让ChatGPT成为一个Python解释器
+
+指令：我想让你像一个Python解释器一样工作。我会给你一段Python代码，你将执行它。不要提供任何解释。除了代码的输出，不要做任何回应。第一个代码是：“print('hello world!')” <video controls><source src="https://video.twimg.com/ext_tw_video/1765201150624808961/pu/vid/avc1/516x360/83mBVQt6kzwTY8fw.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201150624808961/pu/vid/avc1/386x270/mECJuafLCFWl-By3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201150624808961/pu/vid/avc1/1034x720/YNabsVt2Ydo9NSKG.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201150624808961/pu/pl/YcCFLF2ZQliSECZh.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+4. 获得令人难以置信的书籍摘要。
+
+指令：从{书籍标题}中提炼出最重要的教训，撰写出详尽但易于理解的摘要。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201155997749248/pu/vid/avc1/516x360/MkBhV5i0v9gqTJjQ.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201155997749248/pu/vid/avc1/1034x720/63U9f-b61iFvJLh5.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201155997749248/pu/pl/bG3aJkL8AixcfMpp.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201155997749248/pu/vid/avc1/386x270/20zIdRwtnvr74ihG.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+5. 以一个十岁孩子的理解重写
+
+指令：将[text]以一个十岁孩子的理解重写。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201162209562624/pu/vid/avc1/1034x720/1gsX2KohmIP0SAzf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201162209562624/pu/vid/avc1/386x270/TB-Q5981Es4yLN7o.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201162209562624/pu/pl/tM2CohJ7J1d8T-7j.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201162209562624/pu/vid/avc1/516x360/sGNKtabza04sMp89.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+6. 学习最重要的术语
+
+指令：关于（主题），你应该了解哪些关键术语？每次列出一个术语，给出一个简短而简单的定义。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201168496754689/pu/vid/avc1/452x360/GH8tW_t4-TfGx1o5.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201168496754689/pu/vid/avc1/904x720/cWVUnIOBr141zmlW.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201168496754689/pu/pl/fPF1ZpbBJQlSJXWq.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201168496754689/pu/vid/avc1/338x270/hWxeX3qk5GpaD4dd.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+7. 改进你所创造的
+
+指令：下面的文本是关于（主题）的。请纠正所有的错误和不正确的句子结构。如果主题有任何问题，请向我报告：
+
+（在这里放上你的文本） <video controls><source src="https://video.twimg.com/ext_tw_video/1765201175748718592/pu/vid/avc1/904x720/D1elW_0RHtDAp0AH.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201175748718592/pu/vid/avc1/452x360/QuuyijKwDrYTZtqN.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201175748718592/pu/vid/avc1/338x270/LBQS7F_Xj5ESQWhd.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201175748718592/pu/pl/BYDGrEqme-7vtXfy.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+8. 获得可靠的资料来源
+
+指令：我想让你充当一个研究助理，给我提供5个关于（主题）的可靠资料来源。每次给出日期和来源链接。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201182568640512/pu/vid/avc1/338x270/8g9x9ejHxhk7fAcL.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201182568640512/pu/vid/avc1/452x360/S0TFavwzTGn__tS1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201182568640512/pu/vid/avc1/904x720/E_lgXgbPN-rGCAH4.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201182568640512/pu/pl/Cl0lh0Nj3zlJ5XHW.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+9. 轻松理解任何概念
+
+指令：能否以简单的语言解释（主题）的概念？总结主要原则，并结合例子以便理解。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201188809748480/pu/pl/m26Hcf2NWpb75V8w.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201188809748480/pu/vid/avc1/338x270/dzrFBFnpjbOpmg9n.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201188809748480/pu/vid/avc1/904x720/jds-EHEPHw8aO0N3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201188809748480/pu/vid/avc1/452x360/0WjJmHAhxk7_mmjt.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+10. 关联多个主题
+
+指令：用简单的话描述和解释（概念1）和（概念2）之间的关系。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201194803441664/pu/vid/avc1/452x360/mpinoR9lIU0dQQAA.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201194803441664/pu/pl/z3dUitCE3C5_zkA1.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201194803441664/pu/vid/avc1/904x720/oHase56chxzsDRC0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201194803441664/pu/vid/avc1/338x270/Tej2oaQpttCvrgYW.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+11. 写博客
+
+指令：我正在写一篇关于[详细主题]的博客，题为：“[插入标题]”。写一篇[插入字数]字的博客文章，包括以下标题：[插入标题]，以及这些子标题：[插入子标题及其对应的标题]。 <video controls><source src="https://video.twimg.com/ext_tw_video/1765201200822329344/pu/vid/avc1/744x720/cYoNz4LcS4P2jhLc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201200822329344/pu/pl/Mowvm7xm2GzysvFP.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765201200822329344/pu/vid/avc1/372x360/cfM54GDwYFasnjEF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201200822329344/pu/vid/avc1/278x270/S4O2NsJE_D3vzWQQ.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+12. 有效设置任务优先级
+
+指令：分析我以下的任务，并帮我使用艾森豪威尔矩阵对它们进行优先级排序。
+
+[插入任务] <video controls><source src="https://video.twimg.com/ext_tw_video/1765201207793242113/pu/vid/avc1/318x270/DKBEt5iThzL0TOmi.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201207793242113/pu/vid/avc1/426x360/uuydQwnBV7B9FjVn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201207793242113/pu/vid/avc1/852x720/A278dDqihlw1nmRr.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765201207793242113/pu/pl/tJhDUFnzzWDvIHGM.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

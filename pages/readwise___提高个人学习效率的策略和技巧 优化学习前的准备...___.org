@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/提高个人学习效率的策略和技巧 优化学习前的准备...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "提高个人学习效率的策略和技巧 优化学习前的准备..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1762723596202643481
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+提高个人学习效率的策略和技巧
+
+优化学习前的准备：在开始深入学习之前，首先要对学习内容有一个大致的了解，包括通过阅读摘要、目录等方式获取关键词和主要概念。
+
+建立知识框架：使用关键词和概念创建一个初步的知识结构，这个结构不依赖于任何特定的学习材料的顺序，而是基于你的先验知识和理解。
+
+积极整合：在学习过程中，不断地将新信息整合到你的知识框架中，这包括对信息的重组和重新分类，以确保它与你已有的知识相连贯。
+
+避免线性学习：避免按照材料原有的顺序进行线性学习，而是基于个人的知识框架，有选择性地学习那些能最大化提高理解和记忆的部分。
+
+提高信息相关性：通过与已有知识的关联，增加新信息的相关性，这样可以更容易地记住并应用新学到的知识。
+
+实践和应用：通过实际应用学习到的知识来加深理解和记忆，即使是简单或看似无用的练习也能帮助巩固学习成果。
+
+个性化学习路径：虽然大脑的基本结构相似，但每个人的学习风格和偏好可能不同。寻找和优化最适合自己的学习方法是关键。<video controls><source src="https://video.twimg.com/amplify_video/1762720626123620353/vid/avc1/640x360/9hhowDOHyWaJmuP4.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762720626123620353/vid/avc1/480x270/e9CEZj0huA2zDQv5.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762720626123620353/vid/avc1/1280x720/MICMjlRQOFNPKB3Y.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762720626123620353/pl/A7TtHQKsVqkkeZjW.m3u8?tag=14&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+我看这个视频主要是因为最近好几个朋友都在讨论关于信息压缩：总结  的场景。 比如podcast，比如视频，比如文本。 这个视频里有很多关于元认知的讨论，或许可以给我们一些启发。 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+掌握了这种方法，你将可以绘制出像视频作者绘制的这类地图。
+这种知识地图让你全方位的快速构建知识框架，虽然可能深度不够，但当你和其他人交流时，和专家沟通时，你就可以通过这些地图来构建信息相关性，把他人的专业内容关联进来，从而深度化。
+
+BTW，这个Youtuber靠卖知识框架地图也赚了不少钱。 <video controls><source src="https://video.twimg.com/amplify_video/1762749637994418176/vid/avc1/480x270/oZ57SmSZ8NibFp5J.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762749637994418176/pl/aILhKol8DLVclNIZ.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1762749637994418176/vid/avc1/1280x720/DA3tcv3noZxPf5yB.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1762749637994418176/vid/avc1/640x360/tqMfj1ArsTQEyLlV.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+https://t.co/V9msAqY387 
+#+END_QUOTE\

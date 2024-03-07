@@ -1,0 +1,77 @@
+:PROPERTIES:
+:title: readwise/学开车最好是坐进车里，在宽广陆地疯狂驾驶全身心投...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xinzhi on Twitter]]
+:full-title: "学开车最好是坐进车里，在宽广陆地疯狂驾驶全身心投..."
+:category: [[tweets]]
+:url: https://twitter.com/xinzhi/status/1764158784996614229
+:image-url: https://pbs.twimg.com/profile_images/1608452781832306688/axxoOIal.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+学开车最好是坐进车里，在宽广陆地疯狂驾驶全身心投入第一时间建立 1000% 的信心，你就会越来越多意识到安全问题，开始累积安全行驶经验。
+
+但是现在多数人学习过程倒反了，科目一二三拿了驾照 99% 没自信，连自己安全都顾及不了，妥妥「马路杀手」。
+
+学编程也是，你不要看书看完上百个视频才开始  \ 
+
+![](https://pbs.twimg.com/media/GHuCp0NbAAEmsCJ.jpg) 
+
+![](https://pbs.twimg.com/media/GHuCvZGa0AAYz-u.jpg) 
+
+![](https://pbs.twimg.com/media/GHuCxI1bYAAAbPx.jpg) 
+
+![](https://pbs.twimg.com/media/GHuC1ZGaQAAoYZ6.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+可以先上车再补票，野生一点，Learn by doing，通过解决问题学习效果更好，犯错越多改进越多学的就越快。
+
+拜师学艺是一百年前，现在拜 ChatGPT 也一样。上面的截图是我 0 基础开始做 SwiftUI 的成功，一些代码，作为一个比较新鲜的例子分享一下。
+
+iOS/macOS 应用开发现在可以使用 Swift 和 SwiftUI \ 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+学习编程一开始最难搞定的就是开发环境，现在已经好很多了，都有提供 Docker 容器、Playgrounds 一类可以直接上手的工具，苹果在 iPad 和 macOS 上提供 Swift Playgrounds，Xcode 也有一个 Playground 环境，还有自带模版，组件库可以直接拖入使用，比其他语言写 Hello World 敲键盘开始要简单得多。 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+如果你没有任何语言基础，学习 SwiftUI 估计会是一个不错的开始，然后也避免不了开始学 Swift，没准以后还能叛变开始学 UIKIT、GPUI Rust 等等。
+
+做第一个 SwiftUI 应用时，应该都是从一两个文件开始的，这时文件内容很少，好在可以几乎实时预览结果。
+
+什么都不懂，可以通过 ChatGPT 描述你的想法。 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+ChatGPT 也能从头到尾给你解析代码，比看书效率更高。
+
+不要要求太高，先从增加一点小元素或微调样式开始，ChatGPT 几乎不会犯错的。
+
+获得 ChatGPT 提供的结果，复制粘贴到编辑器中验证结果，不符合预期的情况反馈给 ChatGPT，调整你的描述，反复试验。这个过程你就能学到不少内容了。 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+使用的 Prompt 也不复杂：
+\- 一步一步解析代码：附带你的代码
+- 修正问题：附带错误信息，带上代码，最好有分割线```代码放这里```
+
+其他功能需求和文案修改等，直接描述即可，复杂的就列个清单，尽量不用多条上下文，不同主题避免互相干扰。
+
+ChatGPT 只是入门的选择，使用 GitHub Copilot 会更方便。 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+总结一下就是要快速建立信心，学会验证和解决小问题，对之后系统学习也会有非常大的帮助。
+
+如果你想关注我的新 App 进展，可以关注我或查看： https://t.co/fBKKVpFS8S
+
+// 想多贴图的，清理电脑 Arc 浏览器重置账号都退出了，开发 iOS/macOS 应用建议先给电脑腾出至少 100G 空间，这是最重要的经验。 
+#+END_QUOTE\

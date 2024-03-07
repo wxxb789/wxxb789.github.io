@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/Building Long Context RA...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[LangChainAI on Twitter]]
+:full-title: "Building Long Context RA..."
+:category: [[tweets]]
+:url: https://twitter.com/LangChainAI/status/1765061520852148545
+:image-url: https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-06]]
+#+BEGIN_QUOTE
+Building long context RAG from scratch with RAPTOR + Claude3 (Video)
+
+The rise of long context LLMs + embeddings will change RAG design. Instead of splitting docs + indexing doc chunks, it's feasible to index full docs.
+
+But, there is a challenge to flexibly answer lower-level questions from single docs or higher-level questions that span across many docs.
+
+RAPTOR (<a href="https://twitter.com/parthsarthi03">@parthsarthi03</a> et al) is one approach to tackle this by building a tree of doc summaries: docs are clustered and clusters are summarized to capture higher-level information across similar docs.
+
+This is repeated recursively, resulting in a tree of summaries with varying levels of abstraction (docs are leafs, intermediate summaries of related docs in the middle, high-level summaries of docs towards the root).
+
+We tested this on 33 web pages (each ranging 2k - 12k tokens) of LangChain docs using Claude3 model from <a href="https://twitter.com/AnthropicAI">@AnthropicAI</a> to build the summarization tree.
+
+The pages and tree of summaries are indexed together for RAG with Claude3, enabling QA on lower-lever questions or higher-level concepts (captured in summaries that span related pages).
+
+This idea can scale to large collections of documents or to documents of arbitrary size. Video that walks through code / builds this from scratch is below:
+
+Video:
+https://t.co/RUbiu7uIcD
+
+Code:
+https://t.co/uHcaP7HdNd
+
+Paper:
+https://t.co/7oFEyDdoQE<img src='https://pbs.twimg.com/media/GH7BqeAbYAAEycF.jpg'/> 
+#+END_QUOTE\

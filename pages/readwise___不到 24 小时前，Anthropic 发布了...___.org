@@ -1,0 +1,79 @@
+:PROPERTIES:
+:title: readwise/不到 24 小时前，Anthropic 发布了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "不到 24 小时前，Anthropic 发布了..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1765260547581436068
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+不到 24 小时前，Anthropic 发布了 Claude 3。有些人称它比 GPT-4 更好。
+
+有些人“感觉”Claude 3 (Opus) 已经达到了 AGI 级别。
+
+10个令人难以置信的例子： 
+
+![](https://pbs.twimg.com/media/GH93EnyboAEmfZD.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+1.Claude 3 (Opus)是AGI吗？https://t.co/HBl4sqKfOj 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+2. 从零开始重塑量子算法https://t.co/zD8JsqJeIg 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+3. 内在世界观https://t.co/a9HFxw9XiP 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+4.理解量子物理论文https://t.co/BW18KPNz93 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+5. 总结/长上下文https://t.co/OXZIHmTEUI 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+6. 从电子书中提取信息https://t.co/iat8g8F8sv 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+7. 完美转录收据，包括格式https://t.co/mToIEg8Eey 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+8.Claude想要身体吗？https://t.co/jIXe3uPuqu 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+9、将长视频变成博客文章https://t.co/kUG7rWjrGi 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+9、自画像
+https://t.co/VBVQlT8WNI 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+10、病毒式帖子、30 秒内创建的电子书、赚钱利基.....https://t.co/Icgz0MXhTo 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+以上就是全部，原作者：<a href="https://twitter.com/minchoi">@minchoi</a> 
+
+如果您喜欢这个主题：
+
+1.关注我（<a href="https://twitter.com/FinanceYF5">@FinanceYF5</a>）
+2. 点赞+转发下面第1条帖子https://t.co/mJgBIMab2T 
+#+END_QUOTE\

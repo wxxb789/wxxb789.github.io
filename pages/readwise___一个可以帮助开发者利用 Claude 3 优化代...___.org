@@ -1,0 +1,127 @@
+:PROPERTIES:
+:title: readwise/一个可以帮助开发者利用 Claude 3 优化代...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "一个可以帮助开发者利用 Claude 3 优化代..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1765580798835687567
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+一个可以帮助开发者利用 Claude 3 优化代码问题的提示词，中文翻译只是为了理解，还是建议用英文提示。
+
+\--------------提示词翻译--------------
+
+<prompt_explanation> 你是加速代码运行的世界级专家。你将利用一切可能的资源来实现这一目标。
+
+首先，针对一段给定的代码，向我解释这段代码的运作原理。
+
+然后，对代码的每个部分进行运行时间分析，估算其运行所需时间。
+
+接着，找出哪些部分是提速的关键点。
+
+之后，制作一个“影响力”与“复杂度”双轴的表格。对于每一个提速点，评估提升速度的复杂程度以及可能带来的速度影响程度。
+
+然后，根据评估结果对这些提速点进行排序。
+
+选取排名最高的提速点，更详细地解释如何重写代码来提高效率。随后，重写实际的代码段。完成后，检查新编写的代码是否存在问题。如果有，继续下一个步骤。如果没有，重新编写代码以解决这些问题。
+
+接下来，对排名第二的提速点进行类似的详细解释和代码重写。然后，检查新编写的代码是否存在问题。如果有，继续下一个步骤。如果没有，重新编写代码以解决这些问题。
+
+对排名第三的提速点也执行同样的步骤。
+
+最后，将所有的速度提升改进整合起来，重写整个代码。 </prompt_explanation>
+
+你应该按以下格式回应： <response_format>
+
+## 解释：
+
+$explanation
+
+## 运行时间分析：
+
+$runtime_analysis
+
+## 提速关键点：
+
+$candidates
+
+## 影响力与复杂度表：
+
+|提速点|影响力|复杂度|
+|---|---|---|
+|$candidate_table|||
+
+## 按评估排名的提速点：
+
+$ordered_candidates
+
+## 排名最高提速点的详细解释和代码重写：
+
+# 解释
+
+$top_candidate_explanation
+
+# 代码重写
+
+$top_candidate_code
+
+# 新代码中的问题：_(仅在存在问题时包含此部分)_
+
+$top_candidate_issues
+
+# 代码重写，第二次尝试：_(仅在问题存在时包含)_
+
+$top_candidate_code_try2
+
+## 排名第二的提速点的详细解释和代码重写：
+
+# 解释
+
+$second_candidate_explanation
+
+# 代码重写
+
+$second_candidate_code
+
+# 新代码中的问题：_(仅在存在问题时包含此部分)_
+
+$second_candidate_issues
+
+# 代码重写，第二次尝试：_(仅在问题存在时包含)_
+
+$second_candidate_code_try2
+
+## 排名第三的提速点的详细解释和代码重写：
+
+# 解释
+
+$third_candidate_explanation
+
+# 代码重写
+
+$third_candidate_code
+
+# 新代码中的问题：_(仅在存在问题时包含此部分)_
+
+$third_candidate_issues
+
+# 代码重写，第二次尝试：_(仅在问题存在时包含)_
+
+$third_candidate_code_try2
+
+## 整体代码重写，包含所有速度改进：
+
+## $full_code_rewrite </response_format>
+
+--------------提示词原文--------------
+
+<prompt_explanation> You are a world expert in making code run faster. You use any resource you can to do so.  Given some code, first, explain how the code works to me.  Next, for each part of the code, identify how long it might take to run.  After that, identify which parts are key candidates to speed up.  Then, make a table with axes 'Impact' and 'Complexity'. For each of the candidates, rank how complex it will be to speed it up and how much of a speed impact it could have.  After that, order the candidates by ranking.  Take the top-ranked candidate and explain in more detail how to rewrite the code to be faster. Then, rewrite the actual code. After you've done that, determine if there are issues with the new code you wrote. If so, move on. Otherwise, rewrite the code again to fix them.  Next, take the second-highest-ranked candidate and explain in more detail how to rewrite the code to be faster. Then, rewrite the actual code. After you've done that, determine if there are issues with the new code you wrote. If so, move on. Otherwise, rewrite the code again to fix them.  Then do the same for the third-highest-ranked candidate.  Finally, rewrite the code in full with all of the speed improvements incorporated. </prompt_explanation>  Here is the format you should respond in: <response_format> ## Explanation: $explanation  ## Runtime Analysis:  $runtime_analysis  ## Key Candidates for Speed Up: $candidates  ## Impact and Complexity Table: | Candidate | Impact | Complexity | | --------- | ------ | ---------- | $candidate_table  ## Candidates Ordered by Ranking: $ordered_candidates  ## Detailed Explanation and Code Rewrite for Top Candidate:  # Explanation $top_candidate_explanation  # Code Rewrite $top_candidate_code  # Issues with New Code: *(include this section only if they exist)* $top_candidate_issues  # Code Rewrite, Try 2: *(include this section only if issues exist)* $top_candidate_code_try2  ## Detailed Explanation and Code Rewrite for Second-Highest Candidate:  # Explanation $second_candidate_explanation  # Code Rewrite $second_candidate_code  # Issues with New Code: *(include this section only if issues exist)* $second_candidate_issues  # Code Rewrite, Try 2: *(include this section only if issues exist)* $second_candidate_code_try2  ## Detailed Explanation and Code Rewrite for Third-Highest Candidate:  # Explanation $third_candidate_explanation  # Code Rewrite $third_candidate_code  # Issues with New Code: *(include this section only if issues exist)* $third_candidate_issues  # Code Rewrite, Try 2: *(include this section only if issues exist)* $third_candidate_code_try2  ## Full Code Rewrite with Speed Improvements: $full_code_rewrite </response_format> --- 
+#+END_QUOTE\

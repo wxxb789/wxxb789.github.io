@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/A Bit of a Delayed Annou...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[jonhoo on Twitter]]
+:full-title: "A Bit of a Delayed Annou..."
+:category: [[tweets]]
+:url: https://twitter.com/jonhoo/status/1765490892628996373
+:image-url: https://pbs.twimg.com/profile_images/1114594272077066240/86ze0W_P.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+A bit of a delayed announcement, but this week's scheduled stream will be on Saturday at 0930 UTC (https://t.co/dnupr6wJwm). This time, we'll implement the git version control system core bits from scratch! Will be live at https://t.co/NVIFgiOXar 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+We'll follow the CodeCrafters git "course" (https://t.co/1vpxxtq5KJ), just like we did for BitTorrent in https://t.co/gY7TKytZ7s as a bunch of people seemed to enjoy that 🎉 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+If you want to try yourself, sign up via https://t.co/gDupHwELyo for 7 days free access, or find the content without the nice infrastructure at https://t.co/dBLaxGLXFN. 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Video isn't sponsored (I get no money for making it), though the above _is_ a referral link so that _if_ you find it useful and end up paying that also helps me :) 
+#+END_QUOTE\

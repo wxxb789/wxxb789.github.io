@@ -1,0 +1,125 @@
+:PROPERTIES:
+:title: readwise/Dimensions Is an AI-powe...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[MushtaqBilalPhD on Twitter]]
+:full-title: "Dimensions Is an AI-powe..."
+:category: [[tweets]]
+:url: https://twitter.com/MushtaqBilalPhD/status/1765378291362304012
+:image-url: https://pbs.twimg.com/profile_images/1575897887019499520/xs2ar5XJ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Dimensions is an AI-powered tool designed to make your literature review faster and easier.
+
+It gives you AI-generated summaries of research papers — even those that are paywalled. 
+
+It also lets you create graphs of citation networks.
+
+You can use Dimensions for free! 
+
+![](https://pbs.twimg.com/media/GH_iGUoWYAErlkV.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Go to dimensions(dot)ai and click on "Login" in the top-right corner.
+
+Register for free and then log in to your account.
+
+Before you start using Dimensions, you'll need to familiarize yourself with its interface. <video controls><source src="https://video.twimg.com/ext_tw_video/1765378365895135233/pu/vid/avc1/1354x720/kRw1i-Un0pqvOyBd.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378365895135233/pu/pl/rrH1BsiQnAnXZJvj.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765378365895135233/pu/vid/avc1/508x270/qfLQF3mKul8IkPIE.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378365895135233/pu/vid/avc1/676x360/J9W9VgOPvqzisr7N.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+On the top, you will see a usual search bar.
+
+On the left are "Filters" you can use to filter search results by publication year, type, author, journal, etc.
+
+On the right are "Analytical Views."
+
+To get better analytics, you will need to use both filters and analytical views. 
+
+![](https://pbs.twimg.com/media/GH_iYEPXgAASPdS.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Type in the search bar a few keywords related to your project.
+
+Dimensions will give you a list of papers.
+
+Click on the "Summarize" button.
+
+Dimensions will give you the paper's summary, key highlights, and top keywords. <video controls><source src="https://video.twimg.com/ext_tw_video/1765378640462721024/pu/vid/avc1/678x360/g9psRTi_T4rgKl5C.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378640462721024/pu/pl/_h83Kk7gJqkoGaMt.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765378640462721024/pu/vid/avc1/1356x720/w0lignNR85BXp3tb.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378640462721024/pu/vid/avc1/508x270/vt-beBjQp5xue0iI.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Dimensions shows the number of citations a paper has.
+
+It also shows you a paper's "altmetrics" (alternative metrics). Altmetrics show you how people are engaging online with a given paper. 
+
+For example, it shows you how many times a paper has been mentioned on Twitter/X and how many times it has been saved in Mendeley.
+
+It's a useful way of figuring out a papers' public impact.<video controls><source src="https://video.twimg.com/ext_tw_video/1765378776068653056/pu/vid/avc1/508x270/-TaSw6m3bjGPeFwf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378776068653056/pu/vid/avc1/1354x720/o5QhiCZLkQk1AEMq.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378776068653056/pu/vid/avc1/676x360/VjeDb2W5XnCvep18.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378776068653056/pu/pl/rDNLsoagDcCQ9rzB.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Dimensions lets you create two types of networks: co-authorship neworks and citation networks.
+
+To create a network, click on the "Researcher" filter and choose an author whose work you find most interesting.
+
+Hover your cursor over their name and click on "Limit to."
+
+Next click on "Analytical Views" and select "Researchers." Then click on the "Network" tab.
+
+Dimensions will you a network of all the co-authors a given author has.
+
+"The relatedness of researchers is determined based on their number of co-authored publications."<video controls><source src="https://video.twimg.com/ext_tw_video/1765378917223804928/pu/vid/avc1/508x270/tW2NgdcRlOQqWngR.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378917223804928/pu/vid/avc1/678x360/_rttrEfJe37-goFL.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378917223804928/pu/vid/avc1/1356x720/baSIxoxAFOHfQ1oy.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765378917223804928/pu/pl/sra_Gho72PFmYN3H.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+You can also create a network of citations.
+
+To do so, click on the "Type of analysis" on the top of the graph and select "Citation analysis."
+
+"The relatedness of researchers is determined based on the number of times they cite each other." <video controls><source src="https://video.twimg.com/ext_tw_video/1765379019539714048/pu/vid/avc1/506x270/ljnlsl5680Hlucmo.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379019539714048/pu/vid/avc1/1352x720/Oy-0UXSsqJwgLWwi.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379019539714048/pu/vid/avc1/676x360/SJ5_HBMyCqpnHKun.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379019539714048/pu/pl/jRwF8evLuDdpS1nc.m3u8?tag=12&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+To do a literature review you will need a research question. It will take hours and hours of work.
+
+Or, you can simply use ResearchKick(dot)com to craft a compelling research question and find research gaps — in minutes.
+
+Tutorial on Research Kick 👇
+
+https://t.co/k6HhbYYbMH 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+You can also customize the graphs in Dimensions.
+
+Click on the small, right arrow on the left of the graph. Dimensions will show several options.
+
+You can customize the scale of visualization, the size of publications and citations, citatation links, and the color scheme. <video controls><source src="https://video.twimg.com/ext_tw_video/1765379482876071936/pu/vid/avc1/348x270/upHRUcAX7qoKlkOf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379482876071936/pu/vid/avc1/928x720/w_pvBDqQJ6AZ6mdQ.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379482876071936/pu/pl/8w_yo6n7K0tdf6WG.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765379482876071936/pu/vid/avc1/464x360/eEW3dx0qC0UzcszL.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Dimensions also gives you a list of all the authors included in a particular graph.
+
+Click on "Find" to see the list of authors.
+
+If you click on the name of an author, Dimensions will shows you where that author is in the graph. <video controls><source src="https://video.twimg.com/ext_tw_video/1765379581412782081/pu/pl/D_ENJ1NJ0J6isWAJ.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1765379581412782081/pu/vid/avc1/484x360/TAiswqbbpNJq_HIX.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379581412782081/pu/vid/avc1/968x720/EILvqr4hkvSNP8ho.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1765379581412782081/pu/vid/avc1/362x270/EBYFEMQ9m0kn9eNv.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Found this thread on Dimensions helpful?
+
+1. Repost the first tweet to share it with your friends.
+
+2. Bookmark it so you can come back to it later.
+
+3. Follow me for more threads on how to use AI apps for academic purposes. 
+#+END_QUOTE\

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Chromium 源码简直是 macOS 开发者...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[unixzii on Twitter]]
+:full-title: "Chromium 源码简直是 macOS 开发者..."
+:category: [[tweets]]
+:url: https://twitter.com/unixzii/status/1765399111619285144
+:image-url: https://pbs.twimg.com/profile_images/1662772448696365056/m4N0QjDP.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+Chromium 源码简直是 macOS 开发者的宝藏，每次看都能学到很多 
+#+END_QUOTE\
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+今天的真实案例，以后回答问题就丢 Chromium 源码链接 😂 
+
+![](https://pbs.twimg.com/media/GIDOEvXb0AA5GCN.jpg) 
+
+![](https://pbs.twimg.com/media/GIDOEvTb0AAXJh5.jpg) 
+#+END_QUOTE\

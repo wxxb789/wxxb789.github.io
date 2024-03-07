@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/🔗 https:__t.co_oeg3aVS5h...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[AIWhispers4U on Twitter]]
+:full-title: "🔗 https://t.co/oeg3aVS5h..."
+:category: [[tweets]]
+:url: https://twitter.com/AIWhispers4U/status/1765626164373266439
+:image-url: https://pbs.twimg.com/profile_images/1644511641231556609/MG8xGOwo.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-08]]
+** 📌 [[2024-03-07]]
+#+BEGIN_QUOTE
+🔗 https://t.co/oeg3aVS5hR
+
+从零开始培训 LLMs 的创业之路
+
+作者讨论了作为一家初创公司从头开始培训大型语言和多模态模型所面临的挑战和经验教训，重点关注硬件质量的差异性、GPU 和 TPU 之间的差异、建立多集群环境以及使用外部代码库的局限性。
+
+评论中讨论了训练数据的重要性、LLM 创业公司的差异化因素、选择像 JAX 和 PyTorch 这样的框架、与计算供应商的经验以及直觉在模型训练中的作用。
+
+总体而言，这篇文章提供了建立以培训 LLMs 为重点的创业公司所面临的困难和成功的见解。
+
+💬 https://t.co/iqW5Iw9jNz 
+#+END_QUOTE\
