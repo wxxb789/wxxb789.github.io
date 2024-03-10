@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/提供一个bat 的面试题，对后端有兴趣的小伙伴可...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "提供一个bat 的面试题，对后端有兴趣的小伙伴可..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1763862309565260017
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-09]]
+#+BEGIN_QUOTE
+提供一个BAT 的面试题，对后端有兴趣的小伙伴可以试试：
+自行搭建数据库MySQL，用测试工具Sysbench 完成一次性能测试，并编写测试报告
+Sysbench压MySQL常用有只读、读写、只写、update等6个场景
+
+现在企业喜欢用这种开放式的题目，我也喜欢，可以有不及格、70/80/90/100，甚至120分的答卷，你试试看 
+#+END_QUOTE\

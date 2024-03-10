@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/一本我很喜欢的经典 JS 著作《Eloquent...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "一本我很喜欢的经典 JS 著作《Eloquent..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1765908058772021327
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+一本我很喜欢的经典 JS 著作《Eloquent JavaScript》中文翻译为：JavaScript编程精解 出了第4版，更新了一些章节
+
+https://t.co/fmDeVy59dk
+
+而且是整本书是完全免费的，除了可以直接在线阅读，还可以免费下载 pdf/mobi/epub 版本，有书中各种代码在线示例。
+
+虽然现在网上各种教程很发达，但是这本还是属于常读常新的一本经典著作，书不是很厚，不是那种罗列 API 的教程，我甚至觉得比 Javascript: The Good Parts 还好，尤其是其中的例子设置的非常巧妙精彩，初学JS 的完全可以从这本书起步，或者被现在框架怪坏了，想补一下基础知识的同学都非常适合这本书。
+
+最后，不推荐购买中文翻译版本，很多人都说翻译很差，而且好像翻译的是第一版，很久以前出版的，已经非常过时了，还是要看原版的教程。
+
+![](https://pbs.twimg.com/media/GIHCzUIaQAA8dZi.jpg) 
+#+END_QUOTE\

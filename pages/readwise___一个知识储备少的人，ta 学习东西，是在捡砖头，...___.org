@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/一个知识储备少的人，ta 学习东西，是在捡砖头，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "一个知识储备少的人，ta 学习东西，是在捡砖头，..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1766441336776146973
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-09]]
+#+BEGIN_QUOTE
+一个知识储备少的人，TA 学习东西，是在捡砖头，看到一块，就捡起一块；而知识储备多的人，TA 学习东西，是在盖房子，这体现在两个方面：
+
+一是，**TA 看到一块砖头，能够立刻放在自己的知识大厦的合适的位置上，与原有的知识建立联系**，形成更高水平、信息密度更高的组块，组成知识整体的一部分；
+二是，有时候，TA 看到的不是一块砖头，而是一整片有联系的砖头。
+
+那你的体系在哪里，以前我都放心里，但是后来发现心里容量太有限，还经常丢数据，后来我就把他们持久化到了MD文档中
+
+积累多了，小体系性地可以整理成一篇blog，算是一个提取信息的喵点。看到一块新的砖头，可以继续按关系插入到blog中（没必要写一篇新的）
+
+**学习就是输入**，学习的时候带着输出的目标去学习，比输入更重要的，是输出；用输出，来指导自己如何输入。"输出"包括考试、工作、闭卷回忆等等。
+
+学习工作只有走出舒适区能力才能跃迁，走出舒适区就是爬台阶。 
+#+END_QUOTE\

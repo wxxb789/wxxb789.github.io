@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/35岁其实不是说的35岁的问题，而是说年纪大了学...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "35岁其实不是说的35岁的问题，而是说年纪大了学..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1766407351761014929
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-09]]
+#+BEGIN_QUOTE
+35岁其实不是说的35岁的问题，而是说年纪大了学习能力跟不上的问题
+
+可能是家庭原因，可能是动力（激励）的原因，总的来说就是不如年轻的时候时间多、专注
+
+为什么程序员这行对持续学习要求这么高呢？
+因为没有一个行业像程序员一样10年就能把知识淘汰一大批，同时你费尽心力高熟练的东西，慢慢地新人只需要要2/3个月就可以了，也就是门槛降低了，前面趟路的总是困难要多些。
+
+10年前能搞清楚JVM GC、搞懂MySQL 联合索引就算不错了，现在……这还要学？
+
+怎么办？没啥好办法，咬紧牙关一起卷
+
+保持学习热情、学习方法、学习能力(我前面的博文都说过了)
+
+1) 多学基础类知识，几十年都不会淘汰的那种
+2) 多培养学习能力、解决问题的能力而不是知识掌握死知识。八股文背得好的肯定不如自己分析得来的能力强 
+#+END_QUOTE\

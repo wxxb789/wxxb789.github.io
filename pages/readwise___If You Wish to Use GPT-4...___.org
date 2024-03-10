@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/If You Wish to Use GPT-4...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Tisoga on Twitter]]
+:full-title: "If You Wish to Use GPT-4..."
+:category: [[tweets]]
+:url: https://twitter.com/Tisoga/status/1765992761189359993
+:image-url: https://pbs.twimg.com/profile_images/1760357569728847873/x8VidIsk.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+If you wish to use GPT-4, Claude 3, Gemini, and other models simultaneously without paying multiple times, it appears that [poe_platform](https://twitter.com/poe_platform) is the only option.
+
+Are there any other recommendations? 
+#+END_QUOTE\

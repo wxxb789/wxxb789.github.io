@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/A Comprehensive Cookbook...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[llama_index on Twitter]]
+:full-title: "A Comprehensive Cookbook..."
+:category: [[tweets]]
+:url: https://twitter.com/llama_index/status/1765782262795448358
+:image-url: https://pbs.twimg.com/profile_images/1623505166996742144/n-PNQGgd.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+A Comprehensive Cookbook for Claude 3 🧑‍🍳
+
+In a brand-new video guide 🎞️, we go through a comprehensive cookbook to show how Claude 3 can be used in a variety of different application use cases with [llama_index](https://twitter.com/llama_index) tooling:
+
+1. Vanilla RAG
+2. Routing
+3. Sub-question query planning
+4. Structured data extraction
+5. Text-to-SQL
+6. Agents
+
+This is a great starter kit for anyone looking to hack with Claude. Check it out below! 
+
+Video: https://t.co/nO84CNj2Ow
+
+Colab: https://t.co/wVykwLtSqd
+
+![](https://pbs.twimg.com/media/GIFRS7zacAAAVVK.jpg) 
+#+END_QUOTE\

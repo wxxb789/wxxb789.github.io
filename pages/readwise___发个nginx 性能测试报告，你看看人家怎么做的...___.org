@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/发个nginx 性能测试报告，你看看人家怎么做的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "发个nginx 性能测试报告，你看看人家怎么做的..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1766439541609804128
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-09]]
+#+BEGIN_QUOTE
+发个NGINX 性能测试报告，你看看人家怎么做的https://t.co/sNGZpYRbw3 
+#+END_QUOTE\

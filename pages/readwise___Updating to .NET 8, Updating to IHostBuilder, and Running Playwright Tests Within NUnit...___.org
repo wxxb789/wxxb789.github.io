@@ -1,0 +1,47 @@
+:PROPERTIES:
+:title: readwise/Updating to .NET 8, Updating to IHostBuilder, and Running Playwright Tests Within NUnit...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Scott Hanselman]]
+:full-title: "Updating to .NET 8, Updating to IHostBuilder, and Running Playwright Tests Within NUnit Headless or Headed on Any OS"
+:category: [[articles]]
+:url: https://www.hanselman.com/blog/updating-to-net-8-updating-to-ihostbuilder-and-running-playwright-tests-within-nunit-headless-or-headed-on-any-os
+:image-url: https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/78fe85887e7e_1244B/image_8b82f0d7-a3bc-4403-96c3-9dd36fc46d1f.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+[In 2018 I was using WebApplicationFactory](https://www.hanselman.com/blog/real-browser-integration-testing-with-selenium-standalone-chrome-and-aspnet-core-21) and some tricky hacks to basically spin up ASP.NET within .NET (at the time) Core 2.1 within the unit tests and then launching Selenium. This was kind of janky and would require to manually start a separate process and manage its life cycle. However, I kept on with this hack for a number of years basically trying to get the Kestrel Web Server to spin up inside of my unit tests.
+
+I've recently upgraded my main site and podcast site to .NET 8. Keep in mind that I've been moving my websites forward from early early versions of .NET to the most recent versions. The blog is happily running on Linux in a container on .NET 8, but its original code started in 2002 on .NET 1.1.
+
+Now that I'm on .NET 8, I scandalously discovered (as my unit tests stopped working) [that the rest of the world had moved from IWebHostBuilder to IHostBuilder five version of .NET ago](https://learn.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio#hostbuilder-replaces-webhostbuilder). Gulp. Say what you will, but the backward compatibility is impressive.
+
+As such my code for Program.cs changed from this
+
+public static void Main(string[] args)  
+{  
+    CreateWebHostBuilder(args).Build().Run();  
+}  
+  
+public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>  
+    WebHost.CreateDefaultBuilder(args)  
+        .UseStartup<Startup>();  
+
+to this:
+
+public static void Main(string[] args)  
+{  
+  CreateHostBuilder(args).Build().Run();  
+}  
+  
+public static IHostBuilder CreateHostBuilder(string[] args) =>  
+  Host.CreateDefaultBuilder(args).  
+      ConfigureWebHostDefaults(WebHostBuilder => WebHostBuilder.UseStartup<Startup>());
+
+Not a major change on the outside but tidies things up on the inside and sets me up with [a more flexible generic host for my web app](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1). 
+#+END_QUOTE\

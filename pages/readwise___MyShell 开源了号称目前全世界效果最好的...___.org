@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/MyShell 开源了号称目前全世界效果最好的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[gefei55 on Twitter]]
+:full-title: "MyShell 开源了号称目前全世界效果最好的..."
+:category: [[tweets]]
+:url: https://twitter.com/gefei55/status/1765765174395318611
+:image-url: https://pbs.twimg.com/profile_images/1600285780555202560/TE8ad_yJ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+MyShell 开源了号称目前全世界效果最好的 TTS 库 MeloTTS
+代码：https://t.co/YBuRU2dxhY
+体验：https://t.co/I4mfMlEs5c
+哥飞给大家介绍下，目前 MeloTTS 支持英语、西班牙语、法语、中文、日语和韩语，号称是目前最好的高质量多语言文本转语音库。
+还支持中英混杂，有点优秀哦。 
+
+![](https://pbs.twimg.com/media/GIFCD9SXgAA1BOt.jpg) 
+#+END_QUOTE\

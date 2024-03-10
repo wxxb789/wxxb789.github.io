@@ -1,0 +1,18 @@
+:PROPERTIES:
+:title: readwise/王川宝典
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[王川]]
+:full-title: "王川宝典"
+:category: [[books]]
+:image-url: https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/149688257/Em9KsqdJaZZnKw7H63sM5G4YKKndwIG_4419mdRjfEo-cover-cover.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-10]]
+#+BEGIN_QUOTE
+王川宝典 
+#+END_QUOTE\

@@ -1,0 +1,112 @@
+:PROPERTIES:
+:title: readwise/Nobody Taught Me How To...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[pyquantnews on Twitter]]
+:full-title: "Nobody Taught Me How To..."
+:category: [[tweets]]
+:url: https://twitter.com/pyquantnews/status/1765726813022572850
+:image-url: https://pbs.twimg.com/profile_images/1551422813378330624/V9PoiAnq.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+Nobody taught me how to backtest a trading strategy.
+
+So I read all the books and blogs.
+
+Then, I distilled what I learned into a simple step-by-step guide.
+
+But unlike a 300-page book, this won't take you 1 month to read (or cost you $150).
+
+Here it is in 2 minutes (free): 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+But first, what’s a backtest?
+
+• Tests trading ideas against historic market data
+• Is used to check the robustness of trading strategies
+• Is a simulation of how a strategy might have performed in the market
+
+Let’s backtest a successful trading strategy with VectorBT: 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+Fund managers report their holdings every month. They don’t want to tell investors that they lost money the latest meme stock. So they will sell the meme stocks and buy higher quality assets, like bonds.
+
+Let’s see if we can make money from this. 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+We’re going to use the ETF TLT as a proxy for bonds. We’ll use VectorBT to get 10 years of data in 1 line of code. But first the imports. 
+
+![](https://pbs.twimg.com/media/GIEgEstWAAA4s09.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+VectorBT has a built in data downloader. We’ll download the data and grab the closing prices. 
+
+![](https://pbs.twimg.com/media/GIEgS-SXoAEbi4l.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+This code creates pandas Series of the same shape as the Series with our closing prices. Next we’ll generate the trading signals based on the day of the month. 
+
+![](https://pbs.twimg.com/media/GIEgl0eX0AARd3G.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+We expect there to be positive returns, on average, toward the end of the month.
+
+We expect to see negative returns, on average, toward the beginning of the month.
+
+Fund managers dump their high quality assets and go back to buying meme stocks. 
+
+![](https://pbs.twimg.com/media/GIEhFjOXMAId010.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+VectorBT makes it simple to run sophisticated backtests.
+
+Here we assume trades at the closing prices.
+
+Once we run the backtest, we get a nice summary of the results. 
+
+![](https://pbs.twimg.com/media/GIEheIbWYAAhwZP.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+The results are promising. Over 5,060 trading days, the strategy trades 483 times.
+
+It has total returns of 502% compared to a buy and hold of TLT with a 112% return.
+
+The strategy has a reasonable max drawdown of 21%, a win rate of 59%, and Sharpe ratio of 1.1. 
+
+![](https://pbs.twimg.com/media/GIEhreKWwAAvPXs.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+VectorBT makes it easy to optimize strategies in a rigorous way using walk forward optimization.
+
+You’ll want to avoid overfitting so you can run a walk forward optimization to make sure the out of sample results are statistically signifiant. 
+#+END_QUOTE\
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+Everything you need to start using Python for algorithmic trading (FREE).
+
+Here's what you get:
+
+• ChatGPT prompting frameworks
+• Real quant code to backtest strategies
+• Step-by-step code to automate trades
+• And loads more...
+
+7 days. Big results.
+
+https://t.co/oMuWK86JhR 
+#+END_QUOTE\

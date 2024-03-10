@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/Human ChatGPTs and the Vices of Foggy Thinking
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Geoff Mulgan]]
+:full-title: "Human ChatGPTs and the Vices of Foggy Thinking"
+:category: [[articles]]
+:url: https://www.geoffmulgan.com/post/human-chatgpts-and-the-vices-of-foggy-thinking
+:image-url: https://static.wixstatic.com/media/0dd0d2_9fd6f9a03f84472a9968aede900b3cc3~mv2.jpg/v1/fill/w_218,h_235,al_c,lg_1,q_80/0dd0d2_9fd6f9a03f84472a9968aede900b3cc3~mv2.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+A few years ago I wrote a blog on the related phenomen in leadership which I called [blowing bubbles](https://www.nesta.org.uk/blog/speeches-and-strange-phenomenon-blowing-bubbles/) – the ability to speak convincingly without actually saying anything. It’s an important skill in some fields like politics, and often required of leaders in other fields such as universities. 
+#+END_QUOTE\

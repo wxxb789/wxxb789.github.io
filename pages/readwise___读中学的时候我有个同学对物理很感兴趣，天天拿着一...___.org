@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/读中学的时候我有个同学对物理很感兴趣，天天拿着一...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "读中学的时候我有个同学对物理很感兴趣，天天拿着一..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1766412720092721371
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-09]]
+#+BEGIN_QUOTE
+读中学的时候我有个同学对物理很感兴趣，天天拿着一本奥赛的书，晚自习逮到物理老师就问，开始的时候物理老师还挺有耐心的，老师不会的会回去研究下再跟这个同学交流
+
+可实际上每次物理考试这个同学也就及格水平（班里处于中游），但是挡不住自己的热情，一学期下来物理老师看到他就躲，晚自习教室门口瞄一眼就赶紧闪，最后这同学也没考上大学，你想想物理是他最拿手的科目了只是中游水平。
+
+他这些竞赛书我也拿过来翻过，题目都看不懂，只好绕着跑，我高考物理是可以接近满分的
+
+后来工作后认识个朋友，他自学编程，一上来迷上了《计算机程序设计艺术》，三大本都买回来了，天天琢磨算法，CRUD也搞不好、计算机基础知识也不太懂，就这样自学了1年多后跑北京找工作，结果找了半年一个正经工作也没有，后来去了广州就没消息了。
+
+这种人大家身边也许都有，有热情但是就是不能脚踏实地，没有那么高的能力非要摸尖尖。大部分民科都是这种吧
+
+![](https://pbs.twimg.com/media/GIOPAE8bcAEmtof.jpg) 
+#+END_QUOTE\

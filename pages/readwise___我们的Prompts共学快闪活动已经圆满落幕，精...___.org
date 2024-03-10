@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/我们的Prompts共学快闪活动已经圆满落幕，精...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[WaytoAGI on Twitter]]
+:full-title: "我们的Prompts共学快闪活动已经圆满落幕，精..."
+:category: [[tweets]]
+:url: https://twitter.com/WaytoAGI/status/1765996501401280514
+:image-url: https://pbs.twimg.com/profile_images/1654774036759728128/KCCnFPkO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-08]]
+#+BEGIN_QUOTE
+我们的Prompts共学快闪活动已经圆满落幕，精彩内容现已上传至B站！四天的深入探讨，多角度解析Prompts的魅力，绝对值得一看再看！快来B站观看并收藏它们吧。
+
+https://t.co/PzETc2Yg75 
+
+![](https://pbs.twimg.com/media/GIITkNlasAEb5By.jpg) 
+#+END_QUOTE\

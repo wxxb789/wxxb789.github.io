@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/X86有个有意思的指令：pause， 调用这个指...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "X86有个有意思的指令：pause， 调用这个指..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1766411564230541694
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-10]]
+** 📌 [[2024-03-09]]
+#+BEGIN_QUOTE
+X86有个有意思的指令：pause， 调用这个指令后CPU啥也不干，就是休息N个时钟周期，这个时候CPU可以省电、避免切换到其它进程导致上下文切换、也可以调度给超线程。一般抢锁失败会pause一下，比如内核中到处的spin。--这是原理
+
+Intel Broadwell架构（比如 E5 至强5代）及之前的CPU都是pause一次休息10个时钟周期，Skylake架构之后这个pause一次休息时钟周期从10调到了140，整整增加了14倍啊，带来的后果是灾难性的（因为很多软件是不会测试、考虑这么细致的）如图1
+
+E5-2682/8163/8263 三者pause circle分别是： 10/140/44  8163步子太大扯到蛋了，然后8263往回找补一点，E5-2682是Broadwell，8163是Skylake,  8263是 CascadeLake
+
+比如MySQL使用innodb_spin_wait_delay控制spin lock等待时间（底层会调用这个pause指令），跑在Broadwell CPU上等待时间时间从innodb_spin_wait_delay*50*10个时钟周期（6微秒）。如果跑在Skylake上spin一次休息innodb_spin_wait_delay*50*140个时钟周期（84微秒，我相信没有几个DBA会根据CPU型号去调整参数吧--有的话请私聊我，交个朋友），后果就是MySQL在高并发场景下TPS拉胯的厉害，如图2
+
+这是我第一次感受CPU对程序的影响，后来的事前面的微博都写过了 https://t.co/C73O3fNLQD
+
+https://t.co/swcI7Z1YXG
+，每一次被现实鞭打后得知耻而后勇
+
+你看程序员啥都没做，但是锅在你头上
+
+![](https://pbs.twimg.com/media/GIOND2RaQAAfwkm.jpg)
+
+![](https://pbs.twimg.com/media/GIONKOsbUAAAZPW.jpg) 
+#+END_QUOTE\
