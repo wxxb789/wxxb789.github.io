@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/A Problem With RAG in Pr...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[emollick on Twitter]]
+:full-title: "A Problem With RAG in Pr..."
+:category: [[tweets]]
+:url: https://twitter.com/emollick/status/1766864861928001617
+:image-url: https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-11]]
+#+BEGIN_QUOTE
+A problem with RAG in practice:
+
+I asked a “talk to your documents” AI  “what is important for me to know?”
+
+The RAG system pulled up three documents, for reasons that weren’t clear. Then the LLM justified the documents as being vital. Everything worked technically. Answer was BS 
+#+END_QUOTE\
+** 📌 [[2024-03-11]]
+#+BEGIN_QUOTE
+Giant context windows solve this, but tons of effort is going into implementing RAG based on today’s technologies. 
+#+END_QUOTE\
