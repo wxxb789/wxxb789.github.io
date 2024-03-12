@@ -1,0 +1,62 @@
+:PROPERTIES:
+:title: readwise/\#JackyAIGC 最近一段时间个人经常用的两...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Jackywine on Twitter]]
+:full-title: "\#JackyAIGC 最近一段时间个人经常用的两..."
+:category: [[tweets]]
+:url: https://twitter.com/Jackywine/status/1767337370742145348
+:image-url: https://pbs.twimg.com/profile_images/1638106713688805378/4v00_uOz.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+#JackyAIGC
+最近一段时间个人经常用的两个 AI 工具，全免费，不需要什么额外的投入，专注于提高效率 
+
+![](https://pbs.twimg.com/media/GIbX6Cda0AAXSuA.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+第一个，秘塔AI搜索
+链接：https://t.co/mszu68MRcO
+就如同他的广告语说的一样，没有广告直达结果
+实际使用体验的话比百度、必应更轻又更方便
+还会根据网络内容自己主动推理，比如问：
+为什么罗永浩被称为“龙哥”
+它会给你详细的解答，而结论是它先总结网页信息之后再给出的 
+
+![](https://pbs.twimg.com/media/GIbYITRbsAALsZ4.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+它的答案： 
+
+![](https://pbs.twimg.com/media/GIbYzf3b0AAn-oo.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+相当丰富的Ai应用导航网站
+10175 个AI工具和 233 个分类 已收录于最大的AI工具导航站。AI工具列表和GPTs列表通过ChatGPT每天自动更新
+
+链接：https://t.co/DV95kelfeO 
+
+![](https://pbs.twimg.com/media/GIbbkWba4AAbhuo.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+每一个应用都打上了标签，标注了访问量，以及给出了推荐玩法，比我想象的更加丰富，网站还提供了按照地区、领域等等的排行榜，以及高收入AI的排行榜
+可以说是非常良心了 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+目前见到的效果最好的背景擦除工具
+具体的效果直接看视频演示吧！
+太强大了，而且免费
+
+链接：https://t.co/s51mHtXKoW <video controls><source src="https://video.twimg.com/ext_tw_video/1767342676087869440/pu/vid/avc1/320x710/tw1XI6MXGkk-Ywug.mp4?tag=15" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767342676087869440/pu/vid/hevc/720x1600/cjSUvgcEekl4GXBF.mp4?tag=15" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767342676087869440/pu/vid/hevc/480x1066/aEvl64oZ23T6xJo4.mp4?tag=15" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767342676087869440/pu/pl/bkAXUiohIwSLYTPR.m3u8?tag=15&container=cmaf" type="application/x-mpegURL">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

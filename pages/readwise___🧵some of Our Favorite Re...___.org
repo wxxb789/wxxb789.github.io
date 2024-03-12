@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/🧵some of Our Favorite Re...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ChatGPTapp on Twitter]]
+:full-title: "🧵some of Our Favorite Re..."
+:category: [[tweets]]
+:url: https://twitter.com/ChatGPTapp/status/1767244533249765755
+:image-url: https://pbs.twimg.com/profile_images/1722425721602347008/UWMHieDx.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+🧵some of our favorite recent GPTs 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+use the Instacart GPT to create a weekly meal plan, have the relevant ingredients populated in your cart, and then get them delivered to you. 
+
+https://t.co/Fgflt3gKIf 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+books GPT has read all the books in the world and wants to help you find your next read.
+
+https://t.co/F6E9on76z4 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+need to brush up on math, science or humanities? use Khan Academy’s Tutor Me GPT
+
+https://t.co/RUQGE9Z75U 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+whether you’re mapping out an approval process, charting your job search journey, or planning your home-buying steps, use Whimsical Diagrams GPT to visualize your approach.
+
+https://t.co/HISWlbVQZk 
+#+END_QUOTE\

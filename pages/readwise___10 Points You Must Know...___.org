@@ -1,0 +1,50 @@
+:PROPERTIES:
+:title: readwise/10 Points You Must Know...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ProgressiveCod2 on Twitter]]
+:full-title: "10 Points You Must Know..."
+:category: [[tweets]]
+:url: https://twitter.com/ProgressiveCod2/status/1767507606862811531
+:image-url: https://pbs.twimg.com/profile_images/1494975789464375297/94wfpPs3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+10 points you must know about Load Balancers.
+
+[1] A load balancer distributes incoming traffic across multiple servers.
+
+[2] We need load balancers for two things - workload distribution and redundancy
+
+[3] There are two main types of load balancers - Layer 4 and Layer 7
+
+[4] Layer 4 LBs operate in the transport layer of the OSI model. Examples include HAProxy, AWS Network Load Balancer, Azure Load Balancer
+
+[5] Layer 7 LBs operate in the application layer. Examples include HAProxy, Nginx, AWS Application Load Balancer, Azure Application Gateway
+
+[6] There are two main categories of load-balancing algorithms - static and dynamic.
+
+[7] Static LB algorithms include round-robin, sticky round-robin, weighted round-robin, and hash-based
+
+[8] Dynamic LB algorithms include the least connections and least response time
+
+[9] Can load balancers become a single point of failure? Not really because most cloud load balancers are configured for high availability. 
+
+[10] However, you can also build a high-availability load balancer with an active-passive or active-active configuration.
+
+Do you want to learn more about load balancers?👇
+
+![](https://pbs.twimg.com/media/GIdyYc_b0AAwtkr.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+I talk in detail about each of these points about Load Balancers and how they work in my article.
+
+Here's the link:
+https://t.co/P4BymUYzZd 
+#+END_QUOTE\

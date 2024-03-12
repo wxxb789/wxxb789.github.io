@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/介绍三个聚焦于 AI 领域 Telegram 公...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "介绍三个聚焦于 AI 领域 Telegram 公..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1767404064013426810
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+介绍三个聚焦于 AI 领域 Telegram 公众号，掌握最新 AI 动态，突破自己 AI 信息孤岛。
+ChatGPT / AI 新闻聚合 https://t.co/ihHDQlbu95
+AI News https://t.co/SjhOIUAt9R
+AI探索指南 https://t.co/yJQkbjtanj
+
+配合 RSSHub 
+在名称前加 https://t.co/FJI1slOzUg 生成 RSS 订阅源
+如… 
+
+![](https://pbs.twimg.com/media/GIcB0XmbYAAN8s9.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Retrieval Augmented Thou...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "Retrieval Augmented Thou..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1767251740443746435
+:image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+**Retrieval Augmented Thoughts**
+
+Shows that iteratively revising a chain of thoughts with information retrieval can significantly improve LLM reasoning and generation in long-horizon generation tasks. 
+
+The key idea is that each thought step is revised with relevant retrieved information to the task query, the current and past thought steps. 
+
+Retrieval Augmented Thoughts (RAT) can be applied to different models like GPT-4 and CodeLlama-7B to improve long-horizon generation tasks (e.g., creative writing and embodied task planning).
+
+RAT is a zero-shot prompting approach and provides significant improvements to baselines that include zero-shot CoT prompting, vanilla RAG, and other baselines. 
+
+Interesting idea to elicit context-aware reasoning and how it can benefit these long-horizon generation tasks.
+
+![](https://pbs.twimg.com/media/GIaIGhdXUAAFQWk.jpg) 
+#+END_QUOTE\

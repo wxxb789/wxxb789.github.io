@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/如果你是一个一行代码都不会写,从来没有用过ide...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[recatm on Twitter]]
+:full-title: "如果你是一个一行代码都不会写,从来没有用过ide..."
+:category: [[tweets]]
+:url: https://twitter.com/recatm/status/1767273669082882111
+:image-url: https://pbs.twimg.com/profile_images/1533734744382484480/5hhrkMgz.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+如果你是一个一行代码都不会写,从来没有用过IDE和终端的小白，现在也可以让GPT教你一步步开始了。
+我用的vscode插件是 Continue。
+
+prompt 请从“我是一个笨蛋”开始 
+
+![](https://pbs.twimg.com/media/GIadkOMXoAAKBJp.png) 
+#+END_QUOTE\

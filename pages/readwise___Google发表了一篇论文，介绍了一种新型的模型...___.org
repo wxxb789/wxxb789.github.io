@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/Google发表了一篇论文，介绍了一种新型的模型...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[imxiaohu on Twitter]]
+:full-title: "Google发表了一篇论文，介绍了一种新型的模型..."
+:category: [[tweets]]
+:url: https://twitter.com/imxiaohu/status/1767425679703134395
+:image-url: https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+Google发表了一篇论文，介绍了一种新型的模型窃取攻击方法 并表示他们已经成功攻破ChatGPT
+
+这种方法能够从像OpenAI的ChatGPT或Google的PaLM-2这样的黑箱模型中提取精确、重要信息。
+
+仅需不到20美元，就能攻击并提取出OpenAI的ada和babbage语言模型的整个投影矩阵。
+
+而且确认了这俩模型分别具有1024和2048的隐藏维度。
+
+他们还恢复了gpt-3.5-turbo模型的确切隐藏维度大小，并估计恢复整个投影矩阵的成本不到2000美元。
+
+主要特点：
+
+1、目标和范围：攻击专门针对生产级别的语言模型，如OpenAI的ChatGPT或Google的PaLM-2，这些模型通常作为黑箱服务通过API接口提供。攻击的主要目标是提取模型的嵌入投影层信息。
+
+2、成本效益：该方法成本效率极高，能够以不到20美元的成本提取出OpenAI语言模型的投影矩阵，这一点通过实验确认。
+
+3、揭示隐藏维度：通过这种攻击，研究人员首次确认了黑箱模型具有的隐藏维度大小（例如，1024和2048），这种维度信息对于理解模型的能力和结构至关重要。
+
+4、高效率：该方法不仅成本低廉，而且高效，能够快速提取出模型的关键信息。例如，预计用不到2000美元就能恢复gpt-3.5-turbo模型的完整投影矩阵。
+
+5、高精度：通过这种方法提取的模型信息（如投影矩阵）具有高精度，误差极小。例如，对于OpenAI模型，提取的嵌入层与实际模型之间的平均平方误差非常低（10^-4级别），证明了攻击的精确性。
+
+6、不同模型的适用性：攻击方法在多个不同的模型上进行了测试，包括不仅限于OpenAl的模型。这表明该攻击手段具有一定的普适性，可以应用于多种生产级语言模型。
+
+7、安全和隐私影响：该研究揭示了即使是最尖端的语言模型，也存在被窃取关键信息的风险，这对模型的安全性和使用者的隐私提出了挑战，同时也提示需要更加重视模型的安全防护措施。
+
+论文：https://t.co/8APEdITVZ4
+PDF：https://t.co/WinVUDy60t
+
+![](https://pbs.twimg.com/media/GIcgpCPaYAAQ__a.jpg) 
+#+END_QUOTE\

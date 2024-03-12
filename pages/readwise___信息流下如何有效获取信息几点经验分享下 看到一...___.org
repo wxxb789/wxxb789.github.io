@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/信息流下如何有效获取信息几点经验分享下 看到一...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "信息流下如何有效获取信息几点经验分享下 看到一..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1767353296313024962
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+信息流下如何有效获取信息几点经验分享下
+
+看到一篇好文章后把整个博客都看下，挑你擅长的先看，快速确认博客内容深度以及是否适合你；
+
+看到好微博也是，话痨的就算了，有些人连评论都懒得开就开始问！
+
+公众号重点看看开号前面半年发的内容，一般都是干货，后面大多都是带货、为了发而发
+
+不要沉迷信息流，多翻翻箱底的经典文章，一个人的实力是有限的，旺旺最早的几篇都是他们最好、最经典的几篇，他们能沉淀下来相对更有实力。我就发现新同学基本不太关心老文章，总是追求新的，你看我前一阵还在翻公司10多年前的案例
+
+有疑问的先放狗搜一下再提问
+
+看到一张好图片可以先搜图，然后根据图片能给你搜出来一大堆好文章（好文章配图一般也不差）
+
+我最讨厌微信、钉钉上的就是，你好（然后10分钟后没有下文了），在吗？然后一次消息发两三个字，一句话分成7/8发给你也挺讨厌的
+
+![](https://pbs.twimg.com/media/GIbmc4laUAAcMas.jpg) 
+#+END_QUOTE\

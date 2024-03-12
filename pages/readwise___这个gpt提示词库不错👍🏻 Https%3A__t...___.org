@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/这个gpt提示词库不错👍🏻 Https:__t...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "这个gpt提示词库不错👍🏻 Https://t..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1767402218699755898
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+这个GPT提示词库不错👍🏻
+
+https://t.co/fWh9L1uLpM 
+
+![](https://pbs.twimg.com/media/GIcS5BmX0AM4ETG.jpg) 
+#+END_QUOTE\

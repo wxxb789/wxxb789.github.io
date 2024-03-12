@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/曾今为了对 Unix Domain Socket...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "曾今为了对 Unix Domain Socket..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1767417096231903663
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+曾今为了对 Unix domain Socket 进行tcpdump抓包解析（手里有锤子看谁都是钉子），愁白了头
+
+比如想看看docker ps 为啥不对，unix domain socket 里面流淌的啥，感觉空有一身tcpdump技能却无从下手。
+
+花了一个月终于找到一个完美方案（需要安装socat, socket cat类似netcat ）, 方案我放在图一中了，顺带学习了下socat、curl --unix-socket之类的
+
+然后看看 unix domain socket原理之类的，这一大摊子都总结好放这里了，一般人都会收藏： 
+https://t.co/PE95ZWPt7y
+
+![](https://pbs.twimg.com/media/GIcgekMasAAY2Mi.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/本地共享文件我也是尝试了各种工具，昨天 Hn 上...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "本地共享文件我也是尝试了各种工具，昨天 Hn 上..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1767367577624584242
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+本地共享文件我也是尝试了各种工具，昨天 HN 上很火的 LocalSend 真的好用。
+
+https://t.co/D8fKjyotXm
+
+无需网络，无需启动额外的服务器，免费，开源，加密，各种平台的客户端，比 AirDrop 好用多了，因为家里有 windows 电脑也需要兼容一下。试了一天，感觉是我现在本地共享绝佳的解决方案。 
+
+![](https://pbs.twimg.com/media/GIbzSfkaYAA9dIF.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/Ollama 的编译玩的太花了，先是吧 Llam...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[liumengxinfly on Twitter]]
+:full-title: "Ollama 的编译玩的太花了，先是吧 Llam..."
+:category: [[tweets]]
+:url: https://twitter.com/liumengxinfly/status/1767073319956971891
+:image-url: https://pbs.twimg.com/profile_images/1571735154728783872/b5hATGP0.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-12]]
+** 📌 [[2024-03-12]]
+#+BEGIN_QUOTE
+ollama 的编译玩的太花了，先是吧 llama.cpp 在不同 cpu 和 gpu 的动态链接库都编译了出来避免用户在运行时再去编译，然后用 go 的 embed 特性直接把这些动态库全都打包到 go 的二进制里，然后在用 cgo 和 dlfcn 加载和调用 llama.cpp，实现了一个二进制文件免编译，免安装的解决所有问题 
+#+END_QUOTE\
