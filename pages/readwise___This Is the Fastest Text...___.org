@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/This Is the Fastest Text...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[svpino on Twitter]]
+:full-title: "This Is the Fastest Text..."
+:category: [[tweets]]
+:url: https://twitter.com/svpino/status/1767586456036417627
+:image-url: https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+This is the fastest text-to-speech and speech-to-text API out there.
+
+It's under 250 ms to first-byte latency. That's what we need to deploy conversational AI applications everywhere!
+
+(I can't wait for the death of automated voice machines.)
+
+Look at the attached video. For the first time, I could have a conversation with an AI agent in real time without awkward pauses.
+
+This technology is Aura from Deepgram. It's the fastest text-to-speech option I've seen.
+
+Here is a GitHub repository with the demo in the video:
+
+https://t.co/ePTCMxkIrP
+
+You can use it to build a conversational AI application using natural voice. You'll need a Deepgram API Key and an OpenAI API Key.
+
+Thanks to Deepgram for giving me access to Aura and collaborating with me on this post.
+
+If you want to learn more about Aura, here is the announcement post: https://t.co/l9IrKoUJBK<video controls><source src="https://video.twimg.com/ext_tw_video/1767586161520779272/pu/pl/OKU0HWOlX6x7nQdL.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1767586161520779272/pu/vid/avc1/480x270/5RFZPtyUA8T69jls.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767586161520779272/pu/vid/avc1/640x360/egpiCP0qcjPz4qiD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767586161520779272/pu/vid/avc1/1280x720/-u1va9rKhLOsb4yL.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

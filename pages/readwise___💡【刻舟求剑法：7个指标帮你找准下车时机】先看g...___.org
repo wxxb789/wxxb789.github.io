@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/💡【刻舟求剑法：7个指标帮你找准下车时机】先看g...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[BTW0205 on Twitter]]
+:full-title: "💡【刻舟求剑法：7个指标帮你找准下车时机】先看g..."
+:category: [[tweets]]
+:url: https://twitter.com/BTW0205/status/1767820950257688644
+:image-url: https://pbs.twimg.com/profile_images/1654639960757256197/eKa0vuda.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+💡【刻舟求剑法：7个指标帮你找准下车时机】先看Glassnode数据，上两轮牛市周期出现了相似走势，都是在周期低点两年后达到阶段性高峰，随后迅速暴跌迈入熊市。
+
+[BlockTempo](https://twitter.com/BlockTempo) 整理出了【7个逃顶指标】，可以mark参考一下（不代表任何投资建议）：
+
+1⃣ 时间周期。本轮最新周期（黑线）暂处于上升阶段，若比照上两轮周期，可能会在2025 年底达到新高峰。
+
+2⃣ #Bitcoin 的200日与21周指数移动平均线（EMA），一旦跌破这两条线，就代表市场资金正在退出，潜在的熊市也即将来临。
+
+3⃣ 彩虹图，当前则是处于黄色「HODL」状态。 https://t.co/qgnQ5MvPRV
+
+4⃣ Pi 周期顶部指标，当111天移动平均线向上移动并突破350天移动平均线x2 时，这可能是 #BTC 处于或接近顶部的讯号。
+https://t.co/tWKom9Nd9b
+
+5⃣ 山寨币/垃圾币泛滥，新项目多，且随便一个垃圾项目都敢自我估值十个亿。看到这些要警惕，极大可能是趁着牛市流动性来收割的。
+
+6⃣ 交易所比特币储备量。目前来看，CEX的比特币储备量是持续下滑的，未来如果数据突然提高，可能就是一个大资金获利了结的警讯。
+
+7⃣ Google搜索热度。多跟亲戚朋友聊聊天，如果发现你远方表哥家的女儿的男朋友的二舅妈都在聊比特币了，那不要犹豫，卖！
+
+🔗https://t.co/eC0Bau8b75
+
+![](https://pbs.twimg.com/media/GIiKh4CbYAIfykS.png)
+
+![](https://pbs.twimg.com/media/GIiPt4la8AAddQs.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,173 @@
+:PROPERTIES:
+:title: readwise/测试了一下 Anthropic 的这个 Meta...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "测试了一下 Anthropic 的这个 Meta..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1767646284511314036
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+测试了一下 Anthropic 的这个 metaprompt 工具，用来写 Prompt 和优化 Prompt，效果还真的不错，但是成本的话，运行一次要 ~$0.15。
+
+建议使用的时候，不要输入太多内容，否则就变成了翻译，而是内容少一点，让它自由发挥，然后你基于它的结果再手动修改测试可能效果更好。
+
+回复中附加几个测试结果 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+输入：
+
+***
+生成英文 Prompt：你是一位精通简体中文的专业翻译，尤其擅长将专业学术论文翻译成浅显易懂的科普文章。请你帮我将英文段落翻译成中文，风格与中文科普读物相似。
+\- 翻译时要准确传达原文的事实和背景
+- 人名不翻译
+- 输入格式为 Markdown 格式，输出格式也必须保留原始 Markdown 格式
+- 在翻译专业术语时，第一次出现时要在括号里面写上英文原文，例如：“生成式 AI (Generative AI)”，之后就可以只写中文了。
+- 以下是常见的 AI 相关术语词汇对应表（English -> 中文）：
+* Transformer -> Transformer
+* Token -> Token
+* LLM/Large Language Model -> 大语言模型
+* Zero-shot -> 零样本
+* Few-shot -> 少样本
+* AI Agent -> AI 智能体
+* AGI -> 通用人工智能
+***
+
+输出：
+
+***
+When translating, please follow these guidelines:
+- Accurately convey the facts and context of the original text
+- Do not translate names
+- The input format is in Markdown, and the output format must also preserve the original Markdown
+formatting
+- When translating technical terms, include the original English term in parentheses the first time
+it appears, e.g., "生成式 AI (Generative AI)". After that, you can use just the Chinese term.
+- Here is a glossary of common AI-related terms (English -> Chinese):
+* Transformer -> Transformer
+* Token -> Token
+* LLM/Large Language Model -> 大语言模型
+* Zero-shot -> 零样本
+* Few-shot -> 少样本
+* AI Agent -> AI 智能体
+* AGI -> 通用人工智能 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+输入：
+***
+请生成英文 Prompt，帮助将英文生成科普风格的中文，要求通俗易懂，保持原有格式。
+***
+
+输出：
+
+***
+Your task is to translate an English text into Chinese while maintaining a popular science writing
+style. The translation should be easy to understand for a general audience and preserve the original
+formatting of the text.
+
+Here is the English text to translate:
+
+<english_text>
+{$ENGLISH_TEXT}
+</english_text>
+
+Please follow these steps to complete the translation:
+
+1. Carefully read through the English text to understand its content and structure.
+
+2. Translate the text into Chinese, focusing on using simple, clear language that is accessible to a
+wide audience. Avoid using overly technical or academic terms.
+
+3. Ensure that the translated text maintains the same formatting as the original English text,
+including paragraphs, line breaks, and any special formatting like bold or italicized text.
+
+4. If there are any terms or concepts that may be unfamiliar to a general Chinese audience, consider
+adding brief explanations or definitions within the text.
+
+5. Review your translation to check for accuracy, clarity, and adherence to the popular science
+writing style.
+
+Please provide your translated Chinese text inside <translated_text> tags.
+
+<translated_text>
+[Your translated Chinese text here]
+</translated_text> 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+输入：
+***
+请生成英文 Prompt，帮助将英文生成科普风格的中文，要求通俗易懂，保持原有格式。翻译时分成三步：1. 直译；2. 反思；3. 意译"
+***
+
+输出：
+***
+You will be translating an English text into Chinese, following a three-step process to ensure the
+final translation is in an accessible, engaging science article style while preserving the original
+meaning and format.
+
+Here is the English text to translate:
+
+<english_text>
+{$ENGLISH_TEXT}
+</english_text>
+
+First, perform a literal, word-for-word translation of the English text into Chinese. Output your
+literal translation inside <literal_translation> tags.
+
+Next, reflect on your literal translation. Consider ways you could make the language more accessible
+and engaging for a general audience while still conveying the original meaning and preserving the
+original format (e.g. paragraph structure, headings, lists). Write your reflections inside
+<reflection> tags.
+
+Finally, perform a free translation of the English text into Chinese based on your literal
+translation and reflections. Aim for a clear, easy-to-understand writing style suitable for a
+general audience science article. Make sure to preserve the original meaning and format as much as
+possible. Output your final translation inside <free_translation> tags. 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+输入：
+***
+请生成英文 Prompt，帮助将英文生成科普风格的中文，要求通俗易懂，保持原有 Markdown 格式。翻译时分成三步：1. 直译；2. 反思；3. 意译。注意意译时也要尊重原意，不要合并缩略内容，要保持原有段落句子结构不变
+***
+
+输出：
+***
+You will be translating an English text into Chinese using a three-step process: direct translation,
+reflection, and interpretive translation. The goal is to produce a Chinese version written in an
+accessible, engaging popular science style while preserving the original meaning, structure, and
+Markdown formatting.
+
+Here is the English text to translate:
+
+<english_text>
+{$ENGLISH_TEXT}
+</english_text>
+
+First, perform a direct translation of the English text into Chinese. Preserve the original Markdown
+formatting. Output your direct translation inside <direct_translation> tags.
+
+Next, reflect on your direct translation. Consider how you could make the language more accessible
+and engaging for a general audience while still respecting the original meaning and structure of the
+text. Write your reflections inside <reflection> tags.
+
+Finally, perform an interpretive translation based on your direct translation and reflections. Aim
+for a popular science writing style that is easy to understand for a broad Chinese audience. Be sure
+to preserve the original paragraph and sentence structure - do not merge, condense or omit any
+content. Output your final interpretive translation inside <interpretive_translation> tags.
+
+Remember, the key priorities are: 1) Maintain fidelity to the original meaning and structure, 2) Use
+language suited for a general audience, 3) Adopt an accessible, engaging popular science writing
+style. Let these guide you through the direct translation, reflection and interpretive translation
+steps. 
+#+END_QUOTE\

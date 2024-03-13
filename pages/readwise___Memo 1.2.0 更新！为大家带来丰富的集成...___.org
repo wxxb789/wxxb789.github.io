@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/Memo 1.2.0 更新！为大家带来丰富的集成...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[MemoAI_ on Twitter]]
+:full-title: "Memo 1.2.0 更新！为大家带来丰富的集成..."
+:category: [[tweets]]
+:url: https://twitter.com/MemoAI_/status/1767785068070867303
+:image-url: https://pbs.twimg.com/profile_images/1677356999095496705/Jwz7inhz.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+Memo 1.2.0 更新！为大家带来丰富的集成，丝滑的视频播客转文字，翻译体验。
+
+1. 翻译字幕支持 Open AI、Claude、DeepL、微软、谷歌、Ollama 等数十种翻译服务供选择。
+
+2. 支持继续翻译，中断翻译也不用担心重头开始浪费 Token。
+
+3. 视频总结、生成思维导图速度提升 10 倍。… <video controls><source src="https://video.twimg.com/ext_tw_video/1767784870313680896/pu/pl/d2EcFUXxTEqg9w9z.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1767784870313680896/pu/vid/avc1/404x270/n3rpQmGgn7-vOyEl.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767784870313680896/pu/vid/avc1/540x360/Fx7eR9uVLt5a8moj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767784870313680896/pu/vid/avc1/1080x720/eD4rimwGzzRcdhiK.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+下载链接：https://t.co/RV7MzxkZKd
+
+邀请码：
+Jpu6-GVki-TwAu-3roT
+JQc9-Zk7d-NSKG-go4B 
+#+END_QUOTE\

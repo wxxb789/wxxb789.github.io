@@ -2,7 +2,6 @@
 :title: readwise/HuggingFace 官方博客上的一篇文章：《...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
@@ -11,7 +10,6 @@
 :url: https://twitter.com/dotey/status/1737658820598398985
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-12-21]]
 #+BEGIN_QUOTE
@@ -29,4 +27,24 @@ Assistant 的速度是 Main 模型的 3 倍，但准确率只有 70% - 80%。
 
 原文：https://t.co/mjMiAPojTW
 译文：https://t.co/Txy7YzkRGb<img src='https://pbs.twimg.com/media/GB1ncExWwAAG9v9.jpg'/> 
+#+END_QUOTE\
+* New highlights added [[2024-03-13]] at 11:45 PM
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+HuggingFace 官方博客上的一篇文章：《Speculative Decoding for 2x Faster Whisper Inference | 推测性解码：实现 Whisper 推理速度提升两倍 [译]》
+
+在这篇文章中，展示了如何应用“猜测式解码”(Speculative Decoding) 技术来减少 Whisper 语音识别模型的处理时间，实现了处理速度的 两倍提升，同时数学上保证了模型输出的 完全一致性。因此，这一方法可以无缝替代现有的 Whisper 处理流程，不仅保持了原有的准确性，还能实现处理速度的双倍快速提升。
+
+简单来说，Speculative Decoding就是先利用一个快速的 Assistant 模型生成候选tokens，再用 Main 模型验证。
+
+Assistant 的速度是 Main 模型的 3 倍，但准确率只有 70% - 80%。
+
+使用这种方法可以让整体速度提升 2 倍，并且保证输出完全一致。
+
+文章还提供了Google Colab的测试连接：https://t.co/qzbZz3JLlQ
+
+原文：https://t.co/mjMiAPojTW
+译文：https://t.co/Txy7YzkRGb
+
+![](https://pbs.twimg.com/media/GB1ncExWwAAG9v9.jpg) 
 #+END_QUOTE\

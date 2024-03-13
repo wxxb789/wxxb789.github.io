@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/麻瓜又来卷程序员了：我用iPhone15Pro的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[onenewbite on Twitter]]
+:full-title: "麻瓜又来卷程序员了：我用iPhone15Pro的..."
+:category: [[tweets]]
+:url: https://twitter.com/onenewbite/status/1707364849125331137
+:image-url: https://pbs.twimg.com/profile_images/1585995910521446400/OXrx3eAV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+麻瓜又来卷程序员了：我用iPhone15Pro的Action Button搭配OpenAI做出了“AI闪念笔记”和“Whisper键盘”。从此可以快乐地在iPhone上用OpenAI的Whisper来语音输入和做笔记了，而且还有ChatGPT的加持。这是一套我用了一段时间的工作流。真的很提升效率。 https://t.co/kIfOrmiUYZ 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+人民的智慧是无限的.把iPhone 15 pro的 action button 设置到一个”Master Shortcut”, 然后这个shortcut 能选择运行不同的shortcut. 这就实现了一个action button 能用作不同的功能.. 
+
+![](https://pbs.twimg.com/media/F7PAtc2aQAAwoPX.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+加上图标效果更好. 
+
+![](https://pbs.twimg.com/media/F7PCAM1a4AATsV5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+视频上线36小时，有416人下载shortcuts, 在反复强调不要付费的情况下，还是有一位观众发善心赏了5刀. 感谢🙏（我是真不想收费，因为我不想做售后服务） 
+
+![](https://pbs.twimg.com/media/F7PF3xdbQAAaD35.jpg) 
+#+END_QUOTE\

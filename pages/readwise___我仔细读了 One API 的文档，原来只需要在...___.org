@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/我仔细读了 One API 的文档，原来只需要在...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "我仔细读了 One API 的文档，原来只需要在..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1767897561158008876
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+我仔细读了 One API 的文档，原来只需要在令牌后添加渠道 ID，就可以指定渠道来处理本次请求。不然则会使用负载均衡的方式使用多个渠道。在令牌后面加 -10 先把 Azure $200 用完了再说😜
+\- One API 真是一个牛逼的项目！- 
+
+![](https://pbs.twimg.com/media/GIjTZYGawAAiDoj.jpg) 
+
+![](https://pbs.twimg.com/media/GIjURdwbIAAmsqh.jpg) 
+#+END_QUOTE\

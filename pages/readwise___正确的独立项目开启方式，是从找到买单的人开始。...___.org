@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: readwise/正确的独立项目开启方式，是从找到买单的人开始。...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "正确的独立项目开启方式，是从找到买单的人开始。..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1767557156864414083
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+正确的独立项目开启方式，是从找到买单的人开始。
+
+通过特定领域query🔍youtube内容
+用RPA来获取每个youtuber的email地址
+
+把这个list卖给这个特定领域的初创公司
+这个list值得100美元
+
+当业务mvp跑通 就可以复制产品化
+
+看看下面的产品，不都活的好好的吗？
+https://t.co/R70rlE9A4N
+https://t.co/TxOGd9TLR4
+https://t.co/lcZ4HVhkpl
+https://t.co/YPvk1za8M0
+
+但如果你的链路反了，你先去做copycat，然后跑到推特问：我该怎么推广我的项目
+
+人们无法给出建议，因为工具只是个工具，缺少内容运营策略，就像一个没有了灵魂的躯壳。这种东西是没价值的。
+
+直至你装入灵魂，产品才有了价值。
+
+所以如果你找不到魂，指望做个躯壳就能卖钱，那还是蛮难的。 
+#+END_QUOTE\

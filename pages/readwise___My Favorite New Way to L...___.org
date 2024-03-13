@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/My Favorite New Way to L...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[radekosmulski on Twitter]]
+:full-title: "My Favorite New Way to L..."
+:category: [[tweets]]
+:url: https://twitter.com/radekosmulski/status/1767712707824808035
+:image-url: https://pbs.twimg.com/profile_images/1442780164589592578/X8UDFyuu.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+My favorite new way to learn — talking to an LLM
+
+• [YouTube](https://twitter.com/YouTube) suggested a neat-looking video to me about 
+• I know nothing about circuit boards --> ask Claude
+• don't know what video is showing --> screenshot & ask Claude
+
+The era of private LLM tutors is now! 
+
+![](https://pbs.twimg.com/media/GIgsSZ3bkAAP8Mo.png) 
+
+![](https://pbs.twimg.com/media/GIgsg4hacAAUXym.jpg) 
+
+![](https://pbs.twimg.com/media/GIgsm1yb0AAJgmy.png) 
+
+![](https://pbs.twimg.com/media/GIgsrFKaEAASz9v.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+In a future episode of my podcast:
+
+"Hey [johnowhitaker](https://twitter.com/johnowhitaker), do you think everyone should own a PCB printer?" 😂
+
+Just joking of course, but extremely grateful for the conversation we had! 🙏 So many cool new ways of looking at things!
+
+That answer re 3d-printer was 👌👌👌 
+#+END_QUOTE\

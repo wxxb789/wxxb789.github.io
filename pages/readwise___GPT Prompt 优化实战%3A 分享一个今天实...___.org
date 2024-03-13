@@ -1,0 +1,49 @@
+:PROPERTIES:
+:title: readwise/GPT Prompt 优化实战: 分享一个今天实...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[moeimiku on Twitter]]
+:full-title: "GPT Prompt 优化实战: 分享一个今天实..."
+:category: [[tweets]]
+:url: https://twitter.com/moeimiku/status/1766760040768442585
+:image-url: https://pbs.twimg.com/profile_images/1729869256471547904/xev4TfLe.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+GPT Prompt 优化实战:
+分享一个今天实际应用中遇到的关于GPT通过输出token来思考（也就是所谓的思维链）的生动例子:
+
+让GPT修正从语音识别文字识别错误的部分:  "长期的贫困五千年的贫困给我们积累下来的教训就是积股放鸡"
+
+1. 直接输出结果的prompt:  帮我纠正以下语音识别结果中识别错误的部分，其他部分原样输出:  "长期的贫困五千年的贫困给我们积累下来的教训就是积股放鸡"
+
+结果是GPT3.5甚至GPT4全都不能正常输出结果（图1）
+
+2. 优化利用输出token先分析再给结论方式的prompt: 帮我分析以下语音识别结果中识别错误的部分, 然后用单独一行输出改正后的句子:  "长期的贫困五千年的贫困给我们积累下来的教训就是积股放鸡"
+
+结果是GPT3.5和GPT4都有概率可以正确输出，GPT4概率高不少。(图2）
+
+3. 再次优化:帮我分析以下语音识别结果中识别错误的部分, 先分析错误的词，结合中国文化、语境、发音先给出分析框架和方法，使用分析框架和方法给出一些可能的备选，如果备选中没有非常合理的就继续分析。最终从备选中选出最合理的再用输出改正后的句子:  “长期的贫困五千年的贫困给我们积累下来的教训就是积股放鸡”
+结果是GPT4大概率可以正确输出（图3）
+比较令人意外的是GPT3.5成功率大大下降（猜测是因为GPT3.5的上下文窗口比GPT4小，输出多了反而容易错误）
+
+最后，好像还是不能百分之百成功，不知道有没有prompt大神能出一个百分之百成功的？
+欢迎大家讨论尝试~  有什么错误的地方请各位指出，谢谢~
+
+#PromptChallenge
+
+![](https://pbs.twimg.com/media/GITGzyvb0AE052b.png)
+
+![](https://pbs.twimg.com/media/GITHneHbkAAfa5N.png)
+
+![](https://pbs.twimg.com/media/GITH00ibcAA9ufC.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+提示：一定要点到详情看图片，否则顺序不对 
+#+END_QUOTE\

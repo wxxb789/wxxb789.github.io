@@ -1,0 +1,71 @@
+:PROPERTIES:
+:title: readwise/红色是 Gpt4，绿色是 Claude Opus...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[fengbuyou on Twitter]]
+:full-title: "红色是 Gpt4，绿色是 Claude Opus..."
+:category: [[tweets]]
+:url: https://twitter.com/fengbuyou/status/1767775144926499067
+:image-url: https://pbs.twimg.com/profile_images/1725904624173940736/JkUhMgvi.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+红色是 gpt4，绿色是 claude opus ，使用了 vscode 的文件 diff 功能。
+没有做什么提示工程，所以结果仅供参考，可能 claude opus 默认就比较偏向意译。
+大部分情况下，claude opus 翻译结果会好很多，但有时会向意译走太远
+
+翻译文章链接：https://t.co/2YnIu4Py7q
+
+4/14 
+
+![](https://pbs.twimg.com/media/GIhmHFoaoAA4zPC.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmHaVaoAAkfnM.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmHrcbEAAvzwu.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmH8UagAATz9k.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+8/14 
+
+![](https://pbs.twimg.com/media/GIhmIgQbwAAnV0S.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmIxpasAAK4I-.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmJDZb0AAePe9.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmJV_acAA6-9h.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+12/14 
+
+![](https://pbs.twimg.com/media/GIhmJ5Ka0AAG3IW.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmKLzawAEoTmW.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmKb1aAAAsE7r.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmKtxbAAAoU4f.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+14/14 
+
+![](https://pbs.twimg.com/media/GIhmLOQa0AA4For.jpg) 
+
+![](https://pbs.twimg.com/media/GIhmLgubEAAF9e1.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+希望不重不漏 😂，如有缺漏，文字版全文翻译：
+gpt4: https://t.co/w4TXn82hPr
+claude opus: https://t.co/3gA5HZ0YAc 
+#+END_QUOTE\

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: readwise/一般的pitch祈求打动投资人给钱，合格的pit...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[0xthefool on Twitter]]
+:full-title: "一般的pitch祈求打动投资人给钱，合格的pit..."
+:category: [[tweets]]
+:url: https://twitter.com/0xthefool/status/1767614244663730194
+:image-url: https://pbs.twimg.com/profile_images/1749127093391425536/3KlfmY5b.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+一般的pitch祈求打动投资人给钱，合格的pitch讲清楚赚钱和增长逻辑说服投资人打钱，优秀的pitch让投资人上头FOMO给钱。
+
+写好一份Pitch Deck，本质就是讲好故事，讲清楚你的预期。除了项目/团队/时机本身过硬，也需要能够回答好至少五个问题：
+
+1. 你为了解决什么问题存在。这个问题有多痛，是头发着火一样着急去解决的问题吗？是止痛药（must do)还是维生素(nice to have)？你的产品怎么解决这个痛点。
+
+2. 你的目标用户是谁。这个群体有什么特征和习惯，你怎么触达他们，目前他们怎么解决这个痛点。2C的话怎么做流量转化漏斗，2B的话怎么做销售pipeline？
+
+3. 你的市场有多大。谨慎现实评估你们可以立刻拿下的市场有多大(SOM)，你们的产品可以触达的用户总市场有多大（SAM），产品功能扩展后把整个大市场吃下来有多大（TAM）。
+
+4. 为什么是现在。为什么之前没有人解决好这个问题，现在有什么变化吗？消费者习惯？新的监管政策？新的技术和商业模式？
+
+5. 为什么是你。如果他们相信了你在最合适的时机选择了最合适的方案去为最合适的市场解决最痛的问题，为什么不是投别人或者自己去干而是投你？有什么你有别人没有的，独特的资源/关系/技能/认知都可以。
+
+如果只看一份材料，可以看红衫最通用的pitch 模版，北美创业者融资写的第一份deck通常就是用这一份近20年历史包浆的模版： https://t.co/qZZT0ygkcZ
+
+如果有时间可以学习一下同赛道同融资轮次的前辈们怎么做的，三个素材：
+
+\- PitchDeck Hunt有1000+不同轮次和行业的deck，堪称互联网最全。 https://t.co/THwQdocNzT
+- Alexander 小毒舌是我的融资启蒙前辈，对很多deck进行roast/吐槽。 https://t.co/IEd9iRKwMb
+- Tech Crunch 对很多近期的pitch deck做分析，深度有但是不够毒舌哈哈哈
+https://t.co/3WpXrU4E4M 
+#+END_QUOTE\

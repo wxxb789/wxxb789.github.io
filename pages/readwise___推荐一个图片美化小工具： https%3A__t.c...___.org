@@ -1,0 +1,104 @@
+:PROPERTIES:
+:title: readwise/推荐一个图片美化小工具： https:__t.c...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "推荐一个图片美化小工具： https://t.c..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1767711936593191287
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+推荐一个图片美化小工具：
+https://t.co/f1bBKjUn71
+最早开发者做的这个工具好像卖掉了，现在改名叫：https://t.co/LYet2ykefI
+
+可以上传图片，或者输入文字做卡片，或者晒代码，也可以贴一个推特地址生成卡片。样式全部支持自定义，真的很好用。
+很适合国内量子位，新智元，机器之心这些每天搬运推特的公众号推文用，可以把推特图片整理的更好看。（其实学习学习[op7418](https://twitter.com/op7418) 归藏的排版，这些细节都能提升）
+
+这个web服务很良心的，没有任何广告，也没有任何付费，唯一的问题就是在于底部有个自己的水印。如果你是想用到公众号或者是什么地方，可能会觉得有点儿头疼。
+
+这产品商业化的方式也很简单，增加一个去水印或者可以自定义水印的功能，针对这里收费就好了。
+
+昨天和铁锤说我5分钟搞了这个产品，只是开个玩笑。
+我说，这个产品完全可以依靠一个JS卖50元，因为人们既不知道这个产品，也不知道如何去水印，有信息差的地方就能赚到钱。
+
+就像昨天发这个fake的推特，也有小伙伴问能不能把工具分享给大家用。
+
+另外，大家如果做类似的水印产品，可以考虑尽量在后端来生成水印。
+
+附上个修改水印的油猴JS，ChatGPT 2分钟搞定，大家把yangyi creator改掉即可。
+
+\--------
+// ==UserScript==
+// [name](https://twitter.com/name)        vividshare watermarkremove
+// [name](https://twitter.com/name)space   Violentmonkey Scripts
+// [match](https://twitter.com/match)       *://*.vividshare.io/*
+// [grant](https://twitter.com/grant)       none
+// [version](https://twitter.com/version)     1.1
+// [author](https://twitter.com/author)      ChatGPT
+// [description](https://twitter.com/description) 将页面上所有特定的图片水印替换为自定义文本，并使用p标签
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    function replaceAllWatermarksWithText() {
+        // 查找页面上所有符合条件的水印图片元素
+        const watermarkImages = document.querySelectorAll('img[alt="VividShare - Create appealing images from tweets and text in a snap"]');
+        watermarkImages.forEach(function(watermarkImage) {
+            // 对每个找到的图片元素执行操作，创建一个新的p元素
+            const watermarkText = document.createElement('p');
+            watermarkText.textContent = '@Yangyi Creator'; // 设置为您的自定义文本
+            https://t.co/Fk8hflGlce.cssText = https://t.co/S9Ogx0eQlc.cssText; // 尝试保留原图片的样式，可根据需要进行调整
+
+            // 特别针对<p>标签的样式调整，比如调整字体大小、边距等，以适应您的页面设计
+            https://t.co/Fk8hflGlce.margin = '0'; // 举例：移除默认的段落边距
+            https://t.co/Fk8hflGlce.fontSize = '14px';// 设置合适的字体大小
+            https://t.co/Fk8hflGlce.lineHeight = '1em';// 设置行高为字体大小的1倍
+            https://t.co/Fk8hflGlce.margin = '0';// 取消外边距
+            https://t.co/Fk8hflGlce.padding = '0';// 取消内边距
+            // 可以添加其他样式属性，根据需要调整
+
+            // 将图片替换为新的文本元素
+            watermarkImage.parentNode.replaceChild(watermarkText, watermarkImage);
+        });
+    }
+
+    function init() {
+        // 直接尝试替换，不需要重试逻辑，因为我们要替换所有找到的元素
+        replaceAllWatermarksWithText();
+    }
+
+    const pushState = history.pushState;
+    history.pushState = function() {
+        pushState.apply(history, arguments);
+        setTimeout(init, 100); // 在pushState发生时重新初始化
+    };
+
+    window.addEventListener('popstate', () => {
+        setTimeout(init, 100); // 在popstate事件发生时重新初始化
+    });
+
+    init(); // 初始调用
+})();
+
+![](https://pbs.twimg.com/media/GIgo7EQbcAAuskx.jpg)
+
+![](https://pbs.twimg.com/media/GIgo8CgawAA6alV.jpg)
+
+![](https://pbs.twimg.com/media/GIgo-qsbwAAzCmQ.jpg)
+
+![](https://pbs.twimg.com/media/GIgpDoOasAAws2z.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+类似的还有：
+https://t.co/h2k3gHqIs4 
+#+END_QUOTE\

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/分享两个在 Xlog 发现的优质资源帖子 🔹免费...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "分享两个在 Xlog 发现的优质资源帖子 🔹免费..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1767690031425114296
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+分享两个在 Xlog 发现的优质资源帖子
+🔹免费AI服务列表 https://t.co/Cb27oFbUXR
+🔹Cloudflare Workers优秀项目收集 https://t.co/7VCZuLyamc 
+
+![](https://pbs.twimg.com/media/GIej3bKbAAA2hd2.jpg) 
+#+END_QUOTE\

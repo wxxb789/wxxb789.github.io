@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/小扎是真的All in AI了，Meta宣布他们...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "小扎是真的All in AI了，Meta宣布他们..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1767592981752943001
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+小扎是真的All in AI了，Meta宣布他们正在开发两个拥有 2.4万 GPU 的超级计算集群。并在24年底使综合计算能力接近 60万个 H100 GPU。
+
+这些超级计算集群将用于支持多种人工智能任务，包括培训 Llama 3 大型人工智能模型。Meta 特别强调，他们致力于开放式计算和开源技术，这些集群基于 Grand Teton、OpenRack 和 PyTorch 等平台构建而成。
+
+这些集群设计用于支撑大型和复杂的人工智能模型，着重于提升性能、确保可靠性和扩展能力。
+
+Meta 的策略包括了设计定制化的硬件设备、采用先进的网络解决方案，比如 RDMA over converged Ethernet (RoCE) 和 NVIDIA Quantum2 InfiniBand 网络技术，还有利用 FUSE API 和 Tectonic 分布式存储等技术的优化存储方案。
+
+此外，Meta 也在注重通过软件优化和与框架开发者（例如 PyTorch）合作，使其人工智能集群在最大化性能的同时，也易于使用。
+
+来源：https://t.co/jggjIIhxS5
+
+![](https://pbs.twimg.com/media/GIfAcTPbkAAXCsx.jpg) 
+#+END_QUOTE\

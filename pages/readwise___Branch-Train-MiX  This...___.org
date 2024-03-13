@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/Branch-Train-MiX  This...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[omarsar0 on Twitter]]
+:full-title: "Branch-Train-MiX  This..."
+:category: [[tweets]]
+:url: https://twitter.com/omarsar0/status/1767919732542378089
+:image-url: https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+Branch-Train-MiX 
+
+This new work proposes mixing expert LLMs into a Mixture-of-Experts LLM as a more compute-efficient approach for training LLMs.  
+
+It's shown to be more efficient than training a larger generalist LLM or several separate specialized LLMs.
+
+The approach, BTX, first trains (in parallel) multiple copies of a seed LLM specialized in different domains (i.e., expert LLMs) and merges them into a single LLM using MoE feed-forward layers, followed by fine-tuning of the overall unified model.  
+
+Quote from the paper: "The main advantage of BTX compared to MoE is that expert training is embarrassingly parallel and asynchronous, reducing communication cost and increasing training throughput. Compared to Branch-TrainMerge, the final BTX model is a unified neural network that can be finetuned or used like any other standard LLM. The final BTX model will not significantly increase inference FLOPs compared to the seed model since it is sparsely activated, despite having a much larger number of parameters."
+
+![](https://pbs.twimg.com/media/GIjpk-SWUAAipba.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+Paper: https://t.co/1iUk6Z0Wdm 
+#+END_QUOTE\

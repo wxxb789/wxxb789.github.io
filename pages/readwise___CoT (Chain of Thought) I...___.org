@@ -1,0 +1,98 @@
+:PROPERTIES:
+:title: readwise/CoT (Chain of Thought) I...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[RubenHssd on Twitter]]
+:full-title: "CoT (Chain of Thought) I..."
+:category: [[tweets]]
+:url: https://twitter.com/RubenHssd/status/1767574793455305027
+:image-url: https://pbs.twimg.com/profile_images/1740293990342127616/OjRkn2CN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+CoT (Chain of Thought) is the best way to prompt — according to academic papers.
+
+But I want to run a test to be sure:
+→ simple vs. CoT prompt on ChatGPT
+
+I made this quick benchmark below: 
+
+![](https://pbs.twimg.com/media/GIev58UXsAAbPOC.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+First, what is Chain of Thought? 
+
+It's a prompt technique that forces the LLM to think before giving a good answer.
+
+Start by creating:
+→ a step-by-step reasoning process. 
+
+Breaking down a problem into bite-size steps is easier for humans... & LLMs.
+
+So step 1: 
+
+![](https://pbs.twimg.com/media/GIev7r0XkAEARDb.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+I asked ChatGPT to read a 16-page PDF. 
+
+The PDF is about how to prompt LLMs. 
+
+On the left, my prompt is: 
+→ explain the PDF.
+
+On the right, I used a CoT prompt: 
+→ a step-by-step reasoning process.
+
+And that's what I got: <video controls><source src="https://video.twimg.com/ext_tw_video/1767574890461245441/pu/pl/vD0B-osRW95BhidE.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1767574890461245441/pu/vid/avc1/432x270/SxGbBQTxXq0paWAj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767574890461245441/pu/vid/avc1/576x360/eR1j7nfYolMaAMKn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767574890461245441/pu/vid/avc1/1152x720/UZtckwaffLZ87YnW.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+On the left: 
+> a short summary of the PDF
+> zero examples on prompt engineering 
+
+On the right: 
+> explanations on how to prompt
+> details on examples from the PDF
+> definitions of  prompting techniques
+
+Why you should use the CoT technique? <video controls><source src="https://video.twimg.com/ext_tw_video/1767574934052638720/pu/pl/k315WNMMZ3hdruo6.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1767574934052638720/pu/vid/avc1/432x270/Vmlaw42t_qpgxPZk.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767574934052638720/pu/vid/avc1/576x360/CobAblIsL29cBGY5.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767574934052638720/pu/vid/avc1/1152x720/j4v9NepABCQk0fFK.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+Because you're forcing ChatGPT to think. 
+
+Don't forget:
+→ an LLM is as lazy as a human. 
+
+If you don't have a specific plan... 
+→ you won't get a specific answer.
+
+And that's not it: <video controls><source src="https://video.twimg.com/ext_tw_video/1767575012700000256/pu/pl/yTc9SsUCYluW_xbb.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1767575012700000256/pu/vid/avc1/432x270/Sk3JnznAr42Uwa2S.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767575012700000256/pu/vid/avc1/576x360/-F3O2hO_G2kLZFSF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1767575012700000256/pu/vid/avc1/1152x720/oXCPWhzuZYGE0iIV.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+I also ran tests to compare: 
+→ zero shot vs. few shots prompting
+
+Last thing before you scroll away: 
+
+https://t.co/gKuAy5wXfq 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+I do daily tests on LLMs like ChatGPT, Gemini, Claude, Groq, or Mistral.
+
+Check my profile [RubenHssd](https://twitter.com/RubenHssd) for more.
+
+If you'd like to support me, a like or a simple RT goes a long way :)
+https://t.co/YsYdS95pQO 
+#+END_QUOTE\

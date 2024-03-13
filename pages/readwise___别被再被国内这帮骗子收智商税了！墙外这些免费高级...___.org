@@ -1,0 +1,76 @@
+:PROPERTIES:
+:title: readwise/别被再被国内这帮骗子收智商税了！墙外这些免费高级...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[knowledgefxg on Twitter]]
+:full-title: "别被再被国内这帮骗子收智商税了！墙外这些免费高级..."
+:category: [[tweets]]
+:url: https://twitter.com/knowledgefxg/status/1767542553598193889
+:image-url: https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+别被再被国内这帮骗子收智商税了！墙外这些免费高级的AI课程了解下👇 
+
+![](https://pbs.twimg.com/media/GIeRGqfbcAEyT_f.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+1. 来自CS50 的 Python 人工智能课程
+
+https://t.co/wd7OhkdaRm
+
+你将在课程中学到：图搜索算法，强化学习，机器学习，人工智能原理，如何设计智能系统，如何在Python程序中使用AI等等 
+
+![](https://pbs.twimg.com/media/GIeRZpxaMAEnmNO.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+2. 来自谷歌的生成式AI入门级微课程
+
+https://t.co/7Z8i1IJudj
+
+掌握生成式人工智能的基础知识、应用和细微差别。  探索其与传统机器学习相比的独特方法。 
+
+![](https://pbs.twimg.com/media/GIeRmlAaYAAc9o5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+3. 来自微软的高级AI程序建造课程
+
+https://t.co/3HhGoOaSF0
+
+配备工具包来创建人工智能集成应用程序。使用 Microsoft Copilot Studio 探索聊天机器人和 AI 模型。 
+
+![](https://pbs.twimg.com/media/GIeRzyOaYAAQg5c.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+4. udacity的人工智能全面课程
+
+https://t.co/1LMfAHYYMw
+
+本课程将向您介绍人工智能的基础知识。主题包括机器学习、概率推理、机器人技术、计算机视觉和自然语言处理。 
+
+![](https://pbs.twimg.com/media/GIeSAH_bwAAEE1g.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+5. 来自油管的AI科普小课堂
+
+https://t.co/TMA98HRv3D
+
+这是一个关于人工智能的教育系列，由Jabril Ashe主持。该系列将介绍AI的发展历史和当前应用，帮助观众理解AI背后的逻辑。 
+
+![](https://pbs.twimg.com/media/GIeSNHabEAAT6ER.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+结语:
+国内某些骗子们，利用信息不对等的情况来牟取利益，这种行为必须被批评，我鼓励同学们多多翻出去看世界，同时也鼓励具有批判性思维，更要多学习英语，起码能在知识和信息的海洋中公平航行。 
+#+END_QUOTE\

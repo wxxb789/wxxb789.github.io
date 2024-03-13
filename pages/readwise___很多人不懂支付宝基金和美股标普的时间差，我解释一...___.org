@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/很多人不懂支付宝基金和美股标普的时间差，我解释一...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ooeli_eth on Twitter]]
+:full-title: "很多人不懂支付宝基金和美股标普的时间差，我解释一..."
+:category: [[tweets]]
+:url: https://twitter.com/ooeli_eth/status/1767909938599428215
+:image-url: https://pbs.twimg.com/profile_images/1490937705995276288/BckjXqU0.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+很多人不懂支付宝基金和美股标普的时间差，我解释一下：
+
+首先，要明白交易日是不包括周末和节假日的。
+
+比如有人想抄底补仓：
+
+假如美股13号下跌3%，支付宝要在14号下午3点*前买才能获得美股13号下跌3%后的收盘价格。3点之后只能获得美股14号的收盘价格。
+
+又比如，美股周五大涨5%，支付宝基金周一才会显示这个大涨5%。
+
+下图，左边是标普500指数每天收益变化；右边是支付宝标普基金每天收益变化。可以说博时标普的追踪准确性很高的。
+
+*下午3点：是国内证券停止交易的时间。
+
+![](https://pbs.twimg.com/media/GIjgt9kb0AEDJnw.jpg)
+
+![](https://pbs.twimg.com/media/GIjgt9kbQAAWKbZ.jpg) 
+#+END_QUOTE\

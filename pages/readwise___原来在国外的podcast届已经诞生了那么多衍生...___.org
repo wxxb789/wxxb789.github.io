@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/原来在国外的podcast届已经诞生了那么多衍生...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[einverne on Twitter]]
+:full-title: "原来在国外的podcast届已经诞生了那么多衍生..."
+:category: [[tweets]]
+:url: https://twitter.com/einverne/status/1767909959495495814
+:image-url: https://pbs.twimg.com/profile_images/1357895964925652992/G9tBCoLV.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-13]]
+** 📌 [[2024-03-13]]
+#+BEGIN_QUOTE
+原来在国外的podcast届已经诞生了那么多衍生的工具，
+https://t.co/1p7vO7UdLM 在线录制
+choppity 自动生成播客中精彩部分制作short
+headliner 手动根据播客内容制作衍生视频
+Descript 制作b roll
+
+从制作到编辑到推广营销 全部工具链！ 
+#+END_QUOTE\
