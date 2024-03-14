@@ -1,4 +1,4 @@
-#+tags: TODO,
+#+tags: pvt,
 
 * winget - essential
 ** Git.Git
@@ -9,7 +9,6 @@
 ** JetBrains.Toolbox
 ** Tencent.WeChat
 ** Fndroid.ClashForWindows
-
 ** Zotero.Zotero
 ** Emurasoft.EmEditor
 ** Microsoft.VisualStudioCode
