@@ -20,4 +20,37 @@ sdc     3:0:0:0       4G
 sdd     3:0:0:1      16G
 sde     3:0:0:2      32G
 #+END_QUOTE
-*
+* prepare the new empty disk
+** partition the disk
+
+#+BEGIN_SRC bash
+sudo parted /dev/sdc --script mklabel gpt mkpart xfspart xfs 0% 100%
+sudo mkfs.xfs /dev/sdc1
+sudo partprobe /dev/sdc1
+#+END_SRC
+* mount the disk
+
+#+BEGIN_SRC bash
+sudo mkdir /datadrive
+sudo mount /dev/sdc1 /datadrive
+
+# To ensure that the drive is remounted automatically after a reboot, 
+# it must be added to the /etc/fstab file.
+sudo blkid
+
+sudo vim /etc/fstab
+# add line
+# UUID=33333333-3b3b-3c3c-3d3d-3e3e3e3e3e3e   /datadrive   xfs   defaults,nofail   1   2
+#+END_SRC
+* verify the disk
+
+#+BEGIN_SRC bash
+lsblk -o NAME,HCTL,SIZE,MOUNTPOINT | grep -i "sd"
+#+END_SRC
+* trim
+Some Linux kernels support TRIM/UNMAP operations to discard unused blocks on the disk. This feature is primarily useful to inform Azure that deleted pages are no longer valid and can be discarded. This feature can save money on disks that are billed based on the amount of consumed storage, such as unmanaged standard disks and disk snapshots.
+#+BEGIN_SRC bash
+sudo apt-get install util-linux
+sudo fstrim /datadrive
+#+END_SRC
+* restart the vm to verify the disk could be attached automatically

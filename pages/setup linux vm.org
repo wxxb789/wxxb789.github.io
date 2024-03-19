@@ -1,0 +1,19 @@
+* set time zone
+
+#+BEGIN_SRC bash
+# check time zone
+timedatectl
+cat /etc/timezone
+
+# grep find time zone
+timedatectl list-timezones | grep Shanghai
+timedatectl list-timezones | grep Beijing
+
+# set time zone
+sudo timedatectl set-timezone Asia/Shanghai
+sudo timedatectl set-timezone Asia/Beijing
+
+# verify the changing
+timedatectl
+date
+#+END_SRC
