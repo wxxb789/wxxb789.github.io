@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/https:__t.co_LcbmY1M311...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[imwsl90 on Twitter]]
+:full-title: "https://t.co/LcbmY1M311..."
+:category: [[tweets]]
+:url: https://twitter.com/imwsl90/status/1768466513454149916
+:image-url: https://pbs.twimg.com/profile_images/1506196724116717569/4KyyG5L4.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+https://t.co/LcbmY1M311 这周玩这个 主要是 api 能用 且注册送我 60 玩 API 够了 咨询了一下他们还没有开发充值功能🤦‍♂️ 
+
+![](https://pbs.twimg.com/media/GIra6-ea4AAweaW.jpg) 
+
+![](https://pbs.twimg.com/media/GIra7AYb0AAotag.jpg) 
+#+END_QUOTE\

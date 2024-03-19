@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: readwise/剑走偏锋，就看你资深不资深了，我常用又不多见的命...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "剑走偏锋，就看你资深不资深了，我常用又不多见的命..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1768440211682554183
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+剑走偏锋，就看你资深不资深了，我常用又不多见的命令（参数）
+
+用curl调试sock5代理：curl -x socks5h://localhost:8001 www.不存在的网站.com/
+
+nc走sock5转发: ProxyCommand  /usr/bin/nc -X 5 -x 127.0.0.1:13659 %h %p //连github时
+
+wget不存在的网站：wget -Y on -e "http_proxy=http://**[HTTP_HOST]**:**[HTTP_PORT]**" 网页链接其中：[HTTP_HOST]和[HTTP_PORT]是http proxy的ADDRESS和PORT。
+
+curl指定本地端口连远程（这样抓包只抓这个端口）：curl --local-port
+
+nc测试udp能否通（比如overlay网络、dns）：nc -v -u -z -w 3 1.1.1.1 53 
+
+awk分组统计分析平均值：awk '{ sum[$1]+=$2; count[$1]+=1 ;} END { for (key in count) {  printf  "time= %s  \t count=%s   \t avg=%.6f \n", key,  count[key], sum[key]/count[key] } }’  
+
+将最近多少天的md笔记发表到博客：find $srcDir -maxdepth 1 -type f -mtime -$1 -name "*.md" -not -name "https://t.co/BNtKMzwiSA" -not -name "https://t.co/kyvKTtcV65" -exec cp "{}" ./source/_posts/ \; 
+
+用户备份本地最近修改的文件、配置  将博客上的大图压小（节省博客流量）：find img_small -size +1024k -type f -exec sips -Z 1024 {} \;  
+
+检查用户使用的是长、短连接（别被用户的描述坑了）：netstat -ato  
+
+发起ping 风暴：ping -f   
+
+测试网络MTU：ping -M  
+
+带时间戳的ping: ping -D 114.114.114.114 | awk '{ if(gsub(/\[|\]/, "", $1)) $1=strftime("[%F %T]", $1); print}’
+
+长期用来统计抓包中的各种 响应时间，这个时候应用的日志已经不可信了；按URL、时间梯度进行分组统计：
+ tshark -r 0623.pcap -Y 'http.time>0 ' -T fields -e frame.number -e frame.time_epoch  -e frame.time_delta_displayed  -e ip.src -e ip.dst -e https://t.co/urVubHeW11  -e http.request.full_uri -e http.response_for.uri  -e http.time  | awk '{ print int($2/10), $8 }' | awk '{ sum[$1]+=$2; count[$1]+=1 ;} END { for (key in count) {  printf  "time= %s  \t count=%s   \t avg=%.6f \n", key,  count[key], sum[key]/count[key] } }' | sort -k2n | gawk '{ print strftime("%c",$2*10), $0 }' 
+#+END_QUOTE\

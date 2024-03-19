@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/Lex 采访 Sam 视频精校双语字幕（1）...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "Lex 采访 Sam 视频精校双语字幕（1）..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1769893637150662806
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Lex 采访 Sam 视频精校双语字幕（1）
+
+第一章 OpenAI董事会事件始末
+Sam讲述了从11月16日开始发生的OpenAI董事会事件给他带来的巨大压力和痛苦。整个事件持续了一个周末,过程跌宕起伏,让Sam感到非常疲惫。但他也感受到了来自他人的大量爱和支持。这次经历虽然痛苦,但让OpenAI为未来的挑战建立了一定韧性。
+
+第二章 董事会的决策过程
+Sam认为当时董事会成员都是善良的,只是在压力下难免会做出不那么完美的决策。OpenAI需要一个在压力下也能良好运作的董事会。他认为董事会应该有较大权力,但作为非营利组织,更应该对社会负责。当时的董事会变小后运作出现了问题。新董事会增补了一些经验丰富的成员。
+
+第三章 新董事会成员的争议
+Brett和Larry被提名进入新董事会引发一些争议。Sam解释董事会改组的过程比较仓促,但他们尽量选择了能获得多方认可的人选。对未来董事会成员的选择会更加严格,要考虑候选人在多个领域的专业知识,技术理解只是其中一项。
+
+第四章 Sam Altman眼中的Ilya Sutskever
+Sam谈到了对Ilya Sutskever的欣赏。他认为董事会除了需要技术专家,也需要能从更宏观角度思考如何造福人类的人才。他以Ilya为例,表示Ilya一直在深入思考如何以负责任的方式开发AGI。
+
+第五章 Mira Murati的表现和Ilya Sutskever的处境
+Sam高度赞扬了Mira Murati在动荡时期的出色表现。他更看重一个领导者在日常工作中持续做出高质量决策的能力。对于外界对Ilya近期去向的猜测,Sam没有透露更多信息,但表达了对Ilya的喜爱和尊重,希望未来能继续与他合作。
+
+第六章 Sam对OpenAI未来的展望
+对于OpenAI的未来,Sam对新董事会充满信心。这次经历让他意识到随着影响力扩大,OpenAI需要更加健全的治理结构、流程和人力。虽然这次事件让他对无条件信任他人更加谨慎,但他希望自己不会变得愤世嫉俗。他认为让那些有创新能力又能做出明智决策的人才团结在一起非常重要。
+
+第七章 埃隆·马斯克的角色
+谈到埃隆·马斯克起诉OpenAI一事,Sam表示马斯克可能有一些误解。OpenAI最初只是想成为一个研究实验室,但随着他们对AGI发展路径的理解加深,组织形式也在不断演变,旨在适应新形势。至于"Open"一词的内涵,他认为主要是让强大的AI工具免费或低成本地惠及大众,这对实现OpenAI的mission至关重要。Sam对马斯克提出的收购OpenAI并改名的提议感到震惊。他仍然尊重马斯克作为这个时代伟大创新者的地位,但对他攻击OpenAI感到失望和难过。他更倾向于与竞争对手开展良性竞争,而非诉讼。
+
+这部分完整文稿：https://t.co/Vk4Ho4Rg0l<video controls><source src="https://video.twimg.com/amplify_video/1769887655381106688/pl/pkUq3lN5RKE-d_VC.m3u8?tag=16&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1769887655381106688/vid/avc1/480x270/dkoXFcy1jHbRJ38K.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769887655381106688/vid/avc1/640x360/norK5jZ9zQoiRHV3.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769887655381106688/vid/avc1/1280x720/gosTEJZzBzQaQ56G.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769887655381106688/vid/avc1/1920x1080/ut-VZhSryyVFIATy.mp4?tag=16" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

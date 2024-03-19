@@ -1,0 +1,102 @@
+:PROPERTIES:
+:title: readwise/Document Reranking Is Po...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[bclavie on Twitter]]
+:full-title: "Document Reranking Is Po..."
+:category: [[tweets]]
+:url: https://twitter.com/bclavie/status/1768290562715623591
+:image-url: https://pbs.twimg.com/profile_images/1735728202121609216/CFoG6BWC.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Document reranking is powerful, but daunting to get started with. 
+
+Moreover, trying a new approach requires modifying your pipeline, even though it does the same thing!
+
+Introducing 🔧rerankers: a lightweight library to provide a unified way to use various reranking methods🧵1/? 
+
+![](https://pbs.twimg.com/media/GIoQsGqWsAA_Uk5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+`pip install "rerankers[all]"` to jump in.
+
+The README contains pretty much all you need to get started, and you can find the repo here:
+https://t.co/c448Mp91eS 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+If you want to dive in a bit more, there's an overview notebook, going through all the important bits of the API and the various parameters you can use with different models (don't worry, there aren't a lot!)
+
+https://t.co/vyyVcNT5IO 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+The core idea is basically all around the RankedResults and Result objects: this is the only output you'll ever get from a rank() call, regardless of what model you're actually using. 
+
+![](https://pbs.twimg.com/media/GIoXMFUX0AEx2Ol.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+The point of the library is pretty simple, as stated in the README: make it as simple as possible to slot in&freely swap rerank models in any pipeline.
+
+It's pretty easy to integrate into popular libs, check out the quick [LangChainAI](https://twitter.com/LangChainAI) integration example https://t.co/6xeteoD2y1 
+
+![](https://pbs.twimg.com/media/GIoXj0FXUAAaQ5W.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+It's all built with low-dependency and a modular focus in mind. If you're already set on which kind of models you want to use, install just what you need. Or just install the barebones package, and re-use your existing dependencies.
+
+([HanchungLee](https://twitter.com/HanchungLee), this one's for you) 
+
+![](https://pbs.twimg.com/media/GIoVoy5XgAEmcpb.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Every reranker is implemented with a "lightest-requirements" approach in mind: all on-device models just use vanilla torch + transformers, the API ones rely on just "requests", etc...
+
+(RankGPT uses the somewhat heavier LiteLLM to support as many providers as possible, but that might change when RankZephyr is fully implemented!) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+My (typo-ridden, hastily-scribbled) cheatsheet from last week got a lot more attention than I expected, and motivated me to actually finish building this.
+
+Since there's now an easy way to swap them in and out, I can keep telling people to use rerankers and to make sure to experiment with different ones guilt-free!
+https://t.co/NIoww5lW1B 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Finally, the "roadmap" is very simple. It boils down to integrating new models, and *maybe* training.
+
+If you come up with a new reranking method, adding it to the lib will be as easy as providing a class that maps a (query, [docs]) input to a RankedResults output on rank() calls 
+
+![](https://pbs.twimg.com/media/GIoaYhSXEAAr19Q.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+A big shout-out and thank you to the people who actually build these amazing models, and who make both their implementation (re-used in rerankers within their licenses) and weights available!
+
+This lib's just an interface, built on other people's fantastic work:
+
+\- [lintool](https://twitter.com/lintool) and all of his amazing lab members who've done an immense amount of work to make IR both open source & reproducible, and introduced a good amount of the reranking methods used today!
+- [rodrigfnogueira](https://twitter.com/rodrigfnogueira), [thiagolaitz](https://twitter.com/thiagolaitz) and the rest of the Unicamp's IR team, as above, incredible model work, as well as the InRanker implementation which we use as the base for t5 models.
+- The RankGPT team, who even added the Apache 2.0 license super quickly when I asked them! https://t.co/LYPU91aZSz
+- [Nils_Reimers](https://twitter.com/Nils_Reimers) for the overall massive work in democratising IR and inspiring this!
+- [lateinteraction](https://twitter.com/lateinteraction) for, well, late interaction models and [hotchpotch](https://twitter.com/hotchpotch) for the based ColBERT implementation used
+- Probably many more that I'm forgetting -- this is definitely not exhaustive. 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+I've been using rerankers myself for a couple weeks in some one-off projects, and it's been a very useful small tool.
+
+This has been my first nerd-sniping project at [answerdotai](https://twitter.com/answerdotai), thanks [jeremyphoward](https://twitter.com/jeremyphoward) for the great environment, and [johnowhitaker](https://twitter.com/johnowhitaker) for kind alpha tester words 😊
+
+I hope you'll enjoy it as well, and feel free to flag any issues you come across - it should hopefully be pretty straightforward to debug! 
+#+END_QUOTE\

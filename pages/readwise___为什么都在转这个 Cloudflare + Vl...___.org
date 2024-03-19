@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/为什么都在转这个 Cloudflare + Vl...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HzaoHzao on Twitter]]
+:full-title: "为什么都在转这个 Cloudflare + Vl..."
+:category: [[tweets]]
+:url: https://twitter.com/HzaoHzao/status/1769312782019911906
+:image-url: https://pbs.twimg.com/profile_images/1545070709159989249/7q_afgrD.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+为什么都在转这个 Cloudflare + Vless，然后表达自己白嫖的快乐？
+
+去年也看到几个 CF Worker 搭梯子的教程推，当时还有个博主晒自己用超了 Cloudflare 免费用量，但是没被停用，沾沾自喜。
+
+我就想问自己花点钱租机场很难吗？更别说 WRAP+ 还不够你薅吗..？
+
+有些服务风控多，要骂歧视中国人。CF 没那么多风控，就可劲儿薅呗？
+
+让我们猜猜接下来要发生什么：
+1. Cloudflare 发现大量超额不付款账号，好像都是中国人，然后… 取消免费额度？加上地址验证？
+
+2. GFW 发现Cloudflare 真是漏网之鱼，阻断 CF Worker 的IP？或者极端一点，他不能识别连向 CF 的是 Worker 还是单纯 CDN，所以直接 ban 掉所有 CF 的 IP，到时候国内还有几个网站能直连？
+
+个人觉得超额不停用是防止一些服务中断，给开发者提供一个 grace period，而不是默许你可以一直用。
+
+CF 本来就很互联网菩萨了，这几年也一直是亏损状态，开点口子就蜂拥而上，最后波及正常用户的例子以前又不是没有。😅
+
+希望各种 X 友好奇好奇就得了，该用机场用机场，该付费付费。
+你现在省下来的钱，只会在今后让你和其他正常用户一起买单。
+
+![](https://pbs.twimg.com/media/GI3cl6nbkAAzjnw.jpg) 
+#+END_QUOTE\

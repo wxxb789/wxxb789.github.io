@@ -1,0 +1,44 @@
+:PROPERTIES:
+:title: readwise/Gpt4撸了个b站视频文本提取器 搞出来了文本之...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "Gpt4撸了个b站视频文本提取器 搞出来了文本之..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1769564275465728207
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+GPT4撸了个B站视频文本提取器
+搞出来了文本之后（比如B站的这个成长小豆芽）
+开始追这些洗稿作者的源头
+发现基本都是一些大V的东西，知乎的东西，以及某些图书内的东西
+
+所以这个问题又回到了，如何监听到某个领域（关键词）内优质的内容（可能还是跨平台的）
+
+\------
+1. Query覆盖   --- 覆盖人 覆盖内容
+2.构建优质指标
+3.把内容推送到仓库
+4.从仓库开始洗稿创作
+
+这里面还涉及到挺多问题的，比如知乎有一些是短句，把短句缝合成一段话效果并不好，相反我看到抖音视频号上有很多专门剪辑短句的，10秒完播挺高的，共情也明显。
+
+不同的内容适合不同的包装方式，分发到不同的平台去。
+
+好了现在要去构建个优质信息源了。
+
+![](https://pbs.twimg.com/media/GI6_GNJbIAA0-37.jpg)
+
+![](https://pbs.twimg.com/media/GI6_JPMawAAsB4I.jpg)
+
+![](https://pbs.twimg.com/media/GI7APpubgAASr80.png)
+
+![](https://pbs.twimg.com/media/GI7AY6YaEAAd-Re.png) 
+#+END_QUOTE\

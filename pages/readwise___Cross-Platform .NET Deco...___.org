@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Cross-Platform .NET Deco...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wieslawsoltes on Twitter]]
+:full-title: "Cross-Platform .NET Deco..."
+:category: [[tweets]]
+:url: https://twitter.com/wieslawsoltes/status/1767935147876208899
+:image-url: https://pbs.twimg.com/profile_images/2050244991/0BA2F8F0-2498-4CD0-AE94-B04ACF1D5675
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Cross-platform .NET decompiler that is using [AvaloniaUI](https://twitter.com/AvaloniaUI) #dotnet https://t.co/pP5M52OWrm 
+
+![](https://pbs.twimg.com/media/GIj3jqiXwAEwdPG.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Works on Windows, macOS and Linux !!! 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+You can see how Avalonia Xaml gets actually compiled 
+
+![](https://pbs.twimg.com/media/GIkBYJZWwAARQW_.jpg) 
+#+END_QUOTE\

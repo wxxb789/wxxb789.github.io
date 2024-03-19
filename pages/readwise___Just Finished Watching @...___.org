@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/Just Finished Watching @...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[abhi9u on Twitter]]
+:full-title: "Just Finished Watching @..."
+:category: [[tweets]]
+:url: https://twitter.com/abhi9u/status/1767965643473826159
+:image-url: https://pbs.twimg.com/profile_images/1668296787696959490/NyAetxNh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Just finished watching [mbpmilano](https://twitter.com/mbpmilano)'s talk on programming distributed systems. Some very interesting work on the intersection of programming languages and distributed systems. She gave overview of 3 of her papers and connected them super smoothly.
+
+First section was around solving the problem of consistency in a distributed system using an embedded language.
+
+Link: https://t.co/Z1seMOxCcx
+
+The 2nd part was around leveraging monotonicity to do fast state-machine replication 
+
+Link: https://t.co/IBnrDcQAOo
+
+The final part was the most interesting to me. She talked about a new type system to provide fearless concurrency. Rust kind of does it but it limits you in case of cycling data structures. However, they propose a clean solution to that problem as well.
+
+Link: https://t.co/LuIWA1R1zK
+
+![](https://pbs.twimg.com/media/GIkPNM3aMAMkheq.png)
+
+![](https://pbs.twimg.com/media/GIkQeJuboAA8lNQ.png)
+
+![](https://pbs.twimg.com/media/GIkSAPVbAAELFJd.jpg)
+
+![](https://pbs.twimg.com/media/GIkS9taaAAANlaG.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+*cyclic data structures (not cycling) 
+#+END_QUOTE\

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/.NET Source Browser  ⬇...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Dave_DotNet on Twitter]]
+:full-title: ".NET Source Browser  ⬇..."
+:category: [[tweets]]
+:url: https://twitter.com/Dave_DotNet/status/1767955880236974588
+:image-url: https://pbs.twimg.com/profile_images/1538166477743919105/duZ2oBrg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+.NET Source Browser  ⬇
+
+This is class alternative to GitHub for viewing the code of #dotnet runtime. Kind of like looking at code in an IDE.
+
+Looks like its working off main. 
+
+Have you used this before? 
+
+https://t.co/Izu4H6Zwqc 
+
+![](https://pbs.twimg.com/media/GIkJz3LWoAkfo9t.png) 
+#+END_QUOTE\

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/Used My \#Devin Chrome Ex...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[itsandrewgao on Twitter]]
+:full-title: "Used My \#Devin Chrome Ex..."
+:category: [[tweets]]
+:url: https://twitter.com/itsandrewgao/status/1769446378223378688
+:image-url: https://pbs.twimg.com/profile_images/1665531358851092485/qItXwa52.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+used my #Devin Chrome Extension to turn the #grok github repo into a promptable text file: https://t.co/GNQ8tcRegk 
+#+END_QUOTE\

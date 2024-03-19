@@ -1,0 +1,81 @@
+:PROPERTIES:
+:title: readwise/My 2023 Homelab Setup
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Mudkip]]
+:full-title: "My 2023 Homelab Setup"
+:category: [[articles]]
+:url: https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/
+:image-url: https://mudkip.me/images/2024/01/homelab.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[MicroBin](https://github.com/szabodanika/microbin)**: A text and file-sharing application for when I’m transferring things without Universal Clipboard. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[NocoDB](https://github.com/nocodb/nocodb)**: An AirTable-like smart spreadsheet. I use it for personal project management and to track games and movies. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**: A document management system for organizing scanned documents. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)**: An all-in-one PDF toolkit. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[Prowlarr](https://github.com/Prowlarr/Prowlarr)** backed by **[FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)**: An indexer manager for Sonarr/Radarr. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)**: Downloads videos from YouTube via [yt-dlp](https://github.com/yt-dlp/yt-dlp). 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[Kimai](https://github.com/kimai/kimai)**: A self-hosted time tracker. 
+#+END_QUOTE\
+*** Note:
+            php, low priority
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[Node-RED](https://github.com/node-red/node-red)** and **[n8n](https://github.com/n8n-io/n8n)**: Powerful automation tools, but I haven’t used them much yet. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)**: A Kubernetes native continuous integration solution. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+The manifest of my Kubernetes cluster is managed in a Git repository and is automatically deployed via a GitOps tool named [Flux CD](https://github.com/fluxcd/flux2). When I push changes to the repository, such as adding a new application or upgrading Docker images, the deployment occurs within a few minutes. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Recently, I discovered a powerful tool named [Renovate Bot](https://github.com/renovatebot/renovate). It scans my Kubernetes manifest repository every few hours to identify which Helm releases or container image tags require upgrades and then creates pull requests in Forgejo, similar to how Dependabot operates on GitHub. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+In addition to the applications I’m running, my setup includes the [Ingress NGINX Controller](https://github.com/kubernetes/ingress-nginx), [MetalLB](https://github.com/metallb/metallb), and [cert-manager](https://github.com/cert-manager/cert-manager) to facilitate service access and manage certificates. The data for these applications is stored on [Longhorn](https://github.com/longhorn/longhorn) volumes, which are replicated across all three worker VMs and two SSDs. I’ve also integrated [Kube Prometheus Stack](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) and [Grafana Loki](https://github.com/grafana/loki) to monitor the cluster and review pod logs. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Another tool I use in parallel with `kubectl` for managing resources in the cluster is [Portainer](https://github.com/portainer/portainer). I’ve also configured Portainer environments to manage Docker Compose stacks on my NAS, router, and several cloud servers. For convenient navigation through all the apps in my Homelab, I utilize a highly customizable dashboard named [Homepage](https://github.com/gethomepage/homepage). It seamlessly integrates with Kubernetes and is capable of discovering services based on Ingress annotations. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+**[code-server](https://github.com/coder/code-server)**: A web development environment. However, I often develop on this VM via the [Remote Development](https://code.visualstudio.com/docs/remote/remote-overview) feature in Visual Studio Code. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+I loosely adhere to the 3-2-1 backup strategy for safeguarding my data. My NAS serves as the primary backup target for various devices, including my family’s iMac via Time Machine and two Proxmox VE devices using a [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server/overview) [VM](https://www.synology.com/en-global/dsm/feature/virtual_machine_manager). Additionally, my older Synology DS916+ NAS, which has been operational for 8 years, secures the data from my main NAS through [rsync](https://kb.synology.com/en-us/DSM/help/DSM/AdminCenter/application_backupserv_sharedfoldersync?version=7) and [Hyper Backup](https://www.synology.com/en-global/dsm/feature/hyper_backup). 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+For offsite backup, I utilize [Backblaze B2](https://www.backblaze.com/cloud-storage) and OneDrive. Backblaze B2 houses backups from Hyper Backup, [restic](https://github.com/restic/restic), Longhorn, and [Arq](https://www.arqbackup.com/), while selected folders from my NAS are one-way synced to OneDrive using [Cloud Sync](https://www.synology.com/en-global/dsm/feature/cloud_sync). I’ve opted not to have a remote backup for my media library due to the storage costs, considering that most of the content can be reacquired by re-ripping physical media or re-downloading. 
+#+END_QUOTE\

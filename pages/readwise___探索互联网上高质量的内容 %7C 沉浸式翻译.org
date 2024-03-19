@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/探索互联网上高质量的内容 | 沉浸式翻译
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[immersivetranslate.com]]
+:full-title: "探索互联网上高质量的内容 | 沉浸式翻译"
+:category: [[articles]]
+:url: https://immersivetranslate.com/docs/sites/
+:image-url: https://immersivetranslate.com/img/docusaurus-social-card.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[New Yorker](https://www.newyorker.com/) - 纽约客，政治和文化报道与评论。 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[Axios](https://www.axios.com/) - Axios，简明扼要的新闻，无干扰，有重点的新闻。 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[Marginal Revolution](https://marginalrevolution.com/) - 边际革命，最好的经济博客之一 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[Art and Letters Daily](https://www.aldaily.com/) - 引用各种杂志，日报的文章 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[Vox](https://www.youtube.com/c/Vox/featured) - Youtube 上的一个分享各种各样事情解释的博主，比如塔利班，比如新冠病毒等等，视频质量非常高。 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[Pew Research Center](https://www.pewresearch.org/) - 皮尤研究中心，统计数据，调查问卷分析研究 
+#+END_QUOTE\

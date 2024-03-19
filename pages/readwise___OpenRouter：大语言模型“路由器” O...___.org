@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/OpenRouter：大语言模型“路由器” O...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[imxiaohu on Twitter]]
+:full-title: "OpenRouter：大语言模型“路由器” O..."
+:category: [[tweets]]
+:url: https://twitter.com/imxiaohu/status/1769346019840737784
+:image-url: https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+OpenRouter：大语言模型“路由器”
+
+Openrouter提供了一个统一的接口，通过这个接口，你可以直接访问和使用几十种AI模型
+
+你可以使用这个接口对各种模型进行测试和比价，选择最适合自己的，避免了东奔西跑 🙂
+
+目前已经支持包括GPT、LLama 、Claude、Command-R等80 多个模型，未来将扩展到数百种！
+
+访问：https://t.co/vDj598n9hh<video controls><source src="https://video.twimg.com/ext_tw_video/1769345348114534400/pu/pl/nlSNBmrUECecWXIr.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769345348114534400/pu/vid/avc1/438x270/ESuJjlqW-uxTZYis.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769345348114534400/pu/vid/avc1/586x360/1tfALl8ZULdMs2-f.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769345348114534400/pu/vid/avc1/1172x720/eafsQk5EUwGf5Mvl.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769345348114534400/pu/vid/avc1/1758x1080/hZr07cxyS2-Qffzh.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

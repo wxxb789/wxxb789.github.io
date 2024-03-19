@@ -1,0 +1,77 @@
+:PROPERTIES:
+:title: readwise/写电子书的9个ChatGpt创作提示： （收藏...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[0xluffy_eth on Twitter]]
+:full-title: "写电子书的9个ChatGpt创作提示： （收藏..."
+:category: [[tweets]]
+:url: https://twitter.com/0xluffy_eth/status/1768429331175682332
+:image-url: https://pbs.twimg.com/profile_images/1612405554491850752/G2adJo0p.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+写电子书的9个ChatGpt创作提示：
+
+（收藏起来以待以后使用）： 
+
+![](https://pbs.twimg.com/media/GIq5DTbaQAA-gKw.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+1. 生成书纲
+
+制作一个引人入胜的书纲并不容易，但是第一个ChatGPT提示的帮助会使这项任务变得容易得多。这个提示将帮助你创建一个引人入胜且结构良好的书纲，作为你书籍的路线图。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429274548391936/pu/pl/83YrbLFa3xYdNsZm.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429274548391936/pu/vid/avc1/480x270/3k-GZHp6zt0KwfFo.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429274548391936/pu/vid/avc1/640x360/lgKxmGTgTMCifYjH.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429274548391936/pu/vid/avc1/1280x720/155flVSJk2ORCFgJ.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+2. 写书章节
+
+开始一个新的章节可能会有挑战，特别是如果你不确定章节的方向。使用下一个提示，你将能够写出引人入胜的章节，让你的读者着迷。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429279208161280/pu/pl/82FwjxqCyaQcyBAK.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429279208161280/pu/vid/avc1/480x270/dfKkd7hFoDHAmylF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429279208161280/pu/vid/avc1/640x360/ZP4LZWZr6riN3W-o.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429279208161280/pu/vid/avc1/1280x720/lJNyMZUrFNUlJyYi.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+3. 构思故事情节
+
+故事情节是任何出色书籍的基石。它们引人入胜，制造悬疑并提供一个令人满意的结局，但是构思一个好的情节并不容易。正是下一个提示的用途。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429283868049408/pu/pl/RqmvKHclb0XXLwQa.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429283868049408/pu/vid/avc1/480x270/Wr6_HAUdTAvnxsrp.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429283868049408/pu/vid/avc1/640x360/JaoPSaAn-jm_yt__.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429283868049408/pu/vid/avc1/1280x720/l3ih33ZQAVSleR-L.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+4. 创建角色
+
+下一个提示将帮助你创建角色。因为正如我们所知，角色是任何故事的生命线。使用这个提示，你将能够快速打造出引人入胜的小说角色。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429288972595200/pu/pl/KwP2Vkjd_mCpHTNb.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429288972595200/pu/vid/avc1/480x270/Yv1eegmnfAwr2wpn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429288972595200/pu/vid/avc1/640x360/bxAKbfNpa8IDOHcN.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429288972595200/pu/vid/avc1/1280x720/u7qcMOfURgNgOq_5.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+5. 设置场景
+
+在任何一本书中，设置场景都是一个重要的步骤，能将读者带入你创造的世界。这可能有一些技巧，但是使用下面的提示，将会变得轻松一些。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429293942763520/pu/pl/ZgoS68KCvuT2kW6A.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429293942763520/pu/vid/avc1/480x270/R575OhS49Han7ZQ1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429293942763520/pu/vid/avc1/640x360/5JD7BO6hmweyuD3d.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429293942763520/pu/vid/avc1/1280x720/w1kciaII6AmoL6n_.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+6. 写对话
+
+写出真实且引人入胜的对话可能会有挑战。但是使用下面的提示，你将轻松创造出能够吸引你读者的动态对话。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429299080871936/pu/pl/uimZH9HT3xGDj3Xf.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429299080871936/pu/vid/avc1/480x270/hQ7evUdcOEqH8FQz.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429299080871936/pu/vid/avc1/640x360/G3GXt0sr3j_pD7L8.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429299080871936/pu/vid/avc1/1280x720/8xzFXmElsmfadeJ9.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+7. 帮助书籍研究
+
+研究帮助你构建一个真实的情节和可信的角色。使用下一个ChatGPT提示，进行深入而高效的研究将变得更容易。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429304567021569/pu/pl/COWvSEP-MK7IaePX.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429304567021569/pu/vid/avc1/480x270/fiEVZcXKXhcy7k_3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429304567021569/pu/vid/avc1/640x360/5BPw-0QucbnZFkf0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429304567021569/pu/vid/avc1/1280x720/LDGhpVQkVcswYs8m.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+8. 获取写作反馈
+
+借助ChatGPT的帮助，你可以得到详细和有建设性的反馈来改进你的手稿。下面的提示将帮助你实现这一点。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429310166364160/pu/pl/J2sBPnX1FEEBDe4h.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429310166364160/pu/vid/avc1/480x270/v1zPJOKaPb6p3b0j.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429310166364160/pu/vid/avc1/640x360/9uCtT8U6_eWeXePr.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429310166364160/pu/vid/avc1/1280x720/WDdGz7SBFG6eg_39.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+9. 处理市场营销和推广
+
+我将要分享的最后一个提示是市场营销。正如你可能已经知道的，市场营销和推广对于将你的书交到读者手中是至关重要的。希望下面的提示能帮助你实现这一点。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768429315820310528/pu/pl/kDidZC3Wbf-yejxk.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768429315820310528/pu/vid/avc1/480x270/wbu_TtrbnZP8s7Cu.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429315820310528/pu/vid/avc1/640x360/MoFqjN0onI2AnGGg.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768429315820310528/pu/vid/avc1/1280x720/ZtcVadcz6cTxanSY.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

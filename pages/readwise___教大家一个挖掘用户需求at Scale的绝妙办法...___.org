@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/教大家一个挖掘用户需求at Scale的绝妙办法...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HeySophiaHong on Twitter]]
+:full-title: "教大家一个挖掘用户需求at Scale的绝妙办法..."
+:category: [[tweets]]
+:url: https://twitter.com/HeySophiaHong/status/1769127883438743704
+:image-url: https://pbs.twimg.com/profile_images/1763824090459336704/U5F411AW.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+教大家一个挖掘用户需求at scale的绝妙办法：
+1. 找到你的用户聚集的地方，比如Subreddit，或者Facebook群
+2. 用爬虫程序大规模爬取人们的发帖
+3. 把爬取到的帖子一股脑全塞给ChatGPT/Claude，让它总结大家的痛点和需求
+实验下来我只能说效果非常绝！挖掘出了大量的真实痛点，跟我们用户访谈的结果一致 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+点赞过30我就来分享一个自动化爬取的程序 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+感谢大家的点赞！这个自动化爬虫的程序叫Instant Data Scraper，是一个chrome插件 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+If you like my content and read English, consider following my English account as well:) [WanrongHe](https://twitter.com/WanrongHe) 
+#+END_QUOTE\

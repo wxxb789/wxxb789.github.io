@@ -1,0 +1,94 @@
+:PROPERTIES:
+:title: readwise/AI 新闻：Sam Altman 刚刚谈到了 A...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "AI 新闻：Sam Altman 刚刚谈到了 A..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1769974805711720519
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+AI 新闻：Sam Altman 刚刚谈到了 AI 和 GPT-5 的未来。
+
+此外，还有 Apple、Google Gemini、NVIDIA GTC、梅赛德斯-奔驰和 Stability AI 的更多开发。
+
+以下是人工智能目前正在发生的一切： 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+在今天发布的 Lex Fridman 播客中，Sam Altman 谈到了 GPT-5、Sora、他对 AGI 的愿景等。
+
+当被问及 GPT-4 时，Altman 表示它“很糟糕”，GPT-5 的功能飞跃将类似于 GPT-3 到 GPT-4 的飞跃。<video controls><source src="https://video.twimg.com/ext_tw_video/1769787738268823552/pu/pl/gbNcJTSb5JEiQ2Cr.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769787738268823552/pu/vid/avc1/480x270/7JsobcSP2PAg0BGW.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769787738268823552/pu/vid/avc1/640x360/SLY_UVGPQNbsKkEH.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769787738268823552/pu/vid/avc1/1280x720/rmH7UcbyAHnNw3mo.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+据报道，苹果和谷歌正在就将 Gemini 集成到 iPhone 中进行谈判。
+
+科技巨头联手对抗 OpenAI/微软可能是一个重大举措。
+
+先进的人工智能功能最早可能会在今年的 iOS 18 中带给数十亿 iPhone 用户。 
+
+![](https://pbs.twimg.com/media/GJA3D_GakAAxssG.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Altman 还确认，OpenAI 将在今年发布 "一个令人惊叹的新模型"，并在未来几个月发布 "许多不同的东西"。
+
+他的语气就像一个知道即将发布改变游戏规则的产品的人。
+
+上一次他和Lex在一起时，我们得到的是 GPT-4。<video controls><source src="https://video.twimg.com/ext_tw_video/1769752663174918144/pu/pl/5P8s1ShQPu0upi3_.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769752663174918144/pu/vid/avc1/480x270/cfv1r50v5DI2XOIr.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769752663174918144/pu/vid/avc1/640x360/yI9fcS7V27nzcApd.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769752663174918144/pu/vid/avc1/1280x720/W0t50_x22pJqmCWm.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+萨姆·奥尔特曼 (Sam Altman) 预测，计算将成为未来的货币，也可能是世界上最珍贵的商品。<video controls><source src="https://video.twimg.com/ext_tw_video/1769832264496828416/pu/pl/dY45uGbXXqUcISFu.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769832264496828416/pu/vid/avc1/320x320/Raof9Vs3PDyoF0Qo.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769832264496828416/pu/vid/avc1/540x540/5dubw3-vXN2ksqlf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769832264496828416/pu/vid/avc1/720x720/aR1z25voLMJ3Bq-f.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+黄仁勋刚刚在 NVIDIA GTC 上推出了 Nvidia Blackwell。
+
+与 H100 相比，它可将成本和能耗降低多达 25 倍
+
+黄还透露，GPT-4包含1.8T参数，2000个Blackwell芯片可以在90天内完成模型的训练。<video controls><source src="https://video.twimg.com/amplify_video/1769827961027674112/pl/fs0l44CCOErraYFg.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1769827961027674112/vid/avc1/584x270/lpa98qN__aabjSw5.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769827961027674112/vid/avc1/780x360/7A5m752nKsmlL3An.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769827961027674112/vid/avc1/1560x720/ldPWEYDJdyM_olKb.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Nvidia 还在 NVIDIA GTC 上展示了 Project GR00T。
+
+GR00T 是一个通用基础模型，用于模拟和现实世界中的人形机器人学习。
+
+它将多模式指令和过去的交互作为输入并产生机器人的动作。<video controls><source src="https://video.twimg.com/ext_tw_video/1769858551680532480/pu/pl/bljgVrD4-QkfazcM.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769858551680532480/pu/vid/avc1/480x270/jsVJ-ZWAkmPfktDv.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769858551680532480/pu/vid/avc1/640x360/xlYtwcr-y_M_dQ0y.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769858551680532480/pu/vid/avc1/1280x720/M0qKhXdhZGATUezu.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+梅赛德斯-奔驰刚刚与 Apptronik 签订了商业协议。
+
+Apptronik 的 Apollo 人形机器人将部署到该汽车制造商的制造工厂。
+
+用例包括自动化低技能、体力要求高和重复性任务。<video controls><source src="https://video.twimg.com/ext_tw_video/1768662538563051520/pu/pl/QVewk0OPVZA2pgwt.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768662538563051520/pu/vid/avc1/320x400/_QKb_WySlxgmIGPB.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768662538563051520/pu/vid/avc1/480x600/KTgN8o3DXvJARj6e.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768662538563051520/pu/vid/avc1/640x800/NeMLvggC2I-dOe14.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Stability AI 发布了 Stable Video 3D。
+
+新的 AI 模型基于稳定视频扩散，可从单个图像创建高质量且一致的 3D 生成。
+
+Stability AI 不断出货。令人印象深刻。<video controls><source src="https://video.twimg.com/ext_tw_video/1769806001845530626/pu/pl/E4VOJRlG2u8KvGQe.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769806001845530626/pu/vid/avc1/480x270/BrlAggNtqejTLcx3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769806001845530626/pu/vid/avc1/640x360/6-kp_G8I-HyMHLg2.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769806001845530626/pu/vid/avc1/1280x720/zp3FE07JzhHt6GNM.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+这就是今天的AI新闻。订阅原作者 [rowancheung](https://twitter.com/rowancheung) 了解有关AI的更多信息👇 
+https://t.co/AduvAjpilb 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+[rowancheung](https://twitter.com/rowancheung) 关注我[FinanceYF5](https://twitter.com/FinanceYF5)，我每天都在探索和分享 AI。   
+
+点赞、评论和转发第一篇文章与您的朋友分享。https://t.co/A7rEvioubl 
+#+END_QUOTE\

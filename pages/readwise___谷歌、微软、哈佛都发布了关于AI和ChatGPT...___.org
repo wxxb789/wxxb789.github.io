@@ -1,0 +1,81 @@
+:PROPERTIES:
+:title: readwise/谷歌、微软、哈佛都发布了关于AI和ChatGPT...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xiaoying_eth on Twitter]]
+:full-title: "谷歌、微软、哈佛都发布了关于AI和ChatGPT..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaoying_eth/status/1769547312748241380
+:image-url: https://pbs.twimg.com/profile_images/1668476737389494272/5kE7iqyp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+谷歌、微软、哈佛都发布了关于AI和ChatGPT的课程。
+
+以下是2024年掌握AI的顶级课程 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+2. 谷歌 - 生成AI学习路径
+
+谷歌推出了关于生成AI的免费学习路径。
+
+包括 9 个免费课程：
+
+https://t.co/7fecehnBq4 <video controls><source src="https://video.twimg.com/ext_tw_video/1769547271513968640/pu/pl/jxmQ1GOvh3WrqBR4.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769547271513968640/pu/vid/avc1/480x270/ilPvxsG4D1LG1UZx.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769547271513968640/pu/vid/avc1/640x360/wHrgm54Dgk0lb8HB.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769547271513968640/pu/vid/avc1/1280x720/UzNF8otEXZ09QKLN.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+3. 微软：AI生成对于每个人
+
+\- 探索广泛的AI工具。
+- 从生成AI的实际应用中获得见解。
+
+🔗 链接：https://t.co/1TQiO8Kb7k https://t.co/xV7WPG7ctG 
+
+![](https://pbs.twimg.com/media/GI6x32VaIAIfB4j.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+4. 面向初学者的AI课程 - 微软
+
+微软提供给初学者的免费AI课程。
+
+这是一门为期12周、24课时的人工智能课程。
+
+https://t.co/Cljxlw7yG2 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+5. 哈佛的CS50人工智能入门课程（使用Python）
+
+你将学到什么
+
+\- 图搜索算法
+- 强化学习
+- 机器学习
+- 人工智能原理
+
+以及更多！
+
+链接：https://t.co/auySVFHWXw 
+
+![](https://pbs.twimg.com/media/GI6x4HPbkAAKLUL.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+6. 人人都能学AI
+
+AI并不仅仅是工程师的专利。
+
+\- 课程非技术性，为大家设计。
+- 帮助你理解AI技术。
+- 展示AI能力和局限性的现实生活实例。
+
+https://t.co/GCIbcEc5jX <video controls><source src="https://video.twimg.com/ext_tw_video/1769547287309815809/pu/pl/9J66nfPJajqvxGKc.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769547287309815809/pu/vid/avc1/578x270/wwzV1V_6c7uw9i-Y.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769547287309815809/pu/vid/avc1/770x360/9Y4B-rJkRKeGVLyC.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769547287309815809/pu/vid/avc1/1500x700/rB-ObtOo1DIALFNM.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

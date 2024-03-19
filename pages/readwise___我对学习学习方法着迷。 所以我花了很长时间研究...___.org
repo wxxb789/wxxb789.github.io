@@ -1,0 +1,159 @@
+:PROPERTIES:
+:title: readwise/我对学习学习方法着迷。 所以我花了很长时间研究...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wanerfu on Twitter]]
+:full-title: "我对学习学习方法着迷。 所以我花了很长时间研究..."
+:category: [[tweets]]
+:url: https://twitter.com/wanerfu/status/1768465753995665750
+:image-url: https://pbs.twimg.com/profile_images/1695073712612016128/xjiHduPl.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+我对学习学习方法着迷。
+
+所以我花了很长时间研究了Sam Altman吸收信息的方法。
+
+下面是我对如何成为学习机器的发现： 
+
+![](https://pbs.twimg.com/media/GIraIb3boAAh8c5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+跨领域学习
+
+不要局限于自己的领域学习。
+
+从不相关的领域中获得灵感，并将其应用于自己的领域。
+
+最具创新的解决方案常常是不同学科的交叉融合。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465649427419136/pu/pl/l5czfXh9BvJ5x43s.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465649427419136/pu/vid/avc1/480x270/uKl56BW-cI0YMWlV.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465649427419136/pu/vid/avc1/640x360/oKtb-RoElinmNhuP.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465649427419136/pu/vid/avc1/1280x720/CZL5JwVs8pbA4ZvB.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+建立学习仪式
+
+每天花时间专注于学习。建立一个有规律的习惯，可以是：
+
+• 每天早上阅读一个小时
+• 上班途中收听播客
+• 晚上上在线课程
+
+深度工作需要持之以恒。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465658805919744/pu/pl/8tdyhAfbn3snvqhS.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465658805919744/pu/vid/avc1/480x270/6bX4sZa923mPDgHA.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465658805919744/pu/vid/avc1/640x360/habvpYDwMe3BpOmf.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465658805919744/pu/vid/avc1/1280x720/vrbr-HDsHvgXhuGv.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+发挥科技的作用
+
+我们生活在一个信息超载的时代。利用人工智能工具整合信息。
+
+跟随新的学习科技发展。
+
+如果不利用科技，你将被抛在后面。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465664866742272/pu/pl/IKnwYiP3N7Vf6eJh.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465664866742272/pu/vid/avc1/320x568/uBMCT4k_xrcdtByc.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465664866742272/pu/vid/avc1/480x854/KpwcZr8DkkYz1gsS.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+建立强大的个人网络
+
+人际关系是学习的乘数效应。建立一个强大的合作伙伴网络。 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+寻找可以指导和挑战你的导师。反过来，慷慨地帮助他人。
+
+一个强大的网络可以使你接触新的观点和学习机会。一个网络你可以通过... <video controls><source src="https://video.twimg.com/ext_tw_video/1768465674597539840/pu/pl/mJhcgwyZqQhx_UUn.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465674597539840/pu/vid/avc1/320x568/rLF9GzMn1sVHYPE9.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465674597539840/pu/vid/avc1/480x852/_dCDKa7aG6cU_hgJ.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465674597539840/pu/vid/avc1/720x1280/qvgKapV9Oz6dUsE9.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+培养专注力
+
+25岁以上的成年人的神经系统储存新信息的空间较小。
+
+强迫你的大脑接受新的模式：
+
+• 不要多任务
+• 集中精力工作
+• 远离电视和手机等干扰 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+充满好奇心
+
+追求那些你深深着迷的话题，而不仅仅是流行的话题。
+
+任何领域中最成功的人都是最好奇的人。
+
+读书是为了满足你的求知欲望，而不是为了炫耀或完成的缘故。 
+
+![](https://pbs.twimg.com/media/GIraKnobUAAdNpd.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+应用你所学的知识
+
+知识如果不应用只会导致停滞不前。学到新知识后，要问问自己：
+
+• 我如何应用这个概念？
+• 我可以用这个做什么项目？
+• 我如何教别人这个？
+
+应用是巩固理解的关键。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465685494276096/pu/pl/njgtrg8FwZMS13bH.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465685494276096/pu/vid/avc1/320x568/3UMdfvVhhJ3brK8w.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465685494276096/pu/vid/avc1/480x852/7Aa1y2dh2mPC9Pz0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465685494276096/pu/vid/avc1/720x1280/k5cZepGPM4kztluq.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+接受重复
+
+在注意力不集中的时代，重复对于保持新知识至关重要。
+
+建立系统，反复接触知识，直到它深入你的记忆。
+
+即使是天才也会反复学习同样的材料。 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+教给他人
+
+巩固你的理解最好的方法之一是将概念教给他人。当你可以解释一个想法时，这是真正的掌握。
+
+通过：
+
+• 写作
+• 指导
+• 公开演讲
+
+传授知识对学生和教师都有益处。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465697376817152/pu/pl/h85vVLgE-zuZRs6L.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465697376817152/pu/vid/avc1/480x270/yF5h4shuoSQ0tqx4.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465697376817152/pu/vid/avc1/640x360/2eDXOlxfkkGxp5ks.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465697376817152/pu/vid/avc1/1280x720/AfbZj9OiJdJYIkp_.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+学习销售
+
+Altman称销售是“最重要的技能”。学会说服和沟通是至关重要的。
+
+掌握传达自己想法的艺术。学会激励和激发他人。
+
+销售对于创业者、员工和学者都是必不可少的。 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+敢于显得愚蠢
+
+对于很多人来说，害怕显得愚蠢是他们学习的绊脚石。
+
+拥抱初学者的心态。提出天真的问题。承认自己不懂的事情。
+
+为了学习的好处，放下自己的自尊是微不足道的代价。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465709292773376/pu/pl/hgFgygtZ436e5Be6.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465709292773376/pu/vid/avc1/480x270/hNqGQNWgDGB6sEuy.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465709292773376/pu/vid/avc1/640x360/jzBJJ3IYiH0XOYXD.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465709292773376/pu/vid/avc1/1280x720/W1aJVKVQYZvag4IU.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+热爱过程
+
+学习不仅仅是达到目的，而是目的本身。
+
+热爱探索和成长的过程。培养对知识的真正热情。
+
+学习的乐趣才是最终的回报。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465716989317120/pu/pl/GyrZF9i_sym-3wyb.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465716989317120/pu/vid/avc1/480x270/pkW2m4jBIu4IdjAG.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465716989317120/pu/vid/avc1/640x360/p6ej_Vsk-KJdEKJ0.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

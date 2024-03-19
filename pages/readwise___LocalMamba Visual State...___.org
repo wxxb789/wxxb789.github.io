@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: readwise/LocalMamba Visual State...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[_akhaliq on Twitter]]
+:full-title: "LocalMamba Visual State..."
+:category: [[tweets]]
+:url: https://twitter.com/_akhaliq/status/1768475300952731688
+:image-url: https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+LocalMamba
+
+Visual State Space Model with Windowed Selective Scan
+
+Recent advancements in state space models, notably Mamba, have demonstrated significant progress in modeling long sequences for tasks like language understanding. Yet, their application in vision tasks has not 
+
+![](https://pbs.twimg.com/media/GIri6fpW4AAoSqH.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+markedly surpassed the performance of traditional Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). This paper posits that the key to enhancing Vision Mamba (ViM) lies in optimizing scan directions for sequence modeling. Traditional ViM approaches, which 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+flatten spatial tokens, overlook the preservation of local 2D dependencies, thereby elongating the distance between adjacent tokens. We introduce a novel local scanning strategy that divides images into distinct windows, effectively capturing local dependencies while 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+maintaining a global perspective. Additionally, acknowledging the varying preferences for scan patterns across different network layers, we propose a dynamic method to independently search for the optimal scan choices for each layer, substantially improving performance. 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Extensive experiments across both plain and hierarchical models underscore our approach's superiority in effectively capturing image representations. For example, our model significantly outperforms Vim-Ti by 3.1% on ImageNet with the same 1.5G FLOPs. 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+paper page: https://t.co/hb2kf6zCSw 
+#+END_QUOTE\

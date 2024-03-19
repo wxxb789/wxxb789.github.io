@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/Tim Brooks and Bill Peeb...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[AlbyHojel on Twitter]]
+:full-title: "Tim Brooks and Bill Peeb..."
+:category: [[tweets]]
+:url: https://twitter.com/AlbyHojel/status/1768459558266216749
+:image-url: https://pbs.twimg.com/profile_images/1647678500437127169/kgRDwjnA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Tim Brooks and Bill Peebles from OpenAI came to my Deep Unsupervised Learning class to talk about video gen.
+
+Can’t hear much (iPhone microphones kinda suck) but here’s a snippet where he talks about emergent 3D consistency without any inductive bias to promote it. <video controls><source src="https://video.twimg.com/amplify_video/1768451843389378560/pl/bu9xzeF7KWB2jRW4.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1768451843389378560/vid/avc1/480x270/146pIsIH79-ZO-ji.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1768451843389378560/vid/avc1/640x360/GUn8yoTKzwtXUEgG.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1768451843389378560/vid/avc1/1280x720/dJNaHNGW2wgqTYrH.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

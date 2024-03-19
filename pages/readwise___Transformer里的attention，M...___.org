@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/Transformer里的attention，M...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[realrenmin on Twitter]]
+:full-title: "Transformer里的attention，M..."
+:category: [[tweets]]
+:url: https://twitter.com/realrenmin/status/1769503909238763672
+:image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+transformer里的attention，MoE里的expert，Lora里的adapter。本质都是最简单的全联接前馈网络，太神奇了。有一种草台班子的即视感。 
+#+END_QUOTE\

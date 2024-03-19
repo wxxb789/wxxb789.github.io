@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/最近看公开报道，有赞创始人白鸦说公司只有 3 名...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ftium4 on Twitter]]
+:full-title: "最近看公开报道，有赞创始人白鸦说公司只有 3 名..."
+:category: [[tweets]]
+:url: https://twitter.com/ftium4/status/1769324921740833146
+:image-url: https://pbs.twimg.com/profile_images/1477903349278453762/0OBeufkj.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+最近看公开报道，有赞创始人白鸦说公司只有 3 名 UI 设计师了。特地去打听了一下，这 3 名 UI 设计师负责设计系统的维护，其他设计师都转岗到业务线，称为产品设计师，既要做产品经理的事情，也得做 UI 设计师画出对应的界面。这个机制已经在有赞运行一年多，目前状况良好。 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+随着互联网产品界面设计的规律稳定，大部分界面设计工作难度已经降低了，所以前些年才出现了 UI 设计师和交互设计师合并称为用户体验设计师，现在又开始产品经理和用户体验设计师合并为产品设计师的新趋势。 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+另外随着 AI 技术的不断提升，纯执行和工程方面的效率会极大提升。未来产品设计师最重要重要的是结合业务也用户做出合理的决策，其余的落地执行交绝大部分可以交给 AI。 
+#+END_QUOTE\

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/My PhD Thesis Is Now Ava...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[bgavran3 on Twitter]]
+:full-title: "My PhD Thesis Is Now Ava..."
+:category: [[tweets]]
+:url: https://twitter.com/bgavran3/status/1768053628558831929
+:image-url: https://pbs.twimg.com/profile_images/1492572338600263681/fiVbZMZw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+My PhD Thesis is now available to read!
+
+It presents a mathematical foundation for neural networks that is end-to-end, uniform, and prescriptive.
+
+I'm incredibly excited about it.
+
+You can find it at https://t.co/TDLa8GBctN
+
+and summarised at the following blog post… 
+
+![](https://pbs.twimg.com/media/GIkv9yUXsAEr8i7.png) 
+#+END_QUOTE\

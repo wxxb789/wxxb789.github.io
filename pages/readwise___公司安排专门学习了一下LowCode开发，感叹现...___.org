@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/公司安排专门学习了一下LowCode开发，感叹现...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FreiheitYu on Twitter]]
+:full-title: "公司安排专门学习了一下LowCode开发，感叹现..."
+:category: [[tweets]]
+:url: https://twitter.com/FreiheitYu/status/1767822626301317570
+:image-url: https://pbs.twimg.com/profile_images/1154292980863213568/T0BloJUn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+公司安排专门学习了一下LowCode开发，感叹现在的LowCode套件真的很齐全了，纯傻瓜式开发，像当年第一次见RoR的感觉
+如果脑子里对事情想的足够清楚，普通人可以轻松做出一个可运行甚至可实际使用的系统，后续的优化加固等再交给专业人员即可 
+
+![](https://pbs.twimg.com/media/GIiRII8W0AAvIJ8.png) 
+#+END_QUOTE\

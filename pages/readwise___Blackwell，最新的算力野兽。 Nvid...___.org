@@ -1,0 +1,107 @@
+:PROPERTIES:
+:title: readwise/Blackwell，最新的算力野兽。 Nvid...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Blackwell，最新的算力野兽。 Nvid..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1769848579571781735
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Blackwell，最新的算力野兽。
+
+Nvidia $NVDA 刚刚宣布推出其最新、最强大的 AI GPU，名为 Blackwell，它是 Hopper 的继任者
+
+> GPT-4-1.8T参数可以在2000台Blackwell上90天完成训练。
+
+> 新摩尔定律诞生。 
+
+![](https://pbs.twimg.com/media/GI_B840asAAs0mp.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+与Hopper的比较
+
+各项均在2.5-5倍之间（不同格式的算力，带宽，通讯速度）
+
+NVIDIA 表示由两片 B200 组成的 GB200 在基于 1750 亿组参数 GPT-3 模型的基准测试中，其性能是 H100 的 7 倍、训练速度则提高了 4 倍。 
+
+![](https://pbs.twimg.com/media/GI_FRWNbUAAJyZf.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+基于GB200，NVIDIA 也推出了大型超级运算产品「GB200 NVL72」，一口气将36 个CPU 和72 个GPU 集成到一组巨大的液冷机架中，
+
+总共可提供720 petaFLOPS 的AI 训练性能，
+
+或1,440 petaFLOPS（1.4 exaFLOPS）的推理性能，
+
+只要一台就能支援规模高达27 兆组参数的模型。 
+
+![](https://pbs.twimg.com/media/GI_GW66bYAAuz4u.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+GPT-MOE-1.8T参数模型，
+
+可以在2000台Blackwell GPUs上90天完成训练。
+
+相比使用H100仅需要四分之一的能源。 
+
+![](https://pbs.twimg.com/media/GI_G5eqbsAATfH-.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+新的芯片组合就像一个机器人脸 
+
+![](https://pbs.twimg.com/media/GI_HYcmbcAA7wz2.png) 
+
+![](https://pbs.twimg.com/media/GI_HcKrbUAAPYGp.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+推理性能是上一代的 30 倍 
+
+![](https://pbs.twimg.com/media/GI_H-IsboAA9ab_.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Jensen 介绍 GPU 的效果比 Steve Jobs 介绍 iPhone 的效果还要好！
+
+化复杂为简单是他最擅长的。 
+<video controls><source src="https://video.twimg.com/amplify_video/1769828635761094656/pl/4KsWIM7_srNkRe4P.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1769828635761094656/vid/avc1/584x270/d5nFUkwTJ3cP2s7W.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769828635761094656/vid/avc1/780x360/hYosQBwnCPdW0pI4.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1769828635761094656/vid/avc1/1560x720/61Rs4ZzyfPUQpPjD.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+迪士尼机器人登台 ❤️<video controls><source src="https://video.twimg.com/ext_tw_video/1769846025580376064/pu/pl/8tHkgnkhwSpPloe7.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769846025580376064/pu/vid/avc1/320x568/mDnWtMnnfoztXA_h.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769846025580376064/pu/vid/avc1/480x852/MfzKQZwtfiECQDnY.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769846025580376064/pu/vid/avc1/720x1280/J4MMirXhFOuSQ4eg.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+很少有幻灯片能比这张幻灯片更好地解释人工智能革命。
+
+我们将现实数字化，以便从中学习、理解并生成它
+<video controls><source src="https://video.twimg.com/ext_tw_video/1769834033264123904/pu/pl/oaeDW97Spl_-uuse.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769834033264123904/pu/vid/avc1/320x568/Piy39dHRrY_hosCi.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769834033264123904/pu/vid/avc1/480x852/8Ub6NXier9U4ucyt.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769834033264123904/pu/vid/avc1/720x1280/e7_pomW5lP_gYZwR.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+更多相关报道：
+英伟达新核弹B200发布 量子位：
+https://t.co/kVtROSt2FK
+
+现场直击GTC  硅星人Pro
+https://t.co/SsMr2Lj846 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+新智元：老黄祭出新核弹B200！https://t.co/rILfQxEJDb
+
+机器之心：新架构超级GPU问世，AI算力一步提升30倍
+https://t.co/DKvjgjTG9h 
+#+END_QUOTE\

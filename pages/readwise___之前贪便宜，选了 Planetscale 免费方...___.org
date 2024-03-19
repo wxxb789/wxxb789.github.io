@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/之前贪便宜，选了 Planetscale 免费方...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[hixiaoji on Twitter]]
+:full-title: "之前贪便宜，选了 Planetscale 免费方..."
+:category: [[tweets]]
+:url: https://twitter.com/hixiaoji/status/1767855441084833833
+:image-url: https://pbs.twimg.com/profile_images/1115262711191859202/fuKLXAiA.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+之前贪便宜，选了 planetscale 免费方案，现在好咯，迁移起来综合成本比刚开始还高，准备选一个付费方案了，目前看到两家还不错的，总共我们数据量也不多大，10 张表，700m+ 数据，如果是你，你们会选哪个，亦或者有更好的方案推荐？#数据库 #云服务 
+
+![](https://pbs.twimg.com/media/GIivDefaQAAbTZK.jpg) 
+#+END_QUOTE\

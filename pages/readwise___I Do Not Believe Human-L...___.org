@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/I Do Not Believe Human-L...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[chrmanning on Twitter]]
+:full-title: "I Do Not Believe Human-L..."
+:category: [[tweets]]
+:url: https://twitter.com/chrmanning/status/1768291975005196326
+:image-url: https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+I do not believe human-level AI (artificial superintelligence, or the commonest sense of #AGI) is close at hand. AI has made breakthroughs, but the claim of AGI by 2030 is as laughable as claims of AGI by 1980 are in retrospect. Look how similar the rhetoric was in [LIFE](https://twitter.com/LIFE) in 1970! 
+
+![](https://pbs.twimg.com/media/GIo8Lc0b0AAsjXg.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+LLMs and other generative AI are enormously powerful, because they soak up, abstract, and can mashup the work of millions of humans. But they are only a bit more intelligent than an encyclopedia. Central to intelligence is the ability to learn, adapt, and act in novel situations. 
+#+END_QUOTE\

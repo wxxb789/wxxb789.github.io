@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/大的来了！我所有公开工作流，共14大类，36个（...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ZHOZHO672070 on Twitter]]
+:full-title: "大的来了！我所有公开工作流，共14大类，36个（..."
+:category: [[tweets]]
+:url: https://twitter.com/ZHOZHO672070/status/1769340154228203800
+:image-url: https://pbs.twimg.com/profile_images/1736718001905303553/eLVgZgbv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+大的来了！我所有公开工作流，共14大类，36个（图文+视频）：
+
+1⃣Stable Cascade
+2⃣3D
+3⃣LLM+SD
+4⃣Differential Diffusion
+5⃣YoloWorld-ESAM
+6⃣Portrait Master
+7⃣ArtGallery
+8⃣InstantID
+9⃣PhotoMaker
+1⃣0⃣SVD
+1⃣1⃣I2VGenXL
+1⃣2⃣More
+1⃣3⃣TravelSuite
+1⃣4⃣WordCloud
+
+项目：https://t.co/1bNEnUvk9h <video controls><source src="https://video.twimg.com/ext_tw_video/1769340059134623744/pu/pl/C8IX3P4TUVEjoKQR.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769340059134623744/pu/vid/avc1/398x270/RpZe1cM2pwWuiVtT.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769340059134623744/pu/vid/avc1/532x360/Ax9yDt9EunkDQQfm.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769340059134623744/pu/vid/avc1/710x480/kOQ3y_cBugj2OoaF.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

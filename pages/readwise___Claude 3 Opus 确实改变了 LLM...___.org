@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: readwise/Claude 3 Opus 确实改变了 LLM...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Claude 3 Opus 确实改变了 LLM..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1769550822898344417
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+Claude 3 Opus 确实改变了 LLM 游戏。
+
+人们想出了很多在 GPT-4 之外无法实现的用例。 这是一种转变。
+
+10 个例子 <video controls><source src="https://video.twimg.com/ext_tw_video/1769550797405306880/pu/pl/AaPiSPl6cPCh6f_R.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1769550797405306880/pu/vid/avc1/316x270/q0WN9-aiZW7-uedd.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769550797405306880/pu/vid/avc1/422x360/9hlkWbQeTTOnlf_3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1769550797405306880/pu/vid/avc1/844x720/cTdsC-MVG14Krkna.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+1. 跨越 "高级用户 "门槛
+https://t.co/cBxQiOxi0i 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+2. 创建模糊器https://t.co/spHriIAgMm 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+3. 做出工程决策https://t.co/zXfDJ94zfL 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+4.对古代文物的高度推测性翻译https://t.co/7z8gRIbiPU 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+5. 基本算术https://t.co/Q2Tyrk50JS 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+6.帮助 DeepSpeed Zero-2 在 ROCm 中工作https://t.co/P1yfigxmHi 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+7.翻译宜家说明书https://t.co/n258i6ll2T 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+8. 将想法变成生意https://t.co/OPgf0ZoMT0 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+10. 检测安全漏洞https://t.co/lMF5enjRlX 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+以上就是全部，原作者[minchoi](https://twitter.com/minchoi)
+
+如果您喜欢这个主题：
+
+1.关注我（[FinanceYF5](https://twitter.com/FinanceYF5)）
+2. 点赞+转发下面第1条帖子https://t.co/UXx6qDla2G 
+#+END_QUOTE\

@@ -1,0 +1,52 @@
+:PROPERTIES:
+:title: readwise/This Week I Looked Into...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ericbradleyj on Twitter]]
+:full-title: "This Week I Looked Into..."
+:category: [[tweets]]
+:url: https://twitter.com/ericbradleyj/status/1768542818145063200
+:image-url: https://pbs.twimg.com/profile_images/1767436602706644992/7i3qwFe8.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+This week I looked into [dagster](https://twitter.com/dagster) and took their ‘Essentials’ course.  Here 5 cool things I learned about their approach to data orchestration. #dataengineering
+
+A Thread. 🧵 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+#1 Dagster projects are built using Python. This makes projects very easy to setup and readable. Take a look the parts that make up this project and UI with some code examples. 
+
+![](https://pbs.twimg.com/media/GIse2R3a4AEv2my.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+#2 Project organization feels intuitive to me. In our project's main __init__.py, we use a single 'defs' variable to contain assets, resources, jobs, schedules, and sensors, all imported from their respective folders, and are ready for Dagster to process. 
+
+![](https://pbs.twimg.com/media/GIsexhla0AASJW0.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+#3 Dagster adopts a unique approach to organizing data products for orchestration, replacing a task-focused method with an asset-centric one. To illustrate this, let's consider the analogy of making a sandwich: 
+
+![](https://pbs.twimg.com/media/GIsevMLaMAANiru.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+#4 Sensors allow you to automate your pipelines based on a state change like launching a run whenever a file gets dropped into an s3 bucket. If you are interested, I would also look into run_key and cursors which further improve this. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+#5 What about Metadata? Two cool things: First, you can track different metadata levels in your pipeline, one example is record counts whenever assets are materialized. 
+Second, the MetadataValue class supports rich metadata such as tables and images that are brought into the UI. 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Should I recap their dbt-integration course next? 
+#+END_QUOTE\

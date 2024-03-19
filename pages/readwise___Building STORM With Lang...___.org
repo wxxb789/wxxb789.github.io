@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/Building STORM With Lang...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[LangChainAI on Twitter]]
+:full-title: "Building STORM With Lang..."
+:category: [[tweets]]
+:url: https://twitter.com/LangChainAI/status/1768306532704493786
+:image-url: https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Building STORM with LangGraph
+
+Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking (STORM) is a recent paper from [EchoShao8899](https://twitter.com/EchoShao8899) et al offering a new approach for generating entirely synthetic Wikipedia-style pages. 
+
+The basic algorithm is as follows:
++ Create Wiki editor personas to ask questions about a user-provided topic
++ Create Experts aided by search to answer questions about a user-provided topic
++ Let the two converse, creating an information rich corpus of questions, answer, and references
++ Then, use this to flesh out a wiki outline in several stages of refinement.
+
+In this video, we show how to implement these ideas using LangGraph from scratch.
+
+In it, we create a well structured wiki focused on "Groq and the future of inference" in < 5 minutes.
+
+Video:
+https://t.co/eQEILmv1A5
+
+Paper:
+https://t.co/I4uta7PBDV
+
+Notebook:
+https://t.co/VzbpUbRO9r
+
+![](https://pbs.twimg.com/media/GIpIYkAbsAA4ZB8.jpg) 
+#+END_QUOTE\

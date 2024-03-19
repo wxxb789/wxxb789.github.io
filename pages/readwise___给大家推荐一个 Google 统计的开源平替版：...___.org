@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/给大家推荐一个 Google 统计的开源平替版：...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "给大家推荐一个 Google 统计的开源平替版：..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1768823778581303460
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+给大家推荐一个 Google 统计的开源平替版：
+
+Umami https://t.co/dR6H4GGYQr
+
+开源，好用，算是最火的开源解决方案了吧，大家如果有统计需求可以试试看，免费版也够日常需求，有更大的需求可以自部署。
+
+Stars：19K
+
+Demo 这这里：
+https://t.co/3awS5HnoTq
+
+不过现在类似的解决方案也太多了，而且界面都类似，不知道各家竞争是这么活下去的。我写在下面供大家做个参考。
+我知道的就有：
+
+Beam：https://t.co/GDNNSx9Gwo
+推荐，界面好看，虽然不是开源，但是免费计划看起来不错欧。
+
+SimpleAnalytics https://t.co/cyi4rk68mI
+它最出名的应该是它是个 openStartup，盈利都是公开的
+https://t.co/73Ax34Z7Ju
+目前是 $31.2k with 1285 paying customers
+我还以为它会更多，因为看首页它还是 DuckDuckGo 的统计提供商。
+
+Fathom https://t.co/urwgj14cmQ
+算是很老牌的了，没有免费计划，一个月 15 刀。
+
+Plausible https://t.co/SezE9yn3D9
+同样我早就听说过了，一个月9欧。
+
+![](https://pbs.twimg.com/media/GIwfvFlbgAASfpn.jpg) 
+#+END_QUOTE\

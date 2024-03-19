@@ -1,0 +1,59 @@
+:PROPERTIES:
+:title: readwise/Now That Grok-1 Has Been...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cwolferesearch on Twitter]]
+:full-title: "Now That Grok-1 Has Been..."
+:category: [[tweets]]
+:url: https://twitter.com/cwolferesearch/status/1769756922666750422
+:image-url: https://pbs.twimg.com/profile_images/1715212547215802368/tqxfSqh3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Now that Grok-1 has been released, it’s the perfect time to brush up on how Mixture-of-Experts (MoE) layers work in LLMs. Here’s a quick explainer…
+
+TL;DR: When applied to transformer models, MoE layers have two primary components:
+
+\- Sparse MoE Layer: replaces dense feed-forward layers in the transformer with a sparse layer of several, similarly-structured “experts”.
+- Router: determines which tokens in the MoE layer are sent to which experts.
+
+Each expert in the sparse MoE layer is just a feed-forward neural network with its own independent set of parameters. The architecture of each expert mimics the feed-forward sub-layer used in the standard transformer architecture. The router takes each token as input and produces a probability distribution over experts that determines to which expert each token is sent. In this way, we drastically increase the model’s capacity (or number of parameters) but avoid excessive computational costs by only using a portion of the experts in each forward pass.
+
+Decoder-only architecture. Nearly all autoregressive large language models (LLMs) use a decoder-only transformer architecture. This architecture is composed of transformer blocks that contain masked self-attention and feed-forward sub-layers. MoEs modify the feed-forward sub-layer within the transformer block, which is just a feed-forward neural network through which every token within the layer’s input is passed.
+
+Creating an MoE layer. In an MoE-based LLM, each feed-forward sub-layer in the decoder-only transformer is replaced with an MoE layer. This MoE layer is comprised of several experts, where each of these experts is a feed-forward neural network—having a similar architecture to the original feed-forward sub-layer—with an independent set of parameters. We can have anywhere for a few experts to thousands of experts. Grok in particular has eight experts in each MoE layer.
+
+Sparse activation. The MoE model has multiple independent neural networks (i.e., instead of a single feed-forward neural network) within each feed-forward sub-layer of the transformer. However, we only use a small portion of each MoE layer’s experts in the forward pass! Given a list of tokens as input, we use a routing mechanism to sparsely select a set of experts to which each token will be sent. For this reason, the computational cost of an MoE model’s forward pass is much less than that of a dense model with the same number of parameters.
+
+How does routing work? The routing mechanism used by most MoEs is a simple softmax gating function. We pass each token vector through a linear layer that produces an output of size N (i.e., the number of experts), then apply a softmax transformation to convert this output into a probability distribution over experts. From here, we compute the output of the MoE layer:
+
+1. Selecting the top-K experts (i.e., k=2 for Grok)
+2. Scaling the output of each expert by the probability assigned to it by the router
+
+Why are MoEs popular for LLMs? Increasing the size and capacity of a language model is one of the primary avenues of improving performance, assuming that we have access to a sufficiently large training dataset. However, the cost of training increases with the size of the underlying model, which makes larger models burdensome in practice. MoE models avoid this expense by only using a subset of the model’s parameters during inference. For example, Grok-1 has 314B parameters in total, but only 25% of these parameters are active for a given token.
+
+![](https://pbs.twimg.com/media/GI9wcATWIAAmpW5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+If you're interested in looking more into the practical/implementation side of MoEs, check out the OpenMoE project! It's the best resources on MoEs out there by far (at least in my opinion). OpenMoE is in JAX, but there's also a PyTorch port as well.
+
+https://t.co/m2K7XipCAS 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+Also, I just published a long-form overview on the history of MoEs and how they work. Find it via the image below. I'll be following up with a more LLM-focused overview in a couple of weeks! 
+
+![](https://pbs.twimg.com/media/GI9xLHsXQAAJaOo.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+If you're interested in a PyTorch MoE-based LLM implementation, check out the port (from Colossal AI) below. This basically just ports the OpenMoE code into PyTorch. 
+
+https://t.co/hO6T4trnGh 
+#+END_QUOTE\

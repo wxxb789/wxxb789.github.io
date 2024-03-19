@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/Hermes 2 Pro 7B Is Now A...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mattshumer_ on Twitter]]
+:full-title: "Hermes 2 Pro 7B Is Now A..."
+:category: [[tweets]]
+:url: https://twitter.com/mattshumer_/status/1768021901333438521
+:image-url: https://pbs.twimg.com/profile_images/1761868692651122688/C1mO4kNq.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Hermes 2 Pro 7B is now available!
+
+*Function calling and JSON mode are baked in.*
+
+Beats all other 7B models... this model looks absolutely insane. 
+
+![](https://pbs.twimg.com/media/GIlGhbnWYAAky8u.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Congrats to [Teknium1](https://twitter.com/Teknium1) and [NousResearch](https://twitter.com/NousResearch) on the release! Try it here: https://t.co/SRX5t1NvhW 
+#+END_QUOTE\

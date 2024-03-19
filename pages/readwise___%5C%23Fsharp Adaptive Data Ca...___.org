@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/\#Fsharp Adaptive Data Ca...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[angel_d_munoz on Twitter]]
+:full-title: "\#Fsharp Adaptive Data Ca..."
+:category: [[tweets]]
+:url: https://twitter.com/angel_d_munoz/status/1769299277560373638
+:image-url: https://pbs.twimg.com/profile_images/1676787510473531393/QrspGu5J.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+#fsharp Adaptive Data can be integrated very easily with Avalonia's binding mechanisms via the IBinding interface, so you can have one-way adaptive values and two way binding for changeable values (useful for textbox controls), I find hard to not fanboy for avalonia 
+
+![](https://pbs.twimg.com/media/GI3O8vdWUAAwlGQ.png) 
+
+![](https://pbs.twimg.com/media/GI3PIXFX0AEQNAz.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+It plays excellently well with F# in all of it's presentations, from the most functional side (FuncUI) to the most Avalonia'ish way to do things (Plain F# + XAML + MVVM) or even in-between (NXUI) it is such a really good piece of software 
+#+END_QUOTE\

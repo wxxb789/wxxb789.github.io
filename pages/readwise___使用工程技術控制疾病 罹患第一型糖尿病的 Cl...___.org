@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/使用工程技術控制疾病 罹患第一型糖尿病的 Cl...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[daininduyuanma on Twitter]]
+:full-title: "使用工程技術控制疾病 罹患第一型糖尿病的 Cl..."
+:category: [[tweets]]
+:url: https://twitter.com/daininduyuanma/status/1769252242484494398
+:image-url: https://pbs.twimg.com/profile_images/1432917599424106502/gJb3E2L_.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+使用工程技術控制疾病
+
+罹患第一型糖尿病的 Cloudflare 工程經理 Matt Boyle，分享了他如何運用工程技術來控制自己的血糖。首先，他透過一個叫做 Miao Miao 的裝置和 Tomato 應用程式來每兩分鐘監測一次血糖，並利用 Grafana 儀表板即時追蹤血糖變化。此外，他還建立了一個 Telegram 機器人來加註解，以提供有關飲食和活動的背景資訊。
+
+他的系統還包括一個警報機制，當血糖低於特定閾值時觸發。使用 https://t.co/25y2HdGCiw 工具，他能夠設定升級政策，確保在血糖過低時及時得到處理。這套系統不僅提高了他對糖尿病的控制，還增強了他對突發狀況的應對能力。
+
+作者表示，他計劃進一步完善系統。他希望實現事件的自動關閉，以避免延遲導致不必要的升級。此外，他也打算利用已收集的血糖資料來訓練機器學習模型，以便更好地理解血糖變化的模式，並預測未來的趨勢。他還考慮增加更多圖表和指標，以提供更全面的血糖管理。
+
+https://t.co/xpKWRftZhE 
+#+END_QUOTE\

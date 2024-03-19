@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/这个网站自动从Github收集ComfyUI节点...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Gorden_Sun on Twitter]]
+:full-title: "这个网站自动从Github收集ComfyUI节点..."
+:category: [[tweets]]
+:url: https://twitter.com/Gorden_Sun/status/1768286248765133178
+:image-url: https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+这个网站自动从Github收集ComfyUI节点，并且运行检查这些节点能否正常运行，可以说是最全的开源ComfyUI节点了。
+网址：https://t.co/yca8o5Z7Fr
+对应的Github：https://t.co/ZvPjwTvFQx 
+
+![](https://pbs.twimg.com/media/GIo24ZUbcAAnuZ_.jpg) 
+#+END_QUOTE\

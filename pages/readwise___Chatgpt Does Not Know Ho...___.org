@@ -1,0 +1,84 @@
+:PROPERTIES:
+:title: readwise/Chatgpt Does Not Know Ho...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[RubenHssd on Twitter]]
+:full-title: "Chatgpt Does Not Know Ho..."
+:category: [[tweets]]
+:url: https://twitter.com/RubenHssd/status/1768302334868644033
+:image-url: https://pbs.twimg.com/profile_images/1740293990342127616/OjRkn2CN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+chatgpt does not know how to prompt itself - and that's a bit of a pain.
+
+So I'm feeding it the "26 prompt principles" to make a prompt generator.
+
+↓ It worked pretty nicely: 
+
+![](https://pbs.twimg.com/media/GIpFmgZXkAAzM8U.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+#1. I asked ChatGPT to analyze each of those 26 principles. 
+
+And I got: 
+> explanations of each of the principles
+> how-to guide for those 26 principles 
+
+I wanted to make sure it got it all.
+
+Then, I asked ChatGPT to upgrade one of my prompt: <video controls><source src="https://video.twimg.com/ext_tw_video/1768302352061091841/pu/pl/YG9ydevwFkOJV1jW.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768302352061091841/pu/vid/avc1/432x270/CfzzHmBc01HgRrRB.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302352061091841/pu/vid/avc1/576x360/4QYthX01HoxnCPH_.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302352061091841/pu/vid/avc1/1152x720/3iBY3r4EFU-sZbBI.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+#2. The prompt I want to upgrade is:
+  
+"Create a prompt for a solopreneur who wants to draft a business plan for his Saas, a LinkedIn post generator"
+
+And I got:
+> a prompt using the 26 principles
+> assigning a task to ChatGPT
+> step-by-step reasoning
+
+I didn't stop here: <video controls><source src="https://video.twimg.com/ext_tw_video/1768302390141145088/pu/pl/t1qPKwUchr_HTcid.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768302390141145088/pu/vid/avc1/432x270/3RbiWKR9IYCCLHpe.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302390141145088/pu/vid/avc1/576x360/IEvgp81fnplJ_IkU.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302390141145088/pu/vid/avc1/1152x720/fQ6o9TQxsHuL2FlB.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+I had to try this prompt in a new chat.
+
+The result is pretty good.
+
+It gave me a full a business plan: 
+> a precise summary of the SaaS
+> a marketing & sales strategy 
+> an operational plan 
+> & a financial plan
+
+And that's not it: <video controls><source src="https://video.twimg.com/ext_tw_video/1768302512694558720/pu/pl/4W1YOALgBAd6tfKn.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768302512694558720/pu/vid/avc1/432x270/QyQZiVqOiDWyk557.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302512694558720/pu/vid/avc1/576x360/_lePYfsDvXpT9JVo.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302512694558720/pu/vid/avc1/1152x720/S6gT2_dmmA3NPnZ5.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+I tried the bad prompt in a new chat to compare both results. 
+
+The prompt is: "draft a business plan for my Saas, a LinkedIn post generator". 
+
+And the result is too generic. 
+
+Last thing before you scroll away: <video controls><source src="https://video.twimg.com/ext_tw_video/1768302547784118272/pu/pl/9P2GQppLRTUJhf54.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768302547784118272/pu/vid/avc1/432x270/KNcfaPuoNaDcw6ju.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302547784118272/pu/vid/avc1/576x360/tpnTQY0VdxJcbU8l.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768302547784118272/pu/vid/avc1/1152x720/HBiyAHRHtXHTayYm.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+I do daily tests on LLMs like ChatGPT, Gemini, Claude, or Mistral.
+
+Check my profile [RubenHssd](https://twitter.com/RubenHssd) for more.
+
+If you'd like to support me, a like or a simple RT goes a long way :)
+
+https://t.co/OU4UND2seC 
+#+END_QUOTE\

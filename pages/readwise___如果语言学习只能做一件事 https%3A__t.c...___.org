@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: readwise/如果语言学习只能做一件事 https:__t.c...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[henices on Twitter]]
+:full-title: "如果语言学习只能做一件事 https://t.c..."
+:category: [[tweets]]
+:url: https://twitter.com/henices/status/1768285254354112548
+:image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+如果语言学习只能做一件事
+https://t.co/1ETpT3GTCw 
+
+作者 Theia 是一个会五门语言的全球青年。 她分享了一个自己认为最有效的语言学习方法：
+
+找一篇语料，精读一遍，然后将所有的单词、重要语法、词组放入 anki 纳入自己的单词库，之后跟着录音反复阅读 + shadowing (影子跟读) ，乃至背诵。
+
+语料库的选择，应当有音频和文本，语法词汇略高于你的水平，最好是自己感兴趣的内容。
+
+shadowing 是一个常见的语言学习方法，在录音播放时不看文本，延迟1秒左右的速度跟着说出内容。shadowing 不但锻炼听力，还可以提升发音和口语。
+
+这个方法坚持一两篇，就会进步挺大，用得越多，进步越大。Theia 学习 英日西荷 语言，都在用这个方法学习。
+
+Theia 认为 Fluent Forever 是语言爱好者不得不读的书。这本书给出的方法覆盖了整个语言学习，即使是有很丰富语言学习心得的人。
+
+练好发音，是语言学习第一件事，也是最重要的一件事。尽量创造语言沉浸环境，可以是阅读，看电影，但最有用的方法是看电视剧。
+
+电视剧可以给人带来多感官刺激，却不像电影情节那么紧凑，让你掉入情节中。学习效果：无字幕 > 有目标语言字幕 > 中文字幕。 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Fluent Forever 中提高一个语言学习方法，恰当地学习语法 (develop a passing familiarity with grammar)
+
+在进行有效输入 (comprehensible input ) 之前，让自己在一定程度上熟悉目标语言语法，可以将句子有逻辑地拆解成可以理解的片段，从而加快语言学习的速度。 
+
+![](https://pbs.twimg.com/media/GIo4KAzXIAEpqcY.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Theia 还有 《一个多语者的独白》上中下系列文章值得阅读：
+https://t.co/cRpRvVgLhc
+https://t.co/hL6UK5Wq2D
+https://t.co/I6ubPbule1 
+#+END_QUOTE\

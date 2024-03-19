@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/现在rag+llm那套太成熟了…亲自体验两百行代...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[VoidAsuka on Twitter]]
+:full-title: "现在rag+llm那套太成熟了…亲自体验两百行代..."
+:category: [[tweets]]
+:url: https://twitter.com/VoidAsuka/status/1768328842056499654
+:image-url: https://pbs.twimg.com/profile_images/1729345509205442560/3zpyKNaI.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+现在RAG+LLM那套太成熟了…亲自体验两百行代码就可以实现一个包括前端在内的定制化Chatbot（比如某个人/某个领域的定制化知识库）。从完全不懂这一套的小白程序员从开发到部署两小时就能搞定，反而还是爬数据、洗数据花的时间更多…果然数据是新时代的黄金。 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Langchain + Streamlit 几百行搞定🥹 
+#+END_QUOTE\

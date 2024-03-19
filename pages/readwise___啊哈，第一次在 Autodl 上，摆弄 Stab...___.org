@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/啊哈，第一次在 Autodl 上，摆弄 Stab...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "啊哈，第一次在 Autodl 上，摆弄 Stab..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1768307535017030086
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+啊哈，第一次在 autodl 上，摆弄 stable diffusion， 做了个铁锤的姐姐，哈哈哈哈哈哈
+
+ 排第一的社区镜像，大哥真用心了。这么完整的中文版 stable diffusion web-ui, 包括 git 科学加速，civitai 直连都配置的好好的
+
+即使我们现在都知道，镜像能赚点小钱，我依然觉得这钱花的太特么值了。省去在 google colab 上自己折腾的罪
+
+成本：2-3/小时
+100G外置硬盘：21/月
+
+超值服务 !! 有没更具性价比的，来一战？？
+
+![](https://pbs.twimg.com/media/GIpJJTEXUAEvrtO.jpg)
+
+![](https://pbs.twimg.com/media/GIpJV6aWoAAOh2s.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,71 @@
+:PROPERTIES:
+:title: readwise/Open-Sourcing "MindGraph...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[yoheinakajima on Twitter]]
+:full-title: "Open-Sourcing "MindGraph..."
+:category: [[tweets]]
+:url: https://twitter.com/yoheinakajima/status/1769019899245158648
+:image-url: https://pbs.twimg.com/profile_images/1452754543217831938/T2O-66Yy.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Open-sourcing "MindGraph", a proof of concept starter kit for building and querying against an ever-expanding knowledge graph with natural language!
+
+\- multiple input types
+- simple interface
+- basic search/RAG against knowledge graph
+- easily extendable with integrations
+- basic database swapping
+
+GitHub in 🧵
+
+![](https://pbs.twimg.com/media/GIzOt21bwAATlFM.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Quick background is that I paused on BabyAGI work after the BabyFoxAGI mod because I felt I was missing some pieces.
+
+Went deep on knowledge graphs (KGs) and released Instagraph (https://t.co/koweUiYNCU) which lets you build, merge, and edit KGs.... 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Oh, and before I keep going, here's the GitHub: https://t.co/H31Y2EfKMw
+
+This is one of my bigger projects (multiple files) which I'm not used to, so be kind plz. Hopefully still some interesting and fun patterns in here for you. 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Kids woke up, and it's saturday! Will come back to add to this thread later. 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+The system is designed to be easily extendable using an integration manager, which enables integrations to call each other.
+
+Here’s how the integrations (blue) interact with each other, and call a base model. 
+
+![](https://pbs.twimg.com/media/GIzWMHPa4AAakOc.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Biggest addition from InstaGraph are the conditional_add endpoints. They:
+
+1) search through existing graph (currently keyword but vector should be added)
+2) possible matches with new entry into an LLM to decide if there is a match
+3) adds the node/edge if no matches are found 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Okay, just added a section in the README for how you can add and swap databases:
+
+https://t.co/vapfla1fDE
+
+(I know I wrote in contributions that I don't maintain, but  don't hesitate to ping me if you want to add a database option) 
+
+![](https://pbs.twimg.com/media/GI10uMtawAAV1Dn.jpg) 
+#+END_QUOTE\

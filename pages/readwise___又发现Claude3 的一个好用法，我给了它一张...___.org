@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/又发现Claude3 的一个好用法，我给了它一张...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[genie0309 on Twitter]]
+:full-title: "又发现Claude3 的一个好用法，我给了它一张..."
+:category: [[tweets]]
+:url: https://twitter.com/genie0309/status/1769386341299876304
+:image-url: https://pbs.twimg.com/profile_images/1390694067797782530/FwReCZGn.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+又发现Claude3 的一个好用法，我给了它一张微软在过去半年股价的日走势图，让我意外的是，它不仅可以准确地读取图上的公司信息、价格信息，并且针对我问的每一个问题，它都能给出专业且逻辑清晰的分步建议，大赞！
+Prompt 如下，大家也可以试试：这是一副价格走势图，请从专业的证券分析师角度给出技术分析，并明确告诉我这是买入还是卖出信号。此外，也请告诉我你对自己所做分析的置信水平在多少。
+#Claude3 #Microsoft
+
+![](https://pbs.twimg.com/media/GI4ciV6bUAAbDoA.jpg)
+
+![](https://pbs.twimg.com/media/GI4ckgna8AAX_He.jpg) 
+#+END_QUOTE\

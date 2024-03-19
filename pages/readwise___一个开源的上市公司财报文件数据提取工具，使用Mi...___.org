@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/一个开源的上市公司财报文件数据提取工具，使用Mi...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "一个开源的上市公司财报文件数据提取工具，使用Mi..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1769196945988637157
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+一个开源的上市公司财报文件数据提取工具，使用Mistral-7B提取了10-K的收入报表。输出结果被整洁地格式化为JSON。
+
+工作流介绍：
+
+•下载并分块SEC申报文件 
+• 将块存储在向量数据库中 
+• 查询向量数据库以获取财务数据 
+• 使用大语言模型（LLM）提取财务数据 
+• 使用 instructor 输出JSON
+
+后续的to-do：
+
+•从SEC申报文件中提取所有财务报表。
+
+•将财务报表结构化为JSON。
+
+•将报表存储在SQL数据库中。
+
+•构建一个API来提供存储的报表。
+
+•从应用程序调用API，并以表格形式呈现财务数据。 
+#+END_QUOTE\
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Colab：https://t.co/2o44rSCcl3 
+#+END_QUOTE\

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/Learn How to Fine-Tune A...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[helloiamleonie on Twitter]]
+:full-title: "Learn How to Fine-Tune A..."
+:category: [[tweets]]
+:url: https://twitter.com/helloiamleonie/status/1769393339231547413
+:image-url: https://pbs.twimg.com/profile_images/1559465709008297985/1Q_wkd4i.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+Learn how to fine-tune a Mistral-7b model with Direct Preference Optimization (DPO):
+
+In this article, [maximelabonne](https://twitter.com/maximelabonne) first explains the concept of DPO and then shows you how to fine-tune OpenHermes-2.5-Mistral-7B with it.
+
+Read more on [TDataScience](https://twitter.com/TDataScience): https://t.co/b8h8lPOEv6 
+
+![](https://pbs.twimg.com/media/GI4l3UcXkAAzM32.jpg) 
+#+END_QUOTE\

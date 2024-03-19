@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: readwise/去年我刚开始魔改 Ai 兔子的时候就有不少群友建...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[lewangx on Twitter]]
+:full-title: "去年我刚开始魔改 Ai 兔子的时候就有不少群友建..."
+:category: [[tweets]]
+:url: https://twitter.com/lewangx/status/1767911907376472084
+:image-url: https://pbs.twimg.com/profile_images/1692206207380205568/XDfl2bgJ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+去年我刚开始魔改 AI 兔子的时候就有不少群友建议我对接开源的 Dify，Dify 非常的强大，并且提供了我们玩具需要的所有 API，现在我们的 AI 大模型陪伴玩具 https://t.co/1xueDsfjnx 也已经完全支持 Dify，DIY 组装好自己玩具之后，通过连接上自部署的 Dify 或者 Dify Cloud，就可以立即获得一个看得见摸得着的 AI 对话玩具
+
+![](https://pbs.twimg.com/media/GIjigWZbAAAq2x9.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+成品 AI 玩具和魔改电路板都可以通过以下方式购买：
+
+「AI 玩具改造总厂」淘宝网店
+https://t.co/XOdRI4ZZFr
+
+鬼畜跳舞 AI 仙人掌🌵
+https://t.co/C03e4gxLuc
+
+魔改好的 G6 成品 AI 玩具整机下单地址:
+https://t.co/EUYsFblbPz
+
+G6/F6/米兔替换 AI 玩具电路板下单地址:
+https://t.co/byRH8FADA9
+
+八爪鱼 ChatGPT 学习开发 AI 玩具套件下单地址:
+https://t.co/SIpMD2UOQE 
+#+END_QUOTE\

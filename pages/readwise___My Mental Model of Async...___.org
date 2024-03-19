@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/My Mental Model of Async...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[DominikTornow on Twitter]]
+:full-title: "My Mental Model of Async..."
+:category: [[tweets]]
+:url: https://twitter.com/DominikTornow/status/1767591549100237225
+:image-url: https://pbs.twimg.com/profile_images/1298463326423277569/N2SAaljB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+My mental model of async await
+
+Every async function invocation spawns a new virtual thread
+
+Non-blocking runtime
+
+All virtual threads are executed by one physical thread that must not block
+
+Blocking runtime
+
+One virtual thread is executed by one physical thread that may block 
+
+![](https://pbs.twimg.com/media/GIe-OP1aIAEA8PM.jpg) 
+#+END_QUOTE\

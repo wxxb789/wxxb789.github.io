@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/\#工程师学习 看到一篇不错的教程「如何写计算机领...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HiTw93 on Twitter]]
+:full-title: "\#工程师学习 看到一篇不错的教程「如何写计算机领..."
+:category: [[tweets]]
+:url: https://twitter.com/HiTw93/status/1768063240549068935
+:image-url: https://pbs.twimg.com/profile_images/1758076307181826049/C8g29_EW.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+#工程师学习 看到一篇不错的教程「如何写计算机领域的论文」，言简意赅的讲清楚了论文的内容重点、何类技术结果、文章的结构以及对应的每一部分的详细说明，非常值得一读。
+🤖 https://t.co/oCSaq6uh0u 
+
+![](https://pbs.twimg.com/media/GIT62HmasAAANQR.jpg) 
+#+END_QUOTE\

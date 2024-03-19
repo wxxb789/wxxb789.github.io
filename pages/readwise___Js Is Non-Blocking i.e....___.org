@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Js Is Non-Blocking i.e....
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[DominikTornow on Twitter]]
+:full-title: "Js Is Non-Blocking i.e...."
+:category: [[tweets]]
+:url: https://twitter.com/DominikTornow/status/1767626621488345579
+:image-url: https://pbs.twimg.com/profile_images/1298463326423277569/N2SAaljB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Js is non-blocking i.e. maps virtual threads to one single physical thread & doesn't block when a virtual thread awaits
+
+My toy runtime is blocking i.e. maps a virtual thread to a physical thread & blocks when a virtual thread awaits
+
+Blog post incoming
+
+https://t.co/kXSivvjDLk 
+
+![](https://pbs.twimg.com/media/GIfH6iFbkAEdrlh.jpg) 
+#+END_QUOTE\

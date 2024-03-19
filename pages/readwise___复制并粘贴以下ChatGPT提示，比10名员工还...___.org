@@ -1,0 +1,137 @@
+:PROPERTIES:
+:title: readwise/复制并粘贴以下ChatGPT提示，比10名员工还...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wanerfu on Twitter]]
+:full-title: "复制并粘贴以下ChatGPT提示，比10名员工还..."
+:category: [[tweets]]
+:url: https://twitter.com/wanerfu/status/1768465730113351918
+:image-url: https://pbs.twimg.com/profile_images/1695073712612016128/xjiHduPl.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+复制并粘贴以下ChatGPT提示，比10名员工还要高效：
+
+[🔖保存，日后可用] 
+
+![](https://pbs.twimg.com/media/GIraH-3bQAAPQTN.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+1. 增长个人发展能力
+
+提示：
+
+[描述您的个人发展目标和挑战]
+
+用GROW（目标，现实，选项，意愿）辅导模型，帮助我制定个人发展计划，实现目标。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465639923183616/pu/pl/XM6MUmEdPwVc4eiJ.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465639923183616/pu/vid/avc1/300x270/0dMfTinbDSZklWXQ.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465639923183616/pu/vid/avc1/400x360/W7_RHhbqs_9rXqtg.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465639923183616/pu/vid/avc1/800x720/DtvfmILHVrMwSWlG.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+2. 编写引人入胜的品牌故事
+
+提示：
+
+[插入商业或个人品牌描述]
+
+用英雄的旅程框架帮助我为我的品牌创造一个有力的品牌故事。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465647804280832/pu/pl/s99rtv9kq1leH9-i.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465647804280832/pu/vid/avc1/300x270/hEsyGO4QCOcWNV6R.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465647804280832/pu/vid/avc1/400x360/WKHNrglLSVa0wJ7Q.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465647804280832/pu/vid/avc1/800x720/Ypax204xksxq4kjE.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+3. 优化定价策略
+
+提示：
+
+用基于价值定价的方法指导我确定我的[产品或服务]的最佳定价策略。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465654825553920/pu/pl/fma8KDrOXrg0Vzqq.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465654825553920/pu/vid/avc1/300x270/tPFKYSW9Nt5_x_zK.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465654825553920/pu/vid/avc1/400x360/FakE1OB8jKURcYE1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465654825553920/pu/vid/avc1/800x720/t93yWtytQoAvq91t.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+4. 为会议做准备
+
+提示：
+
+我要和[受众]开会，讨论[议题]。帮助我准备潜在议题和相关信息。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465660911476736/pu/pl/omip7Wbj1-CyWopz.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465660911476736/pu/vid/avc1/300x270/bNp2PMNqizxPeZ5k.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465660911476736/pu/vid/avc1/400x360/HigJiny7lfQjAqPb.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465660911476736/pu/vid/avc1/800x720/Qy6ceTr7ds4xWyTH.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+5. McKinsey的7S框架
+
+提示：
+
+用7S框架分析[我的产品/业务]。
+
+我们的战略、结构、系统、共享价值观、技能、风格和员工能力有多么契合？ <video controls><source src="https://video.twimg.com/ext_tw_video/1768465667165212672/pu/pl/4G9i4GkUVEtwJ0Bm.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465667165212672/pu/vid/avc1/300x270/woqx2SpiijwR_Pai.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465667165212672/pu/vid/avc1/400x360/_UxhfYYWc3A7waW0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465667165212672/pu/vid/avc1/800x720/khnkNSnMG_6x_P1P.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+6. 制定成功的产品发布策略
+
+提示：
+
+[简要描述您的产品和目标受众]
+
+用产品发布公式指导我制定产品发布策略，以引起兴趣和销售。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465673251155968/pu/pl/xF3AXjiXVos-SCDE.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465673251155968/pu/vid/avc1/300x270/EJ1B24v2uTPT-TA3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465673251155968/pu/vid/avc1/400x360/fOWOk1ecdXNY9MrA.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465673251155968/pu/vid/avc1/800x720/DvtKheZpmji_a02U.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+7. 创新和改进产品或服务
+
+提示：
+
+用任务导向的框架，帮助我确定我[产品或服务]的改进领域。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465680171765760/pu/pl/yv8kAO1h9rkIoMVJ.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465680171765760/pu/vid/avc1/300x270/4fnh7VrsHzGqd505.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465680171765760/pu/vid/avc1/400x360/DB9TNq_S5Cs1AJp4.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465680171765760/pu/vid/avc1/800x720/mSkYRz2kkvKCOWiY.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+8. 业务分析
+
+提示：
+
+分析[行业]的现状，并描述其趋势、挑战和机遇。
+
+用相关的数据和统计数据支持您的分析。
+
+此外，提供业内的主要参与者的全面列表。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465687025184768/pu/pl/QIMol3I_E_TOaNnP.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465687025184768/pu/vid/avc1/300x270/fcPzGAHHvF_ric3w.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465687025184768/pu/vid/avc1/400x360/BAOhCqwTX0OaBqMn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465687025184768/pu/vid/avc1/800x720/1goBsOnRzAwhfJEb.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+9. 向您的商业偶像请教
+
+提示：
+
+我目前面临的情况是：[插入情况]。
+
+基于这些情况，[史蒂夫•乔布斯]会建议我做什么？ <video controls><source src="https://video.twimg.com/ext_tw_video/1768465693236944896/pu/pl/5qu79jlHV8yK1ySs.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465693236944896/pu/vid/avc1/300x270/2SWqTcKGmEGfSmIp.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465693236944896/pu/vid/avc1/400x360/rCNjJ2goGt-zgAnF.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465693236944896/pu/vid/avc1/800x720/l6IQSj54-w9t-uHJ.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+10. 制定有效的电子邮件市场营销活动
+
+提示：
+
+[简要描述目标受众和产品或服务]
+
+帮助我用客户价值旅程框架创建电子邮件市场营销活动。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465699461320704/pu/pl/O0-Ha_LmlyEGIX6V.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465699461320704/pu/vid/avc1/300x270/zJlyYDnV94XhfYdu.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465699461320704/pu/vid/avc1/400x360/CDbHeUutoImUCcDG.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465699461320704/pu/vid/avc1/800x720/J-2bLgn3mBbe9g9z.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+11. Cynefin框架
+
+提示：
+
+用Cynefin框架评估[我的产品/业务]面临的问题。
+
+它们是简单的、复杂的、复杂的、混乱的还是混乱的？ <video controls><source src="https://video.twimg.com/ext_tw_video/1768465705291358208/pu/pl/KWXgK6M-1F7gf59V.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465705291358208/pu/vid/avc1/300x270/zyk48sNy2vlNZaXu.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465705291358208/pu/vid/avc1/400x360/2O9VdMlYykwYY1-k.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465705291358208/pu/vid/avc1/800x720/dcfJ-BI5ukXfSeuT.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+12. 设定更好的目标
+
+提示：
+
+用SMART框架帮助我为[职业或个人目标]设定目标。 <video controls><source src="https://video.twimg.com/ext_tw_video/1768465711415132160/pu/pl/GaNWDp_MRXntGaJm.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768465711415132160/pu/vid/avc1/300x270/EihTohUtDZpb6J53.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465711415132160/pu/vid/avc1/400x360/-abyAnwN7XyKRqAj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768465711415132160/pu/vid/avc1/800x720/F9-uwwUNzu0iHLc8.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

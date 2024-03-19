@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: readwise/Simple and Scalable Stra...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[_akhaliq on Twitter]]
+:full-title: "Simple and Scalable Stra..."
+:category: [[tweets]]
+:url: https://twitter.com/_akhaliq/status/1768120590836060201
+:image-url: https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Simple and Scalable Strategies to Continually Pre-train Large Language Models
+
+Large language models (LLMs) are routinely pre-trained on billions of tokens, only to start the process over again once new data becomes available. A much more efficient solution is to continually 
+
+![](https://pbs.twimg.com/media/GImgTohW4AA6K-7.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+pre-train these models, saving significant compute compared to re-training. However, the distribution shift induced by new data typically results in degraded performance on previous data or poor adaptation to the new data. In this work, we show that a simple and scalable 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+combination of learning rate (LR) re-warming, LR re-decaying, and replay of previous data is sufficient to match the performance of fully re-training from scratch on all available data, as measured by final loss and language model (LM) evaluation benchmarks. Specifically, we 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+show this for a weak but realistic distribution shift between two commonly used LLM pre-training datasets (EnglishrightarrowEnglish) and a stronger distribution shift (EnglishrightarrowGerman) at the 405M parameter model scale with large dataset sizes (hundreds of 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+billions of tokens). Selecting the weak but realistic shift for larger-scale experiments, we also find that our continual learning strategies match the re-training baseline for a 10B parameter LLM. Our results demonstrate that LLMs can be successfully updated via simple 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+and scalable continual learning strategies, matching the re-training baseline using only a fraction of the compute. Finally, inspired by previous work, we propose alternatives to the 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+cosine learning rate schedule that help circumvent forgetting induced by LR re-warming and that are not bound to a fixed token budget. 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+paper page: https://t.co/dx8oqm95tC 
+#+END_QUOTE\

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/Miniflux 是真的省资源，一个完整的 RS...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[kwikkashikoma on Twitter]]
+:full-title: "Miniflux 是真的省资源，一个完整的 RS..."
+:category: [[tweets]]
+:url: https://twitter.com/kwikkashikoma/status/1768271293412151731
+:image-url: https://pbs.twimg.com/profile_images/1757787714647375872/ISd5wNF_.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Miniflux 是真的省资源，一个完整的 RSS 阅读器前端 + 后端，全部集成在一个 18MB 大小的二进制里。看看这运行内存占用，Node.js 开发者表示这根本是科幻片……
+
+https://t.co/6DHfHD5otO 
+
+![](https://pbs.twimg.com/media/GIooZa9b0AARr_3.jpg) 
+#+END_QUOTE\

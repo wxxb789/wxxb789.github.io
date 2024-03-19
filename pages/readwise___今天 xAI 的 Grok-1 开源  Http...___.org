@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/今天 xAI 的 Grok-1 开源  Http...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[indigo11 on Twitter]]
+:full-title: "今天 xAI 的 Grok-1 开源  Http..."
+:category: [[tweets]]
+:url: https://twitter.com/indigo11/status/1769518908418248909
+:image-url: https://pbs.twimg.com/profile_images/1521250220067098624/ZhlFfRWZ.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+今天 xAI 的 Grok-1 开源 
+https://t.co/klrY9EeI1Q
+一款拥有 314B 参数规模的 MoE 混合专家大语言模型
+开放了架构和权重数据 共 318.24GB 
+这个尺寸肯定没法在本地玩了😄 下载地址 https://t.co/E6l9VKJUnb
+
+为了 Understand the Universe 理念，看来团队特意把参数设定成了圆周率  314B，这是目前规模最大的开源模型，期待今年六月的 Llama 3 加入 Grok 的开源争霸战。
+
+Tesla 开放的技术与供应链推动了全球特别是中国 EV 进步，现在 xAI 应该能继续推工国产大模型的创新了🤔
+
+![](https://pbs.twimg.com/media/GI6X6-qaoAABs99.png) 
+#+END_QUOTE\

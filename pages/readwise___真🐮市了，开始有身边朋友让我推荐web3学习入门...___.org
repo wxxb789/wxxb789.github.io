@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/真🐮市了，开始有身边朋友让我推荐web3学习入门...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[rubywxt1 on Twitter]]
+:full-title: "真🐮市了，开始有身边朋友让我推荐web3学习入门..."
+:category: [[tweets]]
+:url: https://twitter.com/rubywxt1/status/1767892287454150777
+:image-url: https://pbs.twimg.com/profile_images/1590715336692621312/H7UAIdfM.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+真🐮市了，开始有身边朋友让我推荐web3学习入门材料了。
+
+所以大家一般会给新手推荐什么入门的书/播客/视频频道？🤔 
+#+END_QUOTE\

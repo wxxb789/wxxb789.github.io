@@ -1,0 +1,68 @@
+:PROPERTIES:
+:title: readwise/《如果你有一个朋友想了解Web3和区块链》👇🔗...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[rubywxt1 on Twitter]]
+:full-title: "《如果你有一个朋友想了解Web3和区块链》👇🔗..."
+:category: [[tweets]]
+:url: https://twitter.com/rubywxt1/status/1769560189995549146
+:image-url: https://pbs.twimg.com/profile_images/1590715336692621312/H7UAIdfM.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+《如果你有一个朋友想了解Web3和区块链》👇🔗
+https://t.co/gB3qY0JRxc
+
+牛市来了，根据上周热心网友们的回复，我和 [starzqeth](https://twitter.com/starzqeth) 
+结合自己平时整理的一些资料，收录在这篇文章里
+
+所有推荐的书本和材料在文中都附上链接，还搜罗了几份不好找的pdf文档供读者下载（在原文中找到惊喜）
+
+欢迎大家推荐和转发【Web3brand Newsletter】给更多需要的人，以便分布式保存
+
+希望让新手上路实践之前有一定的了解，尽量少踩坑
+进阶分为 6 个部分：
+1⃣️扫盲科普
+2⃣️经典必读
+3⃣️投资与囤币
+4⃣️安全第一
+5⃣️娱乐万岁
+6⃣️仓都加错（最好不要）
+
+1⃣️-4⃣️如果对你来说过于严肃，千万读下去5⃣️和6⃣️😂
+
+无论你是在web3之旅的哪个阶段，希望你的2024拥有崭新的收获！
+
+![](https://pbs.twimg.com/media/GI65-b5aIAAok54.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+接上条感谢分享和被大家提名的推友，鞠躬🙇‍♀️
+（排名不分先后😂文章中我也尽量附上了）
+[DJWZ](https://twitter.com/DJWZ) 
+[0xkookoo](https://twitter.com/0xkookoo) 
+[anymose96](https://twitter.com/anymose96) 
+[Web3YeSiChen](https://twitter.com/Web3YeSiChen) 
+[nigdaemon](https://twitter.com/nigdaemon) 
+[cwweb3](https://twitter.com/cwweb3) 
+[hu_zhiwei](https://twitter.com/hu_zhiwei) 
+[nexteacc](https://twitter.com/nexteacc) 
+[Will_7th](https://twitter.com/Will_7th) 
+[evilcos](https://twitter.com/evilcos) 
+[SlowMist_Team](https://twitter.com/SlowMist_Team) 
+[OneKeyCN](https://twitter.com/OneKeyCN) 
+[PANewsCN](https://twitter.com/PANewsCN) 
+[PANewsLab](https://twitter.com/PANewsLab) 
+[tongtongbee](https://twitter.com/tongtongbee) 
+[Rubywangh](https://twitter.com/Rubywangh) 
+[GlacierLuo](https://twitter.com/GlacierLuo) 
+[DARTERETH](https://twitter.com/DARTERETH) 
+[ChainFeedsxyz](https://twitter.com/ChainFeedsxyz) 
+[nake13](https://twitter.com/nake13) 
+[yjyq_xcys](https://twitter.com/yjyq_xcys) 
+#+END_QUOTE\

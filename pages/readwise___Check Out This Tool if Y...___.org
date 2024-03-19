@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/Check Out This Tool if Y...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[orhunp_ on Twitter]]
+:full-title: "Check Out This Tool if Y..."
+:category: [[tweets]]
+:url: https://twitter.com/orhunp_/status/1767971568213241954
+:image-url: https://pbs.twimg.com/profile_images/1733147887771480064/2HXaEtFs.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+Check out this tool if you want to do API testing in your terminal! 🔥
+
+✨ slumber: Terminal-based REST client.
+
+🚀 Define, execute, and share configurable HTTP requests.
+🔒 All configuration and data is stored locally.
+🦀 Written in Rust & built with [ratatui_rs](https://twitter.com/ratatui_rs) 
+
+⭐ GitHub: https://t.co/Jipmyz7nH7
+📚 Docs: https://t.co/JSgcowhwqg
+
+#rustlang #ratatui #http #rest #api #testing #terminal<video controls><source src="https://video.twimg.com/tweet_video/GIkYeJlWcAAtoD3.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

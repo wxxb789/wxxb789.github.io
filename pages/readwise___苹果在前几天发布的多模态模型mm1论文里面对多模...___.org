@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/苹果在前几天发布的多模态模型mm1论文里面对多模...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "苹果在前几天发布的多模态模型mm1论文里面对多模..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1769187135213719765
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+苹果在前几天发布的多模态模型MM1论文里面对多模态模型训练的过程和参数写的异常详细。
+
+现在都反过来了，以前开放的不再开放，以前封闭的现在变得开放了。
+
+论文中不仅深入讨论了众多架构设计，还透露了他们使用了由GPT-4V生成的数据进行训练。
+
+更令人惊讶的是，他们提供了非常精确的缩放律系数（scaling law coefficients）（精确到四位有效数字）、混合专家设置（MoE settings），甚至是最优学习率函数（optimal learning rate functions）的详细信息。 
+#+END_QUOTE\

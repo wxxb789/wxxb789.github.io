@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/今天 HackerNews 上最火的网站是这个：...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "今天 HackerNews 上最火的网站是这个：..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1768452277600387161
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+今天 HackerNews 上最火的网站是这个：
+
+https://t.co/3392AUJE86
+
+用一个Excel 表格来学习 ChatGPT 的工作原理，不用写任何代码，配有三个Youtube 视频，非常形象。
+
+最让人震惊的是它用 Excel 实现了一个简易的 GPT2，可以下载：不过特别大，有 1.25 个G，大家如果感兴趣可以试试看。
+
+Excel… 
+
+![](https://pbs.twimg.com/media/GIrN602bMAAjtZ_.jpg) 
+#+END_QUOTE\

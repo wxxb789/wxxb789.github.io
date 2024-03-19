@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/哈喽，大家好👋，我是 @Cellinlab，Li...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cellinlab on Twitter]]
+:full-title: "哈喽，大家好👋，我是 @Cellinlab，Li..."
+:category: [[tweets]]
+:url: https://twitter.com/cellinlab/status/1769719859926220995
+:image-url: https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-19]]
+#+BEGIN_QUOTE
+哈喽，大家好👋，我是 [cellinlab](https://twitter.com/cellinlab)，Like cell in the lab，像实验室里的细胞一样🧬，遵循第一原理🔬、追求创新的可重组与可复制性✨，以及深入拆解以洞察事物本质的思考方式🤔。(可以在全网都可以通过 Cellinlab 这个 ID 找到我🌐)
+
+在做的事：通过分享海量自由职业者案例和方法📖，让更多人看见👀、相信💪、成为独立工作者🚀，做超级个体🌟。正如细胞通过分裂复制自身，促进生命的持续和扩展🌱，我希望分享的有效模式和思维方法能够被更多人复制和应用🔄，帮助他们实现自我增长和发展📈。
+
+同时，也在尝试成为一名 super linker🔗，削弱信息差🧩，促进系统效率提高。就像细胞之间通过信号传递和物质交换，维持生命活动的高效和有序一样。如果你对此感兴趣，欢迎联系我📩，说出你的资源和需求。
+
+📚福利：为帮助大家高效地、科学地成长为一名独立工作者，做超级个体，整理了一些参考书单。 （其中，『一人公司』操作手册书单，根据 [ericyangpan](https://twitter.com/ericyangpan) 老师 2022 年终书单总结整理，在此致谢🥰）
+
+🎉为庆祝粉丝数破3k，关注+点赞👍or 转发🔄，抽20个『流量密码研学笔记』付费群权益！🎉
+#独立开发 #一人公司 #超级个体 #自由职业
+
+![](https://pbs.twimg.com/media/GI9OyWvaYAAe2zn.jpg) 
+#+END_QUOTE\

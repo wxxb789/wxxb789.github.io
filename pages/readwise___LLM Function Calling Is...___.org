@@ -1,0 +1,89 @@
+:PROPERTIES:
+:title: readwise/LLM Function Calling Is...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[imaurer on Twitter]]
+:full-title: "LLM Function Calling Is..."
+:category: [[tweets]]
+:url: https://twitter.com/imaurer/status/1768386947360145429
+:image-url: https://pbs.twimg.com/profile_images/1668308062975799326/cFMXSMn6.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+LLM Function calling is a simple way to generate and extract structured data.
+
+[pydantic](https://twitter.com/pydantic) makes it easy to specify structured formats via it's JSON schema functionality.
+
+Today I released FuzzTypes, a library for creating custom annotation types that "autocorrect" data. 
+
+![](https://pbs.twimg.com/media/GIqJUhhWwAArZsz.jpg) 
+
+![](https://pbs.twimg.com/media/GIqJWIwXoAAJscx.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+The library provides a set of example "usable" types that can be added directly to your Pydantic classes. 
+
+![](https://pbs.twimg.com/media/GIqKFkCWsAAS3G8.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+More importantly, FuzzTypes provides a set of "base types" for creating your own annotation types. 
+
+![](https://pbs.twimg.com/media/GIqKVBzXEAAEAgn.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Some examples of how to define your own custom types can be seen below. 
+
+![](https://pbs.twimg.com/media/GIqQgCaW4AA7foU.png) 
+
+![](https://pbs.twimg.com/media/GIqQhsuXsAAp-bh.png) 
+
+![](https://pbs.twimg.com/media/GIqQjfQWQAAqWuj.jpg) 
+
+![](https://pbs.twimg.com/media/GIqQkyDWMAEzDZq.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Named Entity types are useful for large ontologies of data (high cardinality). 
+
+Such information that currently doesn't fit within the context window of the function calling capability. 
+
+![](https://pbs.twimg.com/media/GIqQ_wPXQAAuEu2.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Exceptions are thrown with "closest non-matches" for fuzzy or similarity based searches. 
+
+This information can be used by projects like [jxnlco](https://twitter.com/jxnlco) 's instructor that retry function calls with [pydantic](https://twitter.com/pydantic) validation errors in an effort to "steer" it. 
+
+![](https://pbs.twimg.com/media/GIqRsUXXEAAgIfD.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+New usable types are on the roadmap to make it easy to add common data elements like currencies, countries and quantities (measurements + units). 
+
+![](https://pbs.twimg.com/media/GIqSVFDWIAA1Pg9.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Dependencies are all optional and lazily imported to minimize weight of the project and maximize code startup speed. 
+
+![](https://pbs.twimg.com/media/GIqPi67WgAAmzwf.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+Check out the github repo here:
+https://t.co/HNdtueyXeS 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+There is a google colab notebook that can tried out without having to install locally:
+https://t.co/kDHYgy3Uft 
+#+END_QUOTE\

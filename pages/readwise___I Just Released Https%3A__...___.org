@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/I Just Released Https:__...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[teivah on Twitter]]
+:full-title: "I Just Released Https://..."
+:category: [[tweets]]
+:url: https://twitter.com/teivah/status/1768050471078359044
+:image-url: https://pbs.twimg.com/profile_images/1694094008572624896/v9mc3Nlf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+I just released https://t.co/IQsOJp1wyv : a Go library for handling LFU cache operations in O(1). #golang 
+
+How does it work?
+
+The cache stores:
+\- Each item in a map
+- A linked list to store the frequencies (squares)
+- Each frequency references another linked list containing the items (circles)
+
+Upon each get operation, we either:
+- Create a new frequency node if the frequency + 1 didn't exist (e.g., `Get(5)` creates a new linked list for `6`)
+- Or we reuse an existing node (e.g., `Get(1)` reuses `2`)
+
+Then, we move the item (circle) to the right frequency linked list (square):
+- It means either creating a new linked list with one item
+- Or adding the item to the end of an existing linked list.
+
+Whitepaper: https://t.co/YhE5WEeVP3
+
+![](https://pbs.twimg.com/media/GIleUmLWoAAaBZC.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+I found the idea from https://t.co/WHoPkAcoBL.
+It makes me want to delve more into tech papers and have fun in whatever language (yes, I still need to practice my Hashell!) 
+#+END_QUOTE\

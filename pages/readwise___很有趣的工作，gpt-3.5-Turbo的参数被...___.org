@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/很有趣的工作，gpt-3.5-Turbo的参数被...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[realrenmin on Twitter]]
+:full-title: "很有趣的工作，gpt-3.5-Turbo的参数被..."
+:category: [[tweets]]
+:url: https://twitter.com/realrenmin/status/1769471484643180572
+:image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+很有趣的工作，gpt-3.5-turbo的参数被估算为大约7B。这个数字如果真实，那么 1）“小”模型的潜力十分巨大，不止微软在做小模型，OpenAI也在做小模型，或许其他公司也在做！2）OpenAI的调优能力太强大 3）一切认为ChatGPT大于100B的paper，都需要被重新评估，一些20B，40B的模型跟7B的ChatGPT比较已不再公平。 
+#+END_QUOTE\

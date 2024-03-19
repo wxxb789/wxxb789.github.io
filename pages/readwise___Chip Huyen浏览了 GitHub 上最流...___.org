@@ -1,0 +1,143 @@
+:PROPERTIES:
+:title: readwise/Chip Huyen浏览了 GitHub 上最流...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Chip Huyen浏览了 GitHub 上最流..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1768468535066706417
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+Chip Huyen浏览了 GitHub 上最流行的 AI 存储库，对它们进行了分类，并研究了它们的增长轨迹。以下是一些学习内容：
+
+1. GitHub 上有 845 个具有至少 500 颗星的生成式 AI 存储库。它们是由超过 20,000 名开发人员贡献的，做出了近百万次提交。
+
+2.我将AI堆栈分为四层：应用程序、应用程序开发、模型开发和基础设施。
+应用程序和应用程序开发层在 2023 年增长最快。
+基础设施层或多或少保持不变。
+增长最快的一些类别包括人工智能接口、推理优化和即时工程。
+
+3. 局势在 2022 年底爆发，但自 2023 年 9 月以来似乎已经平静下来。
+
+4. 虽然大公司仍然占据主导地位，但个人托管的流行软件有所增加。一些人猜测很快就会出现价值数十亿美元的单人公司。
+
+5、中国的开源生态正在快速发展。拥有最受欢迎的人工智能存储库的 20 个 GitHub 帐户中有 6 个来自中国，其中两个来自清华大学，两个来自上海人工智能实验室。
+
+![](https://pbs.twimg.com/media/GIrcuP9acAAnfff.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+原作者：[chipro](https://twitter.com/chipro)
+原文：https://t.co/A5bd2ebfnW 
+
+![](https://pbs.twimg.com/media/GIrc5ObaAAA1lDo.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+[chipro](https://twitter.com/chipro) 应用领域
+
+毫不奇怪，最流行的应用程序类型是编码、机器人（例如角色扮演、WhatsApp 机器人、Slack 机器人）和信息聚合（例如“让我们将其连接到我们的 Slack 并要求它每天总结消息”）。 
+
+![](https://pbs.twimg.com/media/GIrc_dHaAAAAJ2W.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+AI engineering 人工智能工程
+
+2023 年是人工智能工程年。由于其中许多工具都很相似，因此很难对这些工具进行分类。我目前把它们分为以下几类：提示工程、AI接口、Agent和AI工程（AIE）框架。
+即时工程不仅仅是摆弄提示，还涵盖约束采样（结构化输出）、长期内存管理、即时测试和评估等内容。
+
+AI 界面为您的最终用户提供与您的 AI 应用程序交互的界面。这是我最兴奋的类别。一些越来越受欢迎的界面是：
+
+\-网络和桌面应用程序。
+-浏览器扩展，让用户在浏览时快速查询 AI 模型。
+-通过 Slack、Discord、微信和 WhatsApp 等聊天应用程序进行机器人。
+
+允许开发人员将 AI 应用程序嵌入到 VSCode、Shopify 和 Microsoft Offices 等应用程序中的插件。插件方法对于可以使用工具（代理）完成复杂任务的人工智能应用程序来说很常见。
+
+AIE 框架是所有帮助您开发 AI 应用程序的平台的统称。其中许多都是围绕 RAG 构建的，但许多还提供其他工具，例如监控、评估等。
+
+代理是一个奇怪的类别，因为许多代理工具只是复杂的提示工程，具有潜在的受限生成（例如模型只能输出预定的操作）和插件集成（例如让代理使用工具）。
+
+![](https://pbs.twimg.com/media/GIrdTAka4AAOaO5.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+[chipro](https://twitter.com/chipro) 开源人工智能开发者
+
+与许多事物一样，开源软件遵循长尾分布。少数账户控制着大部分回购协议。
+
+一人公司的崛起
+
+845 个存储库托管在 594 个独特的 GitHub 帐户上。有 20 个帐户至少有 4 个回购协议。这 20 个排名前 20 的账户托管着 195 个存储库，占列表中所有存储库的 23%。这 195 个仓库总共获得了… 
+
+![](https://pbs.twimg.com/media/GIrdbp4b0AA65I6.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+在 Github 上，帐户可以是组织，也可以是个人。 19/20 的顶级帐户是组织。其中，3 个属于 Google： google-research 、 google 、 tensorflow 。
+
+这前 20 名账户中唯一的个人账户是 lucidrains。星数最多的前 20 个账户中（仅算 gen AI 仓库），个人账户有 4 个：
+
+lucidrains (Phil Wang)：能够以惊人的速度实现最先进的模型。
+
+格尔加诺夫（Georgi Gerganov）：物理出身的优化大神。
+
+Illyasviel（张柳民）：Foocus 和 ControlNet 的创建者，目前是斯坦福大学博士。
+
+xtekky：创建 gpt4free 的全栈开发人员。
+
+![](https://pbs.twimg.com/media/GIrdkSFbsAA9COS.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+不断发展的中国开源生态系统
+
+长期以来，人们都知道中国的人工智能生态系统与美国存在分歧（我在 2020 年的一篇博文中也提到过这一点）。当时我的印象是 GitHub 在中国没有得到广泛使用，而我当时的看法可能是受到 2013 年中国对 GitHub 的禁令的影响。
+
+然而，这种印象已不再正确。 GitHub 上有很多很多针对中国受众的流行人工智能存储库，因此它们的描述都是用中文编写的。有针对中文或中文+英文开发的模型的存储库，例如 Qwen、ChatGLM3、Chinese-LLaMA。
+
+虽然在美国，许多研究实验室已经放弃了语言模型的 RNN 架构，但基于 RNN 的模型系列 RWKV 仍然很受欢迎。
+
+还有一些人工智能工程工具提供了将人工智能模型集成到微信、QQ、钉钉等中国流行产品中的方法。许多流行的提示工程工具也有中文镜像。
+
+GitHub 上排名前 20 的账户中，有 6 个来自中国：
+
+THUDM：清华大学知识工程组（KEG）和数据挖掘。
+OpenGVLab：上海人工智能实验室通用视觉团队
+OpenBMB：大模型库开放实验室，由ModelBest和清华大学自然语言处理团队共同创立。
+InternLM：来自上海AI实验室。
+OpenMMLab：来自香港中文大学。
+QwenLM：阿里巴巴的人工智能实验室，发布了Qwen模型家族。 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+活得快，死得早
+我去年看到的一种模式是，许多协议很快获得了大量关注，然后又很快消失。我的一些朋友称之为“炒作曲线”。在这 845 个拥有至少 500 个 GitHub star 的仓库中，有 158 个仓库 (18.8%) 在过去 24 小时内没有获得任何新星，37 个仓库 (4.5%) 在上周没有获得任何新星。
+
+以下是两个此类存储库的增长轨迹与两个更持续的软件的增长曲线相比的示例。尽管这里显示的这两个示例已不再使用，但我认为它们对于向社区展示可能性很有价值，而且作者能够如此快速地把东西拿出来真是太酷了。
+
+![](https://pbs.twimg.com/media/GIrd_gXbwAANpND.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+[chipro](https://twitter.com/chipro) 我个人最喜欢的想法
+
+社区正在开发许多很酷的想法。这是我最喜欢的一些。
+
+批量推理优化：FlexGen、llama.cpp
+
+使用 Medusa、LookaheadDecoding 等技术实现更快的解码器
+模型合并：mergekit
+
+约束采样：大纲、指南、SGLang
+
+看似小众的工具可以很好地解决一个问题，例如 einops 和 safetensors。 
+#+END_QUOTE\

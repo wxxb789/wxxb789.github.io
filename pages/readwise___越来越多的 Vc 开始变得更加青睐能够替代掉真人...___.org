@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise/越来越多的 Vc 开始变得更加青睐能够替代掉真人...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "越来越多的 Vc 开始变得更加青睐能够替代掉真人..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1768514538830488008
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+越来越多的 VC 开始变得更加青睐能够替代掉真人员工的 AI 员工产品。
+
+👇下面是一些在2024年获得投资的这类公司及其累计融资金额：
+
+软件工程师 - Cognition：超过2100万美元
+软件工程师 - Magic：超过1.45亿美元
+产品经理 - Version Lens：160万美元
+数据科学家 - TextQL：410万美元
+数据分析师 - Fluent：750万美元
+首席执行官助理 - Mindy：600万美元
+通用员工 - Ema：2500万美元
+财务分析师 - Finpilot：450万美元
+财务分析师 - Rogo：750万美元
+合规部门 - Norm Ai：1110万美元
+前台接待 - Arini：50万美元
+贷款官 - Casca：390万美元
+酒店礼宾 - Runnr：120万美元
+设计师 - SevnAI：50万美元
+客户支持 - Sierra：1.1亿美元
+客户支持 - Rasa：7000万美元 
+#+END_QUOTE\

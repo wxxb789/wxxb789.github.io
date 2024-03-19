@@ -1,0 +1,102 @@
+:PROPERTIES:
+:title: readwise/I Spent the Last 2 Weeks...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[SullyOmarr on Twitter]]
+:full-title: "I Spent the Last 2 Weeks..."
+:category: [[tweets]]
+:url: https://twitter.com/SullyOmarr/status/1767929988995518616
+:image-url: https://pbs.twimg.com/profile_images/1550142055854141440/iA_vPg8D.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+I spent the last 2 weeks testing all the top models like  GPT4, Claude, Mistral, Cohere, Gemini in various areas like:
+
+\- Long context RAG
+- Latency
+- Reasoning
+- Coding
+- Writing
+
+Here's a detailed breakdown of the 6-7 best LLMs on the market, their strengths, and optimal use cases:
+
+The "Big Boy" Class Models
+
+GPT-4 Turbo 
+The workhorse. Still the best all-around model for price/performance/latency I use GPT-4 for its reliability in: 
+- Tools (handles complex schemas)
+- Structured output JSONs
+
+With Opus, GPT-4 isn't the clear winner anymore, but it's still powerful due to its developer experience, so stuff like assistant API, docs, GPTs, tutorials, etc.
+It's easy to use and rarely fails for 99% of tasks. Also priced decently at $30/1m input tokens, and has decent latency. 
+
+Claude-3 Opus
+Probably the best "generalist" model (beats GPT-4). Opus requires minimal prompting for human-like outputs. GPT-4 can be extremely robotic, but Claude fixes this.
+
+Opus excels at writing, ideation, and general creativity. I'd choose it over any model for these sort of tasks.
+
+For coding, it's on par with GPT-4 but not worth swapping everything over on the API because its a bit too expensive
+
+Long Context, PDFs, Papers: 
+Opus shines here (via Claude's site). Its 200k context and great reasoning make it perfect for analyzing papers, GitHub repos, and PDFs.
+
+With full context, it makes connections across different areas and deeply understands topics in ways I didn't think possible with LLMs. The only downside is the API cost ($15/1m input + $70/1m output), making it hard to use in production.
+
+Claude-3 Sonnet
+An underrated model. Not as smart as Opus but a great workhorse for medium-level reasoning and long context. I use Sonnet for long-form content writing, data cleaning, structuring, and restructuring.
+
+It's also good at web search + answering (rarely hallucinates). A great option between GPT-3.5 and GPT-4 Turbo. Cheaper than Opus and GPT-4, and its coding is good enough for DIY code interpretation and debugging and other tasks that routinely need 5k+ tokens per execution.
+
+Gemini Pro 1.5
+The most powerful model I've used purely for its breadth of ability + how creative you can get with it..
+
+The 1m context with nearly perfect recall is unreal. It outperforms Opus, Sonnet, and GPT-4 in all my RAG tests.
+
+In one example, I uploaded 3 videos and asked for structured JSONs with pros, cons, sentiment, price, (and few other fields). It was able to distinguished between the 3 videos and returned an array of data for all 3
+
+It can also process video (no audio) and break down over 2 hours of footage by the minute almost perfectly. An extremely powerful model that will change the space once generally available. I see more agent workflows becoming possible with this.
+
+Mistral Large (and Mistral Medium)
+I haven't been too impressed with Mistral Large due to its pricing ($24/1m input tokens). It's a great model but not better than GPT-4 or Opus, and not worth the price. However, Medium is a actually quite good for the price/performance .
+
+Medium scores very similarly to Large on LMSys evals and like  Sonnet, it's underrated. Particularly useful for function calling and coding while being cheaper than GPT-4. It's much better at structured outputs than  than Sonnet, with a simpler API (Claude's can be a bit all over the place for tools).
+
+The downside is that Mistral models are all 32k context, while Claude is 200k. Either way medium is solid.
+
+The "Broke Boy" Class Models
+
+Cohere Command R
+A very good 128k context alternative to GPT-3.5 that supports RAG out of the box. It's better at long-form retrieval + output at basically the same price as GPT-3.5 and Mistral.
+
+Im planning on using it a lot for long-form "dumb tasks" requiring multiple iterations and handling large chunks of text. It's pretty good as a chunker for large PDFs to perform recursive summaries.
+
+Fireworks and  Together Mixtral
+
+I've been using Mixtral quite a bit, and to my surprise, it's the fastest available model with slightly better than GPT-3.5 performance.
+
+Especially from Fireworks, I'm getting almost 300 tok/s. These models aren't great at function calling but are perfect for ~10-30k context summaries + extractions. You can throw 100+ calls, and they'll finish in < 10s due to their speed (depends on context). Highly reccomend if you’re looking to optimize price to perf. Dont use it for reasoning/difficult tasks though
+
+Groq Mixtral 
+Same as Fireworks but even faster. Not much else to add until their API has higher limits.
+
+TLDR:
+Opus for creative writing and research analysis & planning (coding if you can afford it)
+
+GPT-4 Turbo for function calling, coding (cheaper), and structured outputs that require reasoning
+
+Sonnet for heavier workloads involving long context and medium reasoning
+
+Mistral Medium for an "in-between GPT-3.5 and GPT-4" tool calling
+
+Gemini 1.5 (I would swap a lot out, but it's not usable for public use)
+Mixtral (Fireworks, Groq, etc.): For lightning-fast LLM calls for relatively basic tasks
+
+Command R: Great for cheap, RAG-optimized workloads. Performs well with 50-100k tokens and answering based on that (outperforms GPT-3.5 and Mixtral)
+
+I'll wrap it up here, but I have a lot more to add on the developer/product-building side (since I'm trying to optimize performance). Didn't want to make this too long. 
+#+END_QUOTE\

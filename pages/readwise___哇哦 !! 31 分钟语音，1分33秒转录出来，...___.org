@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/哇哦 !! 31 分钟语音，1分33秒转录出来，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "哇哦 !! 31 分钟语音，1分33秒转录出来，..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1767936695725326360
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+哇哦 !! 31 分钟语音，1分33秒转录出来，这个 Whisper 变种，值得分享下
+
+insanely fast whisper, T4 卡，时间浓缩30倍。
+
+我用 Dji Mic2 录了一整天办公室的对话，到家就接上 Colab 把 8 小时的内容，集中用 20分钟全部转录出来
+
+听听有没有人在背后说我坏话，哈哈哈哈哈… 
+
+![](https://pbs.twimg.com/media/GIj4l64WMAE9Cwh.png) 
+
+![](https://pbs.twimg.com/media/GIj4tX3XoAAJVib.png) 
+#+END_QUOTE\

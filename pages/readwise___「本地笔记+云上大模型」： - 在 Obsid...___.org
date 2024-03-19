@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/「本地笔记+云上大模型」： - 在 Obsid...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[bluebird0605 on Twitter]]
+:full-title: "「本地笔记+云上大模型」： - 在 Obsid..."
+:category: [[tweets]]
+:url: https://twitter.com/bluebird0605/status/1769336869672886356
+:image-url: https://pbs.twimg.com/profile_images/1768664578270044160/rq7De66Q.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+「本地笔记+云上大模型」：
+
+\- 在 Obsidian 里安装 Copilot 插件 https://t.co/RxTEdmtbNl；
+- 通过 Openrouter 接入数十个开源或商业模型 https://t.co/vbWInMdGZi；
+- 整理笔记的过程变成了对话、问答的过程，也是和大模型共同思考的过程；
+
+只可惜还无法在手机上运行。 
+
+![](https://pbs.twimg.com/media/GI3ydKdaEAAzavW.png) 
+#+END_QUOTE\

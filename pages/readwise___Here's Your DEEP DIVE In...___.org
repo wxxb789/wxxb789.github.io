@@ -1,0 +1,101 @@
+:PROPERTIES:
+:title: readwise/Here's Your DEEP DIVE In...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[itsandrewgao on Twitter]]
+:full-title: "Here's Your DEEP DIVE In..."
+:category: [[tweets]]
+:url: https://twitter.com/itsandrewgao/status/1769447551374156097
+:image-url: https://pbs.twimg.com/profile_images/1665531358851092485/qItXwa52.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+here's your DEEP DIVE into [grok](https://twitter.com/grok)'s architecture!
+I just went through the https://t.co/8Y5cjeImg6, for this 314B open source behemoth with *no strings attached*.
+
+👇🧵 
+
+![](https://pbs.twimg.com/media/GI5XKaja8AAD_Cn.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+[grok](https://twitter.com/grok) 1. Basics:
+314 B, mixture of 8 experts (2 active)
+86B active parameters
+
+It's using Rotary Embeddings #rope instead of fixed positional embeddings 
+
+📜👇👇 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+[grok](https://twitter.com/grok) 2. 
+tokenizer vocab size: 131,072 (similar to GPT-4) 2^17 btw
+embedding size: 6,144 (48*128)
+
+64 transformer layers (sheesh)
+Each layer has a decoder layer: Multihead attention block and denseblock
+Key value size : 128
+
+👇👇👇 not done yet 
+
+![](https://pbs.twimg.com/media/GI5YFPna4AAg55p.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+3.
+
+Multihead Attention block:
+there are 48 heads for queries
+and 8 for keys/values (KV)
+KV size is 128
+
+the Dense block (dense feedforward block):
+widening factor: 8
+hidden layer size is 32768
+
+2 experts out of 8 selected per token.
+
+👇👇👇📜 
+
+![](https://pbs.twimg.com/media/GI5Y14TbUAAUr5J.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+4.
+rotary positional embeddings size 6144, which makes sense, it's the same as the model's input embedding size
+
+Context length: 8,192 tokens
+precision bf16
+
+👇👇👇👇✅ 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+there's something in here about 8bit quantization for the weights but i'm not an expert on this so cc [erhartford](https://twitter.com/erhartford) for his opinion
+
+also, follow me for more coverage on [grok](https://twitter.com/grok) 
+
+![](https://pbs.twimg.com/media/GI5ZfNwa0AAle9c.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+Grok vs other #OpenSource LLMs 
+
+![](https://pbs.twimg.com/media/GI5chxFa8AAK788.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+TLDR: https://t.co/n4r4myKguX 
+
+![](https://pbs.twimg.com/media/GI5erE-bMAA9AtW.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-18]]
+#+BEGIN_QUOTE
+Follow me if you're interested in more! including a breakdown of what all this means 
+#+END_QUOTE\

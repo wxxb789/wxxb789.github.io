@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/GitHub今天又涨了1000多星的爆火开源项目...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[knowledgefxg on Twitter]]
+:full-title: "GitHub今天又涨了1000多星的爆火开源项目..."
+:category: [[tweets]]
+:url: https://twitter.com/knowledgefxg/status/1768946866454933968
+:image-url: https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+GitHub今天又涨了1000多星的爆火开源项目：《Hello 算法》⬇️
+本项目旨在打造一本开源免费、新手友好的数据结构与算法入门教程。
+全书采用动画图解，内容清晰易懂、学习曲线平滑，引导初学者探索数据结构与算法的知识地图。制作精良，持续更新！
+GitHub：https://t.co/WgqyFa8sIX
+官网：https://t.co/Pxr2DrtKk5<video controls><source src="https://video.twimg.com/ext_tw_video/1768946800763744256/pu/pl/Lqiss2q4fhfArBWo.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1768946800763744256/pu/vid/avc1/510x270/c2a4pUMDD3KPMQLt.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768946800763744256/pu/vid/avc1/680x360/Y-1pdkpZTAYJ6hW7.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1768946800763744256/pu/vid/avc1/1362x720/YTWx6SauMVqatbLv.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

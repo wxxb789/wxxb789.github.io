@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/Writing This Piece Has B...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[DominikTornow on Twitter]]
+:full-title: "Writing This Piece Has B..."
+:category: [[tweets]]
+:url: https://twitter.com/DominikTornow/status/1768736426886402091
+:image-url: https://pbs.twimg.com/profile_images/1298463326423277569/N2SAaljB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-17]]
+#+BEGIN_QUOTE
+Writing this piece has been enlightening, though I'm admittedly running on fumes😭
+
+https://t.co/xXDKziSdns 
+
+![](https://pbs.twimg.com/media/GIvMQ8xbMAAfhUF.jpg) 
+#+END_QUOTE\

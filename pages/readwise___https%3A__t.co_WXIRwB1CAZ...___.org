@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/https:__t.co_WXIRwB1CAZ...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[sun0225SUN on Twitter]]
+:full-title: "https://t.co/WXIRwB1CAZ..."
+:category: [[tweets]]
+:url: https://twitter.com/sun0225SUN/status/1768406121390408037
+:image-url: https://pbs.twimg.com/profile_images/1768837225255727104/wn7N6te4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+https://t.co/WXIRwB1CAZ
+万推，这种短视频下载工具是怎么做到的？🤔
+我的思路是写爬虫，但是这么多平台要适配，还要解决各种反爬，太难了吧🤡 
+
+![](https://pbs.twimg.com/media/GIqj6y3bUAA9GcB.jpg) 
+#+END_QUOTE\

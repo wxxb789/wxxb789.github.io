@@ -1,0 +1,50 @@
+:PROPERTIES:
+:title: readwise/如果你对独立开发感兴趣，9.9加群，一起来交流，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[i5ting on Twitter]]
+:full-title: "如果你对独立开发感兴趣，9.9加群，一起来交流，..."
+:category: [[tweets]]
+:url: https://twitter.com/i5ting/status/1768533914593947773
+:image-url: https://pbs.twimg.com/profile_images/1753993281074339840/zs5sSccl.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+如果你对独立开发感兴趣，9.9加群，一起来交流，协作，解答疑问，编写独立开发者最佳实践。https://t.co/Z72AS7cI92
+
+覆盖8个技术栈和6个场景。
+
+8大技术栈
+
+1、node（基础）
+2、astro（基础）
+3、react（基础）
+4、tailwind（基础）
+5、mdx（基础）
+6、next（进阶）
+7、remix（进阶）
+8、shadcn/ui（进阶）
+
+6大场景
+
+\- 快速建站
+- 写文档
+- 建博客
+- 加订单、支付
+- 集成服务，clark、supabase等
+- 开发完整saas
+
+玩起来。
+加我vx：pianyishishu。限10人。满了就删
+
+种一棵树最好的时间是现在，其次是十年前。 
+#+END_QUOTE\
+** 📌 [[2024-03-15]]
+#+BEGIN_QUOTE
+人已经满了，想来的就继续加吧， 
+#+END_QUOTE\

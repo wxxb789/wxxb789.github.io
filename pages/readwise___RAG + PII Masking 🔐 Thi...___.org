@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/RAG + PII Masking 🔐 Thi...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[jerryjliu0 on Twitter]]
+:full-title: "RAG + PII Masking 🔐 Thi..."
+:category: [[tweets]]
+:url: https://twitter.com/jerryjliu0/status/1768087261978275983
+:image-url: https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-03-19]]
+** 📌 [[2024-03-14]]
+#+BEGIN_QUOTE
+RAG + PII Masking 🔐
+
+This is an awesome guest blog post from [RoeyBC](https://twitter.com/RoeyBC) showing you how to mask PII both in the input and output to a RAG pipeline.
+
+Presidio is a cool open-source library by [Microsoft](https://twitter.com/Microsoft) that goes way beyond using simple NER models for entity recognition - it uses a combination of models, regex, rule-based logic and checksums to detect all possible private information.
+
+Check out the article here: https://t.co/ENk8uzjx9c
+
+![](https://pbs.twimg.com/media/GImB_dGbYAA4CFW.jpg) 
+#+END_QUOTE\
