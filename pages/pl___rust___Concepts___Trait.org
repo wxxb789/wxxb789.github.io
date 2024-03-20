@@ -30,7 +30,6 @@ fn some_function<T, U>(t: T, u: U) -> i32
 {
 }
 #+end_src
-
 * Trait 作为返回值
 #+begin_src rust
 // 返回一个实现了特定 trait 的类型的实例
@@ -44,7 +43,6 @@ fn returns_summarizable() -> impl Summary {
 }
 
 #+end_src
-
 * 使用 trait bound 有条件地实现方法
 对任何满足特定 trait bound 的类型实现 trait 被称为 blanket implementations，他们被广泛的用于 Rust 标准库中。
 blanket implementation 会出现在 trait 文档的 “Implementors” 部分。
@@ -75,7 +73,6 @@ impl<T: Display + PartialOrd> Pair<T> {
     }
 }
 #+end_src
-
 * trait 可以与trait 告诉 Rust 编译器某个特定类型拥有可能与其他类型共享的功能。
 可以通过 trait 以一种抽象的方式定义共享的行为。
 可以使用 trait bounds 指定泛型是任何拥有特定行为的类型。

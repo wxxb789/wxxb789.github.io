@@ -6,6 +6,7 @@ Rust 中的测试就是一个带有 test 属性标注的函数。属性（attrib
 ~cargo test~ 可以运行项目中的所有测试。
 
 Unit Test 与src 在用一个文件中并用 =#[cfg(test)]= 来标注，这意味着，Rust 只在执行 cargo test 时才编译和运行测试代码，而在运行 cargo build 时不这么做。
+
 * TODO 性能测试
 * TODO 文档注释作为测试
 * attributes

@@ -10,6 +10,5 @@ Api Server 本身是一个 Rest Api Server, 自身没有业务逻辑。
 *** Mutating
 *** Validating
 *** Admission
-
 ** 限流
 * Api Server 对象的实现

@@ -1,8 +1,0 @@
-#+TAGS: TODO
-
-* #+BEGIN_SRC 
-{{query (todo todo)}}
-#+END_SRC
-* Work
-** TODO Software Design Document Template
-*
