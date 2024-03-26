@@ -1,0 +1,5 @@
+* this page store quotes for banner widgets.
+* [[quote/daily]]
+The best way to get something done is to begin.
+- Anonymous
+*
