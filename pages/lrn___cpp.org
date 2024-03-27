@@ -1,0 +1,2 @@
+* [[https://learnmoderncpp.com/][Learn Modern C++ – Discover a language matched to today's computing needs (learnmoderncpp.com)]]
+*
