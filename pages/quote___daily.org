@@ -2,4 +2,6 @@
 * [[quote/daily]]
 The best way to get something done is to begin.
 - Anonymous
+* [[quote/daily]]
+Keep a log of your work
 *
