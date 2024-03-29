@@ -1,0 +1,21 @@
+* disable
+** force utf-8-BOM
+** force file header
+** do not force use this for instance variable
+** do not use `string.Empty` instead of `""`
+** do not use `#region` and `#endregion`
+* enable
+** namespace
+*** full qualified name
+*** place system group on top
+*** order
+*** separate group by empty line
+** variable naming
+*** TODO modifier
+*** const variable
+*** property
+** class naming
+** function naming
+** think in `static`
+** force add `,` at end of sequence
+*
