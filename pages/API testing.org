@@ -1,0 +1,16 @@
+* postman
+* bruno [[https://www.usebruno.com/][bruno (usebruno.com)]]
+* firecamp
+* Insomnia
+* Hoppscotch
+* httpie
+** [[https://httpie.io/][HTTPie – API testing client that flows with you]]
+** [[https://github.com/httpie/desktop][httpie/desktop: 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (github.com)]]
+* hurl
+** [[https://github.com/Orange-OpenSource/hurl][Orange-OpenSource/hurl: Hurl, run and test HTTP requests with plain text. (github.com)]]
+** [[https://hurl.dev/][Hurl - Run and Test HTTP Requests]]
+* [[vscode]] plugin
+** [[https://marketplace.visualstudio.com/items?itemName=VASubasRaj.flashpost][Flashpost - Visual Studio Marketplace]]
+** [[https://marketplace.visualstudio.com/items?itemName=KeyRunner.keyrunner][KeyRunner - API Client - Visual Studio Marketplace]]
+** [[https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client][Thunder Client - Visual Studio Marketplace]]
+*

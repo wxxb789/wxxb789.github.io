@@ -1,0 +1,8 @@
+#+alias: LanguageExt,
+#+tags: dotnet, csharp, fp,
+
+* wiki: [[https://github.com/louthy/language-ext/wiki][Home · louthy/language-ext Wiki (github.com)]]
+* [[https://www.youtube.com/watch?v=o0vusZSRH6k][Functional Object-Oriented Programming with LanguageExt - YouTube]]
+* [[https://www.youtube.com/watch?v=LCTZud6hwWM][Functional Programming with C# - Simon Painter - NDC London 2023 (youtube.com)]]
+* [[https://www.youtube.com/watch?v=xwDhKV7CqAY][An introduction to functional programming with C# (youtube.com)]]
+*
