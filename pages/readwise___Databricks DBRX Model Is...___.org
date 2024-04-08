@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/Databricks DBRX Model Is...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dylan522p on Twitter]]
+:full-title: "Databricks DBRX Model Is..."
+:category: [[tweets]]
+:url: https://twitter.com/dylan522p/status/1772972997990580381
+:image-url: https://pbs.twimg.com/profile_images/1284174246726586370/0v85zsJR.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Databricks DBRX model is AMAZING, generally great but CRUSHES code.
+132B parameters, 12T token, 16 experts, 4 per forward, 36B active.
+~2.6e24
+HumanEval5, 0-Shot
+DBRX - 70.1%
+GPT-4 - 67%
+Gemini 1.5 Pro - 71.9%
+Mixtral - 54.8%
+Grok - 63.2%
+LLAMA 2 - 32.2%
+https://t.co/j0Y5xbH04W 
+#+END_QUOTE\

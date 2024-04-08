@@ -1,0 +1,36 @@
+:PROPERTIES:
+:title: readwise/知识蒸馏（Knowledge Distillat...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[glow1n on Twitter]]
+:full-title: "知识蒸馏（Knowledge Distillat..."
+:category: [[tweets]]
+:url: https://twitter.com/glow1n/status/1775896316398428404
+:image-url: https://pbs.twimg.com/profile_images/790060654501634048/nAw4t1Zp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+知识蒸馏（Knowledge Distillation）技术，指的是将大型语言模型（LLMs）的能力复制到小型本地模型中，以提高小型模型的性能。
+
+今天推荐的这篇文章通过一个多语言语法错误纠正的实际案例，展示了从大型教师模型到小型学生模型的知识转移流程。这个过程包括获取未标记的领域特定数据，利用大型模型自动生成标签，然后对小型模型进行微调，从而在不牺牲性能的前提下减少计算需求和部署成本。
+
+https://t.co/kWjfKlkysm 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+文章要点:
+🚀 知识蒸馏简介：通过大型模型自动生成标签数据，然后利用这些数据来训练小型模型，以期在保持性能的同时减少模型的计算和部署成本。
+🔧 具体工作流程：
+第一步：获取未标记的领域特定数据。
+第二步：制定提示，通过大型模型生成伪标签。
+第三步：利用伪标签对小型模型进行微调。
+📊 实验数据与模型：使用juancavallotti/multilingual-gec数据集和LLama 2–70B作为教师模型，Tiny-LLama作为学生模型。
+🛠 工具与技术：利用Anyscale API生成伪标签，使用LoRa + Peft技术对学生模型进行微调，通过HuggingFace的BitsAndBytes进行GPU量化。
+📝 实验结果：通过知识蒸馏，学生模型的准确率从11%提高到31%，虽然仍低于教师模型的42%，但明显改善了小型模型的性能。
+🎯 结论：知识蒸馏是一种有效的策略，可以在保持任务特定准确性的同时减少计算成本和部署难度。尽管数据标注过程耗时且繁琐，但该技术通过自动化生成标签数据的方式提供了一种可扩展的解决方案。此外，通过模型量化和训练方法的进步，如QLoRa和PeFt，进一步优化了在消费级GPU上训练专业模型的过程。 
+#+END_QUOTE\

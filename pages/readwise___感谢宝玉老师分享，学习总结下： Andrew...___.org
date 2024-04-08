@@ -1,0 +1,66 @@
+:PROPERTIES:
+:title: readwise/感谢宝玉老师分享，学习总结下： Andrew...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vista8 on Twitter]]
+:full-title: "感谢宝玉老师分享，学习总结下： Andrew..."
+:category: [[tweets]]
+:url: https://twitter.com/vista8/status/1773698200920293827
+:image-url: https://pbs.twimg.com/profile_images/28889602/20070314_b0295ade0c516903fd31D3r1hlye1a1Q.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+感谢宝玉老师分享，学习总结下：
+
+Andrew Ng认为 AI Agents 代表了人工智能的未来发展方向。
+
+输入Prompt 让大模型生成文章，就像让一个人写作，但不能用回退键（删除修改）。
+
+AI Agents 的工作方式跟人类更像：先对任务进行推理思考，对初版结果进行检查修改，持续迭代几轮后，给出终版输出。
+
+Andrew Ng发现用 GPT-3.5配合Agentic工作流，性能竟然超过单独使用 GPT-4。
+
+Andrew 认为AI Agents 有四种设计模式：
+
+1️⃣ 反思（让模型检查和修正自己的输出）
+2️⃣ 工具（调用搜索、代码执行等外部工具）
+3️⃣ 规划（拆解复杂任务，制定执行计划）
+4️⃣ 多 Agent 协作（让模型扮演不同角色，通过协作完成任务）
+
+Andrew Ng的想法预测：
+
+1️⃣ Agentic工作流的出现，语言模型的能力有望在今年得到显著提升。
+
+2️⃣ Token生成速度变得至关重要，甚至比大模型能力提升更重要。（LLM要生成大量token来自己阅读和推理，速度越快越好）
+
+3️⃣ 用Agentic方法，要忍受交互时延（可能要等几分钟或几小时才出结果），让模型花更多时间推理和迭代。
+
+Andrew Ng对GPT-5、Claude-5、Gemini2充满期待。
+
+但他认为在Agentic方法加持下，未必要等到最新最强的模型才能体验到交互式AI的威力。
+
+通用人工智能(AGI)仍然是一个遥远的目标，但Agentic工作流无疑是通往AGI的重要一步。 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+从宝玉老师博客上看到的总结摘要 Prompt ，就用了“反思、规划”两种设计模式。
+
+请用中文详尽总结以下对话内容，按照以下步骤，每一步分别打印结果：
+
+1. 尽可能列出他们讨论的所有话题，不要遗漏
+
+2. 检查第一步列出的话题，补充缺失的重要话题
+
+3. 基于每个话题用bullet points列出要点
+
+4. 严格的以话题为章节，不要遗漏，基于每个话题和下面的要点，用1-3个自然段落总结每个话题的内容，总结每个话题时不要用bullet points，整体效果像是一篇科普文章
+
+以下是要总结的内容：
+
+<你要总结的内容> 
+#+END_QUOTE\

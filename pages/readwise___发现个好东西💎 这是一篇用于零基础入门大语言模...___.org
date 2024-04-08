@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/发现个好东西💎 这是一篇用于零基础入门大语言模...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cryptocake777 on Twitter]]
+:full-title: "发现个好东西💎 这是一篇用于零基础入门大语言模..."
+:category: [[tweets]]
+:url: https://twitter.com/cryptocake777/status/1772221120508203268
+:image-url: https://pbs.twimg.com/profile_images/1619609106225979394/nGhNOk6A.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+发现个好东西💎
+
+这是一篇用于零基础入门大语言模型（Large Language Model, LLM）底层技术原理的飞书文档
+其最直接面向群体为非科班出身但想要了解AI技术原理的AI爱好者们
+这篇文档从浅到深，覆盖非常非常多的LLM相关内容细节，并且持续更新迭代最新的技术进展
+
+链接如下：👇
+https://t.co/cIdRMqAUS4 
+
+![](https://pbs.twimg.com/media/GJgw74Ua8AA-3oY.jpg) 
+#+END_QUOTE\

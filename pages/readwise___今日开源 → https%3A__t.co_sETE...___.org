@@ -1,0 +1,56 @@
+:PROPERTIES:
+:title: readwise/今日开源 → https:__t.co_sETE...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[riverhohai on Twitter]]
+:full-title: "今日开源 → https://t.co/sETE..."
+:category: [[tweets]]
+:url: https://twitter.com/riverhohai/status/1776778814485586297
+:image-url: https://pbs.twimg.com/profile_images/1535139153649709056/w2QMCY7Y.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+今日开源 → https://t.co/sETEFTiipQ 
+
+下一代 AI 一站式 B/C 端解决方案
+
+AI 聊天 + 多端支持 + 文件解析 + 联网查询 + 模型市场 + 国际化 + 系统管理 + 用户管理 + 价格/兑换码/订阅 + API 中转  
+
+✦ [radix_ui](https://twitter.com/radix_ui) [reactjs](https://twitter.com/reactjs) [nextjs](https://twitter.com/nextjs) [tailwindcss](https://twitter.com/tailwindcss) [tremorlabs](https://twitter.com/tremorlabs)  
+
+来自 [ProgramZmh](https://twitter.com/ProgramZmh) 
+
+![](https://pbs.twimg.com/media/GKhifX6aUAAjfDS.jpg) 
+
+![](https://pbs.twimg.com/media/GKhihrHa4AAREAu.jpg) 
+
+![](https://pbs.twimg.com/media/GKhinOfbwAEdG_n.jpg) 
+
+![](https://pbs.twimg.com/media/GKhitmnaAAAiHTO.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+⚡源码在这里  
+
+技术栈 
+➜ React 
+➜ Typescript 
+➜ Radix-ui 
+➜ i18next 
+➜ Redux 
+➜ TailwindCSS 
+➜ Vite 
+➜ Tremor 
+➜ Tauri 
+➜ Golang 
+➜ Gin 
+➜ Redis 
+➜ MySQL  
+
+https://t.co/YEJdYKADTE 
+#+END_QUOTE\

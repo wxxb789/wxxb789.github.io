@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/Here We Go! ChatKit 新功能...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[localhost_4173 on Twitter]]
+:full-title: "Here We Go! ChatKit 新功能..."
+:category: [[tweets]]
+:url: https://twitter.com/localhost_4173/status/1772565465002373221
+:image-url: https://pbs.twimg.com/profile_images/1738087843409629184/GbrTTXpT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+HERE WE GO!
+
+ChatKit 新功能已上线, 暂定名为 AI 启动器，可快速运行一些常用的 prompt，就像 Raycast AI，但相比 Raycast AI 而言没有任何订阅费用 😅
+
+在 https://t.co/br3L9eiuEu 下载最新版即可体验 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+在主窗口的「提示词」里可以加入你常用的 prompts，文档可以参考 https://t.co/lZgdE4FDgw 
+
+![](https://pbs.twimg.com/media/GJlrN9ubQAAVKzq.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+然后在输入框输入 / 时就会弹出你的 prompts 列表，这是网页端就已有的功能。 
+
+![](https://pbs.twimg.com/media/GJlrg2faAAAUJFC.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+0.3.3 版本更新让你可以用一个快捷键在任何应用里调出这个 prompts 列表，详见: https://t.co/PtVXg0OnKl 
+#+END_QUOTE\

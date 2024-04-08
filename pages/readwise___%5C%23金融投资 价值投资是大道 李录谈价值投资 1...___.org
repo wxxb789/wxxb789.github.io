@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/\#金融投资 价值投资是大道 李录谈价值投资 1...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[henices on Twitter]]
+:full-title: "\#金融投资 价值投资是大道 李录谈价值投资 1..."
+:category: [[tweets]]
+:url: https://twitter.com/henices/status/1774970062815772678
+:image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+#金融投资 价值投资是大道 李录谈价值投资
+
+1）买股票是投资一个公司：股票是公司的所有权，公司在创造价值的过程中，作为部分所有者，拥有的部分价值也会增长
+
+2）忽略短期波动：市场不能告诉你价值，只能告诉你价格，你只能把它当作一个可以利用的工具
+
+3）注重安全边际：因为无法对未来预测，做判断是要预留很大空间，买入价格要大大低于内在价值
+
+4）建立能力圈：通过不断努力，在某些行业获得比几乎所有人更深认识，从而能对公司长期表现作出比所有其他人更准确的判断
+
+前三条自来本杰明·格雷厄姆，最后一条来自巴菲特。
+
+![](https://pbs.twimg.com/media/GKH1c-qWMAAPms_.png)
+
+![](https://pbs.twimg.com/media/GKH1bXYXIAAZ8E1.png) 
+#+END_QUOTE\

@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: readwise/卧槽 ，我悟了!!   下场干产品前，先把大厂出...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "卧槽 ，我悟了!!   下场干产品前，先把大厂出..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1771427102996246666
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-24]]
+#+BEGIN_QUOTE
+卧槽 ，我悟了!!   下场干产品前，先把大厂出品都用一用，以免撞车
+
+理想的产品 workflow:
+1/  DJI Mic 随时记录脑中所想
+2/  上传至云端，云端转录文字存档
+3/  解析程序，配置好 Prompts， 调用 llm API
+4/  AI 总结天马行空的想象力，提炼行动目标，补充外延
+5/  自己敲定 PDCA 
+
+想法来源于，前两天我在《计算广告》作者刘鹏老师直播间，听到一个“WOW”的提示：我现在已经完全不用打字写作了，打字哪有语音来得快
+
+简直，震耳欲聋 !! 犹如村上春树被养乐多棒球队的棒球击中一般惊醒
+
+在手机上打字，又慢又容易丢帧（输出阻碍思考）。如果拿语音设备作为内容输出，则可以无限量以最快方式输出自己的想法。
+
+田春（微博: 田春冰河）曾雇大学生（800一天）作为打字员，他则负责“口播”输出，对精力控制极其恐怖。《少有人走的路》中，每十分做一次 log 的柳比歇夫，也不过如此
+
+所以我想下场干这个产品。今天吃饭时，一个 idea 进入脑子。我特么要做个语音输入法，能够转录出语音。
+
+但，转念一想，这种效率工具，特么大厂就没有现成的产品？于是，我在小米app 商城一搜，讯飞语音输入，9亿次下载，就他了
+
+装上后拿微信试了试，妥妥满足要求，识别率在 90% 以上
+
+那我还干个屁。我的 1/2 步都有现成替代品，3/4 我前两天刚好研究了 wechatbacktool, 唯独需要花时间的，就是 Prompts.  精进提示词，成了唯一有技术含量的地方，哈哈哈哈哈哈
+
+提示词工程，才是核心产品力。而提示词水平，最终还是反应个人的思维和语言组织水平。
+
+兄弟们，赚点小钱的生意，替你们想好啦。<video controls><source src="https://video.twimg.com/ext_tw_video/1771421034069000192/pu/pl/E-kcCUbViMJIqx3D.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1771421034069000192/pu/vid/avc1/428x270/TPrycozcU4YvSGOW.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1771421034069000192/pu/vid/avc1/572x360/jNMX1N8yWf0B7gdp.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1771421034069000192/pu/vid/avc1/1144x720/3qNMRqA6iox0-Dl9.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1771421034069000192/pu/vid/avc1/1718x1080/cVg4a-2S_PrIYE-4.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

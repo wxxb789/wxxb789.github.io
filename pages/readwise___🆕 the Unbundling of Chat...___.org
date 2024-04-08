@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/🆕 the Unbundling of Chat...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[swyx on Twitter]]
+:full-title: "🆕 the Unbundling of Chat..."
+:category: [[tweets]]
+:url: https://twitter.com/swyx/status/1772305930836918656
+:image-url: https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+🆕 The Unbundling of ChatGPT  
+
+https://t.co/6cLKLY7OwS 
+
+A whole year has passed with ~0 growth in ChatGPT user numbers. Instead, users are exploring a whole host of verticalized players for Imagegen, Writing, Coding, Research, Agents, Voice and RAG.
+
+[OpenAI](https://twitter.com/OpenAI) still wins in that scenario, but probably needs to release Sora and GPT-5 soon to stall mass unsubscriptions from ChatGPT.
+
+![](https://pbs.twimg.com/media/GJh-QZNaQAAxe42.png)
+
+![](https://pbs.twimg.com/media/GJh-ZDTbwAA8EbK.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/AI Anywhere今天在ProductHun...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HeySophiaHong on Twitter]]
+:full-title: "AI Anywhere今天在ProductHun..."
+:category: [[tweets]]
+:url: https://twitter.com/HeySophiaHong/status/1772540984246858023
+:image-url: https://pbs.twimg.com/profile_images/1763824090459336704/U5F411AW.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+AI Anywhere今天在ProductHunt发布了一个“i人福利”功能：助聊Message+
+
+不知道你有没有遇到过：收到对方发的消息但是不知道要怎么回复，最终过了大半天才回复
+
+安装AI Anywhere后，微信输入框会出现一个按钮，点击生成多种回复建议，一键社牛！
+求upvote+comment呀，感谢大家~
+https://t.co/tegQz6LJ81 
+#+END_QUOTE\

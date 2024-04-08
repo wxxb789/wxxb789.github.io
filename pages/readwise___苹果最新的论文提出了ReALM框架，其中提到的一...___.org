@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/苹果最新的论文提出了ReALM框架，其中提到的一...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[aigclink on Twitter]]
+:full-title: "苹果最新的论文提出了ReALM框架，其中提到的一..."
+:category: [[tweets]]
+:url: https://twitter.com/aigclink/status/1776034232298861042
+:image-url: https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+苹果最新的论文提出了ReALM框架，其中提到的一个3B的 LLM的参数数量远少于GPT-4，但性能接近于最新的GPT-4模型
+
+📌 3B LLM在对话数据集上的准确率为97.9%，在合成数据集上的准确率为99.8%，在屏幕上的数据集上的准确率为93.0%，在未见过的领域（例如警报系统）上的准确率为97.8%。这些结果表明，3B LLM在处理引用解析任务上表现出色，尤其是在屏幕上的数据集上，其性能接近于最新的GPT-4模型，尽管3B LLM的参数数量远少于GPT-4。这表明了ReALM系统在处理复杂任务时的有效性和效率。
+
+📌 对于未知领域，ReaLM和GPT-4的性能非常相似。
+
+📌 ReALM显着改善了像Siri或Alexa这样的会话助手理解人类自然语言的能力。比如，你正在智能手机上查看餐馆列表，然后你说：“指引我去主街上的那家” - ReALM能够理解你指的是哪家餐馆，即使你没有指定具体的名称。
+
+📌 它通过巧妙地将屏幕上显示的视觉布局转换为文本格式，让强大的语言理解AI模型可以对其进行推理来实现这一点。这使得ReALM能够像人类直觉地理解上下文一样解决模糊的引用（比如“它”，“那个”，“第二个项目”）。
+
+📌 ReALM在这个任务上的表现优于先前的方法，并且几乎与GPT-4模型相匹配，同时效率更高，使其可以在智能手机等设备上实现。
+
+📌 因此，现在AI助手可以更自然地进行对话，实现像“预订我刚刚看过的意大利餐厅的桌子”这样的交互，而不必一笔一划地拼写一切。
+
+论文：https://t.co/uucnFZbREo
+
+![](https://pbs.twimg.com/media/GKW6QsoaQAA0TM9.png) 
+#+END_QUOTE\

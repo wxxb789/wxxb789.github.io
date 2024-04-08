@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/In C\# There's No Way To...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[davidfowl on Twitter]]
+:full-title: "In C\# There's No Way To..."
+:category: [[tweets]]
+:url: https://twitter.com/davidfowl/status/1776784836340195497
+:image-url: https://pbs.twimg.com/profile_images/1599643600190836736/mWj6ARAN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+In C# there's no way to truly isolate code outside of projects/assemblies. This causes a proliferation of projects in repositories because it's the only easy way to ensure that layering is correct between different components.
+
+I wonder if we introduced some other concept at the language level if we'd still see as many projects...
+
+#dotnet #csharp 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+There are legitimate reasons to split things up:
+1. Ability to isolate dependencies like NuGet packages.
+2. Distribution (publishing a package). 
+3. Ability to version components independently.
+4. Sharing common code across a code base or solution (s). 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+Maybe top-level private classes within namespaces is enough. [jaredpar](https://twitter.com/jaredpar)  is that what you were saying? 
+#+END_QUOTE\

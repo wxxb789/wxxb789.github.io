@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: readwise/WebAssembly WASI 0.2 实现（...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[hemashushu on Twitter]]
+:full-title: "WebAssembly WASI 0.2 实现（..."
+:category: [[tweets]]
+:url: https://twitter.com/hemashushu/status/1773178907048419816
+:image-url: https://pbs.twimg.com/profile_images/532876409987813377/mdhchUId.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+WebAssembly WASI 0.2 实现（impl）点滴
+
+写给想实现 wasm 虚拟机或者编译目标为 wasm+wasi 编译器的小伙伴们。
+
+wasi 是让 wasm 逃出浏览器走向真实世界的一组 api 和规范。wasi 0.1 + wasm core VM 还是比较容易实现的（老夫前年用rust很生疏地写了一个https://t.co/A5OD3Ej9Kf），如果你对 wasi（续 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+接）对 wasi 还不了解，可以先从应用程序开发者角度看这篇 https://t.co/LffqsoGuDA 然后只要有实现vm和posix经验，硬啃一下 core 规范 https://t.co/iIFAUahpZE 以及 wasi 0.1 api 文档 https://t.co/IwalJmjLf7 再加上阅读一下别人的实现代码，这样 0.1 + vm 应该能写出来，这是第一个阶段。（续 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+接）第二个阶段跨度有点大，因为 wasm 后来增加了很多提案，其中比较麻烦的有两个：1、引用类型。这是除了整型和浮点型之上增加的数据类型，一种只能移动，不能读写其中内容的数据（类型），在vm里你需要弄一个表来记录这些数据。2、组件模型（component-model）这个提案的内容巨大！！包括引入了（续 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+接）许多新的数据类型（跟 rust 神似），另外还引入了接口（函数和自定义类型的集合）和“world”（导入和导出的集合），可以先阅读wit格式文档：https://t.co/FxyGwY65At
+
+再看详细讲解 https://t.co/IKSUdaEMOR
+
+最后看综合说明和示例 https://t.co/aKbuQUmxQh
+
+（续 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+接）总之 wasi 0.2 的内容很多，要实现（impl）它（包括 wasm vm 相应需要增加的内容）需要掉几小撮头发。不过它的意义是很重大的，其一是它让不同的语言（go、rust，c）都可以开发wasm组件，其中每个组件都运行在容器里（不再需要暴露内存）仅通过接口交流，因此它是一个强包容的安全环境。其二是（续 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+接）就目前 wasi 0.2 定义的 world 来看，已经可以很轻松地开发 cli 程序和 web 服务程序了，也就是说，wasm+wasi已经进入“实用/可用”的阶段（这里有一个 10来行代码的web server 的示例 https://t.co/uTQbiO5XNo）
+最后是一篇官方的介绍 https://t.co/3QrQjS4nic
+
+头发浓密的小伙伴赶紧试试impl它吧 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+以上的文字已经合并整理到
+https://t.co/d9k9OvinkN 
+#+END_QUOTE\

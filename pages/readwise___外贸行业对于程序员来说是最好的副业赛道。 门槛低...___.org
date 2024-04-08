@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/外贸行业对于程序员来说是最好的副业赛道。 门槛低...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[_ThrowException on Twitter]]
+:full-title: "外贸行业对于程序员来说是最好的副业赛道。 门槛低..."
+:category: [[tweets]]
+:url: https://twitter.com/_ThrowException/status/1773162651314520374
+:image-url: https://pbs.twimg.com/profile_images/854940860277964800/uLwRJeeY.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+外贸行业对于程序员来说是最好的副业赛道。
+门槛低，会搜索就能了解全部流程；
+成本低，可以说一台电脑就可以投入创业了；
+复利，这是一个可以积累的赛道。
+开拓用户第二天，昨晚收到第一个关注和第一个询盘。
+我得外贸生涯已经开启，欢迎大家交流。 
+#+END_QUOTE\

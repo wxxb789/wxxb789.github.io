@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/刚读完了这两篇关于 Xz-Utils 包的供应链...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Blankwonder on Twitter]]
+:full-title: "刚读完了这两篇关于 Xz-Utils 包的供应链..."
+:category: [[tweets]]
+:url: https://twitter.com/Blankwonder/status/1773921956615877110
+:image-url: https://pbs.twimg.com/profile_images/1769760069393281024/vESyD2hO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+刚读完了这两篇关于 xz-utils 包的供应链攻击说明，攻击者潜伏了三年，很精彩，只差一点点就可以往众多 Linux 发行版的 sshd 注入后门，可用于绕过密钥验证，后果不堪设想。
+概括：
+1. 攻击者 JiaT75 (Jia Tan) 于 2021 年注册了 GitHub 账号，之后积极参与 xz 项目的维护，并逐渐获取信任，获得了直接 commit 代码的权利。
+2. JiaT75 在最近几个月的一次 commit 中，悄悄加入了 bad-3-corrupt_lzma2.xz 和 good-large_compressed.lzma 两个看起来人畜无害的测试用二进制数据，然而在编译脚本中，在特定条件下会从这两个文件中读取内容对编译结果进行修改，致使编译结果和公开的源代码不一致。
+3. 目前初步的研究显示，注入的代码会使用 glibc 的 IFUNC 去 Hook OpenSSH 的 RSA_public_decrypt 函数，致使攻击者可以通过构造特定的验证数据绕过 RSA 签名验证。（具体细节还在分析中）
+4. 只要是同时使用了 liblzma 和 OpenSSH 的程序就会受到影响，最直接的目标就是 sshd，使得攻击者可以构造特定请求，绕过密钥验证远程访问。
+5. 受影响的 xz-utils 包已经被并入 Debian testing 中进行测试，攻击者同时也在尝试并入 fedora 和 ubuntu。 
+6. 幸运的是，注入的代码似乎存在某种 Bug，导致特定情况下 sshd 的 CPU 占用飙升。被一位安全研究人员注意到了，顺藤摸瓜发现了这个阴谋并报告给 oss-security，致使此事败漏。
+如果不是因为这个 Bug，那么这么后门有不低的概率被并入主流发行版的 stable 版本，恐怕会是一件前所未有的重大安全事件。
+
+另外从一些细节能看出来攻击者非常用心：
+1. 攻击者抢在 ubuntu beta freeze 的几天前才尝试让新版本并入，以期望减少在测试期间被发现的时间。
+2. xz-utils 项目的原维护者 Lasse Collin (Larhzu)，有着定期进行 internet breaks 的习惯，而且最近正在进行，导致这些变动他并没有 review 的机会，即使到现在也没能联系上他本人。这可能也是攻击者选定 xz-utils 项目的原因之一。
+
+更多的细节还在被分析中，目前 GitHub 已经关停了整个 xz 项目。
+
+参考来源：
+https://t.co/maoYpCp2Zk
+https://t.co/VJQseYUWbM 
+#+END_QUOTE\

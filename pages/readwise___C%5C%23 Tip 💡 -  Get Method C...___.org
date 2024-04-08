@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: readwise/C\# Tip 💡 -  Get Method C...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Dave_DotNet on Twitter]]
+:full-title: "C\# Tip 💡 -  Get Method C..."
+:category: [[tweets]]
+:url: https://twitter.com/Dave_DotNet/status/1773323344030412884
+:image-url: https://pbs.twimg.com/profile_images/1538166477743919105/duZ2oBrg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+C# Tip 💡 -  Get method caller info  
+
+Did you know we can get info about the caller of a method using C# (5+) info attributes?   
+
+Below is a simple example ...  
+
+What do you think? 
+Have you use info attributes before?  
+
+Bookmark it. 
+
+#dotnet 
+
+![](https://pbs.twimg.com/media/GJwblrBXgAERR5q.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Here's some IL that shows how these work.  
+
+In yellow we see the values are output into the IL as constants ... this means there is no runtime perf overhead. 
+
+![](https://pbs.twimg.com/media/GJwbTu_XQAAsfS5.png) 
+#+END_QUOTE\

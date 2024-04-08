@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/你可以通过 Spotify API 拿到一支曲子...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "你可以通过 Spotify API 拿到一支曲子..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1773127107604029901
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+你可以通过 Spotify API 拿到一支曲子的各项特征数据。https://t.co/rJpnuy8nIK
+
+也就是说，只需向 Suno 提供准确的特征数据，它便能创造出任何歌曲相同风格的旋律？然后搭配 GPT 创作的歌词，这样也就规避版权问题了？绝绝子…… 
+
+![](https://pbs.twimg.com/media/GJrrvmPbgAAiPSI.jpg) 
+#+END_QUOTE\

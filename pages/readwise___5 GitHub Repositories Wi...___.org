@@ -1,0 +1,69 @@
+:PROPERTIES:
+:title: readwise/5 GitHub Repositories Wi...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Prathkum on Twitter]]
+:full-title: "5 GitHub Repositories Wi..."
+:category: [[tweets]]
+:url: https://twitter.com/Prathkum/status/1775878750518866158
+:image-url: https://pbs.twimg.com/profile_images/1612507803842932736/PLiJMD_l.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+5 GitHub repositories will make your life 90% easier: 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+1. StackQL
+
+StackQL allows you to query multiple cloud and SaaS providers (Google, AWS, Azure, Okta, GitHub, etc.) using SQL.
+
+🔗 https://t.co/J8cqkSU98g 
+
+![](https://pbs.twimg.com/media/GKUwVOcXsAAP_Lp.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+2. 50 Projects 50 Days
+
+50+ mini web projects using HTML, CSS & JavaScript.
+
+🔗 https://t.co/88gfyXzMbG 
+
+![](https://pbs.twimg.com/media/GKUwWwNXYAExZtb.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+3. Clean Code JavaScript
+
+Guide to producing readable, reusable, and refactorable software in JavaScript.
+
+🔗 https://t.co/wQXuiCWHW1 
+
+![](https://pbs.twimg.com/media/GKUwYJqWcAAoWst.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+4. Public APIs
+
+A collective list of free APIs for use in software and web development
+
+🔗 https://t.co/vDRQKBf15V 
+
+![](https://pbs.twimg.com/media/GKUwZf2WEAA69eF.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+5. React bits
+
+React patterns, techniques, tips, and tricks.
+
+🔗 https://t.co/sg85XSL5dg 
+
+![](https://pbs.twimg.com/media/GKUwaktXMAALBt5.jpg) 
+#+END_QUOTE\

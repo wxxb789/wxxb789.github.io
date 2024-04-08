@@ -1,0 +1,57 @@
+:PROPERTIES:
+:title: readwise/Sam Altman 的这段在经济学人的采访中的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "Sam Altman 的这段在经济学人的采访中的..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1772851263375319312
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+Sam Altman 的这段在经济学人的采访中的吐槽太有真实了！
+
+> 世界对于 GPT-4 有过一阵子的狂热，对吗？"这改变了一切，通用人工智能就要来了，年底就没工作了"而现在人们又说，"它怎么这么慢？"
+
+以下是完整文稿：
+
+这两位是最重要的人物之二他们在塑造人工智能的未来：ChatGPT 背后的公司 OpenAI 的 CEO Sam Altman 以及 Microsoft 的 CEO 且是 OpenAI 最大的投资者 Satya Nadella 他们接受了《经济学人》主编的采访探讨了 AI 的未来实际面貌
+
+第一章:AI 的最新进展与未来展望
+
+Zanny Minton Beddoes:Sam，让我们从你开始。ChatGPT 在明年将发展出什么最重要的能力？
+
+Sam Altman: 世界对于 GPT-4 有过一阵子的狂热，对吗？"这改变了一切，通用人工智能就要来了，年底就没工作了"而现在人们又说，"它怎么这么慢？"我喜欢这一点，我认为这反映了人类精神的一种伟大特质，我们总是想要更多、更好的东西。
+
+Satya Nadella: 我们从没经历过这样的事，某些通用技术能够瞬时在全球范围内普及。在任何地方，卫生保健和教育都是政府最大的支出。而现在我们有了，没错，能够为全球每个学生和市民提供更优质的健康建议和更好的个性化辅导。
+
+Sam Altman:你知道，我常想一个有趣的衡量方式是"GPT-4 能完成多少百分比的任务？"比方说是 10%。GPT-5 能完成 12% 的人类任务吗？或者是 15%,20%?但是，很多人能够利用它提高工作流程的生产率，这就是它的力量，我知道这并不如直说它将做哪些具体的事情来得令人满意，但它正在成为一个知识工作的伙伴。这是一种全新的使用计算机的方式。
+
+Zanny:我听明白了，这的确非常契合我提出的问题。但我想要了解的是，这个变化是渐进的，还是在明年甚至可能是激进的改变？
+
+Sam Altman:我相信终有一天我们将创造出某样东西，按照你想要的任何模糊定义，它将符合 AGI 的条件，世界将经历两周的惊慌，然后人们将继续他们的生活。Sam Altman 表明世界只会有一场为期两周的恐慌当我们达到 AGI 时，这是一项大胆的声明。
+
+第二章：人工智能发展的不确定性
+
+Zanny:我经常说的一件事是，没有人知道接下来会发生什么，而我无法预见那个事件视界另一边的任何细节，但似乎深层次的人类动机不会消失，这是人们开始感到不安的时候，我们一无所知，为什么？
+
+Sam:好吧，我们将拥有一个智能体，它比我们所有人更聪明，而我们不知道接下来会发生什么。不，不，我喜欢做的一件事是回顾去阅读当时的关于同一时期技术革命的记录，而专家的预测总是全然错误，专家的预测总是完全错误的——这是一个很好的观点，你需要在你的观点中保持灵活，并且，看，与世界发展保持紧密的反馈循环。
+
+第三章:AI 监管与安全
+
+Zanny:对安全和规则的关注程度相当高，告诉我你是否认为监管机构做得对，或者我们还做得不够？
+
+Satya Nadella: 此刻，如果我看看白宫的行政命令或者什么，英国安全峰会是什么，欧洲发生了什么，日本发生了什么，他们将发表意见，国家绝对会有发言权，国家绝对会有发言权——绝对如此，关于控制的规则是什么，任何技术发展以及最重要的是，什么技术准备好部署或不宜部署，因此，我觉得我们都将受那些规则的约束。
+
+Zanny:如果你曾经在那个房间里自己想，这变得危险了，而这实际上可能有后果如果世界因我而产生我不愿见到的事物，你会呼喊"停止"吗？你会停下来吗？
+
+Sam:我们没有那种可以摧毁数据中心的大红按钮，虽然我知道有些人可能以为有这样的按钮。这不是一个单纯的开始与停止的选择。而是沿途许多微小的决策累积，比如该允许什么，禁止什么，如何预见未来的风险并对此进行缓解，设置新的参数等等。
+
+来源：https://t.co/2AoWgkhu3b<video controls><source src="https://video.twimg.com/ext_tw_video/1772851106726477825/pu/pl/n1Uxd02zcFdA7D6f.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772851106726477825/pu/vid/avc1/480x270/rf_DzoYVyYcI1UUF.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772851106726477825/pu/vid/avc1/640x360/4bAJIkpcVqjvmdaY.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772851106726477825/pu/vid/avc1/1280x720/bYUpFWSiW9x636Ro.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772851106726477825/pu/vid/avc1/1920x1080/0LKfgG-jjpZLEeiF.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

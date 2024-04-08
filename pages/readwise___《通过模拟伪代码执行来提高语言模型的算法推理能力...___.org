@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/《通过模拟伪代码执行来提高语言模型的算法推理能力...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[oran_ge on Twitter]]
+:full-title: "《通过模拟伪代码执行来提高语言模型的算法推理能力..."
+:category: [[tweets]]
+:url: https://twitter.com/oran_ge/status/1775839834558587172
+:image-url: https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+《通过模拟伪代码执行来提高语言模型的算法推理能力》
+通过使用 Think and Execute 框架，大幅提升了算法推理能力，在7个算法推理任务中，新框架都大幅超过了 CoT 等方法。
+
+https://t.co/0GwZUHDtTs 
+
+![](https://pbs.twimg.com/media/GKUMCfIaUAAgPFY.jpg) 
+
+![](https://pbs.twimg.com/media/GKUMg1naIAAq5tT.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+为什么使用伪代码？ 
+
+![](https://pbs.twimg.com/media/GKUOZIwbUAA-Nk4.jpg) 
+#+END_QUOTE\

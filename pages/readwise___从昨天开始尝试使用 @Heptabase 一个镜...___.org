@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/从昨天开始尝试使用 @Heptabase 一个镜...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[baibanbaonet on Twitter]]
+:full-title: "从昨天开始尝试使用 @Heptabase 一个镜..."
+:category: [[tweets]]
+:url: https://twitter.com/baibanbaonet/status/1772368308701897020
+:image-url: https://pbs.twimg.com/profile_images/1512143296499372037/2RvXZ7G4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+从昨天开始尝试使用 [Heptabase](https://twitter.com/Heptabase) 一个镜头接一个镜头地分析[netflix](https://twitter.com/netflix) 的《三体》s01e01（术语叫：拉片），一个小时的影片用了5个小时拉完，收获满满，喜乐盈盈。具体方法是先用剪辑软件把影片一场一场地剪出来，再制作成Heptabase里的卡片，然后按照人物线和故事线来梳理剧情（例如 Da Shi的线是红线），直到结构了然于心。
+
+这只是一个开始，我相信，借助Heptabase，我能创造出点什么。感谢科技和艺术的创造者们。<video controls><source src="https://video.twimg.com/ext_tw_video/1772368007253180416/pu/pl/nrYcDvTpkwfKjA6B.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772368007253180416/pu/vid/avc1/380x270/ylZ6kLvfasJwFh_W.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772368007253180416/pu/vid/avc1/508x360/snfhRuSY9B_vyZ5b.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772368007253180416/pu/vid/avc1/1016x720/DoutTtoiIHSux11q.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

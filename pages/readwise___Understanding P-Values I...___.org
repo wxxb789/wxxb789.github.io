@@ -1,0 +1,53 @@
+:PROPERTIES:
+:title: readwise/Understanding P-Values I...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mdancho84 on Twitter]]
+:full-title: "Understanding P-Values I..."
+:category: [[tweets]]
+:url: https://twitter.com/mdancho84/status/1771962555478458722
+:image-url: https://pbs.twimg.com/profile_images/815624333926297600/oc0lCoJ7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+Understanding P-Values is essential for improving regression models. In 2 minutes, learn what took me 2 years to figure out.
+
+1. The p-value: A p-value, in statistics, is a measure used to assess the strength of the evidence against a null hypothesis.
+
+2. Null Hypothesis (H0): This is a general statement or default position that there is no relationship between two measured phenomena or no association among groups. For example, the regressor does not affect the outcome.
+
+3. Alternative Hypothesis (H1): This is what you want to test for. It is often the opposite of the null hypothesis. For example, that the regressor does affect the outcome.
+
+4. Calculating the p-value: The p-value for each coefficient is typically calculated using the t-test. There are several steps involved. Let's break them down.
+
+5. Coefficient Estimate: In a regression model, you have estimates of coefficients (β) for each predictor. These coefficients represent the change in the dependent variable for a one-unit change in the predictor, holding all other predictors constant.
+
+6. Standard Error of the Coefficient: The standard error (SE) measures the accuracy with which a sample represents a population. In regression, the SE of a coefficient estimate indicates how much variability there is in the estimate of the coefficient.
+
+7. Test Statistic (T): The test statistic for each coefficient in a regression model is calculated by dividing the Coefficient Estimate / Standard Error of the Coefficient. This gives you a t-value.
+
+8. Degrees of Freedom: The degrees of freedom (df) for this test are usually calculated as the number of observations minus the number of parameters being estimated (including the intercept).
+
+9. P-Value Calculation: The p-value is then determined by comparing the calculated t-value to the t-distribution with the appropriate degrees of freedom. The area under the t-distribution curve, beyond the calculated t-value, gives the p-value.
+
+10. Interpretation: A small p-value (usually ≤ 0.05) indicates that it is unlikely to observe such a data pattern if the null hypothesis were true, suggesting that the predictor is a significant contributor to the model.
+
+===
+
+Need help applying data science to business?
+
+I'd like to help. Here's how:
+
+👉 My Free 10 Skills Webinar: I put together a free on-demand workshop that covers the 10 skills that helped me make the transition to Data Scientist: https://t.co/LR39RJ5XKB
+
+👉 Learn ChatGPT for 10X Faster DS Projects: I have a live workshop where I'll share how to use ChatGPT for Data Science (so you can complete projects 10X faster): https://t.co/EaMpKrJiqX
+
+If you like this post, please reshare ♻️ it so others can get value (follow me, 🔥 Matt Dancho 🔥 for more data science concepts).
+
+![](https://pbs.twimg.com/media/GJdGd0HXUAE0MmF.jpg) 
+#+END_QUOTE\

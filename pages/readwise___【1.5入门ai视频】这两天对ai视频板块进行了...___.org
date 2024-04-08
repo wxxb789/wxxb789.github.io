@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/【1.5入门ai视频】这两天对ai视频板块进行了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[WaytoAGI on Twitter]]
+:full-title: "【1.5入门ai视频】这两天对ai视频板块进行了..."
+:category: [[tweets]]
+:url: https://twitter.com/WaytoAGI/status/1772114053810573649
+:image-url: https://pbs.twimg.com/profile_images/1654774036759728128/KCCnFPkO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+【1.5入门AI视频】这两天对AI视频板块进行了重新整理，单独把AI视频从AI绘画中拿出来了。包含工具的教程：Dreamina，Pika，SVD，Pixverse 等，欢迎大家一起来投稿。
+
+https://t.co/HakvN15AqF 
+
+![](https://pbs.twimg.com/media/GJfQHMcbQAA710r.jpg) 
+#+END_QUOTE\

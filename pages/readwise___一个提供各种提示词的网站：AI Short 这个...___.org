@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/一个提供各种提示词的网站：AI Short 这个...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[knowledgefxg on Twitter]]
+:full-title: "一个提供各种提示词的网站：AI Short 这个..."
+:category: [[tweets]]
+:url: https://twitter.com/knowledgefxg/status/1772216998186844373
+:image-url: https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+一个提供各种提示词的网站：AI Short
+这个神奇的网站提供各种prompt，专为那些渴望以AI的力量推动工作效率的人们设计。无论是文本处理📝，图片创造🎨，AIShort都能助你一臂之力，而且还能通过Chrome和Edge扩展轻松使用！
+网站链接：https://t.co/zWarhLQguW 
+
+![](https://pbs.twimg.com/media/GJgt7H3WQAAroYM.jpg) 
+#+END_QUOTE\

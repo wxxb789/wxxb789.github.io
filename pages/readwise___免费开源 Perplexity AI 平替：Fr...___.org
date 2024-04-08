@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise/免费开源 Perplexity AI 平替：Fr...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[nash_su on Twitter]]
+:full-title: "免费开源 Perplexity AI 平替：Fr..."
+:category: [[tweets]]
+:url: https://twitter.com/nash_su/status/1776175795654086945
+:image-url: https://pbs.twimg.com/profile_images/1113084498197934081/upZQx3_i.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+免费开源 perplexity AI 平替：FreeAskInternet
+
+🈚️ 完全免费  ( 无需任何 API key)
+💻 完全本地运行 ( 无需 GPU )
+🔐 完全隐私 (本地运行)
+🚀 Docker一键部署
+
+这个项目是我的一个小实验，今天下午花了3小时完成，借助 FreeGPT35 以及 searxng，感谢
+🌟欢迎 Star 
+项目地址：
+https://t.co/grrFCup8ed <video controls><source src="https://video.twimg.com/ext_tw_video/1776174122843926528/pu/pl/5uRyncb-2Qn5Tn-T.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1776174122843926528/pu/vid/avc1/430x270/30PIezpYHFX6aRmG.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1776174122843926528/pu/vid/avc1/572x360/TEpR6DCLrJacyBrj.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1776174122843926528/pu/vid/avc1/1146x720/sro9TE0QeYw2TPHD.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+这个项目灵感来源其实是 ChatGPT3.5 免费开放使用，以及发现了 searxng 这个宝藏项目，使得做一个免费的基于搜索的问答AI成为可能。
+同时在线服务存在很多隐私问题，一直想做一个本地运行的、完全免费的、不需要硬件支持的开源平替。今天假期得空终于完成。 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+需要科学上网 
+#+END_QUOTE\

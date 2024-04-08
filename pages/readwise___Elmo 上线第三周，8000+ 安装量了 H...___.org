@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Elmo 上线第三周，8000+ 安装量了 H...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[yadong_xie on Twitter]]
+:full-title: "Elmo 上线第三周，8000+ 安装量了 H..."
+:category: [[tweets]]
+:url: https://twitter.com/yadong_xie/status/1776409027419013586
+:image-url: https://pbs.twimg.com/profile_images/1333285196825673728/j8v0PvXM.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-06]]
+#+BEGIN_QUOTE
+Elmo 上线第三周，8000+ 安装量了
+
+https://t.co/CqZIhAWDnA
+
+在这里解释下我们做这个插件的原因
+
+1. 向大家展示开源模型今天的能力。各种开源模型，如果用好的话，其实已经能够在很多领域崭露头角。
+
+2. 向大家展示 [LeptonAI](https://twitter.com/LeptonAI) 做为一个平台的能力，可以高性能、低成本、多快好省地帮助各种应用迅速接入 AI。
+
+如果你用 Elmo 觉得好使的话，欢迎考虑 [LeptonAI](https://twitter.com/LeptonAI) 的平台能力 - 我们提供最具有性价比的 GPU 资源，同时提供目前全球最快的 LLM 以及其他 AI 模型部署的能力。
+
+Elmo 没有商业化的 KPI，会是一个保持极简主义的免费插件，欢迎大家提意见。 
+#+END_QUOTE\

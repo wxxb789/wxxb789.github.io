@@ -1,0 +1,147 @@
+:PROPERTIES:
+:title: readwise/(0_25）Jared Friedman列出了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "(0/25）Jared Friedman列出了..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1774695163555963166
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+(0/25）Jared Friedman列出了 25 家已训练出自己的人工智能模型的 YC 公司。读完这些，你就会对不久的将来有一个很好的认识。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+(1/25) Atmo ( [atmo_ai](https://twitter.com/atmo_ai) )：Atmo 用人工智能驱动的预报取代了传统的基于物理的天气模拟。计算效率提高了 40,000 倍，这意味着它可以更便宜且更准确。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) 如果您住在旧金山，我建议改用它们作为您的主要天气来源 - 它们比现有的天气应用程序准确得多： https://t.co/v6V10mNT5g 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) (2/25) Can of Soup ( [canofsoup_inc](https://twitter.com/canofsoup_inc) )：Can of Soup 是一款应用程序，您可以使用人工智能创建您和朋友在想象场景中的照片。他们在 YC 批次中建立并推出了第一个可以做到这一点的模型。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) (3/25) Deepgram ( [DeepgramAI](https://twitter.com/DeepgramAI) )：用于超快速语音到文本转录和自然声音文本到语音的 API。最早的深度学习公司之一。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) (4/25) Diffuse Bio ( [diffuse_bio](https://twitter.com/diffuse_bio) )：建立生物学基础模型，为疫苗和治疗方法设计新蛋白质。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) (5/25) Draftaid ( https://t.co/ys1jTROu1D )：自动执行创建 CAD 工程图的无聊部分的 AI。它将 3D 模型转变为制造商期望的高度详细的制造图纸。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) (6/25) Edgetrace (https://t.co/jda1qOyhP1)： 利用庞大的视频数据集，让您可以用简单的英语进行搜索。您无需再翻阅数小时的交通录像，只需搜索 "红色普锐斯，金色车轮盖，右转 "即可。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) (7/25) EzDubs ( [ezdubs_bot](https://twitter.com/ezdubs_bot) )：将视频实时配音成不同语言，同时保留说话者的声音。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) (8/25) Exa ( [ExaAILabs](https://twitter.com/ExaAILabs) )：LLMs 的搜索引擎。 Exa 是第一个为人工智能应用而不是人类设计的搜索引擎。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) (9/25) Guide Labs ( [guidelabsai](https://twitter.com/guidelabsai) )：通常基础模型是黑匣子。 Guide Labs 正在构建可解释的基础模型来解释其推理。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) (10/25) Infinity AI ( [toinfinityai](https://twitter.com/toinfinityai) )：构建“剧本到电影”模型：你给它剧本，它就会制作电影。他们的第一个产品根据提供的脚本创建“话头”风格的剪辑。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) (11/25) K-Scale ( [kscalelabs](https://twitter.com/kscalelabs) )：构建世界上第一个开源通用人形机器人。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) 这是他们在车库里建造机器人的史诗视频<video controls><source src="https://video.twimg.com/amplify_video/1773400118479458306/pl/IKNUrb8vE0FX771S.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1773400118479458306/vid/avc1/320x320/bh0aQLA1JQO3vPLZ.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773400118479458306/vid/avc1/480x480/akFQenfJIp_g7aUc.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773400118479458306/vid/avc1/718x720/rVv2XbBvUD-yZZYN.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) (12/25) Linum ( [LinumInc](https://twitter.com/LinumInc) )：领先的文本到视频模型之一。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) (13/25) Metalware ( [getmetalware](https://twitter.com/getmetalware) )：帮助固件工程师更快构建的人工智能工具，例如用于低级编程的专门副驾驶或可以处理一堆数据表的 PDF 阅读器。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) 14/25) Navier AI ( [NavierAI](https://twitter.com/NavierAI) )：一种物理-ML 解算器，可以实时模拟计算流体动力学，这是航空航天和汽车工程的巨大突破。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) (15/25) Osium AI ( https://t.co/QxeMT8qv0U )：帮助研发工程师更快地设计新材料，使用 AI 预测材料的物理特性并加快原本艰巨的显微图像分析速度。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) (16/25) Phind ( [phindsearch](https://twitter.com/phindsearch) )：为开发人员构建的对话式搜索引擎，带有 VS Code 扩展，可将其绑定到现有代码库中。问它一个问题，它可以使用您的代码作为上下文生成答案。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) (17/25) Piramidal ( https://t.co/gNfZASUpTO )：一种用于理解大脑活动的基础模型，在“庞大且多样化的脑电波数据集”上进行训练。通过将连续的脑电图数据分成块，他们已经能够以较低的计算成本训练大型模型。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) (18/25) Playground ( [playground_ai](https://twitter.com/playground_ai) )：一个强大的基于人工智能的图像编辑器。根据提示创建新图像或仅用几个词修改现有图像（例如“让它成为冬天”）。也可以关注创始人 [Suhail](https://twitter.com/Suhail) ，获取出色的人工智能和创业建议。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) 19/25) PlayHT ( [play_ht](https://twitter.com/play_ht) )：具有高度表现力的 AI 生成的声音。可以通过大约 10 分钟的样本录音来训练新的声音。惊人的现实。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) 这是 PlayHT 生成的 AI Sam Altman：https://t.co/J1bDSLTHvt 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) 20/25) SevnAI ( [sevn_ai](https://twitter.com/sevn_ai) )：构建图形设计的基础模型。当前的扩散模型输出的图像难以编辑。他们能够生成用户可以轻松编辑的 SVG。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) (21/25) Sonauto ( [SonautoAI](https://twitter.com/SonautoAI) )：人工智能音乐创作。为其提供歌词和要模仿的风格，然后点击“生成”，即会弹出一首带有您自定义歌词的专业品质歌曲。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) (22/25) Sync Labs ( @syncdotso )：他们构建了一个模型，可让您重新同步视频中某人的嘴唇以与新音频匹配。基本上，您可以更改该人在预先录制的视频中所说的内容。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) 这是来自 Sync Labs 的 Tim Ferris 讲印地语的疯狂演示（提示……他实际上不会讲印地语）<video controls><source src="https://video.twimg.com/ext_tw_video/1773403080597606400/pu/pl/I5T537BTbyHjlcY3.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1773403080597606400/pu/vid/avc1/480x270/PNKhtvvLqu6iUxK-.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1773403080597606400/pu/vid/avc1/640x360/3cc_9fTIsT7rR5YS.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1773403080597606400/pu/vid/avc1/1280x720/RmN2SWoQ-L02tM_e.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) (23/25) Tavus ( [heytavus](https://twitter.com/heytavus) )：录制一个视频，然后自动为每一位观众制作个性化视频--在适当的地方换上观众的姓名、公司等信息。你还可以用 2 分钟的视频制作一个自己的 "人形复制品"。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) [heytavus](https://twitter.com/heytavus) 这是来自 Tavus 的人类复制品之一的演示视频：<video controls><source src="https://video.twimg.com/ext_tw_video/1773403211908681729/pu/pl/6btFcI5GEP92eEp7.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1773403211908681729/pu/vid/avc1/480x270/Elw29PX1-_k5NkLT.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1773403211908681729/pu/vid/avc1/640x360/d63opPO9Eg_s52ld.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1773403211908681729/pu/vid/avc1/1280x720/fEKgTwy7nr5RciSd.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) [heytavus](https://twitter.com/heytavus) (24/25) Yoneda Labs ( [YonedaLabs](https://twitter.com/YonedaLabs) )：化学基础模型。能够告诉化学家优化化学反应的最佳温度、浓度和催化剂。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) [heytavus](https://twitter.com/heytavus) [YonedaLabs](https://twitter.com/YonedaLabs) (25/25) Yondu ( [yonduai](https://twitter.com/yonduai) )：为机器人构建自主导航世界的基础模型。 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+[atmo_ai](https://twitter.com/atmo_ai) [canofsoup_inc](https://twitter.com/canofsoup_inc) [DeepgramAI](https://twitter.com/DeepgramAI) [diffuse_bio](https://twitter.com/diffuse_bio) [ezdubs_bot](https://twitter.com/ezdubs_bot) [ExaAILabs](https://twitter.com/ExaAILabs) [guidelabsai](https://twitter.com/guidelabsai) [toinfinityai](https://twitter.com/toinfinityai) [kscalelabs](https://twitter.com/kscalelabs) [LinumInc](https://twitter.com/LinumInc) [getmetalware](https://twitter.com/getmetalware) [NavierAI](https://twitter.com/NavierAI) [phindsearch](https://twitter.com/phindsearch) [playground_ai](https://twitter.com/playground_ai) [Suhail](https://twitter.com/Suhail) [play_ht](https://twitter.com/play_ht) [sevn_ai](https://twitter.com/sevn_ai) [SonautoAI](https://twitter.com/SonautoAI) [heytavus](https://twitter.com/heytavus) [YonedaLabs](https://twitter.com/YonedaLabs) [yonduai](https://twitter.com/yonduai) 以上就是全部，原作者[snowmaker](https://twitter.com/snowmaker)
+
+关注我[FinanceYF5](https://twitter.com/FinanceYF5)，我每天都在探索和分享 AI。   
+
+点赞、评论和转发第一篇文章与您的朋友分享。https://t.co/msBwU5WDP8 
+#+END_QUOTE\

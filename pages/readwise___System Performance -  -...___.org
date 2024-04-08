@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/System Performance -  -...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vaibhaw_vipul on Twitter]]
+:full-title: "System Performance -  -..."
+:category: [[tweets]]
+:url: https://twitter.com/vaibhaw_vipul/status/1774712822741557560
+:image-url: https://pbs.twimg.com/profile_images/1754535360552419329/jxP0AwIF.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+System Performance - 
+
+\- LISA19 - Linux Systems Performance -  https://t.co/R4Y5uZV6RU
+
+- Tuning Essentials - Linux Performance Optimization - Red Hat EX442 - https://t.co/6dsgi5Vehq 
+
+Please let me know if you have some resources, I want to get deeper into it. 
+#+END_QUOTE\

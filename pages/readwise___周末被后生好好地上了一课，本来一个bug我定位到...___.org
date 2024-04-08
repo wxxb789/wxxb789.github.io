@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/周末被后生好好地上了一课，本来一个bug我定位到...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "周末被后生好好地上了一课，本来一个bug我定位到..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1772425022596173991
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+周末被后生好好地上了一课，本来一个bug我定位到Sysbench这就完事了，但是有人不服气，他在CentOS8下没有这个问题，于是他周末花时间慢慢验证问题不是在Sysbench，而是在Sysbench 依赖的 libmysqlclient 中，描述如图，Update 部分都是他帮我完成的，当然我也奉上我的双膝和星球白嫖服务
+
+这就是我期望看到的：1）无知无我的学习和求证热情——什么老师都比不上学习热情；2）完美的教学相长，但是在公司里我们羞于和人交流很"低级"的问题，也就错过了很多进一步的机会，但是在互联网上除了知识其它谁都Care
+想要一起这样学习可以点开我的X 主页，加入我们
+
+![](https://pbs.twimg.com/media/GJjrKMoasAAKDht.jpg) 
+#+END_QUOTE\

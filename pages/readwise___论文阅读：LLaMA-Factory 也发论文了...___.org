@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/论文阅读：LLaMA-Factory 也发论文了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "论文阅读：LLaMA-Factory 也发论文了..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1772476586358345785
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+论文阅读：LLaMA-Factory 也发论文了，恭喜。
+
+论文比较了不同的ft方法的内存、速度、PPL和实际效果指标。结论：
+
+1. 速度最快，效果最好的微调方法是 LoRA
+2. 内存占用最小的微调方法是 QLoRA，效果和LoRA 基本一样。 
+
+![](https://pbs.twimg.com/media/GJkZY04bQAAmgYW.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+论文地址：https://t.co/9MJy6W7qCT
+
+这个结论也和我个人的实践结论相同。所以目前如果内存足够，我会选 Lora，内存不足，选 QLora。 
+#+END_QUOTE\

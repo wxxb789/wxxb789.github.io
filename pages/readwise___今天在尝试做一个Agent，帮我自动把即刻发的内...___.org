@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/今天在尝试做一个Agent，帮我自动把即刻发的内...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[RyanMfer on Twitter]]
+:full-title: "今天在尝试做一个Agent，帮我自动把即刻发的内..."
+:category: [[tweets]]
+:url: https://twitter.com/RyanMfer/status/1775859091774316869
+:image-url: https://pbs.twimg.com/profile_images/1590397904665350144/OH92qu1Z.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+今天在尝试做一个Agent，帮我自动把即刻发的内容同步到Twitter
+
+最理想的情况就是我一发即刻，就自动发twitter，我没上代码，先用Coze做了MVP，用Coze的好处是Twiter的API 免费，想实现输入即刻的链接，然后自动发twitter
+
+搭建了一个Agent，主要用到了Browser这个插件，和Twitter Sender插件，Browser读取到链接里的文字内容，利用Twitter Sender发，绑定一下Twitter账号即可
+
+Prompt和调用过程如图1，效果如图2，实现还存在一些问题，没有办法读取到图片，需要我自己输入给他，就导致这个MVP版本其实没有什么用，只能发文字，比如我自己直接发，但是还是把这个公开出来，大家可以在我的基础上进行修改，看看能不能实现我想要的功能
+
+Coze：https://t.co/1rpJoHnJAS
+
+夸一下Coze真好用
+
+![](https://pbs.twimg.com/media/GKUeZ4fbcAAs1dz.jpg)
+
+![](https://pbs.twimg.com/media/GKUebU1bcAABH7X.png) 
+#+END_QUOTE\

@@ -1,0 +1,81 @@
+:PROPERTIES:
+:title: readwise/这个视频很值得一看，比上次 JimFan 在 T...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "这个视频很值得一看，比上次 JimFan 在 T..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1771760507000705200
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-24]]
+#+BEGIN_QUOTE
+这个视频很值得一看，比上次 JimFan 在 Ted 那个演讲的版本丰富了很多，从具身化（Embodiment）和技能（Skill）两个维度来描述了智能体的进化方向和成果：AlphaGo -> MineCLIP -> Voyager -> Eureka -> Groot。
+
+从最开始的 AlphaGo 只会下围棋，到如今的 Groot 能适应不同的人形机器人硬件。
+
+Jim 提出了通用智能体需具备的三大特征：能在开放世界探索、拥有海量知识、能执行无数任务。
+
+早期的 MineDojo 利用"我的世界"游戏作为开发沙盒，训练出了 MineCLIP 模型，能理解游戏中的抽象概念。GPT-4 的问世则催生了 Voyager，它能借助代码生成行动指令，让智能体能在游戏中自主探索，通过反思不断学习新技能。
+
+从单一形态走向多形态，MetaMorph 实现了一个适用于成千上万种机器人的通用控制器，展现出跨形态的迁移能力。Isaac Sim 的超高速物理模拟，加上 Eureka 的混合梯度架构，有望实现全自动机器人开发。
+
+而 Groot 项目的目标，是为最通用的人形机器人打造基础模型，通过海量环境训练获得通用性，并与各种基础设施共建生态。
+
+通用 AI 之路任重道远，GEAR 实验室正朝着这一使命不懈努力。
+
+视频的总结：
+
+开场：见证 AlphaGo 战胜李世石的历史时刻
+
+Jim Fan 分享了他在 2016 年见证 AlphaGo 战胜李世石的经历，那一刻 AI 智能体成为主流，令人激动不已。但 AlphaGo 只会下围棋，不能像人类一样多才多艺。我们期望 AI 能像科幻电影中那样，能够适应各种虚拟和现实世界。
+
+研究地图：通往通用 AI 智能体之路
+
+通往通用 AI 智能体的研究可以从掌握技能数量、可控实体数量和理解现实世界数量三个维度来看。Jim 创立了 NVIDIA 的 GEAR 实验室，致力于通用化身智能体研究，希望最终达到右上角的目标。
+
+通用智能体的三大特征
+
+通用智能体需要具备三大特征：能在开放世界中探索、拥有海量世界知识、能执行无数任务。因此需要足够开放的环境、大规模预训练数据和强大的基础模型。
+
+"我的世界"作为通用智能体发展的沙盒
+
+"我的世界"是一个开放、可塑性强的游戏，非常适合作为开发通用 AI 的环境。庞大的玩家基数每天产生海量数据。NVIDIA 推出 MineDojo 框架，旨在利用"我的世界"开发通用 AI，包含模拟器 API、互联网知识数据库和 MineCLIP 等模型。
+
+Voyager：GPT-4 驱动的自主探索者 
+
+GPT-4 模型的问世使得 Voyager 这样的智能体成为可能。Voyager 将编程作为行动，能够在"我的世界"中自主探索数小时，通过反思机制不断掌握新技能，在获取新物品的驱动下持续学习进化。
+
+MetaMorph：适应多种形态的机器人控制器
+
+MetaMorph 旨在创建一个适用于成千上万种不同构型机器人的基础模型。它将机器人形态表示为语言序列，使用 Transformer 模型学习通用策略，展现了跨形态的零样本迁移能力。
+
+Isaac Sim：GPU 加速的虚拟世界
+
+Isaac Sim 能以 1000 倍速运行物理模拟，生成无限复杂精细的虚拟世界。Eureka 智能体展现了超人的机器人灵巧性。混合梯度架构使用语言引导强化学习，自动优化奖励函数。未来 Eureka++ 有望成为全自动机器人开发平台。
+
+Groot：人形机器人的基础模型
+
+NVIDIA 推出 Groot 项目，目标是为最通用的人形机器人构建基础模型，使其能在不同实体间迁移。训练过程类似 ChatGPT，通过在海量环境中训练来获得通用性。Groot 将与 OSMO 等基础设施共同构建生态系统，有望使类人机器人真正有用。
+
+问答环节
+
+问答环节涉及以下主题：
+
+1. MineCLIP 和 Dreamery3 的任务训练结合 
+2. MetaMorph 与 GAN 框架的关系
+3. NVIDIA 对 GEAR 实验室的定位和合作伙伴
+4. 技术产业和学校合作培养学生
+5. 智能体如何学习物理知识 
+6. Eureka 发现新技能的能力
+7. 将研究从实验室应用到现实世界的挑战
+
+Jim 对这些问题一一进行了解答和讨论，提出了自己的见解。
+
+完整文稿：https://t.co/FurwK6b2iR<video controls><source src="https://video.twimg.com/amplify_video/1771755983259275264/pl/QrD1_I3bfyh85bU2.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1771755983259275264/vid/avc1/480x270/OpB8vSHlOqDHkzjd.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1771755983259275264/vid/avc1/640x360/qOgfie7ZjgfCabpd.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1771755983259275264/vid/avc1/1280x720/6QjMJGxVmL4eaYmk.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

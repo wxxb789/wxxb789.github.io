@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/孤陋寡闻了，docker 中还有一个 Healt...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vikingmute on Twitter]]
+:full-title: "孤陋寡闻了，docker 中还有一个 Healt..."
+:category: [[tweets]]
+:url: https://twitter.com/vikingmute/status/1772809802215026957
+:image-url: https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+孤陋寡闻了，docker 中还有一个 healthcheck 健康检查机制检查内部的服务是否健康，如果挂了可以重启，准备给应用添加一下，我觉得是一个非常有用的特性。
+
+https://t.co/dYteARluaE
+
+https://t.co/r4l5xCiAb0
+
+随便推一下这本开源电子书：https://t.co/YOvk4SeQ9O
+
+《Docker - 从入门到实践》，应该是中文中写的数一数二的了吧，Stars 24K，还出了实体书。
+
+![](https://pbs.twimg.com/media/GJpJDjWaIAETI3T.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: readwise/一语惊醒梦中人的感觉最爽，我是做了10年性能优化...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "一语惊醒梦中人的感觉最爽，我是做了10年性能优化..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1775694402335486004
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-04]]
+#+BEGIN_QUOTE
+一语惊醒梦中人的感觉最爽，我是做了10年性能优化后碰到了一次醍醐灌顶般的醒悟
+
+这之后，无数次只需要看一眼服务的RT、CPU状态就能很快给出服务的极限QPS是多少。
+
+这个原理最简单的总结就是：QPS和延时的乘积是常量（复杂版总结如图1）；分析案例如图2
+
+当别人给我压测结果数据(并发、QPS、RT)的时候大多我一眼就能看出来数据错了，比如打压力5分钟，然后给了一个5分钟的平均QPS，我一推算QPS不对，再让业务仔细一查原来是5分钟前面有3分钟热身，真正完整压力2分钟，但是QPS给了5分钟的！
+
+如果QPS和延时同时下降那么一定是并发过来的压力不够了。
+
+我见到99%的性能压测就像洞房的处男一顿乱鼓捣，只会不停地加并发，从来没有停下来计算一个并发的QPS是多少、对应的RT是多少、US CPU是多少，最佳并发压力是多少。
+
+而我的做法是：1）用很少的线程压，收集RT、QPS、CPU数据；2）计算得到总QPS、最佳并发线程；3）用计算所得的并发数打压力
+
+理解了下面两张图顶所有性能优化的课程，我看过很多收费课程，基本都有些错误，胜过你看一堆的性能优化书籍 :)
+
+结合我知识星球里的案例来理解效果更好
+
+这也是以一挡一百的知识点，搞懂就打通一个领域
+
+![](https://pbs.twimg.com/media/GKSIpEHaUAAdTk9.jpg)
+
+![](https://pbs.twimg.com/media/GKSIpEHbAAAozKX.jpg)
+
+![](https://pbs.twimg.com/media/GKSIpELakAAAOyN.png)
+
+![](https://pbs.twimg.com/media/GKSIn18bIAAXjv5.jpg) 
+#+END_QUOTE\

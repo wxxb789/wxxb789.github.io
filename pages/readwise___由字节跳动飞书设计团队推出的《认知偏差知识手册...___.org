@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/由字节跳动飞书设计团队推出的《认知偏差知识手册...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[seclink on Twitter]]
+:full-title: "由字节跳动飞书设计团队推出的《认知偏差知识手册..."
+:category: [[tweets]]
+:url: https://twitter.com/seclink/status/1774669590888677672
+:image-url: https://pbs.twimg.com/profile_images/1709859553414893568/a_eQ9NYf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+由字节跳动飞书设计团队推出的《认知偏差知识手册 》，
+
+将人在思考和决策时容易犯的67种认知偏差总结而成，
+
+运用好这些知识，
+
+让你设计的产品在用户在使用时更好的决策。
+
+电商网站有纸质版售卖，以下链接是线上版.
+
+https://t.co/GPVVEKUqXF 
+
+![](https://pbs.twimg.com/media/GKDkhvLbkAAu3pf.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/分享之前的一个colab笔记: Build-Gp...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "分享之前的一个colab笔记: Build-Gp..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1772228365208227866
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+分享之前的一个colab笔记: Build-GPT-from-Scratch.ipynb，用 Python 从零开始构建一个 GPT 语言模型，笔记写的相对比较简单，但是可以训练可以推理。
+
+https://t.co/ADyZUmt2kc
+
+同时推荐一本正在写的书：https://t.co/OabjaFrSve （可以免费查看已出版章节，目前更新到章节4） 
+
+![](https://pbs.twimg.com/media/GJg4OhYa8AARPKO.jpg) 
+
+![](https://pbs.twimg.com/media/GJg4RataIAA7_08.jpg) 
+#+END_QUOTE\

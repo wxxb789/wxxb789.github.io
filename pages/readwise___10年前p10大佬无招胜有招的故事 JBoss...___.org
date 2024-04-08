@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/10年前p10大佬无招胜有招的故事 JBoss...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "10年前p10大佬无招胜有招的故事 JBoss..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1772075453026824211
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+10年前P10大佬无招胜有招的故事
+
+JBoss启动失败，没有太多错误信息，唯一有一行LogFactory.release的warning日志
+
+对这个问题，如果熟悉JBoss启动流程那么很容易排查（套路熟练），如果不熟悉JBoss怎么办呢。P10大佬虽然对JBoss不熟但是对btrace无比熟练，所以从trace这个warning入手一步步trace出来启动流程堆栈
+
+然后追踪到listenerStart，再然后trace到Exception，继续通过trace dump到Excepiton内容是因为jar加载冲突了，再加上 启动参数上增加-XX:+TraceClassLoading就能知道具体冲突的版本
+
+你看一套流程下来考的是btrace无比熟练，跟我之前讲的抓包一样。抓包、strace、btrace
+
+啊，P10还查问题？嗯10年前P10也要弄脏双手干活的，现在P8就不用了
+
+20年前通过抓包大佬 #无招胜有招  的故事 我下次再讲 
+#+END_QUOTE\

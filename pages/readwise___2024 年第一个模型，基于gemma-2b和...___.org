@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/2024 年第一个模型，基于gemma-2b和...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[GanymedeNil on Twitter]]
+:full-title: "2024 年第一个模型，基于gemma-2b和..."
+:category: [[tweets]]
+:url: https://twitter.com/GanymedeNil/status/1763521729585205426
+:image-url: https://pbs.twimg.com/profile_images/1121596869681958912/iSob597s.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+2024 年第一个模型，基于gemma-2b和 Linux 中国文章数据训练的科技文章标题生成模型。这个模型解决了我写文章起什么标题的难题🤣。然后这个模型我开放了训练期间所有的中间模型，供大家参考。我个人倾向于用2000 step 的这个。
+https://t.co/ciNYGWdZxl 
+
+![](https://pbs.twimg.com/media/GHlIun1a4AAE21O.jpg) 
+#+END_QUOTE\

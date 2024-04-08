@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/Chinese Tiny LLM：从头开始训练...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[imxiaohu on Twitter]]
+:full-title: "Chinese Tiny LLM：从头开始训练..."
+:category: [[tweets]]
+:url: https://twitter.com/imxiaohu/status/1777181431799959886
+:image-url: https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+Chinese Tiny LLM：从头开始训练 专注于中文的大语言模型
+
+CT-LLM是针对中文设计的首个大语言模型，拥有20亿参数，并在12000亿中文语料库上进行预训练。
+
+他们还弄了了新的中文对齐基准测试：CHC-Bench，测试LLMs对中文文化、历史、传统、人文、地理和STEM的深入理解。
+
+测试结果与一些同参数模型性能相当。
+
+他们开放了整个数据过滤过程、训练动态、训练和评估数据以及模型中间检查点等数据。
+
+模型作者：[GeZhang86038849](https://twitter.com/GeZhang86038849)
+详细：https://t.co/U7dkhS9VKQ
+
+![](https://pbs.twimg.com/media/GKnN7kUbMAAbzzD.jpg) 
+#+END_QUOTE\

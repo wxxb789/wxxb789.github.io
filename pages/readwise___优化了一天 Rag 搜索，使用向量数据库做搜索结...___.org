@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/优化了一天 Rag 搜索，使用向量数据库做搜索结...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[idoubicc on Twitter]]
+:full-title: "优化了一天 Rag 搜索，使用向量数据库做搜索结..."
+:category: [[tweets]]
+:url: https://twitter.com/idoubicc/status/1772269102708466061
+:image-url: https://pbs.twimg.com/profile_images/1657754264729448448/1AOP0K4c.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+优化了一天 RAG 搜索，使用向量数据库做搜索结果的 reranking，纠结最后一步是否要获取详情内容。
+
+不获取详情上下文语境不足，回复效果不太准；带上详情，又会引入多余的内容；继续相似度匹配 part content 又会丢失一部分精度...好难🥲
+
+也许依赖 LLM 的 long context 做暴力传输才是最优解? 
+
+![](https://pbs.twimg.com/media/GJhdVS6aMAASTH-.jpg) 
+
+![](https://pbs.twimg.com/media/GJhdVS6bIAAVg2F.jpg) 
+
+![](https://pbs.twimg.com/media/GJhdVS8a0AAzS1i.jpg) 
+
+![](https://pbs.twimg.com/media/GJhdVS8aoAAqOYv.jpg) 
+#+END_QUOTE\

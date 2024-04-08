@@ -1,0 +1,88 @@
+:PROPERTIES:
+:title: readwise/🧱DBRX🧱 Is So Good That I...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[cwolferesearch on Twitter]]
+:full-title: "🧱DBRX🧱 Is So Good That I..."
+:category: [[tweets]]
+:url: https://twitter.com/cwolferesearch/status/1773730253812208096
+:image-url: https://pbs.twimg.com/profile_images/1715212547215802368/tqxfSqh3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+🧱DBRX🧱 is so good that it forced 3-4 companies to release "competing" LLMs in the last two days (and we've barely heard about them). Some of my thoughts are summarized below...
+
+Prior research from Mosaic. DBRX is the next model in the series of Open LLMs released by Mosaic.  Two versions of the model are released—a base model (DBRX base) and a finetuned model (DBRX Instruct)—under an open license (i.e., the Databricks open model license). Mosaic entered the space of open LLMs with their proposal of MPT-7B in May of 2023—less than a year ago! Since then, Mosaic has:
+
+1. Been acquired for $1.3B
+2. Trained thousands of specialized LLMs for customers
+3. Found time to release several open LLMs (DBRX being the latest)
+4. Improved the end-to-end efficiency of LLM pretraining by over 4X
+
+The MoE-based DBRX model achieves new state-of-the-art performance for open language models in terms of both quality and efficiency across a massive suite of evaluations.
+
+Model architecture. DBRX is a Mixture-of-Experts (MoE) model that is pretrained on 12T tokens of curated text. Compared to popular models like ST-MoE that use a smaller number of large experts, DBRX takes an opposite strategy, using a fine-grained MoE architecture with a larger number of small experts. The model has 132B parameters in total with 36B parameters active at any given time (i.e., each MoE layer has 16 experts in total and four experts are chosen in each forward pass). Relative to models like Mixtral and Grok-1 that have only eight experts (and two active experts), DBRX has 65X more potential combinations of experts that can be used, which is found to improve model quality. 
+
+“We estimate that our new pretraining data is at least 2x better token-for-token than the data used to train MPT-7B. In other words, we estimate that half as many tokens are necessary to reach the same model quality.” - from DBRX writeup
+
+More DBRX details. Although the pretraining dataset for DBRX is much larger than prior models, authors also claim that the data used to train DBRX is higher-quality. As a result of this quality increase, the statistical training efficiency of DBRX is higher than normal—training is faster because we achieve higher accuracy with a smaller number of tokens. Additionally, a curriculum learning strategy (i.e., meaning that the data mixture is dynamically changed throughout pretraining) is adopted for training DBRX and found to improve model quality. DBRX has a longer context length of 32K and uses the GPT-4 tokenizer—available via the tiktoken package—instead of the GPT-NeoX tokenizer used by prior MPT models, which is found to improve performance.
+
+Better efficiency. The proposal of DBRX comes with large improvements in terms of both training and inference efficiency. As mentioned above, DBRX is trained over an optimized dataset that improves training efficiency by roughly 2X. However, a variety of other factors yield further boosts in training efficiency:
+
+\- The MoE architecture, which is found in smaller-scale experiments (i.e., on DBRX MoE-B, a 23.5B parameter model with 6.6B active parameters) to require 1.7× fewer FLOPS during training compared to a performance-matched LLaMA-2-13B model.
+- Other modifications to the decoder-only architecture (i.e., RoPE, GLU activation, and GQA).
+- “Better optimization strategies” (hopefully more details coming soon).
+
+When considering all data, architecture, and optimization changes, the end-to-end training process of DBRX requires 4X less compute than prior models released by Mosaic. To determine this number, authors compare a smaller variants of DBRX, DBRX MoE-A (i.e., a 7.7B parameter LLM with 2.2B active parameters) to MPT-7B, finding that DBRX MoE-A achieves similar performance on the Databricks Gauntlet while using 3.7× fewer FLOPS during training.
+
+DBRX is efficient for both training and inference—up to 2X faster than LLaMA-2-70B at 150 tokens per second per user in load tests. Mosaic has an optimized serving infrastructure that uses TensorRT-LLM and 16 bit precision, which is very fast. The MoE architecture of DBRX also aids inference efficiency due to the relatively low number of active parameters; e.g., DBRX is 40% of the size of Grok-1 in both total and active parameters.
+
+“Using an MoE architecture makes it possible to attain better tradeoffs between model quality and inference efficiency than dense models typically achieve.” - from DBRX writeup
+
+Empirical evaluation. In comparison to other open LLMs, we see that DBRX Instruct achieves the best performance on composite benchmarks by a large margin compared to Mixtral; see above. Notably, DBRX has impressive programming skills, outperforming models like Grok-1 that are more than twice its size and specialized coding models like CodeLLaMA-70B (despite being a general-purpose LLM!). DBRX also has impressive reasoning/math skills.
+
+Compared to closed models, DBRX surpasses the performance of GPT-3.5 and is competitive with Gemini Pro. Gemini Pro only outperforms DBRX on GSM8K, while Mixtral-Medium performs better on a select few tasks that are considered; see above. At a high level, DBRX seems to be good at general knowledge and commonsense reasoning tasks, as well as programming and math. DBRX also is shown to perform competitively with models like Mixtral and GPT-3.5/4-Turbo on tasks involving RAG and long context.
+
+The research process. DBRX was created in less than three months using a cluster of 3K H100 GPUs with a budget of around $10M. Mosaic is an applied research team, meaning that a lot of their work is customer-focused—they have trained thousands of specialized LLMs for various Databricks customers. However, this focus upon applications is exactly what makes the team so interesting—it forces researchers to sift through the noise of AI research and find techniques that work. Plus, the team still finds enough free time to conduct legitimate research and has had a massive impact on the trajectory of open-source LLMs through the MPT/DBRX models.
+
+![](https://pbs.twimg.com/media/GJ2NDw5W8AA5r3d.jpg)
+
+![](https://pbs.twimg.com/media/GJ2NZ4uWMAANiqj.jpg)
+
+![](https://pbs.twimg.com/media/GJ2NkyiW4AA8e3f.jpg)
+
+![](https://pbs.twimg.com/media/GJ2N0rJWIAAkvBl.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+For a deep dive on DBRX directly from the team that created the model, check out the awesome post below.
+
+https://t.co/yu7ACxLYFY 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+Also, a lot of the advancements made in DBRX seem to be related to data (i.e., more/better data, better tokenizer, data mixtures, curriculum learning, etc.). If you want to keep up with these details, then you should follow [code_star](https://twitter.com/code_star) who runs the data research team at Mosaic. 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+[code_star](https://twitter.com/code_star) Finally, wired wrote a super interesting article about the creation of DBRX. Check it out below.
+
+https://t.co/gdqelhRfbW 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+Also, forgot to mention that there's also a technical writeup for DBRX. Check it out below...
+
+https://t.co/kQEbP2DkOL 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+Linking my favorite DBRX meme from the release in case anyone is interested.
+
+https://t.co/Z1TULkwDRC 
+#+END_QUOTE\

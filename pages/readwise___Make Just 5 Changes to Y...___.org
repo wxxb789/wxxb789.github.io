@@ -1,0 +1,112 @@
+:PROPERTIES:
+:title: readwise/Make Just 5 Changes to Y...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[akshay_pachaar on Twitter]]
+:full-title: "Make Just 5 Changes to Y..."
+:category: [[tweets]]
+:url: https://twitter.com/akshay_pachaar/status/1772967110882328746
+:image-url: https://pbs.twimg.com/profile_images/1578327351544360960/YFpWSWIX.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Make just 5 changes to your PyTorch code & get access to state of the art:
+
+\- Distributed training strategies
+- And mixed precision out of the box
+
+And it easily scales to the largest billion-parameter models/LLMs! ✨
+
+Learn more... 👇 
+
+![](https://pbs.twimg.com/media/GJrX6DMWYAAs_KB.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Introducing Lightning Fabric, a fast and lightweight way to scale PyTorch models without boilerplate.
+
+\- requires minimal change to PyTorch code
+- flexibility to write your own training and/or inference logic
+
+Let's explore it's capability one by one...👇 
+
+![](https://pbs.twimg.com/media/GJrYDBOXIAAfxBg.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Launching a distributed training is simple!
+
+In a single like of code you specify the number of devices & parallelism strategy to use:
+
+\- DDP
+- FSDP
+- DeepSpeed
+
+Check this out👇 <video controls><source src="https://video.twimg.com/ext_tw_video/1772968385187393536/pu/pl/3wm5zaLO9MtMcj93.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772968385187393536/pu/vid/avc1/642x270/hZ78TUOHTVpaLXzn.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772968385187393536/pu/vid/avc1/856x360/2LenHQmw8GjP4P7P.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772968385187393536/pu/vid/avc1/1714x720/C71fbvEKQix4oIxB.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Set accelerator and devices
+
+Fabric enables you to take full advantage of the hardware on your system. It supports:
+
+\- CPU
+- TPU
+- GPU (NVIDIA, AMD, Apple Silicon)
+
+By default, Fabric tries to maximize the hardware utilization of your system
+
+Check this out👇 <video controls><source src="https://video.twimg.com/ext_tw_video/1772969127885307904/pu/pl/zFvAAQ5-BSZUrB6r.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772969127885307904/pu/vid/avc1/632x270/VikHBy4hFSDfrNtl.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772969127885307904/pu/vid/avc1/844x360/3fK4QEDg9TmX_Ump.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772969127885307904/pu/vid/avc1/1690x720/OtZ1fk6gNqA9CbHQ.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Accessing the Device
+
+You can access the device anytime through `fabric.device`. This lets you replace boilerplate code like this: 
+
+![](https://pbs.twimg.com/media/GJraM7BWcAAIxkd.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Save memory & speedup training with mixed precision
+
+Fabric recognises the steps that require complete accuracy and employs a 32-bit floating point for those steps only while using a 16-bit floating point for the rest.
+
+This is how you select the precision in Fabric: 
+
+![](https://pbs.twimg.com/media/GJraTSUWMAAw-Wu.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Interested in learning more about it?
+
+Check out the docs below, which include a wide range of examples on:
+
+\- CV/NLP
+- RL
+- And more...
+
+Let me know if you'd like to see this in [LightningAI](https://twitter.com/LightningAI) Studio!⚡️
+
+Read the docs here: https://t.co/86jp5BUM25 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[LightningAI](https://twitter.com/LightningAI) If you interested in:
+
+\- Python 🐍
+- ML/MLOps 🛠
+- CV/NLP 🗣
+- LLMs 🧠
+- AI Engineering ⚙️
+
+Find me → [akshay_pachaar](https://twitter.com/akshay_pachaar) ✔️
+Everyday, I share tutorials on above topics!
+
+Cheers! 🥂 
+#+END_QUOTE\

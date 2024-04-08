@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/一个内核优化 Fio 测试性能提高 10% -...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[silosrc on Twitter]]
+:full-title: "一个内核优化 Fio 测试性能提高 10% -..."
+:category: [[tweets]]
+:url: https://twitter.com/silosrc/status/1771968884666683491
+:image-url: https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+一个内核优化 fio 测试性能提高 10% - 12%，我预期是 4% 来着... 写的途中还不小心搞了个 memleak 所以性能下滑来着ORZ，C 这种语言就是写多熟都还是有可能疏忽... 太晚了先跑起另一个补丁集的 benchmark 然后睡了，明天提上游... 想最近把这几个特性折腾好扩展技术栈搞点别的，底层有点烦加累了... 
+
+![](https://pbs.twimg.com/media/GJdMKYVbAAAO1CL.png) 
+#+END_QUOTE\

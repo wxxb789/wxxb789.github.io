@@ -1,0 +1,40 @@
+:PROPERTIES:
+:title: readwise/Omg 这个实时对话效果太棒了，就像真人一样...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[lvwzhen on Twitter]]
+:full-title: "Omg 这个实时对话效果太棒了，就像真人一样..."
+:category: [[tweets]]
+:url: https://twitter.com/lvwzhen/status/1773245288280379681
+:image-url: https://pbs.twimg.com/profile_images/1515677500470353920/L069d9NE.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+OMG 这个实时对话效果太棒了，就像真人一样
+
+https://t.co/XTdLethTfj 
+
+![](https://pbs.twimg.com/media/GJvU8_MWoAAAoXq.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+这个原型之前我也想过做一个，犹豫了下没动手 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+这就像和一个美剧中的俏皮小伙聊天的感觉，太好玩了 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+和传统的 TTS 不同，聊天中会有很多语气，口头词，真实感很强 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+问他会不会中文，骗我说会。
+结果把奇怪的拼音字母一个一个读给我听😂 
+#+END_QUOTE\

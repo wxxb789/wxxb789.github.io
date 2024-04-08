@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Backend Performance Best...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[kamrify on Twitter]]
+:full-title: "Backend Performance Best..."
+:category: [[tweets]]
+:url: https://twitter.com/kamrify/status/1772381600442908865
+:image-url: https://pbs.twimg.com/profile_images/1663941642565328897/Q0ZJ4XMH.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+Backend Performance Best Practices 🚀
+
+We just published a new interactive guide covering best practices to improve your backend or API performance
+
+Check it out 👇
+
+https://t.co/iLCwe3Ug9D 
+
+![](https://pbs.twimg.com/media/GJjDiGHXQAA0ZRg.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+Shout out to [eitmg](https://twitter.com/eitmg) who submitted the initial draft and kept nagging me to publish it 😅 
+#+END_QUOTE\

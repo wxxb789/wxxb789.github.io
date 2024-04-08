@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/吴老师的比喻很厉害，输入提示词（0-Shot）直...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Datou on Twitter]]
+:full-title: "吴老师的比喻很厉害，输入提示词（0-Shot）直..."
+:category: [[tweets]]
+:url: https://twitter.com/Datou/status/1773504796806541758
+:image-url: https://pbs.twimg.com/profile_images/649477316461006848/K2eKkOPs.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+吴老师的比喻很厉害，输入提示词（0-shot）直接得到答案就像写作文不给用回车键就像编程不给调试和修改，人类自己都做不到。如果让大语言模型模仿人类的工作（扮演智能体），给它一些工作流程的指导，允许它使用工具，甚至让多个对话之间协作，它的表现会比0-shot好的多得多。<video controls><source src="https://video.twimg.com/amplify_video/1773489905110228992/pl/ZtWUdgIFzmToj6Ph.m3u8?tag=16&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/480x270/PsSpZk4yAoIuv3_Q.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/640x360/TZ6f9bIomIFCsSyw.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/1280x720/yKcjAMD3ep5JDNDe.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/1920x1080/_3m-QstbetpZnW--.mp4?tag=16" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

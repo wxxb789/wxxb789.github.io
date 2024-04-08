@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/Neumann把SQL批判一顿，说SQL语法顺序...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[DylanGalois on Twitter]]
+:full-title: "Neumann把SQL批判一顿，说SQL语法顺序..."
+:category: [[tweets]]
+:url: https://twitter.com/DylanGalois/status/1776906328348217387
+:image-url: https://pbs.twimg.com/profile_images/1453047842310746113/_sUjo6r2.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+Neumann把SQL批判一顿，说SQL语法顺序和语义顺序不一致不利于初学者学习，CTE的抽象不好用不利于数据分析人士使用，SQL越来越复杂要累死数据库开发者了。既然学SQL前要学关系代数，干脆直接写关系代数得了，所有人都开心，于是有了SaneQL。最后出来的东西真像DataFrame API🥵 
+
+![](https://pbs.twimg.com/media/GKjRCb8aQAAPhPT.jpg) 
+#+END_QUOTE\

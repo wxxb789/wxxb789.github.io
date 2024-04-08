@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/Lru 在基础架构面试中考察的非常套路和高频，因...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[qtmuniao on Twitter]]
+:full-title: "Lru 在基础架构面试中考察的非常套路和高频，因..."
+:category: [[tweets]]
+:url: https://twitter.com/qtmuniao/status/1773891724668211614
+:image-url: https://pbs.twimg.com/profile_images/1643865343398662144/ahr3YMn6.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+LRU 在基础架构面试中考察的非常套路和高频，因它是一道典型的、都有思路、但是细节很多的题目。解这道题的关键是，如何在宏观上和微观上管理复杂度。
+
+其中，将数据、索引分离考虑的思想，借鉴数据库的聚集索引和二级索引，是处理复杂数据结构的终极大杀器 。
+
+https://t.co/RZ9wCGRoDO 
+
+![](https://pbs.twimg.com/media/GJ4era-bUAAKa2t.jpg) 
+
+![](https://pbs.twimg.com/media/GJ4era9bcAA-_Xd.jpg) 
+
+![](https://pbs.twimg.com/media/GJ4era_bYAAjJu0.jpg) 
+
+![](https://pbs.twimg.com/media/GJ4erbBbYAANRbF.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+图片中，在最后删除索引处有个 bug，也是经常容易犯的，大家谁发现了可以说说~ 
+#+END_QUOTE\

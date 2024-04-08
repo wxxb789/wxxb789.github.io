@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/来看看剑桥大学开发的这个超赞的免费工具，无需注册...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xiaoying_eth on Twitter]]
+:full-title: "来看看剑桥大学开发的这个超赞的免费工具，无需注册..."
+:category: [[tweets]]
+:url: https://twitter.com/xiaoying_eth/status/1771723620164972951
+:image-url: https://pbs.twimg.com/profile_images/1668476737389494272/5kE7iqyp.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-24]]
+#+BEGIN_QUOTE
+来看看剑桥大学开发的这个超赞的免费工具，无需注册，就可以提高你的英语写作水平！📝 
+
+非常适合英语学习者练习书面英语。你提交写作后，几秒钟内就会得到与国际标准CEFR相关的反馈
+
+它会自动指出你可能需要改进的地方。无论你是初学者、中级还是高级水平，都能受益哦！🚀 
+
+https://t.co/lCrOhBENPp 
+
+![](https://pbs.twimg.com/media/GJZtPNQacAAqn_I.jpg) 
+#+END_QUOTE\

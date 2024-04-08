@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/我们经常听到“边缘”（edge）这个词，比如边缘...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[ruanyf on Twitter]]
+:full-title: "我们经常听到“边缘”（edge）这个词，比如边缘..."
+:category: [[tweets]]
+:url: https://twitter.com/ruanyf/status/1772422924160336118
+:image-url: https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+我们经常听到“边缘”（edge）这个词，比如边缘服务器、边缘计算、边缘存储等等。它到底是什么意思？
+
+我写了一篇文章，解释“边缘”的含义，以及怎么把它当作架构使用（也就是“边缘平台架构”），并且以腾讯云的 EdgeOne 边缘平台为例，演示使用方法。https://t.co/vZsALmTp21 
+
+![](https://pbs.twimg.com/media/GJjpOeebMAAqHMy.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/Vercel @Vercel  和 Supaba...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[xqliu on Twitter]]
+:full-title: "Vercel @Vercel  和 Supaba..."
+:category: [[tweets]]
+:url: https://twitter.com/xqliu/status/1772148134669349130
+:image-url: https://pbs.twimg.com/profile_images/1722439920680349696/inSddMkh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+Vercel [vercel](https://twitter.com/vercel)  和 supabase [supabase](https://twitter.com/supabase)  真的是独立开发者的两个大菩萨。
+
+Vercel 解决程序部署问题，supabase 解决数据库、Object 存储、认证问题，齐活了。
+
+据说另外一尊更大的菩萨是 Cloudflare [Cloudflare](https://twitter.com/Cloudflare)  我没有太用过。有没有用的比较多的，聊聊 Cloudflare ？
+
+这真是程序员的好时代。遥想 20 多年前，我不禁陷入了沉思。 
+#+END_QUOTE\
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+给大家介绍下，我们用这两个大菩萨的服务做的 landing page 是做什么的！
+
+欢迎大家去围观！
+
+https://t.co/FWND9SmJFf 
+#+END_QUOTE\

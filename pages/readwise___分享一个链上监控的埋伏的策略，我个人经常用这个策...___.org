@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/分享一个链上监控的埋伏的策略，我个人经常用这个策...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[deawonii on Twitter]]
+:full-title: "分享一个链上监控的埋伏的策略，我个人经常用这个策..."
+:category: [[tweets]]
+:url: https://twitter.com/deawonii/status/1773926044653015052
+:image-url: https://pbs.twimg.com/profile_images/1628240226454839296/zRTk9BOv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+分享一个链上监控的埋伏的策略，我个人经常用这个策略实现盈利，目前gmt截止26号买入已经实现盈利28个点
+
+首先，一般我会先用tradingview检测币安的币种合约持仓否发生变化（coinglass和coinank都有类似的功能可以自己设置警报）或者是通过lookonchain监控巨鲸正在购买的币，这一步的目的是筛选目前可能高度控盘的币种，爆拉的可能性会更大。 我是在26号的时候通过我trading view的监控看到合约持仓量有一波爆拉 但是币价没有什么波动，这时候我就将gmt定为了我重点观察的币种之一。
+图中最下面一行是合约持仓量的变化，可以看到在26号下午四点持仓量暴涨但价格没有波动。
+
+其次，我先是将gmt输入到arkham观察最近大额买入的地址的持币情况，看到最近24h和最近七天都有大额建仓的地址，并将其地址监控了起来，后续发现这几个大额建仓的在最近24h内一直买入，囤积。
+
+这里地址的监控警报可以使用Arkham的alert功能，将目标监控的地址直接输入，地址只要有transaction就会直接转发到你Telegram或邮箱，都是免费的很好用。
+除此之外还发现了一个地址在25号的时候20分钟从币安提出了1200w美金的gmt
+https://t.co/mQxRKrufTX
+截止我买入的时候，巨鲸那两天从交易所提币的总量已经超过当时币安热钱包的数量了，短期内这些巨鲸不会允许币价下跌，由此推断此时买入的盈亏比很高。和几个小伙伴商量后我们仓位就打进去了。
+
+![](https://pbs.twimg.com/media/GJ49u0DbcAA4HQK.jpg)
+
+![](https://pbs.twimg.com/media/GJ49u0EakAEa-51.jpg)
+
+![](https://pbs.twimg.com/media/GJ49u0CasAAKq1O.jpg) 
+#+END_QUOTE\

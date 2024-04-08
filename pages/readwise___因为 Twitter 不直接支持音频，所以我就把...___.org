@@ -1,0 +1,52 @@
+:PROPERTIES:
+:title: readwise/因为 Twitter 不直接支持音频，所以我就把...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "因为 Twitter 不直接支持音频，所以我就把..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1773950059131871678
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+因为 Twitter 不直接支持音频，所以我就把 OpenAI 博客里面的两条音频用CapCut（剪映）做了个视频，还挺简单方便的：
+
+1. 导入两条音频，然后点击+按钮或者拖动放到下面的工作区，根据顺序一前一后放置 
+
+![](https://pbs.twimg.com/media/GJ5UDOxX0AAtw_Y.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+2. 使用自动识别语音字幕功能生成字幕，对于这样中英文混合的建议选择语言为中文，因为英文默认识别很好的 
+
+![](https://pbs.twimg.com/media/GJ5UeuLWQAEbZ9-.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+3.因为默认只有音频和字幕，可以从媒体库中选择几段视频将画面填满，选择好后，点击+按钮或者拖动到工作区，注意时间轴和音频时间轴对齐。
+
+如果1条视频不够就加多条，如果视频时间轴超过音频时间轴，建议压缩视频时间轴，保证一致 
+
+![](https://pbs.twimg.com/media/GJ5U3OSXIAAXamG.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+4.  添加额外文字
+如果需要显示额外的文字信息，可以添加文字，调整位置、字体大小、颜色等
+
+在下方要注意放置好正确的时间轴，设置你要播放的时间范围 
+
+![](https://pbs.twimg.com/media/GJ5V7pdXIAAA7og.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+5. 如果是自动识别的字幕，可以加一些显示特效，例如字幕跳动等 
+
+![](https://pbs.twimg.com/media/GJ5WmQGWcAArvwR.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise/如何讲好一个故事 《像ted一样讲话：世界顶级...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[henices on Twitter]]
+:full-title: "如何讲好一个故事 《像ted一样讲话：世界顶级..."
+:category: [[tweets]]
+:url: https://twitter.com/henices/status/1777280188407054802
+:image-url: https://pbs.twimg.com/profile_images/1553267213410349056/quQySPWc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+如何讲好一个故事
+
+《像TED一样讲话：世界顶级大脑的九个演讲秘密》的作者卡迈恩·加洛（Carmine Gallo）分析了 TED 成功的演讲，总结了演讲成功的秘密。
+故事是一种传播手段，听故事能让听众和你的大脑同步，这就是故事的力量。
+
+亚里士多德的理论，要说服别人你得提供三个东西：
+Ethos ：个人信用，听众相信你是因为你的成绩，或者你拥有的头衔
+Logos：逻辑，就是理论推理和证据支持，比如提供各种统计数字
+Pathos：同理心和同情心，这就是故事的作用
+
+这三个东西中，最有作用的是 Pathos，晓之以理不如动之以情
+
+加洛发现 TED 的演讲者爱讲的故事有三种，我们对这三种故事有不同的要求。
+
+第一种，你自己的故事。
+可以讲和演讲主题相关的任何故事，听众总是对你自己的故事比别人故事更感兴趣。讲自己的故事能让听众觉得你真诚。
+第二种，别人的故事
+听众对别人的故事要求更高，希望能从别人的经历里学到一些道理。
+第三种，某个品牌或产品的故事
+这种故事要求更高，它应该是一个有关成功或失败的故事 
+#+END_QUOTE\

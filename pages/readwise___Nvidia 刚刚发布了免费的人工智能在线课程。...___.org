@@ -1,0 +1,152 @@
+:PROPERTIES:
+:title: readwise/Nvidia 刚刚发布了免费的人工智能在线课程。...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Nvidia 刚刚发布了免费的人工智能在线课程。..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1772827678359588923
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+NVIDIA 刚刚发布了免费的人工智能在线课程。
+
+以下是您不容错过的 9 门课程： 
+
+![](https://pbs.twimg.com/media/GJpZXlta8AAZtyu.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+1. 生成式人工智能解释
+
+你将学到什么：
+
+• 生成式人工智能并解释生成式人工智能的工作原理。
+
+• 各种生成式人工智能应用程序。
+
+• 生成人工智能的挑战和机遇
+
+链接： https://t.co/irNRWPgaqN <video controls><source src="https://video.twimg.com/ext_tw_video/1772827867891773440/pu/pl/dIejPQMeIuRn9cqj.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772827867891773440/pu/vid/avc1/514x270/gv1cn_SHwJhQDna5.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772827867891773440/pu/vid/avc1/686x360/mMr4gFsFv4HZ-t0b.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772827867891773440/pu/vid/avc1/1374x720/nk8IBvLqMY7LKoy5.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+2. 10 分钟构建大脑
+
+你将学到什么：
+
+• 探索神经网络如何使用数据进行学习
+
+• 了解神经元背后的数学原理
+
+链接： https://t.co/8kugitn4Au <video controls><source src="https://video.twimg.com/ext_tw_video/1772828077367926784/pu/pl/kwzXd9T43_dL4cap.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772828077367926784/pu/vid/avc1/514x270/HQ8hkXVXRsAOoa0z.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828077367926784/pu/vid/avc1/686x360/6RVwNkInfWwGlBb1.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828077367926784/pu/vid/avc1/1374x720/kB0JPsDU8myr4yn0.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+3. 使用检索增强生成来增强您的 LLM：
+
+你将学到什么：
+
+• 检索增强生成基础知识
+
+• RAG 检索过程
+
+• NVIDIA AI 基础和 RAG 模型组件
+
+链接： https://t.co/mjf2iTh4Gf <video controls><source src="https://video.twimg.com/ext_tw_video/1772828251033128960/pu/pl/YU9WBCOwp6uxyBKE.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772828251033128960/pu/vid/avc1/514x270/Hxu1wLuPEnzki9hk.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828251033128960/pu/vid/avc1/686x360/w4R3GH0LwmIMWhh3.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828251033128960/pu/vid/avc1/1374x720/HiR9PPdRymfRmsWj.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+4. 数据中心的人工智能：
+
+你将学到什么：
+
+• 人工智能用例、机器学习、深度学习及其工作流程。
+
+• GPU 架构及其对人工智能的影响。
+
+• 深度学习框架和部署注意事项。
+
+链接： https://t.co/nzBBc5NdfD <video controls><source src="https://video.twimg.com/ext_tw_video/1772828415399489536/pu/pl/hCh-IohyVSdQfIj1.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772828415399489536/pu/vid/avc1/514x270/SAi2m1g-KtR0FxLV.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828415399489536/pu/vid/avc1/686x360/A_P-nvYevR4Qa14x.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828415399489536/pu/vid/avc1/1374x720/VEXueCOEKHv2v28L.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+5. 通过零代码更改加速数据科学工作流程：
+
+你将学到什么：
+
+• 了解统一 CPU 和 GPU 工作流程的优势
+
+• GPU 加速数据处理和机器学习，无需更改代码
+
+• 体验更快的处理时间
+
+链接： https://t.co/dyOPDyEFQD <video controls><source src="https://video.twimg.com/ext_tw_video/1772828623621562368/pu/pl/oDx9CVinloxu5IMS.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772828623621562368/pu/vid/avc1/514x270/7SO8Cs1blS9O9vhU.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828623621562368/pu/vid/avc1/686x360/pa-MTAhPPJnt31l-.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828623621562368/pu/vid/avc1/1374x720/uGYUsfZEjLvgWwBF.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+6. 掌握推荐系统：
+
+你将学到什么：
+
+• Kaggle Grandmasters 关于构建电子商务推荐系统的策略。
+
+• 涵盖两阶段模型、候选生成、特征工程和集成。
+
+链接： https://t.co/MjXzA5mtRz <video controls><source src="https://video.twimg.com/ext_tw_video/1772828819038322688/pu/pl/i4DxMI-wzwBdImEW.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772828819038322688/pu/vid/avc1/514x270/2D_OS7ATiTx2vCgI.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828819038322688/pu/vid/avc1/686x360/94ephDihMoIlOI4q.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772828819038322688/pu/vid/avc1/1374x720/PNhFcfWdI3Vj1RHn.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+7. 联网简介：
+
+你将学到什么：
+
+• 了解网络及其重要性。
+
+• 探索以太网基础知识和以太网中的数据转发。
+
+• 讨论网络组件、要求、OSI 模型、TCP/IP 协议
+
+链接： https://t.co/ahyNlaoljL <video controls><source src="https://video.twimg.com/ext_tw_video/1772829102988509184/pu/pl/BrRYTImoznMpRRC0.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772829102988509184/pu/vid/avc1/514x270/yGBmQXaDBM40W9w0.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772829102988509184/pu/vid/avc1/686x360/7CV50Hne17K7nd-G.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772829102988509184/pu/vid/avc1/1374x720/i_m0M9A2BKF11uQF.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+8. 如何进行大规模图像分类：
+
+你将学到什么：
+
+• 学习大规模图像分类
+
+• 涵盖挑战、建模技术和验证策略。
+
+链接： https://t.co/rMVXbGJpG7 <video controls><source src="https://video.twimg.com/ext_tw_video/1772829265220009984/pu/pl/5UQmjT22lmtUMq8o.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772829265220009984/pu/vid/avc1/514x270/eedG3xlJwpJqtVlM.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772829265220009984/pu/vid/avc1/686x360/m0EXvMkGTK2tQcXM.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772829265220009984/pu/vid/avc1/1374x720/n_fA1YmlODc_ziY2.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+9. 使用 LLMs 构建 RAG 代理：
+
+你将学到什么：
+
+• LLMs 和矢量数据库的可扩展部署策略。
+
+• 用于对话管理和文档检索的现代LangChain 范例。
+
+• 使用先进的模型和步骤进行生产。
+
+链接： https://t.co/jZo7ii19fN <video controls><source src="https://video.twimg.com/ext_tw_video/1772829481151107072/pu/pl/ON64ZJ6NzTK8oO-z.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772829481151107072/pu/vid/avc1/514x270/TjakZmSr8TAJ4Mg8.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772829481151107072/pu/vid/avc1/686x360/SKCaxdzV6OGxGibW.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772829481151107072/pu/vid/avc1/1374x720/inssIQ9gf6_q0XOS.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+以上就是全部，原作者[heyshrutimishra](https://twitter.com/heyshrutimishra)
+
+如果您喜欢这个主题：
+
+1.关注我（[FinanceYF5](https://twitter.com/FinanceYF5)）
+2. 点赞+转发下面第1条帖子https://t.co/4zzJJrTISX 
+#+END_QUOTE\

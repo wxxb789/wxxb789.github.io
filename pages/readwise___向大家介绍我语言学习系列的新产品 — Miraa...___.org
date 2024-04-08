@@ -1,0 +1,20 @@
+:PROPERTIES:
+:title: readwise/向大家介绍我语言学习系列的新产品 — Miraa...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[kevinzhow on Twitter]]
+:full-title: "向大家介绍我语言学习系列的新产品 — Miraa..."
+:category: [[tweets]]
+:url: https://twitter.com/kevinzhow/status/1772810844117819688
+:image-url: https://pbs.twimg.com/profile_images/1691003455316627456/CO77t8V2.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+向大家介绍我语言学习系列的新产品 — Miraa
+这是一款为影子跟读优化的产品，能够将你喜欢的音视频，播客，转换成双语字幕，支持跟读与 AI 讲解。除了日语之外，也为英语提供了支持！请看视频介绍 
+#+END_QUOTE\

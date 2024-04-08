@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/沟通为何如此之难，为什么要从一开始就避免争论？因...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[beihuo on Twitter]]
+:full-title: "沟通为何如此之难，为什么要从一开始就避免争论？因..."
+:category: [[tweets]]
+:url: https://twitter.com/beihuo/status/1776150456747938131
+:image-url: https://pbs.twimg.com/profile_images/1182400217800302592/yFy4Ghlv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+沟通为何如此之难，为什么要从一开始就避免争论？因为所有交流都可以被看作是一种形式的映射（All communication is a form of Projection），而映射永远是有损失的。
+
+我们每个人都通过一个独特的视角来看待世界。意识到这一点后，你可能会理解，当我们与人交流时，我们自然会把自己的心理模型映射到对方身上。所以，实际上所有的交流都可以被看作是一种形式的映射。
+
+Each of us sees the world through a unique lens. With this in mind perhaps you can appreciate that we naturally tend to 'project' our own internal maps onto others when we communicate with them. In effect then, all communication is a form of Projection.
+
+![](https://pbs.twimg.com/media/GKYnE8ba0AA_-Yt.jpg) 
+#+END_QUOTE\

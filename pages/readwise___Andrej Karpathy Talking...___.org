@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/Andrej Karpathy Talking...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[vaibhaw_vipul on Twitter]]
+:full-title: "Andrej Karpathy Talking..."
+:category: [[tweets]]
+:url: https://twitter.com/vaibhaw_vipul/status/1772913374713536866
+:image-url: https://pbs.twimg.com/profile_images/1754535360552419329/jxP0AwIF.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Andrej Karpathy talking about -
+\- rarity of talents in distributed computing with GPUs.
+- the opportunities in computer architecture because von Neumann architecture may not be optimal
+- progress in precision
+- sparsity in neural networks <video controls><source src="https://video.twimg.com/ext_tw_video/1772912495021199360/pu/pl/YKiddeGBKcY0vnzi.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1772912495021199360/pu/vid/avc1/480x270/zeljeUxo78hc4AZS.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772912495021199360/pu/vid/avc1/640x360/WtlZ8hgFmRRCwuqB.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1772912495021199360/pu/vid/avc1/1280x720/3h-W8STbj3xghKwc.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+I have been saying this too - https://t.co/MRZvYU4eW5 
+#+END_QUOTE\

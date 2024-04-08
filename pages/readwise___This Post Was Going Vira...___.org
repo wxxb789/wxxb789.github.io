@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/This Post Was Going Vira...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[abhi9u on Twitter]]
+:full-title: "This Post Was Going Vira..."
+:category: [[tweets]]
+:url: https://twitter.com/abhi9u/status/1774714345504600538
+:image-url: https://pbs.twimg.com/profile_images/1668296787696959490/NyAetxNh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+This post was going viral few days back. I took it as an opportunity to not only explain why this happens but also to show some of the implementation details of the list implementation in CPython, along with how the VM figures out how to execute the * operator on lists.
+
+The list object in CPython internally uses an array to store the elements. However, this array stores pointers to the objects, i.e., the list is holding onto references to the objects instead of the actual objects.
+
+This is the function which the list object implements for handling the * operator. Notice, how it copies the array byte by byte into the array of the output list. This means that the pointers/references are copied into the new list and then repeated n times. 
+
+So, if you had a list which contained another list as its one and only element, it would look like this in-memory.
+
+Now, when you use the * operator on the list, you would see all the pointers in the new list pointing to the same list object. 
+
+And when that shared list gets modified, it reflects as a change everywhere.  This is hardly surprising at the implementation level, but at the semantic level, the output can be surprising.
+
+![](https://pbs.twimg.com/media/GKELMYjWUAA7ZIW.jpg)
+
+![](https://pbs.twimg.com/media/GKEMwsQWEAAlbuG.jpg)
+
+![](https://pbs.twimg.com/media/GKEMwsWXQAA316v.jpg)
+
+![](https://pbs.twimg.com/media/GKENFU-WQAA17Sz.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+Full post here where I also discuss the details about the CPython VM figures out how to invoke the right function for executing the * operator on lists (AKA dynamic dispatch):
+ https://t.co/O242qvQbjA 
+#+END_QUOTE\

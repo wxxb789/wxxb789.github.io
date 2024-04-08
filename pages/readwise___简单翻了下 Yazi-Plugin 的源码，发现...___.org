@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/简单翻了下 Yazi-Plugin 的源码，发现...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[blackanger on Twitter]]
+:full-title: "简单翻了下 Yazi-Plugin 的源码，发现..."
+:category: [[tweets]]
+:url: https://twitter.com/blackanger/status/1772261297658499132
+:image-url: https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+简单翻了下 yazi-plugin 的源码，发现这个基于 Rust <-> mlua <-> lua 实现的插件系统很精妙啊，值得仔细学习一下。 设计的很赞👍，插件系统有助于构建生态，看着突然有点 emacs 那味了
+
+P.S. 可能有一个语法像 rust，能和 rust 直接安全交互的脚本语言（比如rhai，可惜js语法）可能更对我胃口 
+#+END_QUOTE\

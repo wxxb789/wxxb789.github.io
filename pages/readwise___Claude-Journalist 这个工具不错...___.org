@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/Claude-Journalist 这个工具不错...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "Claude-Journalist 这个工具不错..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1772293929674653823
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+claude-journalist 这个工具不错，你只要输入一个主题他就能使用Claude 3 从网上搜索相关信息自动生成一篇对应主题的文章。
+
+而且还是开源的，提供了Colab笔记运行并且填写API就可以，或者也可以直接使用他的产品生成。
+
+项目地址：https://t.co/gy9WVlFyGa 
+
+![](https://pbs.twimg.com/media/GJhz7G4acAAWQVR.jpg) 
+#+END_QUOTE\

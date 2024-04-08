@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/正好今天PG核心组成员Jonathan 发了一篇...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[GobeUncleWang on Twitter]]
+:full-title: "正好今天PG核心组成员Jonathan 发了一篇..."
+:category: [[tweets]]
+:url: https://twitter.com/GobeUncleWang/status/1771756719011401745
+:image-url: https://pbs.twimg.com/profile_images/1540524987572195329/yT3N6FIR.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-24]]
+#+BEGIN_QUOTE
+正好今天PG核心组成员Jonathan 发了一篇《PostgreSQL会修改开源许可证吗？》聊到这个事，我就先把自己对这件事的一部分观点先亮出来：业界需要一种新的歧视性软件许可证协议来名正言顺辨识敌我，区别对待 —— 来解决软件自由在当下面临的最大挑战 —— 云服务。
+https://t.co/DfQvEHx1a8 
+
+![](https://pbs.twimg.com/media/GJaLJ-HboAA2cuS.jpg) 
+#+END_QUOTE\

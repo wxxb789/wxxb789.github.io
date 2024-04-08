@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/大家能否推荐一些华人开发者的优秀开源项目，自荐的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Fenng on Twitter]]
+:full-title: "大家能否推荐一些华人开发者的优秀开源项目，自荐的..."
+:category: [[tweets]]
+:url: https://twitter.com/Fenng/status/1772117349031919868
+:image-url: https://pbs.twimg.com/profile_images/1680550017675964416/rpIflrZ5.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+大家能否推荐一些华人开发者的优秀开源项目，自荐的也行。当然像 Vue 这样都知道的就不用再推荐了。
+
+多谢。
+
+如果有 Spam 留言（有些我看不到），麻烦顺手在留言里圈出来。 
+#+END_QUOTE\

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/瑞达利欧领英上最新的一篇长文非常值得一读。 Ht...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[oxpsats on Twitter]]
+:full-title: "瑞达利欧领英上最新的一篇长文非常值得一读。 Ht..."
+:category: [[tweets]]
+:url: https://twitter.com/oxpsats/status/1773157062022729733
+:image-url: https://pbs.twimg.com/profile_images/1643063311632838656/Wi8QzYR3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+瑞达利欧领英上最新的一篇长文非常值得一读。 
+
+![](https://pbs.twimg.com/media/GJuE8SwaYAAJzVf.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,150 @@
+:PROPERTIES:
+:title: readwise/Mistral AI 是 OpenAI 的雏形，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Mistral AI 是 OpenAI 的雏形，..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1773173834964676745
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Mistral AI 是 OpenAI 的雏形，如果它真正开放的话。
+
+他们刚刚举办了迄今为止规模最大的开放源码软件 LLM 黑客马拉松。超过 2000 名黑客报名角逐 1 万美元奖金。
+
+这是Alex Reibman在 [MistralAI](https://twitter.com/MistralAI) x [cerebral_valley](https://twitter.com/cerebral_valley) 黑客马拉松 ( 🧵 ) 中看到的内容： 
+
+![](https://pbs.twimg.com/media/GJuULYDbwAAljx5.jpg) 
+
+![](https://pbs.twimg.com/media/GJuUMhEa0AA0wHX.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+1/ Prompt Parfait
+
+通过提示 "学习"、对照 evals 计算损失并更新提示
+
+🥇 API 赛道第一名
+
+![](https://pbs.twimg.com/media/GJf-pZHaYAAFpsr.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772164965476204544/pl/WFlLrtVDma-2B_aK.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772164965476204544/vid/avc1/480x270/2uijxWZGVkfPYx8j.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772164965476204544/vid/avc1/640x360/FEa9E4_wqW9O1ECw.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772164965476204544/vid/avc1/1280x720/8J5rgzPzGx8QcnEj.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+2/ Ambrozia
+
+AI销售人员可通过逼真的语音和视频生成功能回答有关企业知识库的问题 
+
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4)
+
+
+
+![](https://pbs.twimg.com/media/GJf_7GLbwAAFZzt.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772166369154584576/pl/Zy36FLPBkep9HuLQ.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166369154584576/vid/avc1/480x270/7DGrRrW8sEcKamfk.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166369154584576/vid/avc1/640x360/GqKJ3QG2TFEdvn5z.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166369154584576/vid/avc1/1280x720/t_2Md7wSXOF4FXVp.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) 3/ Epic Edit
+
+利用图片或截图和提示即时生成视频短片
+
+将照片制作成宣传片
+
+[aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman)
+
+
+![](https://pbs.twimg.com/media/GJgAAMbboAAHbBn.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772166456723316736/pl/YD5yfYEjQgSZSMDh.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166456723316736/vid/avc1/480x270/POZ2yIS855yNjPr-.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166456723316736/vid/avc1/640x360/rbErI54o-bOhe2Gy.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166456723316736/vid/avc1/1280x720/niRvx2p_7F32Qw--.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) 4/ AI Pac-Man
+
+将视频游戏截图输入 LLaVA1.5 并指示 Mistral 进行游戏
+
+与 LLM 一起玩视频游戏
+
+🥈 API 赛道第二名
+
+![](https://pbs.twimg.com/media/GJgAGNxa4AA0dQg.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772166560192585728/pl/YBCP5vl4Wmu3dEks.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166560192585728/vid/avc1/480x270/6ExboOWg73-MyEYv.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166560192585728/vid/avc1/640x360/xn2NAYNyru9-gPbC.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166560192585728/vid/avc1/1280x720/jKn1bRPJBtrUPgYG.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video><video controls><source src="https://video.twimg.com/amplify_video/1772166560188432384/pl/uC8308f18PjN6HH0.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166560188432384/vid/avc1/480x270/u9LZCHIrSB2Whca1.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166560188432384/vid/avc1/640x360/tOabQj_omEWd3lzV.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166560188432384/vid/avc1/1280x720/Nd32EbiPNfFY1TgR.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) 5/ Your Devin
+
+在您的代码库上微调 Mistral，并在其上创建类似 Devin 的功能 
+
+[MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB)
+
+
+
+![](https://pbs.twimg.com/media/GJgAMeEaYAAKZiC.jpg) 
+
+![](https://pbs.twimg.com/media/GJgAMeEaAAAW6wJ.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772166667629629440/pl/OqTaUDa7aPariSGQ.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166667629629440/vid/avc1/480x270/G4o_b-xqlNjolzOD.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166667629629440/vid/avc1/640x360/zelredRkBWl5Vo7B.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166667629629440/vid/avc1/1280x720/YN-vxRUoXkE5ddyB.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) [MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB) 6/ ASCII plays DOOM
+
+微调 Mistral 7B 以根据 ASCII 帧表示法播放 DOOM。
+
+是的，它确实能用。
+
+[hopingtocode](https://twitter.com/hopingtocode) [SammyAtman](https://twitter.com/SammyAtman) Paul Chu
+
+🥇微调赛道第一名
+
+https://t.co/Isy2jHRRoU…
+
+![](https://pbs.twimg.com/media/GJgAVkBbsAA-3Ta.jpg) 
+
+![](https://pbs.twimg.com/media/GJgAVj7a4AAlssD.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772166823850721280/pl/oqRTTo0w00ktSU6F.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166823850721280/vid/avc1/480x270/r3Ld0rmn8k3kSNJn.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166823850721280/vid/avc1/640x360/CZyDfTjpBIarNn--.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166823850721280/vid/avc1/1280x720/GWm1kifqlL1DXSjK.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) [MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB) [hopingtocode](https://twitter.com/hopingtocode) [SammyAtman](https://twitter.com/SammyAtman) 7/ Codex
+
+在 50k 篇研究论文上对 Mistral 7B 进行微调，以实现无监督学习，并根据上下文主题生成新的学术论文
+
+🥈 微调赛道第二名
+
+
+![](https://pbs.twimg.com/media/GJgAcSaaEAAV68p.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772166939378696192/pl/1OZ-eKyZ4GNYuxXU.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772166939378696192/vid/avc1/480x270/xhiiBBI66toQ6M-J.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166939378696192/vid/avc1/640x360/4TPkoG5APYilm4Cu.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772166939378696192/vid/avc1/1280x720/KCwmHkpb16MreNUA.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) [MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB) [hopingtocode](https://twitter.com/hopingtocode) [SammyAtman](https://twitter.com/SammyAtman) 8/ miROR
+
+用 LLM 解析 RNA 测序数据
+
+在 Pubmed + 公共 RNA 测序上微调 Mistral 7B，找到微 RNA 序列的功能。
+
+然后搜索某些序列与某些情况的关系
+
+[computabeast](https://twitter.com/computabeast) [DreamChaser206](https://twitter.com/DreamChaser206) [ccoleman10](https://twitter.com/ccoleman10)
+
+
+
+![](https://pbs.twimg.com/media/GJgAjLdakAA5hAj.jpg)<video controls><source src="https://video.twimg.com/amplify_video/1772167057762869248/pl/RopA8ugIx0yA6t0q.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772167057762869248/vid/avc1/480x270/OmE7aml8Ub916XlM.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772167057762869248/vid/avc1/640x360/UhwTFxpcXAJOKqSB.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772167057762869248/vid/avc1/1280x720/89_pbJj2evRog_C3.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) [MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB) [hopingtocode](https://twitter.com/hopingtocode) [SammyAtman](https://twitter.com/SammyAtman) [computabeast](https://twitter.com/computabeast) [DreamChaser206](https://twitter.com/DreamChaser206) [ccoleman10](https://twitter.com/ccoleman10) 9 (bonus)/ Navi
+
+生活在 slack 中的 AI agent，通过网络搜刮 + 研究公司/线索 [GroqInc](https://twitter.com/GroqInc) Mixtral MOE
+<video controls><source src="https://video.twimg.com/amplify_video/1772167459115778048/pl/y8r614pR5OWa5af6.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1772167459115778048/vid/avc1/320x568/lKW4jgN_5Mu5Qoyy.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772167459115778048/vid/avc1/480x852/BeOxW68Z8YILs1FW.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1772167459115778048/vid/avc1/720x1280/eh3P-MHA_x6LiqeK.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) [MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB) [hopingtocode](https://twitter.com/hopingtocode) [SammyAtman](https://twitter.com/SammyAtman) [computabeast](https://twitter.com/computabeast) [DreamChaser206](https://twitter.com/DreamChaser206) [ccoleman10](https://twitter.com/ccoleman10) [GroqInc](https://twitter.com/GroqInc) 这就是这次的全部内容。想要看到更多黑客和代理的实际操作吗？关注原作者 [AlexReibman](https://twitter.com/AlexReibman)  [AgentOpsAI](https://twitter.com/AgentOpsAI) 
+#+END_QUOTE\
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+[eliotthoff](https://twitter.com/eliotthoff) [EmileCohen4](https://twitter.com/EmileCohen4) [aditya_advani](https://twitter.com/aditya_advani) [Roshkins](https://twitter.com/Roshkins) [Marg_Groisman](https://twitter.com/Marg_Groisman) [MatthewHeartful](https://twitter.com/MatthewHeartful) [vgoklani_ai](https://twitter.com/vgoklani_ai) [GlavinW](https://twitter.com/GlavinW) [aertoria](https://twitter.com/aertoria) [KyeGomezB](https://twitter.com/KyeGomezB) [hopingtocode](https://twitter.com/hopingtocode) [SammyAtman](https://twitter.com/SammyAtman) [computabeast](https://twitter.com/computabeast) [DreamChaser206](https://twitter.com/DreamChaser206) [ccoleman10](https://twitter.com/ccoleman10) [GroqInc](https://twitter.com/GroqInc) [AlexReibman](https://twitter.com/AlexReibman) [AgentOpsAI](https://twitter.com/AgentOpsAI) 欢迎关注我 [FinanceYF5](https://twitter.com/FinanceYF5) 以获取更多此类AI内容。  
+
+点赞/转发此帖子中的第一篇文章以与其他人分享 👇https://t.co/XUvZpyCYRA 
+#+END_QUOTE\

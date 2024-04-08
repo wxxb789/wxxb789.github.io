@@ -1,0 +1,24 @@
+:PROPERTIES:
+:title: readwise/果然最有效的学习就是输出， 肝了几个周之后， 我...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[GreenPanda_111 on Twitter]]
+:full-title: "果然最有效的学习就是输出， 肝了几个周之后， 我..."
+:category: [[tweets]]
+:url: https://twitter.com/GreenPanda_111/status/1773302314318655922
+:image-url: https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+果然最有效的学习就是输出， 肝了几个周之后， 我的prompt 系列就要完工了。 我收获很大。 
+我以为我不需要学习prompt engineer ， 直到我认直学完， 并总结， 然后完成这篇系列课程。 
+我才知道我的无知和傲慢。  
+我会在找一个合适时间， 公开出来。 
+
+![](https://pbs.twimg.com/media/GJwI9c_XMAAsqbA.png) 
+#+END_QUOTE\

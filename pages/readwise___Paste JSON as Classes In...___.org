@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/Paste JSON as Classes In...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Dave_DotNet on Twitter]]
+:full-title: "Paste JSON as Classes In..."
+:category: [[tweets]]
+:url: https://twitter.com/Dave_DotNet/status/1771876904225673230
+:image-url: https://pbs.twimg.com/profile_images/1538166477743919105/duZ2oBrg.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+Paste JSON As Classes in Visual Studio  ⬇   
+
+Not a lot of devs are aware of this feature in VS but it's super useful. 
+
+It's available from the Edit menu.  
+
+Have you used this functionality before?  
+
+#dotnet 
+
+![](https://pbs.twimg.com/media/GJb4YsHXEAAe_PP.png) 
+#+END_QUOTE\

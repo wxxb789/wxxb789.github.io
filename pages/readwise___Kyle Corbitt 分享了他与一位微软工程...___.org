@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/Kyle Corbitt 分享了他与一位微软工程...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "Kyle Corbitt 分享了他与一位微软工程..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1772502224851100089
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+Kyle Corbitt 分享了他与一位微软工程师的对话，话题围绕GPT-6训练集群项目展开。这位工程师略带幽默地吐槽了一番他们在部署跨区域GPU间的infiniband（高性能计算通讯标准）级别链接时遭遇的困难。
+
+我问：“为何不考虑直接将所有设备部署在同一个地区呢？”
+
+他回答道：“啊，这确实是我们最初的方案。但问题是，一旦我们在同一个州部署超过100,000个H100 GPU，电网就会因无法负荷而崩溃。” 🤯 
+#+END_QUOTE\

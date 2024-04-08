@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/哈哈，用azure最新的声音模型来听书太爽了，完...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[LuckyJoe198x on Twitter]]
+:full-title: "哈哈，用azure最新的声音模型来听书太爽了，完..."
+:category: [[tweets]]
+:url: https://twitter.com/LuckyJoe198x/status/1776160981728571749
+:image-url: https://pbs.twimg.com/profile_images/1163323677473038336/tMbXMuJE.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+哈哈，用azure最新的声音模型来听书太爽了，完爆一切听书软件，听书体验上了一个档次，像打开了新世界，以后洗澡就用这个听书了。具体教程 https://t.co/XNeWP1DQLe 
+#+END_QUOTE\

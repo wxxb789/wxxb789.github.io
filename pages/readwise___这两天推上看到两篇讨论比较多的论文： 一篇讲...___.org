@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/这两天推上看到两篇讨论比较多的论文： 一篇讲...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[neozhang on Twitter]]
+:full-title: "这两天推上看到两篇讨论比较多的论文： 一篇讲..."
+:category: [[tweets]]
+:url: https://twitter.com/neozhang/status/1776784735731400943
+:image-url: https://pbs.twimg.com/profile_images/517421516292505600/jk2rk29P.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+这两天推上看到两篇讨论比较多的论文：
+
+一篇讲 LLM 带来的“知识坍缩”：虽然大型语言模型在大量不同的数据上进行训练，但它们自然会向分布的“中心”产生输出。这通常是有用的，但广泛依赖递归人工智能系统可能会导致我们定义为“知识崩溃”的过程，并认为这可能会损害创新以及人类理解和文化的丰富性。https://t.co/lpEDtN00JG
+
+另一篇讲可以通过多 agent + 多数投票机制提升大语言模型的表现，哪怕是参数规模较小的模型。值得注意的是，随着任务难度的提升，多 agent 投票带来的增益呈现先上升后下降的趋势。https://t.co/ziqVn49ify
+
+看起来「智能体」中适用一些通用的原理：知识坍缩实际上是观点的从众趋同效应；不同意见下的多数投票机制则意味着「民主」机制仍然能带来改进；问题越难，民主机制起作用的程度越低）。
+
+关键仍然在于多样性，如果我们有足够多不同的「智能体」来参与竞争，那么未来不会太差。
+
+![](https://pbs.twimg.com/media/GKhoSmgbsAAx5X8.jpg)
+
+![](https://pbs.twimg.com/media/GKhoSmba8AABA8E.jpg)
+
+![](https://pbs.twimg.com/media/GKhoSmZaEAAz4WZ.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+多样性从何而来呢？
+
+LLM 提供了 prompt 这样的自然语言 io 接口，与机器对话的门槛大大降低了。原则上每个人都可以创造自己的 agents。这些 agents 会因为每个人给出的 prompts 不同，而自然展现出多样性。如果能结合每个人的知识和经验，那么这种多样性还会进一步放大。
+
+有了多样性，就能产生网络效应：More is better。
+
+为这些网络设计激励机制，让 agents 之间产生竞争。竞争的结果不是 one takes all，而是 better gets better。 
+#+END_QUOTE\

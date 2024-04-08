@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/推荐下两年前读到Ray的一篇博客，现在看起来依然...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[sailfishcc1 on Twitter]]
+:full-title: "推荐下两年前读到Ray的一篇博客，现在看起来依然..."
+:category: [[tweets]]
+:url: https://twitter.com/sailfishcc1/status/1776766322141282715
+:image-url: https://pbs.twimg.com/profile_images/1454390759374098432/Lj6RkcEK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+推荐下两年前读到Ray的一篇博客，现在看起来依然有深度：
+计算机领域的三个重要思想：抽象，分层和高阶（ray的博客挂了，只能找到这个issues了）
+https://t.co/FGRROhX6ds 
+#+END_QUOTE\

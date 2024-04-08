@@ -1,0 +1,63 @@
+:PROPERTIES:
+:title: readwise/7个高质量YouTube频道，带您深入了解人工智...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[knowledgefxg on Twitter]]
+:full-title: "7个高质量YouTube频道，带您深入了解人工智..."
+:category: [[tweets]]
+:url: https://twitter.com/knowledgefxg/status/1772976507847164045
+:image-url: https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+7个高质量YouTube频道，带您深入了解人工智能，胜过国内大学课程 
+
+![](https://pbs.twimg.com/media/GJrfy5UWYAAcAbQ.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+1. MattVidPro AI
+加入 MattVidPro AI 的科技探索之旅！这个 YouTube 频道专注于带您深入机器学习与人工智能的世界。
+https://t.co/on7NgtwHAW 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+2. Two Minute Papers
+"Two Minute Papers" YouTube 频道 —— 在短短几分钟内，带你快速掌握最尖端的研究进展！ 让复杂的科学知识触手可及。
+https://t.co/jOmdqnSUAs 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+3. David Shapiro
+自2009年以来，David Shapiro 成为 AI/ML 界的独立研究专家！跟随他探索 Keras、TensorFlow、GPT、认知架构的深度内容。他的视频不仅提供最新 AI 资讯，还有专业的新闻解读和深入分析。
+https://t.co/DCwYTupXYx 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+4. The AI Advantage
+AI Advantage YouTube 频道——用简洁的英语让 AI 概念变得易懂！🗣️💡 涵盖 ChatGPT、Midjourney 等工具的实用视频教程，为您的 AI 旅程导航。
+https://t.co/Pdw9vsgaSN 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+5. Machine Learning Street Talk
+机器学习街头谈话 (MLST) —— 一个深植于学术研究土壤的 YouTube 频道。🎓💬 汇集人工智能领域的领军人物，带来充满活力的深度对话。
+https://t.co/s6Ia79i2ox 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+6. Siraj Raval
+Siraj Raval —— 他提供的内容涵盖了人工智能对社会影响的教程、项目和深刻讨论。
+https://t.co/HblhpXpotg 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+7. Brandon Foltz
+这是一位充满激情的数据科学家和杰出讲师！他们提供机器学习领域的精彩讲座、实用教程和生动演示。
+https://t.co/ll16rjvY1w 
+#+END_QUOTE\

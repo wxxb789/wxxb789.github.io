@@ -1,0 +1,44 @@
+:PROPERTIES:
+:title: readwise/来来来，一起点亮技能树！推荐一个超级棒的技能树可...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[beihuo on Twitter]]
+:full-title: "来来来，一起点亮技能树！推荐一个超级棒的技能树可..."
+:category: [[tweets]]
+:url: https://twitter.com/beihuo/status/1772696260832796928
+:image-url: https://pbs.twimg.com/profile_images/1182400217800302592/yFy4Ghlv.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+来来来，一起点亮技能树！推荐一个超级棒的技能树可视化工具，它能让你看到各种编程语言、框架、系统设计能力，甚至是成为一个工程师需要掌握的技能，全都一目了然。
+
+记得之前有看过类似的技能树，当时就在想要是能标记一下进度就好了。今天，我发现真的有人做出来这样的东西了，适合用来查缺补漏。 
+
+![](https://pbs.twimg.com/media/GJnh2LnaIAYkfSN.jpg) 
+
+![](https://pbs.twimg.com/media/GJnh2ktaIAAWzN0.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+面试用：
+数据结构和算法：https://t.co/Zg4IiIYuhX
+系统设计： https://t.co/KBl7nOymrB
+
+按照职位分：
+前端： https://t.co/LMW6LDGa1h
+后端：https://t.co/bmP9NjsANm
+DevOps：https://t.co/8yGgzukKaN
+
+框架
+React: https://t.co/zfhVsAmEJj
+Vue: https://t.co/vbC0KJsomT 
+
+![](https://pbs.twimg.com/media/GJnh3LSaIAIqAaq.jpg) 
+
+![](https://pbs.twimg.com/media/GJnh3fTakAAuTe8.jpg) 
+#+END_QUOTE\

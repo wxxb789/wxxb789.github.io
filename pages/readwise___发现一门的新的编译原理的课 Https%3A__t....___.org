@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/发现一门的新的编译原理的课 Https:__t....
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Manjusaka_Lee on Twitter]]
+:full-title: "发现一门的新的编译原理的课 Https://t...."
+:category: [[tweets]]
+:url: https://twitter.com/Manjusaka_Lee/status/1773752025068757189
+:image-url: https://pbs.twimg.com/profile_images/1597824136679915520/vAYdQUmo.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-30]]
+#+BEGIN_QUOTE
+发现一门的新的编译原理的课 https://t.co/6WFDs1gPms
+1. 作为 LLVM IR 和 MLIR 的课程入门非常合适
+2. 作者语速适中，普通人听着也没啥问题
+3. 我准备跟着写完，算是补齐一下自己的编译原理基础 
+#+END_QUOTE\

@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: readwise/原始话题是一个调查：你在用OpenAI的API的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "原始话题是一个调查：你在用OpenAI的API的..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1775948432592511191
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+原始话题是一个调查：你在用OpenAI的API的时候，是倾向于 Function Calling 还是 JSON mode。
+
+其实这两个完全不是一个用途，不应该放在一起做调查，除非你把 Function Calling 当做 JSON mode 来用！
+
+Function Calling 是用来让 LLM 在完成指令的过程中，去调用外部函数，比如说我要去调用一下天气预报的 API 获取当前天气，然后 LLM 基于 API 的结果整理输出给用户。
+
+如果有多个 Functions，那么 LLM 应该去决策应该使用哪一个或者按照顺序调用哪几个 Function。比如用户说：如果明天是晴天就帮我订一张去北京的机票，否则就帮我给老板发一个邮件告诉他明天下午我去不了北京了。
+
+那么 LLM 就需要先去调用天气的 Function，如果返回晴天，就调用订机票的 Function，如果返回阴天，就调用发邮件的 Function。都完成后返回用户结果。
+
+而 JSON mode 只是为了确保输出的格式是 JSON 友好的！因为 GPT 输出 JSON 的时候，经常会把双引号写成单引号，或者多一些缺一些关键字符，导致解析出错。所以 JSON mode 可以最大程度上保证返回的格式是个可以正常解析的（只是成功率高很多，但不是百分百保证）
+
+那为什么很多开发者把两者混在一起？
+
+因为早期没有 JSON mode，但是让 LLM 能返回正确格式的 JSON 是个刚需，而 Function Calling 的格式就是 JSON 的，可以稳定的输出 J，所以 Function Calling 可以当成 JSON mode 使用！
+
+但是反过来 JSON mode 不能当成 Function Calling 来用。
+
+JSON mode 是去年年底才推出的，甚至于很多人到现在还不知道有这个功能。
+
+所以这两者的使用场景本来就不应该一样的。原始的调查问题就不太对或者不准确。
+
+另外还有一点，只是我的猜测，如果不对请评论指正。那就是 Function Calling 和 JSON mode 背后的模型是不一样的，前者对推理能力要求更高，而后者要求相对偏低。
+
+就我实际使用的经验，启用 JSON mode 后，推理能力会变弱。
+
+所以我建议根据自己的使用场景多测试一下，如果 Function Calling 既能保证 JSON 格式，又能有更强的推理能力，那就把它当 JSON mode 也不是坏事！
+
+另外除了 JSON 其实还有其他方案可以获得结构化的数据，比如 XML 和 YAML。 
+#+END_QUOTE\
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+更新一下，经网友指正：JSON mode 理论上来说也可以实现 Function Calling，只需要以 JSON 格式让 LLM 选择函数，然后自己调用，调用完了自己处理输出继续调用 LLM 剩余操作。
+
+差别在于用 Function Calling 的话，LLM 帮你处理了整个过程，不用的话则需要自己去控制整个过程相对繁琐。 
+
+![](https://pbs.twimg.com/media/GKXQ59tWEAAW0-J.png) 
+#+END_QUOTE\

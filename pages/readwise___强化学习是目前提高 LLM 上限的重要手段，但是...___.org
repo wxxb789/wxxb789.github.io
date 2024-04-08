@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/强化学习是目前提高 LLM 上限的重要手段，但是...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[oran_ge on Twitter]]
+:full-title: "强化学习是目前提高 LLM 上限的重要手段，但是..."
+:category: [[tweets]]
+:url: https://twitter.com/oran_ge/status/1774598311477154146
+:image-url: https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+强化学习是目前提高 LLM 上限的重要手段，但是现在真正用好强化学习的公司少之又少。
+. [karpathy](https://twitter.com/karpathy) 在一次演讲中讲到了当前强化学习的局限性，以及对未来的看法。
+https://t.co/ll49HuAAtU 
+
+![](https://pbs.twimg.com/media/GKCjHsnbQAAiyd2.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/列了一份吴军的书单， 不全， 但是都是我令我印象...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[GreenPanda_111 on Twitter]]
+:full-title: "列了一份吴军的书单， 不全， 但是都是我令我印象..."
+:category: [[tweets]]
+:url: https://twitter.com/GreenPanda_111/status/1772444255723675787
+:image-url: https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+列了一份吴军的书单， 不全， 但是都是我令我印象深刻的书
+
+书：
+
+《浪潮之巅》
+《数学之美》
+《计算之魂》（研究算法面试必读书）
+《见识》
+《态度》
+《格局》
+《大学之路》
+《具体生活》
+《文明之光》（强烈推荐）
+课程： 硅谷来信三部， 信息通识
+
+得到课程：
+阅读与写作 （推荐）
+数学通识（推荐）
+信息论（推荐）
+硅谷来信（1、2、3）
+科技史纲（推荐）
+逻辑思维训练（正在进行)
+世界文明史
+
+[tsoyomo](https://twitter.com/tsoyomo) 
+#+END_QUOTE\

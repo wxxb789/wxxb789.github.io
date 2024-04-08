@@ -1,0 +1,77 @@
+:PROPERTIES:
+:title: readwise/1_N 有没有发现，我们的很多行为模式，都在反复...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[seclink on Twitter]]
+:full-title: "1/N 有没有发现，我们的很多行为模式，都在反复..."
+:category: [[tweets]]
+:url: https://twitter.com/seclink/status/1777128388370825557
+:image-url: https://pbs.twimg.com/profile_images/1709859553414893568/a_eQ9NYf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+1/n 有没有发现，我们的很多行为模式，都在反复踏入心理学/社会学家总结出来的概念巢穴。
+我们都是一些基因预设好、随时犯同样错误的可怜人。
+这里随便举几个例子。
+
+简单化归因(Causal Reductionism)：
+事情的发生基本上不会只有一个原因，往往是许多原因共同作用的结果。但我们的大脑无法处理复杂的信息，因此我们一般喜欢将结果归因于单一原因，把因果关系简化为一条容易理解的线索。显然这种做法就把事物复杂的本来面目给简单化了。 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+2/n 邓宁-克鲁格效应(Dunning-Kruger Effect)：
+能力欠缺的人做出错误的结论和决定，但无法正确认识到自身的不足，辨别错误行为。这是一种认知偏差。
+
+能力欠缺者们沉浸在自我营造的虚幻优势中，常常高估自己，无法客观评价他人的能力。
+简单的说，愚蠢的人无法意识到自己有多愚蠢。 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+3/n 涌现(Emergence)：
+当许多简单的物体相互作用时，它们可以形成一个系统，该系统具有物体本身所没有的属性。例如：神经元创造意识，交易者创造股市，简单数学规则创造“活的”模式(下图)。
+
+文化寄生(Cultural Parasitism)：
+意识形态寄生在思想中，改变宿主的行为，并将其传播给他人。因此，一种成功的意识形态并不见得因为是真实的；它产生和发展出来只是因为更容易传播和容易信服。 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+4/n 累积错误(Cumulative Error)：
+错误会生长。错误的想法可能会像滚雪球一样发展成一种臆断的世界观。
+同样，当错误的内容被不断在网上转发时，就会添加更多错误信息，产生我们所说的fake news。在网络化的时代，累积错误是常态。
+
+辛普森悖论(Simpson’s Paradox)：
+在单个数据组中可以出现某种趋势，但把多个数据组放到一起，趋势就会消失(下图)。
+人们通过限制某个数据集的数量，就可以显示出希望别人看到的趋势。因此，哪怕是别人告诉你相关性有多强也要小心。<video controls><source src="https://video.twimg.com/ext_tw_video/1777129922911494144/pu/pl/5v4HQPpCUnLOxGU_.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1777129922911494144/pu/vid/avc1/378x270/MdAvQYj-gGK1HRX2.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1777129922911494144/pu/vid/avc1/504x360/KsMrXtKLZTEHGe69.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1777129922911494144/pu/vid/avc1/700x500/TEWjUeYaXgu-Ieoy.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+5/n 选择性承认(Limited Hangout)：
+记者和政客的常见策略是披露能引起人们兴趣但相对无害的信息，以此满足人们的好奇心但防止人们进一步寻找更致命的负面信息。比如，一个政客被指控吸食大麻，他可能会通过承认在大学吸过大麻来糊弄过去。
+
+聚焦错觉(Focusing Illusion)：
+当你关注某一点时，这个方面的因素会在整体评估中被放大。
+例如你会认为半身不遂者一定会很痛苦。事实是，绝大多数瘫痪者会慢慢习惯。也就是说，半身不遂者的幸福感，在大多数时候都接近正常水平。
+马可-奥勒留(Marcus Aurelius)说，“我们在想象中比在现实中更容易受苦。” 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+6/n 信念偏差(Belief Bias)：
+通常某一个论点因太荒谬而会被拒绝，但如果感到它可以引导到我们认可的结论，那么突然间就会觉得完全合乎逻辑。
+换句话说，我们判断一个论点合理与否，不是根据它背后的逻辑，而是根据是否支持我的观点。
+
+大臭鼠效应(Woozle Effect)：
+一篇缺乏证据或无定论的原始文献被反复引用，在这一过程中不断被强化，导致后来的人误认为证据确凿或已成定论。 
+#+END_QUOTE\
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+7/7 托克维尔悖论(Tocqueville Paradox)：
+随着社会生活水平的提高，人们对社会的期望也随之提高。期望值的提高最终超过了生活水平的提高，不可避免地导致不满，甚至是社会动荡。
+
+终极归因错误(Ultimate Attribution Error)：
+我们倾向于将朋友的好行为归因于性格，将坏行为归因于环境。对于我们的敌人来说，情况正好相反：好的行为归因于环境，坏的行为归因于性格。 
+#+END_QUOTE\

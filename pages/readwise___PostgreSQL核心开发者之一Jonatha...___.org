@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/PostgreSQL核心开发者之一Jonatha...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangzworks on Twitter]]
+:full-title: "PostgreSQL核心开发者之一Jonatha..."
+:category: [[tweets]]
+:url: https://twitter.com/huangzworks/status/1772485730155053470
+:image-url: https://pbs.twimg.com/profile_images/1761640779947384832/njZQnvnf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+PostgreSQL核心开发者之一Jonathan Katz写了篇文章解释PG为什么不会像MySQL和Redis那样修改协议：https://t.co/TJD8FltuDs
+大意是，经过近30年的持续经营，PG已经获得了开发者的信任，成为了无数软件和项目的底层依赖，而更改协议引发的巨大连锁反应必将使之前的努力毁于一旦，所以他们不会这样做。 
+
+![](https://pbs.twimg.com/media/GJkg4-RbIAAEJXL.png) 
+#+END_QUOTE\

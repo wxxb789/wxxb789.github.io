@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/Zapier 的联合创始人 Mike Knoop...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "Zapier 的联合创始人 Mike Knoop..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1776124377601323266
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-05]]
+#+BEGIN_QUOTE
+Zapier 的联合创始人 Mike Knoop 演示新的 AI 自动化工作流
+
+新的工作流改成了类似于 GPT Builder 的聊天界面，通过自然语言的聊天对话让 AI 帮你创建自动化工作流，并且可以对创建的结果进行人工修改，以及测试，如果对测试结果不满意，可以继续输入提示词让 AI 进行修改。
+
+可以预见随着大语言模型的普及以及能力的加强，这种基于聊天界面的交互方式会越来越流行，会有更多软件采用这种交互，也就是可以自然语言输入指令生成、修改，以及结合传统 UI 界面对生成结果人工修改。<video controls><source src="https://video.twimg.com/amplify_video/1776121768496775168/pl/TkWcquL5EaSm9DGT.m3u8?tag=16&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1776121768496775168/vid/avc1/480x270/KJ_Fu4P2p4emufJS.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1776121768496775168/vid/avc1/640x360/kOz6sgKcYMNLnJc2.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1776121768496775168/vid/avc1/1280x720/gmDpIsRChA2wGJRZ.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1776121768496775168/vid/avc1/1920x1080/z8D_DFmNfv5EKAhq.mp4?tag=16" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

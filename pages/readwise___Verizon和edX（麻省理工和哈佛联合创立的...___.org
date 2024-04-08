@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/Verizon和edX（麻省理工和哈佛联合创立的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[darren006612 on Twitter]]
+:full-title: "Verizon和edX（麻省理工和哈佛联合创立的..."
+:category: [[tweets]]
+:url: https://twitter.com/darren006612/status/1772590348688032249
+:image-url: https://pbs.twimg.com/profile_images/1619236125914136577/3h7u31Qz.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+Verizon和edX（麻省理工和哈佛联合创立的公开在线学习平台）打造的免费课程培训项目
+
+可以免费注册，一共学一年时间，课程都是顶级名校，牛津、哈佛、耶鲁、哥大等，毕业有证书
+
+课程方向很广泛：AI、编程、网络安全、数据分析、项目管理等
+
+羊毛薅起来！ 
+
+![](https://pbs.twimg.com/media/GJmBhhkXAAE5sA1.jpg) 
+
+![](https://pbs.twimg.com/media/GJmBhhqXcAA6NEH.jpg) 
+
+![](https://pbs.twimg.com/media/GJmBhhiXUAAvepV.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,75 @@
+:PROPERTIES:
+:title: readwise/发现一个讲的很细的大语言模型微调教程，详细介绍了...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "发现一个讲的很细的大语言模型微调教程，详细介绍了..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1773605377923596558
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+发现一个讲的很细的大语言模型微调教程，详细介绍了整个流程,包括数据准备、参数设置、资源监控等关键步骤。
+
+基本没有技术能力也可以完成微调。想要了解 LLM 原理的可以按这个实践一下。
+
+时间轴：
+
+0:00 概念概览 
+3:02 自定义数据的准备 
+8:17 微调操作演示（T4 版本） 
+16:52 微调操作演示（A100 版本） 
+19:13 在 Hugging Face 上的保存与使用方法
+
+文字版整理：
+
+✲ 如何使用自己的数据对大语言模型进行微调(fine-tuning)：
+
+对大语言模型进行微调并不一定非常困难和昂贵。通过使用自己的数据集对预训练模型进行微调,可以让模型更好地适应特定的任务需求。微调过程能够在保留原模型语言理解能力的基础上,进一步提升其在特定领域或任务上的表现。
+
+✲ 使用Hugging Face模型库和Unslaw工具进行模型微调：
+
+Hugging Face提供了丰富的预训练语言模型资源,用户可以根据任务需求选择合适的模型作为基础进行微调。而Unslaw工具则提供了一套简单高效的微调流程,其优点包括出色的内存使用效率以及对扩展上下文窗口的支持。通过Unslaw,用户能够以较低的资源开销完成模型微调。
+
+✲ 在Google Colab上使用免费/付费GPU资源进行微调：
+
+Google Colab提供了免费和付费的GPU资源,用户可以根据任务的复杂程度选择使用T4或A100。对于大多数微调任务而言,免费的T4资源已经足够。但如果数据集较大或模型较为复杂,升级到A100可以获得更充裕的算力支持。Colab为用户提供了一个易于上手的模型微调环境。
+
+✲ 准备自定义的微调数据集：
+
+准备微调数据的过程并不复杂。用户可以直接使用纯文本文件作为数据来源,而无需进行额外的预处理。为了获得理想的微调效果,建议至少准备100-200个样本。在示例中,为了快速演示,仅使用了几个样本。通过一个简单的Python脚本,可以方便地将原始文本数据转换为微调所需的JSON格式。
+
+✲ 修改Colab笔记本中的参数设置：
+
+在Colab笔记本中,需要根据实际情况调整一些参数。例如,可以根据数据集的token数量来设置max_sequence_length参数,借助rope scaling技术,模型能够支持任意长度的上下文。此外,还可以选择使用Instruct系列模型作为base model,直接在其基础上进行指令微调。为了节省资源,可以启用4-bit量化。同时,参考Q-Lora论文的建议,调整R值和alpha值,以在资源占用和模型质量之间取得平衡。
+
+✲ 训练过程中的资源使用监控：
+
+在模型训练过程中,用户可以通过Colab的资源监控选项卡实时观察GPU、内存和硬盘的使用情况。如果发现资源不足,可以考虑从T4升级到A100。通过监控资源占用,用户能够及时调整配置,确保微调任务稳定高效地进行。
+
+✲ 模型训练的loss变化和最佳checkpoint的选择：
+
+通过记录不同训练步数下的loss值,可以判断模型的收敛情况。理想的做法是选择loss下降曲线趋于平缓的点作为最佳checkpoint,这样既能充分训练模型,又能避免过拟合。为了事后方便筛选,可以设置每隔一定步数保存一次checkpoint。
+
+✲ 模型微调完成后的保存与使用：
+
+微调完成后,可以选择只保存adapter layers以加快保存速度。但更推荐的做法是保存完整模型,并使用float16精度,这样可以得到一个更通用和标准的模型格式,方便后续的部署和使用。
+
+✲ 在Hugging Face上公开或私有发布微调后的模型：
+
+用户可以选择在Hugging Face的模型库中公开或私有地发布自己微调后的模型。发布之前,需要在Hugging Face账号中创建一个访问令牌,并在发布时提供相应的用户名和令牌信息。通过在Hugging Face上发布模型,用户可以方便地与他人分享自己的微调成果。
+
+✲ 使用微调后的模型进行推理(inference)：
+
+在使用微调后的模型进行推理时,首先需要加载保存的模型。接着,使用tokenizer对输入的文本进行处理,并将其传入模型。进行推理时,max_length参数需要与训练时保持一致,以确保生成的结果不会被截断。完成以上步骤后,就可以利用微调后的模型进行各种实际应用了。<video controls><source src="https://video.twimg.com/amplify_video/1773604692066750464/pl/D6CZoXaEd6msCSe8.m3u8?tag=14&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1773604692066750464/vid/avc1/480x270/7cDV0e2Ss8OVk0En.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773604692066750464/vid/avc1/640x360/LIukdukvH0h2QUMA.mp4?tag=14" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773604692066750464/vid/avc1/1280x720/OixhNtmwzjklEUU_.mp4?tag=14" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+原始视频地址：https://t.co/bcL5llvRcQ 
+#+END_QUOTE\

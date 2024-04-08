@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/Awesome-Generative-Ai-Gu...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[imxiaohu on Twitter]]
+:full-title: "Awesome-Generative-Ai-Gu..."
+:category: [[tweets]]
+:url: https://twitter.com/imxiaohu/status/1772876744367972418
+:image-url: https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+Awesome-Generative-AI-Guide: 一站式AI最新研究更新、面试资源、免费课程等综合库
+
+△最新研究更新：提供每月最佳生成式AI论文列表，包括各项研究的摘要和主题。
+
+△免费课程列表：超过65个与生成式AI相关的免费课程。
+
+△面试资源：面试准备材料，特别是针对生成式AI领域的面试问题。
+
+△课程材料：《Applied LLMs Mastery 2024》课程材料。
+
+△代码库/笔记本：提供开发生成式AI应用的代码库和notebook列表。
+
+特别适合生成式AI研究者、学习者、面试准备者以及对AI最新进展感兴趣的任何人的理想资源。
+
+无论是准备面试、寻找最新的研究论文，还是寻找实际操作的代码示例和笔记本，这个项目都提供了一站式的解决方案。
+
+项目定期更新，因此用户可以期待获取到最新的资源和信息。
+
+GitHub：https://t.co/TKe86RK9rx
+
+![](https://pbs.twimg.com/media/GJqF_VsbUAApL90.jpg) 
+#+END_QUOTE\

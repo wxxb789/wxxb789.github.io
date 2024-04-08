@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/.@Quickwit_Inc 的 Tantivy...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[manjushaga on Twitter]]
+:full-title: ".@Quickwit_Inc 的 Tantivy..."
+:category: [[tweets]]
+:url: https://twitter.com/manjushaga/status/1774692476798054892
+:image-url: https://pbs.twimg.com/profile_images/1681675609217576961/vFbFebLB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+.[Quickwit_Inc](https://twitter.com/Quickwit_Inc) 的 tantivy library 养活了多少个数据库公司😂，几乎是新一代文本搜索的标准了 [DatabendLabs](https://twitter.com/DatabendLabs) [NucliaAI](https://twitter.com/NucliaAI) [lancedb](https://twitter.com/lancedb) [paradedb](https://twitter.com/paradedb) [MyScaleDB](https://twitter.com/MyScaleDB) 
+
+![](https://pbs.twimg.com/media/GKD4ataagAAEu9b.jpg) 
+
+![](https://pbs.twimg.com/media/GKD4dUSagAAfjUq.jpg) 
+
+![](https://pbs.twimg.com/media/GKD40wRaEAEjMne.jpg) 
+
+![](https://pbs.twimg.com/media/GKD42iDbMAAJEFq.jpg) 
+#+END_QUOTE\

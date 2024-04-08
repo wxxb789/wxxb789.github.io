@@ -1,0 +1,32 @@
+:PROPERTIES:
+:title: readwise/读完刚出版三天的新书《Co-Intelligen...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wangyuanzju on Twitter]]
+:full-title: "读完刚出版三天的新书《Co-Intelligen..."
+:category: [[tweets]]
+:url: https://twitter.com/wangyuanzju/status/1776432642663313558
+:image-url: https://pbs.twimg.com/profile_images/1768935826615050240/g30-s6Ar.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+读完刚出版三天的新书《Co-Intelligence: Living and Working with AI》，作者Ethan Mollick [emollick](https://twitter.com/emollick)  是沃顿商学院专门研究创业和创新的教授。虽然深度跟踪GenAI的读者可能会觉得新的信息不多，但对现有研究与资讯的梳理总结结构清晰，有理有据，绝对值得一读。
+
+书的主要内容是三个部分。首先是和GenAI合作的四项原则，包括要始终让GenAI参与，把GenAI当作人而非软件，要告诉GenAI它是谁，假设AI技术水平会提高等；第二部分探讨了GenAI作为人、创意者、同事、导师和教练；第三部分畅想GenAI对未来的四种可能影响，从最保守的AI的水平停滞不前到最激进的AI成为超智能。
+
+作者的基本态度是我们应该积极利用GenAI，GenAI对就业不会带来破坏性的影响。作者从任务到系统的递进的视角分析GenAI对工作的影响，认为虽然GenAI能够自动化某些任务，但绝大多数工作都是一个系统，因而不会因为部分任务自动化而被取代。我觉得这是我看到的对GenAI对工作影响最有条理的分析之一（而这个分析思路居然是AI给的建议）。关于对工作的影响，书中还多次强调GenAI会使得低水平和高手之间的差异变小。
+
+书中还提出了不少形象的概念，如锯齿状边界（形容AI能力的参差不齐）、半人马和半机械人（人和AI结合的两种共同智能方式）。
+
+![](https://pbs.twimg.com/media/GKcn9jvawAA21pU.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+[emollick](https://twitter.com/emollick) 书中提到“产生创意的另一个关键方面是接受差异。研究表明，要想找到好的新创意，我们很可能必须想出许多糟糕的新创意，因为大多数新创意都很糟糕。”
+这和《为什么伟大不能被计划》相映证 
+#+END_QUOTE\

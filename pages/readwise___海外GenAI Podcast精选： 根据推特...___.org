@@ -1,0 +1,134 @@
+:PROPERTIES:
+:title: readwise/海外GenAI Podcast精选： 根据推特...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "海外GenAI Podcast精选： 根据推特..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1772434625387717055
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+海外GenAI podcast精选：
+
+根据推特上的热度和推荐，精选了以下10个AI赛道的海外播客，
+主持人有知名投资人，大公司，hacker等
+
+Lex Fridman [lexfridman](https://twitter.com/lexfridman) 
+Generative Now [lightspeedvp](https://twitter.com/lightspeedvp)
+Unaligned [Scobleizer](https://twitter.com/Scobleizer)
+The AI Podcast [NVIDIAAI](https://twitter.com/NVIDIAAI) 
+A16z [a16z](https://twitter.com/a16z)
+No Priors [saranormous](https://twitter.com/saranormous) 
+Latest Space [swyx](https://twitter.com/swyx) 
+
+![](https://pbs.twimg.com/media/GJjy_cSbsAA2O2i.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+1、Lex Fridman的播客
+
+推特链接：[lexfridman](https://twitter.com/lexfridman)
+推特followers：340万
+简介：深入探讨人工智能、技术与哲学。
+很多出圈的播客来自于他的采访，如采访sam altman等
+
+YouTube订阅人数：383万
+YouTube链接：https://t.co/NLyWwt57MI
+Spotify链接：https://t.co/ALIdmqxbaY 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) 2. Generative Now
+
+推特链接：[lightspeedvp](https://twitter.com/lightspeedvp)
+推特followers：4.5万
+简介：专注于创造性技术与创新的前沿。
+虽然听的人数不多，但是采访的嘉宾都很强，比如最近采访了suno的创始人
+YouTube订阅人数：暂无
+YouTube链接：https://t.co/hI7RqPMNKH
+Spotify链接：https://t.co/A9BGHgk5tk 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) 3. Unaligned
+
+推特链接：[Scobleizer](https://twitter.com/Scobleizer)
+推特followers：50万
+简介：硅谷老哥的采访播客
+YouTube订阅人数：暂无
+YouTube链接：https://t.co/Izoldw4vAB
+Spotify链接：https://t.co/AtFoHQsFMQ 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) [Scobleizer](https://twitter.com/Scobleizer) 4. The AI Podcast
+
+简介：[nvidia](https://twitter.com/nvidia) 带来的关于人工智能的最新进展。
+Spotify链接：https://t.co/sW6YWrrY1l 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) [Scobleizer](https://twitter.com/Scobleizer) [nvidia](https://twitter.com/nvidia) 5. A16z
+
+推特链接：[a16z](https://twitter.com/a16z)
+推特followers：75万
+简介：来自a16z的技术与文化洞见。
+YouTube订阅人数：12万
+YouTube链接：https://t.co/G9V1a10jCA
+Spotify链接：https://t.co/ZpJmKwznIR 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) [Scobleizer](https://twitter.com/Scobleizer) [nvidia](https://twitter.com/nvidia) [a16z](https://twitter.com/a16z) 6. The Twenty Minute VC
+
+推特链接：[HarryStebbings](https://twitter.com/HarryStebbings)
+推特followers：21万
+简介：投资界的深度对话。
+YouTube订阅人数：4万
+YouTube链接：https://t.co/ConykRZDWT
+Spotify链接：https://t.co/hT63xMXYd1 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) [Scobleizer](https://twitter.com/Scobleizer) [nvidia](https://twitter.com/nvidia) [a16z](https://twitter.com/a16z) [HarryStebbings](https://twitter.com/HarryStebbings) 8. No Priors
+
+推特链接：[saranormous](https://twitter.com/saranormous)
+推特followers：8.9万
+简介：湾区投资人的初创公司对话节目
+Spotify链接：https://t.co/ISCcKBu96s 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) [Scobleizer](https://twitter.com/Scobleizer) [nvidia](https://twitter.com/nvidia) [a16z](https://twitter.com/a16z) [HarryStebbings](https://twitter.com/HarryStebbings) [saranormous](https://twitter.com/saranormous) 9. Eye on AI
+
+推特链接：[EyeOn_AI](https://twitter.com/EyeOn_AI)
+推特followers：0.2万
+Spotify链接：https://t.co/MNq7lGEKff 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+[lexfridman](https://twitter.com/lexfridman) [lightspeedvp](https://twitter.com/lightspeedvp) [Scobleizer](https://twitter.com/Scobleizer) [nvidia](https://twitter.com/nvidia) [a16z](https://twitter.com/a16z) [HarryStebbings](https://twitter.com/HarryStebbings) [saranormous](https://twitter.com/saranormous) [EyeOn_AI](https://twitter.com/EyeOn_AI) 表格文档：
+https://t.co/pNSAS1DOUK 
+
+![](https://pbs.twimg.com/media/GJj2t96bsAAYLWw.png) 
+#+END_QUOTE\
+** 📌 [[2024-03-26]]
+#+BEGIN_QUOTE
+7、Latent Space by swyx
+
+推特链接: [swyx](https://twitter.com/swyx)
+推特followers: 8.8万
+简介: 探索最新的科技与空间趋势。
+
+YouTube订阅人数: 4k
+YouTube链接: https://t.co/UONS31g4Ze
+更多信息: https://t.co/IFyOl2lWGi
+Spotify链接: https://t.co/3tAtp325Az 
+#+END_QUOTE\

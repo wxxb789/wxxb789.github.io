@@ -1,0 +1,51 @@
+:PROPERTIES:
+:title: readwise/Statistical Transformati...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mdancho84 on Twitter]]
+:full-title: "Statistical Transformati..."
+:category: [[tweets]]
+:url: https://twitter.com/mdancho84/status/1777022274693960068
+:image-url: https://pbs.twimg.com/profile_images/815624333926297600/oc0lCoJ7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+Statistical transformations are like a data scientist's Swiss Army knife. Every transformation has a use. But it was difficult for me to decide which to use when I first started. In 3 minutes, I'll share 3 months of studies on statistical transformations.
+
+1. Log Transformation: This is commonly used to stabilize the variance and normalize data. It's particularly helpful when dealing with data that has exponential growth or decreases, such as economic data or population figures.
+
+2. Square Root Transformation (Power Transformations): Similar to log transformation, it's used for stabilizing variance and normalizing data. It's often applied to data sets with non-negative values, like counts or areas.
+
+3. Box-Cox Transformation (Power Transformations): A more generalized form of power transformations like log or square root. It's used to stabilize variance and make data more normal distribution-like. It's useful in many scenarios, including regression modeling.
+
+4. Z-Score or Standard Score Transformation (Standardization): This transformation standardizes the data to have a mean of 0 and a standard deviation of 1. It's widely used in statistical analyses, such as outlier detection and data normalization before applying machine learning algorithms.
+
+5. Min-Max Scaling: This scales the data to a fixed range, often 0 to 1. It's particularly useful in algorithms that are sensitive to the scale of data, like neural networks or k-nearest neighbors.
+
+6. Normalization (L1, L2 norms): These transformations are used to normalize data by scaling individual samples. They're crucial in preparing data for algorithms that assume data points are on a comparable scale, like support vector machines.
+
+7. Difference Transformation: Used in time-series analysis to make the series stationary. This involves subtracting the previous observation from the current observation.
+
+8. Categorical Encoding (One-Hot, Label Encoding): These are used to convert categorical data into a numeric format that can be used in mathematical models. One-hot encoding, for example, is used when the categorical variables have no ordinal relationship.
+
+9. Binning or Discretization: This process transforms continuous variables into discrete bins, which can help create categories or simplify complex relationships in data that linear algorithms might not pick up.
+
+===
+
+Need help applying data science to business?
+
+I'd like to help. Here's how:
+
+👉 My Free 5-Day Course (How to solve Business Problems with Data Science): https://t.co/YXG4pL97ZN
+
+👉 ChatGPT for Data Scientists: https://t.co/EaMpKrJiqX
+
+If you like this post, please reshare ♻️ it so others can get value (follow me, 🔥 Matt Dancho 🔥 for more data science concepts).
+
+![](https://pbs.twimg.com/media/GKlAJtrW0AI5bAK.jpg) 
+#+END_QUOTE\

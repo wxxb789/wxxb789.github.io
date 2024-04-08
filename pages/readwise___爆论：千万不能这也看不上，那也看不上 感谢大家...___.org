@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/爆论：千万不能这也看不上，那也看不上 感谢大家...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[tangpanqing on Twitter]]
+:full-title: "爆论：千万不能这也看不上，那也看不上 感谢大家..."
+:category: [[tweets]]
+:url: https://twitter.com/tangpanqing/status/1772787980320817239
+:image-url: https://pbs.twimg.com/profile_images/1568931198625546241/RRduvfhG.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-27]]
+#+BEGIN_QUOTE
+爆论：千万不能这也看不上，那也看不上
+
+感谢大家认可，最近我又多了一个称号：全球套壳专家。
+
+为什么会获得这个称号？大概是因为我做了ChatGPT的套壳，做了Sora的套壳，做了MidJourney的套壳，做了Suno的套壳。
+
+非IT圈的朋友可能不知道套壳是什么意思，简单的讲就是我拿到高科技公司的技术成果，然后做个用户界面，转卖给普通客户。
+
+一些朋友可能对比表示不屑，认为套壳没啥技术含量。这个我有几句话要说，有没有技术含量，这要谁来看。专业开发人员确实会觉得没技术含量，因为你也会啊，你也可以做到。但是对于非IT行业的人来说，就非常有技术含量了，因为他们不会啊。
+
+同时也非常有意义。也许他们可能连ChatGPT都用不了，也许也不想付每个月30美元的订阅费，也许他们根本不想去想什么提示词，什么破咒语。也许他们还想添加更多效果。
+
+这些需求，高科技公司它不关心啊。没关系，他们不关心，我关心。我做点小应用来满足用户的需求，于是就有了上面的各种套壳，然后我就有了项目，有了收入，虽然不多，我还算满意，这让我非常开心。
+
+最后再总结一些对朋友们也许有用的心得：千万不要这也看不上，看不上那，任何一个小生意或者小产品都值得你去做，做好了都会很不错。
+
+配图由https://t.co/vmhzI9hdF8提供
+
+![](https://pbs.twimg.com/media/GJo1Q-7bcAAElFu.jpg) 
+#+END_QUOTE\

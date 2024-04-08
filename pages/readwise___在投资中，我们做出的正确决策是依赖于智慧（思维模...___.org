@@ -1,0 +1,31 @@
+:PROPERTIES:
+:title: readwise/在投资中，我们做出的正确决策是依赖于智慧（思维模...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[taoshenga19 on Twitter]]
+:full-title: "在投资中，我们做出的正确决策是依赖于智慧（思维模..."
+:category: [[tweets]]
+:url: https://twitter.com/taoshenga19/status/1777183731167506855
+:image-url: https://pbs.twimg.com/profile_images/1701821141126651904/IezA0U83.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+在投资中，我们做出的正确决策是依赖于智慧（思维模型），而不是依赖于数据，信息和知识。
+
+数据：原始的事实，事件，经历，比如股票价格，失业率，每月住房新开工数。
+
+信息：带有上下文的数据，某地的住房价格变化曲线，某只股票历史变化曲线，可以体现细分市场的过去和现状。
+
+知识：数据和信息和专业知识，经验的结合。经济学家结合住房开工率对经济现状的见解。
+
+智慧：利用经验（思维模型）获得判断力应用到知识上，专家利用各种数据得出当前股市过热。你根据你的智慧判定预测顶部是不可能的事情，思考长期持有。
+
+我们在电视，各种媒体上获取的大多数信息都不是智慧，仅仅是信息和知识。我们需要把主要时间放在提高智慧，构建思维模型上，不要把时间花费在信息和知识的获取上。
+
+![](https://pbs.twimg.com/media/GKnP4dpXoAEjYg8.jpg) 
+#+END_QUOTE\

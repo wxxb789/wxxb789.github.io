@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/分享一个 Ai 写作案例。作者团队日入 5k，收...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[huangyun_122 on Twitter]]
+:full-title: "分享一个 Ai 写作案例。作者团队日入 5k，收..."
+:category: [[tweets]]
+:url: https://twitter.com/huangyun_122/status/1774800572555665868
+:image-url: https://pbs.twimg.com/profile_images/1183766724534882305/SIxSKinT.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-02]]
+#+BEGIN_QUOTE
+分享一个 AI 写作案例。作者团队日入 5K，收入稳定
+
+当技术 geeks 沉醉于调教各类 ChatGPT Prompts时，各类写作工作室，已经在淘宝，咸鱼上疯狂接单
+
+他们将 Prompts（提示词）的应用，玩到了极致，有收益的极致。因为 Prompts 水平与变现能力，成正正正相关啊
+
+国内的小老百姓，谁跟钱过不去 ?? 
+
+![](https://pbs.twimg.com/media/GKFbXBkXUAI19Vq.png) 
+#+END_QUOTE\

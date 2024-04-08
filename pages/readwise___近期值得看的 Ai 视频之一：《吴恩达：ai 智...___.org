@@ -1,0 +1,58 @@
+:PROPERTIES:
+:title: readwise/近期值得看的 Ai 视频之一：《吴恩达：ai 智...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "近期值得看的 Ai 视频之一：《吴恩达：ai 智..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1773490384594763882
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+近期值得看的 AI 视频之一：《吴恩达：AI 智能体工作流引领人工智能新趋势》
+
+这是吴恩达老师分享的他在 AI 智能体方面的发现。
+
+如果说智人区分于其他物种的能力是我们善用工具，那么对于 AI 来说，智能体就是它的工具。
+
+根据吴老师分享的数据：你使用 GPT 3.5 进行零样本提示，它的正确率是 48%。GPT-4 的表现要好得多，正确率是 67%。但是如果你在 GPT 3.5 的基础上建立一个 AI 智能体的工作流，它甚至能比 GPT-4 做得更好。
+
+换个角度说，如果我们现在基于 GPT-4 做一个 AI 智能体的工作流，甚至可以提前到达 GPT-5 的水平。
+
+但是如何用好 AI 智能体呢？吴老师整理总结了四种设计模式：反思、使用工具、规划和多智能体协作。
+
+反思：
+
+反思有些类似于人类写文章，基于初稿去找出存在的问题，基于问题去改进。这个过程是一个反复迭代的过程。
+
+顺便说一下，我在科技文章翻译 GPT（https://t.co/WDvGUzZqFS）中就使用了这个模式，直译 -> 反思 -> 意译，最终输出的翻译结果真的非常棒！
+
+使用工具：
+
+使用工具是指 AI 借助外部工具来弥补自身能力的不足，比如 AI 可以借助搜索引擎来获取实时信息，比如 AI 借助运行代码来计算数学问题等等。
+
+规划：
+
+规划是指让 AI 自己去规划解决问题的路径，去对复杂的任务进行拆解成简单的问题，比如说像以前很火的 AutoGPT，就是针对用户的任务，去规划，去调用外部工具完成任务。
+
+多智能体协作：
+
+让多个 AI 智能体去协作，去完成一个复杂的任务。"Chat Dev"是一个多智能体系统的例子，你可以让大语言模型（LLM）去分别扮演软件工程公司的 CEO、设计师、产品经理，或者测试员等角色。你只需要告诉 LLM，你现在是 CEO，你现在是软件工程师，然后它们就会开始协作，进行深入的对话。如果你告诉它们去开发一个游戏，它们会花几分钟来编写代码，测试，迭代，然后生成复杂程序。
+
+对于未来的发展，吴老师提及了一些变化：
+一方面人类会慢慢适应和智能体协作解决任务的新模式，很多任务不再像搜索引擎那样，你输入问题马上得到结果，而是异步的，你给 AI 提供一个任务，然后 AI 会去完成，完成后再通知你，类似于老板和员工的关系。
+
+另一方面 AI 智能体的能力也会越来越强越来越快。
+
+最后很喜欢吴老师的结束语：通向通用人工智能的道路更像是一段旅程，而不是一个目的地，但我认为这种智能体工作流可能帮助我们在这个非常长的旅程上迈出一小步。
+
+原始视频： https://t.co/1JepXtxCuT
+
+完整视频文稿：https://t.co/glcE0Mv9os<video controls><source src="https://video.twimg.com/amplify_video/1773489905110228992/pl/ZtWUdgIFzmToj6Ph.m3u8?tag=16&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/480x270/PsSpZk4yAoIuv3_Q.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/640x360/TZ6f9bIomIFCsSyw.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/1280x720/yKcjAMD3ep5JDNDe.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1773489905110228992/vid/avc1/1920x1080/_3m-QstbetpZnW--.mp4?tag=16" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

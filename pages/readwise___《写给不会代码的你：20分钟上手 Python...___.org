@@ -1,0 +1,26 @@
+:PROPERTIES:
+:title: readwise/《写给不会代码的你：20分钟上手 Python...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[WaytoAGI on Twitter]]
+:full-title: "《写给不会代码的你：20分钟上手 Python..."
+:category: [[tweets]]
+:url: https://twitter.com/WaytoAGI/status/1772087763044839450
+:image-url: https://pbs.twimg.com/profile_images/1654774036759728128/KCCnFPkO.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-25]]
+#+BEGIN_QUOTE
+《写给不会代码的你：20分钟上手 Python + AI》，作者大聪明，这份简明入门旨在让大家更快掌握 Python 和 AI 的相互调用，帮助读者循序渐进的完成以下任务：
+1. 完成一个简单程序
+2. 完成一个爬虫应用，抓取公众号文章
+3. 完成一个 AI 应用，为公众号文章生成概述
+强烈推荐！
+https://t.co/3jSsLft6Fs 
+
+![](https://pbs.twimg.com/media/GJe4P4uboAAr6Ys.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/在看完 @Taresky 的「无风险年化 360...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[n0vad3v on Twitter]]
+:full-title: "在看完 @Taresky 的「无风险年化 360..."
+:category: [[tweets]]
+:url: https://twitter.com/n0vad3v/status/1774252629067256000
+:image-url: https://pbs.twimg.com/profile_images/888006907075719168/OQtx_23z.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-31]]
+#+BEGIN_QUOTE
+在看完 [taresky](https://twitter.com/taresky) 的「无风险年化 360%？小白也能懂的 Crypto 套利」之后，决定对交易所的理财（简单赚币）进行一些简单的数据分析和对比，并尝试找出实际[日/月]平均 APR。
+
+新博文：「用 Grafana + InfluxDB 可视化 APR——Binance（币安）和欧易（OKX）简单赚币（理财）对比」
+https://t.co/L9PokL6F3W 
+#+END_QUOTE\

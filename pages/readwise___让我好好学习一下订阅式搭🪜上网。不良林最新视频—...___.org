@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/让我好好学习一下订阅式搭🪜上网。不良林最新视频—...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "让我好好学习一下订阅式搭🪜上网。不良林最新视频—..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1773617203025211788
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+让我好好学习一下订阅式搭🪜上网。不良林最新视频——【全网最细】小白用户最简单的 OpenClash 上手配置！降低延迟提升响应速度！无污染、无泄漏。https://t.co/ZTDftsQobY 
+
+![](https://pbs.twimg.com/media/GJ0l8TVbMAAYPGD.jpg) 
+#+END_QUOTE\

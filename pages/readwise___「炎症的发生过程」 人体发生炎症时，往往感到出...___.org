@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/「炎症的发生过程」 人体发生炎症时，往往感到出...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[HotmailfromSH on Twitter]]
+:full-title: "「炎症的发生过程」 人体发生炎症时，往往感到出..."
+:category: [[tweets]]
+:url: https://twitter.com/HotmailfromSH/status/1776772947212128765
+:image-url: https://pbs.twimg.com/profile_images/1660065028891082752/HcDO_udQ.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+「炎症的发生过程」
+
+人体发生炎症时，往往感到出现发热、疼痛，肿胀现象，这是因为炎症部位COX-2活性表达过高，产生了较多的前列腺素引起的。这时需服用大剂量的阿司匹林才能缓解炎症带来的不良反应（小剂量主要抑制COX-1，达不到消炎止痛的效果）。然而服用过多阿司匹林会对胃肠产生严重的损害….. <video controls><source src="https://video.twimg.com/ext_tw_video/1776772560023433216/pu/pl/yv7nG6WblEGpUA4C.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1776772560023433216/pu/vid/avc1/484x270/N86kbjAffbDNeUWR.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1776772560023433216/pu/vid/avc1/828x460/YvslMzweI0T6rR7W.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

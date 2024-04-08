@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/之前Qwen2-MoE只看到了专家数，没看架构。...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "之前Qwen2-MoE只看到了专家数，没看架构。..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1773380191542505961
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+之前Qwen2-MoE只看到了专家数，没看架构。已经删了。
+
+看了下发现并不是类似Mixtral 的MoE架构，而是类似于DeepSeek moe架构，把一个小模型的的 FFN 复制很多很多份（比如60份）然后再训练出来的MoE。
+
+其实更类似于模型Merge。
+
+官方例子是14.3B模型性能等于之前的7B模型，只是速度更快训练更快罢了。 
+#+END_QUOTE\
+** 📌 [[2024-03-29]]
+#+BEGIN_QUOTE
+附Deepseek MoE的论文：https://t.co/2opUFDbYMl 
+#+END_QUOTE\

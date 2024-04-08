@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/This Book Is 1000% Recom...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dani_avila7 on Twitter]]
+:full-title: "This Book Is 1000% Recom..."
+:category: [[tweets]]
+:url: https://twitter.com/dani_avila7/status/1777150778370564351
+:image-url: https://pbs.twimg.com/profile_images/1691533406880792576/CylpUGoh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-08]]
+#+BEGIN_QUOTE
+This book is 1000% recommended: "How AI works: from sorcery to science" by Ronald T. Kneusel 👈 
+
+![](https://pbs.twimg.com/media/GKm1LeIXIAAUVzn.jpg) 
+
+![](https://pbs.twimg.com/media/GKm1LdGWwAAFARP.jpg) 
+#+END_QUOTE\

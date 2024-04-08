@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/解释一下这篇文章中提到的“这是上下文中最相关的句...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "解释一下这篇文章中提到的“这是上下文中最相关的句..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1773044090336157819
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-03-28]]
+#+BEGIN_QUOTE
+解释一下这篇文章中提到的“这是上下文中最相关的句子：”这个提示词改动：
+
+本质上就是CoT（Chain of Thought，链式思考）的变种，把原来直接回复问题变成了两步：
+ 1. 先找出上下文最相关的一句话 
+2. 继续回复原始问题  
+
+诱导 Claude 先去检索出来上下文最相关的一句话是什么，然后再进行回答，那么相关性就好很多。 
+#+END_QUOTE\

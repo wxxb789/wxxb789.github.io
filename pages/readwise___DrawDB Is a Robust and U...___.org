@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/DrawDB Is a Robust and U...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[LeopolisDream on Twitter]]
+:full-title: "DrawDB Is a Robust and U..."
+:category: [[tweets]]
+:url: https://twitter.com/LeopolisDream/status/1776842268042756248
+:image-url: https://pbs.twimg.com/profile_images/1589250511508803584/cLGpEyHx.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-08]]
+** 📌 [[2024-04-07]]
+#+BEGIN_QUOTE
+DrawDB is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more without creating an account. 
+
+https://t.co/ubrLjOjpOC <video controls><source src="https://video.twimg.com/tweet_video/GKicnLgXsAAh1br.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
