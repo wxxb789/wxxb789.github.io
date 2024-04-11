@@ -9,7 +9,7 @@
 *** 词形还原 lemmatisation
 ** ai tools
 *** chatGPT ask for example sentence
-** TODO emacs
+** emacs
 *** EAF 方案
 *** [[https://qiqijin.com/dictionary-overlay.html][dictionary-overlay (qiqijin.com)]]
 *** [[https://github.com/rayw000/translate-mode][rayw000/translate-mode: Paragraph-oriented Emacs minor mode for doing translation jobs. (github.com)]]
