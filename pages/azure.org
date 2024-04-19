@@ -1,2 +1,4 @@
+#+alias: az,
+
 * [[azure cli]]
 *
