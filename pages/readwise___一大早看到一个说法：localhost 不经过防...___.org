@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/一大早看到一个说法：localhost 不经过防...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "一大早看到一个说法：localhost 不经过防..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1778957159704993986
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-13]]
+#+BEGIN_QUOTE
+一大早看到一个说法：localhost 不经过防火墙和网卡。作为一个比较过localhost和 127.0.0.1 差异的我是有点震惊的，从原理上不就是localhost 多了一步先解析成ip么，防火墙表示目瞪口呆。但是作为不打嘴炮的人我赶紧去验证了一下，确实 不经过防火墙 惊呆我了！如图是我的验证，不过我花了一分钟很快搞清楚为啥了，你猜到原因了吗？
+
+![](https://pbs.twimg.com/media/GLAe8JyaMAAlraZ.jpg)
+
+![](https://pbs.twimg.com/media/GLAfJ6fbsAAvVL1.jpg) 
+#+END_QUOTE\

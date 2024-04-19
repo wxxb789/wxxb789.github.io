@@ -1,0 +1,53 @@
+:PROPERTIES:
+:title: readwise/最近新看到一个很有趣的 Linux Kernel...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Manjusaka_Lee on Twitter]]
+:full-title: "最近新看到一个很有趣的 Linux Kernel..."
+:category: [[tweets]]
+:url: https://twitter.com/Manjusaka_Lee/status/1779949210047312246
+:image-url: https://pbs.twimg.com/profile_images/1597824136679915520/vAYdQUmo.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+最近新看到一个很有趣的 Linux Kernel Patch
+https://t.co/O0qxt7X696
+作者是 OpenTelementry Profiling SIG 的成员
+先说下目前的问题，以 Elastic 为首的 OTEL 厂商在做 Agent 的时候，一个问题是将系统中的性能事件和请求之类的 tracing 关联起来
+这就涉及到一个核心的问题了 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+怎么样将用户态信息和内核信息关联起来
+Elastic 的解法是这样，首先将 traceID 放在 ThreadLocal storage 中（后面简称 TLS）的固定位置，而在 Linux 下，通常使用 fs 寄存器，thread_struct->fsbase（x86/64下），然后我们可以根据 fsbase 的值扣出 TLS 中存在的数据，然后完成关联 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+But How could we get the fsbase address?
+因为 thread_struct 的内存布局随时都在变化。熟悉 eBPF 的同学可能想起了我可以用 BTF+CORE 来做，但是如果低版本还是不支持 BTF+CORE 呢？
+Elastic 有一个很魔法解法
+我们确定一个利用 task_struct 一些主体字段的函数。 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+然后我们从 /proc/kallsyms 中获取到这个函数的地址。在进程加载后，我们对这个地址进行反汇编，可以模拟汇编求出我们这个锚定字段在进程运行时真正的地址，然后根据锚定字段相较于 fsbase 的偏移量，获取到 fsbase 的地址
+比如他们在 5.19 上用了 aout_dump_debugregs 这个函数 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+这个函数中使用了thread_struct->ptrace_bps 这个字段，这个字段相较于 fsbase 有 16 bytes 的偏移，根据这些信息，我们可以拿到 TLS 中存储的字段，从而实现关联
+但是现在的问题在于，虽然 Linux 有优秀的符号系统和调试信息系统可以让我们实现这个逻辑，但是还是太过于复杂了。 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+而在 Windows 上 ETW 可以很好的解决这一些问题。
+那么怎么办？加 API 啊
+这个 patch 提出在 perf event sample 的时候，就将 TLS 地址和 size 作为 sample 数据的一部分进行处理，这样可以完成更好的全系统 tracing
+不得不说，非常有创意
+Elastic 的方案参考 https://t.co/dz67aRqQhN 
+#+END_QUOTE\

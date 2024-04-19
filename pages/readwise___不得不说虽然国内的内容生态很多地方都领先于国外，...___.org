@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/不得不说虽然国内的内容生态很多地方都领先于国外，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Danielw19410 on Twitter]]
+:full-title: "不得不说虽然国内的内容生态很多地方都领先于国外，..."
+:category: [[tweets]]
+:url: https://twitter.com/Danielw19410/status/1780212366971711566
+:image-url: https://pbs.twimg.com/profile_images/1645991676526342145/VYiNTYG4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+不得不说虽然国内的内容生态很多地方都领先于国外，但很多分享都是碎片化的。
+之前推荐的这本《The Art and Business of Online Writing》是2020年写的，很多技巧在今天的推特圈都在使用，而且很多原则是普适性的，只要是基于推荐算法的平台这些原则就是有效并且需要刻意练习优化的，我摘录其中一页： 
+
+![](https://pbs.twimg.com/media/GLSVs0oaQAA-bI0.png) 
+#+END_QUOTE\

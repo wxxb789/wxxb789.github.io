@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/📢《JavaScript 框架语法特性对比》这个...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "📢《JavaScript 框架语法特性对比》这个..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1779288707926770090
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+📢《JavaScript 框架语法特性对比》这个好，对不同 JavaScript 框架的编码风格、特有的语法结构进行评比较，帮助开发者理解每个框架的优缺点，以择最适合自己项目要求的框架。
+https://t.co/IrbWuSbINp 
+
+![](https://pbs.twimg.com/media/GLDld-gXAAAPnQ2.jpg) 
+#+END_QUOTE\

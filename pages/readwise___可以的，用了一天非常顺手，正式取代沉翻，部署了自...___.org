@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/可以的，用了一天非常顺手，正式取代沉翻，部署了自...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[geekbb on Twitter]]
+:full-title: "可以的，用了一天非常顺手，正式取代沉翻，部署了自..."
+:category: [[tweets]]
+:url: https://twitter.com/geekbb/status/1780903702402109595
+:image-url: https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+可以的，用了一天非常顺手，正式取代沉翻，部署了自己的同步服务器，开始积累人个翻译规则🥳 
+KISSS-Translator 数据同步服务 https://t.co/JZbpvTBJIz 
+
+![](https://pbs.twimg.com/media/GLcJp0rawAA8dnO.jpg) 
+#+END_QUOTE\

@@ -1,0 +1,87 @@
+:PROPERTIES:
+:title: readwise/Gen AI 正在释放金融科技的真正价值——自动...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[FinanceYF5 on Twitter]]
+:full-title: "Gen AI 正在释放金融科技的真正价值——自动..."
+:category: [[tweets]]
+:url: https://twitter.com/FinanceYF5/status/1780863181214404698
+:image-url: https://pbs.twimg.com/profile_images/1666998690937192448/ryhXQzH4.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+Gen AI 正在释放金融科技的真正价值——自动化繁琐的工作流程并释放无数时间！ 
+ 
+[synaptic_data](https://twitter.com/synaptic_data) 发布AI金融工具图谱
+
+像 [business](https://twitter.com/business) 这样的巨头正在构建定制的人工智能模型，而 [brexHQ](https://twitter.com/brexHQ) 、 [public](https://twitter.com/public) 正在通过人工智能助手增强用户体验。[ 🧵 1/8] 
+
+![](https://pbs.twimg.com/media/GLbll5iaQAANz5y.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+早期的LLM采用是针对财务团队的日常后台任务，例如发票处理 ( [VicDotAi](https://twitter.com/VicDotAi) )、承保和合规任务 ( [unit21inc](https://twitter.com/unit21inc) 、 [FlagrightHQ](https://twitter.com/FlagrightHQ) )、从文档中提取数据 ( [sensiblehq](https://twitter.com/sensiblehq) 、 [RossumAi](https://twitter.com/RossumAi) ）。 [ 🧵  2/8] 
+
+![](https://pbs.twimg.com/media/GLblwadbgAARxrl.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) 像 [business](https://twitter.com/business) 这样的金融科技巨头正在利用他们的数据来构建 BloombergGPT 等专有的人工智能模型。
+
+与此同时，老牌和新成立的初创公司正在利用首席财务官工具、合规性和投资研究工具进行创新。 [ 🧵  3/8] 
+
+![](https://pbs.twimg.com/media/GLbl5JKboAAIYbv.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) 尽管全球金融科技融资额达到 5 年来的最低点，
+
+但专注于人工智能的金融科技在 2023 年获得了 12B+ 美元的融资。
+
+ 75% 的新兴初创企业在 2022-24 年筹集了资金。 [ 🧵  4/8] 
+
+![](https://pbs.twimg.com/media/GLbmGhIbIAA2hvA.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) 将 Gen AI 嵌入核心产品的老牌初创公司在 2022-24 年获得了大部分资金 - [gopigment](https://twitter.com/gopigment) 、 [puzzlefin](https://twitter.com/puzzlefin) 就是例子。 [ 🧵  5/8] 
+
+![](https://pbs.twimg.com/media/GLbmUyVbEAAWzHG.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) [gopigment](https://twitter.com/gopigment) [puzzlefin](https://twitter.com/puzzlefin) 对人工智能金融科技的兴趣与更广泛的人工智能趋势相称——在 23 年第一季度达到峰值之后，整个行业的网站流量已经稳定下来，并转变为更加价值驱动的参与。 [ 🧵  6/8] 
+
+![](https://pbs.twimg.com/media/GLbmfDHbUAAdJ4L.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) [gopigment](https://twitter.com/gopigment) [puzzlefin](https://twitter.com/puzzlefin) 企业工具 [viseinc](https://twitter.com/viseinc) 、 [unit21inc](https://twitter.com/unit21inc) 、 [kasistoinc](https://twitter.com/kasistoinc) 受到强劲的市场关注。 
+
+[DiscoverMagnifi](https://twitter.com/DiscoverMagnifi) 、 [finchat_io](https://twitter.com/finchat_io) 等消费工具的增长正在放缓——游客的兴趣正在减弱，而价值驱动的吸引力仍然存在。 [ 🧵 7/8] 
+
+![](https://pbs.twimg.com/media/GLbmqWrb0AAMWgH.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) [gopigment](https://twitter.com/gopigment) [puzzlefin](https://twitter.com/puzzlefin) [viseinc](https://twitter.com/viseinc) [kasistoinc](https://twitter.com/kasistoinc) [DiscoverMagnifi](https://twitter.com/DiscoverMagnifi) [finchat_io](https://twitter.com/finchat_io) [gopigment](https://twitter.com/gopigment) 是近期独角兽地位的有力竞争者。 
+
+[viseinc](https://twitter.com/viseinc) 、 [unit21inc](https://twitter.com/unit21inc) 、 [kasistoinc](https://twitter.com/kasistoinc) 凭借其强大的市场吸引力，很可能成为即将到来的融资轮的候选者。 [ 🧵  8/8] 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) [gopigment](https://twitter.com/gopigment) [puzzlefin](https://twitter.com/puzzlefin) [viseinc](https://twitter.com/viseinc) [kasistoinc](https://twitter.com/kasistoinc) [DiscoverMagnifi](https://twitter.com/DiscoverMagnifi) [finchat_io](https://twitter.com/finchat_io) 阅读完整研究：https://t.co/Moq8EqJ2go 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[VicDotAi](https://twitter.com/VicDotAi) [unit21inc](https://twitter.com/unit21inc) [FlagrightHQ](https://twitter.com/FlagrightHQ) [sensiblehq](https://twitter.com/sensiblehq) [RossumAi](https://twitter.com/RossumAi) [business](https://twitter.com/business) [gopigment](https://twitter.com/gopigment) [puzzlefin](https://twitter.com/puzzlefin) [viseinc](https://twitter.com/viseinc) [kasistoinc](https://twitter.com/kasistoinc) [DiscoverMagnifi](https://twitter.com/DiscoverMagnifi) [finchat_io](https://twitter.com/finchat_io) 以上就是全部，原作者[synaptic_data](https://twitter.com/synaptic_data)
+
+欢迎关注我[FinanceYF5](https://twitter.com/FinanceYF5)
+
+点赞转发这条推特https://t.co/QuMCVamxLQ 
+#+END_QUOTE\

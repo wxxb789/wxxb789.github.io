@@ -1,0 +1,125 @@
+:PROPERTIES:
+:title: readwise/在 ChatGPT 时代，如何更好的使用 AI...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[starzqeth on Twitter]]
+:full-title: "在 ChatGPT 时代，如何更好的使用 AI..."
+:category: [[tweets]]
+:url: https://twitter.com/starzqeth/status/1634726651987886081
+:image-url: https://pbs.twimg.com/profile_images/1573915848384778241/pONOmFm3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+在 ChatGPT 时代，如何更好的使用 AI 工具，决定了我们的竞争力
+
+这个🧵用来持续汇总我分享过的 AI 生产力工具，以及面向未来的技能和态度👇 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+1. 可以直接生成 youtube 摘要的浏览器插件 Glarity 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+2. 可以自动生成目录和摘要的 Podcast 客户端 Snipd 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+3. 我自己给 Twitter Space 做【摘要+时间戳】的黑科技方法 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+4. 写 Twitter Thread 神器 typefully
+
+其最新版本里已经集成了基于 chatgpt-3.5 的 AI Writing, 我的用法是
+1. 写完之后让其帮助润色
+2. 基于 Tread 内容输出标题 
+
+![](https://pbs.twimg.com/media/Fq-3PVzakAAcyFF.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+5. chatbot聚合客户端ChatHub, 可以在一个窗口里面比较多个结果，找到最满意的答案 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+6. ChatGPT对未来人才的需求变化和机会 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+7. 特德·姜《ChatGPT是网上所有文本的模糊图像》 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+8. 通过 SteamShip 免费体验 GPT-4 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+9. 如何将原生 IP 设置为美国，满足 New Bing / Google Bard 等的使用限制 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+10. AI vs Web3: 创造高效且公平的世界 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+11.  长视频AI摘要工具推荐：帮你5分钟了解长视频要点 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+12. 分享 3 个被 AI 改变的日常习惯 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+13. AutoGPT试用感受：AI 从助理升级为代理，未来什么样的人才可以生存？ 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+14. OpenAI&吴恩达老师prompt工程课笔记分享 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+15. 可汗学院的创始人在TED分享如何通过GPT-4实现1对1辅导提高学生表现 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+16. 视频 自动剪辑&打分工具 OpusClip 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+17. 分享5️⃣个 AI 给我带来的创作者赋能，效率 x60 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+18. 通过GPT 5 分钟将Twitter Space变成1000字文字稿 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+19. OpenAI 将 Dalle-3 和 ChatGPT 融合，直接通过自然语言生成图片 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+20. 用 ChatGPT 帮你学习地道的英文表达 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+21. Elon Musk打造的大语言模型 Grok 具备的 5 个优势
+
+1️⃣实时性：得益于Twitter的训练数据
+2️⃣打通数字和物理世界，成为真正的 AGI: Tesla 股票可以长拿
+3️⃣定价：相同的价格，获得了推特最高级别会员的权益，又可以完成ChatGPT-4做不到的事
+4️⃣幽默感
+5️⃣强大性能：在基准测试中超过了同级别的所有模型 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+22. OpenAI 发布 GPTs: 每个人都可以创建自己的Agent，并从中获得收入 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+23. 发布第一周，最热门的 10 个 GPTs, 将极大改变我们获取财富与知识的方式 
+#+END_QUOTE\

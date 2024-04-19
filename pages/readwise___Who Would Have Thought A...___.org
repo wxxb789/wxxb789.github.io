@@ -1,0 +1,29 @@
+:PROPERTIES:
+:title: readwise/Who Would Have Thought A...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[predict_addict on Twitter]]
+:full-title: "Who Would Have Thought A..."
+:category: [[tweets]]
+:url: https://twitter.com/predict_addict/status/1781236992409280539
+:image-url: https://pbs.twimg.com/profile_images/1499279697024364547/tEb-KUVo.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Who would have thought after writing about #calibration and #conformalprediction for years I would see my LI post on lecture slides for university students.
+
+This is one of the posts that resonated very well with the industry. Calibration matters a lot. 
+
+Very satisfying after 
+
+![](https://pbs.twimg.com/media/GLg5mjqXUAAsVNg.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+https://t.co/VwD4X62esp 
+#+END_QUOTE\

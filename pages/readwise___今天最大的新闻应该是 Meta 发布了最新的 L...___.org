@@ -1,0 +1,42 @@
+:PROPERTIES:
+:title: readwise/今天最大的新闻应该是 Meta 发布了最新的 L...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "今天最大的新闻应该是 Meta 发布了最新的 L..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1781064725951910230
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+今天最大的新闻应该是 Meta 发布了最新的 Llama 3。
+
+首次发布的是 Llama 3 系列中的两款参数分别为 8B 和 70B 的模型。
+
+最大参数的 400+ B 的模型还在开发中，预计几个月内发布。
+
+目前我们正在开发的最大型号是400B+参数的Llama 3模型，虽然仍在开发中，但我们对未来的可能性感到非常兴奋。
+
+模型架构是一个基本的只包含解码器的 Transformer 架构。
+
+Llama 3 的训练基于超过 15 万亿 Token，这些 Token 全部来自公开的数据源。这个数据集是 Llama 2 的七倍大，含有的代码量是其四倍。考虑到未来的多语言应用，我们的预训练数据中超过 5% 是覆盖 30 多种语言的高质量非英语数据。不过，这部分数据的性能可能无法与英语相匹配。
+
+Meta 新推出了一个类似于 ChatGPT 的 https://t.co/2d9aqE07ym 网站，你可以在上面直接体验：https://t.co/GmWC39DZgV
+
+Llama 3 8B 和 70B 已经可以在官方下载：https://t.co/9u6Eb7HP5B
+
+HuggingChat 上也已经可以体验： https://t.co/v4SV1PVC8f
+
+官方博客：https://t.co/jreX4iwwxe
+全文翻译：https://t.co/6SmsI8fTrO 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+https://t.co/6LNivo1xIc 
+#+END_QUOTE\

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:title: readwise/全美排名前30的Shopify店铺，83%做了谷...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[alberttangj on Twitter]]
+:full-title: "全美排名前30的Shopify店铺，83%做了谷..."
+:category: [[tweets]]
+:url: https://twitter.com/alberttangj/status/1777572585536151725
+:image-url: https://pbs.twimg.com/profile_images/1702977635675156480/AhGk8AjC.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-11]]
+#+BEGIN_QUOTE
+全美排名前30的Shopify店铺，83%做了谷歌搜索广告，但不是你想的那样。👇 
+#+END_QUOTE\
+** 📌 [[2024-04-11]]
+#+BEGIN_QUOTE
+谷歌搜索广告的平均花费是每月55,172美元。但这里的平均数有点偏斜，因为有一小部分人花了很多钱。一个更好的指标是中值（我们对这一组进行排序，并查看中间的数字），谷歌广告的中值花费是每月11,650美元。 
+#+END_QUOTE\
+** 📌 [[2024-04-11]]
+#+BEGIN_QUOTE
+这里令人惊讶的是，他们谷歌广告预算的相当大一部分99%花在所谓的“品牌搜索”上。这意味着这些公司将所有的广告预算用于在某人搜索他们的品牌名称或与他们销售的产品结合的品牌名称时，在谷歌搜索结果中出现。但为什么呢？ 
+#+END_QUOTE\

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:title: readwise/Let Me Show Something Th...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[jiayq on Twitter]]
+:full-title: "Let Me Show Something Th..."
+:category: [[tweets]]
+:url: https://twitter.com/jiayq/status/1780787641782591565
+:image-url: https://pbs.twimg.com/profile_images/1681929591311724544/vhBv3jDH.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Let me show something that is ACTUALLY DIFFERENT. [perplexity_ai](https://twitter.com/perplexity_ai)  is NOT ABLE TO deal with new arxiv papers while our chrome extension, https://t.co/5clMuIOv4a, does an excellent job. See this thread for details.
+
+Proof in this thread. You are welcome to check it out.
+
+Dude, this is so old. Stop wrongfully accuse others of copying. Like, it's a search interface, what would be different anyway?
+
+This time, please, please don't say we are copying [perplexity_ai](https://twitter.com/perplexity_ai) . Or, we welcome perplexity to borrow our idea - I promise I won't exploit such opportunity for publicity. 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+[perplexity_ai](https://twitter.com/perplexity_ai) Screenshot: perplexity failing to understand the content. It's only able to capture the title. 
+
+![](https://pbs.twimg.com/media/GLahEjMbwAE4SEv.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+[perplexity_ai](https://twitter.com/perplexity_ai) And here is elmo chat: Structured, clean output of the summary, abstract and key bullet points of the paper. The model behind it is mixtral 8x7b (from [MistralAI](https://twitter.com/MistralAI) who I respect immensively). Mixtral 8x22b is being tested. 
+
+![](https://pbs.twimg.com/media/GLahchSaIAA2JeI.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+We strongly believe that personal AI assistants like https://t.co/2X36snScrq should be offered free from the influence of advertising-driven models. This being said, we don't intend to disrupt anyone, we just want your life to be easier. 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Taking the screenshots also made me realize I have to upgrade Chrome yet again. 
+#+END_QUOTE\

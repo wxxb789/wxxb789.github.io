@@ -1,0 +1,22 @@
+:PROPERTIES:
+:title: readwise/This Blog by Terrance Ta...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wordsofteekay on Twitter]]
+:full-title: "This Blog by Terrance Ta..."
+:category: [[tweets]]
+:url: https://twitter.com/wordsofteekay/status/1780385937735778781
+:image-url: https://pbs.twimg.com/profile_images/1607478240452526082/pUNAEToN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+This blog by Terrance Tao is extremely good, so many gold advice there.
+https://t.co/F1QlXb1yV6 
+
+![](https://pbs.twimg.com/media/GLUzbOuWoAA2WkP.jpg) 
+#+END_QUOTE\

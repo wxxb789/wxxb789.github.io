@@ -1,0 +1,56 @@
+:PROPERTIES:
+:title: readwise/Have You Ever Wanted To...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[karpathy on Twitter]]
+:full-title: "Have You Ever Wanted To..."
+:category: [[tweets]]
+:url: https://twitter.com/karpathy/status/1777427944971083809
+:image-url: https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+Have you ever wanted to train LLMs in pure C without 245MB of PyTorch and 107MB of cPython? No? Well now you can! With llm.c:
+https://t.co/PoGTZIwASL
+
+To start, implements GPT-2 training on CPU/fp32 in only ~1,000 lines of clean code. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.
+
+I chose GPT-2 to start because it is the grand-daddy of LLMs, the first time the LLM stack was put together in a recognizably modern form, and with model weights available. 
+#+END_QUOTE\
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+You can look at the raw training implementation here:
+https://t.co/gDrAqix4Iv
+
+You'll see that we allocate all the required memory a single time in the beginning in one large block of 1D memory. From there on during training, no memory gets created or destroyed, so we stay at constant memory footprint and its just dynamics, streaming the data batches through.
+
+The crux of it is manually implementing the forward and backward pass of all the individual layers, and then stringing them together. For example here is layernorm forward and backward pass.
+
+In addition to layernorm we need the encoder, matmul, self-attention, gelu, residual, softmax and cross-entropy loss.
+
+![](https://pbs.twimg.com/media/GKquXLgaoAApKUn.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+Once you have all the layers, you just string all it all together. Not gonna lie, this was quite tedious and masochistic to write because you have to make sure all the pointers and tensor offsets are correctly arranged.
+
+Left: we allocate a single 1D array of memory and then point all the model weights and activations to it.
+Right: we do all the pointer arithmetic very very carefully 😅
+
+![](https://pbs.twimg.com/media/GKqvRWxaUAAohAk.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+Once you have the forward/backward, the rest of it (data loader, Adam update, etc) are mostly trivial.
+
+The real fun starts now though: I am now porting this to CUDA layer by layer so that it can be made efficient, perhaps even coming within reasonable fraction of PyTorch, but with none of the heavy dependencies. I'm a few layers in already and it's quite a fun CUDA exercise.
+
+From there, extensions include lowering the precision from fp32 to fp16/below, and a few more layers (e.g. RoPE) to support more modern architectures like llama 2 / mistral / gemma / etc.
+
+And once this is a in a bit more stable state: videos on building this in more detail and from scratch. 
+#+END_QUOTE\

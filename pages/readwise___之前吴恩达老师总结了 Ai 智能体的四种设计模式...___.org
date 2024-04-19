@@ -1,0 +1,34 @@
+:PROPERTIES:
+:title: readwise/之前吴恩达老师总结了 Ai 智能体的四种设计模式...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "之前吴恩达老师总结了 Ai 智能体的四种设计模式..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1780099628156826020
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+之前吴恩达老师总结了 AI 智能体的四种设计模式：反思、使用工具、规划和多智能体协作。这一篇他重点介绍了规划。
+
+规划是 AI 智能体的一种核心设计模式。当我们让智能体去执行复杂任务时，需要让大语言模型帮助我们将复杂的任务分解成简单的任务，并且规划出来一个步骤，可以让其他工具或者 AI 智能体按照步骤一步一步去完成任务。
+
+这其实类似于我们在团队协作开发复杂项目的时候，有项目经理这样的角色，制定好项目计划，把复杂的任务分解成简单的任务，并设定好先后顺序和优先级，组织团队一起完成复杂的项目。
+
+吴老师这里说的 AI 智能体的规划，就类似于实际项目中的项目经理规划项目，只是由大语言模型来充当项目经理的角色。
+
+但现阶段的 AI 智能体的规划，即使是最先进的 GPT-4 模型，规划能力也不够强，也经常会出现无法完成任务的情况，甚至出现死循环浪费很多 Token （💰），相信很多试过 AutoGPT 的都有过心痛的感觉😄。
+
+原推翻译：https://t.co/WXrWudRZYS 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+之前的介绍视频：
+https://t.co/OcftqbyIVd 
+#+END_QUOTE\

@@ -1,0 +1,121 @@
+:PROPERTIES:
+:title: readwise/大语言模型综述 《A Survey of Lar...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[tuturetom on Twitter]]
+:full-title: "大语言模型综述 《A Survey of Lar..."
+:category: [[tweets]]
+:url: https://twitter.com/tuturetom/status/1779830312551453058
+:image-url: https://pbs.twimg.com/profile_images/1033199673035522048/WI-JLSAc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+大语言模型综述 《A Survey of Large Language Models》 出书并开源，目前 8.4K Star ⭐️
+
+1. 更新了 13 个版本，包含 83 页正文内容，收录 900 余篇论文
+2. 包括 LLM 趋势、GPT 模型的发展、Llama 家族的发展、Prompt 编写指南、实验和评估模型等内容
+
+https://t.co/HBvqXTqqwt 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+配套开源的还有代码工具库 LLMBox，专门用于开发和实现大语言模型，其基于统一化的训练流程和全面的模型评估框架。LLMBox旨在成为训练和利用大语言模型的一站式解决方案，其内部集成了大量实用的功能，实现了训练和利用阶段高度的灵活性和效率
+
+https://t.co/kvy2TNnXup 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+LLMBox 的架构如下： 
+
+![](https://pbs.twimg.com/media/GLM6jcfb0AAD58w.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+综述成书之后内容如下：
+
+一、背景与基础知识
+第一章  引言（大模型发展历程、重要技术概览）
+第二章  基础介绍（Scaling Law、GPT系列模型发展历程）
+第三章  大模型资源（开源模型、数据、代码库）
+二、预训练
+第四章  数据准备（数据收集、清洗、配比、课程方法） 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+第五章  模型架构（Transformer 结构、大模型主流架构、细节改进）
+第六章  模型预训练（预训练任务、优化参数设置、并行训练方法）
+三、微调与对齐
+第七章  指令微调（指令数据收集与合成方法、指令微调策略与作用）
+第八章  人类对齐（3H标准、RLHF算法、非RL算法） 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+四、大模型使用
+第九章  解码与部署（解码生成算法、解码加速算法、模型压缩算法）
+第十章  提示学习（基础提示方法、上下文学习、思维链）
+第十一章 规划与智能体（复杂规划方法、智能体搭建方法） 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+五、评测与应用
+第十二章 评测（评测指标与方法、基础与高级能力评测、评测体系）
+第十三章 应用（概览研究领域与专业领域的应用） 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+书籍 PDF 下载链接：
+\- https://t.co/UdOFMnGD1p
+\- https://t.co/bJ515NsJzg
+该数据的在线访问地址：https://t.co/ECet7eeu7r 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+23 年 8 月份翻译综述，12 月准备出书，该数据适合具有深度学习基础的高年级本科生以及低年级研究生使用，可以作为一本入门级的技术书籍 
+
+![](https://pbs.twimg.com/media/GLM7jJSb0AAAH2z.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+通过大模型综述，可以系统的了解
+
+1. 大语言模型发展时间线
+2. Llama 家族衍生工作进化图
+
+能够对 ChatGPT 之后，整体研究进展有一个比较全面的了解 
+
+![](https://pbs.twimg.com/media/GLM8fp_aUAA6WIj.jpg) 
+
+![](https://pbs.twimg.com/media/GLM8ir8aAAE60ju.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+同时随本书开源的还有中国人民大学高瓴人工智能学院师生共同开发的支持聊天的大语言模型（名字”玉兰”取自中国人民大学校花）最新版本从头完成了整个预训练过程，并采用课程学习技术基于中英文双语数据进行有监督微调，包括高质量指令和人类偏好数据。
+
+https://t.co/pAIXdFMHul 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+英文论文也发布在 arxiv 上：https://t.co/ZKIG4b1Fs2，值得阅读 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+从这个综述可以学习到：
+
+1. 自从 ChatGPT 发布之后，和 LLM 有关的论文直线增长
+2. 大语言模型如 GPT 面向用户使用之后，迭代速度越来越快，几乎每 3 个月就有一次大版本
+3. Llama 的开源带来了开源大模型的繁荣
+4. Prompting 技术、微调和评测变得更加重要 
+
+![](https://pbs.twimg.com/media/GLM9iswaYAATsOI.png) 
+
+![](https://pbs.twimg.com/media/GLM9rEyasAApuS5.jpg) 
+
+![](https://pbs.twimg.com/media/GLM9wZKbwAAXA9H.jpg) 
+
+![](https://pbs.twimg.com/media/GLM94mWbkAILDkn.png) 
+#+END_QUOTE\

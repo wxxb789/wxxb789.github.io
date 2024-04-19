@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/Highly Amusing Update, ~...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[karpathy on Twitter]]
+:full-title: "Highly Amusing Update, ~..."
+:category: [[tweets]]
+:url: https://twitter.com/karpathy/status/1779272336186978707
+:image-url: https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+Highly amusing update, ~18 hours later:
+
+llm.c is now down to 26.2ms/iteration, exactly matching PyTorch (tf32 forward pass). We discovered a bug where we incorrectly called cuBLAS in fp32 mathmode 🤦‍♂️. And ademeure contributed a more optimized softmax kernel for very long rows (50,257 elements per row, in the last logits layer).
+
+But the fun doesn’t stop because we still have a lot of tricks up the sleeve. Our attention kernel is naive attention, not flash attention, and materializes the (very large) preattention and postattention matrices of sizes (B, NH, T, T), also it makes unnecessary round-trips with yet-unfused GeLU non-linearities and permute/unpermute inside our attention. And we haven’t reached for more optimizations, e.g. CUDA Graphs, lossless compressible memory (?), etc.
+
+So the updated chart looks bullish :D, and training LLMs faster than PyTorch with only ~2,000 lines of C code feels within reach. Backward pass let’s go.
+
+![](https://pbs.twimg.com/media/GLE-gwAasAA2AWC.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+THE REVENGE OF PYTORCH
+just kidding :)
+
+[cHHillee](https://twitter.com/cHHillee) (from PyTorch team) was kindly able to help improve the PyTorch baseline, done by 1) upgrading to nightly, 2) using the "compound" F.sdpa (scaled dot product attention) layer directly, and turning on a torch compile flag:
+TORCHINDUCTOR_COORDINATE_DESCENT_TUNING=1
+
+The numbers are a bit different because this is a bit different GPU (A100 80GB, with higher memory bandwidth) but:
+llm.c: 23.026892
+PyTorch 2.2: 22.408ms
+PyTorch nightly: 21.090ms
+PyTorch nightly + F.sdpa: 19.224ms
+PyTorch nightly + F.sdpa + coordinate descent tuning torch inductor flag: 18.809ms
+
+so ~20% speedup, see the fork for more details:
+https://t.co/LT34GjWq9f
+
+another nice attached pointer is that torch compile can also generate and emit C++ code:
+https://t.co/nQYoc8GTrG 
+#+END_QUOTE\

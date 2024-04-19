@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/https:__t.co_B9vgAPGjh8...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[yadong_xie on Twitter]]
+:full-title: "https://t.co/B9vgAPGjh8..."
+:category: [[tweets]]
+:url: https://twitter.com/yadong_xie/status/1779329096864104560
+:image-url: https://pbs.twimg.com/profile_images/1333285196825673728/j8v0PvXM.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+https://t.co/B9vgAPGjh8 本周用户量再次翻倍，达到 15000+
+
+截图演示下如何用 elmo 追新闻热点 + 这周新增加的功能
+
+1. 支持 bilibili 的长视频总结
+2. 支持朗读总结文本（用 chrome 内置 tts 实现，效果凑合但能用）
+3. 支持将总结内容分享为图片
+
+btw 图片分享下的二维码是原文链接，elmo 没有做任何中转和数据记录
+
+以上所有功能免费 + 免注册，欢迎来试试
+
+![](https://pbs.twimg.com/media/GLFx5zvasAA3Rj4.jpg)
+
+![](https://pbs.twimg.com/media/GLFx8IzaEAA2reE.jpg)
+
+![](https://pbs.twimg.com/media/GLFyDzqaMAEtZfj.jpg)
+
+![](https://pbs.twimg.com/media/GLFyFOYboAA8NqU.jpg) 
+#+END_QUOTE\

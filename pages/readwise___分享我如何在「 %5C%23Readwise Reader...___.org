@@ -1,0 +1,55 @@
+:PROPERTIES:
+:title: readwise/分享我如何在「 \#Readwise Reader...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[esorhjy on Twitter]]
+:full-title: "分享我如何在「 \#Readwise Reader..."
+:category: [[tweets]]
+:url: https://twitter.com/esorhjy/status/1780614614470086775
+:image-url: https://pbs.twimg.com/profile_images/3693240956/9776b9b1bd78c3374d58534aa5974be7.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+分享我如何在「 #Readwise Reader 」中設計自己需要的 Ghostreader prompts ，提供大家參考，或進一步修改成你的版本，也會分享我實際測試後，目前認為適合 Readwise Reader 的 AI 摘要指令設計邏輯。
+
+透過自己寫 AI 摘要提示語，我們可以讓摘要更符合自己的需要，更能快速掌握這篇文章是否能解決我的問題，甚至直接看出文章裡是否有我感興趣的內容，而且可以讓中英文文章都產生中文摘要。
+
+歡迎參考我的完整文章：https://t.co/AUPwneWb08
+
+這邊先跟大家分享我經過幾次測試後，目前慣用的版本。這個版本可以做到：
+
+1.用繁體中文摘要。
+2.分析出文章要解決的核心問題，看看是否為自己需要的問題？
+3.分析出文章一步一步的解決問題方法，看看是否有興趣深入閱讀？
+4.用字盡量精簡額要，但符合原文原意。
+
+你可以複製貼上到自訂 Prompts 的視窗中，按下右下方的「 Update 」，就能更換成新指令：
+
+###以下為指令###
+{#- 用台灣慣用繁體中文進行文章摘要 -#}
+
+用"台灣慣用的繁體中文"，根據下面文章中「要解決什麼問題？」、「提出什麼具體方法？」，列出重點清單：
+
+"""
+標題: {{ document.title }}
+作者: {{ https://t.co/MZ8ZbJziVG }}
+來源: {{ document.domain}}
+{#- The if-else logic below checks if the document is long. If so, it will use key sentences to not exceed the GPT prompt window. We highly recommend not changing this unless you know what you're doing. -#}
+{% if (document.content | count_tokens) > 2000 %}
+{{ document.content | central_sentences | join('\n\n') }}
+{% else %}
+{{ document.content }}
+{% endif %}
+"""
+摘要邏輯提示：摘要時請一段一段分析，先找出對應的重點，並將相關原文翻譯成通順的"台灣繁體中文"，撰寫時每一條清單顧及前後邏輯的關係，組成嚴謹的論證結構。
+###
+
+具體的設計心得，歡迎參考我的完整文章：https://t.co/AUPwneWb08
+
+![](https://pbs.twimg.com/media/GLYDi7UbAAAZ-O1.jpg) 
+#+END_QUOTE\

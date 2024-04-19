@@ -1,0 +1,71 @@
+:PROPERTIES:
+:title: readwise/Jina AI 刚刚开源了 RAG 数据处理中的...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[tuturetom on Twitter]]
+:full-title: "Jina AI 刚刚开源了 RAG 数据处理中的..."
+:category: [[tweets]]
+:url: https://twitter.com/tuturetom/status/1779377811905769960
+:image-url: https://pbs.twimg.com/profile_images/1033199673035522048/WI-JLSAc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+Jina AI 刚刚开源了 RAG 数据处理中的关键组件：“网页数据爬取” -- Reader，目前 175 Star⭐️：
+
+1. 在 https://t.co/VGAQK9y3N8<url> 中填入任何 Url 即可获取到 LLM 友好的 Parsed Content（ Markdown）
+2. 免费使用，提供 Stream 模式可流式读内容（简单内容 <=2s 可获取）
+
+https://t.co/HippoDYTbE 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+比如 https://t.co/HYiLk0iNZm，其中 <url> 为 https://t.co/5zEg9dng7r，可以获取到如下内容：
+
+1. 基本上清洗了无关的 html 内容
+2. 将图片等都转为了 markdown 格式 
+
+![](https://pbs.twimg.com/media/GLGe2-abgAAAzu6.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+可以访问 https://t.co/VusRUgTV0f，尝试在线 Demo 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+填入链接，点击 FETCH CONTENT 即可获取到内容，甚至提供了基于获取的内容直接提问，结合 Jina AI 的 Embedding 召回 + LLM 组合输出 
+
+![](https://pbs.twimg.com/media/GLGfKbLa4AAIvvj.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+API 使用方法： 
+
+![](https://pbs.twimg.com/media/GLGfq9-akAE_qd8.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+Jina AI Reader 特征：
+
+1. 免费使用
+2. 开源
+3. 延迟大概 2S 内，复杂的内容可能需要更多时间
+4. 提供 stream 模式，方便缓解复杂内容等待
+5. 不支持多语
+6. 能够处理 PDF 如 arXiv，但是不是一个通用的 PDF 抽取器
+7. 未来会支持处理图片或视频总结
+8. 支持在线网页
+9. 5 分钟之内上传的内容会缓存 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+试了下效果，挺不错的，命令行跑 curl：
+
+curl -H "Accept:text/event-stream" https://t.co/oaDzfKPDq1 
+
+后面可以让他处理论文，然后开始深度阅读🥳 
+#+END_QUOTE\

@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/X_Twitter 内容抓取的几种方案： 1、...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[leeoxiang on Twitter]]
+:full-title: "X/Twitter 内容抓取的几种方案： 1、..."
+:category: [[tweets]]
+:url: https://twitter.com/leeoxiang/status/1780245614896484381
+:image-url: https://pbs.twimg.com/profile_images/1754500495883034624/BC9wwhgN.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+X/Twitter 内容抓取的几种方案：
+
+1、 Easy Scraper
+https://t.co/nqmxDuoSZO
+Easy Scraper 是Chrome的一个爬虫抓取插件，支持单条内容抓取和列表抓取模式，并能很好的适配页面自动scroll 加载更多模式，非常轻量的一款爬虫抓取插件。
+
+2、Instant Data Scraper
+https://t.co/USo0v1Lf53
+Instant Data Scraper 是chrome的一个爬虫插件，能自动的解析列表，并进行数据的抓取。
+
+3、Apify
+https://t.co/hVptg3hKPw
+Apify 这个产品我介绍过两次，上面包含130个twiiter内容爬取服务，基本能满足你所有的需求，但有的爬虫收费确实不便宜。
+
+4、crawlbase
+https://t.co/xR2ZJ7MrnE
+crawlbase 是商业的爬虫服务，并有专门针对twiiter的爬虫服务， 1000次爬取6$ ，价格还算合理。
+
+5、twitter-insights
+https://t.co/aFHLaPcBlG
+github 上有人开源了基于selenium的twiiter内容抓取脚本，目前功能还比较简单，只能抓取某个人的内容。对于想自己玩玩的可以参考这个代码。 
+#+END_QUOTE\

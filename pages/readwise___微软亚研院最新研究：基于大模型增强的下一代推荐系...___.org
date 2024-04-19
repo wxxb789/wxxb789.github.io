@@ -1,0 +1,151 @@
+:PROPERTIES:
+:title: readwise/微软亚研院最新研究：基于大模型增强的下一代推荐系...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[tuturetom on Twitter]]
+:full-title: "微软亚研院最新研究：基于大模型增强的下一代推荐系..."
+:category: [[tweets]]
+:url: https://twitter.com/tuturetom/status/1781153946180211165
+:image-url: https://pbs.twimg.com/profile_images/1033199673035522048/WI-JLSAc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+微软亚研院最新研究：基于大模型增强的下一代推荐系统！系统介绍 LLM + Rec 研究，代码已开源，目前 94 Star ⭐️
+
+1. 🤖开发了基于对话的推荐 Agent - InteRecAgent
+2. 💥训练了面向推荐的 Embedding 和 GenAI 模型
+3. 🥳提供了知识插件、可解释性和性能评估能力
+
+https://t.co/0sVxM6KG36 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+论文地址：
+https://t.co/mGWC0lNwV2 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+该研究采用整体的视角，将 LLM 结合推荐系统 - LLM4Rec，探索解决真实世界中的 「实际需求」，并整合为 RecAI 项目，该项目包含了很多实用的概念和技术：
+
+1. 如何微调 「推荐专用」的语言模型和嵌入模型？
+2. 如何结合 Agent 技术提高对话推荐的效果？
+3. 如何评估 LLM based 推荐系统，有哪些指标？ 
+
+![](https://pbs.twimg.com/media/GLfux1_aEAAmqQw.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+该研究的目标：“创建一个更复杂、交互式和以用户为中心的推荐系统”。
+
+1. InteRecAgent：结合专用特定领域数据训练后的传统推荐模型。其中传统推荐模型作为专用工具负责项目检索或点击率预测等任务，而LLM则担任核心智能角色，促进与用户的流畅互动，并利用情境推理来选择最适合当前对话情境的工具 
+
+![](https://pbs.twimg.com/media/GLfvF6GaIAA5Zms.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+InteRecAgent 包含 3 个核心组件，以实现和用户有效的沟通：
+
+1. 信息查询：InteRecAgent在推荐项目的同时解决用户查询
+2. 项目检索：该工具根据用户的标准，建议潜在项目列表
+3. 项目排名：排名工具使用用户配置文件和/或用户历史记录预测用户对入围项目的偏好，确保推荐符合用户的即时需求和整体偏好 
+
+![](https://pbs.twimg.com/media/GLfvmM3bEAABjgF.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+同时为了支撑这三个组件，底层的基础能力包括：
+
+1. 记忆：包括候选者总线和用户画像
+2. 任务规划：类似 CoT Planning，规划如何做，使用哪些工具
+3. 工具学习与使用：类似 Function call 的调用，选择调用 SQL Tool、检索 Tool
+
+https://t.co/IQKYWV4pZe 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+同时为了降低成本提高效率，作者基于 Llama-7B 微调了一个专为推荐服务的推理模型 RecLlama，基于 GPT-4 生成的高质量数据集，解决 [指令，工具执行计划] 的任务，获得了远超 GPT-3.5-Turbo 的性能 
+
+![](https://pbs.twimg.com/media/GLfxCQMbYAAkB3K.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Agent 对应的论文：Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations
+https://t.co/AgdYj11zrg 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+训练 RecLlama 以及 Agent 工作的过程： 
+
+![](https://pbs.twimg.com/media/GLfxWZfawAAyVer.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+2. 同时发布了面向推荐系统优化的语言模型和嵌入模型
+
+能够兼顾 “吸收多种文本输入（从随意对话到非结构化产品描述）的能力，并能精准匹配用户查询的细微需求，以提供个性化推荐”
+
+https://t.co/MRxk6VjuXo
+https://t.co/J7hTHQUB7e 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+下图介绍了 Embedding 和 LLM 为推荐微调的相关内容 
+
+![](https://pbs.twimg.com/media/GLfx23oaQAAOdJA.png) 
+
+![](https://pbs.twimg.com/media/GLfx8BGbgAADTjy.jpg) 
+
+![](https://pbs.twimg.com/media/GLfx_Q8bgAA-z5i.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+通过微调特定模型，可以实现如下的优势：
+
+1. RecLM-emb在项目检索任务中展现出了显著的性能提升，在对话场景中也表现出色，有效提升了如Chat-Rec等基于LLM的推荐agent的能力，更重要的是，RecLM-emb具有统一搜索和推荐服务或生成精细语义表示以支持下游排序器的巨大潜力 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+2. RecLM-gen：更好地识别物品名称和独特的协作模式，比通用模型更准确；微调模型能够降低 Agent 带来的成本消耗同时减少 10~20S 的延迟 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+如果无法微调模型，RecAI 还提供了基于 RAG 的知识增强插件，通过选择性知识进行增强的方法，以便可以通过提示注入大规模的、不断发展的和特定领域的数据模式 
+
+![](https://pbs.twimg.com/media/GLfy3HcbMAADkcF.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+知识插件的论文：https://t.co/BhLyO1rdOf 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+同时推荐中另一个比较重要的话题是 “可解释性”，因为它不仅揭示系统的工作机制，还有助于发现错误、识别偏见并推动创新
+
+作者提出了 RecExplainer，设计了 3 种对齐策略训练模型：行为对齐、意图对齐、混合对齐策略，和 6 个任务来微调 LLM 以使得与目标推荐模型的预测保持一致 
+
+![](https://pbs.twimg.com/media/GLfzr3ibUAAP_B_.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+RecExplainer 的论文如下：
+https://t.co/AEBJFsFepi 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+最后，RecAI 还提供了全面的自动评估工具，涵盖 5 个维度：
+
+1. 生成式推荐
+2. 基于嵌入的推荐
+3. 对话
+4. 解释
+5. 闲聊
+
+在以类似人类的方式使用语言模型作为推荐器的时代，评估对于评估模型的真实能力和确定需要进一步改进的薄弱环节至关重要。 
+
+![](https://pbs.twimg.com/media/GLf0Trhb0AAQbq4.png) 
+#+END_QUOTE\

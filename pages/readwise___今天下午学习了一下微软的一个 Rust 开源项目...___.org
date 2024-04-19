@@ -1,0 +1,19 @@
+:PROPERTIES:
+:title: readwise/今天下午学习了一下微软的一个 Rust 开源项目...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[blackanger on Twitter]]
+:full-title: "今天下午学习了一下微软的一个 Rust 开源项目..."
+:category: [[tweets]]
+:url: https://twitter.com/blackanger/status/1780202389460631777
+:image-url: https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+今天下午学习了一下微软的一个 Rust 开源项目 aici，惊了，发现还能通过调整偏差来影响下一个 token 的输出概率，从而达到约束大模式输出的效果。开眼了。 
+#+END_QUOTE\

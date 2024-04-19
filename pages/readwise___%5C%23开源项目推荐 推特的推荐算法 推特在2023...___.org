@@ -1,0 +1,142 @@
+:PROPERTIES:
+:title: readwise/\#开源项目推荐 推特的推荐算法 推特在2023...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[seclink on Twitter]]
+:full-title: "\#开源项目推荐 推特的推荐算法 推特在2023..."
+:category: [[tweets]]
+:url: https://twitter.com/seclink/status/1779530787760845278
+:image-url: https://pbs.twimg.com/profile_images/1709859553414893568/a_eQ9NYf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+#开源项目推荐 推特的推荐算法
+
+推特在2023年开源了他们的推荐算法，
+
+地址详见：https://t.co/52pROkQVKu
+
+有人分析出了符合推特推荐条件的因子，
+
+该做的和不该做的都有，内容如下。
+
+1. 按顺序拆解
+\-被转发  20 倍
+\-被评论 1  （被评论是理所当然）
+\-声望值 0.2  （我理解是每个账号都有一个为正的基础声望值，不论大v小v，发布的内容统一减五倍，体现公平性）
+\-内容相关性  2 （账号定位）
+\-纯文字 0.18
+\-带链接 2 倍 （非认证的链接除外）
+\-回复别人的评论 1 倍
+\-被收藏，30！
+
+2.
+\-英文UI，但推文不是英文，0.5
+\-用英文发推，但界面非英文，0.2
+\-用户语言与推文语言不通，又都不是英语，0.02
+\-未知语言，0.05  比如你发了 “焱暒軆妏牸，dPUNk嫃疠嗐#¥&*%！” ，系统不能识别的非人类语言，减分！
+
+3.
+激进内容  0.1 倍 比如说zang话
+圈子的内容，2 倍
+多个 Tag，0.6 倍  虽然增加tag，容易增加搜索，但加太多不相关的，会降低推荐权重，这个要自己权衡
+直接涨粉  4 倍
+蹭热点，1.1 倍
+自己转自己 2 倍
+带图 2 倍
+带视视频 2 倍
+
+4.
+以下 3 种内容会被提升权重
+\- 热点内容（trend）
+\- 有链接（比如 youtube/sportify）
+\- 有新闻链接（比如币圈媒体链接）
+
+以下 3 种内容会被降低权重
+\- 没有文字（比如就发一张图）
+\- 只有链接
+\- 只有名字
+
+5.
+如果关注 > 粉丝数 会被降低权重，
+因此通过大量关注来获取粉丝的方法，需要根据账号增长阶段来做取舍。
+
+6.
+要做的：
+\-面子： 内容与标签一定要统一，最好蓝V认证。
+\-核心：有干货输出能让人收藏的内容是KING（30），有新奇有趣能让人愿意分享的是Queen（20），以上都没有，这个内容能让你长个粉是“jack”（4）
+\-基本动作：文案+图/视频（但优质视频会带来其他用户行为，权重会增加）
+
+7.
+不做的：（你想随你所欲请忽略，但以下行为会被系统制裁）
+\- 骂脏话、关注“不正确的人和事”
+\- 乱点关注，乱发内容，乱加tag，账号标签混沌，会直接崩盘！
+\- 发乱码，发未被认证的外链
+\- 用机器人，或被判定为女巫的行为。
+\- 刷粉，账号标签会乱，刷的越多越难修正，粉丝数量远不如粉丝质量的权重高
+
+![](https://pbs.twimg.com/media/GLIpr-caYAAb0fB.jpg)
+
+![](https://pbs.twimg.com/media/GLIptUaaUAA0VtQ.png)
+
+![](https://pbs.twimg.com/media/GLIpum2aEAAy4E3.jpg)
+
+![](https://pbs.twimg.com/media/GLIpwBiaEAAutdc.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+补充第五张图：
+5.
+如果关注 > 粉丝数 会被降低权重，
+因此通过大量关注来获取粉丝的方法，需要根据账号增长阶段来做取舍。 
+
+![](https://pbs.twimg.com/media/GLIp-dnbkAA-w1V.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+小技巧（使用GPT-4帮你阅读理解代码）：
+ \- 如果你读不懂代码，你可以用GPT-4读给你看。 
+
+![](https://pbs.twimg.com/media/GLIqfwEa4AAWTjx.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+推特官方最新推荐算法地址如下。
+传送门：https://t.co/hEG3GQgtUs 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+这段代码看起来是某个社交媒体平台相关的服务器代码，特别是与内容排序算法相关的部分。
+
+这段代码定义了一些函数，它们配置了用于对内容进行排序的参数。
+
+这些参数似乎是用来确定社交媒体上的帖子或消息如何在用户的时间线上显示的权重。
+
+具体来说，它们影响内容在用户看到的时候的排序。
+
+第一部分 getTensorflowBasedRankingParams 函数设定了使用基于 TensorFlow 的模型来为时间线上的内容进行排序，使用了特定的参数，例如 "timelines_retweet_replica"，这可能意味着模型特别关注转发的内容。
+
+第二部分 getLinearRankingParams 函数设定了一系列的参数，每个参数都有一个权重，这些权重影响着内容的最终排序。例如：
+
+minScrore: 帖子的最低分数。
+retweetCountParams: 转发计数的权重。
+replyCountParams: 回复计数的权重。
+isReplyParams: 是否为回复的标志的权重。
+还有其他的“提升”（Boost）参数，它们可能是用来调整某些特定因素对帖子排序的影响。比如：
+
+favCountParams: 收藏数的权重。
+userHashtagsOrTrendsBoost: 用户使用的话题标签或趋势的权重提升。
+selfTweetBoost: 自我推文的权重提升。
+tweetHasImageBoost: 帖子包含图片的权重提升。
+tweetHasVideoBoost: 帖子包含视频的权重提升。
+最后，ageDecayParams 设定了随着帖子年龄增加而减少其权重的参数，以保持时间线的时效性和相关性。
+
+这些参数的组合可能用于微调算法，使得社交媒体平台能够基于用户的互动和帖子的特征，展示他们可能最感兴趣的内容。
+
+![](https://pbs.twimg.com/media/GLIsQ-aaQAAxQER.jpg) 
+#+END_QUOTE\

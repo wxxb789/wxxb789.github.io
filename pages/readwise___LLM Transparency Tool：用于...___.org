@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/LLM Transparency Tool：用于...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Gorden_Sun on Twitter]]
+:full-title: "LLM Transparency Tool：用于..."
+:category: [[tweets]]
+:url: https://twitter.com/Gorden_Sun/status/1780267359963697245
+:image-url: https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+LLM Transparency Tool：用于分析LLM工作原理的交互工具包
+与之前的LLM推理可视化项目（https://t.co/d0QwoQYb19）类似，都是用于透视推理过程。
+Github：https://t.co/0tVXVAh81H
+在线使用：https://t.co/VMyWCu3aJM
+不过对于小白人群，还是更推荐3Blue1Brown的视频讲解：https://t.co/vGMsFnYbsS 
+
+![](https://pbs.twimg.com/media/GLTHtPXbEAABfKE.jpg) 
+#+END_QUOTE\

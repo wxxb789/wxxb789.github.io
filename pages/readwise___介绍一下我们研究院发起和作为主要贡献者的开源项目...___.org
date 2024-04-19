@@ -1,0 +1,28 @@
+:PROPERTIES:
+:title: readwise/介绍一下我们研究院发起和作为主要贡献者的开源项目...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[wangyuanzju on Twitter]]
+:full-title: "介绍一下我们研究院发起和作为主要贡献者的开源项目..."
+:category: [[tweets]]
+:url: https://twitter.com/wangyuanzju/status/1778646061831311700
+:image-url: https://pbs.twimg.com/profile_images/1768935826615050240/g30-s6Ar.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+介绍一下我们研究院发起和作为主要贡献者的开源项目Curve。Curve是高性能、易运维、云原生的分布式存储系统，支持块存储和文件存储（暂不支持对象存储），目前是CNCF Sandbox项目。
+
+发起Curve，是因为我们之前大规模的用Ceph，但是解决不了几个关键问题。
+1、空间利用率低：Ceph没有元数据，数据分布没法精细控制，导致空间利用率做不高，是很大的成本浪费；
+2、扩容和故障恢复影响性能：还是因为Ceph没有元数据，所以系统扩容和节点失效都会导致大量数据的rebalance，rebalance期间的性能明显往下掉；
+3、 副本故障时卡顿：Ceph的多副本协议在有副本失效的时候会卡住一段时间。
+
+Curve解决了以上几个Ceph的突出问题，同时通过Raft协议和RDMA，在小IO场景还具备明显的性能优势。后来又做了文件存储，也不错。
+
+项目地址：https://t.co/UYpJK12GYz 
+#+END_QUOTE\

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:title: readwise/我从 Elon Musk 那里学到的 2 个法则...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[seclink on Twitter]]
+:full-title: "我从 Elon Musk 那里学到的 2 个法则..."
+:category: [[tweets]]
+:url: https://twitter.com/seclink/status/1779680459255075034
+:image-url: https://pbs.twimg.com/profile_images/1709859553414893568/a_eQ9NYf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+我从 Elon Musk 那里学到的 2 个法则：
+
+1. 第一性原理，剥开问题的表象，从事物的本质进行思考；
+2. 树干理论，学习某个领域的知识要先建立树干和树枝，这些是最核心的知识，然后在这个体系上再慢慢补充一些细节（树叶）。
+
+关于第一性原理，推荐一些读物 👇 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+1/ Tim Urban ( [waitbutwhy](https://twitter.com/waitbutwhy) ) 写的一系列关于 Elon Musk 的博客文章。
+
+https://t.co/TNRw1Kkntz 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+[waitbutwhy](https://twitter.com/waitbutwhy) 2/ 一本书：《像火箭科学家一样思考》  微信读书：
+
+https://t.co/rP7J5yaXNq 
+
+![](https://pbs.twimg.com/media/GLKybEWbIAEu1iM.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+[waitbutwhy](https://twitter.com/waitbutwhy) 3/ Farnam Street 的这篇关于 First Principle 的文章
+
+https://t.co/XQ63pCEhYJ 
+#+END_QUOTE\

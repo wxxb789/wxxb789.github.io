@@ -1,0 +1,35 @@
+:PROPERTIES:
+:title: readwise/什么是第一原理思维以及如何思考
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Y11]]
+:full-title: "什么是第一原理思维以及如何思考"
+:category: [[tweets]]
+:url: https://x.com/seclink/status/1779766852560044251?t=NlW5q5T3g2aVPR5voAhuJw&s=09
+:image-url: https://pbs.twimg.com/profile_images/1709859553414893568/a_eQ9NYf.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+“方法，可能有一百万甚至更多，但原理却很少。掌握原则的人才能成功地选择自己的方法。尝试方法而忽视原则的人一定会遇到麻烦。”
+
+*— 哈林顿·爱默生* 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+“五个为什么” 是“根本原因分析”的流行方法，源自将系统分解为多个组件的相同类似概念。
+
+因此，下次当您看到任何指标下降时，或者您被要求构建一个功能时，请不要忘记问“为什么”5 次，以找出真正的问题。 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+流行的问题空间框架，例如 “待完成的工作”**、** “鱼骨图” 也基于类似的概念，即确定我们
+
+行为背后的根本原因。
+
+如果您开始将首要原则应用于问题识别会议，您自然会发现自己正在应用这些框架（JTBD、5 个为什么、鱼骨），甚至无需向您的团队抛出行话。 
+#+END_QUOTE\

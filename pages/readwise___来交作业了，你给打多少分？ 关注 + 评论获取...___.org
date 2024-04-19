@@ -1,0 +1,38 @@
+:PROPERTIES:
+:title: readwise/来交作业了，你给打多少分？ 关注 + 评论获取...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[moeimiku on Twitter]]
+:full-title: "来交作业了，你给打多少分？ 关注 + 评论获取..."
+:category: [[tweets]]
+:url: https://twitter.com/moeimiku/status/1780574981359071528
+:image-url: https://pbs.twimg.com/profile_images/1729869256471547904/xev4TfLe.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+来交作业了，你给打多少分？
+
+关注 + 评论获取ComfyUI的工作流
+
+原作者的经验如下:
+1. 通过提示词对主题颜色的把控，
+2. 组合不同的lora调整毛绒的长度，
+3. 结合controlnet用于图形结构的把控及颜色的调整
+lora:<lora:是毛团子啊！可爱化动物模型>,<lora:毛绒2>
+提示词：
+Masterpiece,top view,solo,(plush:1.1),( fluffy, plush _ hair, 3D art:1.4),(placed on pure white background:1.3),light and shadow,natural lighting,close-up,depth of field,minimalism,high quality,high detail,Sony FE GM,UHD
+#sd #sd绘画 #stable_diffusion #创意海报 #AI绘画 #AIGC #海报练习 #毛绒效果 #毛毡 #符号设计 #设计灵感 #概念设计 #潮流薯 #知识薯 #学习薯 #艺术薯
+
+![](https://pbs.twimg.com/media/GLXfKtDbEAAJvz4.jpg)
+
+![](https://pbs.twimg.com/media/GLXfLxmbwAAe25v.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+小红书原作者: https://t.co/K5eGa45jJm 
+#+END_QUOTE\

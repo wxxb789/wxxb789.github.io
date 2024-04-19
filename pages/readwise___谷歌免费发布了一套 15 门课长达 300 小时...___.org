@@ -1,0 +1,43 @@
+:PROPERTIES:
+:title: readwise/谷歌免费发布了一套 15 门课长达 300 小时...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "谷歌免费发布了一套 15 门课长达 300 小时..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1781238918962364618
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+谷歌免费发布了一套 15 门课长达 300 小时的机器学习工程师课程。
+
+涵盖了机器学习系统的设计、构建、投产、优化、运转和维护工作。
+
+详细的学习内容有：
+
+• 机器学习基础：涵盖机器学习的基本原理和方法。 
+
+• 特征工程：探讨如何有效地处理和转换数据，以提高模型性能。 
+
+• 生产级机器学习系统：介绍如何将机器学习模型部署到生产环境中。 
+
+• 计算机视觉与自然语言处理：涉及图像和语言数据的分析和应用。 
+
+• 推荐系统：讨论如何构建个性化推荐引擎。 
+
+• MLOps：聚焦于机器学习操作的实践，包括模型的部署、监控和维护。 
+
+• TensorFlow、Google Cloud、VertexAI：介绍这些工具和平台如何支持机器学习项目的开发和部署。
+
+![](https://pbs.twimg.com/media/GLg7UuraMAA1hUw.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+课程地址：https://t.co/BgMwi2Sp1m 
+#+END_QUOTE\

@@ -1,0 +1,56 @@
+:PROPERTIES:
+:title: readwise/非常非常值得一看的来自 LangChain 团队...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "非常非常值得一看的来自 LangChain 团队..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1781119377250586802
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+非常非常值得一看的来自 LangChain 团队的 RAG 视频：当 LLM 的上下文足够长了就不需要 RAG 了吗？
+—— RAG在长上下文大语言模型(LLM)中的应用探讨
+
+这是[rlancemartin](https://twitter.com/rlancemartin)最近在几个聚会上关于在长上下文LLM时代使用RAG的讲座。随着上下文窗口增至超过100万Token，很多人质疑RAG是否已经过时。我们结合几个最新的项目成果来分析这个问题。我们讨论了长上下文LLM在事实推理和信息检索方
+
+面现有的限制（采用多针索引分析法），同时也探讨了上下文窗口扩展可能带来的RAG应用场景的变化，如文档中心的索引技术和RAG的流程优化。
+
+幻灯片展示：[查看详情](https://t.co/9R200tHtVq)
+
+重点参考文献：
+
+1/ 多针索引分析，合作研究者[GregKamradt](https://twitter.com/GregKamradt)
+[阅读更多](https://t.co/qKawZwFmtY)
+
+2/ RAPTOR研究项目，主要研究者包括[parthsarthi03](https://twitter.com/parthsarthi03)
+[项目首页](https://t.co/NtpXg1ieDG)
+[视频介绍](https://t.co/Ncu8ltjKLa)
+
+3/ Dense-X / 多维数据索引技术，主要研究者[tomchen0](https://twitter.com/tomchen0)
+[学术论文](https://t.co/RmC25jQgr0)
+[相关博客](https://t.co/uP6II4AtlM)
+
+4/ 长上下文数据嵌入技术，研究者包括[JonSaadFalcon](https://twitter.com/JonSaadFalcon), [realDanFu](https://twitter.com/realDanFu), [simran_s_arora](https://twitter.com/simran_s_arora)
+[研究概览](https://t.co/ywr8FrvjfP)
+[技术教程](https://t.co/a74Obw78xv)
+
+5/ 自适应RAG ([AkariAsai](https://twitter.com/AkariAsai)等)，及C-RAG (Shi-Qi Yan等)
+[论文一](https://t.co/OuaLCdh2D2)
+[论文二](https://t.co/2pUK1jy0rv)
+[研究动态](https://t.co/N4t89gcDww)
+
+0:20 - 上下文窗口正逐渐增大
+2:10 - 多针索引挑战
+9:30 - RAG的未来变革
+12:00 - 查询机制分析
+13:07 - 以文档为中心的索引技术
+16:23 - 自我反思的RAG模式
+19:40 - 总结<video controls><source src="https://video.twimg.com/amplify_video/1781116992373612544/pl/y9GizwtjrSrGByhb.m3u8?tag=16&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/amplify_video/1781116992373612544/vid/avc1/480x270/HkrGCHSRxmiFb0iN.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1781116992373612544/vid/avc1/640x360/xRjq7XPX4GdVVmrI.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1781116992373612544/vid/avc1/1280x720/k0ldUYXJT-NusfoX.mp4?tag=16" type="video/mp4"><source src="https://video.twimg.com/amplify_video/1781116992373612544/vid/avc1/1920x1080/iLRk2cfbK0RWbQUU.mp4?tag=16" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\

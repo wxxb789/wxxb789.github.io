@@ -1,0 +1,46 @@
+:PROPERTIES:
+:title: readwise/RAG 数据清洗重要组件 OmniParser...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[tuturetom on Twitter]]
+:full-title: "RAG 数据清洗重要组件 OmniParser..."
+:category: [[tweets]]
+:url: https://twitter.com/tuturetom/status/1778810597825732920
+:image-url: https://pbs.twimg.com/profile_images/1033199673035522048/WI-JLSAc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+RAG 数据清洗重要组件 OmniParser 是阿里达摩院开源一套文本识别、关键信息和表格抽取的 Parser，目前已经 798 个 Star ⭐️
+
+1. 该 Parser 已经用于阿里云产品 “读光 OCR”
+2. 提供了在线 Demo 可以体验各种信息抽取、图片识别效果
+3. 该 Repo 包含 10 篇论文记录技术迭代过程
+
+https://t.co/nkW6J34XqI 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+OmniParser 可以对应的 DocMaster 可以在阿里魔搭社区体验 Demo：https://t.co/xDQBQMkjxY 
+
+![](https://pbs.twimg.com/media/GK-bFcWagAAuxRu.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+该项目对应着一个达摩院团队的愿景：
+
+“本研究的最终目标是建立一个具有高级智能的系统，即具有阅读、思考和创造的能力，如此先进，甚至可以在未来的某一天超越人类的智能。我们将这种系统命名为高级读写机器(ALM)。”
+
+目前专注于从图像和文档中读取数据，未来将探索智能，赶上并超越GPT-4和GPT-4V 
+#+END_QUOTE\
+** 📌 [[2024-04-14]]
+#+BEGIN_QUOTE
+对应论文和开源地址：
+Github地址：https://t.co/nkW6J34XqI
+
+论文地址：https://t.co/fKGdsbpHWf 
+#+END_QUOTE\

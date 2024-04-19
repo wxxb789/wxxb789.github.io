@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/Google Presents Best Pra...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[arankomatsuzaki on Twitter]]
+:full-title: "Google Presents Best Pra..."
+:category: [[tweets]]
+:url: https://twitter.com/arankomatsuzaki/status/1778609441551622372
+:image-url: https://pbs.twimg.com/profile_images/1561220982328754176/JOYS5kab.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+Google presents Best Practices and Lessons Learned on Synthetic Data for Language Models
+
+Provides an overview of synthetic data research, discussing its applications, challenges, and future directions
+
+https://t.co/0n1EBkxqI3 
+
+![](https://pbs.twimg.com/media/GK7jnYjXEAAS5s7.png) 
+#+END_QUOTE\

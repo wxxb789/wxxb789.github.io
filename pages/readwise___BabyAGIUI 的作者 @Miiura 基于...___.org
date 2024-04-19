@@ -1,0 +1,48 @@
+:PROPERTIES:
+:title: readwise/BabyAGIUI 的作者 @Miiura 基于...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[tuturetom on Twitter]]
+:full-title: "BabyAGIUI 的作者 @Miiura 基于..."
+:category: [[tweets]]
+:url: https://twitter.com/tuturetom/status/1777514315211522251
+:image-url: https://pbs.twimg.com/profile_images/1033199673035522048/WI-JLSAc.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+BabyAGIUI 的作者 [miiura](https://twitter.com/miiura) 基于 Vercel Gen UI SDK 打造的开源的 Perplexity Clone。
+
+比较有意思的是含 “AI” 量 90% 🤯
+
+1.  🤖 UI 是 AI 生成的
+2. 🤖使用了 OpenAI 模型
+3. 🤖使用了转为 LLM+RAG 优化的 https://t.co/T1PyjvKnBu 搜索 API
+
+https://t.co/NS6gNSXyT0 
+#+END_QUOTE\
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+关于搜索 API tavily 的介绍可以参考另外一个帖子，有比较全的市面上搜索 API 对比：https://t.co/ECTJ3G5axX 
+#+END_QUOTE\
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+界面基于 AI 生成的 Generative UI 是极简了... 
+问题、搜索来源、图片、答案、推荐问题、多轮追问该有的都有，回答效果还是不错的，比较详细（Prompt 估计整了点活 
+
+![](https://pbs.twimg.com/media/GKsA_E0a0AAO3yc.jpg) 
+
+![](https://pbs.twimg.com/media/GKsApHIa0AAFlkY.jpg) 
+
+![](https://pbs.twimg.com/media/GKsAxGSacAApYIH.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+可以基于 Vercel 一键部署，可以自己 host 一个玩玩🤩 
+
+![](https://pbs.twimg.com/media/GKsBfKGbsAATMW1.jpg) 
+#+END_QUOTE\

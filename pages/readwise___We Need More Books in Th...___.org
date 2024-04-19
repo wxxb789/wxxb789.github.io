@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/We Need More Books in Th...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[mariohsouto on Twitter]]
+:full-title: "We Need More Books in Th..."
+:category: [[tweets]]
+:url: https://twitter.com/mariohsouto/status/1780828434157191445
+:image-url: https://pbs.twimg.com/profile_images/1525266680695300096/WFV1xknb.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+We need more books in this format. It’s so convenient to be able to carry around and just feels much better to read instead of the classic massive text book. Chapeau [francoisfleuret](https://twitter.com/francoisfleuret) ! 
+
+![](https://pbs.twimg.com/media/GLbGBawb0AAtBt6.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+“Writing long books is a laborious and impoverishing act of foolishness: expanding in five hundred pages an idea that could be perfectly explained in a few minutes. A better procedure is to pretend that those books already exist and to offer a summary, a commentary.” - Borges 
+#+END_QUOTE\

@@ -1,0 +1,199 @@
+:PROPERTIES:
+:title: readwise/市面上ai工具层出不穷，但每个工具基本上只能解决...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[starzqeth on Twitter]]
+:full-title: "市面上ai工具层出不穷，但每个工具基本上只能解决..."
+:category: [[tweets]]
+:url: https://twitter.com/starzqeth/status/1780399134484115492
+:image-url: https://pbs.twimg.com/profile_images/1573915848384778241/pONOmFm3.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+市面上AI工具层出不穷，但每个工具基本上只能解决一个点，实际的工作流里面需要逐个调用， 非常费时间，且很难复用
+
+[myshell_ai](https://twitter.com/myshell_ai) 近期上线了应用组件拼接能力，我搭了1个Bot, 1分钟把播客变成短视频，还获得了token奖励！
+
+本🧵分3部分介绍
+
+1️⃣ 如何搭建复杂任务bot
+2️⃣ 经济系统
+3️⃣ 终极个人助手
+
+👇 <video controls><source src="https://video.twimg.com/ext_tw_video/1780389233766641664/pu/pl/i8oHPXkJYCEsWPdB.m3u8?tag=12&container=cmaf" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1780389233766641664/pu/vid/avc1/360x270/uy0-ePRuPan_2CMP.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1780389233766641664/pu/vid/avc1/480x360/ThBbsIHMbbQyvFap.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1780389233766641664/pu/vid/avc1/960x720/fOxoR5edIZ8JcXm3.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+1️⃣通过 MyShell AI 应用组件拼接(Makerspace)能力, 轻松搭建可以执行复杂任务的 bot
+
+如果说不同的 AI 工具是散点的士兵，MyShell 刚刚推出的 Makerspace，可以把这些 AI 工具拼接起来，变成一只可以自动执行任务的军队。
+
+我通过 2 个步骤，搭建了这个 Podcast to Video Bot, 把我们的播客片头音频，变成一个更容易传播的短视频:
+
+1. 拆解 Podcast to Video 的流程，构造搭建逻辑；
+
+2. 在 MyShell 创作者后台里，用 Pro Config 将上述搭建逻辑变成 Bot
+
+下面详细介绍：
+
+1. 拆解 Podcast to Video 的流程，构造搭建逻辑；
+
+大逻辑如下：Podcast音频→文字→图片→短视频
+
+详细搭建逻辑：
+
+1. Podcast音频→文字
+\- 用户上传音频文件后，调用一个 ASR (Automatic Speech Recognition) 组件，将音频变为（时间轴，文字）；
+
+2. 文字→图片
+\- 因为 2 分钟音频的文本量也不小，我们先调用一个 LLM 组件 1，将其分成几个（时间轴，段落），方便后续的图片生成；
+\- 然后我们再调用一个 LLM 组件 2, 将每个段落，变成生成图片的 Prompt
+\- 接着我们调用了一个 Stable Diffusion 组件，将上述 Prompt 变成了数个（时间轴，图片）
+
+3. 图片→短视频
+\- 基于上面生成的（时间轴，图片），以及原音频，组装成短视频。
+\- 使用 Auto Caption 组件，给短视频加上字幕，大功告成！
+搭建背后的本质，是实现了 AI 工具的「可组合性」，实现更复杂，同时更贴合用户实际问题的 AI App. 这也跟 MyShell 的愿景「满足用户需求的终极个人助手」相契合。
+
+2. 在 MyShell 创作者后台里，用 Pro Config 将上述搭建逻辑变成 Bot
+
+MyShell 的创作者后台有 3 种模式：基础模式、开发者模式、零代码模式。
+
+基础模式和 GPTs 的后台差不多，用户通过写 Prompt 生成自己的机器人。Myshell 在这一块的特色是可以加入声音，包括其他创作者已经做好的声音（比如V 神哈哈），或者克隆自己的声音。
+
+我使用的是开发者模式，MyShell 在该模式下 launch 了 Pro Config 功能，通过 json 代码的形式来实现上个部分我们拆解出的搭建逻辑，拼接各个 AI 应用组件。
+
+我们的 bot 因为调用了 5 个 AI 组件，还是有一丢丢代码量，就不贴在这里了，感兴趣的朋友可以参考官网文档。
+https://t.co/c6WjPdT9B8
+
+提交 json 文件后，我们的”Podcast to Video” bot 就创建好啦！
+
+欢迎使用我搭建的 Podcast to Video 机器人，把播客音频，变成更容易传播的短视频
+
+https://t.co/zggG2dREbh
+（眼尖的读者可以发现，这个机器人已经在帮我赚积分了，下个部分我会详细介绍）
+
+另外我基于日常的创作流程，还搭了 2 个机器人，同样欢迎使用
+
+机器人 2 号：Audiobook Generator, 可以把文章用我或者 Ruby 的声音念出来变成 mp3, 适合通勤和上班摸鱼。使用链接：https://t.co/IvUxOe0lVv
+
+机器人 3 号：Podcast Summarizer, 可以把一个播客变成数个章节组成的文章，更快速掌握播客关键点。使用链接：https://t.co/mvFn2ZviHr
+
+目前 MyShell 的 组件广场里面已经有数千个 AI 组件, 包括 10 多种用途，以及多种媒体的输入输出，欢迎开发者/创作者们来拼接这些 AI 组件, 创造出各类强大的 bot, 获取用户和经济收益。
+
+同时在官方的 Roadmap 里，MyShell 后续也会推出 Auto Config 模式和 No Code（零代码）模式，帮助创作者更低门槛上手。
+
+![](https://pbs.twimg.com/media/GLU6YxnXAAA91YV.jpg)
+
+![](https://pbs.twimg.com/media/GLU6pKKWAAApTAU.jpg)
+
+![](https://pbs.twimg.com/media/GLU7UNXXcAA7W1z.jpg)
+
+![](https://pbs.twimg.com/media/GLU8UfYWQAA41kF.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+2️⃣ 经济系统：创作者和用户都可以获得 token 奖励
+
+MyShell 不只提供了强大的组件拼接能力，同时也上线了配套的经济系统来激励创作者，形成完整的创作者经济，这也是我推荐大家去尝试创作 bot 的一个重要原因。
+
+整个 MyShell 经济系统有 3 个概念：
+
+1. MyShell Genesis Pass: 该 NFT 的拥有者可以发布 bot;
+
+2. Shell 积分：创作者和用户日常获得的收益，可以在每个赛季（Season）结束后兑换成Shell Coin;
+
+3. Shell Coin: MyShell 的代币，上市后变成可以进行链上交易的 $SHELL.
+
+作为创作者，其搭建的 bot 被使用时，就会收到对应的的Shell积分奖励，bot 越优质，得到的奖励就越多。创作者必须先拥有一张 MyShell Genesis Pass , 才能进行 bot 的发布。
+
+作为用户，除了通过日常任务获得积分外，如果我觉得某个 bot 很赞，积极的进行分享，促进内容分发的效率，有办法捕获对应的价值吗？
+
+答案是 Yes, 作为 AI 和 Crypto 的结合，MyShell 推出了赞助者徽章功能 (Patron Badge)：
+
+1. 如果你看好某个 bot, 可以以某个价格的 Shell Coin 收藏其徽章（collect the badge），成为其「赞助者」；
+2. 当这个 bot 被使用时，除了创作者获得积分奖励外，每个赞助者也会收到相应的积分；
+
+3. 某个 bot 的徽章被收集的越多，其在 MyShell 的排名会提升，价格也会逐步上涨，早期的「慧眼」非常重要 : )
+
+本质上，这就是对 AI 应用的「风险投资」，并从其发展中获得「股息」。和 Web2 进行风险投资的资金要求和繁文缛节不同，MyShell 通过 Tokenomics 一方面把 AI 应用进行资产化，同时让投资过程变的既简单又民主，每个人都可以自由的挖掘和支持创作者，同时获得对应的回报。这也是 Crypto 的魅力所在。
+
+MyShell 也打造了专门的「赞助者徽章」板块，发现投资者们发现目前的流行 bot, 感兴趣的朋友可以开始探索，同时欢迎创作者们快快行动起来，打造自己的AI资产和收益！
+
+https://t.co/zxTGpdPpcj
+
+更多细节，可以参考 MyShell 的官方推文 https://t.co/bCeLrPnp4j
+
+![](https://pbs.twimg.com/media/GLU8gQEW4AAgjUB.png)
+
+![](https://pbs.twimg.com/media/GLU88LhWkAAZxuR.jpg)
+
+![](https://pbs.twimg.com/media/GLU9ImGW0AEwAVU.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+3️⃣ MyShell 愿景：满足用户需求的终极个人助手
+
+ChatGPT 刚出来的时候，我非常兴奋，因为大模型本质上是在民主化”智力”，让个体拥有前所未有的生产力。
+https://t.co/2NfLdo1l6h
+
+但使用了1 年多 ChatGPT 之后，我发现普通人要用好还是有不少门槛的。 用好单一应用需要懂 Prompt, 日常工作流更需要把不同的 AI 组合起来，这又增加了普通用户的门槛。
+
+所以 Bot/GPTs 的推出是一个重要的 Milestone, 创作者把复杂的Prompt/外部数据封装起来， 变成可以胜任单一任务的 AI 小工具，让普通用户可以快速上手。
+
+下个重要的 Milestone, 就是实现 AI 工具的「可组合性」，实现更复杂，同时更贴合用户实际问题的 AI App.
+
+拿我们上面的 “Podcast to Short Video” Bot 举例，普通用户可以不用关心其内部如何调用了 5 个 AI 小工具( ASR, LLM 组件 1, LLM 组件 2, Stable Diffusion, Auto Caption )，以及具体的拼接逻辑，就可以把一段音频变成短视频；创作者/开发者也拥有了更强大的工具，通过组件拼接可以实现更复杂更成熟的 AI App, 更好服务用户，获得收益。
+
+可以说，在「可组合性」这条道路上，MyShell 已经走在了行业前列。
+
+这也与 MyShell 的愿景和使命一致，引用其官方文章：
+
+「Our mission is to democratize the development of AI Apps.
+
+我们的使命是使 AI 应用程序的开发民主化。
+
+MyShell proudly announce that we have taken the inaugural step in this roadmap: Pro Config. We will keep releasing products includes Auto Config (LLM writing Config files), and No Code (GUI version of Neural Automata) to ensure developing Apps at MyShell can be as accessible as possible 
+
+MyShell 自豪地宣布，我们已经迈出了路线图的第一步：Pro Config. 我们将不断发布产品，包括自动配置（LLM编写配置文件）和无代码（神经元自动机的 GUI 版本），以确保在 MyShell 上开发应用程序尽可能易于访问。
+
+Representing MyShell’s end-game vision, Shell is the ultimate personal assistant designed to command and orchestrate the AI bots within MyShell, fulfilling every nuance of the user's demands. 
+
+代表 MyShell 最终愿景的是 Shell，它是旨在指挥和协调 MyShell 内的 AI 机器人，满足用户需求的终极个人助手。」
+
+btw, OpenAI 在今年 1 月底也为 GPTs 加入了 @ 功能，可以互相调用。但遗憾的是，目前只支持单次调用，不支持变量和表达式，所以只能实现比较简单的功能。这也可能是其现在还没有全量的原因。
+
+![](https://pbs.twimg.com/media/GLU9iUzWoAAZGoC.jpg)
+
+![](https://pbs.twimg.com/media/GLU-T93XEAANKcR.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+最后恭喜 MyShell Pre-A 轮 1100w 美金融资！
+
+如果你对MyShell的组件拼接能力感兴趣，欢迎参加 MyShell 特别开设的线上 learning lab, 获得核心团队为期一周的辅导，搭建出强大的 AI App
+
+即刻报名，积极参与者还有机会获得价值0.6ETH 的 Genesis Pass 奖励哦😍
+
+报名链接：https://t.co/gg3WGAXizg 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+更多详细的视频和链接，欢迎阅读和订阅我们的 Newsletter, 获得关于Web3和AI如何赋能个人品牌和企业的最新案例和思考，成为全球化时代的超级个体
+
+https://t.co/8T1bpN58JW 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+超级大福利来了！
+
+为了更好的发展AI创作生态, 我们联合MyShell送出Genesis Pass一张，持有者可以发布Bot并获得token奖励，目前OpenSea地板价0.6E, 机不可失！
+
+👇🏻
+https://t.co/irNFeV3D3L 
+#+END_QUOTE\

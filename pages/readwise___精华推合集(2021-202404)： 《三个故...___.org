@@ -1,0 +1,80 @@
+:PROPERTIES:
+:title: readwise/精华推合集(2021-202404)： 《三个故...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[plantegg on Twitter]]
+:full-title: "精华推合集(2021-202404)： 《三个故..."
+:category: [[tweets]]
+:url: https://twitter.com/plantegg/status/1779801580302438750
+:image-url: https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+精华推合集(2021-202404)：
+《三个故事》https://t.co/IOUcCLHiZi
+
+学习方法 https://t.co/hTQiNztI3z
+
+性能压测和瓶颈定位 https://t.co/nHpVoNbDv9
+
+SSH 技巧 https://t.co/gqZfqEJUcK
+
+程序员如何学习和构建网络知识体系 https://t.co/re1igy4mZu
+
+一个包怎么从内核出发开始路由到对端 https://t.co/yZ00eD8lUl
+
+软件工程师需要掌握的CPU概念 https://t.co/vDl71y7Hcb
+
+CPU和NUMA性能 https://t.co/Bz3aUTRbzf
+
+tcpdump/tshark 命令手册 https://t.co/I1ulEva17Y
+
+TCP 传输性能分析 https://t.co/OjqTlVX6FK
+
+local port 和性能 https://t.co/3o5od2hM1X
+
+ping 一 ping 立奇功 https://t.co/jiZRmkijqu
+
+学哪些东西适合你 https://t.co/nTAFRKd84h
+
+如何不再算命瞎猜，能透过错误看到本质原因 https://t.co/YRvEt5AcdY
+
+性能优化是最能体现全栈能力的 https://t.co/ymS9HVL1MI
+
+老司机必备curl、wget、nc、netstat 等命令 https://t.co/QDU4KiORMS
+
+江湖大佬无招胜有招的故事（如何在不懂领域解决问题起来胜过该领域的工程师）https://t.co/aU08q6xbqn
+
+一次听风扇声音来定位性能瓶颈 https://t.co/994jtBylNk
+
+再复杂也有 tcpdump 来救你，但你要不会用我就没办法了 https://t.co/ehseVAfpjw
+
+不同能力的人思考问题的方法也不一样 https://t.co/lSMkDJHi4d
+
+捋起袖子加油干，动手是最好的学习方法 https://t.co/84YKa9ztTf https://t.co/cUkqfrrov0
+
+localhost和 127.0.0.1的区别是localhost 性能好不经过防火墙？你太嫩了 https://t.co/ywfcBfo4Td https://t.co/oI2LxGsJwJ
+
+一台机器到底能创建多少连接、可用端口是怎么回事 https://t.co/rSZ3dzNm2k
+
+为什么你要学会总结和沉淀 https://t.co/pAQblp5dLh
+
+你要不要搞副业？https://t.co/PUVwCqEFzM
+
+等额本息、等额本金的差异 https://t.co/eSSyA836I9
+
+你该不该买保险、买什么保险好？https://t.co/uPKvRsxF33
+
+默沙东和UpToDate你值得拥有 https://t.co/dGZZDMPWaK
+
+拍案惊奇，案例学习集 https://t.co/ThGw5eix86
+
+推特这时间流对积累非常不友好，所以花了点时间整理了这些精华贴，累死我了，还特意买了个推特会员发长帖，请我喝一杯咖啡吧，谢谢
+
+![](https://pbs.twimg.com/media/GLMgEq1aAAAo0bO.jpg) 
+#+END_QUOTE\

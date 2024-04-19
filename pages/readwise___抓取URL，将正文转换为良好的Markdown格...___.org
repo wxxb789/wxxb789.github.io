@@ -1,0 +1,39 @@
+:PROPERTIES:
+:title: readwise/抓取URL，将正文转换为良好的Markdown格...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[9hills on Twitter]]
+:full-title: "抓取URL，将正文转换为良好的Markdown格..."
+:category: [[tweets]]
+:url: https://twitter.com/9hills/status/1779830990598549998
+:image-url: https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+抓取URL，将正文转换为良好的Markdown格式的工具：
+
+\- jina reader (open source): https://t.co/Ug864iMX1v
+
+\- https://t.co/buDyt3ixUJ
+
+\- Web-scraper(open source): https://t.co/inuuZWQlwt
+
+\- code-html-to-markdown: https://t.co/PsxPWBkOKf （偏向于更好地处理代码块） 
+#+END_QUOTE\
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+补充 ： https://t.co/H5p5jrAXC0 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+奇怪，怎么突然都在发。
+
+新的开源项目：
+
+https://t.co/2b384DUzLu 
+#+END_QUOTE\

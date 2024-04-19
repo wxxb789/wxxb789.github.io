@@ -1,0 +1,25 @@
+:PROPERTIES:
+:title: readwise/Meta Platforms 下周将推出 Lla...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[dotey on Twitter]]
+:full-title: "Meta Platforms 下周将推出 Lla..."
+:category: [[tweets]]
+:url: https://twitter.com/dotey/status/1777523259929505913
+:image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+Meta Platforms 下周将推出 Llama 3 的小型版本
+
+Meta Platforms 计划在下周推出其即将发布的 Llama 3 大语言模型（LLM）的两个小版本，据一位 Meta 员工透露。这些小版本将为今年夏天预计推出的 Llama 3 最大版本的发布打下基础。
+
+这两款小型模型的推出预计会吸引公众对即将发布的 Llama 3 的高度期待，特别是考虑到 Llama 3 将在去年七月推出的 Llama 2 之后大约一年面世。在这段时间里，包括 Google、埃隆·马斯克（Elon Musk）的 xAI 和 Mistral 在内的几家公司已经推出了他们的开源大语言模型（LLM）。
+
+来源：https://t.co/vZAoUq3JFI 
+#+END_QUOTE\

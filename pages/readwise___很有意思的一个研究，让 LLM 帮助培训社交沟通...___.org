@@ -1,0 +1,41 @@
+:PROPERTIES:
+:title: readwise/很有意思的一个研究，让 LLM 帮助培训社交沟通...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[op7418 on Twitter]]
+:full-title: "很有意思的一个研究，让 LLM 帮助培训社交沟通..."
+:category: [[tweets]]
+:url: https://twitter.com/op7418/status/1777218066365206991
+:image-url: https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+很有意思的一个研究，让 LLM 帮助培训社交沟通技能，确实有很多人需要这样的服务，LLM 又擅长这个。
+
+通过一个通用框架，利用大语言模型（LLM）进行社交技能训练。“AI伙伴，AI导师”框架将实际体验学习与真实场景练习和个性化反馈相结合。
+
+详细介绍：
+
+使用大语言模型进行社交技能训练的提议：
+
+研究者提出,可以利用大语言模型强大的对话生成能力,为社交技能练习提供一个随时可用、安全可控的环境。相关研究已经证实,当前的大语言模型已经能够较好地模拟各类人物,进行逼真的对话互动。这为将其应用于社交技能训练奠定了基础。
+
+AI Partner和AI Mentor框架的提出：
+
+论文提出了一个通用的社交技能训练框架,包括两个关键组件:AI Partner负责提供对话实践的环境,AI Mentor负责在关键节点给予个性化指导。二者协同,可以把体验式的实践学习与理论指导有机结合,有望大幅提升社交技能训练的可及性和有效性。
+
+使用该框架进行社交技能训练的应用场景
+
+该框架可以灵活应用于多个领域的社交技能训练,如心理咨询、谈判、教学等。通过调整AI Partner塑造的人物角色,以及AI Mentor搭载的领域知识库,就可以对应不同领域的训练需求。论文通过一系列案例展示了这种适用性和灵活性。
+
+![](https://pbs.twimg.com/media/GKnyYTlbEAAHJPI.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-09]]
+#+BEGIN_QUOTE
+论文地址：https://t.co/6cqtywoiRq 
+#+END_QUOTE\

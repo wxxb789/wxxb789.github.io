@@ -1,0 +1,30 @@
+:PROPERTIES:
+:title: readwise/当所有研究者开始卷LLM Agent方法的时候，...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[realrenmin on Twitter]]
+:full-title: "当所有研究者开始卷LLM Agent方法的时候，..."
+:category: [[tweets]]
+:url: https://twitter.com/realrenmin/status/1780601689059496016
+:image-url: https://pbs.twimg.com/profile_images/1555109458073747457/JANhY5Zh.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+当所有研究者开始卷LLM Agent方法的时候，不论是memory、reflection还是planning，Reinforcement Learning的痕迹越发明显。只不过在LLM中，RL算法是通过口头推理（verbal reasoning）的方式prompt。
+
+这引发了一个重要的疑问：RL中包含的极其复杂的数学公式，能否通过人类的自然口语来精确表达？ 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+这个复杂的世界，是可以用人类的自然口语精确表达，还是可以靠精确的数学公式表达，抑或是靠人类创造的代码精确表达？
+RLH(Human)F是否该进化了，RL(Math or Code)F, 会不会是未来GPT的最终解决方案。 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+RLHF Reinforcement Learning with Human feedback, Human feedback让LLM流行，但或许human feedback恰恰是目前LLM的瓶颈。 
+#+END_QUOTE\

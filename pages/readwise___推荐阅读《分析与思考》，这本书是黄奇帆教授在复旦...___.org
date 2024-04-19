@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/推荐阅读《分析与思考》，这本书是黄奇帆教授在复旦...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Barret_China on Twitter]]
+:full-title: "推荐阅读《分析与思考》，这本书是黄奇帆教授在复旦..."
+:category: [[tweets]]
+:url: https://twitter.com/Barret_China/status/1780082071240888409
+:image-url: https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-16]]
+#+BEGIN_QUOTE
+推荐阅读《分析与思考》，这本书是黄奇帆教授在复旦大学 12 次讲座内容的整理稿，第一次读宏观经济学的书，首次啃生词比较多，好在黄老先生讲的清晰易懂，理解了很多经济学问题，受益良多。
+
+本书的研究范式：“问题—结构—对策”。面对各种问题时，先研究问题、分析问题，找到问题结构性的、体制性的、机制性的、制度性的短板，通过改变问题的联系方式、边界条件，使得问题朝着理想的方向和预期的目标转化。
+
+![](https://pbs.twimg.com/media/GLQfM3raAAAKIBY.jpg) 
+#+END_QUOTE\

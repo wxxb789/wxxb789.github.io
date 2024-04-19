@@ -1,0 +1,21 @@
+:PROPERTIES:
+:title: readwise/Today Marks the End of T...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[pratik___pandey on Twitter]]
+:full-title: "Today Marks the End of T..."
+:category: [[tweets]]
+:url: https://twitter.com/pratik___pandey/status/1779541200069902534
+:image-url: https://pbs.twimg.com/profile_images/1694859749009817600/-Yvv-cUd.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+Today marks the end of the 1st cohort of my course, Architecting Real-World Distributed Systems. I loved every session and have gained a different level of respect for [arpit_bhayani](https://twitter.com/arpit_bhayani)  and [vaibhaw_vipul](https://twitter.com/vaibhaw_vipul)  now since I realize how difficult it is to structure engaging content. 
+
+![](https://pbs.twimg.com/media/GLIy5Q2XsAAuA6L.jpg) 
+#+END_QUOTE\

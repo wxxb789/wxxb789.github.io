@@ -1,0 +1,58 @@
+:PROPERTIES:
+:title: readwise/@AndrewYNg 吴恩达教授在AI Asen...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[Yangyixxxx on Twitter]]
+:full-title: "@AndrewYNg 吴恩达教授在AI Asen..."
+:category: [[tweets]]
+:url: https://twitter.com/Yangyixxxx/status/1780795760537436185
+:image-url: https://pbs.twimg.com/profile_images/1758723828610691072/2_Ti8wF3.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+[AndrewYNg](https://twitter.com/AndrewYNg) 吴恩达教授在AI Asent上分享了4种AI Agent的设计模式。
+
+第一种是自我反馈来纠正zero-shot效果
+这个其实我们在利用GPT进行Coding时经常会遇到，人类扮演反馈者，把报错扔给GPT，GPT来处理，多轮后有明显效果提升。
+按照这个模式，只需要有2个Agent，一个扮演生成，一个扮演测试反馈，通过多轮对话，生成结果就会比zero-shot的效能提升很多。
+
+第二种是利用工具加强LLM能力。
+让GPT通过一些第三方API，使用Function Call的方式加强自身能力
+
+第三种是规划，将复杂任务分解成简单任务
+将一个复杂任务拆解成多个简单任务，通过一个又一个简单任务完成整个过程，从而达到好的效果。
+
+第四种是多角色合作达成目标
+可以是协作，也可以是对抗，通过多Agents的模式达成更好效果。
+
+\------
+个人理解：
+实际运用中，往往会多种结合。
+比如把复杂的事情做出规划，分步进行。
+让每一个步骤中都有生成者和评价者。
+让生成者有更好的Tools加强能力。
+
+除了吴恩达教授分享的上述四个设计模式外，还有一种观察者模式，用来动态更新Agents在不同任务阶段的任务目标：
+其实很多任务会在不同阶段发生任务目标变化，相对应的提示词也会发生变化。
+
+所以往往还可以设置一个观察者，用来监控任务进程，并向不同的代理发出Prompt的更新请求，以便达成动态更新Agents阶段目标的效果。
+
+![](https://pbs.twimg.com/media/GLamga5aoAAkcxH.jpg)
+
+![](https://pbs.twimg.com/media/GLamhxUaQAAvfTO.jpg)
+
+![](https://pbs.twimg.com/media/GLami4ObEAAR0OK.jpg)
+
+![](https://pbs.twimg.com/media/GLamjpLaAAE7_hT.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+原视频链接：https://t.co/yV165rVplf
+
+[dotey](https://twitter.com/dotey) 宝玉肯定翻译过！ 
+#+END_QUOTE\

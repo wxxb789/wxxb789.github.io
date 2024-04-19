@@ -1,0 +1,37 @@
+:PROPERTIES:
+:title: readwise/谷歌：机器学习工程师学习路径 💹 15 节课程...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[shao__meng on Twitter]]
+:full-title: "谷歌：机器学习工程师学习路径 💹 15 节课程..."
+:category: [[tweets]]
+:url: https://twitter.com/shao__meng/status/1780801721788432599
+:image-url: https://pbs.twimg.com/profile_images/1764498070841233408/qeTwfeW8.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+谷歌：机器学习工程师学习路径 💹
+
+15 节课程，从机器学习基础、Tensorflow、机器学习分类概览、CV、NLP、推荐系统、MLOps、数据准备和服务部署运行等方向进行了系统性课程讲解！
+
+在各种大模型狂奔刷屏的同时，回头重新学习机器学习的基础也是很有必要的！
+
+课程地址：
+https://t.co/LCXGyNeoSm 
+#+END_QUOTE\
+** 📌 [[2024-04-18]]
+#+BEGIN_QUOTE
+谷歌：开发者的生成式 AI 学习路径 💹
+
+11 节课程，从图像生成、注意力机制、编码器和解码器架构、Transformers、向量和嵌入等不同方向进行系统性讲解！
+
+既然大模型狂奔刷屏，咱学完机器学习，也把 Gen AI 系统性学起来！
+
+课程地址：
+https://t.co/rLE3uyBtRN 
+#+END_QUOTE\

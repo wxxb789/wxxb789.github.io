@@ -1,0 +1,33 @@
+:PROPERTIES:
+:title: readwise/Legit Question.  What I...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[headinthebox on Twitter]]
+:full-title: "Legit Question.  What I..."
+:category: [[tweets]]
+:url: https://twitter.com/headinthebox/status/1778632652779888787
+:image-url: https://pbs.twimg.com/profile_images/2434343548/c80bae9z52ca9bbrh4ip.jpeg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-12]]
+#+BEGIN_QUOTE
+Legit question. 
+
+What is the value of frameworks like LangChain, Autogen, crewAI, ... that basically build the same abstractions on top of a programming language that the underlying programming language already supports.
+
+For example chaining is sequential composition, agents in multi-agents frameworks are just objects (or if you want to be fancy actors) and interaction patterns are just control flow. What's wrong with just writing code.
+
+Since these frameworks are so popular, there must be some deep attraction or advantage to using them. 
+
+Maybe if you would actually design a completely new language that supports these notions, that might be something. But even then I seriously doubt that the switching costs are worth it. 
+
+What am I missing?
+
+![](https://pbs.twimg.com/media/GK73W4IaIAA0HIw.jpg)
+
+![](https://pbs.twimg.com/media/GK73-MRaQAAtUk1.jpg) 
+#+END_QUOTE\

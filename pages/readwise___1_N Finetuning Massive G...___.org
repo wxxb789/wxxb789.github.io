@@ -1,0 +1,59 @@
+:PROPERTIES:
+:title: readwise/1_N Finetuning Massive G...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[IntuitMachine on Twitter]]
+:full-title: "1/N Finetuning Massive G..."
+:category: [[tweets]]
+:url: https://twitter.com/IntuitMachine/status/1780552828513108309
+:image-url: https://pbs.twimg.com/profile_images/1740015728105832448/fRPNehGE.png
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+1/n Finetuning Massive Generative AI LLMs to Be Classification Savants
+
+Imagine having a powerful language machine that can engage in freeform dialogue, answer follow-up questions, and even craft creative stories on command. That's the incredible potential unlocked by large language models (LLMs) like GPT-4, Claude 3 and Gemini. With their massive neural networks trained on vast textual databases, these cutting-edge AI systems can generate remarkably human-like responses, seemingly understanding and reasoning about topics in ways that once seemed like science fiction.
+
+However, as awe-inspiring as LLMs are for open-ended text generation, they still face significant hurdles in more structured language tasks core to real-world applications. Despite their phenomenal size and breadth of knowledge, LLMs struggle to match the performance of more focused models on crucial duties like accurately classifying texts into prescribed categories or precisely identifying named entities in sentences.
+
+It's almost as if the very flexibility and generative prowess that makes LLMs so impressive is holding them back from achieving peak performance on focused prediction tasks. Their architectures, while adept at generating free-form text, may not be optimally suited for precisely mapping inputs to constrained label spaces.
+
+But what if there was a way to unlock the full potential of LLMs for these high-stakes classification tasks, while retaining their breadth of knowledge? A novel approach that could adapt and finetune these language leviathans, molding their formidable linguistic skills to excel at label prediction?
+
+In a recent paper, researchers introduce "Label Supervised LLaMA Finetuning" - a framework that could transform how we optimize LLMs for critical classification duties. By leveraging discriminative finetuning methods traditionally used for focused language models, this work demonstrates how to effectively adapt LLMs like LLaMA to consistently outperform state-of-the-art benchmarks on text classification and named entity recognition across multiple datasets and languages.
+
+The results are striking - LLaMA variants finetuned by this label-supervised approach are establishing new performance records, even surpassing far larger untuned counterparts. From sentiment analysis to news categorization to entity extraction, these finetuned LLMs are redefining what's possible for focused prediction using generative language models.
+
+As the world increasingly relies on AI systems to accurately categorize and extract information from text data, breakthroughs like this could prove pivotal. Imagine LLMs precisely categorizing legal documents, medical records or financial reports with human-level performance. Or automating entity extraction across documents in dozens of languages.
+
+The implications of learning to effectively bend the generative might of LLMs toward focused prediction tasks are staggering. Read on to dive deeper into this pioneering work that could reshape how we optimize large language AI for critical real-world applications.
+
+![](https://pbs.twimg.com/media/GLXLWKuXQAAKhvL.jpg)
+
+![](https://pbs.twimg.com/media/GLXLWKNXUAA5OQP.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+2/n Large language models (LLMs) like GPT-3 and LLaMA have achieved remarkable success in natural language processing, demonstrating an impressive ability to understand and generate human-like text. However, these models face significant limitations when it comes to tasks that require precise label prediction from a defined space, such as text classification and named entity recognition (NER). Despite their impressive open-ended generation capabilities, the architectures of current LLMs make them underperform discriminative models like BERT and RoBERTa on these classification tasks.
+
+In a new paper titled "Label Supervised LLaMA Finetuning," researchers introduce novel approaches called Label Supervised LLaMA (LS-LLaMA) and Label Supervised Unmasked LLaMA (LS-unLLaMA) to address this pain point. Rather than relying on prompts or instructions, these methods directly finetune the LLaMA model in a supervised manner using labeled datasets tailored for classification tasks.
+
+The key innovation is to extract the latent representations from LLaMA's final decoder layer and map them to the label space using a feedforward layer. Cross-entropy loss is then computed between these mapped logits and the ground truth labels, enabling the model to be finetuned discriminatively for the specific classification objective. For LS-unLLaMA, the causal masking in LLaMA's decoders is removed to allow bidirectional attention and richer token representations better suited for token-level NER tasks.
+
+The researchers conduct extensive experiments evaluating LS-LLaMA and LS-unLLaMA on various text classification datasets like SST, AG News, Twitter Financial Sentiment as well as the multilingual Amazon Reviews corpus. The results are highly impressive - LS-LLaMA consistently outperforms much larger zero-shot, few-shot and instruction-tuned LLMs while also demonstrating substantial gains over robust baselines like BERT-Large and RoBERTa-Large. On the AG News dataset, LS-LLaMA sets a new state-of-the-art, surpassing the previous best model.
+
+For NER tasks on benchmarks like OntoNotes and CoNLL 2003, the LS-unLLaMA variant achieves remarkable performance by removing the causal masks. It establishes new state-of-the-art results on both datasets, outperforming LS-LLaMA by a large margin and improving over prior best models by over 2% absolute F1 score.
+
+A key strength is the strong multilingual performance, with LS-unLLaMA setting new state-of-the-art results on the Amazon Reviews dataset in German, English and Spanish. This demonstrates the broad applicability of the label-supervised adaptation approaches.
+
+In summary, this paper proposes effective methods to leverage the knowledge embedded in large language models like LLaMA while overcoming their architectural constraints via discriminative finetuning tailored for classification tasks. By directly optimizing the LLM's representations in a label-supervised manner, LS-LLaMA and LS-unLLaMA achieve new state-of-the-art performance across text classification and NER benchmarks. 
+#+END_QUOTE\
+** 📌 [[2024-04-17]]
+#+BEGIN_QUOTE
+3/n If you find these summaries useful to you, please subscribe ($2.99) to my feed.    Here's the code repository for this research:  https://t.co/iwVfFqRC4f 
+#+END_QUOTE\

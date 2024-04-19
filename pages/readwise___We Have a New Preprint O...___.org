@@ -1,0 +1,89 @@
+:PROPERTIES:
+:title: readwise/We Have a New Preprint O...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[rm_rafailov on Twitter]]
+:full-title: "We Have a New Preprint O..."
+:category: [[tweets]]
+:url: https://twitter.com/rm_rafailov/status/1781145338759533016
+:image-url: https://pbs.twimg.com/profile_images/1663362227762774017/B3ezAxFz.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+We have a new preprint out - your language model is not a reward, it’s a Q function!
+1. The likelihood of the preferred answer must go down - it’s a policy divergence
+2. MCTS guided decoding on language is equivalent to likelihood search on DPO
+3. DPO learns credit assignment 
+
+![](https://pbs.twimg.com/media/GLfYnH9a8AAe5cJ.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+PPO optimizes a language model in token MDP space, while DPO is a bandit. Here we resolve this discrepancy - we represent the LLM as a Q function and show that DPO aligns it with the implicit human reward in a Bellman-consistent manner, i.e. DPO loss over trajectories. 
+
+![](https://pbs.twimg.com/media/GLfZ1ZGbcAE2ddT.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+We additionally extend DPO theory - i.e. using Andrew Ng's seminal work on reward shaping we prove that this representation can fit any feedback reward over trajectories, including sparse signals, such as agentic applications. 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+We resolve the empirical observation of decreasing likelihoods - if we properly SFT on ONLY the preferred answer, then the chosen implicit reward is just a negative forward KL. This is not an issue or a bug and IF the base model is properly aligned it’s necessary for improvement. 
+
+![](https://pbs.twimg.com/media/GLfcgqlaEAAdqwv.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+If we do not run proper SFT beforehand the implicit reward of the chosen response increases compared to the SFT+DPO training run (with comparable loss) .... and the model starts speaking Chinese. This is an extreme example, but Ia lot of empirical issues are sub-optimal SFT run. 
+
+![](https://pbs.twimg.com/media/GLfcynGbcAAXNEH.png) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+We then prove that guided decoding with MCTS type of search is equivalent to a likelihood-based search on the DPO model! Using simple beam search we get up to 15% boost in win rates on summarization, which matches results from prior value function-guided decoding methods. 
+
+![](https://pbs.twimg.com/media/GLfdzB-bYAACXZX.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Interestingly enough, with higher number of beams, we see that performance starts dipping down, while length of generations explodes. This is likely a reward hacking artifact, since this approach is equivalent to reward-based search and could be prone to OOD issues. 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Finally  DPO is able to learn token-level credit assignment, purely from trajectory-level feedback! The left is the correct summary, while the right one has two errors, which the DPO model correctly highlights. This is a promising sign that DPO may be able to do (RL) stitching! 
+
+![](https://pbs.twimg.com/media/GLfeqWaakAAppbf.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+Our results are promising for a number of future applications:
+1. Using DPO training for reasoning tasks - we already know that DPO models are some of the strongest Reasoning critics on RewardBench - they can be generators as well. 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+2. We can directly train DPO on multi-turn conversation trees to directly teach the model to interact and solicit information/preferences from users. This is not even possible with classic RLHF, since it cannot sample through the user response. 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+3. We can use DPO for agents and tool use (we are already beating GPT4 on WebShop - stay tuned)! 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+4. Train end-to-end generative AI systems, such as the one used in DALLE as well as hybrid auto-regressive + diffusion video-generation models! 
+
+![](https://pbs.twimg.com/media/GLfhE7Ka0AAGBun.jpg) 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+A lot of exciting work ahead! A great collaboration with [JoeyHejna](https://twitter.com/JoeyHejna), Ryan Park (great grad school candidate in a couple of years) and [chelseabfinn](https://twitter.com/chelseabfinn) ! 
+#+END_QUOTE\
+** 📌 [[2024-04-19]]
+#+BEGIN_QUOTE
+[natolambert](https://twitter.com/natolambert) [_lewtun](https://twitter.com/_lewtun) [edwardbeeching](https://twitter.com/edwardbeeching) [agarwl_](https://twitter.com/agarwl_) [aviral_kumar2](https://twitter.com/aviral_kumar2) [abeirami](https://twitter.com/abeirami) [Learnius](https://twitter.com/Learnius) [unsorsodicorda](https://twitter.com/unsorsodicorda) 
+#+END_QUOTE\

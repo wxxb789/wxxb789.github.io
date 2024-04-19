@@ -1,0 +1,23 @@
+:PROPERTIES:
+:title: readwise/十年前读完《Oracle编程艺术》和《Oracl...
+:END:
+
+
+* metadata
+:PROPERTIES:
+:author: [[amehochan on Twitter]]
+:full-title: "十年前读完《Oracle编程艺术》和《Oracl..."
+:category: [[tweets]]
+:url: https://twitter.com/amehochan/status/1779765572315546006
+:image-url: https://pbs.twimg.com/profile_images/1777874260712726529/zzQSAI_Q.jpg
+:END:
+
+* Highlights first synced by [[Readwise]] [[2024-04-19]]
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+十年前读完《Oracle编程艺术》和《Oracle性能诊断艺术》，当时就仿佛打通了任督二脉，对于数据库查询的方方面面都有了详细的了解。也知道如何分析 SQL 和执行计划等性能诊断，人在公司号称解锁（数据库死锁）小王子。 
+#+END_QUOTE\
+** 📌 [[2024-04-15]]
+#+BEGIN_QUOTE
+所以，很难理解现在各位啥都要上 ORM 的心态，很多 ORM 默认会加上外键约束，如 SQLAcademy，实际使用起来感觉相当胃痛。我写 Golang 的时候，也是裸写 SQL，用 sqlx 包，每个 DB 实现一遍，也没多少心力。 
+#+END_QUOTE\
