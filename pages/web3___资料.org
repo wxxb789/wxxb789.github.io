@@ -23,7 +23,7 @@
 *** [[SFS]]
 *** [[Filecoin]]
 ***
-* #awesome-list
+* #list/awesome
 ** [[https://cubic-leaf-731.notion.site/web3-202208-09-1623ccd15c2148a1ae00ed8794d153b1][web3 入门计划 202208-09 (notion.site)]]
 * course，MOOC
 ** [[北大区块链公开课]]

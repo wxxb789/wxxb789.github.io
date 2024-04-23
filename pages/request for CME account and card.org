@@ -1,7 +1,0 @@
-#+tags: bing-china,
-
-* link
-[[https://microsoft.sharepoint.com/teams/CDOCIDM/SitePages/CME-Account-and-Smart-Card-Services.aspx][CME Account and Smart Card Services (sharepoint.com)]]
-* ICM links of my first request
-** account request [[https://portal.microsofticm.com/imp/v3/incidents/details/359940176/home][Incident-359940176 Details - IcM (microsofticm.com)]]
-** smart card request [[https://portal.microsofticm.com/imp/v3/incidents/details/365858779/home][Incident-365858779 Details - IcM (microsofticm.com)]]

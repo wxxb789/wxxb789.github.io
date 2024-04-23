@@ -1,0 +1,4 @@
+#+alias: job interview,
+
+* [[jintv/Algorithm/Questions]]
+*
