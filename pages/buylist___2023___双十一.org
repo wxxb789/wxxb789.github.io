@@ -1,4 +1,4 @@
-* DONE [[complete?]]
+* DONE [[completeit?]]
 DEADLINE: <2023-11-09 Thu>
 :LOGBOOK:
 CLOCK: [2023-11-09 Thu 14:41:44]

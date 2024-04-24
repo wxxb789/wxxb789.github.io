@@ -15,4 +15,4 @@
 * [[computer science]]
 ** [[cs]]
 * work item should be WI
-** [[msw/work-item]] -> [[msw/WI]]
+** [[msw/WI]] -> [[msw/WI]]

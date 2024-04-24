@@ -1,5 +1,5 @@
 * [[course/GeekTime]]
-* [[Course/Pluralsight]]
+* [[crse/pluralsight]]
 * [[reading/微信读书]]
 * [[book]]
 * [[y2b]]

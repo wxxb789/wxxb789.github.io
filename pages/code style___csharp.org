@@ -1,3 +1,5 @@
+#+alias: code-style/csharp,
+
 * disable
 ** force utf-8-BOM
 ** force file header
