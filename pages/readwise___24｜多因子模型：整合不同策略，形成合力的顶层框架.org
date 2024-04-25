@@ -2,7 +2,6 @@
 :title: readwise/24｜多因子模型：整合不同策略，形成合力的顶层框架
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/c3/b4/c3a6b26cd381efafe57c628c0ccfaeb4.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-12]]
 #+BEGIN_QUOTE

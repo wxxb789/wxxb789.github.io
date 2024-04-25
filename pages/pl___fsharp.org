@@ -3,7 +3,7 @@
 * [[Fsharp Jumpstart]]
 * [[pl/fsharp/Concepts]]
 * [[https://fsharp.org/learn/][Learning F# | The F# Software Foundation (fsharp.org)]]
-*
+* [[pl/fsx]]
 * Advanced Topic in fsharp
 ** Exception Handling
 ** Resource management

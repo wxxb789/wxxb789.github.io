@@ -2,7 +2,6 @@
 :title: readwise/21｜趋势跟踪：怎样跟着趋势一起赚钱？
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/88/71/8825a24e74dfdfe5af7180e1ac86f671.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-11]]
 #+BEGIN_QUOTE

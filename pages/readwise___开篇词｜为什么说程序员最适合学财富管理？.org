@@ -2,7 +2,6 @@
 :title: readwise/开篇词｜为什么说程序员最适合学财富管理？
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/1a/c1/1a82b1ebeb0a1de737d6dbc3d09297c1.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-08]]
 #+BEGIN_QUOTE

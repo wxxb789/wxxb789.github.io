@@ -1,0 +1,3 @@
+#+alias: pl/fsharp/fsx, fsharp/fsx, fsx,
+
+*

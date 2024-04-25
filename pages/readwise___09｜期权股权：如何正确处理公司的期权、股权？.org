@@ -2,7 +2,6 @@
 :title: readwise/09｜期权股权：如何正确处理公司的期权、股权？
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/a9/db/a997b628e8635e6d4ayy812d1dec7cdb.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE

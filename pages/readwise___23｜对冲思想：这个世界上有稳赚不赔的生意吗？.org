@@ -2,7 +2,6 @@
 :title: readwise/23｜对冲思想：这个世界上有稳赚不赔的生意吗？
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/22/9e/222bd1ebed18fe600c213bcda1b9dc9e.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-11]]
 #+BEGIN_QUOTE

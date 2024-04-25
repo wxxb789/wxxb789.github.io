@@ -2,7 +2,6 @@
 :title: readwise/10｜跳槽涨薪：如何规划一条合理的职业道路？
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/77/4a/77cbd22e68593a88feddbd5d1480534a.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE

@@ -2,7 +2,6 @@
 :title: readwise/08｜职业规划：大公司vs小公司，怎样选择更有前途？
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[geekbang.org]]
@@ -12,7 +11,6 @@
 :tags:[[gt/程序员的个人财富课]],
 :image-url: https://static001.geekbang.org/resource/image/95/07/95239e9eca085942145a1b801d0da907.jpg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-04-09]]
 #+BEGIN_QUOTE

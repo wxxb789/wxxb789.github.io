@@ -18,4 +18,5 @@
 ** [[Multimodal CoT]]
 ** [[GraphPrompts]]
 *
-*
+* my prompts
+** [[prompt/system instructions]]
