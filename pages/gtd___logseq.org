@@ -1,2 +1,9 @@
 * prefer NOW, LATER, CANCELLED as my workflow
 *
+#+tags: logseq,
+
+* [[links]]
+** [[https://discuss.logseq.com/t/introduce-custom-workflows-as-a-primitive-to-replace-todos/5546][Introduce custom workflows as a primitive to replace TODOs - Feature Requests - Logseq]]
+** [[https://discuss.logseq.com/t/lesson-5-how-to-power-your-workflows-using-properties-and-dynamic-variables/10173][Lesson 5: How to Power Your Workflows Using Properties and Dynamic Variables - Queries - Logseq]]
+** [[https://discuss.logseq.com/t/now-next-later-tasks-workflow/3703/11][NOW / NEXT / LATER tasks workflow - Feature Requests - Logseq]]
+**

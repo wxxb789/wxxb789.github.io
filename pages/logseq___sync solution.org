@@ -1,0 +1,10 @@
+#+tags: sync, backup,
+
+* Issue of [[logseq]] [[readwise]] plugin
+** should escape #
+*** convert if not in code block, not in URL
+*** test 1, \#\#123, =#=123, =#########=
+*** regex replace '#' with ' # ' if no space around. around space once for a series of '#' symbol
+*** ### 1
+** should convert markdown style link to org-mode style
+** detect quote and source code, surround with different tag.

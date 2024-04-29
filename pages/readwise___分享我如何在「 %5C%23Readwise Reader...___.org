@@ -2,7 +2,6 @@
 :title: readwise/分享我如何在「 \#Readwise Reader...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[esorhjy on Twitter]]
@@ -11,10 +10,9 @@
 :url: https://twitter.com/esorhjy/status/1780614614470086775
 :image-url: https://pbs.twimg.com/profile_images/3693240956/9776b9b1bd78c3374d58534aa5974be7.jpeg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2024-04-19]]
 ** 📌 [[2024-04-17]]
-#+BEGIN_QUOTE
+#+BEGIN_SRC
 分享我如何在「 #Readwise Reader 」中設計自己需要的 Ghostreader prompts ，提供大家參考，或進一步修改成你的版本，也會分享我實際測試後，目前認為適合 Readwise Reader 的 AI 摘要指令設計邏輯。
 
 透過自己寫 AI 摘要提示語，我們可以讓摘要更符合自己的需要，更能快速掌握這篇文章是否能解決我的問題，甚至直接看出文章裡是否有我感興趣的內容，而且可以讓中英文文章都產生中文摘要。
@@ -52,4 +50,4 @@
 具體的設計心得，歡迎參考我的完整文章：https://t.co/AUPwneWb08
 
 ![](https://pbs.twimg.com/media/GLYDi7UbAAAZ-O1.jpg) 
-#+END_QUOTE\
+#+END_SRC
