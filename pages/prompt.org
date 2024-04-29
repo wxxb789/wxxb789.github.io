@@ -1,5 +1,8 @@
 #+alias: 咒语,
 
+* naming
+should be ~prompt/<version>/<name of prompt>~, other things should filled as tags.
+in short, version should be a prefix as prompt name.
 * resources
 **
 * techniques

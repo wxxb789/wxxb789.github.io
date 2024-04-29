@@ -1,5 +1,5 @@
 #+tags: azure, cli,
-#+alias: AzureCLI, azcli, azure cli
+#+alias: AzureCLI, azcli, azure cli, cli/azure,
 
 * china azure cloud [[azure/mooncake]] 
 #+BEGIN_SRC ps1

@@ -20,22 +20,15 @@ bbc.co.uk/learningenglish/chinese
 ted.com
 ** 听写
 TODO 如何听写
-
 ** 复述 retell
 TODO 如何复述
-
 *** 主干信息不能遗漏
 *** 细节信息越丰富越好
-
-** resources
+** [[resource]]
 *** CGTN
 *** BBC worldnews
 *** TED
 *** 每日英语听力 FM section app
-
 * 如何练习口语
 先输入后输出，先听后说
-
 ** talk with native speaker
-
-

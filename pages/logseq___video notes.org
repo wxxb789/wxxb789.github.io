@@ -1,4 +1,6 @@
-*
+#+tags: video notes, notes, bilibili,
+#+alias: logseq/视频笔记,
+
 * plugins
 ** media timestamp
 打时间戳

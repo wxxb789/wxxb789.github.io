@@ -1,0 +1,2 @@
+* prefer NOW, LATER, CANCELLED as my workflow
+*

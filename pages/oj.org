@@ -4,7 +4,10 @@
 ** [[ACM]]
 ** [[ACM-ICPC]]
 ** [[OI]],NOI
-* #glossary
+* [[glossary]]
+:PROPERTIES:
+:collapsed: true
+:END:
 ** AC
 Accepted
 ** PE
