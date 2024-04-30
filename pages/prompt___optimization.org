@@ -1,3 +1,5 @@
 *
-* [[https://promptperfect.jina.ai/][PromptPerfect - Elevate Your Prompts to Perfection. Prompt Engineering, Optimizing, Debugging and Hosting. (jina.ai)]]
+* [[tools]] [[ai]]
+[[https://promptperfect.jina.ai/][PromptPerfect - Elevate Your Prompts to Perfection. Prompt Engineering, Optimizing, Debugging and Hosting. (jina.ai)]]
+* [[prompt/Claude 3 Prompt Optimizer]]
 *

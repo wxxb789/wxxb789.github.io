@@ -1,0 +1,12 @@
+#+tags: db,
+
+*
+* distributed
+** [[litefs]]https://github.com/superfly/litefs
+** [[rqlite]]
+should create a cluster
+** [[dqlite]]
+fit for [[k8s]]
+** [[litestream]] 
+不支持多客户端同时备份
+**

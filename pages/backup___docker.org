@@ -1,0 +1,7 @@
+#+tags: backup, docker, tools,
+
+* solutions
+** [[dockup]]
+** [[docker/volumes-backup-extension]] desktop version only
+** [[rsync]]
+**

@@ -1,0 +1,5 @@
+* 问题
+logseq notes, teams chat, email, [[msw/connect]], 同事评价, 等等
+
+目标，给出一个树状大纲，和关键字，可以根据我的信息和风格写出一个完整的内容。
+* prompt v1

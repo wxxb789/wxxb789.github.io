@@ -1,1 +1,2 @@
-#+alias: Retrieval-Augmented Generation,
+#+alias: Retrieval-Augmented Generation, 
+#+tags: llm, ai,

@@ -5,6 +5,7 @@
 ** docker storage
 * db
 ** postgresql
-** sqlite
+** [[sqlite]]
 * cloud
+* [[restic]]
 *
