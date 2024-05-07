@@ -1,7 +1,7 @@
 #+alias: buylist, buy,
 
 * [[buylist/2022/11.11]]
-* [[buylist/2023/618]]
+* [[buylist/2023/06.18]]
 * [[buylist/2023/11.11]]
-* [[buylist/2024/618]]
+* [[buylist/2024/06.18]]
 * [[buylist/2024/11.11]]

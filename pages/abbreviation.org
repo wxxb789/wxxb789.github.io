@@ -16,3 +16,4 @@
 ** [[cs]]
 * work item should be WI
 ** [[msw/WI]] -> [[msw/WI]]
+* [[SDL]] stands for *Secure Development Lifecycle* [[abbr]]
