@@ -1,0 +1,6 @@
+* config path, to setup git folder
+
+#+BEGIN_SRC 
+~/.config/chezmoi/chezmoi.toml
+#+END_SRC
+*
