@@ -2,7 +2,6 @@
 :title: readwise/这次字符串反转的思考题其实来源自吴恩达老师新的a...
 :END:
 
-
 * metadata
 :PROPERTIES:
 :author: [[dotey on Twitter]]
@@ -11,7 +10,6 @@
 :url: https://twitter.com/dotey/status/1672483111895175170
 :image-url: https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs.jpeg
 :END:
-
 * Highlights first synced by [[Readwise]] [[2023-12-22]]
 ** 📌 [[2023-06-25]]
 #+BEGIN_QUOTE
@@ -44,5 +42,5 @@ Prompt也可以简化为：
 #+BEGIN_QUOTE
 还有很多精彩的回复我就不一一列举了，一如既往感谢大家的支持！
 
-#Prompt思考题 
+#prompt/思考题 
 #+END_QUOTE\

@@ -5,6 +5,7 @@ should be ~prompt/<version>/<name of prompt>~, other things should filled as tag
 in short, version should be a prefix as prompt name.
 * [[principle]]
 ** [[completeit?]] [[prompt]]
+** [[prompt/reflect]]
 * resources
 **
 * techniques
@@ -28,6 +29,8 @@ in short, version should be a prefix as prompt name.
 :id: 6629f367-7f39-4113-8e36-3463030f6339
 :END:
 ** [[prompt/system instructions]]
+** [[prompt/dev]]
+*** [[prompt/Software Design Document]]
 ** NOW [[prompt/writer]], rewirte, 风格转换
 :LOGBOOK:
 CLOCK: [2024-04-30 Tue 18:50:53]

@@ -3,6 +3,26 @@
 ** [[https://docs.logseq.com/#/page/advanced%20queries][Advanced Queries (logseq.com)]]
 * [[Datalog]]
 * Examples
-** #+BEGIN_SRC 
+** query all todos
+#+BEGIN_SRC 
 {{query (task NOW TODO DOING)}}
 #+END_SRC
+** query blocks with specific marker and namespace
+order by multiple properties
+#+BEGIN_SRC 
+{:title "🔨 MSW"
+ :query [:find (pull ?h [*])
+         :where
+         [?h :block/marker ?marker]
+         [(contains? #{"NOW" "DOING" "TODO" "LATER"} ?marker)]
+         [?h :block/path-refs [:block/name "msw"]]]
+ :result-transform (fn [result]
+                     (sort-by (fn [h]
+                                [(get h :block/priority "Z")
+                                 (get h :block/deadline 20990101)
+                                 (get h :block/scheduled 20990101)])
+                              result))
+ :group-by-page? false
+ :collapsed? false}
+#+END_SRC
+*

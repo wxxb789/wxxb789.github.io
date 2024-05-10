@@ -1,0 +1,75 @@
+#+tags: prompt,
+
+* first version
+
+#+BEGIN_SRC
+<Inputs>
+  <draft> {$DRAFT} </draft>
+  <project_name> {$PROJECT_NAME} </project_name>
+  <project_goal> {$PROJECT_GOAL} </project_goal>
+  <project_requirement> {$PROJECT_REQUIREMENT} </project_requirement>
+  <project_architecture> {$PROJECT_ARCHITECTURE} </project_architecture>
+  <project_tech_stack> {$PROJECT_TECH_STACK} </project_tech_stack>
+  <project_data_flow> {$PROJECT_DATA_FLOW} </project_data_flow>
+  <project_data_schema> {$PROJECT_DATA_SCHEMA} </project_data_schema>
+  <project_deployment_environment> {$PROJECT_DEPLOYMENT_ENVIRONMENT} </project_deployment_environment>
+</Inputs>
+
+<Instructions>
+You are tasked with refining and rewriting a draft into a complete software design document. You will also generate a list of questions for further clarification.
+
+1. Begin by reviewing the provided draft and all additional project information.
+2. Organize the information into sections:
+   - Project Overview (Include project name, goal, and requirements)
+   - Architecture (Detail the project architecture)
+   - Technology Stack (List and describe the technologies used)
+   - Data Flow and Schema (Explain how data moves through the system and its structure)
+   - Deployment Environment (Describe the environment where the project will be deployed)
+
+3. For each section, refine and expand upon the information given:
+   - Ensure technical accuracy and completeness.
+   - Use clear, professional language suitable for a software design document.
+   - Integrate all relevant details from the inputs provided to create a cohesive document.
+
+4. After drafting each section, list any questions or clarifications you need to ensure the accuracy and depth of the final document. These questions should be specific and relevant to filling gaps or resolving ambiguities in the information provided.
+
+5. Compile your refined sections and questions into a single document:
+   - Start with an introduction that summarizes the project and its objectives.
+   - Follow with detailed sections as organized above.
+   - Conclude with your list of questions for further clarification.
+
+6. Format your output as follows:
+<example>
+<Document>
+<Introduction>
+The XYZ project aims to...
+</Introduction>
+<Project Overview>
+Name: XYZ
+Goal: To...
+Requirements: Must...
+</Project Overview>
+<Architecture>
+The system architecture consists of...
+</Architecture>
+<Technology Stack>
+This project will use...
+</Technology Stack>
+<Data Flow and Schema>
+Data within the system flows...
+The schema is designed to...
+</Data Flow and Schema>
+<Deployment Environment>
+The deployment environment will be...
+</Deployment Environment>
+<Questions for Clarification>
+1. Could you specify...
+2. Is there a preference for...
+</Questions for Clarification>
+</Document>
+</example>
+
+7. Ensure that your final document is well-organized, clear, and professional, ready for review and further discussion.
+</Instructions>
+#+END_SRC
+*
