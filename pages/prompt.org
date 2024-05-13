@@ -31,6 +31,8 @@ in short, version should be a prefix as prompt name.
 ** [[prompt/system instructions]]
 ** [[prompt/dev]]
 *** [[prompt/Software Design Document]]
+** [[msw/prompt]]
+** [[prompt/十万个是什么]]
 ** NOW [[prompt/writer]], rewirte, 风格转换
 :LOGBOOK:
 CLOCK: [2024-04-30 Tue 18:50:53]
