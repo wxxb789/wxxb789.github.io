@@ -1,6 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Welcome to WXXB's 2nd Brain
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
