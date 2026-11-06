@@ -1,0 +1,44 @@
+# publish.config.yaml — every key is optional, and every key below is commented
+# out. Delete a "#" to use one. With this file exactly as written, the build
+# behaves as though it were not here at all.
+#
+# Everything in this repository publishes unless you exclude it. There is no
+# opt-in; the work is deciding what to withhold.
+
+# The site's name. Reaches the browser tab, page metadata, and the feed.
+title: "wxxb 的技术笔记"
+
+# The public address the site will be served from, with no path.
+#
+# Set this before you deploy. Without it every canonical link, the feed id, the
+# sitemap, and robots.txt point at a loopback name that reaches nobody — the
+# site builds and looks correct and is unreachable by anything that follows one
+# of those links.
+# origin: https://notes.example.org/
+
+# Paths not to publish, as gitignore-style globs. "!" re-includes.
+#
+# Quote every pattern. YAML reads an unquoted "!" as a tag and discards it,
+# which turns a rule that keeps a file into one that removes it.
+#
+# A pattern matching no files fails the build, with no override: a mistyped
+# exclusion publishes what it was meant to withhold.
+#
+# Do not add "dist/**". Every file in a build's output is already dropped as
+# not-markdown before exclusion is consulted, so the pattern changes a file's
+# reason for being dropped rather than whether it is walked — measured, the
+# discovered count goes up by one, not down, because the config file itself is
+# then discovered too. Keep build output out of git with .gitignore, which
+# this command seeds; exclude is for notes you wrote and do not want published.
+# exclude:
+#   - "drafts/**"
+#   - "private/**"
+
+# A single note can also withhold itself, which no glob can re-include:
+#
+#   ---
+#   publish: false
+#   ---
+#
+# Before deployment, run the installed command's "review" subcommand, inspect and
+# commit .publish-set.json, then build with "--release". Ordinary builds remain previews.
