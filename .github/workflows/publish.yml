@@ -1,0 +1,53 @@
+name: Publish site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # fetch-depth: 0 is not optional: the generator derives each note's created
+      # date from the first commit touching its path and refuses a shallow clone.
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      # The generator is this pin. The action builds with --release, so a missing,
+      # dirty, or stale .publish-set.json stops before any deployable artifact
+      # exists; run `anc review` locally and commit the result when the public
+      # slug set changes.
+      - uses: wxxb789/anc@0fa2c75
+        with:
+          content-dir: .
+          out-dir: dist
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
