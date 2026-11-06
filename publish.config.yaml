@@ -9,6 +9,7 @@
 title: "wxxb 的技术笔记"
 
 # The public address the site will be served from, with no path.
+origin: "https://wxxb789.github.io/"
 #
 # Set this before you deploy. Without it every canonical link, the feed id, the
 # sitemap, and robots.txt point at a loopback name that reaches nobody — the
