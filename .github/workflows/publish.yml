@@ -32,7 +32,7 @@ jobs:
       # dirty, or stale .publish-set.json stops before any deployable artifact
       # exists; run `anc review` locally and commit the result when the public
       # slug set changes.
-      - uses: wxxb789/anc@0fa2c75
+      - uses: wxxb789/anc@0fa2c75c0ebb3d65768aca4cfc36df737f3eae55
         with:
           content-dir: .
           out-dir: dist
