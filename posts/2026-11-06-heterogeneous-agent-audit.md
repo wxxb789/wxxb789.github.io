@@ -2,7 +2,7 @@
 title: "超四分之三的计划在现场被打补丁，为什么这恰恰证明无人值守流程跑通了"
 slug: heterogeneous-agent-audit
 language: zh-CN
-description: "预期 agent 照单全收，实测 13 份计划在现场被打补丁，却全程零事故。兜底的不是更细的计划，是一份 27 行契约。"
+description: "预期 agent 照单全收，实测 13 份计划被打补丁，却全程零事故；真正兜底的是一份 27 行契约。"
 tags:
   - agent
   - 工程实践
