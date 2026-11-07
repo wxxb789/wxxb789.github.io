@@ -33,19 +33,18 @@ publish: false
 
 ## 模型
 
-**成稿最终输出固定用 `gemini-4-argon`**，不换别的模型出终稿。理由：文字驾驭与结构感最好，发散能力可用于取角度。
-
-调用方式（本机 `local-chat` provider 指向 `http://localhost:4141/v1`）：
+**成稿最终输出固定用 `gemini-4-argon`，经 `pi` 调用**。pi 只带 prompt，不带工具定义与会话上下文，指令遵循比走完整 agent 更稳。
 
 ```bash
-hermes chat --oneshot --query-file /path/to/prompt.md \
-  -m gemini-4-argon --provider local-chat -t clarify --reasoning high -Q
+export PATH="$HOME/.local/share/mise/shims:$PATH"
+pi -p --no-tools --no-skills --model ghc-proxy-chat/gemini-4-argon \
+  --thinking high @prompt.md > draft.md
 ```
 
-- 长 prompt 一律走 `--query-file`，不塞命令行；prompt 里直接内联 `WRITING.md` 全文。
-- `-t clarify` 去掉写盘与 shell 工具，模型只返回文本。
-- 生成耗时可能到几分钟：用后台跑（`background=true, notify_on_complete=true`），不要用默认 180s 前台超时。
-- `pi -p --no-tools --no-skills --model ghc-proxy-chat/gemini-4-argon --thinking high @prompt.md` 等价；本机当前未装 `pi`/`omp` 二进制，装了优先用 `pi`。
+- pi / omp 由 mise 安装（`mise which pi`），shims 目录不在默认 PATH，调用前导出或用绝对路径。
+- 长 prompt 走 `@file`，单次约 150KB 可用，超长要分段；大附件在 omp 会被截断，那是兜底不是首选。
+- 后台跑，等完成通知或 `process_manage wait`，不要前台 sleep 轮询。
+- 兜底：`hermes chat --oneshot --query-file <p> -m gemini-4-argon --provider local-chat -t clarify --reasoning high -Q`。
 
 ## 发布门禁
 
