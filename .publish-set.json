@@ -1,6 +1,7 @@
 {
   "version": 1,
   "slugs": [
-    "heterogeneous-agent-audit"
+    "heterogeneous-agent-audit",
+    "ledger-only-proves-a-claim"
   ]
 }
