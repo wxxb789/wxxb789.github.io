@@ -28,11 +28,13 @@ jobs:
         with:
           node-version: 24
 
-      # The generator is this pin. The action builds with --release, so a missing,
+      # The generator is this pin: v0.0.3 (8552f12), bumped from v0.0.1 (0fa2c75),
+      # which was 55 commits behind and carried no image pipeline.
+      # The action builds with --release, so a missing,
       # dirty, or stale .publish-set.json stops before any deployable artifact
       # exists; run `anc review` locally and commit the result when the public
       # slug set changes.
-      - uses: wxxb789/anc@0fa2c75c0ebb3d65768aca4cfc36df737f3eae55
+      - uses: wxxb789/anc@8552f126844480a2c21d5b83a07a2ac5d2fb4d87
         with:
           content-dir: .
           out-dir: dist
