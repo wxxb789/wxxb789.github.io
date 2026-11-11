@@ -17,6 +17,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      snapshot: ${{ steps.identity.outputs.snapshot }}
     steps:
       # fetch-depth: 0 is not optional: the generator derives each note's created
       # date from the first commit touching its path and refuses a shallow clone.
@@ -39,6 +41,18 @@ jobs:
           content-dir: .
           out-dir: dist
 
+      # What this build produced, so the smoke job can prove the deployed origin
+      # is serving it rather than an older artifact. The snapshot's name is its
+      # content hash, which is what makes the comparison meaningful.
+      - name: Record the built snapshot identity
+        id: identity
+        run: |
+          set -euo pipefail
+          snapshot=$(grep -ho 'site\.[a-f0-9]\{64\}\.sqlite' dist/_astro/snapshot-worker-*.js | head -1)
+          test -n "$snapshot" || { echo "no snapshot reference in the worker chunk" >&2; exit 1; }
+          test -f "dist/data/$snapshot" || { echo "dist/data/$snapshot missing" >&2; exit 1; }
+          echo "snapshot=$snapshot" >> "$GITHUB_OUTPUT"
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -46,6 +60,8 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -53,3 +69,50 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Stage 14 of the publish contract: after the origin serves the new artifact,
+  # prove it does — the failure this catches is a site that stays on an older
+  # build while every earlier job is green.
+  smoke:
+    needs: [build, deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Smoke the deployed origin
+        env:
+          ORIGIN: ${{ needs.deploy.outputs.page_url }}
+          EXPECTED_SNAPSHOT: ${{ needs.build.outputs.snapshot }}
+        run: |
+          set -euo pipefail
+          origin="${ORIGIN%/}"
+          fail() { echo "smoke: $*" >&2; exit 1; }
+
+          code=$(curl -sS -o /tmp/home.html -w '%{http_code}' "$origin/")
+          [ "$code" = "200" ] || fail "homepage returned $code"
+
+          # Page -> layout chunk -> worker chunk -> snapshot. Each link is a
+          # reference the build emitted, so following them tests the deployed
+          # artifact rather than a hand-written URL.
+          chunk=$(grep -o '/_astro/Layout[^"]*\.js' /tmp/home.html | head -1)
+          [ -n "$chunk" ] || fail "homepage references no layout chunk"
+          curl -sS "$origin$chunk" -o /tmp/layout.js
+          worker=$(grep -o 'snapshot-worker-[A-Za-z0-9_-]*\.js' /tmp/layout.js | head -1)
+          [ -n "$worker" ] || fail "layout chunk references no worker chunk"
+          curl -sS "$origin/_astro/$worker" -o /tmp/worker.js
+          deployed=$(grep -o 'site\.[a-f0-9]\{64\}\.sqlite' /tmp/worker.js | head -1)
+          [ -n "$deployed" ] || fail "worker chunk names no snapshot"
+
+          [ "$deployed" = "$EXPECTED_SNAPSHOT" ] || fail "origin serves $deployed, this build produced $EXPECTED_SNAPSHOT (stale deploy)"
+
+          code=$(curl -sS -o /tmp/snapshot -w '%{http_code}' "$origin/data/$deployed")
+          [ "$code" = "200" ] || fail "snapshot returned $code"
+          size=$(wc -c < /tmp/snapshot)
+          [ "$size" -gt 0 ] || fail "snapshot is empty"
+
+          # A note page exists and carries rendered content.
+          note=$(curl -sS "$origin/recent/" | grep -o '/notes/[a-z0-9-]*/' | head -1)
+          [ -n "$note" ] || fail "no note route on /recent/"
+          code=$(curl -sS -o /tmp/note.html -w '%{http_code}' "$origin$note")
+          [ "$code" = "200" ] || fail "note $note returned $code"
+          grep -q '<article' /tmp/note.html || fail "note $note carries no article"
+
+          echo "smoke ok: $origin serves $deployed (${size} B snapshot), $note renders"
