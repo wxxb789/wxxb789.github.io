@@ -44,7 +44,9 @@ export PATH="$HOME/.local/share/mise/shims:$PATH"
 
 **三模型流水线（DeepSeek V4.1 flash / Gemini 4 argon / Gemini 4 carbon + DeepSeek 选版）只用于评审与查错，不用于出稿。** 实测（2026-11-12，同一篇 A 稿两轮对照）它能稳定抓到单模型看不见的四类错：删掉承重证据、数字自相矛盾、承诺式开头、编造材料里没有的出处；但成稿能力不稳——小节数与小句节奏仍不如单模型三轮，且评委自己会把违禁的承诺清单读成「结构感」。命令与产物：`~/claw/tools/blog-three-model.sh --prompt <p> --out <dir>`。
 
-- **初稿无论用哪个模型，一律低推理档**（`--thinking low`）——三个候选模型在 `blog-three-model.sh` 里都硬编码 low，不按模型分别设。开高会让模型逐句权衡，交回更均匀、更像算法排版的文字。高推理档只给写前规划、契约评审、事实核验这类「想」的任务。旧版本此处写的 `--thinking high` 与 `WRITING.md` 冲突，已作废。
+- **凡是要给人读的正文，一律低推理档**（`--thinking low`）：初稿、逐条改、定点收紧、三模型迭代，不分模型、不分轮次。低档交回的句子更顺；档次开高会把文字熬成均匀的算法腔。
+- **审计可以用 `high` / `max`**：事实核验、契约评审、选版判断、查无出处清单。但审计只出意见与判据，**不许直接生成或改写正文**——改稿必须由走 low 的那一轮做。`blog-three-model.sh` 里 `JUDGE_THINKING` 默认 `high`，出稿与改稿入口硬编码 `low`。
+- 旧版本这段写的 `--thinking high` 与 `WRITING.md` 冲突，已作废。
 - 一律经 `~/claw/tools/pi-run.sh` 调用，**不要裸调 `pi`**：`--no-tools` 下会自己「想去查/去跑命令」的推理模型（实测 `deepseek-v4.1-flash`）可能只产出 thinking 块、没有 text 块，`pi` 打印 **0 字节并 exit 0**——是空回答，不是上游故障。wrapper 加 guard、重试一次、再落兜底模型，全空时退出码 3。细节见 skill `agent-harness-model-gateways` 第 15 条。
 - pi / omp 由 mise 安装（`mise which pi`），shims 目录不在默认 PATH，调用前导出或用绝对路径。
 - 长 prompt 走 `@file`，单次约 150KB 可用，超长要分段；大附件在 omp 会被截断，那是兜底不是首选。
