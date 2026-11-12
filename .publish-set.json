@@ -3,6 +3,7 @@
   "slugs": [
     "heterogeneous-agent-audit",
     "ledger-only-proves-a-claim",
-    "probe-a-noop-binary"
+    "probe-a-noop-binary",
+    "the-model-stopped-talking"
   ]
 }
