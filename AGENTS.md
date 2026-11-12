@@ -35,23 +35,17 @@ publish: false
 
 ## 模型
 
-**成稿走三模型流水线，最终选版与整合由 `DeepSeek V4.1 flash` 做**（owner 2026-11-12 定）。三个候选：`tencent-litellm/deepseek-v4.1-flash`、`ghc-proxy-chat/gemini-4-argon`、`ghc-proxy-chat/gemini-4-carbon`。
-
-四轮，一条命令跑完（`~/claw/tools/blog-three-model.sh`）：
-
-1. **三版草稿**：三个模型用同一份 prompt 各出一版。prompt 必带站点写作契约（脚本默认注入 `WRITING.md` 全文）+ 一条写作纪律抬头，模型不许裸写。
-2. **对比与意见**：DeepSeek 三版合看，逐版给 3–6 条**可执行的替换动作**（按 `## DEEPSEEK` / `## ARGON` / `## CARBON` 分节），不许写「可以更紧凑」这类形容词。
-3. **迭代一轮**：三版各按自己那节意见改一轮，其余不动。
-4. **选版**：DeepSeek 从三个迭代版里挑一版作为最终输出，并写清选版理由与另两版的死因（只按契约判，不看文风偏好）。
+**成稿用单模型三轮：`ghc-proxy-chat/gemini-4-carbon`**（owner 2026-11-12 定）。三轮 = 初稿 → 按逐条清单改 → 定点收紧，每轮都回源核事实。
 
 ```bash
 export PATH="$HOME/.local/share/mise/shims:$PATH"
-~/claw/tools/blog-three-model.sh --prompt prompts/70-draft-B.md --out out/B
-# draft-{deepseek,argon,carbon}.md → review.md → v2-*.md → decision.md → final.md
+~/claw/tools/pi-run.sh --model ghc-proxy-chat/gemini-4-carbon --thinking low -o draft-v1.md @prompts/40-draft.md
 ```
 
+**三模型流水线（DeepSeek V4.1 flash / Gemini 4 argon / Gemini 4 carbon + DeepSeek 选版）只用于评审与查错，不用于出稿。** 实测（2026-11-12，同一篇 A 稿两轮对照）它能稳定抓到单模型看不见的四类错：删掉承重证据、数字自相矛盾、承诺式开头、编造材料里没有的出处；但成稿能力不稳——小节数与小句节奏仍不如单模型三轮，且评委自己会把违禁的承诺清单读成「结构感」。命令与产物：`~/claw/tools/blog-three-model.sh --prompt <p> --out <dir>`。
+
 - **一律低推理档**（`--thinking low`）。开高会让模型逐句权衡，交回更均匀、更像算法排版的文字。高推理档只给写前规划、契约评审、事实核验这类「想」的任务。旧版本此处写的 `--thinking high` 与 `WRITING.md` 冲突，已作废。
-- 三个模型都经 `~/claw/tools/pi-run.sh` 调用，**不要裸调 `pi`**：`--no-tools` 下会自己「想去查/去跑命令」的推理模型（实测 `deepseek-v4.1-flash`）可能只产出 thinking 块、没有 text 块，`pi` 打印 **0 字节并 exit 0**——是空回答，不是上游故障。wrapper 加 guard、重试一次、再落兜底模型，全空时退出码 3。细节见 skill `agent-harness-model-gateways` 第 15 条。
+- 一律经 `~/claw/tools/pi-run.sh` 调用，**不要裸调 `pi`**：`--no-tools` 下会自己「想去查/去跑命令」的推理模型（实测 `deepseek-v4.1-flash`）可能只产出 thinking 块、没有 text 块，`pi` 打印 **0 字节并 exit 0**——是空回答，不是上游故障。wrapper 加 guard、重试一次、再落兜底模型，全空时退出码 3。细节见 skill `agent-harness-model-gateways` 第 15 条。
 - pi / omp 由 mise 安装（`mise which pi`），shims 目录不在默认 PATH，调用前导出或用绝对路径。
 - 长 prompt 走 `@file`，单次约 150KB 可用，超长要分段；大附件在 omp 会被截断，那是兜底不是首选。
 - 后台跑，等完成通知或 `process_manage wait`，不要前台 sleep 轮询。
