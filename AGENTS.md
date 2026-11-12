@@ -46,7 +46,7 @@ export PATH="$HOME/.local/share/mise/shims:$PATH"
 
 - **凡是要给人读的正文，一律低推理档**（`--thinking low`）：初稿、逐条改、定点收紧、三模型迭代，不分模型、不分轮次。低档交回的句子更顺；档次开高会把文字熬成均匀的算法腔。
 - **审计可以用 `high` / `max`**：事实核验、契约评审、选版判断、查无出处清单。但审计只出意见与判据，**不许直接生成或改写正文**——改稿必须由走 low 的那一轮做。`blog-three-model.sh` 里 `JUDGE_THINKING` 默认 `high`，出稿与改稿入口硬编码 `low`。
-- 旧版本这段写的 `--thinking high` 与 `WRITING.md` 冲突，已作废。
+- 旧版本此处写的 `--thinking high` 与 skill `writing` 的「低推理档」规则冲突（owner 2026-11-12 把范围从「终稿」扩到「初稿与修订」），已作废。`WRITING.md` 本身没有推理档条款，别去那里找。
 - 一律经 `~/claw/tools/pi-run.sh` 调用，**不要裸调 `pi`**：`--no-tools` 下会自己「想去查/去跑命令」的推理模型（实测 `deepseek-v4.1-flash`）可能只产出 thinking 块、没有 text 块，`pi` 打印 **0 字节并 exit 0**——是空回答，不是上游故障。wrapper 加 guard、重试一次、再落兜底模型，全空时退出码 3。细节见 skill `agent-harness-model-gateways` 第 15 条。
 - pi / omp 由 mise 安装（`mise which pi`），shims 目录不在默认 PATH，调用前导出或用绝对路径。
 - 长 prompt 走 `@file`，单次约 150KB 可用，超长要分段；大附件在 omp 会被截断，那是兜底不是首选。
