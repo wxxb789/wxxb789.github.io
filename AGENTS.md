@@ -26,6 +26,9 @@ publish: false
 
 ## 成稿流水线
 
+**执行者：Studio**（owner 2026-11-14；见 `~/claw/bots/studio/AGENTS.md`）。Zoe 负责上游（选题 → 事实清单）
+与发布门禁（`git push` 前的核对 + 标题 3 选 1 交 owner）。产线正本：ob-flow `gtd/projects/content-brand/_index.md`。
+
 1. **归集事实**：素材来自 owner 对话、`~/claw/tasks/<date>/<task>/` 下的 run-log / ledger / 报告、ob-flow 笔记。先把数字、时间、命令、事件先后整理成事实清单，每个数字标出处；冲突照实写冲突，不替 owner 择一。
 2. **定系列与选题**：按 `BRIEF.md` 确认这一篇承担哪个决定、属于哪个系列、素材够不够、要不要拆篇。三问答不出就停，不写。
 3. **写稿**：事实清单 + `BRIEF.md` + `WRITING.md` 全文一起给模型，一次出稿。标题先出 3 个候选（附承诺与兑现表），由 owner 选。
