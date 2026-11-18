@@ -30,13 +30,15 @@ jobs:
         with:
           node-version: 24
 
-      # The generator is this pin: v0.0.3 (8552f12), bumped from v0.0.1 (0fa2c75),
-      # which was 55 commits behind and carried no image pipeline.
+      # The generator is this pin: v0.0.5 (cb6e51c), bumped from v0.0.3 (8552f12).
+      # 0.0.5 renders diagrams with pele at build time — the mermaid dependency
+      # and its client-side runtime are gone, and the CSP style-src no longer
+      # needs 'unsafe-inline' for them.
       # The action builds with --release, so a missing,
       # dirty, or stale .publish-set.json stops before any deployable artifact
       # exists; run `anc review` locally and commit the result when the public
       # slug set changes.
-      - uses: wxxb789/anc@8552f126844480a2c21d5b83a07a2ac5d2fb4d87
+      - uses: wxxb789/anc@cb6e51c952c56b872af4724ec8a25eab67a8e4d2
         with:
           content-dir: .
           out-dir: dist
