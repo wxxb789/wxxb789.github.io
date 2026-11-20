@@ -1,6 +1,7 @@
 {
   "version": 1,
   "slugs": [
+    "agent-wrote-outside-its-surface",
     "heterogeneous-agent-audit",
     "ledger-only-proves-a-claim",
     "probe-a-noop-binary",
