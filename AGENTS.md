@@ -21,6 +21,7 @@ publish: false
 | `BRIEF.md` | 系列与选题：写几篇、每篇写什么、素材够不够 |
 | `publish.config.yaml` | 站点配置（title / origin / exclude） |
 | `.publish-set.json` | 发布集，`review` 生成，需提交 |
+| `scripts/lint-posts.mjs` | 成稿机械检查（零依赖，`node` ≥22）：error 拦发布，warning 是启发式提示 |
 
 `WRITING.md` / `AGENTS.md` 自身带 `publish: false`，不进站点。新增说明类文件同样处理。
 
@@ -32,8 +33,8 @@ publish: false
 1. **归集事实**：素材来自 owner 对话、`~/claw/tasks/<date>/<task>/` 下的 run-log / ledger / 报告、ob-flow 笔记。先把数字、时间、命令、事件先后整理成事实清单，每个数字标出处；冲突照实写冲突，不替 owner 择一。
 2. **定系列与选题**：按 `BRIEF.md` 确认这一篇承担哪个决定、属于哪个系列、素材够不够、要不要拆篇。三问答不出就停，不写。
 3. **写稿**：事实清单 + `BRIEF.md` + `WRITING.md` 全文一起给模型，一次出稿。标题先出 3 个候选（附承诺与兑现表），由 owner 选。
-4. **核对**：逐条数字回源比对；跑 `WRITING.md` 第 6 节自检；`markdownlint-cli2` 过一遍。新视角必须能追到 `推断：` 标记。
-5. **构建**：commit → `node ~/repos/anc/bin/anc.mjs build --content . --out dist` → 读 `content-report.json`（`dropped` 里只该有配置文件和 `publish: false` 的说明文件）。
+4. **核对**：逐条数字回源比对；跑 `WRITING.md` 第 11 节自检；`markdownlint-cli2` 过一遍；`node scripts/lint-posts.mjs posts/<file>.md` 的 error 必须清零，warning 逐条判断（句长、段长、升维词等是启发式，可能误报）。CI 对每次 push 新增的文章跑同一检查，有 error 就不部署；改旧稿（如回填下文链接）不触发拦截，但改到的那篇也要本地跑一遍。新视角必须能追到 `推断：` 标记。
+5. **构建**：commit → `node ~/repos/anc/bin/anc.mjs build --content . --out dist` → 读 `content-report.json`（`dropped` 里只该有配置文件、`publish: false` 的说明文件，以及正文引用的图片——图片记为 `not-markdown`，但照常作为资源发布）。
 6. **发布**：owner 已授权直接推。`git push origin main` 触发 GitHub Pages 部署，用 `gh run watch` 看结论，部署后回读线上页面确认标题与正文。
 
 ## 模型
@@ -60,4 +61,5 @@ export PATH="$HOME/.local/share/mise/shims:$PATH"
 
 - `git push` 会触发 GitHub Pages 部署，属于公开发布。当前 owner 已授权本仓库直接推送；换成别的站点或加新内容域前，仍先问。
 - 不提交 `.env`、不 force-push、不改写历史。
+- 提交身份固定为 owner：`wxxb789 <wxxb789@outlook.com>`。commit 前跑 `git var GIT_AUTHOR_IDENT` 核对；不许用 `git -c user.name=… -c user.email=…` 或 `GIT_AUTHOR_*` 换成 bot 名（历史上出现过 `Zoe <zoe@local>`）。不符就停手报告，不要自己改全局 git 配置。
 - 预览构建与 release 构建不是一回事：`build` 是预览，`build --release` 需要已提交且未变的 `.publish-set.json`。CI 走 release 路径。

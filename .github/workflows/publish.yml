@@ -30,6 +30,22 @@ jobs:
         with:
           node-version: 24
 
+      - name: Lint posts added by this push
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+          if [ -z "${BEFORE:-}" ] || ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+            echo "no push base to diff against; skipping post lint"
+            exit 0
+          fi
+          mapfile -t added < <(git diff --name-only --diff-filter=A "$BEFORE" HEAD -- 'posts/*.md')
+          if [ "${#added[@]}" -eq 0 ]; then
+            echo "no posts added by this push"
+            exit 0
+          fi
+          node scripts/lint-posts.mjs "${added[@]}"
+
       # The generator is this pin: v0.0.5 (cb6e51c), bumped from v0.0.3 (8552f12).
       # 0.0.5 renders diagrams with pele at build time — the mermaid dependency
       # and its client-side runtime are gone, and the CSP style-src no longer
