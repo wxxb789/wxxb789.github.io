@@ -97,4 +97,4 @@ uv run --with pytest --with pyyaml pytest -q tests/harness/test_bot_materialize.
 
 - 上文：[一万行计划没教会 agent 停手，契约教会了](/notes/heterogeneous-agent-audit/)，「一张发给 Agent 的工牌」系列的入口篇：无人值守时，先给执行者划一条它自己就能判断的停手线。
 - 下文：[账本只能证明有人申报过](/notes/ledger-only-proves-a-claim/)，顺着本文的验收问题往下走：怎么让验收不依赖执行者的口头申报。
-- 旁支：这次是机械门禁沉默了一整周才被人抓到——「失败在无人知晓处」系列处理的是同一种失败方式：定时任务、同步与告警的共同毛病是不出声。
+- 旁支：[模型没变慢，它不说话了](/notes/the-model-stopped-talking/)，同样是一种不出声的失败，只是换到了模型调用上：按调用计的延迟曲线是平的，一半以上的主线程响应里却一个字的正文都没有。

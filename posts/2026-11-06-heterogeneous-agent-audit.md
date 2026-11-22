@@ -28,9 +28,9 @@ tags:
 
 那晚非交互 agent 串行跑完全部计划，直到凌晨一点半才停下。16 份执行报告落盘后，我逐一核对运行摘要，发现竟有 13 份专门写下了「与计划的偏差」。偏差集中在三类问题：路径不对、计划自带的脚本不可用、改造前快照已过期。推断：计划越细越能提早暴露与真实环境的冲突，依据是计划写死绝对路径与前置检查命令，环境不对就在动手前报错。
 
-第一幕出在第一份计划，执行者刚动手就去核查目标同步脚本 `git-sync-common.sh`。计划要求挂一个按退出码判定成败的监控钩子，执行者读完脚本源码却当场停住了。它在报告里记下原话："sync_fail() in git-sync-common.sh always exit 0 (stdout is the alert, by design). An exit-code-only hook would record every failure as OK."目标同步脚本的 `sync_fail()` 失败分支永远返回 `exit 0`，告警只走标准输出。照计划硬上会把每次同步失败都记成成功。执行者随即放弃退出码方案，改成在启动时快照日志行数，只查本次新增日志行里的 `FAIL(`。
+第一幕出在第一份计划，执行者刚动手就去核查目标同步脚本 `git-sync-common.sh`。计划要求挂一个按退出码判定成败的监控钩子，执行者读完脚本源码却当场停住了。它在报告里记下原话："sync_fail() in git-sync-common.sh always exit 0 (stdout is the alert, by design). An exit-code-only hook would record every failure as OK."目标同步脚本的 `sync_fail()` 失败分支永远返回 `exit 0`，告警只走标准输出。按退出码判定的钩子只认[Bash 手册里「0 即成功」的退出状态约定](https://www.gnu.org/software/bash/manual/html_node/Exit-Status.html)，照计划硬上会把每次同步失败都记成成功。执行者随即放弃退出码方案，改成在启动时快照日志行数，只查本次新增日志行里的 `FAIL(`。
 
-跑第二份计划时，计划自带的反推脚本 `discover_all_host_skills()` 把顶层分类目录（`apple`、`github` 等）和叶子技能名混进同一集合，且 `Path.rglob` 不跟随符号链接。这直接导致 `~/.agents/skills` 下的近百个可用技能全部漏掉，还把一批已归档的失效名字算成可用。执行者继续往下核对时又抓出两处净回归：按计划做整文件覆盖会删掉 `reconcile` 的两层委派与 `drift-check` 的几项检查。它当即把技能扫描改成两层遍历，并用 `hermes skills list --enabled-only` 快照做断言。同时它放弃整文件覆盖，改成新增专注写入器并在 `reconcile` 上加一层。
+跑第二份计划时，计划自带的反推脚本 `discover_all_host_skills()` 把顶层分类目录（`apple`、`github` 等）和叶子技能名混进同一集合。`Path.rglob` 展开 `**` 时又默认不跟随符号链接，见 [Python 文档里 `rglob` 的 `recurse_symlinks` 参数](https://docs.python.org/3/library/pathlib.html#pathlib.Path.rglob)。这直接导致 `~/.agents/skills` 下的近百个可用技能全部漏掉，还把一批已归档的失效名字算成可用。执行者继续往下核对时又抓出两处净回归：按计划做整文件覆盖会删掉 `reconcile` 的两层委派与 `drift-check` 的几项检查。它当即把技能扫描改成两层遍历，并用 `hermes skills list --enabled-only` 快照做断言。同时它放弃整文件覆盖，改成新增专注写入器并在 `reconcile` 上加一层。
 
 到了第七份计划，计划要求给每份来源材料计算内容哈希做去重。执行者检查目标仓库时撞上了红线，因为仓库契约明文规定：「内容哈希已于 2026-10-13 全仓退役，Git 即字节一致性层」，禁止重复算哈希。更棘手的是那份计划照着旧目录编写，它要改的角色目录在稍早的重构里已经消失。执行者当场停手，在报告里列出了几条带文件行号的冲突证据。它随后附上几套可选方案及各自代价，把抉择留给我早上醒来只回一个字母。
 
@@ -78,7 +78,7 @@ You are an autonomous executor applying ONE approved improvement plan to a produ
 
 要把这条判据落进自动化流程，只需在调用前塞入硬契约与冲突规则，并在运行中留下追加式账本与验证摘要。
 
-追加式账本从备份开始，一对一对记下启动和结束，最后一行是 `all-done`，能看清整晚跑过哪些计划、停在哪一步。但账本里的 `exit 0` 只代表进程没崩溃，遇上永远返回零的同步脚本照样会漏掉假成功。所以账本之外还得要备份路径与验证输出，早上先扫账本，再读偏差摘要。
+追加式账本按 [JSON Lines 格式规范](https://jsonlines.org/)一行记一条 JSON。它从备份开始，一对一对记下启动和结束，最后一行是 `all-done`，能看清整晚跑过哪些计划、停在哪一步。但账本里的 `exit 0` 只代表进程没崩溃，遇上永远返回零的同步脚本照样会漏掉假成功。所以账本之外还得要备份路径与验证输出，早上先扫账本，再读偏差摘要。
 
 ## 边界：这套流程不便宜，改单个定时任务不值
 
@@ -89,5 +89,5 @@ You are an autonomous executor applying ONE approved improvement plan to a produ
 ---
 
 - **上文**：本文是「一张发给 Agent 的工牌」系列入口篇，从无人值守改造的第一道防线写起。
-- **下文**：当同步脚本永远以退出码 0 结束时，如何防止定时任务静默停摆，见「失败在无人知晓处」系列。
-- **旁支**：为什么靠纯文本账本与文件维持连续性，而不靠模型上下文记事，见「记忆不在上下文里」系列。
+- **下文**：[修完一周后，越界从文件挪到了字段](/notes/agent-wrote-outside-its-surface/)，同一系列的下一篇：契约立住之后，执行者的越界怎么从写错文件变成多改字段。
+- **旁支**：[账本只能证明有人申报过](/notes/ledger-only-proves-a-claim/)，本文账本里的 `exit 0` 为什么证明不了活干完了，以及怎样把产物指纹写进同一条记录。
