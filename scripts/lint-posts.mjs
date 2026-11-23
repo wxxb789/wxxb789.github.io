@@ -10,9 +10,12 @@ const BANNED_TITLE_WORDS = ["一文读懂", "深度解析", "浅谈", "你必须
 const ESCALATION_WORDS = ["本质上", "归根结底", "说到底", "更深一层", "根源在于"];
 const STRAWMAN_PHRASES = ["有人可能会问", "你可能会觉得", "你可能会问", "有人会说"];
 const PARAGRAPH_OPENERS = ["值得注意的是", "事实上", "此外", "然而"];
-const MAX_SENTENCE_CHARS = 55;
-const MAX_PARAGRAPH_CHARS = 250;
-const MIN_EXTERNAL_LINKS = 3;
+const DRAMA_WORDS = ["迎头相撞", "死局", "钉死", "铁律", "死规矩", "浮出", "撕开", "掀开", "下刀", "横竖", "真相", "盲区", "接缝", "纹丝不动", "干干净净", "硬生生", "当场", "顺手牵羊", "一劳永逸", "从来不是", "唯一正确"];
+const INTENSIFIERS = ["必须", "绝不", "根本", "绝对", "彻底"];
+const INFERENCE_LABELS = ["推断：", "未验证假设"];
+const MAX_INTENSIFIERS_PER_1000 = 1;
+const MAX_PARAGRAPH_CHARS = 300;
+const MAX_PUNCH_PARAGRAPH_CHARS = 20;
 const SERIES_LABELS = ["上文", "下文", "旁支"];
 
 function listPosts() {
@@ -61,7 +64,7 @@ function paragraphsOf(lines) {
     const isProse = text.trim() !== "" && !/^\s*(#|\||[-*+]\s|\d+\.\s|---\s*$)/.test(text);
     if (isProse) {
       if (current) current.text += text.trim();
-      else current = { text: text.replace(/^>\s?/, "").trim(), line };
+      else current = { text: text.replace(/^>\s?/, "").trim(), line, isQuote: /^\s*>/.test(text) };
     } else if (current) {
       paragraphs.push(current);
       current = null;
@@ -73,10 +76,6 @@ function paragraphsOf(lines) {
 
 function renderedText(markdown) {
   return markdown.replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/\*\*|__/g, "");
-}
-
-function countedSentenceText(rendered) {
-  return rendered.replace(/`[^`]*`/g, "").replace(/「[^」]*」|“[^”]*”|"[^"]*"/g, "");
 }
 
 function charCount(text) {
@@ -130,12 +129,6 @@ function lintPost(file, publishedSlugs) {
   }
 
   const lines = proseLines(body, bodyStartLine);
-  const bodyText = lines.map((l) => l.text).join("\n");
-
-  const externalLinks = bodyText.match(/\]\(https?:\/\/[^)]+\)/g) ?? [];
-  if (externalLinks.length < MIN_EXTERNAL_LINKS) {
-    report("error", bodyStartLine, "external-links", `${externalLinks.length} external links, need at least ${MIN_EXTERNAL_LINKS} (WRITING.md §8)`);
-  }
 
   for (const { text: lineText, line } of lines) {
     for (const [, target] of lineText.matchAll(/\]\(\/notes\/([^/)#]+)\/?[^)]*\)/g)) {
@@ -164,31 +157,55 @@ function lintPost(file, publishedSlugs) {
 
   const paragraphs = paragraphsOf(lines);
   const openerParagraphs = paragraphs.filter((p) => PARAGRAPH_OPENERS.some((opener) => p.text.startsWith(opener)));
-  const openerLimit = Math.max(1, Math.floor(paragraphs.reduce((sum, p) => sum + charCount(renderedText(p.text)), 0) / 1000));
+  const proseChars = paragraphs.reduce((sum, p) => sum + charCount(renderedText(p.text)), 0);
+  const openerLimit = Math.max(1, Math.floor(proseChars / 1000));
   if (openerParagraphs.length > openerLimit) {
     for (const p of openerParagraphs) {
-      report("warning", p.line, "paragraph-opener", `${openerParagraphs.length} paragraphs open with a connector, limit ${openerLimit} for this length (WRITING.md §9)`);
+      report("warning", p.line, "paragraph-opener", `${openerParagraphs.length} paragraphs open with a connector, limit ${openerLimit} for this length (WRITING.md §5)`);
     }
   }
 
   for (const paragraph of paragraphs) {
     const rendered = renderedText(paragraph.text);
-    if (charCount(rendered.replaceAll("`", "")) > MAX_PARAGRAPH_CHARS) {
-      report("warning", paragraph.line, "paragraph-length", `paragraph has ${charCount(rendered.replaceAll("`", ""))} chars, limit ${MAX_PARAGRAPH_CHARS} (WRITING.md §5)`);
+    const chars = charCount(rendered.replaceAll("`", ""));
+    if (chars > MAX_PARAGRAPH_CHARS) {
+      report("warning", paragraph.line, "paragraph-length", `paragraph has ${chars} chars, limit ${MAX_PARAGRAPH_CHARS} (WRITING.md §5)`);
     }
-    for (const sentence of sentencesOf(rendered)) {
-      if (charCount(countedSentenceText(sentence)) > MAX_SENTENCE_CHARS) {
-        report("warning", paragraph.line, "sentence-length", `${charCount(countedSentenceText(sentence))} chars: ${sentence.slice(0, 30)}… (WRITING.md §6, limit ${MAX_SENTENCE_CHARS})`);
-      }
+    const isPunchLine = !paragraph.isQuote && sentencesOf(rendered).length === 1 && chars <= MAX_PUNCH_PARAGRAPH_CHARS && !/[：:]$/.test(rendered) && !/\d/.test(rendered);
+    if (isPunchLine) {
+      report("warning", paragraph.line, "punch-paragraph", `「${rendered}」 stands alone as a verdict; fold it into the paragraph whose evidence it sums up (WRITING.md §5)`);
+    }
+  }
+
+  const intensifierHits = [];
+  for (const { text: lineText, line } of lines) {
+    if (/^#{2,}\s/.test(lineText) && /[？?]\s*$/.test(lineText)) {
+      report("warning", line, "question-heading", `heading is a question; name what the section covers (WRITING.md §4)`);
+    }
+    if (/^\s*(#|\|)/.test(lineText)) continue;
+    for (const word of DRAMA_WORDS) {
+      if (lineText.includes(word)) report("warning", line, "drama-word", `「${word}」; say who did what and what happened (WRITING.md §6)`);
+    }
+    for (const label of INFERENCE_LABELS) {
+      if (lineText.includes(label)) report("warning", line, "inference-label", `「${label}」; state the uncertainty in plain words inside the sentence (WRITING.md §7)`);
+    }
+    for (const word of INTENSIFIERS) {
+      for (let i = lineText.indexOf(word); i !== -1; i = lineText.indexOf(word, i + 1)) intensifierHits.push({ word, line });
+    }
+  }
+  const intensifierLimit = Math.max(1, Math.floor((proseChars * MAX_INTENSIFIERS_PER_1000) / 1000));
+  if (intensifierHits.length > intensifierLimit) {
+    for (const { word, line } of intensifierHits) {
+      report("warning", line, "intensifier", `「${word}」: ${intensifierHits.length} intensifiers, limit ${intensifierLimit} for this length; give the condition and consequence instead (WRITING.md §6)`);
     }
   }
 
   for (const { text: lineText, line } of lines) {
     for (const word of ESCALATION_WORDS) {
-      if (lineText.includes(word)) report("warning", line, "escalation-word", `「${word}」 (WRITING.md §9 升维, limit 0)`);
+      if (lineText.includes(word)) report("warning", line, "escalation-word", `「${word}」 (WRITING.md §6 升维)`);
     }
     for (const phrase of STRAWMAN_PHRASES) {
-      if (lineText.includes(phrase)) report("warning", line, "strawman", `「${phrase}」 (WRITING.md §9 假想反驳, limit 0)`);
+      if (lineText.includes(phrase)) report("warning", line, "strawman", `「${phrase}」 (WRITING.md §6 假想反驳; a real question needs who asked it)`);
     }
   }
 

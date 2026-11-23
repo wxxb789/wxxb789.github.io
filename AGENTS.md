@@ -30,16 +30,16 @@ publish: false
 **执行者：Studio**（owner 2026-11-14；见 `~/claw/bots/studio/AGENTS.md`）。Zoe 负责上游（选题 → 事实清单）
 与发布门禁（`git push` 前的核对 + 标题 3 选 1 交 owner）。产线正本：ob-flow `gtd/projects/content-brand/_index.md`。
 
-1. **归集事实**：素材来自 owner 对话、`~/claw/tasks/<date>/<task>/` 下的 run-log / ledger / 报告、ob-flow 笔记。先把数字、时间、命令、事件先后整理成事实清单，每个数字标出处；冲突照实写冲突，不替 owner 择一。
+1. **归集事实**：素材来自 owner 对话、`~/claw/tasks/<date>/<task>/` 下的 run-log / ledger / 报告、ob-flow 笔记。先把数字、时间、命令、事件先后整理成事实清单，每个数字标出处；冲突照实写冲突，不替 owner 择一。素材里缺 owner 的第一人称经历时（`WRITING.md` 第 1 节第 5 项），先向 owner 问两三个具体问题，回答原样记进清单，标「owner 原话」；正文里的「我」只从这里取。
 2. **定系列与选题**：按 `BRIEF.md` 确认这一篇承担哪个决定、属于哪个系列、素材够不够、要不要拆篇。三问答不出就停，不写。
 3. **写稿**：事实清单 + `BRIEF.md` + `WRITING.md` 全文一起给模型，一次出稿。标题先出 3 个候选（附承诺与兑现表），由 owner 选。
-4. **核对**：逐条数字回源比对；跑 `WRITING.md` 第 11 节自检；`markdownlint-cli2` 过一遍；`node scripts/lint-posts.mjs posts/<file>.md` 的 error 必须清零，warning 逐条判断（句长、段长、升维词等是启发式，可能误报）。CI 对每次 push 新增的文章跑同一检查，有 error 就不部署；改旧稿（如回填下文链接）不触发拦截，但改到的那篇也要本地跑一遍。新视角必须能追到 `推断：` 标记。
+4. **核对**：逐条数字回源比对；跑 `WRITING.md` 第 11 节自检；`markdownlint-cli2` 过一遍；`node scripts/lint-posts.mjs posts/<file>.md` 的 error 必须清零，warning 逐条判断（段长、单句段、用词表等是启发式，可能误报）。CI 对每次 push 新增的文章跑同一检查，有 error 就不部署；改旧稿（如回填下文链接）不触发拦截，但改到的那篇也要本地跑一遍。跨材料推出的新视角，正文要在同一句里交代依据。
 5. **构建**：commit → `node ~/repos/anc/bin/anc.mjs build --content . --out dist` → 读 `content-report.json`（`dropped` 里只该有配置文件、`publish: false` 的说明文件，以及正文引用的图片——图片记为 `not-markdown`，但照常作为资源发布）。
 6. **发布**：owner 已授权直接推。`git push origin main` 触发 GitHub Pages 部署，用 `gh run watch` 看结论，部署后回读线上页面确认标题与正文。
 
 ## 模型
 
-**成稿用单模型三轮：`ghc-proxy-chat/gemini-4-carbon`**（owner 2026-11-12 定）。三轮 = 初稿 → 按逐条清单改 → 定点收紧，每轮都回源核事实。
+**成稿用单模型三轮：`ghc-proxy-chat/gemini-4-carbon`**（owner 2026-11-12 定）。三轮 = 初稿 → 按逐条清单改 → 去味，每轮都回源核事实。第三轮只许删句和把句子改平（对照 `WRITING.md` 第 6、9 节），不许新增句子；新增内容回到第二轮做。
 
 ```bash
 export PATH="$HOME/.local/share/mise/shims:$PATH"
@@ -48,7 +48,7 @@ export PATH="$HOME/.local/share/mise/shims:$PATH"
 
 **三模型流水线（DeepSeek V4.1 flash / Gemini 4 argon / Gemini 4 carbon + DeepSeek 选版）只用于评审与查错，不用于出稿。** 实测（2026-11-12，同一篇 A 稿两轮对照）它能稳定抓到单模型看不见的四类错：删掉承重证据、数字自相矛盾、承诺式开头、编造材料里没有的出处；但成稿能力不稳——小节数与小句节奏仍不如单模型三轮，且评委自己会把违禁的承诺清单读成「结构感」。命令与产物：`~/claw/tools/blog-three-model.sh --prompt <p> --out <dir>`。
 
-- **凡是要给人读的正文，一律低推理档**（`--thinking low`）：初稿、逐条改、定点收紧、多模型迭代，不分模型、不分轮次。低档交回的句子更顺；档次开高会把文字熬成均匀的算法腔。
+- **凡是要给人读的正文，一律低推理档**（`--thinking low`）：初稿、逐条改、去味、多模型迭代，不分模型、不分轮次。低档交回的句子更顺；档次开高会把文字熬成均匀的算法腔。
 - **审计不设档位约束**：事实核验、契约评审、选版判断、查无出处清单，用模型默认档即可（`blog-three-model.sh` 里 `JUDGE_THINKING` 默认空 = 不传 `--thinking`）。审计只出意见与判据，**不许直接生成或改写正文**——改稿必须由走 low 的那一轮做。
 - 旧版本此处写的 `--thinking high` 与 skill `writing` 的「低推理档」规则冲突（owner 2026-11-12 把范围从「终稿」扩到「初稿与修订」），已作废。`WRITING.md` 本身没有推理档条款，别去那里找。
 - 一律经 `~/claw/tools/pi-run.sh` 调用，**不要裸调 `pi`**：`--no-tools` 下会自己「想去查/去跑命令」的推理模型（实测 `deepseek-v4.1-flash`）可能只产出 thinking 块、没有 text 块，`pi` 打印 **0 字节并 exit 0**——是空回答，不是上游故障。wrapper 加 guard、重试一次、再落兜底模型，全空时退出码 3。细节见 skill `agent-harness-model-gateways` 第 15 条。
